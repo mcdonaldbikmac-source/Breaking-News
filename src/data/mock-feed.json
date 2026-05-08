@@ -1,5 +1,225 @@
 [
   {
+    "id": "56dff9c1-cf81-4910-acf9-e15d8dd84683",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Suspected BlackRock address deposits $124M in BTC, ETH to Coinbase",
+    "summary": "An address believed to belong to BlackRock has deposited 1,224 BTC (worth approximately $98.16 million) and 11,475 ETH (worth approximately $26.27 million) to Coinbase, according to Onchain Lens.",
+    "url": "https://t.me/CoinnessGL#ac962b29",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T11:18:41+00:00"
+  },
+  {
+    "id": "7b643b53-083b-4517-9817-63f37cd87a59",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bernstein sees 71% upside for Coinbase stock",
+    "summary": "U.S. investment bank Bernstein said Coinbase's strategy to become a comprehensive exchange beyond just spot trading is beginning to pay off, The Block reported. As a result, Bernstein has maintained its price target for Coinbase at $330, representing roughly 71% upside potential from its current price. The bank added that despite disappointing first-quarter results, Coinbase's derivatives, prediction markets, and payments businesses are showing significant growth. Bernstein highlighted that the prediction market business has surpassed an annualized revenue of $100 million, while the retail and institutional derivatives businesses are each growing to an annual revenue scale of over $200 million.",
+    "url": "https://t.me/CoinnessGL#75cedd5d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T11:17:53+00:00"
+  },
+  {
+    "id": "3ae07b57-9930-487f-a212-2ec09672e045",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Fed's Milan says rate cut appropriate, current policy suppressing labor market",
+    "summary": "Federal Reserve Governor Milan has stated that an interest rate cut is appropriate, assessing that the central bank's current monetary policy is suppressing the labor market.",
+    "url": "https://t.me/CoinnessGL#4bf4f488",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T11:07:18+00:00"
+  },
+  {
+    "id": "81fd7ab2-e8ea-41e7-9242-6b3066401cea",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bernstein says Coinbase’s ‘everything exchange’ strategy is gaining traction despite weak first-quarter results, sees 71% upside",
+    "summary": "1. The analysts maintained an outperform rating and $330 price target on Coinbase despite weaker first-quarter results.",
+    "url": "https://www.theblock.co/post/400552/bernstein-says-coinbases-everything-exchange-strategy-is-gaining-traction-despite-weak-first-quarter-results-sees-71-upside?utm_source=rss&utm_medium=rss",
+    "author": "James Hunt",
+    "created_at": "2026-05-08T11:05:37.000Z"
+  },
+  {
+    "id": "f974b73f-8f9b-411b-b9f7-a686acf81429",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin eyes $80K reclaim as traders say these BTC price support levels must hold",
+    "summary": "1. Bitcoin retagged $80,000 after falling 3% on Iran concerns, while traders flagged important BTC price support levels to preserve next.",
+    "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-reclaim-traders-say-these-btc-price-support-levels-must-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-05-08T11:00:16.000Z"
+  },
+  {
+    "id": "5c8f268e-34b0-4eaf-9cd9-22db98e18b53",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Senator Warren presses Meta over stablecoin trial ahead of 2026 rollout plans",
+    "summary": "1. Senator Elizabeth Warren questioned Meta over its stablecoin trial, citing Libra risks and 2026 integration plans.",
+    "url": "https://www.theblock.co/post/400556/senator-warren-presses-meta-over-stablecoin-trial-ahead-of-2026-rollout-plans?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-08T10:58:45.000Z"
+  },
+  {
+    "id": "397f3975-9e7d-444a-9940-504f032ed5ff",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Nvidia is now worth more than the economies of Japan, India and the U.K., with market value surpassing $5TTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#5f1506f5",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-08T10:55:22+00:00"
+  },
+  {
+    "id": "61f36197-f219-4411-9457-9f1aabf2b9e3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitcoin and Ethereum remain the most widely held digital assets among fund managers, while interest in Aave, Sui, and Tron is growing, per CoinShares.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f368c13d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-08T10:39:41+00:00"
+  },
+  {
+    "id": "5d9c661a-567e-47b6-a42c-feae561ef4f8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Tether freezes over $500M of USDT in 30 days, BlockSec data shows",
+    "summary": "1. BlockSec data shows Tether froze over $500 million in USDT across 370 Ethereum and Tron addresses in 30 days, adding to $1.26 billion frozen in 2025 linked to illicit activity.",
+    "url": "https://cointelegraph.com/news/tether-freezes-over-500m-usdt-30-days-blocksec-data-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-05-08T10:35:59.000Z"
+  },
+  {
+    "id": "a7329a92-2f6c-409c-a964-4b30144dcb73",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Whale Potentially Linked to Erik Voorhees Spends Another $6.67M on ETH",
+    "summary": "1. A mysterious crypto whale with alleged ties to industry veteran Erik Voorhees has added another $6.67 million in ether to a position that has already accumulated more than $266 million worth of the token.\n2. Massive Accumulation Adds to $266M Position A crypto whale identified by onchain analysts as linked to Erik Voorhees, co-founder of Shapeshift […]",
+    "url": "https://news.bitcoin.com/erik-voorhees-whale-buys-6-million-eth-may-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-08T10:30:56.000Z"
+  },
+  {
+    "id": "918f1d5c-76bd-4863-baa9-b3c1abef8db1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Zcash's price is surging as retail interest in privacy coins grows amid tighter KYC rules and rising surveillance concerns, per Santiment.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#afc5d857",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-08T10:24:16+00:00"
+  },
+  {
+    "id": "1412265e-0eeb-44bc-8c50-3956b6af0828",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin retreats below $80,000, liquidating $300 million in futures bets",
+    "summary": "1. BTC fell under $80,000 after U.S.\n2. strikes in Iran sent oil briefly above $100, triggering liquidations and a shift toward bearish positioning.",
+    "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets",
+    "author": "Oliver Knight",
+    "created_at": "2026-05-08T10:21:03.000Z"
+  },
+  {
+    "id": "a64971b0-7768-4b53-9e2b-b31c48af30e4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin ETFs snap 5-day inflow streak as BTC dips under $80K",
+    "summary": "1. Bitcoin ETFs snap a five-day $1.7 billion inflow streak with $277.5 million of outflows as Bitcoin falls below $80,000 amid sharp intraday volatility.",
+    "url": "https://cointelegraph.com/news/bitcoin-etf-snap-5-day-inflow-streak-btc-dip-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-05-08T10:20:05.000Z"
+  },
+  {
+    "id": "cced0d45-34f7-43f9-9425-b21b081d657e",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "AUSTRAC Launches Supervision Campaigns as Australia's Crypto Regulatory Reforms Kick In",
+    "summary": "1. The campaigns target over-the-counter operators and local exchanges as new laws expand oversight to custody and brokerage services.",
+    "url": "https://decrypt.co/367236/austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-kick-in",
+    "author": "Decrypt Agent",
+    "created_at": "2026-05-08T10:13:11.000Z"
+  },
+  {
+    "id": "b58fa420-58ed-4cf6-9f3a-8c60301bd9b4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Stablecoin card spend is growing 100% year over year, Rain exec says",
+    "summary": "1. Stablecoin settlement enables weekend/holiday settlement, reducing trapped capital by over 40%.\n2. This improves card economics and financial flexibility for issuers.",
+    "url": "https://www.coindesk.com/business/2026/05/08/stablecoin-card-spend-is-growing-100-year-over-year-rain-exec-says",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-05-08T10:11:13.000Z"
+  },
+  {
+    "id": "2d3d32c0-c9dd-4fae-860c-bfdfad640b3b",
+    "source": "The Block",
+    "type": "rss",
+    "title": "ECB’s Lagarde flags euro-denominated stablecoins as financial stability risk, diverging from Bundesbank stance",
+    "summary": "1. The ECB President argued that euro-denominated stablecoins risk financial stability and monetary policy, pushing for a digital euro instead.",
+    "url": "https://www.theblock.co/post/400548/ecbs-lagarde-flags-euro-denominated-stablecoins-as-financial-stability-risk-diverging-from-bundesbank-stance?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-08T10:07:40.000Z"
+  },
+  {
+    "id": "742f3223-f306-40b1-92a6-6fe9f7269039",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "IRAN SEIZES OIL TANKER OCEAN KOI(state media says vessel was carrying Iranian oil and belonged to Tehran’s sanctioned shadow fleet)Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#49a3c37f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-08T09:52:24+00:00"
+  },
+  {
+    "id": "c656a509-9cf1-48d5-9349-4446e7b77f4a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 JPMorgan says Strategy's Bitcoin buying could hit $30 billion in 2026, after the firm already added 145,834 BTC worth $11B so far this year.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7d0e0350",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-08T09:44:25+00:00"
+  },
+  {
+    "id": "2219ee2e-848c-42f1-a2f4-e16f3cc1f906",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin shows 2-cent price on Revolut as users report apparent BTC display glitch",
+    "summary": "1. Screenshots showed BTC briefly far below global market prices, though it remains unclear whether any trades were executed at those levels or whether the move was a display issue.",
+    "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-shows-2-cent-price-on-revolut-as-users-report-apparent-btc-display-glitch",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-08T09:39:13.000Z"
+  },
+  {
+    "id": "603c401f-8290-4486-8a20-d3b922a0bb69",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tether Freezes $515 Million in USDT Across 371 Addresses in 30 Days",
+    "summary": "1. Tether has blacklisted 371 addresses and frozen approximately $515 million worth of USDT across the Ethereum and Tron networks over the past 30 days, new data shows.\n2. Escalating Compliance Measures According to data from Blocksec’s USDT Freeze Tracker, Tether blacklisted 371 addresses on Ethereum and Tron combined.\n3. Of those, 329 freeze actions were executed on […]",
+    "url": "https://news.bitcoin.com/tether-freezes-515-million-usdt-371-addresses-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-08T09:30:18.000Z"
+  },
+  {
+    "id": "82b362b2-ba2c-4264-ab39-42d10c991496",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Robinhood CEO Says US ‘Very Close’ to Passing Crypto Clarity Act",
+    "summary": "1. Robinhood’s Vlad Tenev revealed the U.S.\n2. is on the verge of passing the Crypto Clarity Act, legislation that would establish a formal regulatory framework for digital assets in America for the first time.\n3. Landmark Legislation for Digital Finance The co-founder and chief executive of Robinhood said Friday that the U.S.",
+    "url": "https://news.bitcoin.com/crypto-clarity-act-us-close-robinhood-tenev-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-08T08:30:21.000Z"
+  },
+  {
+    "id": "652dd33c-564f-4f82-8d3a-9aab1f57873a",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "Highlights from the All Core Developers Execution (ACDE) Call #236",
+    "summary": "1. Highlights from the All Core Developers Execution (ACDE) Call #236",
+    "url": "https://reddit.com/r/ethereum/comments/1t71fcz/highlights_from_the_all_core_developers_execution/",
+    "author": "u/Y_K_C_",
+    "created_at": "2026-05-08T08:05:24.000Z"
+  },
+  {
     "id": "bab4ff22-1ab7-4307-9b21-53c2303fb69c",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -120,7 +340,7 @@
     "created_at": "2026-05-08T07:08:24+00:00"
   },
   {
-    "id": "3b614144-540e-4010-8085-5d7407ec9472",
+    "id": "1b9fe2a4-ea8e-403f-8791-7a2d77220b61",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Germany could end its tax-free crypto holding period in push for higher digital asset tax revenue.Twitter",
@@ -180,7 +400,7 @@
     "created_at": "2026-05-08T06:30:37.000Z"
   },
   {
-    "id": "cef5dcfe-c571-48f3-b373-5d844223db0e",
+    "id": "89b53a24-738a-451d-8e08-8c85f5345120",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Coinbase crypto trading remains down for over 5 hours as outage continues.@WatcherGuru",
@@ -248,175 +468,5 @@
     "url": "https://t.me/CoinnessGL#5d9c760c",
     "author": "@CoinnessGL",
     "created_at": "2026-05-08T05:19:40+00:00"
-  },
-  {
-    "id": "1fefd2c8-ff75-4673-9fec-e9f87d92c0b4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack",
-    "summary": "1. Chaos Labs said on Thursday it has rotated all keys since the attempted attack over the weekend and hasn't detected any suspicious activity since.",
-    "url": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-08T05:16:42.000Z"
-  },
-  {
-    "id": "acf0128c-67d2-4486-ae8a-f47b0b14ffdc",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase to resume trading in phases after AWS server overheating",
-    "summary": "Cryptocurrency exchange Coinbase has announced a service disruption caused by rising server room temperatures in the AWS US-EAST-1 region. The exchange said it plans to resume trading soon as systems are normalized. To ensure stability, all markets will first reopen in \"Cancel Only\" mode, allowing users to cancel existing orders before placing new ones.",
-    "url": "https://t.me/CoinnessGL#ff0486b6",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T05:11:47+00:00"
-  },
-  {
-    "id": "f6bec3e3-0824-471b-98a2-2b1d07f7a3dc",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record",
-    "summary": "1. Bitcoin pulled back from this week's $81,500 high after U.S.\n2. forces fired on Iranian targets, while crypto futures markets logged their 67th straight day of negative funding rates, the longest streak in a decade per K33 Research.",
-    "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-slips-to-usd79-000-doge-leads-majors-losses-as-negative-funding-rates-set-10-year-record",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-08T05:00:28.000Z"
-  },
-  {
-    "id": "f75ce673-f5c8-49da-9ecc-e6e4ecffc78c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Why you can never get your doctor to call you back",
-    "summary": "1. Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them.\n2. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "author": "Connie Loizos",
-    "created_at": "2026-05-08T04:42:29.000Z"
-  },
-  {
-    "id": "7a7fd391-fecf-48e3-bc96-bc5552d04167",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Kraken Parent Payward Buys Reap Technologies for $600M to Build Stablecoin Payment Rails",
-    "summary": "1. Payward Inc., the parent company of cryptocurrency exchange Kraken, announced on Thursday that it has agreed to acquire Hong Kong-based Reap Technologies Holdings for up to $600 million in a mix of cash and stock, in a deal that values Payward at $20 billion.\n2. Payward Locks in $600M Reap Acquisition as Stablecoin Card Market Tops […]",
-    "url": "https://news.bitcoin.com/kraken-parent-payward-buys-reap-technologies-for-600m-to-build-stablecoin-payment-rails/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-08T04:30:55.000Z"
-  },
-  {
-    "id": "95edca7e-7244-48c0-ad93-16057dad3107",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Hakeem Jeffries doubles down on 'maximum warfare' rhetoric, tells critics 'I don't give a damn':",
-    "url": "https://trumpstruth.org/statuses/38268",
-    "author": "Trump Truth",
-    "created_at": "2026-05-08T04:16:26.000Z"
-  },
-  {
-    "id": "9cb12ab9-7988-46a8-a560-671467a88361",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Coinbase shares slide on $400M Q1 loss, revenue miss",
-    "summary": "1. Coinbase financial chief Alesia Haas said “macro conditions were genuinely tough,” while CEO Brian Armstrong highlighted a plan to diversify beyond spot trading.",
-    "url": "https://cointelegraph.com/news/coinbase-shares-slide-q1-loss-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-08T04:12:44.000Z"
-  },
-  {
-    "id": "20c43579-8df8-46ba-a04f-7066135bf222",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Leon Panetta on Iran, Ukraine and the new global power struggle",
-    "summary": "1. Leon Panetta on Iran, Ukraine and the new global power struggle",
-    "url": "https://www.politico.com/video/2026/05/07/leon-panetta-on-iran-ukraine-and-the-new-global-power-struggle-2039826",
-    "author": "Politico",
-    "created_at": "2026-05-08T03:59:00.000Z"
-  },
-  {
-    "id": "7e7187ed-2641-432f-b083-2fa7b4cc87e7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bermuda Pushes New USDC Airdrop as Premier Burt Targets Local Merchants",
-    "summary": "1. Bermuda is transitioning from blockchain experimentation to practical implementation with the announcement of a new USDC stablecoin airdrop and a merchant onboarding program.\n2. Strategic Expansion of USDC Airdrops Bermuda is expanding its push into digital currency by launching a new stablecoin distribution and a comprehensive merchant onboarding program, Premier David Burt announced on May 6.",
-    "url": "https://news.bitcoin.com/bermuda-pushes-new-usdc-airdrop-as-premier-burt-targets-local-merchants/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-08T03:30:52.000Z"
-  },
-  {
-    "id": "b03fad72-2de3-41d5-a2ab-b096fe68c7ad",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Block Inc rises 8% as Q1 gives ‘earnings surprise’ despite Bitcoin dip ",
-    "summary": "1. Block’s Q1 earnings beat estimates despite Bitcoin revenue falling 26% on changing Bitcoin “trading dynamics” and reducing fees on Cash App transactions.",
-    "url": "https://cointelegraph.com/news/blocks-rises-8-percent-after-q1-earnings-surprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-08T03:20:03.000Z"
-  },
-  {
-    "id": "7ba298dc-deca-4ae3-99c0-1aa8e987144e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "24-hour crypto futures liquidations",
-    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $109.15 million liquidated (88.76% longs)- ETH: $80.53 million liquidated (91.49% longs)- TON: $25.46 million liquidated (51.82% longs)",
-    "url": "https://t.me/CoinnessGL#ca825c6a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T03:13:40+00:00"
-  },
-  {
-    "id": "b0b6ee41-9a70-4482-b8d2-9057504e7445",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot ETH ETFs see $103.5M in net outflows",
-    "summary": "U.S. spot Ethereum ETFs recorded a total net outflow of $103.51 million on May 7, according to data compiled by Trader T. This marks a shift to net outflows after four consecutive days of net inflows.- BlackRock's ETHA: -$26.31 million- Fidelity's FETH: -$62.26 million- 21Shares' TETH: -$2.86 million- Grayscale's ETHE: -$8.38 million- Grayscale's Mini ETH: -$3.70 million",
-    "url": "https://t.me/CoinnessGL#461600c5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T03:12:21+00:00"
-  },
-  {
-    "id": "c299dded-a94e-4d39-bf8b-822f0f1b172c",
-    "source": "r/cryptocurrency",
-    "type": "reddit",
-    "title": "Coinbase Q1 2026 Earnings Reveal $394M Loss as Revenue Drops 31%",
-    "summary": "1. Coinbase Q1 2026 Earnings Reveal $394M Loss as Revenue Drops 31%",
-    "url": "https://reddit.com/r/CryptoCurrency/comments/1t6vvp0/coinbase_q1_2026_earnings_reveal_394m_loss_as/",
-    "author": "u/ourcryptotalk",
-    "created_at": "2026-05-08T03:10:16.000Z"
-  },
-  {
-    "id": "2d7483a8-2355-45f8-b80f-62b140171339",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Democrats may pull support for Clarity Act over ethics rules",
-    "summary": "U.S. Senate Democrats are considering withdrawing their support for the Clarity Act if it does not include ethics provisions for public officials regarding cryptocurrency, Politico reported, citing three sources. The key point of contention is whether to add the provisions during the Senate Banking Committee's vote. Republicans argue the matter is outside the committee's jurisdiction and propose adding the rules at the full floor stage, a position Democrats have rejected. Sen. Ruben Gallego of Arizona, who has been leading the ethics negotiations for the Democrats, reportedly stated in a private meeting on April 29 that the provisions must be incorporated at the committee level. The push for these ethics rules is reportedly fueled by concerns surrounding the Trump family's cryptocurrency business. Meanwhile, industry observers expect the bill's markup to proceed next week.",
-    "url": "https://t.me/CoinnessGL#81f46e4e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T02:58:12+00:00"
-  },
-  {
-    "id": "b3dc0272-81b9-44f6-a827-f6236b885a36",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Bitwise launched its first tokenized fund, the Bitwise Crypto Carry Fund, taking it over from Superstate and capturing the spread between crypto spot and futures prices.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#95157fe5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-08T02:44:27+00:00"
-  },
-  {
-    "id": "96ada89a-106f-4cff-9fb6-dfe56bfd72c2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Must Hold $88.88K to Confirm a BTC Bottom, Analysis",
-    "summary": "1. An analysis shared by Cryptoquant indicates bitcoin must reclaim and hold $88,880 before traders can confirm a BTC bottom.\n2. UTXO age bands identified several realized price levels where trapped buyers could add resistance during recovery attempts.\n3. Bitcoin UTXO Age Bands Show What Could Confirm a BTC Bottom Cryptoquant, an on-chain and market data analytics firm, […]",
-    "url": "https://news.bitcoin.com/bitcoin-must-hold-88-88k-to-confirm-a-btc-bottom-analysis/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-08T02:30:08.000Z"
-  },
-  {
-    "id": "e54c1d14-a837-442a-a1c1-57087fdb42e0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Solv Protocol drops LayerZero in favor of Chainlink for $700 million tokenized bitcoin",
-    "summary": "1. It cited security as the core reason for the migration, in an apparent response to the recent exploit of LayerZero-powered Kelp DAO.",
-    "url": "https://www.theblock.co/post/400520/solv-protocol-layerzero-chainlink?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-08T02:17:09.000Z"
   }
 ]
