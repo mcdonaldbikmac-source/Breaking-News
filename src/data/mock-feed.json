@@ -1,5 +1,305 @@
 [
   {
+    "id": "7d3c6d55-a1b6-46eb-ba09-fbdddf97b450",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP pushes toward $1.40 as tightening range lowers breakout chances",
+    "summary": "1. Price moved higher on a late volume burst, with traders watching whether compression near $1.39-$1.40 finally resolves into a larger move.",
+    "url": "https://www.coindesk.com/markets/2026/05/08/xrp-pushes-toward-usd1-40-as-tightening-range-lowers-breakout-chances",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-08T14:53:20.000Z"
+  },
+  {
+    "id": "59637811-8f73-463d-a23a-82ff2728586c",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Huge win for the Republican Party, and America, in Virginia.\n2. The Virginia Supreme Court has just struck down the Democrats’ horrible gerrymander.\n3. MAKE AMERICA GREAT AGAIN!",
+    "url": "https://trumpstruth.org/statuses/38275",
+    "author": "Trump Truth",
+    "created_at": "2026-05-08T14:52:51.000Z"
+  },
+  {
+    "id": "4f38cd24-4155-4485-b99a-3a8ab7ba6350",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Amazing — Bryson doing 30 Pull Ups at the White House for the reinstatement of the Presidential Fitness Test!\n2. President DJT",
+    "url": "https://trumpstruth.org/statuses/38276",
+    "author": "Trump Truth",
+    "created_at": "2026-05-08T14:52:27.000Z"
+  },
+  {
+    "id": "709c0e20-ded8-4b40-8316-bdfcb94284fc",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Bryson DeChambeau and Gary Player doing 50 Push Ups at the White House for the reinstatement of the Presidential Fitness Test!\n2. President DJT",
+    "url": "https://trumpstruth.org/statuses/38277",
+    "author": "Trump Truth",
+    "created_at": "2026-05-08T14:51:25.000Z"
+  },
+  {
+    "id": "990ba256-304e-4244-9534-3472d054604d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Revolut blames third-party provider for BTC price glitch showing $0.02",
+    "summary": "Neobank Revolut has attributed a price error that briefly showed BTC at $0.02 on its app to an issue with an unspecified third-party service provider. According to Decrypt, the company stated that the problem has since been resolved and that prices now reflect market conditions. Revolut added that it is currently reviewing the details behind the third-party provider's service interruption. It is not known whether any trades were executed at the incorrect price. more:",
+    "url": "https://t.me/CoinnessGL#c1efb97a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T14:50:12+00:00"
+  },
+  {
+    "id": "7d81298f-64ca-4208-8232-329c95426f4c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BlackRock, Fidelity deposit $80.3M in ETH to Coinbase Prime",
+    "summary": "According to Lookonchain, BlackRock and Fidelity have deposited Ethereum worth approximately 110 billion won ($80.3 million) to Coinbase Prime over the past three hours. BlackRock transferred around 11,475 ETH three hours ago, while Fidelity moved 23,919 ETH within the past hour.",
+    "url": "https://t.me/CoinnessGL#ddc23d72",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T14:43:40+00:00"
+  },
+  {
+    "id": "575366be-8b16-4e26-b572-95f21102cb84",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Truecaller slashes 70 jobs amid declining ad sales",
+    "summary": "1. Truecaller's ad revenue declined by 44%, leading to the layoffs.",
+    "url": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-05-08T14:41:53.000Z"
+  },
+  {
+    "id": "30c4e494-a909-4ca7-8b22-9cf77cbfc537",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "310,000,000 USDC transferred from Ethena to unknown wallet",
+    "summary": "Whale Alert reported that 310,000,000 USDC has been transferred from Ethena to an unknown wallet. The transaction is valued at about $310 million.",
+    "url": "https://t.me/CoinnessGL#7ea0f0c8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T14:36:52+00:00"
+  },
+  {
+    "id": "f66c7f54-8a78-4cb6-95a0-241008b47eaa",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase Points to Multi-Zone AWS Failures Behind Outage",
+    "summary": "1. Coinbase said AWS failures disrupted core trading services after errors spread across multiple zones.\n2. The company traced the outage to use1-az4 in AWS’s US-EAST-1 Region.\n3. Coinbase Points to AWS Failures After Trading Services Went Down Crypto exchange Coinbase (Nasdaq: COIN) disclosed through Coinbase Support that a May 7 outage disrupted core trading services after failures […]",
+    "url": "https://news.bitcoin.com/coinbase-points-to-multi-zone-aws-failures-behind-outage/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-08T14:30:13.000Z"
+  },
+  {
+    "id": "888c4f0f-e6d4-4ffb-93c9-0eeb575a70f4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+    "summary": "1. Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15.\n2. Register today to hear this session live on the Builders Stage.",
+    "url": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+    "author": "TechCrunch Events",
+    "created_at": "2026-05-08T14:30:00.000Z"
+  },
+  {
+    "id": "1c24cf10-6ed2-44c9-a22d-8f1a4d079015",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Price Crashes Near Zero on Revolut, Blamed on Third-Party Service Disruption",
+    "summary": "1. Bitcoin briefly plummeted to about 2 cents on Revolut due to what the financial platform described as a third-party service disruption.",
+    "url": "https://decrypt.co/367258/bitcoin-price-crashes-near-zero-revolut-third-party-disruption",
+    "author": "Andrew Hayward",
+    "created_at": "2026-05-08T14:29:52.000Z"
+  },
+  {
+    "id": "933a09af-eaf5-4888-a16d-8b9632d92f9c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bernstein sets $100 IREN target after $3.4 billion NVIDIA AI deal",
+    "summary": "1. Bernstein analysts set $100 IREN target after NVIDIA deal, citing $3.4B cloud contract and 76% implied upside.",
+    "url": "https://www.theblock.co/post/400571/bernstein-100-iren-target-3-4-billion-nvidia-ai-deal?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-08T14:07:34.000Z"
+  },
+  {
+    "id": "21d6f8e2-41fa-4def-9341-346bdee7a9de",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin rally cools as April jobs fails to break macro ceiling with Iran tensions and ETF outflows in play",
+    "summary": "1. Bitcoin holds near $80,200 after April nonfarm payrolls beat expectations as Iran tensions and ETF outflows check the rally.",
+    "url": "https://www.theblock.co/post/400567/bitcoin-rally-cools-as-april-jobs-fails-to-break-macro-ceiling-with-iran-tensions-and-etf-outflows-in-play?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-08T14:02:11.000Z"
+  },
+  {
+    "id": "314fc33d-5f3c-4647-b9aa-80ad66d9d151",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Europe sees ‘hyperconcentration’ of crypto wrench attacks as losses hit $101M",
+    "summary": "1. Criminal teams behind wrench attacks usually consist of three to five people, often posing as delivery drivers or luring victims into ambushes, said CertiK.",
+    "url": "https://cointelegraph.com/news/europe-crypto-wrench-attacks-losses-101m-certik-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-05-08T14:00:00.000Z"
+  },
+  {
+    "id": "0e4484a8-2033-4250-b3e4-67cdb3279ca4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+    "summary": "1. Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026.\n2. Bring a partner, co-founder, or colleague at half off.\n3. Register now.",
+    "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+    "author": "TechCrunch Events",
+    "created_at": "2026-05-08T14:00:00.000Z"
+  },
+  {
+    "id": "253005cc-79e3-40f6-b989-d24bc8eb2e02",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Australian police seize $4.1M in Bitcoin tied to darknet market",
+    "summary": "1. NSW Police said the Bitcoin was allegedly linked to illegal darknet marketplace activity involving drugs and weapons.",
+    "url": "https://cointelegraph.com/news/australian-police-seize-41m-bitcoin-largest-dark-net-bust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-05-08T13:56:57.000Z"
+  },
+  {
+    "id": "380c04a8-4ce9-4886-8693-c5cd81432a61",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇷 South Korea has passed an amendment requiring crypto exchanges and custodians to register with the finance minister before handling cross-border digital asset transfers.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#57a94900",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-08T13:54:45+00:00"
+  },
+  {
+    "id": "6a3ab742-f4fe-4a06-acbe-a0a4ad044e57",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "XRP New Addresses, Active Supply Plunge Amid Shift to ‘Institutional Rails’",
+    "summary": "1. New XRP addresses hit multi-year lows, per Glassnode data, as the network shifts from \"retail speculation\" to institutional usage.",
+    "url": "https://decrypt.co/367253/xrp-new-addresses-active-supply-plunge-amid-shift-to-institutional-rails",
+    "author": "Akash Girimath",
+    "created_at": "2026-05-08T13:34:29.000Z"
+  },
+  {
+    "id": "1b24e746-c342-443a-891b-b1deef854abb",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "How AI became crypto's favorite reason to cut staff",
+    "summary": "1. Coinbase, Block and Crypto.com have all cited AI to justify recent cuts, though Scale AI’s Jason Droege suspects companies are using the technology as cover.",
+    "url": "https://cointelegraph.com/features/how-ai-cryptos-favorite-reason-cut-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-05-08T13:29:59.000Z"
+  },
+  {
+    "id": "0282ef63-dec2-472b-b4e2-31377c192ac2",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Department of War releases UFO files, including records tied to possible alien lifeTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#3bf9dfe3",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-08T13:28:32+00:00"
+  },
+  {
+    "id": "b18b9a51-7861-4ddb-a4e8-e7a5b073a593",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "CoinDesk 20 performance update: NEAR Protocol (NEAR) gains 6.3%, leading index higher",
+    "summary": "1. Internet Computer (ICP), up 5.8% from Thursday, was also a top performer.",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/05/08/coindesk-20-performance-update-near-protocol-near-gains-6-3-leading-index-higher",
+    "author": "CoinDesk Indices",
+    "created_at": "2026-05-08T13:23:21.000Z"
+  },
+  {
+    "id": "580c2180-ac6b-4e6a-9866-947826f67b74",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Stablecoins have their 'permission slip.' Now comes the hard part.",
+    "summary": "1. Executives from MoonPay, Ripple and Paxos said at Consensus Miami 2026 that regulation has accelerated stablecoin adoption, but infrastructure, privacy and distribution remain major hurdles.",
+    "url": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
+    "author": "Jamie Crawley",
+    "created_at": "2026-05-08T13:22:15.000Z"
+  },
+  {
+    "id": "19c37450-856e-4132-931f-3b41c9a9f514",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Department of War releases UFO and potential alien life files.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#09a3c6ae",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-08T13:21:31+00:00"
+  },
+  {
+    "id": "816d6e0a-8963-45b9-807f-d06e76539107",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Zcash Targeting Post-Quantum Crypto Milestone by 2027",
+    "summary": "1. The privacy-focused cryptocurrency plans to launch a quantum-recoverable wallet within a month as it outlines its roadmap.",
+    "url": "https://decrypt.co/367250/zcash-targeting-post-quantum-crypto-milestone-by-2027",
+    "author": "Decrypt Agent",
+    "created_at": "2026-05-08T13:15:24.000Z"
+  },
+  {
+    "id": "1279da42-792b-4086-8251-1bdbfc4c8e65",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Iowa Signs Crypto ATM Licensing and Oversight Bill Into Law",
+    "summary": "1. Iowa now requires crypto ATM operators to obtain money transmission licenses and comply with expanded state reporting and oversight requirements.\n2. The law also broadens enforcement authority, including penalties of up to $100,000 for violating injunctions tied to digital financial asset kiosk enforcement actions.\n3. Iowa Adds Penalties and Oversight for Crypto Kiosks Iowa Attorney General Brenna […]",
+    "url": "https://news.bitcoin.com/iowa-signs-crypto-atm-licensing-and-oversight-bill-into-law/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-08T13:12:32.000Z"
+  },
+  {
+    "id": "42091092-800a-46d3-be00-67fcaf0ead96",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Tether has frozen more than $514 million in USDT across 370 Ethereum and Tron addresses in 30 days, adding to $1.26 billion frozen in 2025, according to BlockSec data.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e74f9e93",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-08T13:04:13+00:00"
+  },
+  {
+    "id": "4f8faf55-b0b7-4e27-aa48-78f369540eb2",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The nation’s cartoonists on the week in politics",
+    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
+    "url": "https://www.politico.com/gallery/2026/05/08/the-nations-cartoonists-on-the-week-in-politics-00911215",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-05-08T12:36:31.000Z"
+  },
+  {
+    "id": "7807bddb-ea95-4608-b921-efce5fa659fd",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US APRIL NONFARM PAYROLLS RISE 115K M/M; EST.",
+    "summary": "+62KUS APRIL MANUFACTURING PAYROLLS FALL -2K M/M; EST. +5KUS APRIL PRIVATE PAYROLLS RISE 123K M/M; EST. +75KUS APRIL UNDEREMPLOYMENT 8.2%US APRIL UNEMPLOYMENT RATE 4.3%; EST. 4.3%US APRIL AVERAGE HOURLY EARNINGS RISE 0.2% M/M; EST. +0.3%US APRIL AVERAGE HOURLY EARNINGS RISE 3.6% Y/Y; EST. +3.8%Twitter",
+    "url": "https://t.me/SolidIntelX#87c35fed",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-08T12:30:51+00:00"
+  },
+  {
+    "id": "947007fe-12e0-4387-983a-c6079307cd12",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Robinhood CEO Vlad Tenev says the CLARITY Act needs just \"one more small push\" to cross the finish line, calling it the foundation for \"American dominance in digital finance.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e875b736",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-08T12:24:15+00:00"
+  },
+  {
+    "id": "ae0490f0-74e5-4f56-8361-da91f8095987",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Metalpha Related Wallet Offloads $20M in ETH to Binance Amid Whale Sell-off",
+    "summary": "1. A wallet address associated with crypto investment firm Metalpha has moved nearly $20 million worth of ether into Binance, adding fresh selling pressure on a token already contending with bearish sentiment.\n2. Large Exchange Inflow Signals Potential Sell-off A wallet identified by Lookonchain as being tied to Metalpha, a Hong Kong-based crypto asset management firm, transferred […]",
+    "url": "https://news.bitcoin.com/metalpha-whale-offloads-20-million-eth-binance-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-08T11:30:04.000Z"
+  },
+  {
     "id": "56dff9c1-cf81-4910-acf9-e15d8dd84683",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -60,7 +360,7 @@
     "created_at": "2026-05-08T10:58:45.000Z"
   },
   {
-    "id": "397f3975-9e7d-444a-9940-504f032ed5ff",
+    "id": "7f06c279-9f54-4cec-8259-7b5aa5055355",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Nvidia is now worth more than the economies of Japan, India and the U.K., with market value surpassing $5TTwitter",
@@ -198,275 +498,5 @@
     "url": "https://news.bitcoin.com/tether-freezes-515-million-usdt-371-addresses-2026/",
     "author": "Shiraz Jagati",
     "created_at": "2026-05-08T09:30:18.000Z"
-  },
-  {
-    "id": "82b362b2-ba2c-4264-ab39-42d10c991496",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Robinhood CEO Says US ‘Very Close’ to Passing Crypto Clarity Act",
-    "summary": "1. Robinhood’s Vlad Tenev revealed the U.S.\n2. is on the verge of passing the Crypto Clarity Act, legislation that would establish a formal regulatory framework for digital assets in America for the first time.\n3. Landmark Legislation for Digital Finance The co-founder and chief executive of Robinhood said Friday that the U.S.",
-    "url": "https://news.bitcoin.com/crypto-clarity-act-us-close-robinhood-tenev-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-08T08:30:21.000Z"
-  },
-  {
-    "id": "652dd33c-564f-4f82-8d3a-9aab1f57873a",
-    "source": "r/ethereum",
-    "type": "reddit",
-    "title": "Highlights from the All Core Developers Execution (ACDE) Call #236",
-    "summary": "1. Highlights from the All Core Developers Execution (ACDE) Call #236",
-    "url": "https://reddit.com/r/ethereum/comments/1t71fcz/highlights_from_the_all_core_developers_execution/",
-    "author": "u/Y_K_C_",
-    "created_at": "2026-05-08T08:05:24.000Z"
-  },
-  {
-    "id": "bab4ff22-1ab7-4307-9b21-53c2303fb69c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Multi Investment raises $616M to expand blockchain, Web3 investments",
-    "summary": "Asset management firm Multi Investment will pursue a portfolio diversification strategy after raising 480 million Swiss francs ($615.89 million), according to a PR Newswire press release. The firm has designated fintech, deep tech, blockchain, Web3, and biotechnology as its key next-generation investment areas.",
-    "url": "https://t.me/CoinnessGL#a25dc8ba",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T08:03:33+00:00"
-  },
-  {
-    "id": "56a1cf7a-393f-410a-be35-86d3e1d4ff31",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bithumb to suspend BCH deposits and withdrawals on May 15",
-    "summary": "South Korean crypto exchange Bithumb has announced it will temporarily suspend deposits and withdrawals for Bitcoin Cash (BCH) starting at 8:00 a.m. UTC on May 15. The suspension is to support an upcoming network upgrade for the cryptocurrency.",
-    "url": "https://t.me/CoinnessGL#bd0d01aa",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T08:01:43+00:00"
-  },
-  {
-    "id": "fac1f378-ddeb-4657-ab39-a28174050e20",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC accumulation accelerates as ETH sentiment lags, analyst says",
-    "summary": "Crypto analyst MorenoDV, citing CryptoQuant data, has analyzed a growing divergence in the recovery of institutional sentiment between Bitcoin (BTC) and Ethereum (ETH). According to the analyst, Bitcoin is rapidly regaining market confidence as institutional capital inflows and accumulation trends recover, while Ethereum continues to show signs of weakened sentiment among institutional investors. He added that strong structural buying pressure is flowing into BTC, driven by expanding demand from ETFs and Digital Asset Treasury (DAT) strategies, whereas capital inflows into ETH remain comparatively limited.",
-    "url": "https://t.me/CoinnessGL#e95f934c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T07:54:16+00:00"
-  },
-  {
-    "id": "dd54a1bd-6aca-435b-a0c4-58ff234aa019",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "LayerZero default security setting flaw leaves $178M in assets exposed",
-    "summary": "A security vulnerability in the default code LayerZero uses to validate cross-chain messages has reportedly exposed over $3 billion in Omnichain Fungible Tokens (OFTs) to potential theft. According to the X account Fishy Catfish, the code could be instantly replaced by developer LayerZero Labs without any time delay, creating a structure that could be exploited to forge messages.The issue sparked a heated debate between LayerZero CEO Bryan Pellegrino and security researchers in the ETHSecurity community's Telegram channel. Banteg, a researcher with 220,000 followers, noted that major projects like Ethena and EtherFi were using this default setting until a few weeks ago and that $178 million in assets remain exposed.Fishy Catfish added that on-chain data suggests operational multi-signature keys were used for routine activities like memecoin trading, raising questions about the project's overall security management, particularly given its history of being targeted by North Korean hackers.",
-    "url": "https://t.me/CoinnessGL#f2670997",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T07:39:28+00:00"
-  },
-  {
-    "id": "e536fd93-f5cc-46e2-a2b7-2d5b25b43dd9",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": " CLARITY Act support carries electoral boost, HarrisX poll finds",
-    "summary": "1. The poll found 52% of registered voters support the CLARITY Act, with 47% willing to cross party lines for a candidate who backs the bill.",
-    "url": "https://cointelegraph.com/news/supporting-clarity-act-provides-a-plus-20-electoral-benefit-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brian Quarmby",
-    "created_at": "2026-05-08T07:37:51.000Z"
-  },
-  {
-    "id": "e86c4e13-013e-4441-9697-b0a099266edd",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Zcash gains 70% in a week amid growing interest in crypto privacy",
-    "summary": "1. Swyftx’s Pav Hundal says Zcash is surging amid concerns about artificial intelligence, quantum computing and financial surveillance.",
-    "url": "https://cointelegraph.com/news/zcash-price-surges-privacy-coins-ai-surveillance-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-08T07:35:07.000Z"
-  },
-  {
-    "id": "8f905e19-9fc7-4c1a-9c15-513c41cbc809",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Samson Mow defended Strategy’s potential Bitcoin sales, saying “never selling limits optionality” and that companies with more tools are harder for short sellers to target.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#864e51cc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-08T07:34:43+00:00"
-  },
-  {
-    "id": "f5aed070-5c61-4892-b62d-e6673e1d5873",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US sentences ‘laptop farmers’ who assisted North Korean IT workers",
-    "summary": "1. The US Justice Department said it recently secured two sentences against men hosting laptops for North Korean workers, marking a total of eight sentences in five months.",
-    "url": "https://cointelegraph.com/news/us-sentences-eight-in-five-months-laptop-farmers-north-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-08T07:31:46.000Z"
-  },
-  {
-    "id": "d1c3f419-d11c-4814-a199-a697d114706d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase Buys $88 Million Worth of Bitcoin in Q1 2026",
-    "summary": "1. Coinbase disclosed during its Q1 2026 earnings call that it purchased $88 million worth of bitcoin during the quarter, marking a significant addition to the publicly listed exchange’s corporate treasury.\n2. Strong Accumulation Signal Coinbase, the only major U.S.-listed cryptocurrency exchange, added bitcoin to its corporate treasury during the first quarter of 2026, disclosing a purchase […]",
-    "url": "https://news.bitcoin.com/coinbase-buys-88-million-bitcoin-q1-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-08T07:30:26.000Z"
-  },
-  {
-    "id": "e08a721f-eca4-4ff5-90f2-fa8ca9fca61e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Arbitrum DAO approves $70 million ETH release for Kelp DAO recovery",
-    "summary": "1. However, a May 1 court order restricted Arbitrum DAO from moving the recovered funds, prompting Aave to file an emergency motion against it.",
-    "url": "https://www.theblock.co/post/400527/arbitrum-dao-approves-eth-release?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-08T07:25:40.000Z"
-  },
-  {
-    "id": "94a880ac-4f58-4aa7-97ba-346973af7be4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future",
-    "summary": "1. The Aptos Foundation said building infrastructure that enables sub-second finality without the need for human intervention is a key to supporting the next wave of AI agent adoption.",
-    "url": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-08T07:08:53.000Z"
-  },
-  {
-    "id": "84886029-039f-4a74-83cd-d1087340c5cc",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Over half of US voters support the CLARITY Act, survey finds",
-    "summary": "A majority of U.S. voters from both major parties support the Cryptocurrency and Lummis-Gillibrand Responsible Financial Innovation Act (CLARITY), according to a new poll. The survey also suggests that supporting the bill could be an electoral advantage for members of Congress.According to market research firm HarrisX, a national survey of 2,008 U.S. voters showed that 52% support the bill, while only 11% oppose it. Net support, calculated as the percentage of supporters minus opponents, was 48% among Democrats, 43% among Republicans, and 32% among independents.HarrisX reported that 37% of respondents would be more likely to support a member of Congress who votes for the CLARITY Act, compared to 17% who would be less likely. The survey also found that 70% believe the U.S. should have already passed crypto legislation, and 60% prefer the establishment of clear federal laws over litigation-focused regulation. Additionally, 47% said they would consider supporting a candidate from another party if their own party opposed the CLARITY Act.Meanwhile, 56% of respondents believe that digital payment systems built in foreign countries would weaken U.S. national security, indicating that digital finance is widely viewed as a national security issue.",
-    "url": "https://t.me/CoinnessGL#82df1453",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T07:08:24+00:00"
-  },
-  {
-    "id": "1b9fe2a4-ea8e-403f-8791-7a2d77220b61",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Germany could end its tax-free crypto holding period in push for higher digital asset tax revenue.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#dcaa4cf6",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-08T07:05:34+00:00"
-  },
-  {
-    "id": "3670b647-25b8-478f-ac3a-9caeaa2242be",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance to support Chiliz fan token contract swap",
-    "summary": "Binance has announced its support for a contract swap of fan tokens based on the Chiliz Chain (CHZ) CAP20 standard. The tokens affected include ACM, ASR, ATM, and BAR. Consequently, deposits and withdrawals for these Chiliz Chain-based tokens will be temporarily suspended starting at 1:00 a.m. UTC on May 11.",
-    "url": "https://t.me/CoinnessGL#ee1fa5b9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T07:04:52+00:00"
-  },
-  {
-    "id": "c99c4eca-1d89-488b-ad73-3803a3d81506",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bitcoin's 37% rally since April is still a bear market rally, CryptoQuant says, noting profit-taking is accelerating with traders sitting on an 18% unrealized profit margin.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#372d88f5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-08T06:44:40+00:00"
-  },
-  {
-    "id": "86955f28-2c1b-4308-bacb-22c0ba4b9f2a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors",
-    "summary": "1. Panelists at Consensus Miami said institutional investors are still largely absent from perp DEXs, citing security risks and KYC friction as key barriers.",
-    "url": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-08T06:44:34.000Z"
-  },
-  {
-    "id": "c587bae4-8b5a-444b-99d2-565c4044f2ba",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Saudi Arabia’s $1 trillion wealth fund expands in China with second mainland office.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#fca552f3",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-08T06:39:21+00:00"
-  },
-  {
-    "id": "0c49b3da-5518-41dd-9a26-d364bc78097d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase Exchange Experiences “Degraded Performance” for Over Two Hours After AWS Outage",
-    "summary": "1. Coinbase’s exchange went dark for over two hours on Friday after an Amazon Web Services (AWS) outage disrupted trading access for thousands of users worldwide.\n2. Major Disruption Affects Withdrawals, Trades Coinbase, one of the world’s largest cryptocurrency exchanges by trading volume, experienced a significant service disruption Friday morning after an outage at Amazon Web Services […]",
-    "url": "https://news.bitcoin.com/coinbase-exchange-outage-aws-may-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-08T06:30:37.000Z"
-  },
-  {
-    "id": "89b53a24-738a-451d-8e08-8c85f5345120",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Coinbase crypto trading remains down for over 5 hours as outage continues.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#e6674391",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-08T06:26:43+00:00"
-  },
-  {
-    "id": "b37c4536-e1be-4c8e-bb0c-1c02435341d9",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "AWS Northern Virginia data center overheats, impacting Coinbase",
-    "summary": "1. Coinbase said on Friday its markets are being placed in “cancel only” mode but will begin to re-enable trading “shortly.”",
-    "url": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-05-08T06:25:52.000Z"
-  },
-  {
-    "id": "4ee69b89-135d-4b22-9374-b4d4c1dd3b79",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Wall Street firms expand crypto hiring, seek traditional finance experience",
-    "summary": "Major Wall Street financial institutions, including JPMorgan and BlackRock, are increasingly posting job openings in the cryptocurrency sector, Bloomberg reported. A review of LinkedIn postings shows that the upper salary limit for a digital asset engineer is in the $200,000 to $300,000 range, with Citigroup offering up to $300,000 and BlackRock up to $270,000. However, Bloomberg noted that virtually all positions list traditional finance experience as a mandatory requirement. One role at Morgan Stanley, for instance, requires a minimum of six to eight years of experience in fields such as investment banking or private equity. Paul Przybylski, Global Head of Digital and Tokenized Assets at JPMorgan Asset Management, said that an understanding of both crypto and traditional finance is ultimately necessary.",
-    "url": "https://t.me/CoinnessGL#8962be6f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T05:37:10+00:00"
-  },
-  {
-    "id": "8ed28f62-36f6-4466-9ef4-61c21c4a075c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "AI agents could solve crypto’s user problem",
-    "summary": "1. Chappy Asel says autonomous software may be more natural users of wallets and stablecoins than humans, though agentic payments remain mostly theoretical.",
-    "url": "https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-08T05:31:18.000Z"
-  },
-  {
-    "id": "8d11151d-96bb-4ae6-aac5-6896f642e565",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Flutter Restructures US Operations as FanDuel CEO Howe Departs With $4.37M Severance",
-    "summary": "1. Flutter Entertainment announced a leadership transition at FanDuel, with Chief Executive Amy Howe departing after five years and Christian Genetski stepping into the CEO role.\n2. The departure was confirmed alongside Flutter’s Q1 2026 results.\n3. Genetski Takes Over While Flutter Names Group-Level President Per the press release, Howe will receive severance of $4,370,828 – equal to […]",
-    "url": "https://news.bitcoin.com/flutter-restructures-us-operations-as-fanduel-ceo-howe-departs-with-4-37m-severance/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-05-08T05:30:56.000Z"
-  },
-  {
-    "id": "bbdc2bcb-7d1b-4a18-8f73-3eca00712ce1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Aptos commits $50 million across ecosystem projects, including agentic AI",
-    "summary": "1. Aptos announced a $50 million commitment to grow the blockchain's ecosystem, covering first-party products and protocol infrastructure.",
-    "url": "https://www.theblock.co/post/400523/aptos-commits-50-million-across-stack?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-08T05:24:47.000Z"
-  },
-  {
-    "id": "34be5bb6-f0bc-4ac6-a73e-065db563b4b9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "South Korea's 2027 crypto tax plan faces uncertainty amid opposition",
-    "summary": "The planned implementation of a tax on virtual assets in South Korea, scheduled for next January, is facing growing policy uncertainty due to opposition from the People Power Party, ZDNet reported. While the government has clarified its intention to proceed with the tax as planned, the opposition party is countering with a push to repeal it. The People Power Party argues that taxing virtual assets is unfair when the financial investment income tax has been abolished. Lawmaker Park Soo-young of the People Power Party stated that he would reflect the opinions of academia and the media in the legislative process, signaling a confrontation with the government. Adding to the market uncertainty is the ruling Democratic Party's lack of a clear stance on the issue. Some observers suggest the ruling party may join discussions to postpone or repeal the tax to appeal to younger voters ahead of next year's local elections. more:",
-    "url": "https://t.me/CoinnessGL#5d9c760c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-08T05:19:40+00:00"
   }
 ]
