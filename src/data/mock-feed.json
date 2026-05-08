@@ -1,5 +1,55 @@
 [
   {
+    "id": "6cc41e5f-eda2-4595-a8b7-130664bb7127",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Kalshi partners with Madison Square Garden, home of the Knicks",
+    "summary": "Prediction market platform Kalshi has signed a multi-year partnership with Madison Square Garden, the home arena of the NBA's New York Knicks, according to Walter Bloomberg. Under the agreement, Kalshi has been named the official prediction market partner of the venue.",
+    "url": "https://t.me/CoinnessGL#11e18f05",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T15:17:29+00:00"
+  },
+  {
+    "id": "921bcfea-8227-4c49-b570-e6ee9bed4627",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "AI Won’t End Human Work, Andreessen Horowitz Partner Says",
+    "summary": "1. a16z partner David George argues AI will reshape work instead of erasing it.",
+    "url": "https://decrypt.co/367222/ai-wont-end-human-work-andreessen-horowitz-partner",
+    "author": "Jason Nelson",
+    "created_at": "2026-05-08T15:14:15.000Z"
+  },
+  {
+    "id": "6c31fbf1-cf81-4206-b1b1-30dc86574a85",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. As for my promise to you, the Department of War has released the first tranche of the UFO/UAP files to the Public for their review and study.\n2. In an effort for Complete and Maximum Transparency, it was my Honor to direct my Administration to identify and provide Government files related to Alien and Extraterrestrial Life, Unidentified Aerial Phenomena, and Unidentified Flying Objects.\n3. Whereas previous Administrations have failed to be transparent on this subject, with these new Documents and Videos, the people can decide for themselves, “WHAT THE HELL IS GOING ON?” Have Fun and Enjoy!",
+    "url": "https://trumpstruth.org/statuses/38278",
+    "author": "Trump Truth",
+    "created_at": "2026-05-08T15:11:14.000Z"
+  },
+  {
+    "id": "b311ee0f-9430-4f11-aca3-98f684695c64",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Fed's Goolsbee says all policy options must remain open",
+    "summary": "Austan Goolsbee, president of the Federal Reserve Bank of Chicago, stated that the Fed must always consider all policy options.",
+    "url": "https://t.me/CoinnessGL#2a695a8b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T15:11:11+00:00"
+  },
+  {
+    "id": "7f71a8d6-a94e-4ff8-ada0-243269e714ec",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Hezbollah claims it struck Israeli command post in southern Lebanon",
+    "summary": "The Lebanese armed group Hezbollah has claimed to have struck an Israeli command post in southern Lebanon, Al Jazeera reported.",
+    "url": "https://t.me/CoinnessGL#20008103",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-08T15:10:29+00:00"
+  },
+  {
     "id": "7d3c6d55-a1b6-46eb-ba09-fbdddf97b450",
     "source": "CoinDesk",
     "type": "rss",
@@ -48,6 +98,16 @@
     "url": "https://t.me/CoinnessGL#c1efb97a",
     "author": "@CoinnessGL",
     "created_at": "2026-05-08T14:50:12+00:00"
+  },
+  {
+    "id": "def11733-cae7-44cf-9a93-f3d18d263ebd",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Kelp DAO exploit prompts DeFi protocols to rethink oracle providers",
+    "summary": "1. Solv Protocol and other DeFi projects are migrating to Chainlink infrastructure after the $293 million exploit exposed risks in third-party bridge and oracle setups.",
+    "url": "https://cointelegraph.com/news/kelp-dao-exploit-prompts-defi-protocols-rethink-oracle-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-05-08T14:46:49.000Z"
   },
   {
     "id": "7d81298f-64ca-4208-8232-329c95426f4c",
@@ -110,6 +170,16 @@
     "created_at": "2026-05-08T14:29:52.000Z"
   },
   {
+    "id": "c5d290b3-81ba-4dda-a72e-a8ad6f5a5a70",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Current Alternative to TornadoCash?",
+    "summary": "1. I have been trying to figure this out for a while, Railgun gets mentioned constantly but someone I know sent funds that touched it to Coinbase and got his whole account locked instantly when deposit was credited.\n2. At that point what is even the purpose of a privacy tool if the moment you deposit to a CEX, it get frozen?...\n3. I don't think anything on Ethereum really replaced Tornado yet.",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1t7955c/current_alternative_to_tornadocash/",
+    "author": "u/ProfitAccording4178",
+    "created_at": "2026-05-08T14:12:13.000Z"
+  },
+  {
     "id": "933a09af-eaf5-4888-a16d-8b9632d92f9c",
     "source": "The Block",
     "type": "rss",
@@ -160,7 +230,7 @@
     "created_at": "2026-05-08T13:56:57.000Z"
   },
   {
-    "id": "380c04a8-4ce9-4886-8693-c5cd81432a61",
+    "id": "637cabc5-1ced-4182-bef3-0d9b72a16ab1",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇰🇷 South Korea has passed an amendment requiring crypto exchanges and custodians to register with the finance minister before handling cross-border digital asset transfers.",
@@ -190,7 +260,7 @@
     "created_at": "2026-05-08T13:29:59.000Z"
   },
   {
-    "id": "0282ef63-dec2-472b-b4e2-31377c192ac2",
+    "id": "b4e5a538-f9d6-4cd4-ba1c-22508ed29c42",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Department of War releases UFO files, including records tied to possible alien lifeTwitter",
@@ -220,7 +290,7 @@
     "created_at": "2026-05-08T13:22:15.000Z"
   },
   {
-    "id": "19c37450-856e-4132-931f-3b41c9a9f514",
+    "id": "a349926c-6479-4108-8928-2d84ef8b92f2",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Department of War releases UFO and potential alien life files.@WatcherGuru",
@@ -250,7 +320,7 @@
     "created_at": "2026-05-08T13:12:32.000Z"
   },
   {
-    "id": "42091092-800a-46d3-be00-67fcaf0ead96",
+    "id": "80c3a083-6c12-4b7b-a799-a245b64f7b20",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Tether has frozen more than $514 million in USDT across 370 Ethereum and Tron addresses in 30 days, adding to $1.26 billion frozen in 2025, according to BlockSec data.",
@@ -270,7 +340,7 @@
     "created_at": "2026-05-08T12:36:31.000Z"
   },
   {
-    "id": "7807bddb-ea95-4608-b921-efce5fa659fd",
+    "id": "0665ba4a-676d-4c98-89d6-0d788db60944",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US APRIL NONFARM PAYROLLS RISE 115K M/M; EST.",
@@ -280,7 +350,7 @@
     "created_at": "2026-05-08T12:30:51+00:00"
   },
   {
-    "id": "947007fe-12e0-4387-983a-c6079307cd12",
+    "id": "6109a291-deaf-44c7-a07c-4288da2702a1",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Robinhood CEO Vlad Tenev says the CLARITY Act needs just \"one more small push\" to cross the finish line, calling it the foundation for \"American dominance in digital finance.\"",
@@ -288,6 +358,16 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#e875b736",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-08T12:24:15+00:00"
+  },
+  {
+    "id": "fb95bbaa-1f75-4885-8a2f-77ad33945087",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "Clarity Act",
+    "summary": "1. Regulatory bans on stablecoin yields are expected to positively impact Ethereum's value and network activity.\n2. Shift to Staking: With the CLARITY Act and similar regulations preventing issuers from paying direct yield on stablecoins, investors are predicted to move capital into Ethereum staking as an alternative source of passive income.\n3. Supply Shock: This migration could lock up significant amounts of ETH, with analysts noting a potential $6 billion staking queue and reduced exchange liquidity, which supports price appreciation.",
+    "url": "https://reddit.com/r/ethereum/comments/1t75ei4/clarity_act/",
+    "author": "u/SurprisedByItAll",
+    "created_at": "2026-05-08T11:40:23.000Z"
   },
   {
     "id": "ae0490f0-74e5-4f56-8361-da91f8095987",
@@ -360,7 +440,7 @@
     "created_at": "2026-05-08T10:58:45.000Z"
   },
   {
-    "id": "7f06c279-9f54-4cec-8259-7b5aa5055355",
+    "id": "3538fd80-db79-4e36-9b88-16194f2994e7",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Nvidia is now worth more than the economies of Japan, India and the U.K., with market value surpassing $5TTwitter",
