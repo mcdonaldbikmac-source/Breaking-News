@@ -1,352 +1,122 @@
 [
   {
-    "id": "0707cc9f-98e8-440e-8959-e13e4316b5cc",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Anthropic Targets $1T Valuation as Investors Chase Claude’s Enterprise Growth",
-    "summary": "1. AI startup Anthropic is weighing a historic $50 billion funding round this summer that could value the company at $900 billion, potentially overtaking rival OpenAI.\n2. Closing the Gap with OpenAI Anthropic is reportedly considering raising tens of billions of dollars as early as this summer to fund a sweeping expansion of its computing infrastructure.",
-    "url": "https://news.bitcoin.com/anthropic-targets-1t-valuation-as-investors-chase-claudes-enterprise-growth/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-08T21:30:28.000Z"
-  },
-  {
-    "id": "fb933742-c2ed-4d6e-a05d-7ef6af2feb55",
-    "source": "Politico",
-    "type": "rss",
-    "title": "NY Dems are primed to pull redistricting punches",
-    "summary": "1. NY Dems are primed to pull redistricting punches",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/08/new-york-democrats-redistricting-house-00912889",
-    "author": "By Bill Mahoney",
-    "created_at": "2026-05-08T21:22:43.000Z"
-  },
-  {
-    "id": "06f3c770-85e2-4354-a781-61f75a08c230",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Solv Protocol and Re Switch to Chainlink CCIP, Moving Nearly $1B Away From Layerzero",
-    "summary": "1. Three decentralized finance ( DeFi) protocols managing nearly $1 billion in combined assets have moved or are actively moving their cross-chain infrastructure from Layerzero to Chainlink’s Cross-Chain Interoperability Protocol (CCIP), highlighting a broader push toward different bridging standards.\n2. Three DeFi Protocols Pull Nearly $1B From Layerzero After $292M April Exploit Solv Protocol announced this week […]",
-    "url": "https://news.bitcoin.com/solv-protocol-and-re-switch-to-chainlink-ccip-moving-nearly-1b-away-from-layerzero/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-08T21:05:14.000Z"
-  },
-  {
-    "id": "11984323-7ee5-4f0f-a6a7-de72ee732f31",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Duke law lecturer argues Trump-connected World Liberty Financial issued a security",
-    "summary": "1. Lee Reiners argues World Liberty's so-called governance token is not a so-called digital commodity or pure governance tool.",
-    "url": "https://www.theblock.co/post/400616/duke-law-lecturer-trump-connected-world-liberty-financial-issued-security?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-08T21:03:42.000Z"
-  },
-  {
-    "id": "82a9ac58-d1b1-409c-8a33-2dc84dbfc41c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
-    "summary": "1. Tokenization and digital asset-infrastructure stocks climbed as SEC Chair Paul Atkins signaled support for onchain finance rules.",
-    "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-08T20:59:25.000Z"
-  },
-  {
-    "id": "88f90b2e-3f40-47ba-aa09-11fca0e97721",
+    "id": "2472416b-64ab-47a6-aa7e-c3b974acdd21",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "CryptoQuant analyst calls recent BTC surge a bear market rally",
-    "summary": "Bitcoin's recent price surge is a bear market rally, according to a report by CryptoQuant senior analyst Julio Moreno. The Block reports that while Bitcoin has climbed over 20% since early April to a three-month high, the rally is a composite result of previous undervaluation, easing macroeconomic pressures, and a spike in demand for perpetual futures. The report added that Bitcoin holders are starting to take profits amid the uptrend, but a correction could still take some time to materialize.",
-    "url": "https://t.me/CoinnessGL#a166de27",
+    "title": "Goldman Sachs delays Fed rate cut forecast to Dec. 2026, March 2027",
+    "summary": "Goldman Sachs has pushed back its forecast for the next U.S. Federal Reserve rate cuts by one quarter, citing stronger-than-expected inflation, Bloomberg reported.In a report on May 8, the bank said it now expects the next two rate cuts to occur in December 2026 and March 2027. Goldman analysts noted that rising energy costs could keep the core Personal Consumption Expenditures (PCE) price index at around 3% this year, above the Fed's 2% target.This, they added, could delay the point at which conditions are met for the Fed to begin easing its monetary policy.",
+    "url": "https://t.me/CoinnessGL#175be9b9",
     "author": "@CoinnessGL",
-    "created_at": "2026-05-08T20:58:29+00:00"
+    "created_at": "2026-05-09T07:03:19+00:00"
   },
   {
-    "id": "ef0a4295-7d4a-4042-9401-7a986df025bc",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-    "summary": "1. The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
-    "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-05-08T20:50:03.000Z"
-  },
-  {
-    "id": "acbaad84-ac34-4582-af19-90d415f42cc1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Kraken parent company applies for OCC charter in move toward banking",
-    "summary": "1. The US banking regulator has already approved similar charter applications for Coinbase, Ripple Labs, BitGo, Circle, Fidelity Digital Assets and Paxos.",
-    "url": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-08T20:47:00.000Z"
-  },
-  {
-    "id": "a5898274-ef27-4da8-ab23-d128c85ced1c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CryptoQuant says bitcoin profit-taking could increase further amid ‘bear market rally’",
-    "summary": "1. Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.",
-    "url": "https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-05-08T20:44:35.000Z"
-  },
-  {
-    "id": "4fe13bc5-784d-4923-b64f-6f0245d4bfc1",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss",
-    "summary": "1. Publicly traded Bitcoin miner and data center operator TeraWulf reported a hefty net loss in Q1 as its AI revenue took over from BTC.",
-    "url": "https://decrypt.co/367309/terawulfs-ai-compute-revenue-outpaces-bitcoin-mining-amid-427-million-loss",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-05-08T20:29:14.000Z"
-  },
-  {
-    "id": "7b5a9778-ad24-4e96-a608-8ce4751f2707",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘Shifted the vibes:’ Stablecoin deal revives crypto bill despite lingering ethics disputes",
-    "summary": "1. Vibes are on the upswing a week after lawmakers reached a compromise on what had become a major sticking point in passing crypto legislation.",
-    "url": "https://www.theblock.co/post/400608/shifted-vibes-stablecoin-deal-revives-crypto-bill-despite-lingering-ethics-disputes?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-05-08T20:20:38.000Z"
-  },
-  {
-    "id": "58d76ee5-1692-4a37-ad43-fe2aaae86738",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple",
-    "summary": "1. A preliminary Apple-Intel manufacturing agreement—backed by a White House push—sent Intel stock above $130 on Friday.",
-    "url": "https://decrypt.co/367320/intel-all-time-high-chip-deal-apple",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-05-08T20:17:26.000Z"
-  },
-  {
-    "id": "b9ad6a46-eb67-492d-af32-7e59837f4f73",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 S&P 500 and Nasdaq record their highest daily & weekly close in history.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#5c5bb326",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-08T20:17:23+00:00"
-  },
-  {
-    "id": "0c7b6d3c-cab1-4a97-9682-1a5970c0b075",
+    "id": "d7feec6d-9bf8-41a3-9f8d-b0902fc754f5",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "44% of Solana RWA market cap used as DeFi collateral",
-    "summary": "43.7% of the market capitalization of active Real-World Assets (RWAs) on Solana is being utilized as collateral in DeFi lending markets, compared to just 6.1% on Ethereum. According to DeFi analytics platform Sentora, formerly IntoTheBlock, this suggests that while Ethereum's RWAs remain relatively idle, Solana's are actively used as collateral in credit markets. Sentora noted that this indicates the two networks are not building their ecosystems in the same direction.",
-    "url": "https://t.me/CoinnessGL#53ba9375",
+    "title": "BTC perp long/short ratios on top 3 futures exchanges",
+    "summary": "BTC perp long/short ratios on top exchanges by open interestThe following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 50.27% long, 49.73% short- Binance: 51.64% long, 48.36% short- OKX: 51.13% long, 48.87% short- Bybit: 54.14% long, 45.86% short",
+    "url": "https://t.me/CoinnessGL#ac629a35",
     "author": "@CoinnessGL",
-    "created_at": "2026-05-08T20:16:11+00:00"
+    "created_at": "2026-05-09T06:39:23+00:00"
   },
   {
-    "id": "39d45820-523b-4e87-815d-54ddb0678b79",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Venezuela Upholds Crypto Mining Ban as Power Demand Hits 9-Year Peak",
-    "summary": "1. The Venezuelan government reiterated a nationwide ban on cryptocurrency mining as the country faces an energy crisis, with demand rising to record levels.\n2. Authorities attributed this peak in consumption to the economic growth and an ongoing heat wave.\n3. Venezuela Reiterates Crypto Mining Ban, Says Illicit Mining Activities Will be Sanctioned Cryptocurrency mining, as an energy-intensive […]",
-    "url": "https://news.bitcoin.com/venezuela-upholds-crypto-mining-ban-as-power-demand-hits-9-year-peak/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-08T20:10:26.000Z"
-  },
-  {
-    "id": "d9026ce9-5302-4a5b-ad2f-4be3a0edf520",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "MegaETH Kicks Off MEGA Buybacks",
-    "summary": "1. Future repurchases will follow a preset schedule and be routed through on-chain markets.",
-    "url": "https://thedefiant.io/news/blockchains/megaeth-kicks-off-mega-buybacks",
-    "author": "yyctrader",
-    "created_at": "2026-05-08T20:06:56.000Z"
-  },
-  {
-    "id": "972616ae-14f7-4bbd-9721-c1bff04443f8",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Discord down worldwide.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d8dfedc0",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-08T20:05:25+00:00"
-  },
-  {
-    "id": "efce8cd5-99ca-47f6-80f8-43c81e61a10b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Intel’s comeback story is even wilder than it seems",
-    "summary": "1. Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-    "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-    "author": "Connie Loizos",
-    "created_at": "2026-05-08T20:02:52.000Z"
-  },
-  {
-    "id": "9b6d504c-341c-44a9-921a-01dca194b51a",
+    "id": "b9d2004b-da54-4966-86bd-11de5a997693",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "US stocks close higher",
-    "summary": "The three major U.S. stock indices closed higher today.- S&P 500: +0.84%- Nasdaq: +1.71%- Dow Jones: +0.02%",
-    "url": "https://t.me/CoinnessGL#f4d730ab",
+    "title": "Trump Media reports $406M Q1 net loss on crypto, stock valuations",
+    "summary": "Trump Media & Technology Group (DJT) announced a net loss of approximately $405.9 million for the first quarter of 2026. The company attributed the majority of the loss to write-downs on its cryptocurrency and stock holdings, stating that unrealized losses from these assets reached about $368.7 million in the first quarter. The company currently holds 9,542 BTC and 756 million CRO.",
+    "url": "https://t.me/CoinnessGL#b31c6c28",
     "author": "@CoinnessGL",
-    "created_at": "2026-05-08T20:01:24+00:00"
+    "created_at": "2026-05-09T06:35:08+00:00"
   },
   {
-    "id": "e795f2d6-82b5-4b96-a3ef-e82af5a12e4c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 SEC Chair Paul Atkins says the agency is considering new rules for onchain trading, crypto vaults, and blockchain-based settlement.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#6d710aba",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-08T19:44:12+00:00"
-  },
-  {
-    "id": "81e67b21-23dd-4387-bbb2-1788c88fcd7f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🚨 Crypto wrench attacks caused $101M in losses across the first four months of 2026, nearly double all of 2025, per CertiK.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#6d63e519",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-08T19:44:09+00:00"
-  },
-  {
-    "id": "bf073307-f539-45ba-b549-e82040ef1a0f",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US AND IRAN MAY RESUME TALKS AS EARLY AS NEXT WK IN ISLAMABADTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#83870137",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-08T19:43:44+00:00"
-  },
-  {
-    "id": "e7a7e3ad-20a7-4e8f-96e6-9adab2041021",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Elizabeth Warren Wants Meta to Spill All on Stablecoin Plans Ahead of Clarity Act Votes",
-    "summary": "1. The Senate Democrat said Meta’s reported plans to partner with a third-party stablecoin issuer could undermine “competition, privacy… and financial stability.”",
-    "url": "https://decrypt.co/367314/elizabeth-warren-meta-stablecoin-plans-clarity-act-votes",
-    "author": "Sander Lutz",
-    "created_at": "2026-05-08T19:38:44.000Z"
-  },
-  {
-    "id": "1efd56a5-b88d-49ea-b657-67395d3c2679",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "MICHAEL BURRY SAYS THE MARKET TODAY FEELS LIKE 'THE LAST MONTHS OF THE 1999-2000 BUBBLE' Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#ecc8a3e9",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-08T19:37:09+00:00"
-  },
-  {
-    "id": "15308cab-d23b-455e-a632-c785b2f1f4c0",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
-    "summary": "1. Nearly 1,000 developers competed at the venue, from ecosystems like Base, Solana, and others arriving from companies like Microsoft and Google, most racing to build products around the theme of AI agents.",
-    "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-05-08T19:12:29.000Z"
-  },
-  {
-    "id": "8d78b1cf-f33e-4f9c-aac6-c37493497ceb",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-    "summary": "1. Bitcoin continues to find buyers on each dip, but charts suggest traders may struggle to overcome the $84,000-$92,000 resistance cluster.",
-    "url": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Rakesh Upadhyay",
-    "created_at": "2026-05-08T19:03:52.000Z"
-  },
-  {
-    "id": "539cea5f-53cc-4e1a-b08a-9afdb756f6ad",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Kraken parent Payward has applied for a national trust bank charter with the OCC to offer federally regulated digital asset custody to institutional clients.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#1c40ee3b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-08T18:54:40+00:00"
-  },
-  {
-    "id": "4babadcf-88ec-46e4-b5d5-f306607383db",
+    "id": "3a0b1b4b-8656-4143-99ab-76a5c04d7142",
     "source": "GitHub",
     "type": "github",
-    "title": "anthropics/claude-code: v2.1.136",
-    "summary": "1. ## What's changed\n\n- Added `CLAUDE_CODE_ENABLE_FEEDBACK_SURVEY_FOR_OTEL` to re-enable the session quality survey for enterprises capturing responses through OpenTelemetry\n- Added `settings.autoMode.hard_deny` for auto mode classifier rules that block unconditionally regardless of user intent or allow exceptions\n- Fixed MCP servers configured in `.mcp.json`, plugins, and claude.ai connectors silently disappearing after `/clear` in the VS Code extension, JetBrains plugin, and Agent SDK\n- Fixed a rare login loop where a concurrent credential write could overwrite a freshly-rotated OAuth token and force re-login\n- Fixed MCP OAuth refresh tokens being lost when multiple servers refresh concurrently — users with several remote MCP servers should no longer need daily re-authentication\n- Fixed an API error (400) when extended thinking emitted a redacted thinking block after a tool call\n- Fixed `--resume` / `--continue` not finding sessions when the project path contains underscores\n- Fixed plan mode not blocking file writes when a matching `Edit(...)` allow rule exists\n- WSL2: image paste from Windows clipboard now works via a PowerShell fallback when xclip/wl-paste cannot read image data\n- Fixed plugin `Stop`/`UserPromptSubmit` hooks failing when cache cleanup deletes a version still in use by a running session\n- Improved visual consistency across slash command dialogs: standardized footer hints, dialog spacing, and arrow-key styling, and the dialog frame now appears immediately during loading instead of popping in after\n- Fixed colors appearing at wrong positions in bash command output and markdown code blocks\n- Fixed ReasonML diffs rendering corrupted \"undefined\" text artifacts at word-diff boundaries\n- Fixed worktree exit dialog warning about uncommitted files in the wrong directory after worktree removal\n- Fixed `@` file picker not matching files created mid-session in small non-git directories\n- Fixed `@`-mention file picker not finding files in directories with more than 100 entries\n- Fixed failed tool calls not being click-to-expand in fullscreen mode when their output was truncated\n- Fixed Backspace and Ctrl+Backspace getting swapped after using Ctrl+G to open an external editor on terminals with persistent extended-key modes\n- Fixed `/usage` weekly reset showing time of day instead of the calendar date\n- Fixed welcome banner ellipsis causing column overflow on CJK terminals\n- Fixed `/insights` crash when session history contains tool calls with malformed input fields\n- Fixed a renderer crash when a tool's collapsibility classification changes mid-session\n- Fixed a `skills` entry in `plugin.json` hiding the plugin's default `skills/` directory, and listing a file path now shows an error instead of failing silently\n- Fixed IDE shell-integration lock files not respecting `CLAUDE_CONFIG_DIR`\n- Fixed trailing whitespace in copied terminal output during streaming\n- Fixed plugin uninstall and enable/disable not matching slugs case-insensitively\n- Fixed tool error truncation marker showing a negative count for surrogate-pair strings\n- Fixed env vars from `CLAUDE_ENV_FILE` SessionStart hooks going stale after `/resume` or `/clear`\n- Fixed `/branch` saving a multi-line session title when given a pasted multi-line name\n- Fixed a stray leading space on the second line of wrapped text at the column boundary\n- Fixed Esc not dismissing dialogs in `/install-github-app`, `/desktop`, `/resume`, and `/web-setup`\n- Fixed `/doctor` MCP schema errors not naming the missing field or showing the source file path\n- Fixed Bash permission prompts showing an internal parser diagnostic instead of a user-readable explanation\n- Fixed plugin slash commands with spaces (e.g.\n2. `/myplugin review`) not resolving to their namespaced form\n- Fixed `AskUserQuestion` discarding multi-select answers when supplied as an array\n- Fixed `/clear ` not labeling the cleared session for `/resume`\n- Fixed `CronList` output missing qualifiers and the scheduled prompt\n- Fixed \"Jump to bottom\" overlay leaving color artifacts on CJK characters in fullscreen mode\n- Fixed wide markdown tables leaving a stale bordered render in terminal scrollback while streaming\n- Fixed pasted text being silently dropped when a long prompt with a pasted-text placeholder was auto-truncated\n- Fixed `/release-notes` getting stuck on an old version after a failed changelog refresh\n- Fixed `/mcp` server list not scrolling when there are more servers than fit in the terminal\n- Fixed mid-input slash command autocomplete not working after an initial slash command\n- Fixed scrolling to bottom re-engaging auto-follow with `autoScrollEnabled: false`\n- Fixed prompt suggestions being auto-submitted by Enter on an empty input instead of requiring Tab or arrow to accept\n- Fixed keyboard shortcut hints not reflecting rebound keys from `keybindings.json`\n- Fixed `/settings` language change being reverted on Escape after confirming\n- Fixed `/terminal-setup` only appearing in autocomplete on exact name match instead of partial prefixes\n- Fixed \"Chat about this\" on an `AskUserQuestion` dialog erasing the question text\n- Fixed MCP tool results being invisible when the server returns content blocks\n- Improved error message when `--worktree` collides with an existing or stale worktree\n- Changed plugin marketplace removal key to `d` (matching delete elsewhere) instead of `r` which collided with retry",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.136",
+    "title": "anthropics/claude-code: v2.1.138",
+    "summary": "1. ## What's changed\n\n- Internal fixes",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.138",
     "author": "ashwin-ant",
-    "created_at": "2026-05-08T18:39:08Z"
+    "created_at": "2026-05-09T06:33:25Z"
   },
   {
-    "id": "e030bb17-e918-4759-8e98-ca9ca7d78f38",
-    "source": "CoinTelegraph",
+    "id": "57af4eb4-b9e5-466f-93b6-bafd962dce07",
+    "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Exodus launches AI agent-focused stablecoin on Solana",
-    "summary": "1. The crypto wallet company pairs the XO Cash token with software tools that let AI agents transact using preset spending controls and stablecoin payments.",
-    "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-05-08T18:38:02.000Z"
+    "title": "Crypto Prediction Markets Move Into Mainstream Finance as Institutional Interest Grows",
+    "summary": "1. Traditional finance firms are expanding into crypto prediction markets as event-based contracts draw deeper liquidity.\n2. Chainalysis said inflows have risen sharply since September 2024, supported by retail traders, market makers, and institutions.\n3. Traditional Finance Builds Crypto Prediction Market Rails Major exchanges and financial firms are accelerating work on crypto prediction markets as event-based contracts gain […]",
+    "url": "https://news.bitcoin.com/crypto-prediction-markets-move-into-mainstream-finance-as-institutional-interest-grows/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-09T05:30:48.000Z"
   },
   {
-    "id": "76733af9-64b3-4815-9c79-0a8a9f074b02",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "summary": "1. Cloudflare announced its first large-scale layoff.\n2. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "author": "Julie Bort",
-    "created_at": "2026-05-08T18:33:21.000Z"
-  },
-  {
-    "id": "21282ff1-6a01-4970-9902-10820fd43957",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
-    "summary": "1. The SEC chair linked the rise of AI-powered financial systems with growing demand for blockchain-based market infrastructure and automated settlement.",
-    "url": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-08T18:32:23.000Z"
-  },
-  {
-    "id": "0a679bfa-05c6-4ef0-a97d-4cc84d0dba2e",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "ONDO Surges 68% in a Week amid US Tokenization Push",
-    "summary": "1. A four-firm pilot settling the first cross-border, cross-bank redemption of tokenized U.S.\n2. Treasuries on the XRP Ledger extended a rally sparked by Ondo's seat at the DTCC’s tokenization table.",
-    "url": "https://thedefiant.io/news/defi/ondo-surges-68-in-a-week-amid-us-tokenization-push",
-    "author": "yyctrader",
-    "created_at": "2026-05-08T18:26:16.000Z"
-  },
-  {
-    "id": "467752ff-26e3-4dc0-890a-12011a37a112",
+    "id": "5bb8e9e6-2590-4d22-9824-d8fd43c12268",
     "source": "@WatcherGuru",
     "type": "telegram",
-    "title": "🇺🇸 SEC Chair Paul Atkins calls for Congress to pass crypto market structure legislation and \"send the Clarity Act to President Trump's desk.\"@WatcherGuru",
+    "title": "🇺🇸 US credit card debt reaches new all-time high of $1.33 trillion.@WatcherGuru",
     "summary": "",
-    "url": "https://t.me/WatcherGuru#4bf382e5",
+    "url": "https://t.me/WatcherGuru#6fafed91",
     "author": "@WatcherGuru",
-    "created_at": "2026-05-08T18:16:36+00:00"
+    "created_at": "2026-05-09T04:46:38+00:00"
   },
   {
-    "id": "5ec761c4-d12e-4294-af4e-454790b1470b",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Trump announces three-day Russia-Ukraine ceasefire for May 9–11, says agreement was secured after direct requests to Putin and ZelenskyyTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#8e4df7b0",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-08T18:02:26+00:00"
-  },
-  {
-    "id": "5988d763-b886-4b15-9159-dc1f1fabd0c7",
-    "source": "The Defiant",
+    "id": "54ec9698-6a83-4de9-a148-ec2e3938bf59",
+    "source": "CoinDesk",
     "type": "rss",
-    "title": "Kraken Parent Payward Seeks US Federal Trust Charter",
-    "summary": "1. Payward says the OCC national trust charter would complement Kraken's banking arm, Kraken Financial.",
-    "url": "https://thedefiant.io/news/regulation/kraken-parent-payward-files-with-occ-for-federal-trust-charter",
-    "author": "DefAInt",
-    "created_at": "2026-05-08T17:55:58.000Z"
+    "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+    "summary": "1. Judge Margaret Garnett allowed frozen exploit funds on Arbitrum to move to Aave, but the legal freeze follows the assets as terrorism plaintiffs continue their claim.",
+    "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-09T04:16:36.000Z"
+  },
+  {
+    "id": "0926b729-73fc-4c05-ab01-d1ee5da7b7a5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "SEC Commissioner Urges Restraint on Crypto Rules as Retail Trading Expands",
+    "summary": "1. SEC Commissioner Hester Peirce said regulators should study crypto’s role in retail trading before deciding whether new rules are needed.\n2. Her remarks tied crypto to ETFs, options, prediction markets, and perpetual futures.\n3. ETF Access and SEC Authority Shape Crypto Debate Securities and Exchange Commission (SEC) Commissioner Hester Peirce on May 8, 2026 framed crypto as […]",
+    "url": "https://news.bitcoin.com/sec-commissioner-urges-restraint-on-crypto-rules-as-retail-trading-expands/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-09T03:30:57.000Z"
+  },
+  {
+    "id": "634c7415-9f03-4c36-940a-8b1a95160d99",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CLARITY Act Markup: Senate Banking Sets May 14 Crypto Rules Session",
+    "summary": "1. The Senate Banking Committee scheduled a May 14 markup for the CLARITY Act, setting up the Senate’s first formal committee debate over digital asset market structure legislation.\n2. The executive session will allow lawmakers to debate amendments and determine whether the bill advances toward a full Senate vote.\n3. Senate Banking Takes Up Long-Delayed Crypto Bill The […]",
+    "url": "https://news.bitcoin.com/clarity-act-markup-senate-banking-sets-may-14-crypto-rules-session/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-09T02:30:18.000Z"
+  },
+  {
+    "id": "0bf31020-e2a0-48ee-8609-9fa56d2d5cce",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Congratulations to John Swinney on winning his Re-Election for First Minister of Scotland.\n2. He is a good man, who worked very hard, along with the King and Queen of the United Kingdom, with respect to Tariff relief for Great Scottish Whiskey — and deserves this Big Electoral Victory!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/38284",
+    "author": "Trump Truth",
+    "created_at": "2026-05-09T02:13:37.000Z"
+  },
+  {
+    "id": "486ffd51-daba-4ade-960b-6ee6722ff23d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": " US CLARITY Act sees ‘big step forward’ as markup set for May 14",
+    "summary": "1. Coinbase chief policy officer Faryar Shirzad said the date is a “big step forward” and is essential for supporting innovation in the US.",
+    "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ciaran Lyons",
+    "created_at": "2026-05-09T02:01:55.000Z"
+  },
+  {
+    "id": "db6fec32-5471-41f8-93cb-4c0cef41d67f",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "BlackRock to launch tokenized money-market funds on Ethereum.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#606dff15",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-09T01:53:46+00:00"
   }
 ]
