@@ -1,5 +1,95 @@
 [
   {
+    "id": "0d5b6612-2578-4ee8-b7ed-134fa7695faa",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ADA could target $0.36 if it holds $0.25 support, says analyst",
+    "summary": "An analysis from crypto analyst Ali Martinez suggests that if Cardano (ADA) maintains its support at the $0.25 level, its next price target could be $0.36. Martinez noted that on the monthly chart, ADA has historically experienced sharp rallies after confirming support at $0.25. He highlighted that a rebound from this level in January 2023 led to an 88.27% increase, while another in September 2023 resulted in a 243% price surge to its peak. Martinez explained that holding the $0.25 support line could pave the way for a structural rally. Therefore, as long as this price level is defended, the next target could be $0.36, with a potential further rise to $0.53. Conversely, he warned that a break below the $0.25 support could lead to a larger correction.",
+    "url": "https://t.me/CoinnessGL#73698704",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-09T11:38:50+00:00"
+  },
+  {
+    "id": "ef581f20-70ad-430d-883a-2ec833d34f58",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Sydney Huang Warns AI Bot Collusion Could Spread Before Regulators Respond",
+    "summary": "1. With AI-to-AI commerce expected to increase the velocity of money, central banks may find themselves unable to react to machine-speed inflation or flash crashes.\n2. Experts suggest that regulation must be embedded directly into the code to prevent cascading failures.\n3. The End of Policy ‘Lag’ According to an April 2026 International Monetary Fund (IMF) report, the […]",
+    "url": "https://news.bitcoin.com/sydney-huang-warns-ai-bot-collusion-could-spread-before-regulators-respond/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-09T11:30:23.000Z"
+  },
+  {
+    "id": "d0aed5a3-2242-45ac-b761-bce34eb1201a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Base: x402 protocol sees over $100M in Q1 stablecoin payments",
+    "summary": "Base, the Layer 1 blockchain from the largest U.S. crypto exchange Coinbase, announced via its official X account that cumulative stablecoin payment volume within the x402 protocol surpassed $100 million in the first quarter. The x402 protocol is a Coinbase-led project that aims to be an open standard for AI payments, supporting transactions between AI agents. Base added that over 90% of on-chain stablecoin transactions by AI agents take place on its network.",
+    "url": "https://t.me/CoinnessGL#f2dbeeca",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-09T11:23:07+00:00"
+  },
+  {
+    "id": "57312360-51ae-4bef-8fcf-096066db120b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave",
+    "summary": "1. A Manhattan judge modified a restraining notice to let Arbitrum DAO move $71 million in frozen Ether to Aave, while preserving terrorism victims’ legal claim on the funds.",
+    "url": "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-09T11:12:08.000Z"
+  },
+  {
+    "id": "448e4524-f871-4240-bad1-ae7fdf16f7d4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Six Months in, the AGA Exodus Has Reshaped US Gambling’s Lobbying Landscape",
+    "summary": "1. The American Gaming Association published its Q1 2026 Gaming Industry Outlook on May 7, the trade group’s biannual sentiment survey conducted by Oxford Economics across 26 senior gaming executives between March 23 and April 8.\n2. The headline numbers tell a confident story, but the details below suggest concerns over the growing impact of prediction markets […]",
+    "url": "https://news.bitcoin.com/six-months-in-the-aga-exodus-has-reshaped-us-gamblings-lobbying-landscape/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-05-09T09:30:30.000Z"
+  },
+  {
+    "id": "79a63963-831b-4bd6-a6af-0bdd0848d0ed",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Solana memecoin AURA market cap tops $63M as early investor sees 66x return",
+    "summary": "The market capitalization of Solana-based memecoin Aura (AURA) has surged to $63 million, a daily increase of approximately 600%, according to GMGN monitoring.AURA's market cap jumped from a recent low of $8 million. The address with the highest profit during this rally (9MUN) is currently holding about $330,000 in unrealized gains, a 66-fold return on its initial investment.The investor reportedly purchased about $5,000 worth of AURA last June when its market cap was around $890,000. The token's market cap later soared to $236 million, increasing the investor's paper profit to as high as $1.25 million (a 250x gain), but the investor did not realize the profits before a significant pullback.The latest surge was reportedly triggered after the official Binance X account posted a meme image this morning with the text \"aura maxxxxing.\"",
+    "url": "https://t.me/CoinnessGL#90907992",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-09T08:43:34+00:00"
+  },
+  {
+    "id": "f741928b-828d-46aa-8326-9c7004fcebfc",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months",
+    "summary": "1. US spot Bitcoin ETFs have logged six consecutive weeks of net inflows, the longest such streak since a seven-week run that drew in $7.57 billion in the summer of 2025.",
+    "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-09T08:35:00.000Z"
+  },
+  {
+    "id": "94d594fe-3400-487b-be87-e11c29338918",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Nigerian Fintech Paga Expands Into Tokenized Bonds and Real Estate Through Sui Partnership",
+    "summary": "1. Nigerian fintech pioneer Paga has partnered with the Sui blockchain to integrate cryptocurrency infrastructure into its platform.\n2. A Roadmap for Digital Finance Nigerian fintech pioneer Paga has entered a partnership with Sui blockchain, marking the company’s most significant push into crypto infrastructure to date.\n3. The collaboration was unveiled on May 7 at Sui Live in […]",
+    "url": "https://news.bitcoin.com/nigerian-fintech-paga-expands-into-tokenized-bonds-and-real-estate-through-sui-partnership/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-09T07:30:21.000Z"
+  },
+  {
+    "id": "4f1592af-428b-4956-b087-e6810befe12b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin",
+    "summary": "1. Strike CEO Jack Mallers argued that if Wall Street “kills” Bitcoin, then the asset was never going to succeed in the first place.",
+    "url": "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ciaran Lyons",
+    "created_at": "2026-05-09T07:16:33.000Z"
+  },
+  {
     "id": "2472416b-64ab-47a6-aa7e-c3b974acdd21",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -38,85 +128,5 @@
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.138",
     "author": "ashwin-ant",
     "created_at": "2026-05-09T06:33:25Z"
-  },
-  {
-    "id": "57af4eb4-b9e5-466f-93b6-bafd962dce07",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto Prediction Markets Move Into Mainstream Finance as Institutional Interest Grows",
-    "summary": "1. Traditional finance firms are expanding into crypto prediction markets as event-based contracts draw deeper liquidity.\n2. Chainalysis said inflows have risen sharply since September 2024, supported by retail traders, market makers, and institutions.\n3. Traditional Finance Builds Crypto Prediction Market Rails Major exchanges and financial firms are accelerating work on crypto prediction markets as event-based contracts gain […]",
-    "url": "https://news.bitcoin.com/crypto-prediction-markets-move-into-mainstream-finance-as-institutional-interest-grows/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-09T05:30:48.000Z"
-  },
-  {
-    "id": "5bb8e9e6-2590-4d22-9824-d8fd43c12268",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US credit card debt reaches new all-time high of $1.33 trillion.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#6fafed91",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-09T04:46:38+00:00"
-  },
-  {
-    "id": "54ec9698-6a83-4de9-a148-ec2e3938bf59",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
-    "summary": "1. Judge Margaret Garnett allowed frozen exploit funds on Arbitrum to move to Aave, but the legal freeze follows the assets as terrorism plaintiffs continue their claim.",
-    "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-09T04:16:36.000Z"
-  },
-  {
-    "id": "0926b729-73fc-4c05-ab01-d1ee5da7b7a5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "SEC Commissioner Urges Restraint on Crypto Rules as Retail Trading Expands",
-    "summary": "1. SEC Commissioner Hester Peirce said regulators should study crypto’s role in retail trading before deciding whether new rules are needed.\n2. Her remarks tied crypto to ETFs, options, prediction markets, and perpetual futures.\n3. ETF Access and SEC Authority Shape Crypto Debate Securities and Exchange Commission (SEC) Commissioner Hester Peirce on May 8, 2026 framed crypto as […]",
-    "url": "https://news.bitcoin.com/sec-commissioner-urges-restraint-on-crypto-rules-as-retail-trading-expands/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-09T03:30:57.000Z"
-  },
-  {
-    "id": "634c7415-9f03-4c36-940a-8b1a95160d99",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act Markup: Senate Banking Sets May 14 Crypto Rules Session",
-    "summary": "1. The Senate Banking Committee scheduled a May 14 markup for the CLARITY Act, setting up the Senate’s first formal committee debate over digital asset market structure legislation.\n2. The executive session will allow lawmakers to debate amendments and determine whether the bill advances toward a full Senate vote.\n3. Senate Banking Takes Up Long-Delayed Crypto Bill The […]",
-    "url": "https://news.bitcoin.com/clarity-act-markup-senate-banking-sets-may-14-crypto-rules-session/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-09T02:30:18.000Z"
-  },
-  {
-    "id": "0bf31020-e2a0-48ee-8609-9fa56d2d5cce",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to John Swinney on winning his Re-Election for First Minister of Scotland.\n2. He is a good man, who worked very hard, along with the King and Queen of the United Kingdom, with respect to Tariff relief for Great Scottish Whiskey — and deserves this Big Electoral Victory!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/38284",
-    "author": "Trump Truth",
-    "created_at": "2026-05-09T02:13:37.000Z"
-  },
-  {
-    "id": "486ffd51-daba-4ade-960b-6ee6722ff23d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": " US CLARITY Act sees ‘big step forward’ as markup set for May 14",
-    "summary": "1. Coinbase chief policy officer Faryar Shirzad said the date is a “big step forward” and is essential for supporting innovation in the US.",
-    "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-05-09T02:01:55.000Z"
-  },
-  {
-    "id": "db6fec32-5471-41f8-93cb-4c0cef41d67f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "BlackRock to launch tokenized money-market funds on Ethereum.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#606dff15",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-09T01:53:46+00:00"
   }
 ]
