@@ -1,5 +1,15 @@
 [
   {
+    "id": "6c2e2d31-7e94-42ba-a5b3-ce76bf82c024",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trump Media posts $406M quarterly loss as crypto bets turn sour",
+    "summary": "1. Trump Media’s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer’s peak and Cronos tokens acquired through a Crypto.com deal.",
+    "url": "https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-10T08:23:43.000Z"
+  },
+  {
     "id": "cfa91713-5852-4aae-ab19-2d1878c06f0c",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -10,7 +20,7 @@
     "created_at": "2026-05-10T06:30:28.000Z"
   },
   {
-    "id": "2ed2a799-99af-45c7-bda7-ac1dba7119df",
+    "id": "185e71cc-a8ad-40db-a36d-0de1c50d81bc",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇸🇦 World's largest oil company Saudi Aramco reports higher profits in Q1 2026 despite Iran war.@WatcherGuru",
@@ -48,15 +58,5 @@
     "url": "https://news.bitcoin.com/90-of-perus-28-billion-crypto-market-is-now-driven-by-stablecoins/",
     "author": "Sergio Goschenko",
     "created_at": "2026-05-10T04:30:45.000Z"
-  },
-  {
-    "id": "fa46473f-1909-4d16-9e2d-2927fd36c08b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "summary": "1. Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-05-10T02:00:00.000Z"
   }
 ]
