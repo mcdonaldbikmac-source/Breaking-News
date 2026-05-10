@@ -1,5 +1,25 @@
 [
   {
+    "id": "bfe0b078-f6ac-4285-ba48-0ec7055fb972",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korea crypto holdings halve in a year as investors turn to stock market",
+    "summary": "1. South Korean crypto holdings fell from $83 billion to $41 billion in just over a year as investors shifted to stocks.",
+    "url": "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-10T10:52:38.000Z"
+  },
+  {
+    "id": "d57f724a-6676-4dbc-81fa-3dae70cf5d7e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print",
+    "summary": "1. BTC’s rising wedge points to a possible drop toward $70,000 as Strategy pauses buying and inflation cools Fed rate-cut hopes.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-05-10T10:47:20.000Z"
+  },
+  {
     "id": "6c2e2d31-7e94-42ba-a5b3-ce76bf82c024",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -20,7 +40,7 @@
     "created_at": "2026-05-10T06:30:28.000Z"
   },
   {
-    "id": "185e71cc-a8ad-40db-a36d-0de1c50d81bc",
+    "id": "83206851-70bb-4248-94f1-a82f825820c5",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇸🇦 World's largest oil company Saudi Aramco reports higher profits in Q1 2026 despite Iran war.@WatcherGuru",
@@ -28,35 +48,5 @@
     "url": "https://t.me/WatcherGuru#a4bf2896",
     "author": "@WatcherGuru",
     "created_at": "2026-05-10T06:29:01+00:00"
-  },
-  {
-    "id": "ae29d59a-38cd-4abf-8958-c2373cf6990d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": " Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
-    "summary": "1. The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived.",
-    "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-05-10T05:33:59.000Z"
-  },
-  {
-    "id": "58fcdfe4-4422-4a8c-9523-2005d2d94b2f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Gustavo Petro Warns Fossil-Fueled Crypto Mining Will Trigger ‘Climate Collapse’",
-    "summary": "1. Colombian President Gustavo Petro stressed that the future of bitcoin mining must be ecological, as countries with abundant green energy, including Paraguay and Venezuela, are attracting investments in the sector.\n2. He also warned about the consequences of using fossil fuels to power this activity.\n3. President Petro Highlights Venezuelan and Paraguayan Potential For Energy Mining Cryptocurrency […]",
-    "url": "https://news.bitcoin.com/gustavo-petro-warns-fossil-fueled-crypto-mining-will-trigger-climate-collapse/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-10T05:30:47.000Z"
-  },
-  {
-    "id": "d2e14c11-cf7e-4688-a9f2-4a2ba487fcf0",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "90% of Peru’s $28 Billion Crypto Market Is Now Driven by Stablecoins",
-    "summary": "1. According to Binance’s Latam North General Manager, Daniel Acosta, stablecoins now account for up to 90% of the $28 billion in annual volumes transacted in the Peruvian crypto market.\n2. Acosta stressed that the driving use cases for stablecoins in Peru were cross-border payments and remittances.\n3. Stablecoins Dominate 90% of Peru’s Crypto Market Stablecoins have become […]",
-    "url": "https://news.bitcoin.com/90-of-perus-28-billion-crypto-market-is-now-driven-by-stablecoins/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-10T04:30:45.000Z"
   }
 ]
