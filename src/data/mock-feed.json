@@ -1,5 +1,95 @@
 [
   {
+    "id": "6402931a-08de-447e-859b-e5d5c156b384",
+    "source": "OpenAI",
+    "type": "rss",
+    "title": "How enterprises are scaling AI",
+    "summary": "1. How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "author": "OpenAI",
+    "created_at": "2026-05-11T10:00:00.000Z"
+  },
+  {
+    "id": "19bce882-85ac-43ea-8906-7c21cbe3f6f4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BIT (formerly Matrixport) address withdraws $11.7M in ETH from Binance",
+    "summary": "An address belonging to crypto financial services firm BIT (formerly Matrixport) just withdrew 5,000 ETH, worth $11.67 million, from Binance, according to Lookonchain. Withdrawals from exchanges are typically interpreted as an intention to hold.",
+    "url": "https://t.me/CoinnessGL#5ad42f58",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T05:39:59+00:00"
+  },
+  {
+    "id": "c1639251-164e-4085-92dc-81fc272b4c18",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analyst: Bitcoin showing signs of liquidity recovery",
+    "summary": "Signs of liquidity flowing into Bitcoin have emerged, on-chain analyst Darkfost said on X. He noted that BTC's Realized Cap has now turned positive. Darkfost described the Realized Cap as the most critical indicator for assessing liquidity flows alongside investor behavior and sentiment. While not highly significant in isolation, he said the metric's recovery is noteworthy after it plunged to -2.6% in February. During the previous correction, the Realized Cap decreased as investors who bought near the peak realized losses. However, with the recent improvement in BTC's price trend, market sentiment is shifting as funds flow back in and investor confidence recovers. The key question now, he explained, is whether the trend will continue or if investors will take profits, judging the current price as still overvalued.",
+    "url": "https://t.me/CoinnessGL#1c1feab1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T05:39:47+00:00"
+  },
+  {
+    "id": "42f999da-85dd-4a62-a681-cd34cf7f1802",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto sell-off risk rises amid surge in private credit fund redemptions",
+    "summary": "A large-scale redemption from private credit funds could spill over into the cryptocurrency market and create short-term selling pressure, Crypto Briefing reported. The outlet highlighted Blackstone's flagship private credit fund, BCRED, which has approximately $48 billion in assets under management. In the first quarter of 2026, the fund saw redemption requests reach 7.9% of its equity, amounting to about $3.7 billion. In March, BCRED recorded its first monthly loss (-0.4%) since September 2022. Blackstone responded with a $400 million support package, consisting of $150 million from management and $250 million from the company, and raised its quarterly redemption limit from 5% to 7%. Crypto Briefing noted that when semi-liquid funds face a rush of redemptions, managers tend to sell their most liquid assets first. In a mixed portfolio that includes cryptocurrencies, major assets like Bitcoin are likely to be among the first sold, creating downward pressure regardless of any underlying credit issues.",
+    "url": "https://t.me/CoinnessGL#67835a84",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T05:37:58+00:00"
+  },
+  {
+    "id": "588a346d-aef5-4a4a-9e32-fc0eba2fbd3e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP spikes 2.5%, beating bitcoin and ether, in breakout above $1.45 ",
+    "summary": "1. Sharp move through resistance came with one of the biggest volume spikes in weeks, though profit-taking quickly emerged near session highs.",
+    "url": "https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-11T05:07:05.000Z"
+  },
+  {
+    "id": "b2843244-230b-420e-8763-118a7e639689",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Latam Insights: Venezuela’s Crypto Mining Ban, Tether’s $300M Lawsuit",
+    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, Venezuela upholds a crypto mining ban as power demand spikes, Tether sues Titan Holding in Brazil for $300 million, and stablecoins dominate Peru’s crypto market.\n3. Venezuela Upholds Crypto Mining Ban as Power Demand […]",
+    "url": "https://news.bitcoin.com/latam-insights-venezuelas-crypto-mining-ban-tethers-300m-lawsuit/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-11T05:05:35.000Z"
+  },
+  {
+    "id": "6cc30465-36ff-455f-9888-8156bc3b214d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "A bitcoin whale that went silent in 2013 moves $40 million in BTC",
+    "summary": "1. A long-dormant whale woke up Sunday, moving millions worth of bitcoin on-chain.",
+    "url": "https://www.coindesk.com/markets/2026/05/11/a-bitcoin-whale-that-went-silent-in-2013-moves-usd40-million-in-btc",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-11T04:06:22.000Z"
+  },
+  {
+    "id": "9f25f817-a9b7-4fb5-bc77-03b2852e2eb2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘A Lot Further to Go’: Ex-Goldman Strategist Predicts a Massive Breakout for the Brazilian Real",
+    "summary": "1. Robin Brooks, Senior Fellow at The Brookings Institution and former Chief FX Strategist at Goldman Sachs, believes the Brazilian Real is poised to grow, as the currency’s value has been consistently rising since 2025.\n2. Two key drivers will benefit the Brazilian real: the end of the Middle East conflict and the rising uncertainty in the […]",
+    "url": "https://news.bitcoin.com/a-lot-further-to-go-ex-goldman-strategist-predicts-a-massive-breakout-for-the-brazilian-real/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-11T04:05:27.000Z"
+  },
+  {
+    "id": "e2f79401-fd69-46a1-81ec-a4de3e676ea7",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’",
+    "summary": "1. 10x Research CEO Markus Thielen said Bitcoin’s strength above $80,000 could be supported by two favorable decisions in the US Senate this week.",
+    "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-11T03:42:25.000Z"
+  },
+  {
     "id": "c92d689f-01ef-445b-bf67-89a831f4578d",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -138,115 +228,5 @@
     "url": "https://t.me/CoinnessGL#81452d55",
     "author": "@CoinnessGL",
     "created_at": "2026-05-11T00:28:39+00:00"
-  },
-  {
-    "id": "791d424b-0403-445f-ba30-4d59eb5990ad",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Michael Saylor Pushes STRC as Lower-Volatility Alternative to BTC and MSTR",
-    "summary": "1. Michael Saylor is laying out how STRC fits into Strategy’s broader bitcoin playbook, giving investors a clearer view of why the company sees it differently from BTC or MSTR.\n2. The message focuses on income, liquidity, and stability as the company builds out its preferred equity strategy.\n3. Saylor Frames STRC as Strategy’s Income Credit Product Strategy […]",
-    "url": "https://news.bitcoin.com/michael-saylor-pushes-strc-as-lower-volatility-alternative-to-btc-and-mstr/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-10T23:30:42.000Z"
-  },
-  {
-    "id": "0e2dc608-c3f6-47e4-abee-9019d4b21373",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC rebound is natural, too early to call bull run: Analyst",
-    "summary": "On-chain analyst Axel Adler Jr. has argued that while Bitcoin's recent recovery to the $80,000 level is positive, it should be viewed as a natural rebound following a sharp decline rather than the start of a new bull market. He explained that such a bounce does not necessarily signal the beginning of a new upward cycle. Adler pointed out that multiple on-chain indicators suggest a market bottom has not yet fully formed, noting that the spot market has not yet experienced a clear phase of capitulation. He emphasized that it is premature to confirm a bullish reversal without sufficient evidence across on-chain metrics, sustainable spot demand, and an easing of downward pressure from the supply side.",
-    "url": "https://t.me/CoinnessGL#99194ae5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-10T23:07:18+00:00"
-  },
-  {
-    "id": "3e3271e8-17cf-49d8-93f2-b4ef8120e6a0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Address linked to BitForex founder deposits $526.6M in ETH to Binance",
-    "summary": "An address believed to belong to BitForex founder Garrett Jin deposited 225,627 ETH, worth approximately $526.59 million, to Binance overnight, Onchain Lens reported. Jin, who founded the fraudulent crypto exchange BitForex, is a well-known Bitcoin OG. He previously faced insider trading allegations last October after opening a large short position immediately before a crash in Bitcoin's price. more:",
-    "url": "https://t.me/CoinnessGL#df462646",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-10T22:56:48+00:00"
-  },
-  {
-    "id": "08e3a422-e19f-4a15-8c51-06ecddba48a9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Strategy CEO says BTC will only be sold for dividends, tax benefits",
-    "summary": "Strategy (Nasdaq: MSTR) CEO Phong Le said in a recent CNBC interview that the company will take a mathematical rather than an ideological approach, outlining two specific scenarios in which it would sell its Bitcoin holdings. The first case would be to fund dividend payments for its perpetual preferred stock, STRC. Le explained that Strategy could sell Bitcoin for this purpose if it is deemed more beneficial for increasing the company's Bitcoin per share (BPS) value than issuing new stock. The second scenario involves selling for tax advantages, where the company might sell some of its holdings if doing so could maximize tax benefits by realizing or deferring gains and losses. This marks a shift from Strategy's previous \"never sell\" stance, as the company has indicated it is now open to selling its Bitcoin if it is advantageous to do so. more:",
-    "url": "https://t.me/CoinnessGL#7cd40e56",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-10T22:42:54+00:00"
-  },
-  {
-    "id": "00706895-3345-4629-9d42-d62814ed6606",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. I “Love” Justice Neil Gorsuch!\n2. He’s a really smart and good man, but he voted against me, and our Country, on Tariffs, a devastating move.\n3. How do I reconcile this?",
-    "url": "https://trumpstruth.org/statuses/38325",
-    "author": "Trump Truth",
-    "created_at": "2026-05-10T22:34:09.000Z"
-  },
-  {
-    "id": "f7484e67-0977-4d43-843b-59766ea092f6",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Magnificent Ballroom, under construction, and ahead of schedule, at the White House!\n2. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/38323",
-    "author": "Trump Truth",
-    "created_at": "2026-05-10T22:14:44.000Z"
-  },
-  {
-    "id": "f28ddf29-fb6d-4708-b7ed-c9a8811fb98e",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. You could listen to FoxNews all day long, absolutely devour it, but then, when you hear SLEAZEBAGS, like Congressman Ro Khanna, “a wolf in sheep’s clothing,” LIE, LIE, LIE, AND LIE AGAIN, without any pushback, or competent rebuttal from an anchor, in this case, Jacqui Heinrich, the entire Common Sense dialogue that has been going on all day at Fox is completely obliterated!\n2. Why would Fox put SCUM like this on, or others, such as Low Rated Bill Maher, who gains “credibility” by constant referral to him as though he were a Liberal source of “Wisdom,” or very Low IQ Hakeem Jeffries, who considers the Supreme Court “illegitimate,” and probably hates our Country.\n3. No matter how “Fair and Balanced” the day’s News at Fox may be, the end result is destroyed by professional Liars, Conmen, and Liberal, Crooked Politicians.",
-    "url": "https://trumpstruth.org/statuses/38324",
-    "author": "Trump Truth",
-    "created_at": "2026-05-10T22:13:09.000Z"
-  },
-  {
-    "id": "17b64985-f60f-4d23-8391-3874ef8de3ba",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘Internet Pro’: Inside Iran’s Controversial New Two-Tiered Web System",
-    "summary": "1. Iranians are still affected by these connection restrictions, and now there’s a new way for Iranians to access the internet: a two-tier system called “Internet Pro,” that allows pre-approved users to navigate the internet with fewer restrictions, causing divisions among Iranian regime officials.\n2. Iranian Internet Blockade Continues As Government Enforces Two-Tiered System The Iranian internet […]",
-    "url": "https://news.bitcoin.com/internet-pro-inside-irans-controversial-new-two-tiered-web-system/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-10T22:12:50.000Z"
-  },
-  {
-    "id": "ba0f3a5a-54a4-4817-86c4-01686b1e70a1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Morgan Stanley’s bitcoin ETF absorbs $194 million in first month with no net daily outflows",
-    "summary": "1. Most of MSBT's capital came from self-directed clients since the bank's 16,000-person financial advisor network is not yet cleared to recommend the fund.",
-    "url": "https://www.theblock.co/post/400650/morgan-stanleys-bitcoin-etf-absorbs-194-million-in-first-month-with-no-net-daily-outflows?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-05-10T22:07:53.000Z"
-  },
-  {
-    "id": "fbccf733-6373-45b7-a74e-a7d8680489d9",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Oil prices rise over 3.5% after US and Iran reject proposals to end the war.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#11ae7253",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-10T22:07:27+00:00"
-  },
-  {
-    "id": "e842fad0-baf6-486e-8013-6a9e96c6ef63",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Get ready for the whisper-filled office of the future",
-    "summary": "1. How will work setups change if we spend more and more time talking to our computers?",
-    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-    "author": "Anthony Ha",
-    "created_at": "2026-05-10T21:15:30.000Z"
   }
 ]
