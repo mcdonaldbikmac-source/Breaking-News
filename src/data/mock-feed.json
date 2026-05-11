@@ -1,5 +1,85 @@
 [
   {
+    "id": "73822fd5-57c1-45ba-8082-85f65972b3fa",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Circle releases whitepaper for Arc token, allocates 60% to ecosystem",
+    "summary": "Circle has released the whitepaper for ARC, the native token of its Layer 1 chain, Arc, BlockBeats reported. The total supply of ARC is 10 billion tokens. Initially, a 2-3% inflation model will provide rewards to validators and stakers. Network fees, which can be paid in any cryptocurrency, will be automatically converted to ARC. A portion of these fees will be allocated for rewards, while the remainder will be permanently burned to curb inflation. Of the total supply, 60% is allocated to ecosystem development, 25% to protocol development and operations, and 15% to long-term reserves. The Arc testnet, which launched last October, has processed 2.441 billion transactions to date. The mainnet is expected to launch this summer. Circle previously announced it had raised $222 million through a pre-sale of ARC. more:",
+    "url": "https://t.me/CoinnessGL#31026036",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T11:02:10+00:00"
+  },
+  {
+    "id": "72b81969-5ec0-463f-a124-64ed87e23288",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "QCP Capital: BTC likely to remain range-bound below $84K resistance",
+    "summary": "QCP Capital has identified the U.S.-China summit and U.S. inflation data as key market variables this week, forecasting that BTC will likely continue to trade in a range below resistance near $84,000 for the time being. The firm noted that BTC holding the $80,000 level despite recent spot ETF outflows is a positive sign. QCP Capital explained that if this week's CPI and PPI data show signs of stabilizing inflation, it could create a favorable environment for the crypto market. The firm also added that the U.S. Senate Banking Committee is scheduled to review the Clarity Act, and progress in those discussions could affect ETF and institutional fund flows.",
+    "url": "https://t.me/CoinnessGL#1d6c3901",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T10:59:15+00:00"
+  },
+  {
+    "id": "542f851b-48cf-4a5e-92b1-b8bc7b14bba7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+    "summary": "1. Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.",
+    "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+    "author": "Kate Park",
+    "created_at": "2026-05-11T10:58:00.000Z"
+  },
+  {
+    "id": "377425b6-43fa-460b-ab44-0d3b034faa6f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Michael Saylor’s latest tax strategy echoes Strategy’s 2022 bitcoin sale",
+    "summary": "1. Michael Saylor confirmed the company was prepared to sell bitcoin, reviving a tax loss harvesting strategy first used in 2022.",
+    "url": "https://www.coindesk.com/markets/2026/05/11/michael-saylor-s-latest-tax-strategy-echoes-strategy-s-2022-bitcoin-sale",
+    "author": "James Van Straten",
+    "created_at": "2026-05-11T10:57:18.000Z"
+  },
+  {
+    "id": "1423b401-2997-4e90-9187-0938465558fc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Trump fans put millions of dollars into a gold phone and a memecoin. Neither has gone well",
+    "summary": "1. Nearly 600,000 deposits worth $60 million have been collected for a gold T1 phone that has not been delivered to a single confirmed buyer, with terms quietly rewritten in April to remove delivery guarantees.",
+    "url": "https://www.coindesk.com/markets/2026/05/11/trump-fans-put-millions-of-dollars-into-a-gold-phone-and-a-memecoin-neither-has-gone-well/markets/2026/05/11/trump-fans-put-millions-of-dollars-into-a-gold-phone-and-a-memecoin-neither-has-gone-well",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-11T10:56:24.000Z"
+  },
+  {
+    "id": "3981d486-a943-491a-a52a-093a08e00dc1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Circle Q1 revenue misses estimates despite USDC growth",
+    "summary": "Circle (CRCL) announced first-quarter revenue of $694 million, falling short of the market consensus of $721 million. Despite the revenue miss, the company reported accelerating network growth, with USDC circulation rising to $77 billion and on-chain transaction volume increasing by 263% year-over-year. Net income for the quarter was $55 million, a 15% decrease from the previous year, while adjusted EBITDA stood at $151 million.",
+    "url": "https://t.me/CoinnessGL#5fd63183",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T10:50:07+00:00"
+  },
+  {
+    "id": "a732919f-dfef-4d8c-adfa-95f090e14ed1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Circle said to raise $222 million for Arc blockchain token sale at $3 billion valuation",
+    "summary": "1. Circle raised $222 million for its Arc blockchain token at a $3 billion valuation, drawing backing from BlackRock, Apollo and Bullish.",
+    "url": "https://www.coindesk.com/business/2026/05/11/circle-raises-usd222-million-for-arc-blockchain-token-sale-at-usd3-billion-valuation",
+    "author": "Oliver Knight",
+    "created_at": "2026-05-11T10:50:03.000Z"
+  },
+  {
+    "id": "01ed0318-e3cb-4286-8ef6-a27c2ce23767",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Meme Team Moves $17M in TRUMP to Bitgo as Allocation Wallet Stirs Again",
+    "summary": "1. The official allocation wallet tied to the TRUMP meme coin project transferred 7 million TRUMP tokens, worth approximately $17.22 million, to institutional custodian Bitgo on Sunday, raising fresh questions about insider token movements and potential sell pressure.\n2. What the Bitgo Transfer Signals The official Trump meme team allocation wallet transferred 4.915 million TRUMP tokens to […]",
+    "url": "https://news.bitcoin.com/trump-token-bitgo-custody-transfer-may-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-11T10:30:12.000Z"
+  },
+  {
     "id": "ebdf9ab0-b558-4a9b-9901-374284e4363c",
     "source": "OpenAI",
     "type": "rss",
@@ -18,6 +98,146 @@
     "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "author": "OpenAI",
     "created_at": "2026-05-11T10:00:00.000Z"
+  },
+  {
+    "id": "dd215f10-e0c8-411f-94c8-b623df65d609",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Capital B raises $17.8M to expand its Bitcoin treasury",
+    "summary": "1. Capital B raised $17.8 million from investors, including Adam Back and TOBAM, saying proceeds could help add 182 BTC to its treasury.",
+    "url": "https://cointelegraph.com/news/capital-b-raises-178m-fuel-bitcoin-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-05-11T09:48:51.000Z"
+  },
+  {
+    "id": "2b7ee8d6-2e46-4b06-a8b1-0023fa688e9c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Global crypto funds log $858M inflows in sixth straight positive week as Clarity Act progress lifts sentiment: CoinShares",
+    "summary": "1. Crypto fund inflows hit a sixth straight positive week, led by U.S.\n2. products and bitcoin ETFs, amid Clarity Act optimism, per CoinShares.",
+    "url": "https://www.theblock.co/post/400688/global-crypto-funds-log-858m-inflows-in-sixth-straight-positive-week-as-clarity-act-progress-lifts-sentiment-coinshares?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-11T09:41:09.000Z"
+  },
+  {
+    "id": "bd58265f-0b08-4c76-96a9-4bec3ed4fedb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Bulls Drive Token Above $90B Market Cap as Bitcoin Retakes $82,000",
+    "summary": "1. XRP climbed above $1.50 for the first time in nearly two months during a broader crypto market rally that also pushed bitcoin past $82,000.\n2. ETF Inflows and Exchange Withdrawals Boost XRP Momentum On May 10, XRP breached the $1.50 mark for the first time in nearly two months amid a rare weekend cryptocurrency market rally […]",
+    "url": "https://news.bitcoin.com/xrp-bulls-drive-token-above-90b-market-cap-as-bitcoin-retakes-82000/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-11T09:30:14.000Z"
+  },
+  {
+    "id": "83c18581-8d4e-4fe7-9a06-0fabcf560e9f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Crypto.com receives UAE license tied to Dubai government crypto payments",
+    "summary": "1. Crypto.com's UAE entity became the first VASP to receive a UAE central bank SVF license tied to Dubai government crypto payment services.",
+    "url": "https://www.theblock.co/post/400687/crypto-com-receives-uae-license-tied-to-dubai-government-crypto-payments?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-11T09:25:15.000Z"
+  },
+  {
+    "id": "d92d1954-c2db-4c63-a842-e025a9986363",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "SOL is up 12% over the past week while BTC and ETH barely moved.",
+    "summary": "CMC Fear & Greed stayed neutral near 50.BTC remains range-bound around $80K, with +0.12% over 24h and +1.46% over 7d. ETH looks similar at +0.02% / -1.08%. No clear directional momentum.But capital is rotating:> XRP: +1.47% 24h, +2.52% 7d> BNB: +0.25% 24h, +3.62% 7d> SOL: +0.59% 24h, +12.30% 7dThe driver was not just price momentum. SOL saw $39M in ETF inflows last week, its strongest weekly inflow since March. Derivatives confirmed the move too: funding rates have stayed mostly positive since May 4, while open interest rose from $4.83B on May 5 to $6.49B today.This is still a sideways rotation market. Sentiment is neutral, but capital is not sitting still. Spot flows, positive funding, and rising OI all point to stronger SOL demand, making it the clearest example of selective rotation.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#51d22ac0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-11T09:24:43+00:00"
+  },
+  {
+    "id": "835d806d-b1b4-4a62-a474-a05271b56b7b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "France reports first confirmed hantavirus infection tied to the MV Hondius outbreakTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#a9524d84",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-11T09:19:06+00:00"
+  },
+  {
+    "id": "5501d3c7-1193-405c-94b0-48040bca2315",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+    "summary": "1. Crypto.com says a new UAE Stored Value Facilities license will let residents pay Dubai government fees in crypto, as the company doubles down on regulated expansion in the Middle East and beyond.",
+    "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-05-11T09:15:06.000Z"
+  },
+  {
+    "id": "9c84b460-b10e-4a78-9231-5684baec1856",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "This Bitcoin price level will be 'end of the bears' if broken, says analyst",
+    "summary": "1. Bitcoin’s rejection at the 200-day EMA mirrors past 25% and 36% BTC sell-offs, fueling fears of another drop toward $60,000.",
+    "url": "https://cointelegraph.com/markets/this-bitcoin-price-level-will-be-end-of-bears-if-broken-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-05-11T09:04:14.000Z"
+  },
+  {
+    "id": "4e707515-5f78-4daa-8eff-f0c5f83d03da",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Australia to propose capital gains tax changes affecting crypto investors: reports",
+    "summary": "1. The government plans to replace a 50% capital gains tax discount on assets held for more than one year, according to AFR.",
+    "url": "https://www.theblock.co/post/400682/australia-capital-gains-tax-changes?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-05-11T08:58:33.000Z"
+  },
+  {
+    "id": "9fd24789-c4ec-4adf-ae00-dd0b1c19e565",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Crypto funds draw $858M in sixth straight weekly inflow as CLARITY Act momentum lifts sentiment, led by $706M into Bitcoin as total AuM rises to $160BTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#e9a29c01",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-11T08:45:46+00:00"
+  },
+  {
+    "id": "683ee8b1-7f13-4cc0-a310-ab5d129e5f32",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Raoul Pal Says a Bitcoin Supercycle Is More Likely Than Ever in 2026",
+    "summary": "1. Macro strategist Raoul Pal says the probability of a bitcoin supercycle has risen significantly, citing debt monetization pressures, a historic global capital expenditure boom, and structural shifts in how governments are managing sovereign debt.\n2. What Is Driving Pal’s Supercycle Thesis?\n3. Raoul Pal, the founder of Real Vision and one of the most closely followed macro […]",
+    "url": "https://news.bitcoin.com/raoul-pal-bitcoin-supercycle-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-11T08:30:28.000Z"
+  },
+  {
+    "id": "6d6e990b-77a4-421d-b277-7c1233531cf1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Santiment warns Bitcoin's rally may be short-lived as bullish social media chatter spikes.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8878009b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-11T08:29:23+00:00"
+  },
+  {
+    "id": "090b8af9-c6d8-4d1f-a539-2ec35b8c54bf",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Weekly Top Gainers 1️⃣ Venice Token: +78.97% 2️⃣ Toncoin: +65.44% 3️⃣ BUILDon:...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#312efb0f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-11T07:44:17+00:00"
+  },
+  {
+    "id": "e9176bb4-aa85-456f-8e96-7afe549ea28b",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Trump's business loses US$405.9 million due to crypto, CEO step down",
+    "summary": "1. Trump's business loses US$405.9 million due to crypto, CEO step down",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1t9wd62/trumps_business_loses_us4059_million_due_to/",
+    "author": "u/Abdeliq",
+    "created_at": "2026-05-11T07:44:01.000Z"
   },
   {
     "id": "2af2ef19-5a6f-43ad-a8a7-1a3edff0f8b9",
@@ -60,7 +280,7 @@
     "created_at": "2026-05-11T07:02:16+00:00"
   },
   {
-    "id": "2ed1078c-98e5-4b13-854c-2cf1a2a0367a",
+    "id": "7e150557-6809-461d-b4c7-a4ba80449caf",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "New hantavirus case confirmed by health department in the United States.Twitter",
@@ -198,105 +418,5 @@
     "url": "https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45",
     "author": "Shaurya Malwa",
     "created_at": "2026-05-11T05:07:05.000Z"
-  },
-  {
-    "id": "b2843244-230b-420e-8763-118a7e639689",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Latam Insights: Venezuela’s Crypto Mining Ban, Tether’s $300M Lawsuit",
-    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, Venezuela upholds a crypto mining ban as power demand spikes, Tether sues Titan Holding in Brazil for $300 million, and stablecoins dominate Peru’s crypto market.\n3. Venezuela Upholds Crypto Mining Ban as Power Demand […]",
-    "url": "https://news.bitcoin.com/latam-insights-venezuelas-crypto-mining-ban-tethers-300m-lawsuit/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-11T05:05:35.000Z"
-  },
-  {
-    "id": "6cc30465-36ff-455f-9888-8156bc3b214d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "A bitcoin whale that went silent in 2013 moves $40 million in BTC",
-    "summary": "1. A long-dormant whale woke up Sunday, moving millions worth of bitcoin on-chain.",
-    "url": "https://www.coindesk.com/markets/2026/05/11/a-bitcoin-whale-that-went-silent-in-2013-moves-usd40-million-in-btc",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-11T04:06:22.000Z"
-  },
-  {
-    "id": "9f25f817-a9b7-4fb5-bc77-03b2852e2eb2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘A Lot Further to Go’: Ex-Goldman Strategist Predicts a Massive Breakout for the Brazilian Real",
-    "summary": "1. Robin Brooks, Senior Fellow at The Brookings Institution and former Chief FX Strategist at Goldman Sachs, believes the Brazilian Real is poised to grow, as the currency’s value has been consistently rising since 2025.\n2. Two key drivers will benefit the Brazilian real: the end of the Middle East conflict and the rising uncertainty in the […]",
-    "url": "https://news.bitcoin.com/a-lot-further-to-go-ex-goldman-strategist-predicts-a-massive-breakout-for-the-brazilian-real/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-11T04:05:27.000Z"
-  },
-  {
-    "id": "e2f79401-fd69-46a1-81ec-a4de3e676ea7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’",
-    "summary": "1. 10x Research CEO Markus Thielen said Bitcoin’s strength above $80,000 could be supported by two favorable decisions in the US Senate this week.",
-    "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-11T03:42:25.000Z"
-  },
-  {
-    "id": "c92d689f-01ef-445b-bf67-89a831f4578d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Why Is Strategy Valuable? CEO Says MSTR Is More Than Its BTC Holdings",
-    "summary": "1. Strategy President and CEO Phong Le said the company’s value extends beyond its bitcoin holdings because of its enterprise software operations, compliance infrastructure, and global scale.\n2. Strategy reported its strongest software quarter in a decade, including 59% cloud revenue growth and more than 3,000 customers worldwide.\n3. Why Strategy Says Its Value Extends Beyond Bitcoin Holdings […]",
-    "url": "https://news.bitcoin.com/why-is-strategy-valuable-ceo-says-mstr-is-more-than-its-btc-holdings/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-11T03:05:31.000Z"
-  },
-  {
-    "id": "bd23fa7c-d1e9-4deb-a6ef-8c117b65f6c0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bithumb to temporarily suspend XPLA deposits, withdrawals",
-    "summary": "South Korean crypto exchange Bithumb announced that it will temporarily suspend deposits and withdrawals for XPLA starting at 3:00 a.m. UTC on May 13 to support a network upgrade.",
-    "url": "https://t.me/CoinnessGL#abb25f87",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T03:01:50+00:00"
-  },
-  {
-    "id": "8c27c920-0e31-4987-bf61-2d1eb7d53731",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin briefly tops $82,000 on improving macro conditions; Sui jumps 25%",
-    "summary": "1. Sui surged 25% over the last 24 hours, as analysts pointed to Sui Group Holdings' decision to stake 108.7 million SUI.",
-    "url": "https://www.theblock.co/post/400663/bitcoin-briefly-tops-82000-sui-jumps-25?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-11T03:00:52.000Z"
-  },
-  {
-    "id": "9fdf8a16-93c7-4916-8b65-95a05e7afa4e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "South Korean crypto tax deferral to be excluded from July tax bill",
-    "summary": "South Korean tax authorities are preparing to implement taxation on virtual assets as scheduled from January next year, according to The Asia Business Daily. The Ministry of Economy and Finance has reportedly decided not to include a deferral of the tax in its upcoming tax law amendment in July. A government official stated that specific taxation standards will be prepared and released through a National Tax Service notice to ensure the tax is implemented on Jan. 1. To finalize the details, the government has been coordinating with the country's five major virtual asset exchanges: Dunamu, Bithumb, Coinone, Korbit, and Gopax. more:",
-    "url": "https://t.me/CoinnessGL#3b4e09fc",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T02:36:25+00:00"
-  },
-  {
-    "id": "75be2a07-90c8-4b17-8f88-20849346e76a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Ark Invest exec: Clarity Act passage before summer seen as foregone conclusion",
-    "summary": "Lorenzo Valente, director of crypto research at Ark Invest, summarized his takeaways from the Consensus 2026 event in Miami via X. He assessed the event as a turning point where cryptocurrency has transitioned from a financial movement to an industry, noting that \"degens\" were out and institutions were mainstream. The atmosphere was not bullish but heavily institutional, dominated by cautious optimism. The following is a summary of his key points:- The passage of the CLARITY Act before summer is seen as a virtual certainty.- Institutions are fully entering tokenization; the debate over blockchain's utility is over, shifting to a competition for dominance.- Investment themes are converging, with a focus on stablecoins, tokenization, internet banking, and permissioned DeFi.- Coinbase, Kraken, Robinhood, and Bullish are emerging as competitors to traditional finance, not just partners.- Traditional finance M&A is accelerating, with Kraken acquiring Reap for $600 million and players like Visa and Mastercard entering the market at a premium.- The biggest deal at the event was Bullish's $4.2 billion acquisition of Equiniti, securing a full-stack RWA structure from issuance to settlement.- The VC landscape is polarizing between large funds (a16z at $2.2 billion, Haun Ventures at $1 billion) and smaller funds that are either pivoting to AI or shutting down.- Barriers to entry in the industry are rising, with competitors now being firms with over $200 million in annual revenue, such as Tether, Anchorage, and Securitize.- The debate over L1 competition is effectively over; institutional focus has shifted to settlement finality, compliance, and liquidity.- Most projects with convoluted conflicts of interest between tokens and equity are expected to fail.- Most Digital Asset Trusts (DATs) suffer from poor operations and governance, but the underlying investment structure with no maturity date remains viable.- AI agent finance is characterized by big claims but lacks substance.- There was no mention of retail investors returning; institutions are expected to drive the next cycle.",
-    "url": "https://t.me/CoinnessGL#ad76d12b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T02:17:03+00:00"
-  },
-  {
-    "id": "1103d956-a280-4733-be8f-b663a61ab18f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Why CLARITY Act Matters: Grayscale Sees Next Phase for Digital Assets",
-    "summary": "1. Grayscale outlined why it believes the CLARITY Act matters for crypto regulation and how the bill could affect digital asset markets.\n2. The firm said the proposal could shift oversight away from enforcement-led regulation and toward clearer rules for regulators, developers and investors.\n3. Grayscale Frames CLARITY Act as a Crypto Rulebook Crypto asset manager Grayscale Investments […]",
-    "url": "https://news.bitcoin.com/why-clarity-act-matters-grayscale-sees-next-phase-for-digital-assets/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-11T02:05:55.000Z"
   }
 ]
