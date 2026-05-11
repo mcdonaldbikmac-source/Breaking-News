@@ -1,5 +1,105 @@
 [
   {
+    "id": "a31c2b83-e6b4-4458-929c-c5b321060ce9",
+    "source": "The Block",
+    "type": "rss",
+    "title": "S&P 500 payments firm Corpay taps BVNK to add stablecoin wallets for global customers",
+    "summary": "1. Corpay partnered with BVNK to add stablecoin wallets and 24/7 settlement across its 800,000-client global payments network.",
+    "url": "https://www.theblock.co/post/400710/sp-500-payments-firm-corpay-taps-bvnk-to-add-stablecoin-wallets-for-global-customers?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-11T11:49:10.000Z"
+  },
+  {
+    "id": "ac5e826a-0a52-4cd7-8f1e-14aa3e233968",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Circle raises $222M in Arc token presale at $3B FDV from a16z crypto, BlackRock and others; Q1 revenue up 20%",
+    "summary": "1. Circle raised $222M in an Arc presale at a $3B valuation; BlackRock, Apollo, and a16z invest as Q1 revenue reaches $694M and USDC hits $77B.",
+    "url": "https://www.theblock.co/post/400709/circle-raises-222m-in-arc-token-presale-at-3b-fdv-from-a16z-crypto-blackrock-and-others-q1-revenue-up-20?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-11T11:36:13.000Z"
+  },
+  {
+    "id": "bfa9aa1f-d69d-4812-916c-26b09fe45289",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Prediction market ETF launch delayed as SEC conducts further review",
+    "summary": "The launch of a prediction market-based ETF, scheduled for today, has been postponed. According to Bloomberg ETF analyst Eric Balchunas, the U.S. Securities and Exchange Commission (SEC) is conducting an additional review of the product's structure and disclosures. He explained that this is likely a matter of reconfirming details rather than a critical issue. Balchunas added that because this is a new type of ETF with little precedent, authorities appear to be taking a more cautious approach, as its launch could set a regulatory precedent.",
+    "url": "https://t.me/CoinnessGL#247d7b92",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T11:35:31+00:00"
+  },
+  {
+    "id": "e84d1ced-dd8f-41ad-96f2-2f8c99f8aee2",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Crypto Funds Add $858M as Clarity Act Drives Market Optimism",
+    "summary": "1. Digital asset inflows peak at a six-week high as a Senate stablecoin deal stokes institutional appetite across Bitcoin and altcoins.",
+    "url": "https://decrypt.co/367382/crypto-funds-add-858m-as-clarity-act-drives-market-optimism",
+    "author": "Vismaya V",
+    "created_at": "2026-05-11T11:31:38.000Z"
+  },
+  {
+    "id": "c942c7be-d633-4bac-8b57-ebd351efdb7c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BIT-linked whale sells additional HYPE, total sales reach $12.8M",
+    "summary": "An address (starting with 0x4aFe) linked to crypto financial services firm BIT, formerly Matrixport, has sold an additional 103,678 HYPE, Onchain Lens reported. This brings its cumulative sales to 303,678 HYPE ($12.79 million) at an average price of $42.15. The address still holds 99,612 HYPE, worth approximately $4.14 million.",
+    "url": "https://t.me/CoinnessGL#bf4d8c6b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T11:31:12+00:00"
+  },
+  {
+    "id": "f1004059-1b73-43d7-81b1-4ea1a0f17efa",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitforex Founder Garrett Jin Deposits $1.35B in ETH to Binance in 4 Days",
+    "summary": "1. A wallet linked to Garrett Jin, founder of the now-defunct exchange Bitforex, has deposited all 577,896 ether into Binance over just four days, closing out a position he acquired by swapping bitcoin for ETH when ether was trading at $4,591.\n2. A $1.35 Billion ETH Offload and a Costly Trade A wallet attributed to Garrett Jin […]",
+    "url": "https://news.bitcoin.com/garrett-jin-eth-binance-deposit-1-35-billion-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-11T11:30:58.000Z"
+  },
+  {
+    "id": "0a32628c-c047-40af-9115-dbab6bb21585",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Peter Schiff calls BTC a decentralized Ponzi, STRC a centralized one",
+    "summary": "Prominent Bitcoin critic Peter Schiff, CEO of Euro Pacific Capital, argued that Bitcoin is a new form of decentralized Ponzi scheme during a discussion related to Strategy (MSTR). He explained that because BTC generates no profits or dividends, existing investors can only realize gains if new investors buy in at higher prices. Schiff further criticized Strategy's corporate preferred stock product, STRC, describing it as a typical centralized Ponzi scheme operated by the company. Previously, Strategy founder Michael Saylor had countered Schiff's allegations, stating that the CEO has never liked Bitcoin or the industry.",
+    "url": "https://t.me/CoinnessGL#079563ce",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-11T11:26:43+00:00"
+  },
+  {
+    "id": "dc05dc52-d778-4de8-a578-f80d1a1288a5",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "OpenAI Faces Federal Lawsuit Over ChatGPT's Alleged Role in FSU Mass Shooting",
+    "summary": "1. The lawsuit alleges ChatGPT provided firearms guidance and tactical advice to the shooter, raising questions about liability for AI firms.",
+    "url": "https://decrypt.co/367380/openai-faces-federal-lawsuit-over-chatgpts-alleged-role-in-fsu-mass-shooting",
+    "author": "Decrypt Agent",
+    "created_at": "2026-05-11T11:19:29.000Z"
+  },
+  {
+    "id": "d798bd9b-1a9e-435a-83c0-47c7f8032a03",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin funds capture $700 million as institutions place their bets",
+    "summary": "1. Your day-ahead look for May 11, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/05/11/bitcoin-funds-capture-usd700-million-as-institutions-place-their-bets",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-11T11:15:00.000Z"
+  },
+  {
+    "id": "0b9f98b2-1f17-4066-9733-a5fe259ecf6f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "BTC price target becomes $85K next: Five things to know in Bitcoin this week",
+    "summary": "1. Bitcoin faced a choice between consolidation and new local highs as $80,000 support held despite flash BTC price volatility and liquidity grabs.",
+    "url": "https://cointelegraph.com/markets/btc-price-target-becomes-85k-next-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-05-11T11:05:21.000Z"
+  },
+  {
     "id": "73822fd5-57c1-45ba-8082-85f65972b3fa",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -80,6 +180,16 @@
     "created_at": "2026-05-11T10:30:12.000Z"
   },
   {
+    "id": "8f074002-e654-4328-9ca8-65d1b93f939b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Binance says 77% of its users are now from emerging markets, up from 49% in 2020, with 83% of multi-product users based in those regions.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4f7b4ba6",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-11T10:14:42+00:00"
+  },
+  {
     "id": "ebdf9ab0-b558-4a9b-9901-374284e4363c",
     "source": "OpenAI",
     "type": "rss",
@@ -140,7 +250,7 @@
     "created_at": "2026-05-11T09:25:15.000Z"
   },
   {
-    "id": "d92d1954-c2db-4c63-a842-e025a9986363",
+    "id": "3116534f-bc9e-495f-8140-e01adec8d20a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "SOL is up 12% over the past week while BTC and ETH barely moved.",
@@ -150,7 +260,7 @@
     "created_at": "2026-05-11T09:24:43+00:00"
   },
   {
-    "id": "835d806d-b1b4-4a62-a474-a05271b56b7b",
+    "id": "ade8ff34-4b00-4e3c-be29-63aeafa72daf",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "France reports first confirmed hantavirus infection tied to the MV Hondius outbreakTwitter",
@@ -190,7 +300,7 @@
     "created_at": "2026-05-11T08:58:33.000Z"
   },
   {
-    "id": "9fd24789-c4ec-4adf-ae00-dd0b1c19e565",
+    "id": "012273cf-6a16-46c3-84e4-f1280565733b",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Crypto funds draw $858M in sixth straight weekly inflow as CLARITY Act momentum lifts sentiment, led by $706M into Bitcoin as total AuM rises to $160BTwitter",
@@ -210,7 +320,7 @@
     "created_at": "2026-05-11T08:30:28.000Z"
   },
   {
-    "id": "6d6e990b-77a4-421d-b277-7c1233531cf1",
+    "id": "b02302c3-5118-43eb-a9b0-40bd361d6f36",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Santiment warns Bitcoin's rally may be short-lived as bullish social media chatter spikes.",
@@ -280,7 +390,7 @@
     "created_at": "2026-05-11T07:02:16+00:00"
   },
   {
-    "id": "7e150557-6809-461d-b4c7-a4ba80449caf",
+    "id": "e1f2f911-c298-42b8-8534-170f931c3ccd",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "New hantavirus case confirmed by health department in the United States.Twitter",
@@ -368,55 +478,5 @@
     "url": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Stephen Katte",
     "created_at": "2026-05-11T05:54:25.000Z"
-  },
-  {
-    "id": "6a5fffe9-7b25-4fbe-8cb0-851fc2afae36",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Michael Saylor signaled Strategy will resume Bitcoin purchases this week after last week’s pause.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f40016af",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-11T05:44:15+00:00"
-  },
-  {
-    "id": "19bce882-85ac-43ea-8906-7c21cbe3f6f4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BIT (formerly Matrixport) address withdraws $11.7M in ETH from Binance",
-    "summary": "An address belonging to crypto financial services firm BIT (formerly Matrixport) just withdrew 5,000 ETH, worth $11.67 million, from Binance, according to Lookonchain. Withdrawals from exchanges are typically interpreted as an intention to hold.",
-    "url": "https://t.me/CoinnessGL#5ad42f58",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T05:39:59+00:00"
-  },
-  {
-    "id": "c1639251-164e-4085-92dc-81fc272b4c18",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst: Bitcoin showing signs of liquidity recovery",
-    "summary": "Signs of liquidity flowing into Bitcoin have emerged, on-chain analyst Darkfost said on X. He noted that BTC's Realized Cap has now turned positive. Darkfost described the Realized Cap as the most critical indicator for assessing liquidity flows alongside investor behavior and sentiment. While not highly significant in isolation, he said the metric's recovery is noteworthy after it plunged to -2.6% in February. During the previous correction, the Realized Cap decreased as investors who bought near the peak realized losses. However, with the recent improvement in BTC's price trend, market sentiment is shifting as funds flow back in and investor confidence recovers. The key question now, he explained, is whether the trend will continue or if investors will take profits, judging the current price as still overvalued.",
-    "url": "https://t.me/CoinnessGL#1c1feab1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T05:39:47+00:00"
-  },
-  {
-    "id": "42f999da-85dd-4a62-a681-cd34cf7f1802",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto sell-off risk rises amid surge in private credit fund redemptions",
-    "summary": "A large-scale redemption from private credit funds could spill over into the cryptocurrency market and create short-term selling pressure, Crypto Briefing reported. The outlet highlighted Blackstone's flagship private credit fund, BCRED, which has approximately $48 billion in assets under management. In the first quarter of 2026, the fund saw redemption requests reach 7.9% of its equity, amounting to about $3.7 billion. In March, BCRED recorded its first monthly loss (-0.4%) since September 2022. Blackstone responded with a $400 million support package, consisting of $150 million from management and $250 million from the company, and raised its quarterly redemption limit from 5% to 7%. Crypto Briefing noted that when semi-liquid funds face a rush of redemptions, managers tend to sell their most liquid assets first. In a mixed portfolio that includes cryptocurrencies, major assets like Bitcoin are likely to be among the first sold, creating downward pressure regardless of any underlying credit issues.",
-    "url": "https://t.me/CoinnessGL#67835a84",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T05:37:58+00:00"
-  },
-  {
-    "id": "588a346d-aef5-4a4a-9e32-fc0eba2fbd3e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP spikes 2.5%, beating bitcoin and ether, in breakout above $1.45 ",
-    "summary": "1. Sharp move through resistance came with one of the biggest volume spikes in weeks, though profit-taking quickly emerged near session highs.",
-    "url": "https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-11T05:07:05.000Z"
   }
 ]
