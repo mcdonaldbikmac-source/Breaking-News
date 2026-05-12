@@ -1,5 +1,165 @@
 [
   {
+    "id": "dbb8a099-540f-4967-adfb-3e9b33e177ea",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Ripple-linked XRP holds near $1.46 as breakout attempt fades despite $200 million raise",
+    "summary": "1. XRP briefly pushed toward $1.49 on heavy volume before stalling again near a resistance zone that has capped rallies for months.",
+    "url": "https://www.coindesk.com/markets/2026/05/12/ripple-linked-xrp-holds-near-usd1-46-as-breakout-attempt-fades-despite-usd200-million-raise",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-12T04:56:46.000Z"
+  },
+  {
+    "id": "fccbb018-cc26-448d-85fb-58621e26e760",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to delist 11 spot trading pairs including ATOM/FDUSD",
+    "summary": "Binance announced that it will delist 11 spot trading pairs at 3:00 a.m. UTC on May 15: ATOM/FDUSD, AXS/BTC, CELO/BTC, GAS/BTC, MANTA/FDUSD, PYTH/BTC, SANTOS/BTC, SIGN/FDUSD, SOPH/FDUSD, XVS/BNB, and XVS/BTC.",
+    "url": "https://t.me/CoinnessGL#ba8b55fb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-12T04:56:27+00:00"
+  },
+  {
+    "id": "a0fe56ba-de78-4060-b10e-9a16cf64cdf5",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+    "summary": "1. Right now, every AI model you've ever used works the same way.\n2. You talk, it listens.\n3. It responds, you listen.",
+    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "author": "Connie Loizos",
+    "created_at": "2026-05-12T04:52:35.000Z"
+  },
+  {
+    "id": "68df567f-eb73-4f82-a781-23bd86677e15",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to temporarily suspend MOVR deposits, withdrawals",
+    "summary": "Binance has announced that it will temporarily suspend deposits and withdrawals for Moonriver (MOVR) starting at 12:00 p.m. UTC on May 12 to support a network upgrade.",
+    "url": "https://t.me/CoinnessGL#8a06f639",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-12T04:35:36+00:00"
+  },
+  {
+    "id": "afd6831a-3be2-49b2-9b85-b74bff59382b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash",
+    "summary": "1. Bitcoin held above $81,000 after touching $82,026 overnight, while solana led the major altcoins on the week as The Big Short investor warned the Nasdaq 100 had reached dot-com bubble territory and oil zoomed past $105 on fresh Iran ceasefire doubts.",
+    "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-12T04:32:48.000Z"
+  },
+  {
+    "id": "54f07b06-4cf7-44a5-88af-850b00ac02fa",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Crypto.com Lands UAE License, Opening Crypto Payments for Dubai Government Fees",
+    "summary": "1. Crypto exchange Crypto.com announced that its United Arab Emirates entity has been granted a stored value facilities license, enabling payment of government fees with cryptocurrencies.\n2. Regulatory Milestone Crypto exchange Crypto.com has announced on May 11 that its United Arab Emirates (UAE) entity, Foris DAX Middle East FZE, has been granted a stored value facilities (SVF) […]",
+    "url": "https://news.bitcoin.com/crypto-com-lands-uae-license-opening-crypto-payments-for-dubai-government-fees/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-12T04:30:28.000Z"
+  },
+  {
+    "id": "52e1d12f-77cd-48aa-abe8-d807eb5acc51",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Consensys urges SEC to exempt self-custody wallets, citing regulatory gap for 99% of tokens",
+    "summary": "MetaMask developer Consensys submitted a comment letter to the U.S. Securities and Exchange Commission (SEC) on May 11, requesting an exemption for self-custody wallet providers from registration requirements and arguing that recent agency guidance has created a regulatory gap.The SEC's Division of Trading and Markets recently issued a staff statement clarifying that self-custody platforms used for trading crypto securities do not need to register as broker-dealers. However, separate interpretive guidance states that while most crypto assets are not securities themselves, they are treated as securities transactions if an investment contract is attached. The staff statement did not address the registration obligations for platforms that handle these non-security assets with attached investment contracts.Bill Hughes, Director of Global Regulatory Matters at Consensys, stated on X that this gap affects effectively 99% of all tokens. He emphasized that the concept of an attached or detached investment contract is unprecedented and that the underlying Howey legal doctrine is not well-defined for secondary market transactions. Hughes argued it is practically impossible for wallet providers to continuously determine the status of thousands of tokens.He also warned that the current guidance could result in ceding the market to overseas competitors. The proposed exemption would apply to platforms where users initiate and sign transactions themselves, provided the platform provider is not involved in asset custody or influencing trading decisions.",
+    "url": "https://t.me/CoinnessGL#5cdf4c30",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-12T04:28:47+00:00"
+  },
+  {
+    "id": "5aefb0ca-daf1-4a41-a839-2a8f4e777878",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US Senate Banking Committee releases crypto Clarity Act draft bill.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#9718724a",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-12T04:27:32+00:00"
+  },
+  {
+    "id": "a0d91aeb-f24e-46e8-83f9-44fe484eb316",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Clarity Act, in the flesh, unveiled by U.S. Senate Banking Committee before hearing",
+    "summary": "1. The crypto market structure bill had already been making the industry rounds behind closed doors, but the lawmakers have released the text before their vote.",
+    "url": "https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-05-12T04:25:26.000Z"
+  },
+  {
+    "id": "00a36a59-b863-4927-9da2-e476fbd05e97",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin Ordinals explorer Ord.io to shut down alongside trading app Zap",
+    "summary": "1. Bitcoin Ordinals browser Ord.io and its associated consumer app Zap will shut down on June 1, according to announcements published on X.",
+    "url": "https://www.theblock.co/post/400855/ord-io-shuts-down?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-12T04:05:47.000Z"
+  },
+  {
+    "id": "310015cb-1786-4a6a-bb9b-5fb4098997b5",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 Peter Thiel-backed Augustus received conditional OCC approval to charter a US national bank built around AI and stablecoin payments.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#73f04c07",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-12T03:44:15+00:00"
+  },
+  {
+    "id": "35a46b81-0942-4d28-9f79-274d7cba0b1c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Miner Cleanspark Posts $378M Loss in Q2",
+    "summary": "1. Cleanspark reported a $378.3 million net loss for its second fiscal quarter ended March 31, 2026, as a $224.1 million non-cash loss on bitcoin fair value weighed heavily on results even as the company expanded its hashrate and power capacity.\n2. Cleanspark Posts $378M Loss in Q2 as Bitcoin Fair Value Swing Hits Results Cleanspark’s (Nasdaq: […]",
+    "url": "https://news.bitcoin.com/bitcoin-miner-cleanspark-posts-378m-loss-in-q2/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-12T03:30:37.000Z"
+  },
+  {
+    "id": "a7838965-724e-499a-bdc9-08495aac1210",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "MARA shares sink on first-quarter revenue miss, $1.3B loss",
+    "summary": "1. MARA Holdings says Bitcoin mining remains the company’s “operational foundation” while it moves to expand into AI.",
+    "url": "https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-12T03:30:13.000Z"
+  },
+  {
+    "id": "56999b1d-9d14-445a-a5a8-1e188ef38cf3",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ark Invest buys $5.5 million worth of Circle shares as stock jumps 16% on Q1 earnings",
+    "summary": "1. Circle's shares closed up 15.91% at $131.76 on Monday after the stablecoin issuer disclosed its first-quarter 2026 results.",
+    "url": "https://www.theblock.co/post/400850/ark-invest-buys-circle-shares-stock-jumps?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-05-12T03:16:23.000Z"
+  },
+  {
+    "id": "0b112918-d53a-4590-befe-99769f16f51e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin funding rates turn positive: Is a BTC rally to $85K next?",
+    "summary": "1. Bitcoin’s funding rate turned positive as the cryptocurrency held the $80,000 level.\n2. Will an uptick in spot ETF inflows trigger a rally to $85,000?",
+    "url": "https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-05-12T02:42:27.000Z"
+  },
+  {
+    "id": "2d048af8-509e-4b75-b281-72eba4667e64",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "24 Finance Giants Push Deeper Into Crypto Across Regulated Markets",
+    "summary": "1. Major financial institutions are expanding crypto services across regulated finance, with Bitwise data showing 24 firms active in trading, custody, funds, payments, tokenization, or exchange-traded products.\n2. The activity points to wider use of regulated crypto access.\n3. Banks Move Crypto Deeper Into Regulated Finance Wall Street’s crypto footprint is expanding across the financial system.",
+    "url": "https://news.bitcoin.com/24-finance-giants-push-deeper-into-crypto-across-regulated-markets/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-12T02:30:00.000Z"
+  },
+  {
     "id": "20895199-0090-4ee7-adc6-a3e9fc6b90e5",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -30,7 +190,7 @@
     "created_at": "2026-05-12T02:08:30+00:00"
   },
   {
-    "id": "33673313-c1ce-475c-84fd-7e7c37693a44",
+    "id": "47b04a08-1ad9-4101-8cfd-598cac3c427e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🤖 Circle launched Agent Stack, a suite letting AI agents hold wallets, make programmable USDC payments and tap a marketplace of agentic services.",
@@ -50,7 +210,7 @@
     "created_at": "2026-05-12T01:30:49.000Z"
   },
   {
-    "id": "175da077-27d4-469b-bc58-90b30cb584da",
+    "id": "dcbba441-0e1d-4a18-982b-51a6e11ee515",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Corpay is partnering with BVNK to offer stablecoin wallets and cross-border settlement to corporate clients.",
@@ -130,7 +290,7 @@
     "created_at": "2026-05-11T23:28:12.000Z"
   },
   {
-    "id": "839b8483-4ed3-438c-a492-51b711bdc248",
+    "id": "f442b97a-0525-4784-b6c6-509316b88697",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇨🇳 Nvidia $NVDA CEO Jensen Huang not invited to join President Trump with other business executives on China trip.@WatcherGuru",
@@ -168,265 +328,5 @@
     "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
     "author": "Kirsten Korosec",
     "created_at": "2026-05-11T23:04:10.000Z"
-  },
-  {
-    "id": "7cae1140-5440-4119-a7cf-7fe520a48017",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Boundary Labs has raised $2 million in funding led by Galaxy Ventures to launch USBD, an institutional stablecoin with daily onchain reserve updates.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d0acd518",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-11T22:54:35+00:00"
-  },
-  {
-    "id": "8dcc5057-7c46-4a8e-bd26-482b459a7ad4",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
-    "summary": "1. OpenAI said its new Daybreak initiative uses AI to help companies identify software vulnerabilities and speed up cyber defense.",
-    "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-11T22:30:36.000Z"
-  },
-  {
-    "id": "59e35de7-1c7b-48a9-b30d-b1534c8da424",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Galaxy Digital and Sharplink Launch $125 Million Institutional DeFi Yield Fund",
-    "summary": "1. The two companies entered into a non-binding agreement to launch a $125 million initiative that seeks to put Sharplink’s ETH treasury to work.\n2. The company stated that the funds will be deployed across onchain liquidity strategies and in support of early-stage protocols.\n3. Sharplink and Galaxy Partner To Deploy $125M DeFi Ecosystem Liquidity Fund Decentralized finance […]",
-    "url": "https://news.bitcoin.com/galaxy-digital-and-sharplink-launch-125-million-institutional-defi-yield-fund/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-11T22:30:00.000Z"
-  },
-  {
-    "id": "ed610e1d-a49f-4617-bd5e-8fc2564c9628",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Circle stock rallies 15% as Wall Street sees further upside in stablecoin adoption",
-    "summary": "1. Circle shares surged as analysts pointed to expanding stablecoin use cases and forecast significant upside as USDC adoption continues to gain traction.",
-    "url": "https://cointelegraph.com/news/circle-stock-rallies-wall-street-further-upside-stablecoin-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-05-11T22:25:00.000Z"
-  },
-  {
-    "id": "1601fe42-2c25-4335-8539-0cf8f4beebd7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ethics remain a sticking point as crypto market structure bill goes to markup",
-    "summary": "1. After months of delays, the Senate Banking Committee has set a Thursday markup for the CLARITY Act, but it would still need some Democrats’ support to pass on the Senate floor.",
-    "url": "https://cointelegraph.com/news/ethics-democrats-market-structure-clarity-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-11T22:20:00.000Z"
-  },
-  {
-    "id": "ae52f038-7ab9-4d06-82aa-90022b8b60fd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 SharpLink and Galaxy are planning a $125 million Ethereum yield fund to pursue DeFi returns with ETH.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#395381ed",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-11T22:19:13+00:00"
-  },
-  {
-    "id": "cf58b3cf-012d-48f3-bb20-660b592ad56f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. It is my Great Honor to nominate Michael Martin to serve as Judge on the U.S.\n2. District Court for the Eastern District of Michigan!\n3. Mike has served as a Federal Prosecutor for more than two decades, primarily as an Assistant U.S.",
-    "url": "https://trumpstruth.org/statuses/38356",
-    "author": "Trump Truth",
-    "created_at": "2026-05-11T22:02:41.000Z"
-  },
-  {
-    "id": "e7e085d3-f8f7-4729-9fa4-52d4ce6f1e0c",
-    "source": "r/ethereum",
-    "type": "reddit",
-    "title": "$14 Trillion BlackRock Picks Ethereum for Tokenized Funds",
-    "summary": "1. $14 Trillion BlackRock Picks Ethereum for Tokenized Funds",
-    "url": "https://reddit.com/r/ethereum/comments/1tahzx0/14_trillion_blackrock_picks_ethereum_for/",
-    "author": "u/Cratos007",
-    "created_at": "2026-05-11T22:01:35.000Z"
-  },
-  {
-    "id": "71d042c5-2ac4-4c55-afea-b52eec55c913",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-    "summary": "1. Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
-    "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-05-11T21:59:34.000Z"
-  },
-  {
-    "id": "c96bb51f-5b0e-4f51-ac52-ed4b71b12925",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Solana ETF inflows show demand returning as traders eye SOL rally to $120",
-    "summary": "1. Solana ETFs recorded their strongest weekly inflow since February as SOL futures open interest climbed nearly 30%.\n2. Is SOL bracing for a rally to $120?",
-    "url": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-05-11T21:47:41.000Z"
-  },
-  {
-    "id": "db6b17af-a087-45bf-b948-3047ea19bbc9",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Baidu's New AI Is Already Beating Top Models and Cost 94% Less to Build",
-    "summary": "1. ERNIE 5.1 hits the top of Chinese AI leaderboards while spending a fraction of what rivals do.\n2. Baidu calls it a \"parameter efficiency\" leap.",
-    "url": "https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-05-11T21:46:16.000Z"
-  },
-  {
-    "id": "9061f4c1-69ed-4b47-a80a-014daee19e6f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Solana's Alpenglow consensus upgrade has gone live on a community test cluster, marking a key step toward a mainnet rollout targeted for later this year.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#13d46542",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-11T21:39:39+00:00"
-  },
-  {
-    "id": "7891d171-212e-462b-ab2e-c94180a6cc44",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum Foundation names three new co-leads to major Protocol cluster",
-    "summary": "1. The EF's Protocol team, formerly Protocol R&D, is the core group responsible for designing and developing the Ethereum base layer.",
-    "url": "https://www.theblock.co/post/400835/ethereum-foundation-names-three-new-co-leads-major-protocol-cluster?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-11T21:26:16.000Z"
-  },
-  {
-    "id": "6146c7cf-06db-47f5-9c84-38c16f815ccf",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "250 million USDC minted",
-    "summary": "Whale Alert reported that 250 million USDC has been minted at the USDC Treasury.",
-    "url": "https://t.me/CoinnessGL#b141093c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T21:25:28+00:00"
-  },
-  {
-    "id": "49462a20-4b22-4c67-b96f-7656d1c54af7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "MARA Holdings 1Q revenue falls 18%, says BTC mining remains core",
-    "summary": "Bitcoin mining firm MARA Holdings (MARA) reported first-quarter revenue of $174.6 million, an 18% decrease from the same period last year, The Block reported. The company's net loss for the period widened to $1.3 billion, reflecting an unrealized valuation loss on its 38,689 BTC holdings. In a letter to shareholders, the company stated that Bitcoin mining remains the foundation of its operations and that it will maintain the business as its core focus, unlike some of its competitors.",
-    "url": "https://t.me/CoinnessGL#cb591628",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T21:23:30+00:00"
-  },
-  {
-    "id": "86e22184-09c6-43fc-8b7d-2d02a3bfd28d",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Trump nominates Kari Lake and Doug Mastriano to diplomatic posts",
-    "summary": "1. The two staunch allies ran failed campaigns for governor in battleground states in 2022.",
-    "url": "https://www.politico.com/news/2026/05/11/kari-lake-doug-mastriano-diplomats-00915314",
-    "author": "By Aaron Pellish",
-    "created_at": "2026-05-11T21:22:44.000Z"
-  },
-  {
-    "id": "5d096925-7a46-498d-88d0-7e934e90a371",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Circle Gives AI Agents USDC Stablecoin Powers Alongside $222M Arc Token Sale",
-    "summary": "1. USDC issuer Circle launched a suite of tools designed to let AI agents hold money, pay for services, and transact without human involvement.",
-    "url": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
-    "author": "Decrypt Agent",
-    "created_at": "2026-05-11T21:15:46.000Z"
-  },
-  {
-    "id": "08c8d76a-488b-4e2b-9bb1-48476f490fd9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CleanSpark posts $378.3M net loss in Q2",
-    "summary": "Bitcoin miner CleanSpark recorded a net loss of $378.3 million in the second quarter, a 173% increase from the $138.8 million loss in the same period last year, The Block reported. This loss includes a $224.1 million impairment charge on its Bitcoin (BTC) holdings. As of March 31, the company's BTC holdings were valued at approximately $925.2 million. During the same period, Bitcoin mining revenue fell by about 25% year-over-year to $136.4 million. CleanSpark has also been accelerating its expansion into the artificial intelligence (AI) and high-performance computing (HPC) infrastructure business, in line with recent industry trends.",
-    "url": "https://t.me/CoinnessGL#db627b2b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T21:15:07+00:00"
-  },
-  {
-    "id": "cbc26537-d8ea-4b45-a11e-c14719b2336b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "MARA Q1 revenue drops 18%, says bitcoin mining remains ‘operational foundation’",
-    "summary": "1. MARA Holdings sold roughly $1.5 billion worth of bitcoin during the quarter to retire debt and improve liquidity.",
-    "url": "https://www.theblock.co/post/400824/mara-q1-revenue-drops-18-bitcoin-mining-operational-foundation?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-05-11T21:14:02.000Z"
-  },
-  {
-    "id": "fdb1f2e2-5953-4ccc-be4b-14862e459bd8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Circle Internet Group Gains 16% as Arc Blockchain Raise Draws Blackrock and Apollo",
-    "summary": "1. While American bankers, lawmakers, stablecoin issuers, and crypto exchanges trade barbs, Circle investors appear entirely unbothered.\n2. Circle Internet Group (NYSE: CRCL) closed roughly 16% higher on Monday at Wall Street’s close, after the stablecoin issuer announced a $222 million pre-launch token sale for its new layer-one (L1) blockchain project, Arc, backed by Blackrock, A16z, Apollo, […]",
-    "url": "https://news.bitcoin.com/circle-internet-group-gains-16-as-arc-blockchain-raise-draws-blackrock-and-apollo/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-11T21:13:15.000Z"
-  },
-  {
-    "id": "b05cc883-000f-4a5c-9c3a-67891f52d810",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin miner CleanSpark’s Q2 losses swell after losing $224 million on BTC holdings",
-    "summary": "1. CleanSpark said Q2 bitcoin mining revenue came in at $136.4 million, a 25% decrease from a year ago when it posted $181.7 million.",
-    "url": "https://www.theblock.co/post/400823/bitcoin-miner-cleansparks-q2-losses-swell-after-losing-224-million-on-btc-holdings?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-05-11T21:05:02.000Z"
-  },
-  {
-    "id": "f9100457-8f85-4587-9fe8-2cc91ba396eb",
-    "source": "Politico",
-    "type": "rss",
-    "title": "What to expect when you’re expecting a budget",
-    "summary": "1. What to expect when you’re expecting a budget",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/11/what-to-expect-when-youre-expecting-a-budget-00915050",
-    "author": "By Nick Reisman",
-    "created_at": "2026-05-11T20:55:47.000Z"
-  },
-  {
-    "id": "a320e226-755a-4036-9f09-a5c68cc14e98",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Binance says its AI security systems blocked $10.53 billion in potential user losses and safeguarded 5.4 million users between January 2025 and Q1 2026.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#abbfe0a7",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-11T20:54:11+00:00"
-  },
-  {
-    "id": "3316d4d3-219d-4f3c-b355-90b3560e8251",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Court Greenlights Arbitrum DAO Vote to Move $71M in Recovered Kelp ETH to Aave",
-    "summary": "1. The court order allows the on-chain Constitutional AIP vote and transfer to proceed without violating the restraining notice, but the freeze itself extends to Aave LLC.",
-    "url": "https://thedefiant.io/news/defi/court-greenlights-arbitrum-dao-vote-to-move-usd71m-in-recovered-kelp-eth-to-aave",
-    "author": "yyctrader",
-    "created_at": "2026-05-11T20:48:48.000Z"
-  },
-  {
-    "id": "8b50ebec-75ca-443a-b0ce-d8917e666f95",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Clarity Act Vote Set for Thursday: Here's Where the Crypto Bill Stands",
-    "summary": "1. Crypto leaders are the most confident they’ve been in months—but a major vote on the Senate Banking Committee this week could still go many ways.",
-    "url": "https://decrypt.co/367487/clarity-act-vote-set-here-where-crypto-bill-stands",
-    "author": "Sander Lutz",
-    "created_at": "2026-05-11T20:46:03.000Z"
-  },
-  {
-    "id": "3afd4eb1-6701-4ef6-a1ba-2242a96b186a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "OCC Gives Augustus Conditional Approval to Build AI-Native Clearing Bank in the US",
-    "summary": "1. The Office of the Comptroller of the Currency (OCC) has granted Augustus conditional approval to establish Augustus Bank, N.A., a clearing bank built from the ground up around stablecoin and artificial intelligence (AI) infrastructure.\n2. Augustus Clears First OCC Hurdle for AI Clearing Bank The New York-based company, formerly known as Ivy, announced the conditional approval […]",
-    "url": "https://news.bitcoin.com/occ-gives-augustus-conditional-approval-to-build-ai-native-clearing-bank-in-the-us/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-11T20:40:32.000Z"
   }
 ]
