@@ -1,5 +1,75 @@
 [
   {
+    "id": "20895199-0090-4ee7-adc6-a3e9fc6b90e5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "10 anonymous addresses withdraw $514M in LAB from Bitget",
+    "summary": "EmberCN reported that over the past 10 hours, 10 anonymous addresses have withdrawn 100 million LAB, worth $514 million, from Bitget. This amount represents approximately 32% of LAB's circulating supply. EmberCN noted that the memecoin RAVE also recently saw a large-scale withdrawal from Bitget, suggesting that the same trading team may manage both RAVE and LAB.",
+    "url": "https://t.me/CoinnessGL#c47172bb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-12T02:19:31+00:00"
+  },
+  {
+    "id": "ff2b1cf7-34a0-4f52-a535-0ad29c370bf7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Fluid says $19.3M debt from March Resolv hack has been repaid",
+    "summary": "DeFi lending platform Fluid (FLUID) announced in a post-mortem report that it has resolved a $19.3 million bad debt stemming from the March hack of Resolv (RESOLV). The platform stated the debt was fully covered through a combined effort by the Fluid team, its governance treasury, and Resolv. Fluid noted it had approximately $100 million in exposure to Resolv, with a $21 million default occurring during a depegging event caused by the hacker. The report clarified that Fluid's own smart contracts were not compromised in the incident and that the platform had taken measures such as halting its buyback program and reducing token issuance. Looking ahead, Fluid plans to enhance its security and introduce a legal framework for asset protection.",
+    "url": "https://t.me/CoinnessGL#5f7403c2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-12T02:15:10+00:00"
+  },
+  {
+    "id": "ebe4c90b-cfdd-4cbc-96a7-96b12081390f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Altcoin Season Index falls to 49",
+    "summary": "CoinMarketCap's Altcoin Season Index has fallen two points from yesterday to 49. The index measures whether altcoins are outperforming Bitcoin. An altcoin season is declared when 75% of the top 100 cryptocurrencies by market capitalization, excluding stablecoins and wrapped tokens, have outperformed Bitcoin over the preceding 90 days. A score closer to 100 indicates a stronger altcoin season.",
+    "url": "https://t.me/CoinnessGL#a9158f72",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-12T02:08:30+00:00"
+  },
+  {
+    "id": "33673313-c1ce-475c-84fd-7e7c37693a44",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Circle launched Agent Stack, a suite letting AI agents hold wallets, make programmable USDC payments and tap a marketplace of agentic services.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#29729e7f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-12T01:54:30+00:00"
+  },
+  {
+    "id": "7b2a9d6a-9969-4a0e-b14f-a3691885f18b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy’s Bitcoin Sale Comment Puts Treasury Risk in Focus",
+    "summary": "1. Strategy’s potential BTC sale has sharpened debate over its bitcoin treasury model after a roughly $12.5 billion quarterly net loss.\n2. The company holds 818,869 bitcoin, worth about $67 billion, as investors assess dividends, liquidity, and preferred obligations.\n3. Strategy’s Potential BTC Sale Changes the Treasury Debate Strategy (Nasdaq: MSTR) reported first-quarter 2026 results that drew fresh […]",
+    "url": "https://news.bitcoin.com/strategys-bitcoin-sale-comment-puts-treasury-risk-in-focus/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-12T01:30:49.000Z"
+  },
+  {
+    "id": "175da077-27d4-469b-bc58-90b30cb584da",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Corpay is partnering with BVNK to offer stablecoin wallets and cross-border settlement to corporate clients.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d67a2711",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-12T00:49:25+00:00"
+  },
+  {
+    "id": "eac33428-dbba-4811-8298-4d9ed1bd3730",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Ledger Foundation Names Ripple’s David Schwartz Honorary Board Member",
+    "summary": "1. Ripple CTO Emeritus David Schwartz joined the XRP Ledger Foundation as an honorary board member, adding technical guidance from one of the ledger’s original architects.\n2. The role comes as the Foundation expands leadership across engineering, operations, and community work.\n3. XRP Ledger Foundation Adds Schwartz to Honorary Board Role The XRP Ledger Foundation announced on X […]",
+    "url": "https://news.bitcoin.com/xrp-ledger-foundation-names-ripples-david-schwartz-honorary-board-member/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-12T00:30:58.000Z"
+  },
+  {
     "id": "d44feaa0-f2d9-4704-b43b-4644e0e9b9e9",
     "source": "TechCrunch",
     "type": "rss",
@@ -60,7 +130,7 @@
     "created_at": "2026-05-11T23:28:12.000Z"
   },
   {
-    "id": "ad9fb481-cc1b-4e24-83d6-7cbdacfd95bf",
+    "id": "839b8483-4ed3-438c-a492-51b711bdc248",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇨🇳 Nvidia $NVDA CEO Jensen Huang not invited to join President Trump with other business executives on China trip.@WatcherGuru",
@@ -100,7 +170,7 @@
     "created_at": "2026-05-11T23:04:10.000Z"
   },
   {
-    "id": "5a349ec5-ce52-4c0e-8bb8-92c571c5ef76",
+    "id": "7cae1140-5440-4119-a7cf-7fe520a48017",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Boundary Labs has raised $2 million in funding led by Galaxy Ventures to launch USBD, an institutional stablecoin with daily onchain reserve updates.",
@@ -168,6 +238,16 @@
     "url": "https://trumpstruth.org/statuses/38356",
     "author": "Trump Truth",
     "created_at": "2026-05-11T22:02:41.000Z"
+  },
+  {
+    "id": "e7e085d3-f8f7-4729-9fa4-52d4ce6f1e0c",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "$14 Trillion BlackRock Picks Ethereum for Tokenized Funds",
+    "summary": "1. $14 Trillion BlackRock Picks Ethereum for Tokenized Funds",
+    "url": "https://reddit.com/r/ethereum/comments/1tahzx0/14_trillion_blackrock_picks_ethereum_for/",
+    "author": "u/Cratos007",
+    "created_at": "2026-05-11T22:01:35.000Z"
   },
   {
     "id": "71d042c5-2ac4-4c55-afea-b52eec55c913",
@@ -348,215 +428,5 @@
     "url": "https://news.bitcoin.com/occ-gives-augustus-conditional-approval-to-build-ai-native-clearing-bank-in-the-us/",
     "author": "Jamie Redman",
     "created_at": "2026-05-11T20:40:32.000Z"
-  },
-  {
-    "id": "9f92c43f-7de0-40e0-9cf5-5431726aee06",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies\nBitcoin price is trading around $82,000, moving in a narrow range as strong ETF inflows and regulatory uncertainty dominate market sentiment.\n2. This post Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-82000",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-11T20:23:12.000Z"
-  },
-  {
-    "id": "48eaceeb-c7f4-4ce8-9f5c-1c79efb18ef1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk's SpaceX projected to trade above $2 trillion valuation when it goes public.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f65a62e5",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-11T20:23:01+00:00"
-  },
-  {
-    "id": "b47180b5-f757-4871-a982-4952e4e7d57e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
-    "summary": "1. Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.",
-    "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
-    "author": "James Van Straten",
-    "created_at": "2026-05-11T20:21:44.000Z"
-  },
-  {
-    "id": "862b4c71-5648-4659-a7ba-4367a249bb7f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Circle Releases Q1 2026 Earnings Call Recap: Co-Founder Allaire Discusses Results",
-    "summary": "1. Circle shared a recap of its Q1 2026 earnings call led by Co-Founder, Chairman and CEO Jeremy Allaire.",
-    "url": "https://thedefiant.io/news/cefi/circle-q1-2026-earnings-call-recap-1u2v0r",
-    "author": "DefAInt",
-    "created_at": "2026-05-11T20:17:29.000Z"
-  },
-  {
-    "id": "363b625d-818d-4cf4-ae51-33f38b83dc31",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Intents Expands Crosschain Swaps to Support 100+ Tokens Into Zcash: NEAR",
-    "summary": "1. NEAR Intents upgraded its frontend to enable single-flow swaps from over 100 tokens directly into ZEC, leveraging intent-based architecture for crosschain transactions.",
-    "url": "https://thedefiant.io/news/defi/near-intents-100-tokens-zcash-swaps-5djz2b",
-    "author": "DefAInt",
-    "created_at": "2026-05-11T20:17:29.000Z"
-  },
-  {
-    "id": "c6105c07-0958-4722-8f36-f6aa4b15f51d",
-    "source": "Politico",
-    "type": "rss",
-    "title": "This moderate Republican senator is already eying the exits 16 months into his term",
-    "summary": "1. John Curtis is looking at returning home to run for governor.",
-    "url": "https://www.politico.com/news/2026/05/11/sen-john-curtis-exploring-2028-run-for-utah-governor-00913981",
-    "author": "By Samuel Benson",
-    "created_at": "2026-05-11T20:17:28.000Z"
-  },
-  {
-    "id": "e7890138-8fed-4fe6-b9b8-f40fd99a2f2a",
-    "source": "r/cryptocurrency",
-    "type": "reddit",
-    "title": "Someone Just Used A Free NFT to Steal $174,000 From Grok.",
-    "summary": "1. Someone Just Used A Free NFT to Steal $174,000 From Grok.",
-    "url": "https://reddit.com/r/CryptoCurrency/comments/1taf29h/someone_just_used_a_free_nft_to_steal_174000_from/",
-    "author": "u/TheGreatCryptopo",
-    "created_at": "2026-05-11T20:15:44.000Z"
-  },
-  {
-    "id": "33d035ab-196e-4fb7-a09a-1a5938f5ad58",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
-    "summary": "1. Bitcoin looks set for another blockbuster week, but potential resistance at $84,000 could complicate the rally.\n2. Will altcoin consolidation continue?",
-    "url": "https://cointelegraph.com/markets/price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Rakesh Upadhyay",
-    "created_at": "2026-05-11T20:12:42.000Z"
-  },
-  {
-    "id": "ac17fe23-411e-4e3c-9d16-493a370bf9ef",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ripple receives $200M credit line to expand institutional prime brokerage",
-    "summary": "1. Financing from Neuberger Berman will increase Ripple Prime’s capacity to offer margin lending and other brokerage services to institutional clients trading across crypto and traditional markets.",
-    "url": "https://cointelegraph.com/news/ripple-secures-200m-credit-facility-expand-institutional-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-05-11T20:12:35.000Z"
-  },
-  {
-    "id": "53ab9451-ba3f-46f6-8ae6-5a4c86cfcb5c",
-    "source": "r/ethereum",
-    "type": "reddit",
-    "title": "Protocol Cluster Updates: May 2026",
-    "summary": "1. Protocol Cluster Updates: May 2026",
-    "url": "https://reddit.com/r/ethereum/comments/1taex6u/protocol_cluster_updates_may_2026/",
-    "author": "u/ligi",
-    "created_at": "2026-05-11T20:10:51.000Z"
-  },
-  {
-    "id": "8b9cfa5f-13e0-451f-a02d-a7abf2c2b303",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "S&P 500 closes at new all-time high of 7,412@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#873e88e0",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-11T20:05:59+00:00"
-  },
-  {
-    "id": "413199ea-4432-4602-916e-9be6d9c69785",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Kiyosaki Has Been Stacking Silver Since 1965, Says It’s Now One of His Best Investments",
-    "summary": "1. Rich Dad Poor Dad author Robert Kiyosaki says silver, which he first began accumulating in 1965 at age 18 when it cost pennies, has grown into one of the best investments of his life.\n2. 60 Years of Silver Stacking and Kiyosaki Isn’t Done Robert Kiyosaki, the bestselling author of Rich Dad Poor Dad and one […]",
-    "url": "https://news.bitcoin.com/kiyosaki-silver-stacking-1965-best-investment-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-11T20:05:50.000Z"
-  },
-  {
-    "id": "7eb784c4-8cd2-4c45-9770-b026503a5e41",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "'I don’t think that’s crazy': Here is why Circle is betting on new $3 billion blockchain",
-    "summary": "1. The USDC stablecoin issuer is betting Arc can become Wall Street’s blockchain rail for payments and tokenized finance, though analysts still see it as speculative.",
-    "url": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain",
-    "author": "Helene Braun",
-    "created_at": "2026-05-11T19:51:09.000Z"
-  },
-  {
-    "id": "e8a31bc3-befe-4e46-b167-87b091c86409",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "THIS WEEK: 🇺🇸 The Senate Banking Committee is set to meet on Thursday to...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f977439f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-11T19:49:34+00:00"
-  },
-  {
-    "id": "d8799fb9-8b86-443f-b093-a3cf977e1634",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Hackers Used AI to Build a Zero-Day Exploit That Bypasses Two-Factor Authentication: Google",
-    "summary": "1. Cybercriminals used an AI model to find and weaponize a previously unknown software flaw, Google's threat team confirmed Monday.",
-    "url": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-11T19:49:10.000Z"
-  },
-  {
-    "id": "1506bc38-7f78-4f6e-921d-874f69c896f1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "MoonPay makes prediction markets push with Dawn Labs buy, AI tool launch",
-    "summary": "1. The payments company acquired Dawn Labs for an undisclosed amount, immediately announcing the creation of an AI tool that would provide “custom strategies” for trading on prediction markets.",
-    "url": "https://cointelegraph.com/news/moonpay-dawn-labs-ai-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-11T19:46:59.000Z"
-  },
-  {
-    "id": "0a88dc75-b2bc-4125-816a-4a71b707cab0",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Coinbase CEO Brian Armstrong to address Republican senators on Wednesday.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#0fba3ade",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-11T19:15:14+00:00"
-  },
-  {
-    "id": "d5196671-3cc1-4df9-93df-8f1be045c42c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Tom Lee says Ethereum being up three months in a row means crypto winter is officially over.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#94212694",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-11T19:14:28+00:00"
-  },
-  {
-    "id": "ac159c51-1fe1-4687-8ffc-def74fdb0e25",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.139",
-    "summary": "1. ## What's changed\n\n- Added agent view (Research Preview): a single list of every Claude Code session — running, blocked on you, or done.\n2. Run `claude agents` to get started.\n3. See \n- Added `/goal` command: set a completion condition and Claude keeps working across turns until it's met.",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.139",
-    "author": "ashwin-ant",
-    "created_at": "2026-05-11T18:43:42Z"
-  },
-  {
-    "id": "ac862bda-ced1-4b59-b578-10238ec36f97",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
-    "summary": "1. The crypto exchange operator is pursuing a new fundraising round as it ramps up acquisitions across derivatives and stablecoins while laying the groundwork for a future public listing.",
-    "url": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo",
-    "author": "Will Canny",
-    "created_at": "2026-05-11T18:42:27.000Z"
-  },
-  {
-    "id": "2795ef64-f54e-4c9d-b139-dcefb7847f6c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst questions popular theory of Bitcoin bottoming in October",
-    "summary": "Cryptocurrency analyst Michaël van de Poppe has expressed skepticism about the theory that Bitcoin (BTC) will bottom out in October of this year. He stated on X that the most overextended view in the market currently is the scenario where BTC forms a bear flag and then hits a bottom in October. According to him, when many people anticipate the same outcome, it becomes less likely to materialize.\"The current price base BTC is forming is very strong, and the current market environment is completely different from the 2022 bear market,\" he added. \"I don't see a repeat of the same outcome as in the past.\"Van de Poppe cited several bullish factors for BTC, including:- The Nasdaq reaching an all-time high- This week's vote on the CLARITY Act- A potential announcement from the U.S. White House regarding a strategic Bitcoin reserve- The issue of the next Federal Reserve (Fed) Chair",
-    "url": "https://t.me/CoinnessGL#b87d7b22",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-11T18:24:33+00:00"
   }
 ]
