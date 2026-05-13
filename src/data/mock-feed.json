@@ -1,5 +1,95 @@
 [
   {
+    "id": "f84dfd56-2959-490f-ac35-d339dc68303e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses",
+    "summary": "1. Kelp was exploited on April 18 for $292 million from attackers suspected to be part of North Korea's Lazarus Group.",
+    "url": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-13T02:24:43.000Z"
+  },
+  {
+    "id": "4804213c-b5e7-4f33-809f-6453ea88512b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Pendle team deposits $1.27M in PENDLE to Binance",
+    "summary": "The Pendle (PENDLE) team deposited 600,000 PENDLE, valued at $1.27 million, to Binance about 10 minutes ago, according to Onchain Lens. Such a move is often interpreted as an intention to sell.",
+    "url": "https://t.me/CoinnessGL#55011eed",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T02:23:14+00:00"
+  },
+  {
+    "id": "ab353d39-41d9-4aab-9abc-cbc0cbd80ec2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Injective USDC to be adopted as standard stablecoin for Cosmos, dYdX",
+    "summary": "Injective-based USDC is set to be adopted as the core stablecoin standard for the Cosmos ecosystem and dYdX. With Cosmos core infrastructure provider Skip:Go also adopting Injective USDC as its base settlement unit, the move is expected to consolidate liquidity across the ecosystem.",
+    "url": "https://t.me/CoinnessGL#3bb15835",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T02:14:16+00:00"
+  },
+  {
+    "id": "db0d835a-11b6-45e4-8d9f-6ee162d35c7b",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇨🇳 Elon Musk traveling on Air Force One with President Trump to China.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#6dc94e8f",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-13T02:13:33+00:00"
+  },
+  {
+    "id": "3b2d56c9-3258-41f1-a382-e658e4164936",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US senators propose amendments to restrict crypto payments, Fed accounts",
+    "summary": "According to Eleanor Terrett, host of Crypto in America, U.S. Senator Jack Reed has submitted an amendment that would prohibit the use of cryptocurrency for payments such as taxes. Meanwhile, Senator Elizabeth Warren has also submitted over 40 crypto-related amendments, one of which would bar the Federal Reserve from issuing master accounts to crypto firms.",
+    "url": "https://t.me/CoinnessGL#1fb5f802",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T02:10:36+00:00"
+  },
+  {
+    "id": "9b642d54-e0ed-477e-ae7b-6440d499abf8",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇨🇳 Nvidia $NVDA CEO Jensen Huang is joining President Trump on trip to China, White House announces.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#7e563799",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-13T01:41:26+00:00"
+  },
+  {
+    "id": "39cd791f-3115-4e25-aee8-4c7464be550c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "21shares Debuts US HYPE ETF With $1.8M Day-One Volume on Nasdaq",
+    "summary": "1. 21shares launched THYP to give U.S.\n2. investors spot exposure to HYPE with integrated staking rewards.\n3. The ETF recorded $1.8 million in first-day trading volume, while a leveraged companion product also entered the market.",
+    "url": "https://news.bitcoin.com/21shares-debuts-us-hype-etf-with-1-8m-day-one-volume-on-nasdaq/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-13T01:30:36.000Z"
+  },
+  {
+    "id": "cf8b0de9-44a5-4039-81f7-a87b4acc72cd",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "SEC-CFTC Alignment Cuts Risk of Overlapping Enforcement Actions",
+    "summary": "1. The CFTC and SEC are increasing coordination across crypto, securities, and derivatives markets as regulators face growing overlap between the sectors.\n2. CFTC Chair Michael Selig cited a memorandum of understanding, Project Crypto participation, and a crypto asset taxonomy.\n3. SEC and CFTC Advance Crypto Policy Alignment Efforts U.S.",
+    "url": "https://news.bitcoin.com/sec-cftc-alignment-cuts-risk-of-overlapping-enforcement-actions/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-13T00:30:04.000Z"
+  },
+  {
+    "id": "f4c25503-1886-4bc9-8cf7-4d65ee0d6460",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "summary": "1. There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication.\n2. ACCESS creates that mechanism for the first time.",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "author": "Connie Loizos",
+    "created_at": "2026-05-13T00:26:48.000Z"
+  },
+  {
     "id": "91d73158-93ff-4d96-8500-fdd647f23db5",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -30,6 +120,16 @@
     "created_at": "2026-05-12T23:57:46+00:00"
   },
   {
+    "id": "2e46f046-275c-45e0-84c2-8d07254e8fc3",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "Ethereum impact from Chainlink deal launching Collateral AppChain platform",
+    "summary": "1. The DTCC and Chainlink partnership directly benefits Ethereum by establishing its enterprise-grade client, Besu, as the foundational infrastructure for a major global post-trade system.\n2. The Collateral AppChain is built on Hyperledger Besu, an Ethereum-compatible network, which validates Ethereum’s technical standards for institutional use and drives demand for enterprise blockchain solutions.\n3. This integration significantly boosts the utility and credibility of Chainlink’s oracle services within traditional finance.",
+    "url": "https://reddit.com/r/ethereum/comments/1tbioxg/ethereum_impact_from_chainlink_deal_launching/",
+    "author": "u/SurprisedByItAll",
+    "created_at": "2026-05-12T23:41:37.000Z"
+  },
+  {
     "id": "073bbe5d-aac2-42cc-9e5a-a4eaf0dc988b",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -38,6 +138,16 @@
     "url": "https://news.bitcoin.com/us-banks-prepare-for-tokenization-tipping-point-moodys-ratings-finds/",
     "author": "Jamie Redman",
     "created_at": "2026-05-12T23:30:55.000Z"
+  },
+  {
+    "id": "27c0d0d4-7d8c-4ef7-82b1-2108fadfcb44",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitcoin briefly slipped below $80K on Tuesday after US April CPI came in hotter than expected and Trump warned the US-Iran ceasefire was \"on life support.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8dbcef19",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-12T23:24:33+00:00"
   },
   {
     "id": "0d150678-01f9-433b-bad9-1c6e7bb11502",
@@ -70,7 +180,7 @@
     "created_at": "2026-05-12T22:26:18.000Z"
   },
   {
-    "id": "38e23d39-41ec-45a6-b351-ca1573c7758c",
+    "id": "1b306622-c056-48ab-80dc-634ddb779f83",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Broadridge — whose infrastructure handles over $15T in securities transactions daily — has added support for tokenized equities, funds, and money market instruments.",
@@ -100,7 +210,7 @@
     "created_at": "2026-05-12T22:08:00.000Z"
   },
   {
-    "id": "0dcff521-4c7b-465b-8522-cf35913f6bf4",
+    "id": "2e94b070-84b6-4137-99a6-c3559512e088",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ DTCC is integrating Chainlink into its Collateral AppChain to enable 24/7 near real-time collateral settlement, with a full launch set for Q4 2026.",
@@ -170,7 +280,7 @@
     "created_at": "2026-05-12T21:09:45Z"
   },
   {
-    "id": "6ec5486a-271e-49ad-9d58-1a09cbc3b3ff",
+    "id": "91d60a64-2b42-46f0-9dfb-b75ba046b602",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "JPMorgan to launch tokenized money-market fund on Ethereum.@WatcherGuru",
@@ -248,115 +358,5 @@
     "url": "https://t.me/WatcherGuru#e2740922",
     "author": "@WatcherGuru",
     "created_at": "2026-05-12T20:33:19+00:00"
-  },
-  {
-    "id": "89a8d0c5-899f-41d3-8186-56032d8b3113",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "$2.6T Citigroup just increased its position in Bitcoin treasury company Strategy $MSTR to roughly $138 million.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#2bfdc5e2",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-12T19:19:34+00:00"
-  },
-  {
-    "id": "e9d812a4-2de2-4ae2-ab26-312a4b1724b2",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Michigan Senate hopeful El-Sayed calls himself a ‘physician’ but has little history treating patients",
-    "summary": "1. “It’s a weird thing to hang your hat on in terms of a biographical detail if you never actually practiced medicine,” one Dem operative said.",
-    "url": "https://www.politico.com/news/2026/05/12/abdul-el-sayed-doctor-physician-00916389",
-    "author": "By Adam Wren and Daniel Lippman",
-    "created_at": "2026-05-12T19:12:27.000Z"
-  },
-  {
-    "id": "8ad98817-44dc-4494-b1d9-72f7735e6b09",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "What’s Really at Stake in the Market Structure Debate: The BRCA",
-    "summary": "1. Bitcoin Magazine\n\nWhat’s Really at Stake in the Market Structure Debate: The BRCA\nThe Blockchain Regulatory Certainty Act (BRCA) is the most important piece of the upcoming CLARITY Act.\n2. Without BRCA, Clarity leaves developers open to attack.\n3. This post What’s Really at Stake in the Market Structure Debate: The BRCA first appeared on Bitcoin Magazine and is written by Kyle Olney.",
-    "url": "https://bitcoinmagazine.com/legal/whats-really-at-stake-in-the-market-structure-debate-the-brca",
-    "author": "Kyle Olney",
-    "created_at": "2026-05-12T19:04:33.000Z"
-  },
-  {
-    "id": "eba3d0ec-4c1e-491c-911a-adf92ebfc239",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Bitcoin Clings To $80K As Altcoins Drag Market Lower",
-    "summary": "1. Solana, Cardano and Hyperliquid led the day's losses as risk appetite cooled across digital assets.",
-    "url": "https://thedefiant.io/news/markets/bitcoin-clings-to-usd80k-as-altcoins-drag-market-lower",
-    "author": "yyctrader",
-    "created_at": "2026-05-12T18:56:25.000Z"
-  },
-  {
-    "id": "045ee47f-bcfa-4210-aad6-5b4a839fa3a7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "DTCC to use Chainlink to power 24/7 collateral management network",
-    "summary": "1. The world’s largest post-trade infrastructure provider will integrate Chainlink technology into its tokenized collateral platform ahead of a Q4 2026 launch.",
-    "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-05-12T18:45:10.000Z"
-  },
-  {
-    "id": "5ec0c321-bdd3-4eb3-8fcd-bfcb366e824b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Kevin Hartz’s A* just closed its third fund with $450M",
-    "summary": "1. The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security.\n2. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
-    "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-    "author": "Dominic-Madori Davis",
-    "created_at": "2026-05-12T18:45:05.000Z"
-  },
-  {
-    "id": "f26b705a-de92-4e04-a314-21708e7572bc",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Square Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow",
-    "summary": "1. Bitcoin Magazine\n\nSquare Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow\nBlock, Inc.’s Square has auto-enabled roughly 1 million U.S.\n2. merchants to accept Bitcoin payments via the Lightning Network, letting customers pay in BTC while merchants automatically receive USD settlements with near-instant conversion in the background.\n3. This post Square Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-12T18:40:33.000Z"
-  },
-  {
-    "id": "c34291fb-1cab-47e4-82d2-e2fad2bf8431",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "eToro Q1 crypto revenue falls to $2.15B",
-    "summary": "Mobile investment app eToro saw its first-quarter revenue from crypto assets fall to $2.15 billion, down from $3.5 billion in the same period last year. The company also reported a 32% year-over-year decline in the number of crypto transactions for the quarter. Despite the downturn, eToro noted it has expanded its crypto trading services in New York and acquired crypto wallet Zengo for $70 million to grow its DeFi business. The results mirror a broader trend, with Robinhood and Coinbase also recently reporting decreases in crypto trading volume and revenue.",
-    "url": "https://t.me/CoinnessGL#329d5136",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-12T18:25:58+00:00"
-  },
-  {
-    "id": "a217f413-c5aa-4e64-ac7f-5d57ae7b5e98",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 President Trump says stock market will go \"through the roof\" and inflation will go down \"as soon as\" war with Iran is over.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#4e9192a1",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-12T18:22:29+00:00"
-  },
-  {
-    "id": "1395c6e4-5856-4226-a331-1bd15b69f48f",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP'S PROPOSED 'GOLDEN DOME' ESTIMATED TO COST $1.2 TRILLION, FAR MORE THAN HE INITIALLY SAIDTRUMP’S MISSILE DEFENSE PROJECTION ROSE FROM $175 BILLION TO $1.2 TRILLIONTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#1285b0b5",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-12T18:18:21+00:00"
-  },
-  {
-    "id": "62e1dc2f-685f-4166-8da7-516c083410de",
-    "source": "The Block",
-    "type": "rss",
-    "title": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion",
-    "summary": "1. eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 billion as trading activity cooled.",
-    "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-12T18:17:25.000Z"
   }
 ]
