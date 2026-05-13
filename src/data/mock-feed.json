@@ -1,382 +1,372 @@
 [
   {
-    "id": "4e1d0f78-3784-40fd-8af1-e483208f3196",
-    "source": "Bitcoin.com",
+    "id": "bd3da477-70ae-469c-89c5-3ac88bbee007",
+    "source": "OpenAI",
     "type": "rss",
-    "title": "Ether Withdrawals to Resume Following KelpDAO and Aave’s Coordinated Token Burn",
-    "summary": "1. Ether withdrawals are expected to resume within 24 hours for KelpDAO users after a coordinated burn of the attacker’s rsETH tokens on Arbitrum successfully neutralized the exploit’s impact.\n2. MORE THAN AN EXPLOIT The rsETH bridge lockbox on Arbitrum is being refilled, and ether withdrawals for users affected by the KelpDAO exploit are expected to start […]",
-    "url": "https://news.bitcoin.com/ether-withdrawals-to-resume-following-kelpdao-and-aaves-coordinated-token-burn/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-13T11:30:46.000Z"
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "summary": "1. Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "author": "OpenAI",
+    "created_at": "2026-05-15T00:00:00.000Z"
   },
   {
-    "id": "e283c863-91cc-4b7b-aaa0-6c04842499ad",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Aave founder says CLARITY Act will be a tailwind for DeFi",
-    "summary": "Stani Kulechov, founder of the DeFi lending protocol Aave (AAVE), has urged U.S. lawmakers to approve the CLARITY Act ahead of a vote in the Senate Banking Committee, calling the bill a potential turning point for the industry. In a post on X, Kulechov described the legislation as fundamental, stating it would establish strong protections for DeFi developers to build services in the U.S. with greater confidence. He argued that for the U.S. to lead in DeFi, it must not impose obligations designed for centralized models on developers of decentralized protocols, adding that other countries will follow America's lead if it succeeds. Kulechov also noted that the issue of yield is not particularly important, suggesting the CLARITY Act's passage could provide the same kind of tailwind for DeFi that the GENIUS Act brought to the stablecoin sector. He stressed that providing clarity and confidence to developers is paramount.",
-    "url": "https://t.me/CoinnessGL#133dda88",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T11:20:40+00:00"
-  },
-  {
-    "id": "54da3155-313a-406f-a2db-0d42310b5825",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "x402 protocol launches batch settlement for AI micropayments",
-    "summary": "The x402 protocol, an open AI payment standard developed by Coinbase, has launched a new feature for the batch settlement of multiple micropayments made by AI agents, Cointelegraph reported. This system is designed to reduce payment costs by bundling frequent, ultra-small transactions into a single settlement.Jesse Pollak, a developer for Coinbase's Layer 1 Base, explained that the feature enables AI agents to make ultra-micropayments of under $0.0001 for on-demand resources such as computing and inference.",
-    "url": "https://t.me/CoinnessGL#2e208be2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T11:19:31+00:00"
-  },
-  {
-    "id": "a09128d9-37b7-4941-8050-5b6889e9c9a4",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin holds below $81,000 with Trump-Xi talks on the horizon",
-    "summary": "1. Bitcoin held steady before President Donald Trump's with his Chinese counterpart, Xi Jinping.",
-    "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-holds-below-usd81-000-with-trump-xi-talks-on-the-horizon",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-13T11:14:24.000Z"
-  },
-  {
-    "id": "5b0bfe1f-6cfe-4691-a628-48091a212266",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Stork promises ‘true’ 24/7 price discovery for stocks and gold tapping Binance and other perps markets",
-    "summary": "1. Stork launches the first 24/7 oracle that switches to perpetual futures markets for 'true' price discovery.",
-    "url": "https://www.theblock.co/post/401053/stork-24-7-price-discovery?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-13T11:05:02.000Z"
-  },
-  {
-    "id": "5b212abc-3dcb-4ffd-a2d6-73235a6a1b99",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Arkham releases on-chain map of suspected Iranian central bank crypto wallets",
-    "summary": "Blockchain analytics firm Arkham has released an on-chain tracking map of cryptocurrency wallets believed to be owned by the Central Bank of Iran, Cointelegraph reported. The map is based on two Tron (TRX) TRC-20 addresses that the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) added to its Specially Designated Nationals (SDN) list on April 24. It is designed to help law enforcement and the public track connected addresses and fund flows. At the time, U.S. authorities announced they had frozen over $344 million in USDT with Tether's cooperation. Meanwhile, Iran's total cryptocurrency trading volume is estimated at around $11.4 billion for 2024 and approximately $10 billion for 2025. more:",
-    "url": "https://t.me/CoinnessGL#cee9fc61",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T11:02:20+00:00"
-  },
-  {
-    "id": "1539da06-8428-44a9-a069-30528f8536ba",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin price repeating move with 77% all-time high odds within year: Analyst",
-    "summary": "1. Bitcoin reduces its drop from all-time highs to 35% in a move that sparked new BTC price all-time highs \"within a year\" on seven occasions in the past.",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-repeats-move-with-77-all-time-high-odds-within-a-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-05-13T10:58:38.000Z"
-  },
-  {
-    "id": "a9ae9776-ed65-45f1-bc25-437e7fdbf03d",
+    "id": "cc4eea40-a5eb-4c2f-8db7-f4683b402768",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
-    "title": "⚡ Starknet has launched strkBTC, a ZK-powered Bitcoin wrapper that enables shielded balances and confidential transfers on its L2 network.",
+    "title": "📊 Metaplanet saw a $725.6M Q1 net loss from Bitcoin valuation markdowns, despite its operating profit surging 282.5%.",
     "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0728b48a",
+    "url": "https://t.me/CoinMarketCapAnnouncements#aef42749",
     "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-13T10:49:35+00:00"
+    "created_at": "2026-05-13T18:29:05+00:00"
   },
   {
-    "id": "2246d4c7-20d7-42a1-8f27-96b65a7b4808",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
-    "summary": "1. Vietnam’s deputy minister of finance reportedly said the country is planning to launch its regulated cryptocurrency market in the third quarter of 2026 to answer the growing demand for digital assets.",
-    "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-05-13T10:49:01.000Z"
-  },
-  {
-    "id": "bb1258f3-3511-4333-826d-c7d9ca5b7142",
+    "id": "b694b221-be8c-4842-a456-f2a333a6ea85",
     "source": "@SolidIntelX",
     "type": "telegram",
-    "title": "Charles Schwab starts spot crypto trading for US retail clients, launching phased $BTC and $ETH access with 0.75% trading fees via Paxos-backed infrastructureTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#8489aad5",
+    "title": "CHINESE FIRMS PLOT SECRET ARMS SALES TO IRAN, U.S.",
+    "summary": "OFFICIALS SAYSTwitter",
+    "url": "https://t.me/SolidIntelX#89479b6c",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-13T10:33:00+00:00"
+    "created_at": "2026-05-13T18:23:40+00:00"
   },
   {
-    "id": "7dd75f07-fcda-415b-a1ed-f4b38f85846b",
-    "source": "CoinTelegraph",
+    "id": "c0f24258-6b81-4e43-909b-2423fd7bff2f",
+    "source": "The Defiant",
     "type": "rss",
-    "title": "Jane Street slashes Bitcoin ETF holdings, adds Ether funds in Q1 2026",
-    "summary": "1. Jane Street cut Bitcoin ETF holdings sharply in Q1 2026, including IBIT and FBTC, while adding at least $82 million in Ether ETF exposure.",
-    "url": "https://cointelegraph.com/news/jane-street-slashes-bitcoin-etfs-adds-ether-funds-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-05-13T10:32:13.000Z"
+    "title": "BNB Chain Unveils On-Chain Agent Identity and Payment Framework With ERC-8004 Standard",
+    "summary": "1. BNB Chain introduced a framework enabling autonomous agents to obtain verifiable on-chain identities, receive payments, hire other agents, and build reputation through new token standards and skill integrations.",
+    "url": "https://thedefiant.io/news/blockchains/bnb-chain-agent-identity-erc-8004-go3uof",
+    "author": "DefAInt",
+    "created_at": "2026-05-13T18:18:38.000Z"
   },
   {
-    "id": "19b81ab4-8964-47cd-b908-7f9e14f58cfe",
+    "id": "b6f3a30e-beca-44b2-8065-b03c54e134e6",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "This is what some the world’s largest banks of malware look like stacked as hard drives",
+    "summary": "1. What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?",
+    "url": "https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-05-13T18:12:29.000Z"
+  },
+  {
+    "id": "7c8e0eba-ed19-4cae-a70b-8a2da478438f",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Strategy Estimated to Have Bought 2,110 BTC Today Using STRC Proceeds",
-    "summary": "1. Michael Saylor’s Strategy is estimated to have purchased approximately 2,110 bitcoin, funded by fresh proceeds from its STRC perpetual preferred stock program, continuing the firm’s relentless accumulation of the world’s largest cryptocurrency.\n2. STRC: THE FUNDING VEHICLE The latest bitcoin purchase was funded with proceeds from STRC, the company’s 11.5% annual yield perpetual preferred stock, which […]",
-    "url": "https://news.bitcoin.com/strategy-2110-btc-using-strc-proceeds/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-13T10:30:24.000Z"
+    "title": "Bitcoiner Dumps Old Computer Files Into Claude AI, Recovers 5 BTC Lost Since 2015",
+    "summary": "1. A bitcoin holder known on X as @cprkrn recovered approximately 5 BTC, valued between $400,000 and $500,000, from a wallet he had been locked out of for more than 11 years, crediting Anthropic’s Claude AI with solving a technical problem that had resisted every other attempt.\n2. Bitcoiner Recovers 5 BTC Worth $500K From 11-Year-Locked Wallet […]",
+    "url": "https://news.bitcoin.com/bitcoiner-dumps-old-computer-files-into-claude-ai-recovers-5-btc-lost-since-2015/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-13T18:11:17.000Z"
   },
   {
-    "id": "b049bd7c-c7b7-444b-8833-fb443c820069",
-    "source": "The Block",
+    "id": "1524f87c-4427-4466-a77e-2be1a4b96bcc",
+    "source": "CoinTelegraph",
     "type": "rss",
-    "title": "Solana treasury firm Upexi posts $109 million quarterly net loss amid crypto markdowns",
-    "summary": "1. The Nasdaq-listed firm said the net loss was mainly driven by $92.3 million of unrealized losses on digital assets.",
-    "url": "https://www.theblock.co/post/401104/upexi-posts-109-million-quarterly-losses?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-13T10:29:33.000Z"
+    "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+    "summary": "1. Bitcoin’s pullback is expected to find support near $79,000, but every recovery attempt is likely to be sold into.",
+    "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Rakesh Upadhyay",
+    "created_at": "2026-05-13T18:09:17.000Z"
   },
   {
-    "id": "cb429669-3acf-4651-842c-758c448284c4",
+    "id": "2c88f547-4178-4a75-8303-704629f7989b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "THE SENATE JUST VOTED NOT TO ADVANCE AN IRAN WAR POWERS RESOLUTION.THE RESOLUTION WAS INTENDED TO LIMIT TRUMP'S ABILITY TO WAGE WAR ON IRAN.",
+    "summary": "Twitter",
+    "url": "https://t.me/SolidIntelX#e6cdab52",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-13T18:09:07+00:00"
+  },
+  {
+    "id": "975e2045-b84b-427b-8fb4-23213be9130a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💡 CoinMarketCap | Liquidity Analysis: $ZEC 💡Zcash is experiencing a...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6d36fb7a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-13T18:04:10+00:00"
+  },
+  {
+    "id": "b99e039d-0b30-4765-b780-4f5d198465d0",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 eToro CEO Yoni Assia says he expects crypto to climb back near all-time highs later this year.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bbd8d74c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-13T17:54:27+00:00"
+  },
+  {
+    "id": "65d3685f-70b8-43a6-aff7-3c14623d7764",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Societe Generale deploys stablecoins on Canton for tokenized finance",
+    "summary": "1. France's SocGen plans to use its EURCV and USDCV stablecoins for tokenized collateral, repo financing and institutional settlement activity on the Canton blockchain network.",
+    "url": "https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-05-13T17:51:42.000Z"
+  },
+  {
+    "id": "d5b2a855-0a81-463d-88d8-4b8159fe1de7",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 USDT issuer Tether CEO Paolo Ardoino says crypto \"clarity is coming.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#8b34491a",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-13T17:44:03+00:00"
+  },
+  {
+    "id": "474c475a-f50f-48ba-8c24-f7343b1e6be2",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+    "summary": "1. Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
+    "url": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
+    "author": "Tim De Chant",
+    "created_at": "2026-05-13T17:42:20.000Z"
+  },
+  {
+    "id": "506d0e51-464f-4856-8fbd-120f7319dd8d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US government asks for $1M forfeiture from ex-Celsius exec ahead of sentencing",
+    "summary": "1. Former Celsius chief revenue officer Roni Cohen-Pavon, scheduled to be sentenced on Thursday after a guilty plea, agreed to a judgment of $1 million that he obtained as a result of his crimes.",
+    "url": "https://cointelegraph.com/news/us-government-forfeiture-celsius-roni-cohen-pavon-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-05-13T17:41:22.000Z"
+  },
+  {
+    "id": "52dd9ea7-42ca-4048-b48b-5f49f5705f56",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "UK Treasury official says digital assets can transform financial markets",
+    "summary": "Lucy Rigby, the UK's Economic Secretary to the Treasury, stated that digital assets have the potential to completely transform the country's financial markets, Decrypt reported. Speaking at the FT Digital Asset Summit, Rigby said these assets would go beyond simple speed improvements to optimize capital flows and fundamentally change business models. She added that the government plans to drive industry growth while minimizing the regulatory burden.",
+    "url": "https://t.me/CoinnessGL#4b53f57f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T17:35:02+00:00"
+  },
+  {
+    "id": "da64df5a-b0ef-4270-91fe-b79f6322a935",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Japanese Telecom-Backed Fintech Group KDDI Acquires Coincheck Group Stake for $65M",
+    "summary": "1. KDDI Corporation, one of Japan’s largest telecommunications companies, invested approximately $65 million to acquire a 14.9% stake in Coincheck Group N.V.\n2. and signed a business alliance agreement with Coincheck, Inc.\n3. to build blockchain-based financial services for Japanese consumers.",
+    "url": "https://news.bitcoin.com/japanese-telecom-backed-fintech-group-kddi-acquires-coincheck-group-stake-for-65m/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-13T17:34:19.000Z"
+  },
+  {
+    "id": "8aa207ff-5819-4117-9bb1-0134f1090320",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Firm Metaplanet Posts $725 Million Loss, Delays Preferred Share Offerings",
+    "summary": "1. Metaplanet CEO Simon Gerovich acknowledged that preferred shares unveiled in November have yet to be issued.",
+    "url": "https://decrypt.co/367770/bitcoin-firm-metaplanet-725-million-loss-delays-preferred-share",
+    "author": "André Beganski",
+    "created_at": "2026-05-13T17:33:52.000Z"
+  },
+  {
+    "id": "344ca2a8-4453-44c5-9401-08c8df6082ce",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Coinbase CEO Says Crypto Bill Could Rewire American Finance — Senate Votes Thursday",
+    "summary": "1. Bitcoin Magazine\n\nCoinbase CEO Says Crypto Bill Could Rewire American Finance — Senate Votes Thursday\nCoinbase CEO Brian Armstrong says the Senate’s advancing of the CLARITY Act could fundamentally reshape U.S.\n2. This post Coinbase CEO Says Crypto Bill Could Rewire American Finance — Senate Votes Thursday first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/coinbase-ceo-says-crypto-bill-could",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-13T17:32:19.000Z"
+  },
+  {
+    "id": "f0c17be5-3a17-472c-989a-1ce26d7d6612",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "UK Treasury: Digital Assets Have Potential for 'Complete Transformation' of Markets",
+    "summary": "1. The Economic Secretary to the Treasury highlighted an upcoming consultation on payments encompassing digital assets and AI agents.",
+    "url": "https://decrypt.co/367773/uk-treasury-digital-assets-have-potential-for-complete-transformation-of-markets",
+    "author": "Stephen Graves",
+    "created_at": "2026-05-13T17:26:19.000Z"
+  },
+  {
+    "id": "e877e344-736b-4521-8cd8-fcb7c86da033",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SG Forge's EURCV Stablecoin Market Cap Surges Over 200% Year-Over-Year: Token Terminal",
+    "summary": "1. The European euro-backed stablecoin EURCV issued by SG Forge has grown its market cap by more than 200% over the past year.",
+    "url": "https://thedefiant.io/news/markets/sg-forge-eurcv-stablecoin-market-cap-surge-200-percent-fak9ob",
+    "author": "DefAInt",
+    "created_at": "2026-05-13T17:18:06.000Z"
+  },
+  {
+    "id": "9e825566-ba77-4b06-8c58-ce7680c8fa67",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "X launches a History tab for bookmarks, likes, videos, and articles",
+    "summary": "1. X’s new History tab combines bookmarks, likes, watched videos, and read articles into a single place, expanding the app’s role as a save-it-for-later tool.",
+    "url": "https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/",
+    "author": "Sarah Perez",
+    "created_at": "2026-05-13T17:16:32.000Z"
+  },
+  {
+    "id": "84290f12-9e65-4c61-a0bb-f544157276ad",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "S&P 500 reaches new all-time high of 7,450@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#041dbba4",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-13T17:10:17+00:00"
+  },
+  {
+    "id": "732ee272-6741-4415-aefa-88709e364e44",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "'Lord of the Rings' Director Peter Jackson Says AI Is 'Just a Special Effect'",
+    "summary": "1. Peter Jackson says Hollywood’s fears around AI could hurt recognition for performance-capture acting, as debates about how the technology will reshape the movie industry grow.",
+    "url": "https://decrypt.co/367759/lord-rings-director-peter-jackson-ai-just-special-effect",
+    "author": "Jason Nelson",
+    "created_at": "2026-05-13T17:06:51.000Z"
+  },
+  {
+    "id": "93d0ee82-154d-4c93-a0fe-0f5d28fe3ac2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Societe Generale deploys stablecoins on Canton Network",
+    "summary": "French banking giant Societe Generale has deployed its stablecoins, EURCV and USDCV, on the Canton Network through its digital asset subsidiary SG-FORGE, Cointelegraph reported. The move is intended to support collateral management for asset tokens, repo (repurchase agreement) financing, and inter-institutional settlement and risk management workflows.",
+    "url": "https://t.me/CoinnessGL#07dc3053",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T17:02:17+00:00"
+  },
+  {
+    "id": "028c650c-c83e-436f-aa25-cfdc5d733aab",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Metaplanet postpones preferred stock listing plan",
+    "summary": "Metaplanet, often called Japan's MicroStrategy, has postponed its plan to list its Mars and Mercury preferred shares, citing the country's regulatory environment and infrastructure limitations, CoinDesk reported. The company currently holds 40,177 Bitcoin.",
+    "url": "https://t.me/CoinnessGL#d8afbcd2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T16:50:23+00:00"
+  },
+  {
+    "id": "93842ab8-e38d-4826-86c0-fb67d901c55c",
     "source": "CoinDesk",
     "type": "rss",
-    "title": "The $82,000 battle: bitcoin tests key resistance zone to form next major breakout",
-    "summary": "1. BTC is fighting a technical battle as it trades just below two closely watched long-term trend indicators: the 200-day Simple Moving Average and the 200-day Exponential Moving Average.",
-    "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-faces-crucial-test-at-200-day-moving-averages-as-bulls-defend-key-support-zone",
+    "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
+    "summary": "1. Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’",
+    "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-05-13T16:48:39.000Z"
+  },
+  {
+    "id": "9a4ef84d-3d08-46bc-8ffe-e859bd234a16",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
+    "summary": "1. CEO Simon Gerovich says regulatory and infrastructure challenges are slowing the launch of Metaplanet's perpetual preferred share.",
+    "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
     "author": "James Van Straten",
-    "created_at": "2026-05-13T10:25:03.000Z"
+    "created_at": "2026-05-13T16:43:49.000Z"
   },
   {
-    "id": "b5602c27-3f81-4df0-97eb-d9a9ddf342ac",
+    "id": "7ca759bf-3724-4d2e-b003-8441d1e647b5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Momentum Cools After $1.50 Rejection as Traders Watch Critical Support Levels",
+    "summary": "1. XRP traded near the lower end of its recent 24-hour range on Wednesday, as traders evaluated weakening short-term momentum against a broader bullish market structure.\n2. Market data showed XRP priced near $1.42 with technical signals reflecting consolidation following rejection near the $1.50 resistance zone.\n3. XRP Chart Outlook XRP‘s 1-hour chart reflected growing short-term selling pressure […]",
+    "url": "https://news.bitcoin.com/xrp-momentum-cools-after-1-50-rejection-as-traders-watch-critical-support-levels/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-13T16:36:01.000Z"
+  },
+  {
+    "id": "5b4fbc73-0d1e-4b80-bc08-bbfa3f5c3cac",
     "source": "CoinDesk",
     "type": "rss",
-    "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
-    "summary": "1. An initial group of clients can now trade bitcoin and ether on the Schwab Crypto platform.",
-    "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
-    "author": "Jamie Crawley",
-    "created_at": "2026-05-13T10:24:25.000Z"
+    "title": "UK parliament to probe Nigel Farage’s $6.8 million donation from crypto billionaire",
+    "summary": "1. If found guilty of violating the Parliamentary code of conduct, the Reform UK party leader could be suspended from the House of Commons.",
+    "url": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
+    "author": "Olivier Acuna",
+    "created_at": "2026-05-13T16:34:14.000Z"
   },
   {
-    "id": "5b891ea2-f6c9-4aaa-9940-67fe6a9e9500",
+    "id": "d7a81847-a200-4e0a-a53f-b1f195ccc18c",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Suisse Secures Bermuda Regulatory Approvals for International Digital Asset Expansion",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Suisse Secures Bermuda Regulatory Approvals for International Digital Asset Expansion\nBitcoin Suisse (International) Ltd.\n2. has obtained dual regulatory approvals from the Bermuda Monetary Authority.\n3. This post Bitcoin Suisse Secures Bermuda Regulatory Approvals for International Digital Asset Expansion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-bermuda-regulatory",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-13T16:26:25.000Z"
+  },
+  {
+    "id": "ad3dac30-833a-41b0-8d3b-f18b8f02f57d",
     "source": "The Block",
     "type": "rss",
-    "title": "Bitwise CIO says GENIUS Act helped unlock crypto fundraising as tokenization now eyes Clarity Act boost",
-    "summary": "1. Bitwise CIO Matt Hougan drew three lessons from Arc, Canton, and Tempo's billion-dollar blockchain raises.",
-    "url": "https://www.theblock.co/post/401115/bitwise-cio-says-genius-act-helped-unlock-crypto-fundraising-as-tokenization-now-eyes-clarity-act-boost?utm_source=rss&utm_medium=rss",
+    "title": "Immunefi to absorb Code4rena bug bounty customers after shutdown decision",
+    "summary": "1. Immunefi said it will help migrate Code4rena’s bounty programs, rewards and researchers onto its platform.",
+    "url": "https://www.theblock.co/post/401179/immufefi-absorb-code4rena-bug-bounty-customers-shutdown-decision?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-05-13T16:23:08.000Z"
+  },
+  {
+    "id": "837d5b8e-6c94-4d04-baa5-a7fd6cbc75a1",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Bitcoin falls under $79,000@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#a8f34bfc",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-13T15:58:50+00:00"
+  },
+  {
+    "id": "e041810f-23d4-491f-b1cc-68571c90905a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "More than 100 amendments filed targeting stablecoins, ethics and DeFi ahead of Senate Banking Committee Clarity Act vote",
+    "summary": "1. Senate Banking Committee is scheduled to hold a markup on Thursday to amend and vote on the Clarity Act.",
+    "url": "https://www.theblock.co/post/401074/senate-banking-members-file-clarity-act-amendments?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen and Sarah Wynn",
+    "created_at": "2026-05-13T15:32:32.000Z"
+  },
+  {
+    "id": "379a0f4b-2ea5-4691-a115-c4cdb5693921",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Crypto Bill Advances in Senate With Strong Support: Brian Armstrong",
+    "summary": "1. Coinbase CEO Brian Armstrong says crypto legislation is closer to passage, crediting Senate support and 3.7 million Stand With Crypto advocates.",
+    "url": "https://thedefiant.io/news/regulation/crypto-bill-advances-senate-armstrong-tx7pju",
+    "author": "DefAInt",
+    "created_at": "2026-05-13T15:17:29.000Z"
+  },
+  {
+    "id": "1e1a191f-7e45-42bb-a269-2f952d513b13",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin pinned near critical support as hot PPI spike compounds rate hike fears: analysts",
+    "summary": "1. Bitcoin floats around $80,000 after April core PPI surges 1% MoM — hottest since 2022 — as crypto ETFs bleed and rate-hike odds climb.",
+    "url": "https://www.theblock.co/post/401169/bitcoin-pinned-near-critical-support-as-hot-ppi-spike-compounds-rate-hike-fears-analysts?utm_source=rss&utm_medium=rss",
     "author": "Naga Avan-Nomayo",
-    "created_at": "2026-05-13T10:14:13.000Z"
+    "created_at": "2026-05-13T14:51:34.000Z"
   },
   {
-    "id": "d3a3fede-8715-4ea8-ac42-1c252e2f44d0",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Buttigieg picks sides in Iowa",
-    "summary": "1. The former Transportation Secretary (and Iowa caucus winner) is backing Josh Turek over Zach Wahls for Senate.",
-    "url": "https://www.politico.com/news/2026/05/13/buttigieg-endorses-turek-iowa-senate-00918205",
-    "author": "By Adam Wren",
-    "created_at": "2026-05-13T09:50:00.000Z"
-  },
-  {
-    "id": "9f398c93-7a9c-44a5-8af2-e3c16f6a30c7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇵🇱 Poland's parliament is debating four rival crypto regulatory bills after the president twice vetoed earlier legislation, as PiS lawmakers push a separate bill to ban crypto outright.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#67228b12",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-13T09:39:40+00:00"
-  },
-  {
-    "id": "4ceb0acb-ba59-41bd-897d-11b5474eb736",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Schumer Says Democrats Want a Good Crypto Bill as CLARITY Act Enters Key Phase",
-    "summary": "1. Senate Minority Leader Chuck Schumer wants “a good crypto bill to pass,” signaling potential bipartisan openness as U.S.\n2. lawmakers race to finalize two major digital asset laws in 2026.\n3. FROM OPPOSITION TO OPENNESS Schumer’s comment came during what has been a turbulent stretch for U.S.",
-    "url": "https://news.bitcoin.com/chuck-schumer-democrats-good-crypto-bill-clarity-act/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-13T09:30:25.000Z"
-  },
-  {
-    "id": "4f0fbb3f-0a5a-4644-9458-00db80939b1d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Upbit to list UP2 (Superform)",
-    "summary": "South Korean crypto exchange Upbit announced it will list UP2 (Superform) for trading against KRW, BTC, and USDT at 11:30 a.m. UTC on May 13.",
-    "url": "https://t.me/CoinnessGL#c97fef96",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T09:29:22+00:00"
-  },
-  {
-    "id": "db3ad934-099a-47be-aa7b-6c5c188ade63",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analysis: BTC faces strong resistance at $82K, breakout could trigger short squeeze",
-    "summary": "Bitcoin is setting the stage for a major rally after defending a key technical support level for four consecutive weeks amid macroeconomic headwinds, according to an analysis by U.today. The outlet noted that BTC/USD has closed above the Bollinger Bands middle line (the 20-week moving average) for four straight weeks, which it interprets as a sign that whales are systematically accumulating on dips. On the daily chart, the price is in a zone where the upper Bollinger Band ($82,970) and the 200-day moving average ($82,278) converge. U.today suggests that while this price level tends to attract concentrated selling pressure, a successful break above this resistance could trigger a short squeeze.",
-    "url": "https://t.me/CoinnessGL#171205bb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T09:25:16+00:00"
-  },
-  {
-    "id": "dddba4b7-72be-4e32-b6fc-871c81f012dc",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst: No clear reason for BTC to drop, next target is $85K",
-    "summary": "According to crypto analyst Michaël van de Poppe, there is no clear reason for Bitcoin to drop suddenly, and the current trend could push it toward the next resistance zone of $85,000 to $88,000.He noted that bears are arguing BTC is in a bear flag pattern and will see a drop to $50,000 later this year. He drew parallels to the sharp decline in February, the COVID-19 crash, and the 2018 bear market, when many predicted further losses before Bitcoin ultimately recovered.While acknowledging that BTC could retest the $70,000 to $75,000 range, he stated that the current trajectory is higher. He explained that Bitcoin is trading above its 21-day moving average (MA), has successfully broken through key resistance levels and converted them into support, and is seeing continued buying pressure amid a strong Nasdaq.",
-    "url": "https://t.me/CoinnessGL#bfda0426",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T09:24:49+00:00"
-  },
-  {
-    "id": "4b61fb4b-3c8c-4545-b30b-c3f7ce0388d7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💡 CoinMarketCap | Historical Snapshots 💡Nostalgia puts this market into perspective.",
-    "summary": "We pulled our oldest archive to see what the Top 10 looked like on April 28, 2013.Look at the raw data:🔹 $BTC at $134 vs $80k today🔹 $1.5 Billion Total Market Cap vs $2.7 Trillion today🔹 7 tracked cryptos vs 50.41 Million todayWhere were you on this day?Take a trip back to the past here 👇",
-    "url": "https://t.me/CoinMarketCapAnnouncements#52287ba0",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-13T09:04:27+00:00"
-  },
-  {
-    "id": "8518fa9c-5f81-4405-8cec-1d9491382b98",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "EToro profits rise as commodities boom offsets crypto trading slump",
-    "summary": "1. EToro posted its strongest quarter as a public company, with net income up 37% to $82 million, but crypto trade volumes fell 32% in April.",
-    "url": "https://cointelegraph.com/news/etoros-net-income-jumps-37-on-commodities-surge-crypto-trades-drop-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Amin Haqshanas",
-    "created_at": "2026-05-13T08:48:35.000Z"
-  },
-  {
-    "id": "7c82cd32-ea66-46bf-b529-79afa548e4d6",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Korean won stablecoin KRWQ expands to Solana following March EDX Markets listing",
-    "summary": "1. Korean won-denominated stablecoin KRWQ is expanding to Solana to support Korean won liquidity onchain.",
-    "url": "https://www.theblock.co/post/401093/krwq-expands-solana?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-13T08:44:07.000Z"
-  },
-  {
-    "id": "ddf42d02-3e74-44d2-b1bf-1749fc279ec6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "JPMorgan Eyes Ethereum Again With Second Tokenized Treasury Fund",
-    "summary": "1. JPMorgan Asset Management has filed with the U.S.\n2. Securities and Exchange Commission to launch a second tokenized money market fund on the Ethereum network, accelerating Wall Street’s push to bring traditional finance instruments onchain.\n3. Kinexys Powers the Onchain Infrastructure The move comes roughly five months after the bank debuted its first tokenized fund, the Onchain […]",
-    "url": "https://news.bitcoin.com/jpm-second-eth-fund/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-13T08:30:26.000Z"
-  },
-  {
-    "id": "8e933d6c-fe89-448f-9cfe-2da8327dd868",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Blockchain analytics firm Elliptic raised $120M in a Series D backed by Nasdaq Ventures and Deutsche Bank, valuing the company at $670M.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4b04d0fb",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-13T08:29:23+00:00"
-  },
-  {
-    "id": "70ad9e8b-2621-4af4-89d1-e69e0f0fbb17",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 JPMorgan is launching a second tokenized money market fund on Ethereum, designed to satisfy stablecoin reserve requirements under the GENIUS Act.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#793662ec",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-13T08:29:21+00:00"
-  },
-  {
-    "id": "c7f914d4-7191-41c4-847d-a9bd4207246c",
+    "id": "c35d426e-986b-4cef-890e-6624bdddb116",
     "source": "@SolidIntelX",
     "type": "telegram",
-    "title": "SBI and Startale to launch Japan’s first trust bank-backed yen stablecoin for enterprise B2B settlements, cross-border payments and AI-agent transactions in Q2Twitter",
+    "title": "LEDGER PAUSES US IPO PLANS, CITING UNFAVORABLE MARKET CONDITIONSTwitter",
     "summary": "",
-    "url": "https://t.me/SolidIntelX#79ddd1f5",
+    "url": "https://t.me/SolidIntelX#948a7826",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-13T08:13:10+00:00"
+    "created_at": "2026-05-13T14:51:27+00:00"
   },
   {
-    "id": "bc29d6cb-d15c-4db6-b47c-e9adb48cf6af",
-    "source": "Bitcoin.com",
+    "id": "13c49d4c-5d14-4e09-a5c2-8067ce42f4d2",
+    "source": "Bitcoin Magazine",
     "type": "rss",
-    "title": "Ray Dalio Warns Bitcoin’s Correlation With Tech Stocks Hurts Its Safe Haven Appeal",
-    "summary": "1. Billionaire investor Ray Dalio has sparked debate by arguing that bitcoin has failed to establish itself as a reliable safe-haven asset compared to gold.\n2. Dalio: Bitcoin Too Small to Rival Gold In a jab likely to rankle the crypto community, Bridgewater Associates founder and billionaire Ray Dalio noted that bitcoin has struggled to fulfil its […]",
-    "url": "https://news.bitcoin.com/ray-dalio-warns-bitcoins-correlation-with-tech-stocks-hurts-its-safe-haven-appeal/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-13T07:30:47.000Z"
-  },
-  {
-    "id": "48a2fc68-5cdb-4b25-9b64-84750e04f58b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Upexi falls 8% after widened fiscal Q3 net loss",
-    "summary": "1. Upexi increased its Solana holdings to 2.5 million, valued at more than $238 million, making it the second-largest listed corporate Solana treasury, behind Forward Industries.",
-    "url": "https://cointelegraph.com/news/upexi-q3-net-loss-solana-holdings-2-5m-sol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-13T07:12:59.000Z"
-  },
-  {
-    "id": "ad098f86-8d8e-4255-9744-dde4611ddf09",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin treasury firm KULR appears to sell part of its holdings at a loss",
-    "summary": "KULR Technology (KULR), a New York Stock Exchange-listed company known for its Bitcoin treasury strategy, appears to have sold 300 BTC ($24.36 million) at a loss after depositing the funds to Coinbase Prime two hours ago, according to EmberCN.The company announced in December 2024 that it would allocate 90% of its corporate reserves to Bitcoin investments. In July of last year, KULR disclosed that it held 1,021 BTC at an average purchase price of $98,923.EmberCN noted that at current prices, KULR's unrealized loss amounts to $18.25 million. The firm's stock price surpassed $43 after the Bitcoin accumulation announcement but has since declined, currently trading at $3.19.",
-    "url": "https://t.me/CoinnessGL#4eadee73",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T07:07:26+00:00"
-  },
-  {
-    "id": "aa10cef5-3cd7-4794-a4dc-d835bfed2c5f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Japan Blockchain Foundation to issue yen stablecoin EJPY for B2B payments",
-    "summary": "The Japan Blockchain Foundation has announced plans to issue a Japanese yen-pegged stablecoin, EJPY, on the Japan Open Chain (JOC) and Ethereum networks, The Block reported. EJPY will be a trust-based yen stablecoin, with the foundation acting as the settlor. Discussions are reportedly underway with potential trustees. The foundation stated that it expects the issuance and circulation of EJPY to expand real-demand transactions on JOC, including B2B payments, cryptocurrency settlements and remittances, and payments for various Web3 services.",
-    "url": "https://t.me/CoinnessGL#74125477",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T07:06:16+00:00"
-  },
-  {
-    "id": "59aa3839-9db4-463f-88a4-c217cea89a13",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Warren warns Clarity Act amendment may worsen Trump's conflicts of interest",
-    "summary": "U.S. Democratic Senator Elizabeth Warren, a prominent critic of cryptocurrency, has reiterated her call for the inclusion of conflict-of-interest provisions for senior public officials in a proposed amendment to the Clarity Act.In a post on X, Warren stated that the amendment released by Republicans on the Senate Banking Committee could exacerbate the \"massive conflict of interest\" issues surrounding President Donald Trump and his family's involvement in cryptocurrency businesses. She emphasized that no bill should pass the committee unless it includes \"real ethical guardrails.\"The Clarity Act is scheduled for a markup session, which includes deliberation and a vote, by the Senate Banking Committee at 2:30 p.m. UTC on May 14. Warren and other Democratic lawmakers have consistently demanded the addition of such conflict-of-interest rules to the legislation.",
-    "url": "https://t.me/CoinnessGL#ecd61760",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T07:03:20+00:00"
-  },
-  {
-    "id": "bbb6939f-cf3b-4fe1-a36b-97ec8cf1f21e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Japan’s enterprise-led blockchain to issue yen stablecoin for B2B settlements",
-    "summary": "1. The stablecoin is designed to be issued on Ethereum and Layer 1 public blockchain Japan Open Chain, which local enterprises operate.",
-    "url": "https://www.theblock.co/post/401075/japan-yen-stablecoin-ejpy?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-13T06:47:36.000Z"
-  },
-  {
-    "id": "3a7dd568-4931-4b5c-886b-577a425c0f48",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Legend becomes latest DeFi app to throw in towel",
-    "summary": "1. “The product that wins isn’t the one that explains crypto better, it’s the one that hides it completely,” said CEO Jayson Hobby.",
-    "url": "https://cointelegraph.com/news/legend-defi-app-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-05-13T06:31:53.000Z"
-  },
-  {
-    "id": "8c211cf1-d3d1-4582-951e-aafc6ca29cd3",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP tops bitcoin, ether volumes on major South Korean exchanges",
-    "summary": "1. XRP/KRW was the most traded pair on Upbit and second on Bithumb, a familiar Korean market signal that has often preceded sharper moves in the token.",
-    "url": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-13T06:30:11.000Z"
-  },
-  {
-    "id": "f05ba701-58a5-4fc4-b3c9-ccf637aff17e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "MEXC Commits to 1,000 BTC Purchase as Guardian Fund Targets $500M Expansion",
-    "summary": "1. Crypto exchange MEXC plans to increase its Guardian Fund to $500 million over the next two years while adding 1,000 bitcoin to its reserves.\n2. The move is aimed at strengthening user protection and reinforcing confidence amid continued market expansion.\n3. BTC and USDT to Serve as Dual Reserve System for Market Stability Crypto exchange MEXC is […]",
-    "url": "https://news.bitcoin.com/mexc-commits-to-1000-btc-purchase-as-guardian-fund-targets-500m-expansion/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-13T06:30:06.000Z"
+    "title": "The 2036 Issue: Letter From The Editor",
+    "summary": "1. Bitcoin Magazine\n\nThe 2036 Issue: Letter From The Editor\nThe 2036 Issue takes a look at the challenges and opportunities of the coming decade, and how Bitcoiners can make the most of them.\n2. This post The 2036 Issue: Letter From The Editor first appeared on Bitcoin Magazine and is written by Shinobi.",
+    "url": "https://bitcoinmagazine.com/print/the-2036-issue-letter-from-the-editor",
+    "author": "Shinobi",
+    "created_at": "2026-05-13T14:05:05.000Z"
   }
 ]
