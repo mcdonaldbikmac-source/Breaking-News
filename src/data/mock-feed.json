@@ -1,5 +1,185 @@
 [
   {
+    "id": "4e1d0f78-3784-40fd-8af1-e483208f3196",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ether Withdrawals to Resume Following KelpDAO and Aave’s Coordinated Token Burn",
+    "summary": "1. Ether withdrawals are expected to resume within 24 hours for KelpDAO users after a coordinated burn of the attacker’s rsETH tokens on Arbitrum successfully neutralized the exploit’s impact.\n2. MORE THAN AN EXPLOIT The rsETH bridge lockbox on Arbitrum is being refilled, and ether withdrawals for users affected by the KelpDAO exploit are expected to start […]",
+    "url": "https://news.bitcoin.com/ether-withdrawals-to-resume-following-kelpdao-and-aaves-coordinated-token-burn/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-13T11:30:46.000Z"
+  },
+  {
+    "id": "f8bed95f-649d-417c-87b3-becc002537fe",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Aave founder says CLARITY Act will be a tailwind for DeFi",
+    "summary": "Stani Kulechov, founder of the DeFi lending protocol Aave (AAVE), has urged U.S. lawmakers to approve the CLARITY Act ahead of a vote in the Senate Banking Committee, calling the bill a potential turning point for the industry. In a post on X, Kulechov described the legislation as fundamental, stating it would establish strong protections for DeFi developers to build services in the U.S. with greater confidence. He argued that for the U.S. to lead in DeFi, it must not impose obligations designed for centralized models on developers of decentralized protocols, adding that other countries will follow America's lead if it succeeds. Kulechov also noted that the issue of yield is not particularly important, suggesting the CLARITY Act's passage could provide the same kind of tailwind for DeFi that the GENIUS Act brought to the stablecoin sector. He stressed that providing clarity and confidence to developers is paramount.",
+    "url": "https://t.me/CoinnessGL#133dda88",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T11:20:40+00:00"
+  },
+  {
+    "id": "64cb57e3-d2a5-4e33-8128-ef3bd94a86fa",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "x402 protocol launches batch settlement for AI micropayments",
+    "summary": "The x402 protocol, an open AI payment standard developed by Coinbase, has launched a new feature for the batch settlement of multiple micropayments made by AI agents, Cointelegraph reported. This system is designed to reduce payment costs by bundling frequent, ultra-small transactions into a single settlement.Jesse Pollak, a developer for Coinbase's Layer 1 Base, explained that the feature enables AI agents to make ultra-micropayments of under $0.0001 for on-demand resources such as computing and inference.",
+    "url": "https://t.me/CoinnessGL#2e208be2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T11:19:31+00:00"
+  },
+  {
+    "id": "a09128d9-37b7-4941-8050-5b6889e9c9a4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin holds below $81,000 with Trump-Xi talks on the horizon",
+    "summary": "1. Bitcoin held steady before President Donald Trump's with his Chinese counterpart, Xi Jinping.",
+    "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-holds-below-usd81-000-with-trump-xi-talks-on-the-horizon",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-13T11:14:24.000Z"
+  },
+  {
+    "id": "5b0bfe1f-6cfe-4691-a628-48091a212266",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Stork promises ‘true’ 24/7 price discovery for stocks and gold tapping Binance and other perps markets",
+    "summary": "1. Stork launches the first 24/7 oracle that switches to perpetual futures markets for 'true' price discovery.",
+    "url": "https://www.theblock.co/post/401053/stork-24-7-price-discovery?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-05-13T11:05:02.000Z"
+  },
+  {
+    "id": "2d6298fd-3dde-429d-b980-d915e609bd70",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Arkham releases on-chain map of suspected Iranian central bank crypto wallets",
+    "summary": "Blockchain analytics firm Arkham has released an on-chain tracking map of cryptocurrency wallets believed to be owned by the Central Bank of Iran, Cointelegraph reported. The map is based on two Tron (TRX) TRC-20 addresses that the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) added to its Specially Designated Nationals (SDN) list on April 24. It is designed to help law enforcement and the public track connected addresses and fund flows. At the time, U.S. authorities announced they had frozen over $344 million in USDT with Tether's cooperation. Meanwhile, Iran's total cryptocurrency trading volume is estimated at around $11.4 billion for 2024 and approximately $10 billion for 2025. more:",
+    "url": "https://t.me/CoinnessGL#cee9fc61",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-13T11:02:20+00:00"
+  },
+  {
+    "id": "1539da06-8428-44a9-a069-30528f8536ba",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price repeating move with 77% all-time high odds within year: Analyst",
+    "summary": "1. Bitcoin reduces its drop from all-time highs to 35% in a move that sparked new BTC price all-time highs \"within a year\" on seven occasions in the past.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-repeats-move-with-77-all-time-high-odds-within-a-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-05-13T10:58:38.000Z"
+  },
+  {
+    "id": "4b806085-6108-4dd3-918a-89b3f2453122",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Starknet has launched strkBTC, a ZK-powered Bitcoin wrapper that enables shielded balances and confidential transfers on its L2 network.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0728b48a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-13T10:49:35+00:00"
+  },
+  {
+    "id": "2246d4c7-20d7-42a1-8f27-96b65a7b4808",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
+    "summary": "1. Vietnam’s deputy minister of finance reportedly said the country is planning to launch its regulated cryptocurrency market in the third quarter of 2026 to answer the growing demand for digital assets.",
+    "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-05-13T10:49:01.000Z"
+  },
+  {
+    "id": "8de3fc39-e268-4fda-95de-585a37976e92",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Charles Schwab starts spot crypto trading for US retail clients, launching phased $BTC and $ETH access with 0.75% trading fees via Paxos-backed infrastructureTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#8489aad5",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-13T10:33:00+00:00"
+  },
+  {
+    "id": "7dd75f07-fcda-415b-a1ed-f4b38f85846b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Jane Street slashes Bitcoin ETF holdings, adds Ether funds in Q1 2026",
+    "summary": "1. Jane Street cut Bitcoin ETF holdings sharply in Q1 2026, including IBIT and FBTC, while adding at least $82 million in Ether ETF exposure.",
+    "url": "https://cointelegraph.com/news/jane-street-slashes-bitcoin-etfs-adds-ether-funds-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-05-13T10:32:13.000Z"
+  },
+  {
+    "id": "19b81ab4-8964-47cd-b908-7f9e14f58cfe",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy Estimated to Have Bought 2,110 BTC Today Using STRC Proceeds",
+    "summary": "1. Michael Saylor’s Strategy is estimated to have purchased approximately 2,110 bitcoin, funded by fresh proceeds from its STRC perpetual preferred stock program, continuing the firm’s relentless accumulation of the world’s largest cryptocurrency.\n2. STRC: THE FUNDING VEHICLE The latest bitcoin purchase was funded with proceeds from STRC, the company’s 11.5% annual yield perpetual preferred stock, which […]",
+    "url": "https://news.bitcoin.com/strategy-2110-btc-using-strc-proceeds/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-13T10:30:24.000Z"
+  },
+  {
+    "id": "b049bd7c-c7b7-444b-8833-fb443c820069",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Solana treasury firm Upexi posts $109 million quarterly net loss amid crypto markdowns",
+    "summary": "1. The Nasdaq-listed firm said the net loss was mainly driven by $92.3 million of unrealized losses on digital assets.",
+    "url": "https://www.theblock.co/post/401104/upexi-posts-109-million-quarterly-losses?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-05-13T10:29:33.000Z"
+  },
+  {
+    "id": "cb429669-3acf-4651-842c-758c448284c4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The $82,000 battle: bitcoin tests key resistance zone to form next major breakout",
+    "summary": "1. BTC is fighting a technical battle as it trades just below two closely watched long-term trend indicators: the 200-day Simple Moving Average and the 200-day Exponential Moving Average.",
+    "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-faces-crucial-test-at-200-day-moving-averages-as-bulls-defend-key-support-zone",
+    "author": "James Van Straten",
+    "created_at": "2026-05-13T10:25:03.000Z"
+  },
+  {
+    "id": "b5602c27-3f81-4df0-97eb-d9a9ddf342ac",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
+    "summary": "1. An initial group of clients can now trade bitcoin and ether on the Schwab Crypto platform.",
+    "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
+    "author": "Jamie Crawley",
+    "created_at": "2026-05-13T10:24:25.000Z"
+  },
+  {
+    "id": "5b891ea2-f6c9-4aaa-9940-67fe6a9e9500",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitwise CIO says GENIUS Act helped unlock crypto fundraising as tokenization now eyes Clarity Act boost",
+    "summary": "1. Bitwise CIO Matt Hougan drew three lessons from Arc, Canton, and Tempo's billion-dollar blockchain raises.",
+    "url": "https://www.theblock.co/post/401115/bitwise-cio-says-genius-act-helped-unlock-crypto-fundraising-as-tokenization-now-eyes-clarity-act-boost?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-13T10:14:13.000Z"
+  },
+  {
+    "id": "d3a3fede-8715-4ea8-ac42-1c252e2f44d0",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Buttigieg picks sides in Iowa",
+    "summary": "1. The former Transportation Secretary (and Iowa caucus winner) is backing Josh Turek over Zach Wahls for Senate.",
+    "url": "https://www.politico.com/news/2026/05/13/buttigieg-endorses-turek-iowa-senate-00918205",
+    "author": "By Adam Wren",
+    "created_at": "2026-05-13T09:50:00.000Z"
+  },
+  {
+    "id": "b351c18a-5919-4d66-93d1-5cbb0f11e242",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇵🇱 Poland's parliament is debating four rival crypto regulatory bills after the president twice vetoed earlier legislation, as PiS lawmakers push a separate bill to ban crypto outright.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#67228b12",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-13T09:39:40+00:00"
+  },
+  {
     "id": "4ceb0acb-ba59-41bd-897d-11b5474eb736",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -100,7 +280,7 @@
     "created_at": "2026-05-13T08:29:21+00:00"
   },
   {
-    "id": "6aa36dde-3e41-420c-824a-74ceec5d92c2",
+    "id": "a12ec7c4-367b-43d6-bb69-37cb45b32d89",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "SBI and Startale to launch Japan’s first trust bank-backed yen stablecoin for enterprise B2B settlements, cross-border payments and AI-agent transactions in Q2Twitter",
@@ -198,165 +378,5 @@
     "url": "https://news.bitcoin.com/mexc-commits-to-1000-btc-purchase-as-guardian-fund-targets-500m-expansion/",
     "author": "Emmanuel Musa",
     "created_at": "2026-05-13T06:30:06.000Z"
-  },
-  {
-    "id": "40872c54-4842-4fd9-862a-f093fd8a6d7c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Stables Taps T-0 Network as Asia’s 60% Stablecoin Payment Share Tests USDT Rails",
-    "summary": "1. Stables has partnered with T-0 Network to strengthen USDT settlement corridors across Asia.\n2. Navigating Regulatory Moats Stables, a stablecoin infrastructure platform, announced a strategic partnership with t-0 Network to enhance settlement capabilities for its USDT corridors across Asia.\n3. The collaboration establishes T-0 Network as a dedicated settlement partner, providing the liquidity necessary for Stables to […]",
-    "url": "https://news.bitcoin.com/stables-taps-t-0-network-as-asias-60-stablecoin-payment-share-tests-usdt-rails/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-13T05:30:01.000Z"
-  },
-  {
-    "id": "475aa89a-1f91-468f-8e94-fda0b0127c1f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CFTC backs prediction market Kalshi in appeals court fight against Ohio",
-    "summary": "1. The Commodity Futures Trading Commission has urged the Sixth Circuit Court of Appeals to rule that the agency has jurisdiction over prediction markets.",
-    "url": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-13T05:07:10.000Z"
-  },
-  {
-    "id": "1861069b-4165-40eb-9c35-38d3472a3110",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpCNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China.\n2. In actuality, Jensen is currently on Air Force One and, unless I ask him to leave, which is highly unlikely, CNBC’s reporting is incorrect or, as they say in politics, FAKE NEWS!\n3. It is an Honor to have Jensen, Elon, Tim Apple, Larry Fink, Stephen Schwarzmann, Kelly Ortberg (Boeing), Brian Sikes (Cargill), Jane Fraser (Citi), Larry Culp (GE Aerospace), David Solomon (Goldman Sachs), Sanjay Mehrotra (Micron), Cristiano Amon (Qualcomm), and many others journeying to the Great Country of China where I will be asking President Xi, a Leader of extraordinary distinction, to “open up” China so that these brilliant people can work their magic, and help bring the People’s Republic to an even higher level!",
-    "url": "https://trumpstruth.org/statuses/38449",
-    "author": "Trump Truth",
-    "created_at": "2026-05-13T04:54:32.000Z"
-  },
-  {
-    "id": "1e21c219-180a-491d-968d-8fdcbc308398",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Charles Schwab launches spot BTC, ETH trading to select retail clients",
-    "summary": "1. Charles Schwab said it has made 'Schwab Crypto' available to the first wave of eligible retail clients starting Tuesday.",
-    "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-13T04:45:23.000Z"
-  },
-  {
-    "id": "d6ed79d2-a846-4423-b7d5-fe690e087e8e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin back above $81,000 after hot CPI print, BNB, DOGE lead majors gains",
-    "summary": "1. Bitcoin rolled back to $81,200 after dipping to $79,800 on Tuesday's hotter-than-expected U.S.\n2. inflation reading, while BNB zoomed 2.5% over 24 hours and dogecoin added 1.3% as crypto funds saw their strongest weekly inflows in months.",
-    "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-back-above-usd81-000-after-hot-cpi-print-bnb-doge-lead-majors-gains",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-13T04:42:37.000Z"
-  },
-  {
-    "id": "1d9242dc-1dc7-4657-91f7-9b344d1fbf14",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ethereum community launches security feature to end blind signing",
-    "summary": "1. Crypto platforms Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot and Fireblocks are among the earliest adopters and contributors to Clear Signing, aimed at ending “blind signing.”",
-    "url": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-13T04:41:41.000Z"
-  },
-  {
-    "id": "a17de9a6-69a7-4094-b651-0529cc5f8fbd",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Kelp DAO eyes unpausing withdrawals after attackers’ rsETH on Arbitrum is burned",
-    "summary": "1. Kelp DAO has burned the exploiter’s tokens and outlined a two-week plan to refill rsETH through Aave’s Recovery Guardian multisig wallet.",
-    "url": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-05-13T04:33:33.000Z"
-  },
-  {
-    "id": "bbcafb58-bfcf-463a-bf7e-9ab0065167d2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Kenya Narrows Crypto-Offshore Gambling Escape Valve in Finance Bill 2026",
-    "summary": "1. Treasury Cabinet Secretary John Mbadi has submitted Kenya’s Finance Bill 2026 to Parliament, introducing mandatory annual reporting requirements for virtual asset service providers alongside the reintroduction of a 20% withholding tax on gambling winnings, closing both lanes of the standard crypto-offshore migration path for affected players in a single piece of legislation.\n2. Two Reform Lanes […]",
-    "url": "https://news.bitcoin.com/kenya-narrows-crypto-offshore-gambling-escape-valve-in-finance-bill-2026/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-05-13T04:30:08.000Z"
-  },
-  {
-    "id": "18349f44-2448-4503-9299-06eefe5d9939",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Alameda Research withdraws $20.9M in crypto from KuCoin",
-    "summary": "An address associated with Alameda Research has withdrawn a total of $20.89 million in various cryptocurrencies from KuCoin over the past two hours, Onchain Lens reported. The withdrawals include 162.64 BTC ($13.21 million), 274.29 ETH ($630,000), 315,299 MASK ($168,000), and 6.877 million USDT. Withdrawals from exchanges are typically interpreted as a move to hold assets.",
-    "url": "https://t.me/CoinnessGL#13c880fc",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T04:13:27+00:00"
-  },
-  {
-    "id": "7256e4f0-d84c-4649-b752-253c0188a179",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and started speaking in his ear for Mitch to belatedly introduce some other people, all Democrats and, by doing so, made Mitch look foolish and completely out of it, should be immediately fired!\n2. This was a case where Mitch wasn’t confused, he just didn’t understand why he was being asked to do something when it was too late, and people were wrapping up to leave — They wanted to go home.\n3. His name is Robert Karem, he is a Never Trumper, and was grandstanding — trying to show how “important” he was!",
-    "url": "https://trumpstruth.org/statuses/38448",
-    "author": "Trump Truth",
-    "created_at": "2026-05-13T04:11:29.000Z"
-  },
-  {
-    "id": "2e3b54be-cc60-45d9-afec-ae3a321e0e28",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": " Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
-    "summary": "1. Hayes said military spending and the prioritization of AI infrastructure over US Treasurys and equities will lead to further fiat printing and benefit crypto.",
-    "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-13T04:10:05.000Z"
-  },
-  {
-    "id": "04b29729-98f4-435c-a013-2cc1a25c2404",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "OKX to list PROS for spot trading",
-    "summary": "OKX has announced that it will list the PROS/USDS spot trading pair at 11:00 a.m. UTC today.",
-    "url": "https://t.me/CoinnessGL#7459c1c0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T04:06:36+00:00"
-  },
-  {
-    "id": "4c6bbbe7-415f-49a2-b42f-f2d6531f77c3",
-    "source": "r/cryptocurrency",
-    "type": "reddit",
-    "title": "ran the Grok-Bankr NFT-injection exploit against my RunLobster (OpenClaw) this morning. agent generated a transfer proposal. i nearly approved it. log inside.",
-    "summary": "1. saw the Grok-Bankr exploit last week and couldn't stop thinking about it.\n2. ran the same structural attack on my setup this morning using a junk SPL token with membership metadata, then hit the RunLobster agent with a prompt asking it to verify and process the embedded instruction.\n3. agent didn't auto-transfer thankfully because i have approve-only mode for anything over $10.",
-    "url": "https://reddit.com/r/CryptoCurrency/comments/1tbomnx/ran_the_grokbankr_nftinjection_exploit_against_my/",
-    "author": "u/smartyladyphd",
-    "created_at": "2026-05-13T04:06:08.000Z"
-  },
-  {
-    "id": "2076f1da-6050-4916-84f0-d9eeda516218",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Nevada regulators push back after prediction market conference blames them for move",
-    "summary": "1. Spokesperson for regulator denies that it put pressure on ARIA Resort & Casino for hosting Predict 2026",
-    "url": "https://www.coindesk.com/policy/2026/05/13/nevada-gaming-regulator-says-prediction-market-conferences-are-welcome-in-las-vegas",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-13T04:04:34.000Z"
-  },
-  {
-    "id": "da79ae89-e4bb-47e8-bba6-c60ac7952f4d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Senators file over 100 amendments to crypto bill ahead of markup",
-    "summary": "1. A leaked list shows Senate Banking Committee members have filed more than 100 amendments to a crypto bill, highlighting the issues likely to be debated at a markup on Thursday.",
-    "url": "https://cointelegraph.com/news/senators-file-over-100-amendments-to-crypto-bill-ahead-of-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-13T03:59:47.000Z"
-  },
-  {
-    "id": "7ed2ec69-15fe-4295-9857-f77556b48249",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US SPR release dampens WTI price rally outlook",
-    "summary": "Expectations for a rise in West Texas Intermediate (WTI) crude oil prices have cooled following the release of oil from the U.S. Strategic Petroleum Reserve (SPR) and a downward revision of this year's demand forecast by the Energy Information Administration (EIA). Traders on the decentralized prediction market Polymarket are now forecasting a 53.5% probability that WTI prices will exceed $105 per barrel in the second week of May, a drop of 21 percentage points. Meanwhile, the price of CLUSDT, an on-chain WTI crude oil perpetual futures contract, is trading at $98.00, according to Aster. more:",
-    "url": "https://t.me/CoinnessGL#dd8c512a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-13T03:57:53+00:00"
   }
 ]
