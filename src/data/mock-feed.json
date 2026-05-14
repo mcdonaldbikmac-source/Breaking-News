@@ -10,6 +10,126 @@
     "created_at": "2026-05-15T00:00:00.000Z"
   },
   {
+    "id": "4db33296-425c-433c-9b49-affd7ced37f7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to list AIGENSYN",
+    "summary": "Binance has announced it will list AIGENSYN for spot trading at 1:00 p.m. UTC today. The listing will have the Seed Tag applied, which Binance uses for tokens that may exhibit higher volatility and risk compared to other listed tokens.",
+    "url": "https://t.me/CoinnessGL#319813b5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-14T10:02:40+00:00"
+  },
+  {
+    "id": "d0ca645b-f920-4c01-be3d-48d2c99ed493",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to list perpetual futures for SOXL, JPM, Berkshire B",
+    "summary": "Binance has announced the addition of several perpetual futures contracts based on U.S. stocks and ETFs to expand its offerings.On May 15, the exchange will list perpetuals for the Direxion Daily Semiconductor 3x ETF (SOXL) and Marvell Technology (MRVL). The SOXLUSDT contract will support up to 20x leverage, while the MRVLUSDT contract will offer up to 10x.On May 18, Binance will sequentially add perpetuals for CoreWeave, Walmart, JPMorgan, Visa, and Berkshire Hathaway Class B. All of these contracts will provide up to 10x leverage.",
+    "url": "https://t.me/CoinnessGL#24961e13",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-14T09:49:46+00:00"
+  },
+  {
+    "id": "5c64fc25-7f5b-471d-8250-43e0deac68f4",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "UAE WAS DIRECTLY INVOLVED IN MILITARY OPERATIONS AGAINST IRAN: IRAN'S FOREIGN MINISTER ARAQCHI SAYSTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#db789610",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-14T09:41:05+00:00"
+  },
+  {
+    "id": "237d39dd-dcc9-4d32-b962-70bea0ae0484",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Bitcoin conviction buyers have accumulated nearly 4 million BTC, worth $320 billion, since late 2025, according to Bitfinex.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1630552f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-14T09:39:47+00:00"
+  },
+  {
+    "id": "3b701ea1-a961-4043-b075-162592ad144b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot CVD chart as of 9:00 a.m. UTC on May 14",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows the Volume Heatmap, and the bottom section displays the Cumulative Volume Delta (CVD).- The Volume Heatmap tracks the volume of trades at specific price levels. The background color brightens when the price remains in a certain range for an extended period or experiences significant movement. These brighter areas may act as potential support or resistance levels.- The CVD indicator represents buy and sell orders categorized by the size of the capital involved. As buy orders increase, the corresponding colored line rises. For example, the yellow line represents orders between $100 and $1,000, while the brown line indicates large orders ranging from $1 million to $10 million.",
+    "url": "https://t.me/CoinnessGL#4b761ee2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-14T09:36:49+00:00"
+  },
+  {
+    "id": "2f01d6cf-2684-45a9-b34b-73520e5b7da5",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🧪 CoinMarketCap | CMC Labs 🧪Great tech dies without distribution.CMC Labs...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0b849618",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-14T09:04:36+00:00"
+  },
+  {
+    "id": "745ab048-dd8a-45a9-aec6-9ebeb045d593",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Polymarket's April trading volume fell around 9% to $10.9 billion, its first monthly drop since August, while rival Kalshi surged 13% to $14.8 billion.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#028b683b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-14T08:49:20+00:00"
+  },
+  {
+    "id": "a90b49b6-23de-49c7-9109-53b6f5c290a5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Moody’s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+    "summary": "1. The AAA rating signals the highest level of credit quality, liquidity and capital preservation.",
+    "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-14T08:49:07.000Z"
+  },
+  {
+    "id": "0f7289fb-bff8-48c3-89c3-958cb575c281",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Poll: Democrats want to beat the GOP — even if that means fewer Black districts",
+    "summary": "1. A new POLITICO Poll suggests many appear willing to embrace a maximalist posture on redistricting.",
+    "url": "https://www.politico.com/news/2026/05/14/poll-democrats-redistricting-black-voters-00919972",
+    "author": "By Andrew Howard, Erin Doherty and Riley Rogerson",
+    "created_at": "2026-05-14T08:45:00.000Z"
+  },
+  {
+    "id": "4fece76c-6cf6-4ec1-8114-899cb2a7ca92",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US SAYS PRESIDENT XI EXPRESSED INTEREST IN PURCHASING MORE AMERICAN OILTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#28f39cb3",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-14T08:31:19+00:00"
+  },
+  {
+    "id": "bcd18b0e-c64d-4cc7-b1b7-2b5cdf2a16f2",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP HAD GOOD MEETING WITH XI, ACCORDING TO WHITE HOUSE OFFICIALTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#de895167",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-14T08:29:07+00:00"
+  },
+  {
+    "id": "9a750562-9289-4cc6-a175-7170c4da9dce",
+    "source": "The Block",
+    "type": "rss",
+    "title": "David Bailey’s Nakamoto reports $239 million Q1 loss as bitcoin treasury value slides",
+    "summary": "1. Nakamoto posted a $238.8 million first-quarter net loss after recording a $102.5 million mark-to-market loss on its bitcoin holdings.",
+    "url": "https://www.theblock.co/post/401225/nakamoto-reports-q1-loss?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-14T08:22:42.000Z"
+  },
+  {
     "id": "f023090e-057e-41ce-8d82-713b8e1dfefb",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
@@ -50,6 +170,16 @@
     "created_at": "2026-05-14T07:30:49.000Z"
   },
   {
+    "id": "2854f0e7-d729-46e4-b403-88c0f1a5e138",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trump’s White House weighs 250 pardons to celebrate America's 250th birthday ",
+    "summary": "1. One of the developers behind the crypto-mixing protocol Samourai Wallet has publicly expressed hopes for a pardon, along with FTX founder Sam Bankman-Fried.",
+    "url": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-05-14T07:26:11.000Z"
+  },
+  {
     "id": "9c911da0-a23a-4efa-b533-6fa9a5a9865e",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -68,6 +198,16 @@
     "url": "https://t.me/CoinnessGL#2ccd2515",
     "author": "@CoinnessGL",
     "created_at": "2026-05-14T07:22:33+00:00"
+  },
+  {
+    "id": "205b3092-9d10-4b39-b962-8a0b43e13ab8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "NY judge pushes back hearing for Aave’s bid to unfreeze $71M in ETH",
+    "summary": "1. A New York judge has ordered supplemental briefings because Aave did not adequately outline how compounding losses could occur if the restraining notice remains in place.",
+    "url": "https://cointelegraph.com/news/judge-delays-aaves-emergency-bid-to-unfreeze-71m-hacked-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brian Quarmby",
+    "created_at": "2026-05-14T07:16:05.000Z"
   },
   {
     "id": "b85a0dad-1827-4cc7-8fb0-9f5f2b8dde2c",
@@ -260,7 +400,7 @@
     "created_at": "2026-05-14T04:30:37.000Z"
   },
   {
-    "id": "36f26bdb-e3d1-458b-8180-d8c018d71a6b",
+    "id": "cf457855-7cda-4e1d-9b25-399d72452e8a",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Elon Musk says the problem with socialism is \"after they 'eat the rich,' they will starve.\"@WatcherGuru",
@@ -270,7 +410,7 @@
     "created_at": "2026-05-14T04:27:59+00:00"
   },
   {
-    "id": "c565899f-4240-4fc0-961c-046a4fa46d26",
+    "id": "3925ffcf-3dae-445a-9094-a101e28a65c8",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇬🇧 Bank of England to scale back plans for strict stablecoin rules following crypto industry pressure.@WatcherGuru",
@@ -278,125 +418,5 @@
     "url": "https://t.me/WatcherGuru#c930a733",
     "author": "@WatcherGuru",
     "created_at": "2026-05-14T04:06:24+00:00"
-  },
-  {
-    "id": "6e8f7ed5-7074-4bd6-ae40-e9e13b63787a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase",
-    "summary": "1. The crypto investor made Claude search through two Macs, two external hard drives, an Apple Notes export, iCloud Mail, Gmail inbox and X messages to help retrieve the Bitcoin.",
-    "url": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-14T03:47:33.000Z"
-  },
-  {
-    "id": "0001e74d-28e9-4492-bf4c-9b8f7be7c104",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Strategy’s STRC preferred stock may be fueling mid-month Bitcoin rallies, according to K33, with STRC-tied purchases rising from 4,467 BTC in January to 46,872 BTC in April.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a7e1a139",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-14T03:39:35+00:00"
-  },
-  {
-    "id": "713cb037-2392-4229-847c-ccbebbbfde4a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Only 4% of Americans weigh crypto when placing their votes: Poll",
-    "summary": "1. US adults are largely wary of crypto and consider it the least important policy issue when picking who to vote for, according to a poll by POLITICO.",
-    "url": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-14T03:38:10.000Z"
-  },
-  {
-    "id": "83cb0642-5a54-46ec-aea6-4de862bfb6de",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Bottom Unconfirmed as Peter Brandt Flags Bear Channel",
-    "summary": "1. Peter Brandt warned that bitcoin has not formed a recognizable bottom, citing a possible bear channel from the February low.\n2. His key trigger is an ATR close below $79,145, which he said could signal renewed downside.\n3. Bitcoin Recovery Faces Pressure Inside Bear Channel Veteran trader Peter Brandt warned that bitcoin has not completed a recognizable […]",
-    "url": "https://news.bitcoin.com/bitcoin-bottom-unconfirmed-as-peter-brandt-flags-bear-channel/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-14T03:30:17.000Z"
-  },
-  {
-    "id": "1f23c569-908a-4d83-b7e5-14f8f9955b3f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BOK to prioritize CBDC, deposit tokens over asset tokens",
-    "summary": "The Bank of Korea (BOK) announced that it will prioritize establishing a payment system centered on a central bank digital currency (CBDC) and deposit tokens to prepare for the expansion of the asset tokenization market, iNews24 reported. In a BOK issue note released today, the central bank stated that asset tokens would be a later consideration. The bank also assessed that stablecoins could be used as a supplementary tool, provided they fully comply with strict regulations and ensure redeemability and the stability of their reserve assets. Furthermore, the BOK warned that while tokenized assets can be traded 24/7 with instant settlement, their underlying real-world assets adhere to traditional financial market hours and settlement cycles. This mismatch, it cautioned, could lead to large-scale redemptions and forced liquidations occurring simultaneously during periods of market instability. more:",
-    "url": "https://t.me/CoinnessGL#4386efcf",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T03:06:28+00:00"
-  },
-  {
-    "id": "621abff2-3e59-4ecf-8f99-8f7a235a48e7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance to suspend Base network deposits and withdrawals on May 21",
-    "summary": "Binance has announced it will temporarily suspend deposits and withdrawals for tokens on the Base network to support an upcoming network upgrade and hard fork. The suspension is scheduled to begin at 5:00 p.m. UTC on May 21.",
-    "url": "https://t.me/CoinnessGL#16439064",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T03:04:02+00:00"
-  },
-  {
-    "id": "fb774e6c-c6d1-47f8-9645-fbb85ad588c2",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DeFi Development boosts SOL per share 108% but posts $83.4M Q1 loss",
-    "summary": "Nasdaq-listed DeFi Development (DFDV), a company that accumulates Solana (SOL), announced it has increased its SOL holdings per share by 108% over the past year through its strategic initiatives. According to The Block, DFDV currently holds 2,294,576 SOL. The company's strategies include operating a validator business and building nodes with the Solana-based memecoin Bonk (BONK). However, due to a decline in the price of SOL, the company recorded a net loss of $83.4 million in the first quarter.",
-    "url": "https://t.me/CoinnessGL#f4ffe362",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T02:59:33+00:00"
-  },
-  {
-    "id": "31cbcd8e-bf0c-4c7b-9acb-0dac0b294a92",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇨🇳 Elon Musk, Tim Cook, and Nvidia CEO Jensen Huang seen in China with President Trump and Xi Jinping.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#a3520c19",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T02:57:52+00:00"
-  },
-  {
-    "id": "7316e98e-0add-4cfd-86b5-568a02e743b1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Solana treasury firm DeFi Development Corp reports 108% yearly growth in SOL per share",
-    "summary": "1. DeFi Development Corp attributed the growth to 'unconventional' strategies that aligned the company better with the Solana ecosystem.",
-    "url": "https://www.theblock.co/post/401200/defi-development-corp-growth-sol-per-share?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-14T02:53:15.000Z"
-  },
-  {
-    "id": "f316a0a7-1302-4084-bf03-17e5b3fa6445",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇨🇳 US & China begin trade talks in Beijing.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#73f83e32",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T02:45:38+00:00"
-  },
-  {
-    "id": "b559c72e-e2d2-458f-810b-b706e295a31f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Supports CLARITY Act—Garlinghouse Says ‘This Is the Moment’",
-    "summary": "1. Ripple and crypto industry leaders backed the Senate’s CLARITY Act ahead of a key markup, citing clearer rules, stronger consumer protections, and U.S.\n2. leadership.\n3. Ripple’s legal chief cited a report estimating 67 million Americans hold crypto.",
-    "url": "https://news.bitcoin.com/ripple-supports-clarity-act-garlinghouse-says-this-is-the-moment/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-14T02:30:39.000Z"
-  },
-  {
-    "id": "7da6a8cf-614e-43df-8b44-6c8be31f8c9f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇨🇳 President Trump meets with Chinese President Xi Jinping in Beijing to discuss trade.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#fc37f10f",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T02:22:30+00:00"
   }
 ]
