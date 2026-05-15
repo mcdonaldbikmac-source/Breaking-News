@@ -1,5 +1,275 @@
 [
   {
+    "id": "3e7057f1-9096-4894-8b27-02eed036f14b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+    "summary": "1. Newly un-redacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
+    "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-05-15T17:13:26.000Z"
+  },
+  {
+    "id": "f6f89d9b-401f-4e1c-9b51-7540da9b47f6",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Myanmar’s military government proposes life in prison for crypto scammers",
+    "summary": "1. The text of Myanmar’s Anti-Online Fraud Bill said that anyone who was convicted of committing “digital currency fraud” could face from ten years to life in prison, and possibly the death penalty.",
+    "url": "https://cointelegraph.com/news/myanmar-government-life-death-crypto-scammers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-05-15T17:08:51.000Z"
+  },
+  {
+    "id": "0ff986a7-ded2-49b4-ac7d-69475caf3e5d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Arthur Hayes voices support for HYPE over CME and ICE",
+    "summary": "BitMEX co-founder Arthur Hayes stated on X that Hyperliquid (HYPE) is superior to the Chicago Mercantile Exchange (CME) and the Intercontinental Exchange (ICE), adding his strong endorsement for the platform. Previously, both CME Group and the New York Stock Exchange had called for the regulation of Hyperliquid. more:",
+    "url": "https://t.me/CoinnessGL#bf808302",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T16:56:42+00:00"
+  },
+  {
+    "id": "9fc8e204-3fa8-435c-98e8-63a5d7e5d1c3",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
+    "summary": "1. Bloomberg reported that ICE and CME are pressing for Hyperliquid to register with the CFTC, raising concerns about market stability.",
+    "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-05-15T16:48:14.000Z"
+  },
+  {
+    "id": "a290c128-ce2a-4640-8e47-c2853af914de",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Elon Musk confirms SpaceX intends to make it impossible to fire him.\"I need to make sure SpaceX stays focused on making life multiplanetary and extending consciousness to the stars, not pandering to someone's bullshit quarterly earnings bonus!\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5f6e4918",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-15T16:40:28+00:00"
+  },
+  {
+    "id": "bbfb1487-b012-4a6a-8ace-65e6da312899",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
+    "summary": "1. The chairman of droppRWA has secured $12.5 billion in mandates to tokenized real estate and his plans are to go beyond properties to bring trillions of dollars onchain.",
+    "url": "https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks",
+    "author": "Olivier Acuna",
+    "created_at": "2026-05-15T16:37:31.000Z"
+  },
+  {
+    "id": "13d68c46-d554-490b-b8bb-fc2c91f566ac",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "CME and NYSE Owner Push U.S. Regulators to Crack Down on Hyperliquid",
+    "summary": "1. The Hyperliquid Policy Center disputed the framing.",
+    "url": "https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-15T16:36:50.000Z"
+  },
+  {
+    "id": "6aaa6af5-ea9d-4033-920c-7224cd721273",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Tether Billionaire Enters UK's Richest People List Amid Farage Gift Inquiry",
+    "summary": "1. Christopher Harborne’s Rich List debut comes as Reform UK's Nigel Farage faces scrutiny over a $6.7 million gift from the Tether investor.",
+    "url": "https://decrypt.co/368016/tether-billionaire-enters-uks-richest-people-list-amid-farage-gift-inquiry",
+    "author": "Vince Dioquino",
+    "created_at": "2026-05-15T16:24:52.000Z"
+  },
+  {
+    "id": "32ec1054-000b-4104-be59-71684dbc1843",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Grayscale: Delayed rate cuts could prolong BTC weakness",
+    "summary": "Grayscale has suggested that a delay in interest rate cuts could prolong bearish conditions for Bitcoin. In a recent report, the asset manager noted that renewed inflationary pressures in the U.S. make it likely the Federal Reserve will maintain its high-interest-rate policy for the time being, potentially slowing BTC's upward momentum. While this could weigh on non-interest-bearing assets like Bitcoin and gold, Grayscale suggested that regulatory improvements, such as the CLARITY Act, could provide a partial offset. Conversely, the report highlighted that the profitability of stablecoin issuers could improve, explaining that for every 25 basis point increase in short-term rates, Circle's (USDC) annual revenue grows by approximately $190 million.",
+    "url": "https://t.me/CoinnessGL#2241b82f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T16:16:21+00:00"
+  },
+  {
+    "id": "9dec3046-aaf6-465f-86b1-09677117dbbe",
+    "source": "The Block",
+    "type": "rss",
+    "title": "OpenSea CMO sees tokenized Pokémon cards, Rolexes and tickets driving next NFT wave",
+    "summary": "1. OpenSea's Adam Hollander sees advancements in AI making it easier for people to make innovative tokenized assets.",
+    "url": "https://www.theblock.co/post/401504/opensea-cmo-tokenized-pokemon-cards-rolexes-tickets-driving-next-nft-wave?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-05-15T16:08:00.000Z"
+  },
+  {
+    "id": "ba9ed265-c153-4708-9437-53cb498fe93e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Lombard replaces LayerZero with Chainlink CCIP as cross-chain standard",
+    "summary": "Lombard (BARD), a Bitcoin-based financial infrastructure platform, has adopted Chainlink's (LINK) Cross-Chain Interoperability Protocol (CCIP) as its cross-chain standard, replacing LayerZero (ZRO), CoinDesk reported. The move is part of a broader industry trend of reviewing and replacing cross-chain standards after LayerZero's bridge was exposed in the hack of Kelp DAO's rsETH, which highlighted the security risks of such protocols.",
+    "url": "https://t.me/CoinnessGL#2c3d070c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T16:06:58+00:00"
+  },
+  {
+    "id": "edfa9096-902a-4abb-9754-e755c5607d81",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Lombard joins LayerZero exodus as $4 billion in assets switch to Chainlink's bridge",
+    "summary": "1. The shift comes after the Kelp DAO exploit drained $292 million from its LayerZero-powered bridge, increasing concerns over the security of cross-chain infrastructure.",
+    "url": "https://www.coindesk.com/business/2026/05/15/lombard-joins-layerzero-exodus-as-usd4-billion-in-assets-switch-to-chainlink-s-bridge",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-05-15T16:00:00.000Z"
+  },
+  {
+    "id": "ada38839-d15b-4590-97e2-bd658caec4cb",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "1. Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-05-15T16:00:00.000Z"
+  },
+  {
+    "id": "37b22250-7aae-4c90-9260-b31ddc1aa748",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ethereum analysts see ‘downside risks’ as bears eye 20% ETH price drop  ",
+    "summary": "1. Ethereum analysts said that increasing supply on exchanges and declining ETF demand put ETH at risk of another leg down to $1,700.",
+    "url": "https://cointelegraph.com/markets/ethereum-analysts-see-downside-risks-bears-20-eth-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nancy Lubale",
+    "created_at": "2026-05-15T15:55:05.000Z"
+  },
+  {
+    "id": "a71de35b-3477-4312-b22c-b150fae7698b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
+    "summary": "1. CME Group and ICE have reportedly warned the CFTC and Capitol Hill officials that Hyperliquid’s decentralized perpetual futures platform could enable market manipulation and sanctions evasion.",
+    "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
+    "author": "Helene Braun",
+    "created_at": "2026-05-15T15:46:46.000Z"
+  },
+  {
+    "id": "60096b73-0cd8-4f2d-8904-ca710c2e626b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
+    "summary": "1. The price spike is a reminder of a deeper problem: The U.S.\n2. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
+    "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
+    "author": "Tim De Chant",
+    "created_at": "2026-05-15T15:45:53.000Z"
+  },
+  {
+    "id": "8ff5c9ee-1159-404a-bf99-f8e2e5a08228",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "The Trump Family Trust Bought Bitcoin-Linked Stocks in First Quarter: Filing",
+    "summary": "1. Bitcoin Magazine\n\nThe Trump Family Trust Bought Bitcoin-Linked Stocks in First Quarter: Filing\nThe Trump family trust disclosures show purchases of Coinbase, MARA and Strategy shares in Q1 2026 as the administration advances a more crypto-friendly policy agenda.\n2. This post The Trump Family Trust Bought Bitcoin-Linked Stocks in First Quarter: Filing first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/trump-trust-bought-bitcoin-linked-stocks",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-15T15:38:11.000Z"
+  },
+  {
+    "id": "f001bcf7-de5d-4218-84a6-abc621412801",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Drake mentions Bitcoin in new song.\"I'm a $BTC crypto big-timer.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#3e0aa885",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-15T15:37:23+00:00"
+  },
+  {
+    "id": "c97f9cca-151b-49a6-a6eb-710066440898",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Bitwise’s Hyperliquid ETF began trading on the NYSE on Friday under ticker BHYP, offering HYPE exposure with staking rewards through Bitwise Onchain Solutions.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#61534c72",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-15T15:34:15+00:00"
+  },
+  {
+    "id": "6bbf516d-6cec-40ea-aabc-b3338296de10",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "ZachXBT Says 95% of LAB Token Is Insider-Controlled as Investigation Exposes Multi-Front Retail Rug",
+    "summary": "1. Onchain investigator ZachXBT has published a sweeping investigation into LAB, an AI trading terminal project with a $6 billion fully diluted valuation, alleging insiders control more than 95% of the token supply while running at least four simultaneous mechanisms to extract value from retail participants.\n2. A $6 Billion Project Built on Hidden Supply LAB launched […]",
+    "url": "https://news.bitcoin.com/zachxbt-lab-token-insider-control-bitget-investigation-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-15T15:30:28.000Z"
+  },
+  {
+    "id": "56a0a2a7-df93-4958-bdb3-2079324029ff",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto’s CLARITY Act faces partisan fight over ethics on Senate floor",
+    "summary": "1. While Senator Tim Scott touted yesterday’s markup as bipartisan, just two Democratic senators supported the bill, and no Democratic amendments were adopted.",
+    "url": "https://cointelegraph.com/features/crypto-clarity-act-faces-partisan-fight-ethics-senate-floor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Aaron Wood",
+    "created_at": "2026-05-15T15:24:37.000Z"
+  },
+  {
+    "id": "66e308b5-c844-478b-8bd3-eb56b1aaed49",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Henry Clay and the architecture of American strength:",
+    "url": "https://trumpstruth.org/statuses/38461",
+    "author": "Trump Truth",
+    "created_at": "2026-05-15T15:24:37.000Z"
+  },
+  {
+    "id": "f6dc3d46-36cb-41d2-9967-18019cb54f7f",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Elon Musk says \"Instagram is for girls.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#f073a7fa",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-15T15:12:28+00:00"
+  },
+  {
+    "id": "dbc880a7-3727-461c-929f-961c22d642fd",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Tokenized ETFs Surpass $430 Million in Onchain Market Cap, Led by Ondo Finance's IVVon",
+    "summary": "1. Tokenized ETFs have crossed $430 million in total onchain market cap, with Ondo Finance's IVVon token surging 150% in the past month on Ethereum.",
+    "url": "https://thedefiant.io/converge/markets/tokenized-etfs-430-million-market-cap-ondo-finance-a3j5zl",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-15T14:55:06.000Z"
+  },
+  {
+    "id": "a81f4eb4-9f6d-4bb6-9379-08f701855cc8",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Giant Strategy Moves to Retire $1.5 Billion in Convertible Debt, Says It Could Sell BTC",
+    "summary": "1. Strategy is taking steps to pare down convertible debt with an agreement to repurchase $1.5 billion in notes—and again teased Bitcoin sales.",
+    "url": "https://decrypt.co/368007/strategy-moves-retire-1-5-billion-convertible-debt-could-sell-bitcoin",
+    "author": "André Beganski",
+    "created_at": "2026-05-15T14:50:25.000Z"
+  },
+  {
+    "id": "361ad541-7eca-4a12-a466-926ccdca9d1e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💡 CoinMarketCap | Market Intelligence: Trump-Xi Conclusion 💡The Beijing summit...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a6bdd086",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-15T14:39:33+00:00"
+  },
+  {
+    "id": "fee7955a-e4d5-4256-82d0-1cb81232763e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Gemini reported 42% revenue growth in Q1, with credit card revenue up nearly 300% year over year, but posted a $109 million net loss.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e1460c43",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-15T14:34:21+00:00"
+  },
+  {
     "id": "d25822ef-a6f9-4d05-8184-b57902ef2d69",
     "source": "Decrypt",
     "type": "rss",
@@ -88,6 +358,16 @@
     "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
     "author": "Rebecca Bellan",
     "created_at": "2026-05-15T14:00:00.000Z"
+  },
+  {
+    "id": "aceb4054-55cc-441b-b580-1d9eb5a0322a",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "THORChain Reports $10.7M Loss From Compromised Asgard Vault",
+    "summary": "1. THORChain developers announced that one of six Asgard vaults was compromised, resulting in approximately $7.4M in unauthorized outbound transactions before the network halted signing activity.",
+    "url": "https://thedefiant.io/news/security/thorchain-reports-usd10-7m-loss-from-compromised-asgard-vault",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-15T13:53:23.000Z"
   },
   {
     "id": "520b56cc-8344-4eb8-93d9-62d90b5c4746",
@@ -240,7 +520,7 @@
     "created_at": "2026-05-15T12:49:42.000Z"
   },
   {
-    "id": "de999963-7c87-454d-8908-f465c1c88da3",
+    "id": "6ecc662d-0c1d-422b-8cd1-e03900b4c002",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "CME AND NYSE ARE PUSHING THE US TO REGULATE HYPERLIQUID, DUE TO CONCERNS ABOUT MARKET MANIPULATION AND SANCTIONS EVASIONTwitter",
@@ -270,7 +550,7 @@
     "created_at": "2026-05-15T12:23:47.000Z"
   },
   {
-    "id": "f04aa9cb-860c-4cfb-8890-55cae6979034",
+    "id": "4b66314e-3529-47db-8310-926ea4946437",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Strategy cuts its debt load by buying back $1.38 billion of previously issued notesTwitter",
@@ -288,255 +568,5 @@
     "url": "https://news.bitcoin.com/thorchain-loses-nearly-11m-as-attackers-poison-vault-churn-process-across-4-chains/",
     "author": "Jamie Redman",
     "created_at": "2026-05-15T12:09:24.000Z"
-  },
-  {
-    "id": "0c551f61-21d2-4ed7-8c38-4279f14d86a5",
-    "source": "r/cryptocurrency",
-    "type": "reddit",
-    "title": "Did I get rugpulled?",
-    "summary": "1. Hello, I recently reopened my old Coinbase wallet and it is telling me a meme coin I bout years ago is worth $3.5 million.\n2. Anytime I try to swap it for ether or usdc it says liquidity too low.\n3. The coin is called doogleinu on ether.",
-    "url": "https://reddit.com/r/CryptoCurrency/comments/1tdsxjl/did_i_get_rugpulled/",
-    "author": "u/Elegant-Hurry3147",
-    "created_at": "2026-05-15T11:02:10.000Z"
-  },
-  {
-    "id": "81e4db82-5adc-4535-9534-b12eda6a70bc",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP REMARKS- Think we'll be fine on Taiwan issue- Will make a determination about arms sales to Taiwan- Didn't ask China for favors on Iran- Did Iran ceasefire as a favor to other nations- Xi and I agree on trade very much- US farmers will be happy with deal made with China- Says he's OK with Iran suspending nuclear program for 20 years but has to be a 'real' commitment- We have achieved a total military victory against Iran- Discussed Ukraine with Xi- Got a soybean deal with China, China will buy billions of dollars in US soybeans- Last thing we need right now is a war- I'm going to make a decision over the next few days on lifting the sanctions on Chinese oil companies that buy Iranian oil- If we don't get Iran nuclear dust, we'll go inTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#8b4f7197",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-15T10:51:34+00:00"
-  },
-  {
-    "id": "9e3b8457-be89-45d3-9826-c6c7068908f8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran says Strait of Hormuz open to all ships not engaged in hostilities",
-    "summary": "Iranian Foreign Minister Araghchi announced that all ships, except for those engaged in hostilities with Iran, are permitted to pass through the Strait of Hormuz.",
-    "url": "https://t.me/CoinnessGL#6ef078ba",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T10:11:03+00:00"
-  },
-  {
-    "id": "522d3ee7-154f-444a-929e-8e3154f59f4f",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS XI IS ONE OF THE WORLD’S GREAT LEADERSTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#ebc0e4fc",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-15T10:08:25+00:00"
-  },
-  {
-    "id": "c02f9c7c-a5eb-447c-9cf5-f6d4f94e2036",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. China has a Ballroom, and so should the U.S.A.!\n2. It’s under construction, ahead of schedule, and will be the finest facility of its kind anywhere in the U.S.A.\n3. Thank you for all the support I have been given in getting this project going.",
-    "url": "https://trumpstruth.org/statuses/38458",
-    "author": "Trump Truth",
-    "created_at": "2026-05-15T10:04:33.000Z"
-  },
-  {
-    "id": "5d526e16-5bf4-4a77-9fd1-db7e7cb76648",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bithumb to temporarily suspend POL deposits and withdrawals",
-    "summary": "Bithumb has announced that it will temporarily suspend deposits and withdrawals for Polygon Ecosystem (POL) starting at 10:00 a.m. UTC on May 21. The measure is to support an upcoming network upgrade.",
-    "url": "https://t.me/CoinnessGL#eaa8337f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T10:01:49+00:00"
-  },
-  {
-    "id": "4684ed72-1baa-4128-864e-a07b560c295c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "IREN closes $3 billion convertible notes deal amid AI infrastructure expansion",
-    "summary": "1. Bitcoin miner turned AI infrastructure operator secures one of the sector’s largest financings as investor demand drives multiple upsizes.",
-    "url": "https://www.coindesk.com/markets/2026/05/15/iren-closes-usd3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion",
-    "author": "James Van Straten",
-    "created_at": "2026-05-15T09:58:30.000Z"
-  },
-  {
-    "id": "3e79973e-c81a-4fef-831f-1c226c96b035",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran terror victims sue Tether for transfer of $344M in frozen USDT",
-    "summary": "Victims of terrorism linked to Iran have filed a motion in a U.S. court requesting an order for Tether to transfer 344.14 million in frozen USDT to them, The Block reported. The victims have an outstanding, unpaid judgment against the Iranian government and the Islamic Revolutionary Guard Corps (IRGC) for damages related to terrorist acts.The plaintiffs argue that because the USDT was held in wallets associated with the IRGC, an entity sanctioned by the Office of Foreign Assets Control (OFAC), the funds are subject to seizure and execution under U.S. federal law regarding terrorist assets. They also noted that Tether has previously burned and reissued frozen assets at the request of U.S. law enforcement, suggesting a similar method could be used to transfer the funds to the victims' wallets.The lawsuit is reportedly part of a larger effort to enforce judgments totaling approximately $2.42 billion in terrorism-related damages against Iran.",
-    "url": "https://t.me/CoinnessGL#b009522d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T09:56:38+00:00"
-  },
-  {
-    "id": "a63a42b5-c97e-405e-af3e-b10525d4c01d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "THORChain suffers suspected $7.4M hack",
-    "summary": "THORChain has suffered a $7.4 million loss from a hack across multiple networks, Onchain Lens reported, citing on-chain analyst ZachXBT.",
-    "url": "https://t.me/CoinnessGL#0dee98f7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T09:55:33+00:00"
-  },
-  {
-    "id": "ef8c0d46-3f29-4518-a1b8-e5ad6d7b3ec3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "HYPE Jumps 17% After Hyperliquid Grants Coinbase Rights to USDH Assets",
-    "summary": "1. HYPE, reached a yearly high of $46.93, soaring 17% in 24 hours following news that Coinbase will stake HYPE to activate AQAv2.\n2. The Shift to USDC Integration HYPE, the utility token of the decentralized exchange and layer 1 protocol Hyperliquid, surged to $46.93 on Friday, its highest point this year.\n3. The rally followed an announcement […]",
-    "url": "https://news.bitcoin.com/hype-jumps-17-after-hyperliquid-grants-coinbase-rights-to-usdh-assets/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-15T09:55:01.000Z"
-  },
-  {
-    "id": "fb14d698-aeb8-424a-88fb-4042b7bd9ddf",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. This is a statue, now standing at Doral, that was commissioned by a large group of political supporters who just wanted a statue of yours truly.\n2. I very much appreciate their support, and all that they went through to get it done!\n3. They are very good people.",
-    "url": "https://trumpstruth.org/statuses/38457",
-    "author": "Trump Truth",
-    "created_at": "2026-05-15T09:52:24.000Z"
-  },
-  {
-    "id": "f9c2d4a7-fb5e-4c5a-82d2-55f7c548d258",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Polish parliament passes bill to adopt MiCA",
-    "summary": "The Polish parliament passed a bill today to incorporate the European Union's Markets in Crypto-Assets (MiCA) regulation into national law, Reuters reported. Local firms risk losing their authorization to provide virtual asset services if the law is not implemented by July.However, the bill still faces a potential presidential veto. Polish President Karol Nawrocki has previously vetoed similar MiCA-related legislation in February and in December of last year.Separately, prosecutors are investigating the country's largest exchange, Zondacrypto, over alleged fraud amounting to approximately $100 million, which has led to withdrawal difficulties for thousands of users.",
-    "url": "https://t.me/CoinnessGL#42fc1dbb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T09:50:09+00:00"
-  },
-  {
-    "id": "6e277742-41f0-4825-9b54-542cfb7db309",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Thorchain appears to have suffered multi-chain exploit across Bitcoin, Ethereum, BSC and Base with losses exceeding $7.4MTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#dafe5cfb",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-15T09:41:08+00:00"
-  },
-  {
-    "id": "a6f95022-fa34-4f9a-ba72-3b215df854fb",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Victims of Iran attacks seek court order for turnover of $344 million in USDT frozen by Tether",
-    "summary": "1. terrorism judgment creditors seek a court order forcing Tether to turn over $344 million in frozen IRGC-linked USDT.",
-    "url": "https://www.theblock.co/post/401443/victims-of-iran-attacks-seek-court-order-for-turnover-of-344-million-in-usdt-frozen-by-tether?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-05-15T09:39:54.000Z"
-  },
-  {
-    "id": "06eb5742-818e-4496-94ef-27155a21223d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Just 4% of Americans factor crypto into their vote, per a new POLITICO poll, with only 27% backing government action to make crypto a mainstream financial asset.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#1c078e98",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-15T09:39:32+00:00"
-  },
-  {
-    "id": "1c796202-9bee-4fc3-9f6c-1e45a86474ea",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Warren Says the CLARITY Act Will ‘Blow Up the Economy’ as Senate Panel Votes 15-9 to Advance Bill",
-    "summary": "1. Senator Elizabeth Warren launched a sweeping attack on the U.S.\n2. digital asset market structure bill during a Senate Banking Committee hearing on May 14, calling it an economic threat.\n3. The committee still voted 15-9 to advance the bill to the full Senate floor.",
-    "url": "https://news.bitcoin.com/clarity-act-senate-vote-warren-crypto-regulation-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-15T09:30:03.000Z"
-  },
-  {
-    "id": "4a2c1cae-9229-44c6-8d18-2b11b6f92415",
-    "source": "r/ethereum",
-    "type": "reddit",
-    "title": "put $2.5k into a mid-cap through a dex and walked away $180 short, what went wrong?",
-    "summary": "1. swapped $2.5k worth of ETH into a mid-cap token recently.\n2. the preview showed 3% slippage, I set my tolerance to 4% and went ahead.\n3. came out $183 below the quoted amount.",
-    "url": "https://reddit.com/r/ethereum/comments/1tdr5oj/put_25k_into_a_midcap_through_a_dex_and_walked/",
-    "author": "u/NickoGermish",
-    "created_at": "2026-05-15T09:28:57.000Z"
-  },
-  {
-    "id": "1b722b55-daa3-4263-8a54-266136502757",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Strategy’s STRC stock logs record $1.5 billion trading volume, funds 11,707 bitcoin purchase",
-    "summary": "1. Heavy trading volume ahead of the ex-dividend date pushed STRC to its busiest session on record.",
-    "url": "https://www.coindesk.com/markets/2026/05/15/strategy-s-strc-stock-logs-record-usd1-5-billion-trading-volume-funds-11-707-bitcoin-purchase",
-    "author": "James Van Straten",
-    "created_at": "2026-05-15T09:21:45.000Z"
-  },
-  {
-    "id": "8c9e57ea-ae6a-4c57-b9bc-1a0541337017",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Weekly Top Gainers 1️⃣ Telcoin: +76.21% 2️⃣ Sahara AI: +42.50% 3️⃣ Irys: +40.12%...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#78804714",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-15T09:19:39+00:00"
-  },
-  {
-    "id": "270626f1-0a1b-4631-bc9b-1305b7d4327c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💡 How to Build a Pump​.​fun Bot with CoinMarketCap API.Learn how to discover,...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b2bdd18c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-15T09:19:37+00:00"
-  },
-  {
-    "id": "7707b62e-82f5-4339-aeb5-df7adab1d569",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Forward Industries posts over 300% revenue growth but wider quarterly net loss amid SOL markdowns",
-    "summary": "1. The Solana treasury firm generated $13 million in revenue for the quarter ended March 31, up 319% year over year.",
-    "url": "https://www.theblock.co/post/401440/forward-industries-posts-revenue-growth?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-15T09:19:23.000Z"
-  },
-  {
-    "id": "5ea82d9f-4306-4f48-9cfb-5aed8351d359",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to Rachel Campos-Duffy on her new book, “All American Patriotism: Celebrating 250 Years of America’s Greatness!” By sharing personal stories of Patriotism, along with those of her FOX colleagues, Rachel reveals the true Spirit of the U.S.A., how to end this crazy and wrong hatred for America, and renew pride in our GREAT Country, our shared history, and people.\n2. Rachel dedicated her book to me, saying: “To President Donald J.\n3. Trump, the man who shows us every day how to love; serve; & fight, fight, fight for America!” Thank you Rachel.",
-    "url": "https://trumpstruth.org/statuses/38455",
-    "author": "Trump Truth",
-    "created_at": "2026-05-15T09:01:23.000Z"
-  },
-  {
-    "id": "34daf43d-933b-4283-b31d-1b304a311fda",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The nation’s cartoonists on the week in politics",
-    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
-    "url": "https://www.politico.com/gallery/2026/05/15/the-nations-cartoonists-on-the-week-in-politics-00922365",
-    "author": "By POLITICO Staff",
-    "created_at": "2026-05-15T09:00:00.000Z"
-  },
-  {
-    "id": "7198d164-dc5d-4466-9fde-1a6cbe189154",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Keisha Lance Bottoms’ lead is making some Georgia Democrats uneasy",
-    "summary": "1. The former Atlanta mayor has dominated primary polls for months, but Democrats are concerned her political baggage will tank their chances this fall.",
-    "url": "https://www.politico.com/news/2026/05/15/keisha-lance-bottoms-georgia-governor-democrats-00922677",
-    "author": "By Alec Hernandez",
-    "created_at": "2026-05-15T09:00:00.000Z"
-  },
-  {
-    "id": "76f874df-185d-49be-9188-23f4bee971fc",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Miner Weekly – The Great Bitcoin Mining Power Shift: Who Won Q1?",
-    "summary": "1. Public Bitcoin miners spent years racing to add more hashrate to the network.\n2. In the first quarter of 2026, many of them did the opposite.\n3. This article first appeared in Miner Weekly, a weekly newsletter by Blocksbridge Consulting curating the latest news in energy, compute, infrastructure, and data analysis from The Energy Mag.",
-    "url": "https://news.bitcoin.com/miner-weekly-the-great-bitcoin-mining-power-shift-who-won-q1/",
-    "author": "Guest Author",
-    "created_at": "2026-05-15T08:30:26.000Z"
   }
 ]
