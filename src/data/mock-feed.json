@@ -1,5 +1,65 @@
 [
   {
+    "id": "5fc9f9fb-53ed-4194-be37-7a0ba86d07a0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "On-chain illicit funds top $75B but are increasingly hard to cash out",
+    "summary": "The volume of illicit funds on-chain has surpassed $75 billion, Binance Research reported via X. According to the research, these funds have increased annually since 2016, growing by 28% in 2025 from the previous year. However, they account for less than 1% of total transaction volume, and cashing them out is structurally blocked by surveillance systems.Binance Research explained that wallets are detected during the Know Your Transaction (KYT) phase, while withdrawal paths are blocked at the Know Your Customer (KYC) stage. Furthermore, stablecoin issuers can freeze funds, and law enforcement agencies can conduct direct seizures.The firm added that even the largest mixers, which are tools designed to anonymize transactions, have a daily processing capacity of around $10 million, meaning it would take over 100 days to launder $1 billion. While more than 80% of these illicit funds have been moved from their initial addresses, every transaction path remains on the ledger, ensuring that tracking is never broken.",
+    "url": "https://t.me/CoinnessGL#54c543e1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T01:42:04+00:00"
+  },
+  {
+    "id": "df6f7d67-e37d-4a2c-ba33-eb93e40a7121",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Multicoin Capital deposits $14.9M in AAVE to exchanges",
+    "summary": "Crypto investment firm Multicoin Capital deposited 150,000 AAVE, worth $14.91 million, across Binance, OKX, Coinbase, and Bybit about an hour ago, according to AmberCN. Such deposits to exchanges are typically interpreted as a precursor to selling.",
+    "url": "https://t.me/CoinnessGL#6f1c2253",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T01:33:50+00:00"
+  },
+  {
+    "id": "9e537340-b186-4ced-83bf-db08a43fa2df",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇮🇷 President Trump says oil prices went up \"very little\" due to war with Iran.\"I thought it would go up more.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d4e50f84",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-15T01:31:49+00:00"
+  },
+  {
+    "id": "973b3537-a8ea-4cd7-a786-d2de8c6a2154",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strive Reports 15,009 Bitcoin, Zero Debt After Semler Merger and Note Buyback",
+    "summary": "1. Strive reported a larger bitcoin treasury after its Semler Scientific merger, reaching 15,009 bitcoin with no outstanding debt.\n2. The filing showed $929.4 million in digital assets, new medical-device revenue, and a major unrealized loss tied to fair-value accounting.\n3. Strive Reports Larger Bitcoin Treasury After Semler Deal Strive Inc.",
+    "url": "https://news.bitcoin.com/strive-reports-15009-bitcoin-zero-debt-after-semler-merger-and-note-buyback/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-15T01:30:18.000Z"
+  },
+  {
+    "id": "4596fb86-ce00-4f43-9e39-0b9557d430dd",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Aave Labs proposes bug bounty overhaul, raising top reward to $5M",
+    "summary": "Aave Labs has proposed an overhaul of the Aave DAO's bug bounty program. The proposal suggests splitting the current program by platform, with ImmuneFi managing Core Aave V3, Core Aave V2, and GHO; Sherlock overseeing Aave V4 and the App Stack; and Cantina handling the Aptos-based Aave V3. The plan also includes a significant increase in rewards. The maximum payout for critical vulnerabilities in Core Aave V3 would rise from $1 million to $5 million, while the top reward for Aave V4 is set to increase from $500,000 to $2.5 million.",
+    "url": "https://t.me/CoinnessGL#a38aea33",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T00:45:55+00:00"
+  },
+  {
+    "id": "cdbea352-c858-411e-ba43-d30c32db1edb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple’s Schwartz Warns XRP Users to Stay Safe From Giveaway Scams",
+    "summary": "1. David Schwartz warned XRP Ledger users about rising airdrop and giveaway scams targeting the community.\n2. The Ripple CTO Emeritus said impersonators on Instagram, Telegram, and other platforms are likely scammers.\n3. David Schwartz Warns XRP Users as Fake Airdrops Spread David Schwartz, CTO Emeritus at Ripple, alerted XRP Ledger users on May 13 to a sharp […]",
+    "url": "https://news.bitcoin.com/ripples-schwartz-warns-xrp-users-to-stay-safe-from-giveaway-scams/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-15T00:30:13.000Z"
+  },
+  {
     "id": "bd3da477-70ae-469c-89c5-3ac88bbee007",
     "source": "OpenAI",
     "type": "rss",
@@ -8,6 +68,76 @@
     "url": "https://openai.com/index/building-codex-windows-sandbox",
     "author": "OpenAI",
     "created_at": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "437eeae9-6520-43fb-ac68-35e26e217ebf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Brazil Slaps Banco Topazio With $3.2M Fine and 2-Year Crypto Trading Ban",
+    "summary": "1. The institution issued a ban on Banco Topazio’s ability to conduct foreign purchases and sales of cryptocurrency assets for two years after detecting irregularities in the due diligence processes for these operations.\n2. Additionally, the institution was fined $3.2 million.\n3. Central Bank of Brazil Bans Banco Topazio From Conducting Crypto Trading Operations As banks enter the […]",
+    "url": "https://news.bitcoin.com/brazil-slaps-banco-topazio-with-3-2m-fine-and-2-year-crypto-trading-ban/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-14T23:30:44.000Z"
+  },
+  {
+    "id": "19e61901-6e60-404c-8899-f02276bf0d3b",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.142",
+    "summary": "1. ## What's changed\n\n- Added new `claude agents` flags: `--add-dir`, `--settings`, `--mcp-config`, `--plugin-dir`, `--permission-mode`, `--model`, `--effort`, and `--dangerously-skip-permissions` to configure dispatched background sessions\n- Fast mode now uses Opus 4.7 by default (previously Opus 4.6).\n2. Set `CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE=1` to pin fast mode to Opus 4.6\n- Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are now surfaced as a skill\n- The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin provides\n- `/web-setup` warns before replacing an existing GitHub App connection\n- Fixed `MCP_TOOL_TIMEOUT` not raising the per-request fetch timeout for remote HTTP and SSE MCP servers, which capped tool calls at 60 seconds regardless of the configured value\n- Fixed background sessions not recognizing pre-existing git worktrees, blocking Edit while EnterWorktree refused to create a duplicate\n- Fixed background sessions disappearing and daemon reconnect failing after macOS sleep/wake — the daemon now detects clock jumps instead of treating them as elapsed idle time\n- Fixed daemon not exiting cleanly after the binary is upgraded (e.g.\n3. `brew upgrade`), causing dispatched agents to crash-loop on the deleted path\n- Fixed background agents crash-looping when the Claude-in-Chrome extension is connected without a shared tab\n- Fixed clicking links in an attached `claude agents` session — the background worker's headless browser shim no longer applies while attached\n- Fixed `claude agents` \"v to open in editor\" using the daemon's default editor instead of your shell's `$EDITOR`/`$VISUAL`\n- Fixed `claude agents` deadlocking on Windows with network-drive working directories; Ctrl+C now works during startup\n- Fixed background-color bleed when attaching to a `claude agents` session from Apple Terminal or other 256-color-only terminals\n- Fixed `claude --bg --dangerously-skip-permissions` not persisting across retire/wake\n- Fixed session titles being derived from the URL when the first message is a link\n- Fixed redundant `set_model` requests from remote clients injecting duplicate `/model` breadcrumbs into the transcript\n- Fixed plugins using `skills: [\"./\"]` showing a false \"path escapes plugin directory\" error\n- Fixed plugin cache cleanup deleting the active plugin version directory when no installation metadata is present\n- Fixed `/plugin` browse pane showing \"0 installs\" for newly published plugins\n- Fixed plugin advisories not naming every `plugin.json` key that shadows a default folder\n- Improved reactive compaction: the first summarize attempt now seeds from the original request's overflow size, avoiding a wasted near-full-context retry\n- Improved hook configuration error: configuring a prompt- or agent-type hook for `SessionStart`/`Setup`/`SubagentStart` now shows a clear \"use a command-type hook instead\" error\n- Removed stale `/model claude-sonnet-4-20250514` suggestion from Usage Policy refusal messages",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142",
+    "author": "ashwin-ant",
+    "created_at": "2026-05-14T22:55:10Z"
+  },
+  {
+    "id": "3f2126e3-2017-4847-9617-54b285edf4f7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Kraken has replaced LayerZero with Chainlink CCIP for its wrapped Bitcoin token after the $292M Kelp bridge exploit.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a936f980",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-14T22:54:11+00:00"
+  },
+  {
+    "id": "e7b9b08b-b788-494e-8e24-108d89586650",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "summary": "1. Here's what the biggest tech court case of the year is all about.",
+    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-05-14T22:47:51.000Z"
+  },
+  {
+    "id": "7ee00ef0-677c-468b-bf85-60712efb208e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": " UK politician Nigel Farage bought $1.8M house after a $6.7M crypto gift",
+    "summary": "1. The news follows growing calls from UK lawmakers and government officials to curb or temporarily ban crypto political donations in the country.",
+    "url": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Vince Quill",
+    "created_at": "2026-05-14T22:32:33.000Z"
+  },
+  {
+    "id": "8a08ce66-1ccb-4262-a02e-1ba5f0ee6e68",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bullish posted a $604.9 million Q1 net loss, with services revenue falling short of analyst expectations.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#5e3feccb",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-14T22:09:22+00:00"
+  },
+  {
+    "id": "85924769-a178-4236-bf10-9549fe726470",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
+    "summary": "1. The unversity’s endowment disclosed holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF.",
+    "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-05-14T22:04:12.000Z"
   },
   {
     "id": "21303577-b85d-4b57-a328-8e15a6aa07aa",
@@ -80,7 +210,7 @@
     "created_at": "2026-05-14T21:26:14.000Z"
   },
   {
-    "id": "dde24913-d9aa-4b8d-8eda-eca408f27915",
+    "id": "524c5a48-e594-4df3-8d71-0efe6dec529a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Robinhood CEO Vlad Tenev called the CLARITY Act \"a step toward consistent customer protections,\" saying crypto and tokenization need clear rules in the US.",
@@ -220,7 +350,7 @@
     "created_at": "2026-05-14T20:36:13.000Z"
   },
   {
-    "id": "07421a5b-cddf-4a13-948c-c95f6faf067a",
+    "id": "f918860e-6a23-4c5a-9525-643bff47d8ee",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Senator Elizabeth Warren says the crypto Clarity Act will \"blow up the economy.\"\"It pushes more of the economy into crypto!\"@WatcherGuru",
@@ -278,245 +408,5 @@
     "url": "https://cointelegraph.com/news/celsius-roni-cohen-pavon-sentenced-guilty-plea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Turner Wright",
     "created_at": "2026-05-14T19:46:55.000Z"
-  },
-  {
-    "id": "431300a0-8852-4bf2-844e-17459583a72a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin trades at a 'discount' on Coinbase: Is a $76K retest next?",
-    "summary": "1. Bitcoin’s $79,000 defense proves that the Coinbase discount is driven by stablecoin volatility rather than a lack of institutional demand.",
-    "url": "https://cointelegraph.com/markets/bitcoin-trades-discount-coinbase-is-76k-retest-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-05-14T19:42:44.000Z"
-  },
-  {
-    "id": "07fae915-6fac-4d62-8f3e-0e3c9a403b58",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Crypto Rallies as Senate Committee Advances Market Structure Bill to Full Senate",
-    "summary": "1. Bitcoin rose 3% and Coinbase stock surged more than 8% as the Senate Banking Committee advanced the most consequential crypto market structure bill in U.S.\n2. Substantial hurdles remain before it becomes law.",
-    "url": "https://thedefiant.io/news/regulation/crypto-rallies-as-senate-committee-advances-market-structure-bill-to-full-senate",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-14T19:31:47.000Z"
-  },
-  {
-    "id": "201f8d89-319d-4fa4-99ad-c3fce35ec8bc",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bukele’s Futuristic BINAES Library Blends Books, Bitcoin, and Family Play in Revitalized Capital",
-    "summary": "1. Bitcoin Magazine\n\nBukele’s Futuristic BINAES Library Blends Books, Bitcoin, and Family Play in Revitalized Capital\nDonated by China and aligned with historic landmarks, BINAES offers seven floors of literature, LEGOs, Star Wars collections, and a high-tech sixth floor led by Miss Bitcoin's initiative, positioning El Salvador as a forward-thinking cultural leader.\n2. This post Bukele’s Futuristic BINAES Library Blends Books, Bitcoin, and Family Play in Revitalized Capital first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/culture/bukeles-futuristic-binaes-library-blends-books-bitcoin-and-family-play-in-revitalized-capital",
-    "author": "Juan Galt",
-    "created_at": "2026-05-14T19:24:38.000Z"
-  },
-  {
-    "id": "1a6e60eb-458b-4d3a-a728-00c8f7f86d79",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Lido Selects Chainlink CCIP for Cross-Chain Expansion, Citing Security Principles",
-    "summary": "1. Lido's Network Expansion Committee chose Chainlink CCIP to bridge its staking token across chains, citing security lessons from $3 billion in cross-chain bridge exploits.",
-    "url": "https://thedefiant.io/news/infrastructure/lido-chainlink-ccip-cross-chain-expansion-ah8fxg",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-14T19:18:19.000Z"
-  },
-  {
-    "id": "89c27553-6270-45c2-8722-574da372bde5",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto losses from North Korea hackers in 2025 rose 51% YoY: Report",
-    "summary": "1. The cybersecurity threats from North Korea are perpetrated by a myriad of small hacker groups deploying malware and executing social engineering scams.",
-    "url": "https://cointelegraph.com/news/losses-dprk-hacks-2025-rose-51-year-over-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Vince Quill",
-    "created_at": "2026-05-14T19:01:17.000Z"
-  },
-  {
-    "id": "ff7ada12-1fc4-4589-9105-914acf2621d5",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Vance takes fraud fight to Maine",
-    "summary": "1. The vice president visited Bangor, Maine, to tout his fraud crackdown, stump for Paul LePage and offer an olive branch to Sen.\n2. Susan Collins.",
-    "url": "https://www.politico.com/news/2026/05/14/vance-maine-fraud-midterms-00921292",
-    "author": "By Irie Sentner",
-    "created_at": "2026-05-14T19:00:00.000Z"
-  },
-  {
-    "id": "fb77bd32-0b43-4ebd-a674-27535722d53f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US Senate unanimously passes resolution to suspend senators' pay during government shutdowns.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#26d1f12f",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T18:50:09+00:00"
-  },
-  {
-    "id": "22d45c15-9b20-4646-88a5-91990600131c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Coinbase CEO Brain Armstrong says today is a \"historic day for crypto and for the future of digital assets in America.\"\"Let's get CLARITY done.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#98664cb8",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T18:34:31+00:00"
-  },
-  {
-    "id": "a2bb41fe-7ecd-40c6-b8e4-418e5cb59265",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS EXPECTED TO SIGN CLARITY ACT INTO LAWTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#251f5d0b",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-14T18:09:23+00:00"
-  },
-  {
-    "id": "dda3e8e5-c715-4922-ae57-6f520ca9029f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
-    "summary": "1. The upbeat public debut of AI chipmaker Cerebras is also helping to lift both crypto and traditional markets.",
-    "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-14T17:51:00.000Z"
-  },
-  {
-    "id": "b950799c-91c4-49e7-b62f-6d594b2e8925",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Cerebras shares skyrocket 100% after $5.5 billion IPO amid AI stock frenzy",
-    "summary": "1. The AI infrastructure company began trading Thursday as investors continue pouring capital into artificial intelligence stocks.",
-    "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-shares-skyrocket-100-after-usd5-5b-ipo-amid-ai-stock-frenzy",
-    "author": "Helene Braun",
-    "created_at": "2026-05-14T17:12:17.000Z"
-  },
-  {
-    "id": "5c8c50c6-148c-499b-930e-b2bf30cd18cf",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "CRYPTO CLARITY BILL ADVANCES THROUGH BANKING COMMITTEE ON BIPARTISAN VOTETwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#607a443b",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-14T16:49:37+00:00"
-  },
-  {
-    "id": "795419d5-6997-4b52-83ff-165b3f166973",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Democratic senator supports CLARITY Act in committee, but final vote undecided",
-    "summary": "Democratic Senator Ruben Gallego, who had previously been critical of the CLARITY Act, has stated his support for the bill during its markup session in the U.S. Senate Banking Committee, according to Eleanor Terrett, host of \"Crypto in America.\" However, Terrett added that Gallego specified his approval at the committee level does not necessarily mean he will support it in a full floor vote.The 24 members of the Banking Committee, comprising 13 Republicans and 11 Democrats, are currently debating and voting on dozens of specific provisions within the bill. The final committee vote will determine whether to advance the legislation to the full Senate. If the committee passes the bill, it will then proceed to a jurisdictional coordination and integration process with the Senate Agriculture Committee before facing a vote on the Senate floor.",
-    "url": "https://t.me/CoinnessGL#4b5d4469",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T16:26:54+00:00"
-  },
-  {
-    "id": "e0ffa42c-3723-4e4d-8e06-756f1629d7f9",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "CME dives further into $85 trillion digital assets market with Nasdaq CME Crypto Index futures",
-    "summary": "1. A CME group executive said the demand grew with average daily trading volume in his firms’ suite increasing by 43% year-to date.",
-    "url": "https://www.coindesk.com/markets/2026/05/14/cme-dives-further-into-usd85-trillion-digital-assets-market-with-nasdaq-cme-crypto-index-futures",
-    "author": "Olivier Acuna",
-    "created_at": "2026-05-14T16:25:45.000Z"
-  },
-  {
-    "id": "436b96ad-7856-430a-b879-45c5fa1a6951",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI says hackers stole some data after latest code security issue",
-    "summary": "1. OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-05-14T16:25:20.000Z"
-  },
-  {
-    "id": "a07d6e68-eef4-4aec-b547-7ded20f75d9d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US Senate committee rejects crypto conflict of interest rule for president",
-    "summary": "The U.S. Senate Banking Committee has rejected an amendment to the CLARITY Act that sought to prevent conflicts of interest for the president and members of Congress regarding cryptocurrency. The measure, which would have banned these officials from participating in crypto businesses and mandated related disclosures, failed in a 13-11 vote during the bill's markup session. Senator Chris Van Hollen argued in favor of the amendment, claiming the Trump family has profited by billions of dollars from projects like World Liberty Financial (WLFI). He also alleged that the president's family benefited from memecoins such as Trump and Melania while ordinary investors suffered billions in losses. In response, Senator Bernie Moreno contended that the issue falls under the jurisdiction of the Judiciary Committee, not the Banking Committee, and dismissed the allegations as unproven. The committee is continuing to vote on other provisions of the CLARITY Act.",
-    "url": "https://t.me/CoinnessGL#fe704034",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T16:15:53+00:00"
-  },
-  {
-    "id": "a27edc79-748d-4bae-a26a-8ab07d148bff",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇨🇳 Elon Musk says he has a \"good feeling\" about the US-China summit.",
-    "summary": "\"I think there will be good results.\"@WatcherGuru",
-    "url": "https://t.me/WatcherGuru#d90981c8",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T16:10:49+00:00"
-  },
-  {
-    "id": "1f8bdebf-16f5-41db-9501-f2af148b94e5",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CoinList launches 'Passage' platform for tokenized asset distribution",
-    "summary": "Token sale platform CoinList has launched Passage, a new platform designed to expand its business into the distribution of tokenized assets, The Block reported exclusively. The initiative aims to leverage CoinList's existing token sale infrastructure as an on-chain, compliance-focused model for collaborating with major institutional partners. CoinList recently completed an integration with Superstate and plans to collaborate with other partners, including Peaq and Dualmint, in the future.",
-    "url": "https://t.me/CoinnessGL#13140b1d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T16:06:48+00:00"
-  },
-  {
-    "id": "c566174d-ff29-4c17-9fbf-f9c7ddfa2174",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Senate Banking Committee Opens Historic Crypto Bill Markup as Warren, Republicans Clash Over CLARITY Act Amendments",
-    "summary": "1. Bitcoin Magazine\n\nSenate Banking Committee Opens Historic Crypto Bill Markup as Warren, Republicans Clash Over CLARITY Act Amendments\nThe Senate Banking Committee opened a high-stakes markup for crypto on the Digital Asset Market Clarity Act.\n2. This post Senate Banking Committee Opens Historic Crypto Bill Markup as Warren, Republicans Clash Over CLARITY Act Amendments first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/senate-banking-committee-crypto-bill",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-14T16:05:16.000Z"
-  },
-  {
-    "id": "59c38c64-44a1-4028-9cb2-063437ea24ec",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act Faces Growing Scrutiny as Senate Markup Begins",
-    "summary": "1. Senate Democrats intensified efforts to challenge the CLARITY Act, warning the crypto market structure bill could leave major illicit finance vulnerabilities unresolved.\n2. The push to challenge the legislation coincided with a separate request for a federal investigation into World Liberty Financial.\n3. Lawmakers Warn CLARITY Act Could Widen Crypto Finance Gaps Senate Democrats intensified criticism of […]",
-    "url": "https://news.bitcoin.com/clarity-act-faces-growing-scrutiny-as-senate-markup-begins/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-14T16:02:15.000Z"
-  },
-  {
-    "id": "22f8d0d4-ebf2-4995-9f6d-9e4f9784e387",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇨🇳 President Trump says China agreed to buy 200 Boeing $BA planes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#263f7ac3",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T16:00:09+00:00"
-  },
-  {
-    "id": "d770727c-46fd-4856-84ca-d212bdc7f9d4",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CoinList expands into tokenized asset distribution with ‘Passage’ as token sales slow",
-    "summary": "1. CoinList has launched Passage.\n2. The move marks its expansion beyond token sales, which have slowed across the crypto industry in recent years.",
-    "url": "https://www.theblock.co/post/401315/coinlist-passage-tokenized-asset-distribution-token-sales-slow?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-05-14T16:00:02.000Z"
-  },
-  {
-    "id": "048f32ef-5629-4f15-8c81-fbb9093de934",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Crypto data firm Dune cuts 25% of staff citing AI efficiencies",
-    "summary": "1. Dune CEO Fredrik Haga said the firm \"let 25% of the team go this week\" on X, in part citing its heavy investment in AI-powered tools.",
-    "url": "https://www.theblock.co/post/401322/crypto-data-firm-dune-cuts-25-of-staff-citing-ai-efficiencies?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-14T15:58:42.000Z"
-  },
-  {
-    "id": "aae77141-bed9-4e13-99e5-803d389463cb",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "U.S. senators lament failure to win bipartisan support, yet, on crypto Clarity Act ",
-    "summary": "1. In the hearing to advance the market structure bill to its next stage, lawmakers from both parties granted lengthy talks hadn't yet found needed common ground.",
-    "url": "https://www.coindesk.com/policy/2026/05/14/u-s-senators-lament-failure-to-win-bipartisan-support-yet-on-crypto-clarity-act",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-05-14T15:57:34.000Z"
   }
 ]
