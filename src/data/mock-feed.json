@@ -1,5 +1,125 @@
 [
   {
+    "id": "7905f119-c7c9-4c0b-80ac-b66005b911a3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "0x Co-CEO Will Warren resigns",
+    "summary": "0x Co-CEO Will Warren announced he is stepping down from his role. He will remain on the board of directors as a major shareholder.",
+    "url": "https://t.me/CoinnessGL#c4cbe087",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T04:02:14+00:00"
+  },
+  {
+    "id": "48bd652e-b6f9-4e70-b47d-07a91dcfb834",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot Bitcoin ETFs see $131.3M net inflow after one day",
+    "summary": "U.S. spot Bitcoin ETFs recorded a total net inflow of $131.32 million (196.6 billion won) on May 14, returning to positive flows after just one day, according to data compiled by Trader T.- BlackRock's IBIT: +$144.11 million- Fidelity's FBTC: +$3.55 million- Bitwise's BITB: +$17.7 million- Morgan Stanley's MSBT: +$6.77 million",
+    "url": "https://t.me/CoinnessGL#c21aec1c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T03:59:07+00:00"
+  },
+  {
+    "id": "f7aec45c-ca27-4eaa-abba-b3cb5a7896f8",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Reza Pahlavi on Trump, Iran and whether the regime will ever fall",
+    "summary": "1. Reza Pahlavi on Trump, Iran and whether the regime will ever fall",
+    "url": "https://www.politico.com/video/2026/05/14/reza-pahlavi-on-trump-iran-and-whether-the-regime-will-ever-fall-2051869",
+    "author": "Politico",
+    "created_at": "2026-05-15T03:59:00.000Z"
+  },
+  {
+    "id": "457e0cce-07f7-4eda-ac46-0097478e1785",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot ETH ETFs see outflows for 4th straight day",
+    "summary": "U.S. spot Ethereum ETFs saw a net outflow of $5.63 million on May 14, marking the fourth consecutive day of outflows, according to data compiled by Trader T.- BlackRock's ETHA: -$13.21 million- Fidelity's FETH: +$6.88 million- BlackRock's staking ETHB: -$3.54 million",
+    "url": "https://t.me/CoinnessGL#058834ba",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T03:56:45+00:00"
+  },
+  {
+    "id": "c32edf4f-4577-4f13-97e1-30d96d5b4b68",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+    "summary": "1. The acquisition of 2.28 million shares will give Hana Bank a 6.55% stake in Dunamu, making it the fourth-largest shareholder.",
+    "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-15T03:46:02.000Z"
+  },
+  {
+    "id": "bbfd1ef7-e571-4030-bfb7-36c3a74cb86a",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇨🇳 President Trump says US made \"fantastic trade deals\" with China.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#b1fd2efd",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-15T03:45:07+00:00"
+  },
+  {
+    "id": "ddc65bb3-a068-4c8d-bee4-9b1a399f0306",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Belgium Online Gambling Nearly Doubled to 14.8% Since 2018 Despite EU-Toughest Ad Ban",
+    "summary": "1. Sciensano data shows Belgian online gambling has nearly doubled since 2018, rising from 7.9% to 14.8% of the population, despite the country’s 2023 ad ban on licensed private operators.\n2. The Belgian Association of Gaming Operators (BAGO) has called for stronger enforcement after the same survey found 52.6% of Belgians exposed weekly to gambling advertising, with […]",
+    "url": "https://news.bitcoin.com/belgium-online-gambling-nearly-doubled-to-14-8-since-2018-despite-eu-toughest-ad-ban/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-05-15T03:30:55.000Z"
+  },
+  {
+    "id": "66e6007b-757c-400b-8ade-fa959a6fdf03",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump’s latest disclosure shows Coinbase, Strategy, MARA purchases in Q1",
+    "summary": "1. Among the Coinbase-related purchases, the largest transaction was a Feb.\n2. 10 purchase valued between $100,001 and $250,000.",
+    "url": "https://www.theblock.co/post/401406/trump-coinbase-strategy-mara?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-15T02:59:31.000Z"
+  },
+  {
+    "id": "5ee8e2e5-7f07-4ef8-93a4-61e2b3f4e807",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Strive rallies 5.8% as it clears debt in Q1, unveils daily dividends",
+    "summary": "1. Strive reported a net loss of $265.9 million for Q1, which it attributed to the fall in market value of its Bitcoin holdings, but saw its shares on its move to pay SATA holders dividends every business day starting in June.",
+    "url": "https://cointelegraph.com/news/strive-rallies-5-percent-daily-dividends-clearing-all-debt-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-15T02:34:46.000Z"
+  },
+  {
+    "id": "8891ee69-c13e-4a6f-97df-1ea6a3b37270",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Mexican Giant Grupo Salinas Taps Anchorage Digital for Stablecoin Payments",
+    "summary": "1. The alliance will allow Coinpro, a crypto exchange owned by Grupo Salinas, to leverage Anchorage’s stablecoin services for its cross-border settlement operations.\n2. Grupo Salina’s Carlos Dias Afonso hinted at a deeper integration of stablecoin channels to benefit Grupo Elektra’s customers.\n3. Anchorage Digital And Grupo Salinas Partner On Stablecoin Implementation Stablecoins have become one of the […]",
+    "url": "https://news.bitcoin.com/mexican-giant-grupo-salinas-taps-anchorage-digital-for-stablecoin-payments/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-15T02:30:52.000Z"
+  },
+  {
+    "id": "454544a9-25c3-4366-9a7e-cf0629bb3f0a",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "One of South Korea’s largest banks is buying a major stake in crypto exchange giant Upbit’s parent company.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#623c4fd1",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-15T02:00:07+00:00"
+  },
+  {
+    "id": "75d83e5a-112e-4e30-a96d-ccfcc84025f3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Ethereum treasury firms are leaning on staking yield over Strategy-style leverage, SharpLink CEO Joseph Chalom says.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3be4204c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-15T01:54:34+00:00"
+  },
+  {
     "id": "5fc9f9fb-53ed-4194-be37-7a0ba86d07a0",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -20,7 +140,7 @@
     "created_at": "2026-05-15T01:33:50+00:00"
   },
   {
-    "id": "9e537340-b186-4ced-83bf-db08a43fa2df",
+    "id": "f888b5f2-819e-428a-93c7-e3f27e6eefd9",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 President Trump says oil prices went up \"very little\" due to war with Iran.\"I thought it would go up more.\"@WatcherGuru",
@@ -90,7 +210,7 @@
     "created_at": "2026-05-14T22:55:10Z"
   },
   {
-    "id": "3f2126e3-2017-4847-9617-54b285edf4f7",
+    "id": "859082e1-4ec3-4e5d-9adf-3f83689ac6e5",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Kraken has replaced LayerZero with Chainlink CCIP for its wrapped Bitcoin token after the $292M Kelp bridge exploit.",
@@ -118,295 +238,5 @@
     "url": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Vince Quill",
     "created_at": "2026-05-14T22:32:33.000Z"
-  },
-  {
-    "id": "8a08ce66-1ccb-4262-a02e-1ba5f0ee6e68",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bullish posted a $604.9 million Q1 net loss, with services revenue falling short of analyst expectations.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#5e3feccb",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-14T22:09:22+00:00"
-  },
-  {
-    "id": "85924769-a178-4236-bf10-9549fe726470",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
-    "summary": "1. The unversity’s endowment disclosed holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF.",
-    "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-14T22:04:12.000Z"
-  },
-  {
-    "id": "21303577-b85d-4b57-a328-8e15a6aa07aa",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Sei joins Mastercard's Crypto Partner Program",
-    "summary": "Layer 1 blockchain Sei (SEI) has joined Mastercard's industry collaboration platform, the Crypto Partner Program, the project announced on its official X account. The program aims to help blockchain, stablecoin, and Web3 companies build real-world payment, remittance, and settlement infrastructure by linking with Mastercard's payment network.",
-    "url": "https://t.me/CoinnessGL#d7fbceb3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T21:52:46+00:00"
-  },
-  {
-    "id": "ec15e15e-36a0-4663-b47f-53f83e9c9d8d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump says U.S.-China relations will become stronger",
-    "summary": "U.S. President Donald Trump, who is currently on a state visit to China, said the relationship with the country will become stronger than before, according to Walter Bloomberg.",
-    "url": "https://t.me/CoinnessGL#4f6fc851",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T21:49:21+00:00"
-  },
-  {
-    "id": "3a10adee-9e7b-4bee-a398-57cd6f274091",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount",
-    "summary": "1. OpenAI says ChatGPT can better detect signs of self-harm and violence as the company faces lawsuits and investigations over dangerous chatbot interactions.",
-    "url": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-14T21:43:50.000Z"
-  },
-  {
-    "id": "dc98709f-6cd0-4df4-9e28-0432f0c5b800",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden and the Biden Administration, and on that score, he was 100% correct.\n2. Our Country suffered immeasurably with open borders, high taxes, transgender for everybody, men in women’s sports, DEI, horrible trade deals, rampant crime, and so much more!\n3. President Xi was not referring to the incredible rise that the United States has displayed to the world during the 16 spectacular months of the Trump Administration, which includes all-time high stock markets and 401K’s, military victory and thriving relationship in Venezuela, the military decimation of Iran (to be continued!) — Strongest military on earth by far, economic powerhouse again, with a record 18 trillion dollars being invested into the United States by others, best U.S.",
-    "url": "https://trumpstruth.org/statuses/38453",
-    "author": "Trump Truth",
-    "created_at": "2026-05-14T21:42:08.000Z"
-  },
-  {
-    "id": "c1ed17ba-92e3-4771-a5f6-28fe6b2df498",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Report: BoE Deputy Governor Breeden Signals Retreat on UK Stablecoin Ownership Limits",
-    "summary": "1. The Bank of England is walking back key parts of its stablecoin rulebook after the digital assets industry pushed back hard against proposals officials now admit may have gone too far.\n2. Bank of England Revisits Stablecoin Limits That Industry Called ‘Cumbersome’ Deputy Governor Sarah Breeden, who oversees financial stability at the UK central bank, told […]",
-    "url": "https://news.bitcoin.com/report-boe-deputy-governor-breeden-signals-retreat-on-uk-stablecoin-ownership-limits/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-14T21:42:03.000Z"
-  },
-  {
-    "id": "535ee63e-10cc-4e4e-91de-769eeb17c9f4",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "summary": "1. More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-05-14T21:30:44.000Z"
-  },
-  {
-    "id": "4beb9ee5-01b1-441b-b1b1-27d974fc189d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Gemini shares soar after reporting 42% revenue growth, first prediction market metrics",
-    "summary": "1. Gemini posted $50.3 million in total revenue in Q1, pointing to growth in services, OTC trading and its crypto-linked credit card segment.",
-    "url": "https://www.theblock.co/post/401376/gemini-shares-soar-42-revenue-growth-first-prediction-market-metrics?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-05-14T21:26:14.000Z"
-  },
-  {
-    "id": "524c5a48-e594-4df3-8d71-0efe6dec529a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Robinhood CEO Vlad Tenev called the CLARITY Act \"a step toward consistent customer protections,\" saying crypto and tokenization need clear rules in the US.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b9e31568",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-14T21:24:25+00:00"
-  },
-  {
-    "id": "5633039b-3765-4cd4-b14e-afcd9ef1ef27",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Dartmouth College endowment holds $14M in crypto ETFs",
-    "summary": "The endowment of Dartmouth College, an Ivy League university, holds approximately $14 million in cryptocurrency ETFs, according to a May 14 filing with the U.S. Securities and Exchange Commission (SEC). The filing shows the university fund's holdings include roughly $7.7 million in BlackRock's Bitcoin ETF, $3.5 million in Grayscale's Ethereum (ETH) Staking ETF, and $3.3 million in Bitwise's Solana (SOL) Staking ETF, Cointelegraph reported.",
-    "url": "https://t.me/CoinnessGL#813eb37f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-14T21:23:39+00:00"
-  },
-  {
-    "id": "2e63c2eb-8d40-41e5-bbcb-1a61eeaf10e6",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Apple Mac M5 System Exploited With Anthropic's Claude Mythos AI, Researchers Claim",
-    "summary": "1. Security startup Calif says researchers used a preview version of Anthropic's Claude Mythos AI to help build an Apple macOS kernel exploit.",
-    "url": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-14T21:16:53.000Z"
-  },
-  {
-    "id": "6d84859e-3b9b-4d2e-b0ca-a731194b8780",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Onramp Raises $12.5M Series A to Scale Multi-Institution Bitcoin Custody Platform",
-    "summary": "1. Bitcoin Magazine\n\nOnramp Raises $12.5M Series A to Scale Multi-Institution Bitcoin Custody Platform\nOnramp raised $12.5M in Series A at a $135M valuation to expand its institutional bitcoin custody platform.\n2. This post Onramp Raises $12.5M Series A to Scale Multi-Institution Bitcoin Custody Platform first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-14T21:12:56.000Z"
-  },
-  {
-    "id": "82e77011-fb41-4f61-a57e-590474c02e85",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Bruce Blakeman’s solar phase",
-    "summary": "1. Bruce Blakeman’s solar phase",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/14/bruce-blakeman-green-energy-solar-00922292",
-    "author": "By Bill Mahoney",
-    "created_at": "2026-05-14T21:12:40.000Z"
-  },
-  {
-    "id": "7ad4dd6c-9839-409d-8b17-2919c202ca6e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitwise Hyperliquid ETF to start trading on NYSE this Friday",
-    "summary": "1. The Bitwise Hyperliquid ETF will offer staking through the company’s in-house staking division Bitwise Onchain Solutions.",
-    "url": "https://www.theblock.co/post/401384/bitwise-hyperliquid-etf-to-start-trading-on-nyse-this-friday?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-14T21:07:37.000Z"
-  },
-  {
-    "id": "73f3085b-b2ca-4bd5-a40a-a9eacdbce564",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "NFL All Day Stops Issuing NFTs as Dapper Labs Signals Future Plans With League",
-    "summary": "1. Dapper Labs said it has signed a new licensing agreement with the NFL as it discontinues the release of NFTs on its All Day platform.",
-    "url": "https://decrypt.co/367926/nfl-all-day-stops-issuing-nfts-dapper-labs-future-plans-league",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-05-14T21:04:00.000Z"
-  },
-  {
-    "id": "9d933323-081f-4166-8215-3ceee2c33c17",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "MTI Liquidators Face 9,441 Claims as $35.8M Estate Shrinks Before Payouts",
-    "summary": "1. Liquidators of Mirror Trading International, a massive South African crypto pyramid scheme, have received over 9,441 claims totaling nearly $395 million.\n2. Shrinking Assets and Rising Legal Costs Liquidators overseeing the collapse of Mirror Trading International (MTI), once described as South Africa’s largest pyramid scheme, have received 9,441 claims totaling nearly $395 million (6.5 billion rands), […]",
-    "url": "https://news.bitcoin.com/mti-liquidators-face-9441-claims-as-35-8m-estate-shrinks-before-payouts/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-14T21:02:22.000Z"
-  },
-  {
-    "id": "1ba94809-6978-4d0e-87ba-690fed3b6545",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Jeff Landry’s trying to swing the Louisiana GOP Senate race. Will it work?",
-    "summary": "1. He’s trying to boost Julia Letlow over Bill Cassidy — and annoying other state Republicans along the way.",
-    "url": "https://www.politico.com/news/2026/05/14/jeff-landry-louisiana-senate-race-letlow-00922157",
-    "author": "By Liz Crampton",
-    "created_at": "2026-05-14T21:00:00.000Z"
-  },
-  {
-    "id": "40c5e552-9d83-466d-b841-d74c65f6f0c6",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI says Codex is coming to your phone",
-    "summary": "1. The update gives users enhanced flexibility over how they can manage their workflows.",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-05-14T20:58:55.000Z"
-  },
-  {
-    "id": "5963e563-cd58-4f7e-903a-fe31accbdbef",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘Decisive turning point’: Crypto industry cheers Clarity Act’s progress as ethics questions linger ahead of next vote",
-    "summary": "1. In a whirlwind of events to advance landmark crypto legislation in a Senate committee, the cryptocurrency industry is celebrating.",
-    "url": "https://www.theblock.co/post/401375/decisive-turning-point-crypto-industry-cheers-clarity-act-progress-ethics-questions-linger-next-vote?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-05-14T20:56:44.000Z"
-  },
-  {
-    "id": "f3f2cc1f-0263-438d-a4dd-f02b89ce710d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Interactive Brokers launched an all-in-one prediction market portal letting clients trade Kalshi, CME, and ForecastEx contracts through a single account.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#5ffabaec",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-14T20:44:47+00:00"
-  },
-  {
-    "id": "129bf7b0-63c8-424a-a88d-4c178178b0a4",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-    "summary": "1. Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
-    "url": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
-    "author": "Dominic-Madori Davis",
-    "created_at": "2026-05-14T20:43:03.000Z"
-  },
-  {
-    "id": "c689f96d-da74-4f3f-b97a-4d3e4df66935",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Here is why Wall Street is racing to tokenize the entire stock market",
-    "summary": "1. Tokenization has been the narrative of 2026.\n2. Executing on that narrative is trickier, but proponents say the benefits are massive if they pull it off.",
-    "url": "https://www.coindesk.com/business/2026/05/14/here-is-why-wall-street-is-racing-to-tokenize-the-entire-stock-market",
-    "author": "Helene Braun",
-    "created_at": "2026-05-14T20:36:13.000Z"
-  },
-  {
-    "id": "f918860e-6a23-4c5a-9525-643bff47d8ee",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Senator Elizabeth Warren says the crypto Clarity Act will \"blow up the economy.\"\"It pushes more of the economy into crypto!\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#20d64b73",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-14T20:30:31+00:00"
-  },
-  {
-    "id": "2d4fd394-721b-4534-afcf-ae6f67909fec",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Kraken Migrates to Chainlink CCIP for Wrapped Bitcoin and Future Wrapped Assets",
-    "summary": "1. Kraken is deprecating its existing cross-chain infrastructure and moving exclusively to Chainlink CCIP to secure Kraken Wrapped Bitcoin (kBTC) and all future wrapped assets.",
-    "url": "https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-14T20:28:10.000Z"
-  },
-  {
-    "id": "0fcbc654-53d5-439c-9fd3-59ff43631658",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Jane Street Cuts Bitcoin Exposure by 71% as Ether Position Rises to $82M in Q1",
-    "summary": "1. Jane Street sharply reduced several major bitcoin-linked positions during the first quarter while increasing exposure to ether ETFs and selected crypto equities.\n2. The portfolio changes came amid heightened market volatility and shifting institutional sentiment toward digital assets.\n3. Jane Street’s Crypto Portfolio Shifts Away From Bitcoin Jane Street Group, one of Wall Street’s most influential trading […]",
-    "url": "https://news.bitcoin.com/jane-street-cuts-bitcoin-exposure-by-71-as-ether-position-rises-to-82m-in-q1/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-14T20:20:53.000Z"
-  },
-  {
-    "id": "47e1ed1d-adeb-4b76-862b-308dcb86b82c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Tether-backed Oobit has launched crypto payments in Colombia, its ninth live market, with USDT leading payment volume across its Latin America operations.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7ea45d09",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-14T20:04:20+00:00"
-  },
-  {
-    "id": "f563be0d-713d-421e-99db-23f6243c2a5d",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Surges 3% Past $82K as Senate Advances Clarity Act, STRC and SATA Fuel Bitcoin Credit Boom",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Surges 3% Past $82K as Senate Advances Clarity Act, STRC and SATA Fuel Bitcoin Credit Boom\nBitcoin price surged toward $82,000 as STRC’s Bitcoin buying cleared $1 billion in daily trading volume.\n2. This post Bitcoin Price Surges 3% Past $82K as Senate Advances Clarity Act, STRC and SATA Fuel Bitcoin Credit Boom first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-price-surges-3-past-82k",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-14T20:01:46.000Z"
-  },
-  {
-    "id": "e2f38c02-7083-4fb5-bd74-1af5e121cab6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ex-Celsius exec sentenced to time served after guilty plea",
-    "summary": "1. Celsius‘ former chief revenue officer received a lenient sentence after his 2023 guilty plea for fraud and conspiracy to commit price manipulation.",
-    "url": "https://cointelegraph.com/news/celsius-roni-cohen-pavon-sentenced-guilty-plea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-14T19:46:55.000Z"
   }
 ]
