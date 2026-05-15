@@ -1,5 +1,45 @@
 [
   {
+    "id": "9e3b8457-be89-45d3-9826-c6c7068908f8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Iran says Strait of Hormuz open to all ships not engaged in hostilities",
+    "summary": "Iranian Foreign Minister Araghchi announced that all ships, except for those engaged in hostilities with Iran, are permitted to pass through the Strait of Hormuz.",
+    "url": "https://t.me/CoinnessGL#6ef078ba",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T10:11:03+00:00"
+  },
+  {
+    "id": "522d3ee7-154f-444a-929e-8e3154f59f4f",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP SAYS XI IS ONE OF THE WORLD’S GREAT LEADERSTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#ebc0e4fc",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-15T10:08:25+00:00"
+  },
+  {
+    "id": "c02f9c7c-a5eb-447c-9cf5-f6d4f94e2036",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. China has a Ballroom, and so should the U.S.A.!\n2. It’s under construction, ahead of schedule, and will be the finest facility of its kind anywhere in the U.S.A.\n3. Thank you for all the support I have been given in getting this project going.",
+    "url": "https://trumpstruth.org/statuses/38458",
+    "author": "Trump Truth",
+    "created_at": "2026-05-15T10:04:33.000Z"
+  },
+  {
+    "id": "5d526e16-5bf4-4a77-9fd1-db7e7cb76648",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to temporarily suspend POL deposits and withdrawals",
+    "summary": "Bithumb has announced that it will temporarily suspend deposits and withdrawals for Polygon Ecosystem (POL) starting at 10:00 a.m. UTC on May 21. The measure is to support an upcoming network upgrade.",
+    "url": "https://t.me/CoinnessGL#eaa8337f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T10:01:49+00:00"
+  },
+  {
     "id": "4684ed72-1baa-4128-864e-a07b560c295c",
     "source": "CoinDesk",
     "type": "rss",
@@ -10,7 +50,7 @@
     "created_at": "2026-05-15T09:58:30.000Z"
   },
   {
-    "id": "c486df25-e557-4f04-b243-e26ad4c3825a",
+    "id": "3e79973e-c81a-4fef-831f-1c226c96b035",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Iran terror victims sue Tether for transfer of $344M in frozen USDT",
@@ -60,7 +100,7 @@
     "created_at": "2026-05-15T09:50:09+00:00"
   },
   {
-    "id": "9bbff7c5-4b94-4828-89ed-cb8360850fa7",
+    "id": "6e277742-41f0-4825-9b54-542cfb7db309",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Thorchain appears to have suffered multi-chain exploit across Bitcoin, Ethereum, BSC and Base with losses exceeding $7.4MTwitter",
@@ -80,7 +120,7 @@
     "created_at": "2026-05-15T09:39:54.000Z"
   },
   {
-    "id": "75625e39-e38f-48ce-b53e-9dd239d31eb9",
+    "id": "a5f2f943-e784-4664-bb8f-a273b365cb86",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Just 4% of Americans factor crypto into their vote, per a new POLITICO poll, with only 27% backing government action to make crypto a mainstream financial asset.",
@@ -100,6 +140,16 @@
     "created_at": "2026-05-15T09:30:03.000Z"
   },
   {
+    "id": "4a2c1cae-9229-44c6-8d18-2b11b6f92415",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "put $2.5k into a mid-cap through a dex and walked away $180 short, what went wrong?",
+    "summary": "1. swapped $2.5k worth of ETH into a mid-cap token recently.\n2. the preview showed 3% slippage, I set my tolerance to 4% and went ahead.\n3. came out $183 below the quoted amount.",
+    "url": "https://reddit.com/r/ethereum/comments/1tdr5oj/put_25k_into_a_midcap_through_a_dex_and_walked/",
+    "author": "u/NickoGermish",
+    "created_at": "2026-05-15T09:28:57.000Z"
+  },
+  {
     "id": "1b722b55-daa3-4263-8a54-266136502757",
     "source": "CoinDesk",
     "type": "rss",
@@ -110,7 +160,7 @@
     "created_at": "2026-05-15T09:21:45.000Z"
   },
   {
-    "id": "d9d7fe02-c8c8-4b50-833d-e64328f02d51",
+    "id": "8c9e57ea-ae6a-4c57-b9bc-1a0541337017",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Weekly Top Gainers 1️⃣ Telcoin: +76.21% 2️⃣ Sahara AI: +42.50% 3️⃣ Irys: +40.12%...",
@@ -120,7 +170,7 @@
     "created_at": "2026-05-15T09:19:39+00:00"
   },
   {
-    "id": "57ad5400-2b0d-4bef-81f8-36f5e26d8a14",
+    "id": "270626f1-0a1b-4631-bc9b-1305b7d4327c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💡 How to Build a Pump​.​fun Bot with CoinMarketCap API.Learn how to discover,...",
@@ -230,7 +280,7 @@
     "created_at": "2026-05-15T07:56:01+00:00"
   },
   {
-    "id": "98de64f2-8b57-4033-aeab-fcd3a24726ae",
+    "id": "acf964a1-eeb1-479d-9f1f-d650b768f19a",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "B2C2 secures Luxembourg MiCA license, becoming first global OTC liquidity provider cleared for regulated EU-wide crypto trading servicesTwitter",
@@ -478,25 +528,5 @@
     "url": "https://cointelegraph.com/news/gemini-reports-42-revenue-growth-expansion-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Martin Young",
     "created_at": "2026-05-15T04:24:56.000Z"
-  },
-  {
-    "id": "a5214777-2f30-4cbb-8e61-12e1dd838bf2",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto data company Dune cuts 25% of staff in restructuring",
-    "summary": "1. Dune co-founder and CEO Fredrik Haga says the company’s staff cuts come as it shifts focus and is “all-in” on AI and institutional interest in crypto.",
-    "url": "https://cointelegraph.com/news/crypto-data-company-dune-cuts-25-of-staff-ai-use-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-15T04:04:18.000Z"
-  },
-  {
-    "id": "7905f119-c7c9-4c0b-80ac-b66005b911a3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "0x Co-CEO Will Warren resigns",
-    "summary": "0x Co-CEO Will Warren announced he is stepping down from his role. He will remain on the board of directors as a major shareholder.",
-    "url": "https://t.me/CoinnessGL#c4cbe087",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T04:02:14+00:00"
   }
 ]
