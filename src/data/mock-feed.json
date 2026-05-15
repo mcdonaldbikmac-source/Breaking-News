@@ -1,5 +1,105 @@
 [
   {
+    "id": "372be364-4048-4754-87ee-4ef2e868b7b0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "MicroStrategy's STRC perpetual preferred stock daily volume hits record $1.5B",
+    "summary": "Daily trading volume for MicroStrategy's (MSTR) perpetual preferred stock, STRC, reached an all-time high of $1.5 billion on May 14, Cointelegraph reported. Based on this volume, the company could raise up to $735.4 million, an amount sufficient to purchase 9,066 BTC.",
+    "url": "https://t.me/CoinnessGL#793cd3ac",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T06:07:32+00:00"
+  },
+  {
+    "id": "9c0ae83e-1e85-4d40-8d38-e0205a0a2497",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC spot CVD chart as of 6:00 a.m. UTC",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows the Volume Heatmap, and the bottom section shows the Cumulative Volume Delta (CVD).- The Volume Heatmap at the top tracks the volume of trades at specific price levels. The background color becomes brighter when the price remains in a certain range for an extended period or moves significantly. These brighter areas can potentially act as support or resistance levels.- The Cumulative Volume Delta (CVD) indicator at the bottom represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line indicates orders between $100 and $1,000, while the brown line represents large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#e4983f17",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T06:00:21+00:00"
+  },
+  {
+    "id": "81cd4c86-3661-4763-8ed8-28b96927734e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC perp long/short ratios on 3 major futures exchanges",
+    "summary": "BTC perp long/short ratios on top exchanges by open interestThe following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 50.29% long, 49.71% short- Binance: 51.63% long, 48.37% short- OKX: 51.34% long, 48.66% short- Bybit: 49.96% long, 50.04% short",
+    "url": "https://t.me/CoinnessGL#39fd3da2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-15T05:50:07+00:00"
+  },
+  {
+    "id": "a2fddcb5-1b3e-43b1-bd96-725d72e91e9d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Propy and Milo to Let Bitcoin Holders Buy Homes With $25M Financing Access",
+    "summary": "1. Propy and Milo are combining crypto-backed mortgages with blockchain-based real estate settlement for a fully digital home-buying process.\n2. The partnership aims to let crypto investors purchase property without selling their digital assets.\n3. Tim Draper Backs Propy as Milo Expands Crypto Mortgage Access Across the U.S.",
+    "url": "https://news.bitcoin.com/propy-and-milo-to-let-bitcoin-holders-buy-homes-with-25m-financing-access/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-05-15T05:30:37.000Z"
+  },
+  {
+    "id": "80f8fc70-80c6-49d0-a716-b33ac8d95846",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Cardano whales now hold 67% of ADA supply in highest share since 2020",
+    "summary": "1. Wallets holding at least one million ADA now control 25.09 billion tokens, the highest share since July 2020, even as Cardano's TVL has bled to $137 million from a December 2024 peak of $686 million, per Santiment and DefiLlama data.",
+    "url": "https://www.coindesk.com/markets/2026/05/15/cardano-whales-now-hold-67-of-ada-supply-in-highest-share-since-2020",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-15T05:28:29.000Z"
+  },
+  {
+    "id": "bcef00d6-2024-4de9-9358-0a8d07fcd553",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Lawyer behind Arbitrum crypto seizure fight now targets Tether for $344 million",
+    "summary": "1. Charles Gerstein wants a federal judge to order Tether to transfer OFAC-frozen USDT tied to Iran’s Revolutionary Guard to victims holding unpaid terrorism judgments",
+    "url": "https://www.coindesk.com/policy/2026/05/15/lawyer-behind-arbitrum-crypto-seizure-fight-now-targets-tether-for-usd344-million",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-15T05:04:13.000Z"
+  },
+  {
+    "id": "69b48036-8b3a-410b-a6a6-4ca69885caf0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The two- and ten-year Treasury yields hit a 12-month high. Bitcoin is still stuck below its 200-day average.",
+    "summary": "1. Rising yields may act as a headwind for assets like bitcoin and gold while potentially benefiting tokenized Treasury markets.",
+    "url": "https://www.coindesk.com/markets/2026/05/15/the-two-and-ten-year-treasury-yields-hit-a-12-month-high-bitcoin-is-still-stuck-below-its-200-day-average",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-15T04:54:43.000Z"
+  },
+  {
+    "id": "1b279b1b-0892-44e6-a46b-a2d21e7ffdfd",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Reform UK’s Nigel Farage Faces Scrutiny After $6.3M Payment From Crypto Investor",
+    "summary": "1. British Parliament’s standards watchdog is investigating Reform UK leader Nigel Farage over a previously undisclosed $6.3 million gift from cryptocurrency investor Christopher Harborne.\n2. Farage Cites ‘Personal Security’ Defense The British Parliament’s standards watchdog has launched an investigation into Reform UK leader Nigel Farage over a $6.3 million (£5 million) gift from a billionaire cryptocurrency investor, […]",
+    "url": "https://news.bitcoin.com/reform-uks-nigel-farage-faces-scrutiny-after-6-3m-payment-from-crypto-investor/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-15T04:30:36.000Z"
+  },
+  {
+    "id": "132e8e9c-36bf-4902-918b-6fd46c446c6a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Gemini reports 42% revenue growth after expansion into financial services",
+    "summary": "1. Gemini credit card revenue surged nearly 300% to $14.7 million in Q1, attributed to significant growth in its user base.",
+    "url": "https://cointelegraph.com/news/gemini-reports-42-revenue-growth-expansion-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-05-15T04:24:56.000Z"
+  },
+  {
+    "id": "a5214777-2f30-4cbb-8e61-12e1dd838bf2",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto data company Dune cuts 25% of staff in restructuring",
+    "summary": "1. Dune co-founder and CEO Fredrik Haga says the company’s staff cuts come as it shifts focus and is “all-in” on AI and institutional interest in crypto.",
+    "url": "https://cointelegraph.com/news/crypto-data-company-dune-cuts-25-of-staff-ai-use-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-05-15T04:04:18.000Z"
+  },
+  {
     "id": "7905f119-c7c9-4c0b-80ac-b66005b911a3",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -50,7 +150,7 @@
     "created_at": "2026-05-15T03:46:02.000Z"
   },
   {
-    "id": "bbfd1ef7-e571-4030-bfb7-36c3a74cb86a",
+    "id": "120a3f65-4f70-4113-a812-37888ad525af",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇨🇳 President Trump says US made \"fantastic trade deals\" with China.@WatcherGuru",
@@ -100,7 +200,7 @@
     "created_at": "2026-05-15T02:30:52.000Z"
   },
   {
-    "id": "454544a9-25c3-4366-9a7e-cf0629bb3f0a",
+    "id": "c9e89f3b-8a40-40bd-a655-23d3fafe3ed0",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "One of South Korea’s largest banks is buying a major stake in crypto exchange giant Upbit’s parent company.Twitter",
@@ -110,7 +210,7 @@
     "created_at": "2026-05-15T02:00:07+00:00"
   },
   {
-    "id": "75d83e5a-112e-4e30-a96d-ccfcc84025f3",
+    "id": "6c743e80-71ef-4dea-8ddd-7fca461abf9c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Ethereum treasury firms are leaning on staking yield over Strategy-style leverage, SharpLink CEO Joseph Chalom says.",
@@ -140,7 +240,7 @@
     "created_at": "2026-05-15T01:33:50+00:00"
   },
   {
-    "id": "f888b5f2-819e-428a-93c7-e3f27e6eefd9",
+    "id": "84b32324-4a84-4dba-9c1a-27dd9655f65a",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 President Trump says oil prices went up \"very little\" due to war with Iran.\"I thought it would go up more.\"@WatcherGuru",
@@ -178,65 +278,5 @@
     "url": "https://news.bitcoin.com/ripples-schwartz-warns-xrp-users-to-stay-safe-from-giveaway-scams/",
     "author": "Kevin Helms",
     "created_at": "2026-05-15T00:30:13.000Z"
-  },
-  {
-    "id": "bd3da477-70ae-469c-89c5-3ac88bbee007",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "summary": "1. Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "author": "OpenAI",
-    "created_at": "2026-05-15T00:00:00.000Z"
-  },
-  {
-    "id": "437eeae9-6520-43fb-ac68-35e26e217ebf",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Brazil Slaps Banco Topazio With $3.2M Fine and 2-Year Crypto Trading Ban",
-    "summary": "1. The institution issued a ban on Banco Topazio’s ability to conduct foreign purchases and sales of cryptocurrency assets for two years after detecting irregularities in the due diligence processes for these operations.\n2. Additionally, the institution was fined $3.2 million.\n3. Central Bank of Brazil Bans Banco Topazio From Conducting Crypto Trading Operations As banks enter the […]",
-    "url": "https://news.bitcoin.com/brazil-slaps-banco-topazio-with-3-2m-fine-and-2-year-crypto-trading-ban/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-14T23:30:44.000Z"
-  },
-  {
-    "id": "19e61901-6e60-404c-8899-f02276bf0d3b",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.142",
-    "summary": "1. ## What's changed\n\n- Added new `claude agents` flags: `--add-dir`, `--settings`, `--mcp-config`, `--plugin-dir`, `--permission-mode`, `--model`, `--effort`, and `--dangerously-skip-permissions` to configure dispatched background sessions\n- Fast mode now uses Opus 4.7 by default (previously Opus 4.6).\n2. Set `CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE=1` to pin fast mode to Opus 4.6\n- Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are now surfaced as a skill\n- The `/plugin` details pane and `claude plugin details` now show LSP servers a plugin provides\n- `/web-setup` warns before replacing an existing GitHub App connection\n- Fixed `MCP_TOOL_TIMEOUT` not raising the per-request fetch timeout for remote HTTP and SSE MCP servers, which capped tool calls at 60 seconds regardless of the configured value\n- Fixed background sessions not recognizing pre-existing git worktrees, blocking Edit while EnterWorktree refused to create a duplicate\n- Fixed background sessions disappearing and daemon reconnect failing after macOS sleep/wake — the daemon now detects clock jumps instead of treating them as elapsed idle time\n- Fixed daemon not exiting cleanly after the binary is upgraded (e.g.\n3. `brew upgrade`), causing dispatched agents to crash-loop on the deleted path\n- Fixed background agents crash-looping when the Claude-in-Chrome extension is connected without a shared tab\n- Fixed clicking links in an attached `claude agents` session — the background worker's headless browser shim no longer applies while attached\n- Fixed `claude agents` \"v to open in editor\" using the daemon's default editor instead of your shell's `$EDITOR`/`$VISUAL`\n- Fixed `claude agents` deadlocking on Windows with network-drive working directories; Ctrl+C now works during startup\n- Fixed background-color bleed when attaching to a `claude agents` session from Apple Terminal or other 256-color-only terminals\n- Fixed `claude --bg --dangerously-skip-permissions` not persisting across retire/wake\n- Fixed session titles being derived from the URL when the first message is a link\n- Fixed redundant `set_model` requests from remote clients injecting duplicate `/model` breadcrumbs into the transcript\n- Fixed plugins using `skills: [\"./\"]` showing a false \"path escapes plugin directory\" error\n- Fixed plugin cache cleanup deleting the active plugin version directory when no installation metadata is present\n- Fixed `/plugin` browse pane showing \"0 installs\" for newly published plugins\n- Fixed plugin advisories not naming every `plugin.json` key that shadows a default folder\n- Improved reactive compaction: the first summarize attempt now seeds from the original request's overflow size, avoiding a wasted near-full-context retry\n- Improved hook configuration error: configuring a prompt- or agent-type hook for `SessionStart`/`Setup`/`SubagentStart` now shows a clear \"use a command-type hook instead\" error\n- Removed stale `/model claude-sonnet-4-20250514` suggestion from Usage Policy refusal messages",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142",
-    "author": "ashwin-ant",
-    "created_at": "2026-05-14T22:55:10Z"
-  },
-  {
-    "id": "859082e1-4ec3-4e5d-9adf-3f83689ac6e5",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Kraken has replaced LayerZero with Chainlink CCIP for its wrapped Bitcoin token after the $292M Kelp bridge exploit.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a936f980",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-14T22:54:11+00:00"
-  },
-  {
-    "id": "e7b9b08b-b788-494e-8e24-108d89586650",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-    "summary": "1. Here's what the biggest tech court case of the year is all about.",
-    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-05-14T22:47:51.000Z"
-  },
-  {
-    "id": "7ee00ef0-677c-468b-bf85-60712efb208e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": " UK politician Nigel Farage bought $1.8M house after a $6.7M crypto gift",
-    "summary": "1. The news follows growing calls from UK lawmakers and government officials to curb or temporarily ban crypto political donations in the country.",
-    "url": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Vince Quill",
-    "created_at": "2026-05-14T22:32:33.000Z"
   }
 ]
