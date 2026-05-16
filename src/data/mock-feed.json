@@ -1,462 +1,92 @@
 [
   {
-    "id": "435cb563-046e-4257-9885-b1b4720222cf",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission ",
-    "summary": "1. As the Commodity Futures Trading Commission takes on a growing task to police U.S.\n2. crypto trading, senior lawmakers are saying it needs bipartisan leadership.",
-    "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-05-15T21:35:57.000Z"
+    "id": "aa2ddd47-c4f8-49b4-80ed-8c1e1d66d25c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US, Israel may resume military action against Iran next week",
+    "summary": "The United States and Israel could resume military attacks on Iran as early as next week, with the Pentagon preparing to restart military operations, according to U.S. sources. Negotiations are currently reported to be at a standstill. According to multiple U.S. officials, options under consideration for a renewed military offensive include large-scale bombing of Iranian military and infrastructure facilities and the deployment of special operations forces on the ground to secure nuclear materials. Hundreds of special operations personnel already arrived in the Middle East in March, though U.S. officials have acknowledged that a ground deployment carries significant risks. Furthermore, the U.S. has reportedly resupplied ammunition to its warships and fighter jets in the region since a ceasefire in early April.",
+    "url": "https://t.me/CoinnessGL#321b07b5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-16T07:20:34+00:00"
   },
   {
-    "id": "ee30cfd2-247c-45bd-a273-514d15511db4",
+    "id": "cb135fd3-f8f3-4b37-8bab-2833ba93773d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "$216 million worth of futures liquidated in the past hour",
+    "summary": "Major exchanges have seen $216 million worth of futures liquidated in the past hour. In the past 24 hours, $541 million worth of futures have been liquidated.",
+    "url": "https://t.me/CoinnessGL#2301eeb1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-16T07:16:08+00:00"
+  },
+  {
+    "id": "72e26459-0c40-4930-8efe-3dfee3ff2509",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "rsETH net outflows suggest Kelp DAO investor confidence is recovering",
+    "summary": "Investor confidence in Kelp DAO appears to be recovering, with exchanges seeing a net outflow of 435 rsETH on May 15, according to Santiment. This marks a reversal from the day of the protocol's hack about a month ago, when a net 563 rsETH flowed into exchanges. Santiment attributed the shift to Kelp DAO's full resumption of rsETH withdrawals, bridging, and protocol operations.",
+    "url": "https://t.me/CoinnessGL#c88572e4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-16T07:05:10+00:00"
+  },
+  {
+    "id": "96e99a27-037c-45e3-b9d4-2b7f4d431948",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "China Unveils Jiuzhang 4.0: The Photonic Quantum Computer Defying the Laws of Speed",
-    "summary": "1. The new iteration of China’s Jiuzhang photonic quantum computer prototypes solved the Boson sampling problem much more quickly than the world’s most powerful computer.\n2. The computer represents a major leap and opens the doors for further advancement in photonic quantum computing.\n3. China’s Jiuzhang 4.0 Photonic Quantum Computer Breaks Records China has cemented its leadership in […]",
-    "url": "https://news.bitcoin.com/china-unveils-jiuzhang-4-0-the-photonic-quantum-computer-defying-the-laws-of-speed/",
+    "title": "Coinbase Co-Founder Meets with US and Venezuelan Officials in Major Investment Push",
+    "summary": "1. Ersham has reportedly been meeting with Venezuelan officials, floating possible investments in the energy and fintech sectors.\n2. He recently appeared in a tech event hosted by Banco de Venezuela, promoting the nation’s potential to become the “best country in Latam.” Coinbase’s Fred Ersham Shows Interest in Venezuela’s Economic Recovery Potential While Venezuela has been battling […]",
+    "url": "https://news.bitcoin.com/coinbase-co-founder-meets-with-us-and-venezuelan-officials-in-major-investment-push/",
     "author": "Sergio Goschenko",
-    "created_at": "2026-05-15T21:30:24.000Z"
+    "created_at": "2026-05-16T07:05:09.000Z"
   },
   {
-    "id": "6e6af209-22a9-481f-9353-637700669067",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Solayer launches Visa-compatible card for USDC payments",
-    "summary": "1. The new card lets users spend USDC balances through online, in-store and contactless transactions while accessing ATM withdrawals in supported regions.",
-    "url": "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-05-15T21:11:19.000Z"
-  },
-  {
-    "id": "56203800-b6ad-420d-9751-ab008923a9ec",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Drake Calls for Sam Bankman-Fried's Release in New, Critically Panned Album",
-    "summary": "1. Rapper Drake released three new albums on Friday, and described himself on one as “a BTC crypto big-timer.”",
-    "url": "https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album",
-    "author": "Sander Lutz",
-    "created_at": "2026-05-15T21:10:56.000Z"
-  },
-  {
-    "id": "81a83775-8cc3-41a9-84d6-5fa5679320d3",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event\nOrganizers of the Bitcoin Open have confirmed the June 8, 2026 date at Glen Abbey Golf Club in Oakville, Ontario, during the venue’s 50th anniversary year.\n2. The event combines a team scramble golf tournament with an evening Texas Hold’em poker tournament.\n3. This post Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/culture/bitcoin-open-heads-to-iconic-glen-abbey-golf-club-for-june-8-2026-event",
-    "author": "Juan Galt",
-    "created_at": "2026-05-15T21:09:38.000Z"
-  },
-  {
-    "id": "6fb2edcb-5fb7-4a39-8959-014e73f82612",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. FREE TINA!",
-    "url": "https://trumpstruth.org/statuses/38462",
-    "author": "Trump Truth",
-    "created_at": "2026-05-15T21:03:42.000Z"
-  },
-  {
-    "id": "675eb739-ec1f-46cc-a87b-527b0dfc7675",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets",
-    "summary": "1. The Bitcoin DeFi protocol is moving its assets away from LayerZero following the Kelp DAO exploit that led to the loss of $292 million.",
-    "url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-05-15T20:54:03.000Z"
-  },
-  {
-    "id": "48b25df8-3941-4e48-bc6a-f84c6caba90b",
+    "id": "269c4a0b-12e5-4652-a055-3ed2e25391a1",
     "source": "@SolidIntelX",
     "type": "telegram",
-    "title": "Trump weighs next move as U.S.",
-    "summary": "and Israel prepare expanded military action against Iran, including potential strikes on military and infrastructure targets and possible special operations to secure uranium sites.Twitter",
-    "url": "https://t.me/SolidIntelX#2065adcf",
+    "title": "Kremlin says Putin will pay a visit to China on May 19 and 20.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#c444d5ab",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-15T20:52:49+00:00"
+    "created_at": "2026-05-16T06:48:02+00:00"
   },
   {
-    "id": "53361d61-ba0c-45e8-94c7-e8c316cc7857",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Crypto market structure bill still faces significant hurdles despite Senate committee win: analysts",
-    "summary": "1. TD Cowen raised the probability of the bill passing to 40% from 33% while Benchmark said the Clarity Act will need more Democratic support.",
-    "url": "https://www.theblock.co/post/401528/crypto-market-structure-bill-significant-hurdles-despite-senate-committee-win-analysts?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-05-15T20:47:49.000Z"
-  },
-  {
-    "id": "5deb2ede-febe-4fb9-8857-d5971d48d25d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "It’s a ‘new era’ for crypto users who ‘trade anything and everything’ as Jito goes consumer, CEO Bruder says",
-    "summary": "1. Jito founder Lucas Bruder told The Block that there's a new class of users coming onchain who \"want to trade anything and everything.\"",
-    "url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-15T20:41:09.000Z"
-  },
-  {
-    "id": "4329f5cc-19bf-481b-82ac-ae770e0bb43f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
-    "summary": "1. Founder and CEO RJ Scaringe has a knack for raising money.\n2. So far, his three startups have raised more than $12.3 billion.",
-    "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-05-15T20:30:20.000Z"
-  },
-  {
-    "id": "ba474ae7-8927-4616-84b9-4099b0ee127c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Over $900 billion wiped out from the US stock market today.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#4be389a0",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-15T20:27:15+00:00"
-  },
-  {
-    "id": "98b69ecd-bde4-4883-ba2b-f1fbff880508",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-    "summary": "1. Compulsive X user Andreessen himself couldn't resist responding, many, many times.",
-    "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-    "author": "Julie Bort",
-    "created_at": "2026-05-15T20:25:35.000Z"
-  },
-  {
-    "id": "9d2bf6de-0af5-49f6-93f9-156d281b2daa",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Hyperliquid Policy Arm Rejects Market Integrity Concerns Amid Oil Futures Surge",
-    "summary": "1. Decentralized exchange Hyperliquid has become a popular destination for speculating on oil prices.",
-    "url": "https://decrypt.co/368101/hyperliquid-rejects-market-integrity-concerns-oil-futures-surge",
-    "author": "André Beganski",
-    "created_at": "2026-05-15T20:24:04.000Z"
-  },
-  {
-    "id": "27ee70eb-1ccc-4875-a3d7-468b3da89813",
+    "id": "ff482131-b99a-4bcc-92cb-8b5ab83b1756",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Blackrock Drives Bitcoin ETF Recovery as Trading Volume Surges to $2.76B",
-    "summary": "1. Bitcoin ETFs snapped back into positive territory on Thursday with $131 million in fresh inflows, signaling a renewed wave of institutional demand after two difficult sessions.\n2. Ether ETFs, however, remained under pressure with a fourth consecutive day of outflows, while XRP and solana products continued to attract steady capital.\n3. XRP ETFs Attract $18M as Regulatory […]",
-    "url": "https://news.bitcoin.com/blackrock-drives-bitcoin-etf-recovery-as-trading-volume-surges-to-2-76b/",
+    "title": "Entain Directly Targets Premier League Clubs Citing ‘Cryptocurrency Reliance’ in Sponsor Ban",
+    "summary": "1. Entain General Counsel Simon Zinger has written directly to six Premier League clubs, urging them to commit to UK-licensed gambling sponsors only for the 2026/27 season, citing Stake’s “heavy reliance on cryptocurrency” and BJ88’s use of “unregulated payment methods like cryptocurrency to evade financial oversight” in letters reported by SBC News today.\n2. Entain’s General Counsel […]",
+    "url": "https://news.bitcoin.com/entain-directly-targets-premier-league-clubs-citing-cryptocurrency-reliance-in-sponsor-ban/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-05-16T05:30:08.000Z"
+  },
+  {
+    "id": "e463e6b5-ddd9-4214-869b-3297938ac4ef",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "OKX Targets South Korea Entry With Proposed 20% Coinone Investment",
+    "summary": "1. OKX and Korea Investment & Securities are reportedly in talks to acquire stakes in South Korean crypto exchange Coinone.\n2. The move could mark a major step in the opening of Korea’s tightly regulated digital asset market to global players.\n3. OKX Explores Strategic Coinone Role as South Korea Rethinks Crypto Rules Global crypto exchange OKX is […]",
+    "url": "https://news.bitcoin.com/okx-targets-south-korea-entry-with-proposed-20-coinone-investment/",
     "author": "Emmanuel Musa",
-    "created_at": "2026-05-15T20:05:22.000Z"
+    "created_at": "2026-05-16T04:25:31.000Z"
   },
   {
-    "id": "3d6d6b3f-6c14-4918-9849-19564d912f1a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close lower",
-    "summary": "The three major U.S. stock indices closed lower today.- S&P 500: -1.25%- Nasdaq: -1.55%- Dow Jones: -0.105%",
-    "url": "https://t.me/CoinnessGL#d52afffb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T20:01:05+00:00"
-  },
-  {
-    "id": "e1f58e02-8dae-45ad-a920-97a2cb83c9e4",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Jerome Powell officially steps down after 8 years as Federal Reserve Chair.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#87bc4ce3",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-15T20:00:09+00:00"
-  },
-  {
-    "id": "e41fba75-b231-44b0-84db-450ca6282e36",
+    "id": "b4fa0605-4cac-4511-9189-0a18e6efebe2",
     "source": "CoinDesk",
     "type": "rss",
-    "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
-    "summary": "1. Elon Musk’s rocket and satellite company has accelerated plans for its blockbuster public offering, with trading expected to begin as early as June 12 after a faster-than-expected SEC review.",
-    "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
-    "author": "Helene Braun",
-    "created_at": "2026-05-15T19:50:00.000Z"
+    "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
+    "summary": "1. Arkham Intelligence data shows that over $1 billion in bitcoin has left wallets attributed to Bhutan in the past year, flowing to exchanges and trading firms.\n2. The country says it has not sold any.",
+    "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-16T02:30:00.000Z"
   },
   {
-    "id": "4790e632-3071-475d-9d66-7433e377dc1e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 CME Group and ICE have reportedly urged US regulators to scrutinize Hyperliquid, citing oversight concerns around the onchain perpetuals trading platform.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#338d5157",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-15T19:09:23+00:00"
-  },
-  {
-    "id": "a5dbc09b-db9d-4a8b-99ae-4d41fd95bed0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Israel preparing to resume military action against Iran",
-    "summary": "A senior Israeli official stated on May 15 that Israel is preparing to resume military operations against Iran, which could last from several days to several weeks. The official noted that the United States understands there has been no progress in negotiations with Iran. He said Israel is preparing for a conflict of this duration and is awaiting a final decision from President Trump, adding that more would be known within 24 hours.",
-    "url": "https://t.me/CoinnessGL#b4d936f0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T19:03:47+00:00"
-  },
-  {
-    "id": "b6f4c59d-cf18-4a45-9378-084d642f08f4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Abu Dhabi sovereign fund Mubadala holds $565.6M in BlackRock's IBIT",
-    "summary": "Abu Dhabi's sovereign wealth fund, Mubadala, has disclosed a holding of 14.72 million shares in BlackRock's iShares Bitcoin Trust (IBIT), according to its latest 13F filing. The position, valued at approximately $565.6 million, was reported as of the end of the first quarter.",
-    "url": "https://t.me/CoinnessGL#9ccd88f0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T19:03:00+00:00"
-  },
-  {
-    "id": "eee3f668-4a9f-48d8-9efa-7d5dde6676d1",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Slides Below $79K as Trump’s Iran Threat Sends Oil Past $105",
-    "summary": "1. Bitcoin’s drop below $79,000 was driven by a sharp swing in global risk sentiment after the U.S.–China summit ended without progress and fresh Middle East tensions rattled markets.\n2. US-China Tech Cold War Intensifies Bitcoin plunged below the $79,000 mark for the second time in two days as investor sentiment shifted from optimism to caution after […]",
-    "url": "https://news.bitcoin.com/bitcoin-slides-below-79k-as-trumps-iran-threat-sends-oil-past-105/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-15T18:57:39.000Z"
-  },
-  {
-    "id": "38c4bc70-49cb-4144-a7ae-b4f0ef1d1af1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
-    "summary": "1. The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
-    "url": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-05-15T18:51:33.000Z"
-  },
-  {
-    "id": "9346bda5-5421-43e8-9ef1-394129d3c60a",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "SpaceX reportedly set to trade under ticker $SPCX as early as June 12.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#5b5bcc61",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-15T18:49:54+00:00"
-  },
-  {
-    "id": "0ee5c5f1-a2c4-4ab0-8fd2-6949a702cd09",
+    "id": "b83ce6be-90cb-4131-bef8-6e42f85ab444",
     "source": "CoinTelegraph",
     "type": "rss",
-    "title": "US law firm files motion requesting redistribution of $344M USDt linked to Iran ",
-    "summary": "1. Law firm Gerstein Harrow LLP is attempting to claim frozen cryptocurrency funds for claimants of unrelated judgments stretching back decades.",
-    "url": "https://cointelegraph.com/news/us-law-firm-motion-redistribution-344m-usdt-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Vince Quill",
-    "created_at": "2026-05-15T18:41:57.000Z"
-  },
-  {
-    "id": "796d2898-526f-435b-99da-5e7900c75c1d",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
-    "summary": "1. Bitcoin Magazine\n\nAbu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026\nMubadala Investment Company boosted its stake in BlackRock’s iShares Bitcoin Trust by 16% in Q1 2026.\n2. This post Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/abu-dhabis-mubadala-raises-bitcoin-stake",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-15T18:13:17.000Z"
-  },
-  {
-    "id": "6f00d4bb-e95a-4132-b00d-f58dfce8e3a2",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-    "summary": "1. Sellers have pulled Bitcoin back below the $79,000 level, but buying may emerge as the price nears the $76,000 support.",
-    "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Rakesh Upadhyay",
-    "created_at": "2026-05-15T18:09:38.000Z"
-  },
-  {
-    "id": "1d36f7e2-5c6c-4a78-a7d5-05154b6c919b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 South Korea’s Hana Bank has agreed to buy a 6.55% stake in Upbit operator Dunamu for about $670 million, making it the company’s fourth-largest shareholder.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2906f552",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-15T18:04:33+00:00"
-  },
-  {
-    "id": "65f9f095-1e7e-4103-8deb-c0ac1215173d",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Gemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future",
-    "summary": "1. Bitcoin Magazine\n\nGemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future\nCameron and Tyler Winklevoss announced a $100 million Bitcoin-funded investment into Gemini alongside a Q1 earnings report showing 42% year-over-year revenue growth.\n2. This post Gemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/gemini-stock-jumps-after-winklevoss-twins",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-15T17:59:16.000Z"
-  },
-  {
-    "id": "78a82a8a-d0e1-4e02-b1f0-6558e70210a8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💡 Build with CMC: How to build a trading bot for HyperLiquid using...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3d165cd7",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-15T17:29:21+00:00"
-  },
-  {
-    "id": "3e7057f1-9096-4894-8b27-02eed036f14b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-    "summary": "1. Newly un-redacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
-    "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-05-15T17:13:26.000Z"
-  },
-  {
-    "id": "f6f89d9b-401f-4e1c-9b51-7540da9b47f6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Myanmar’s military government proposes life in prison for crypto scammers",
-    "summary": "1. The text of Myanmar’s Anti-Online Fraud Bill said that anyone who was convicted of committing “digital currency fraud” could face from ten years to life in prison, and possibly the death penalty.",
-    "url": "https://cointelegraph.com/news/myanmar-government-life-death-crypto-scammers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-15T17:08:51.000Z"
-  },
-  {
-    "id": "0ff986a7-ded2-49b4-ac7d-69475caf3e5d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Arthur Hayes voices support for HYPE over CME and ICE",
-    "summary": "BitMEX co-founder Arthur Hayes stated on X that Hyperliquid (HYPE) is superior to the Chicago Mercantile Exchange (CME) and the Intercontinental Exchange (ICE), adding his strong endorsement for the platform. Previously, both CME Group and the New York Stock Exchange had called for the regulation of Hyperliquid. more:",
-    "url": "https://t.me/CoinnessGL#bf808302",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T16:56:42+00:00"
-  },
-  {
-    "id": "9fc8e204-3fa8-435c-98e8-63a5d7e5d1c3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
-    "summary": "1. Bloomberg reported that ICE and CME are pressing for Hyperliquid to register with the CFTC, raising concerns about market stability.",
-    "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-15T16:48:14.000Z"
-  },
-  {
-    "id": "a290c128-ce2a-4640-8e47-c2853af914de",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk confirms SpaceX intends to make it impossible to fire him.\"I need to make sure SpaceX stays focused on making life multiplanetary and extending consciousness to the stars, not pandering to someone's bullshit quarterly earnings bonus!\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#5f6e4918",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-15T16:40:28+00:00"
-  },
-  {
-    "id": "bbfb1487-b012-4a6a-8ace-65e6da312899",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
-    "summary": "1. The chairman of droppRWA has secured $12.5 billion in mandates to tokenized real estate and his plans are to go beyond properties to bring trillions of dollars onchain.",
-    "url": "https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks",
-    "author": "Olivier Acuna",
-    "created_at": "2026-05-15T16:37:31.000Z"
-  },
-  {
-    "id": "13d68c46-d554-490b-b8bb-fc2c91f566ac",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "CME and NYSE Owner Push U.S. Regulators to Crack Down on Hyperliquid",
-    "summary": "1. The Hyperliquid Policy Center disputed the framing.",
-    "url": "https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-15T16:36:50.000Z"
-  },
-  {
-    "id": "6aaa6af5-ea9d-4033-920c-7224cd721273",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Tether Billionaire Enters UK's Richest People List Amid Farage Gift Inquiry",
-    "summary": "1. Christopher Harborne’s Rich List debut comes as Reform UK's Nigel Farage faces scrutiny over a $6.7 million gift from the Tether investor.",
-    "url": "https://decrypt.co/368016/tether-billionaire-enters-uks-richest-people-list-amid-farage-gift-inquiry",
-    "author": "Vince Dioquino",
-    "created_at": "2026-05-15T16:24:52.000Z"
-  },
-  {
-    "id": "32ec1054-000b-4104-be59-71684dbc1843",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Grayscale: Delayed rate cuts could prolong BTC weakness",
-    "summary": "Grayscale has suggested that a delay in interest rate cuts could prolong bearish conditions for Bitcoin. In a recent report, the asset manager noted that renewed inflationary pressures in the U.S. make it likely the Federal Reserve will maintain its high-interest-rate policy for the time being, potentially slowing BTC's upward momentum. While this could weigh on non-interest-bearing assets like Bitcoin and gold, Grayscale suggested that regulatory improvements, such as the CLARITY Act, could provide a partial offset. Conversely, the report highlighted that the profitability of stablecoin issuers could improve, explaining that for every 25 basis point increase in short-term rates, Circle's (USDC) annual revenue grows by approximately $190 million.",
-    "url": "https://t.me/CoinnessGL#2241b82f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T16:16:21+00:00"
-  },
-  {
-    "id": "9dec3046-aaf6-465f-86b1-09677117dbbe",
-    "source": "The Block",
-    "type": "rss",
-    "title": "OpenSea CMO sees tokenized Pokémon cards, Rolexes and tickets driving next NFT wave",
-    "summary": "1. OpenSea's Adam Hollander sees advancements in AI making it easier for people to make innovative tokenized assets.",
-    "url": "https://www.theblock.co/post/401504/opensea-cmo-tokenized-pokemon-cards-rolexes-tickets-driving-next-nft-wave?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-05-15T16:08:00.000Z"
-  },
-  {
-    "id": "ba9ed265-c153-4708-9437-53cb498fe93e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Lombard replaces LayerZero with Chainlink CCIP as cross-chain standard",
-    "summary": "Lombard (BARD), a Bitcoin-based financial infrastructure platform, has adopted Chainlink's (LINK) Cross-Chain Interoperability Protocol (CCIP) as its cross-chain standard, replacing LayerZero (ZRO), CoinDesk reported. The move is part of a broader industry trend of reviewing and replacing cross-chain standards after LayerZero's bridge was exposed in the hack of Kelp DAO's rsETH, which highlighted the security risks of such protocols.",
-    "url": "https://t.me/CoinnessGL#2c3d070c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-15T16:06:58+00:00"
-  },
-  {
-    "id": "edfa9096-902a-4abb-9754-e755c5607d81",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Lombard joins LayerZero exodus as $4 billion in assets switch to Chainlink's bridge",
-    "summary": "1. The shift comes after the Kelp DAO exploit drained $292 million from its LayerZero-powered bridge, increasing concerns over the security of cross-chain infrastructure.",
-    "url": "https://www.coindesk.com/business/2026/05/15/lombard-joins-layerzero-exodus-as-usd4-billion-in-assets-switch-to-chainlink-s-bridge",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-05-15T16:00:00.000Z"
-  },
-  {
-    "id": "ada38839-d15b-4590-97e2-bd658caec4cb",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "summary": "1. Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-05-15T16:00:00.000Z"
-  },
-  {
-    "id": "37b22250-7aae-4c90-9260-b31ddc1aa748",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ethereum analysts see ‘downside risks’ as bears eye 20% ETH price drop  ",
-    "summary": "1. Ethereum analysts said that increasing supply on exchanges and declining ETF demand put ETH at risk of another leg down to $1,700.",
-    "url": "https://cointelegraph.com/markets/ethereum-analysts-see-downside-risks-bears-20-eth-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nancy Lubale",
-    "created_at": "2026-05-15T15:55:05.000Z"
-  },
-  {
-    "id": "a71de35b-3477-4312-b22c-b150fae7698b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
-    "summary": "1. CME Group and ICE have reportedly warned the CFTC and Capitol Hill officials that Hyperliquid’s decentralized perpetual futures platform could enable market manipulation and sanctions evasion.",
-    "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
-    "author": "Helene Braun",
-    "created_at": "2026-05-15T15:46:46.000Z"
-  },
-  {
-    "id": "60096b73-0cd8-4f2d-8904-ca710c2e626b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
-    "summary": "1. The price spike is a reminder of a deeper problem: The U.S.\n2. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
-    "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-    "author": "Tim De Chant",
-    "created_at": "2026-05-15T15:45:53.000Z"
+    "title": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment",
+    "summary": "1. Santiment warned that the crypto market “typically” moves against crowd expectations, pointing to a recent rise in bullish sentiment driven by renewed momentum around the US CLARITY Act.",
+    "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ciaran Lyons",
+    "created_at": "2026-05-16T02:13:23.000Z"
   }
 ]
