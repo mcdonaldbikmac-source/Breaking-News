@@ -1,6 +1,16 @@
 [
   {
-    "id": "aa2ddd47-c4f8-49b4-80ed-8c1e1d66d25c",
+    "id": "3c07e289-f4de-4cac-aed7-8a4ceadc52b0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+    "summary": "1. A long-skewed liquidation cascade flushed leverage across the major tokens overnight, with the move tracking a global bond selloff and the worst session for U.S.\n2. stocks since March.",
+    "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-16T07:36:02.000Z"
+  },
+  {
+    "id": "0a114151-33ed-449d-bf66-deb9215586d1",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "US, Israel may resume military action against Iran next week",
@@ -10,7 +20,7 @@
     "created_at": "2026-05-16T07:20:34+00:00"
   },
   {
-    "id": "cb135fd3-f8f3-4b37-8bab-2833ba93773d",
+    "id": "ba3a2e50-6be3-4334-93ec-690c99208616",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "$216 million worth of futures liquidated in the past hour",
@@ -20,7 +30,7 @@
     "created_at": "2026-05-16T07:16:08+00:00"
   },
   {
-    "id": "72e26459-0c40-4930-8efe-3dfee3ff2509",
+    "id": "aefa25d6-fe75-4a57-b00b-da76bce47627",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "rsETH net outflows suggest Kelp DAO investor confidence is recovering",
@@ -40,7 +50,7 @@
     "created_at": "2026-05-16T07:05:09.000Z"
   },
   {
-    "id": "269c4a0b-12e5-4652-a055-3ed2e25391a1",
+    "id": "d610828c-d334-4821-aafb-1387154e208e",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Kremlin says Putin will pay a visit to China on May 19 and 20.Twitter",
