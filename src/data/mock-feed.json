@@ -1,5 +1,175 @@
 [
   {
+    "id": "ba171ebb-4e07-46b1-aee5-d1ac5d6505ec",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Judicial Watch files lawsuit seeking records on $2 billion grant to nonprofit tied to Stacey Abrams:",
+    "url": "https://trumpstruth.org/statuses/38473",
+    "author": "Trump Truth",
+    "created_at": "2026-05-16T12:00:19.000Z"
+  },
+  {
+    "id": "f8401850-be19-42ad-a924-a4e925a12069",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. One Nation Under Fraud: Trump administration uncovers massive welfare, citizenship abuses:",
+    "url": "https://trumpstruth.org/statuses/38471",
+    "author": "Trump Truth",
+    "created_at": "2026-05-16T11:58:26.000Z"
+  },
+  {
+    "id": "e3608951-3e8f-4838-97cc-14c766712d74",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Biden FBI secretly set up Trump to be indicted after he leaves office, Arctic Frost memos suggest:",
+    "url": "https://trumpstruth.org/statuses/38472",
+    "author": "Trump Truth",
+    "created_at": "2026-05-16T11:57:55.000Z"
+  },
+  {
+    "id": "c315e4a6-13e8-4608-b5e0-8f5c3756b586",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale with 15x ETH long position faces $3.6M unrealized loss",
+    "summary": "A whale (address starting with 0xa5b0) who opened a 15x long position of 40,000 ETH, worth $87 million, on Hyperliquid is currently facing an unrealized loss of over $3.6 million. The entry price for the position is $2,265, with a liquidation price of $1,347. Over the past two months, this same whale has earned a trading profit of $44.61 million from a cumulative 120,000 ETH in long positions.",
+    "url": "https://t.me/CoinnessGL#88c05451",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-16T11:33:57+00:00"
+  },
+  {
+    "id": "3b614ff7-859e-40a4-b2fe-04645002d55a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Hana Bank Buys 6.55% of Upbit Parent Dunamu in $670M Crypto Push",
+    "summary": "1. Hana Bank has acquired a 6.55% stake in Dunamu, the operator of South Korea’s largest crypto exchange, Upbit.\n2. The deal marks one of the clearest signs yet that major Korean banks are moving deeper into digital assets.\n3. Kakao Sells $670M Dunamu Stake to Hana Bank Hana Bank has agreed to acquire a significant stake in […]",
+    "url": "https://news.bitcoin.com/hana-bank-buys-6-55-of-upbit-parent-dunamu-in-670m-crypto-push/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-05-16T11:30:19.000Z"
+  },
+  {
+    "id": "77dd1ee5-a8bb-4f7a-a82d-51acc8164120",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
+    "summary": "1. The token jumped 5% after a Senate committee moved the market-structure bill forward, reviving hopes that legal clarity can pull deeper institutional money into XRP products.",
+    "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-16T11:30:00.000Z"
+  },
+  {
+    "id": "c6600b8d-f948-435d-9d70-1c4da2af9696",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Italy's largest bank boosts crypto ETF holdings to $235M",
+    "summary": "Italy's largest bank, Intesa Sanpaolo, expanded its cryptocurrency investments in the first quarter, holding $235 million in crypto-related ETFs as of March 31, Wu Blockchain reported. The figure represents more than double the $100 million held in the fourth quarter of last year.",
+    "url": "https://t.me/CoinnessGL#f10cc4af",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-16T11:09:10+00:00"
+  },
+  {
+    "id": "a5ce2e4b-fcec-49f0-abe7-e61b8a7a7c09",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Italy’s largest bank Intesa Sanpaolo boosted crypto exposure to roughly $235 million in Q1.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#d4239e55",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-16T10:44:15+00:00"
+  },
+  {
+    "id": "68ab05c7-e5d5-447c-9fc0-ad94302dad47",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "$115 million worth of futures liquidated in the past hour",
+    "summary": "Major exchanges have seen $115 million worth of futures liquidated in the past hour. In the past 24 hours, $681 million worth of futures have been liquidated.",
+    "url": "https://t.me/CoinnessGL#3295426b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-16T10:11:08+00:00"
+  },
+  {
+    "id": "25bb4ac3-b29f-4447-9983-d67e406904a6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "MiCA Decoded: Thinking a CASP License Covers Payments, Perps or Futures is a Major Mistake",
+    "summary": "1. Most founders pursuing a MiCA license assume they are solving their EU regulatory problem.\n2. They are solving part of it.\n3. The rest depends on which services they actually offer.",
+    "url": "https://news.bitcoin.com/mica-decoded-thinking-a-casp-license-covers-payments-perps-or-futures-is-a-major-mistake/",
+    "author": "Guest Author",
+    "created_at": "2026-05-16T10:05:17.000Z"
+  },
+  {
+    "id": "54a63e65-9e7f-4ce5-98b9-f29d97b179a9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
+    "summary": "1. THORChain has launched a recovery portal following a $10 million exploit, allowing affected users across four chains to revoke malicious approvals and claim refunds.",
+    "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-16T09:47:44.000Z"
+  },
+  {
+    "id": "94d259ca-f11a-4bda-b4bd-5fdaf75efa71",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 CZ says each person should eventually have thousands of AI agents working for them.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#576c3743",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-16T09:34:09+00:00"
+  },
+  {
+    "id": "af3451ef-c1e5-4043-8021-69a215806e59",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Bitcoin falls under $78,000@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#fc910507",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-16T09:23:44+00:00"
+  },
+  {
+    "id": "84c7b00b-a1e4-4ba4-98a9-cefc5b4c1f05",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+    "summary": "1. The rest of the world is “really closely” watching the US CLARITY Act as the nation moves further away from the previous “hostile stance,” according to Sharplink’s chief.",
+    "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ciaran Lyons",
+    "created_at": "2026-05-16T09:00:52.000Z"
+  },
+  {
+    "id": "f57a2171-c568-402c-9616-e2064dd576de",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bit Digital Posts $146M Q1 Loss as Ethereum Treasury Tops 155,000 ETH",
+    "summary": "1. Bit Digital reported a $146.7 million quarterly loss as lower ether prices weighed on its balance sheet, while the company continued expanding its ethereum treasury and AI infrastructure strategy.\n2. The firm now holds more than 155,000 ETH and is increasingly shifting away from bitcoin mining.\n3. Bit Digital Expands ETH Treasury to $327M, Staking Income Declines […]",
+    "url": "https://news.bitcoin.com/bit-digital-posts-146m-q1-loss-as-ethereum-treasury-tops-155000-eth/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-05-16T08:30:10.000Z"
+  },
+  {
+    "id": "90d0ca26-e186-4065-9ede-cae26a08ed02",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
+    "summary": "1. Spot Bitcoin ETFs shed $1 billion in a single week as capital rotated toward AI stocks and macro uncertainty weighed on sentiment, ending a six-week run that had pulled in $3.4 billion.",
+    "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-16T08:19:20.000Z"
+  },
+  {
+    "id": "f70be669-52ce-4416-b7d0-a605fa902f5a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇵🇱 Polish lawmakers passed a crypto regulation bill to align with MiCA as prosecutors investigate alleged losses of roughly $96 million involving Poland’s largest crypto exchange.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#426282a5",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-16T07:44:42+00:00"
+  },
+  {
     "id": "3c07e289-f4de-4cac-aed7-8a4ceadc52b0",
     "source": "CoinDesk",
     "type": "rss",
@@ -50,7 +220,7 @@
     "created_at": "2026-05-16T07:05:09.000Z"
   },
   {
-    "id": "d610828c-d334-4821-aafb-1387154e208e",
+    "id": "3e760dd6-dae4-4f70-8b28-7c25dd4e207d",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Kremlin says Putin will pay a visit to China on May 19 and 20.Twitter",
@@ -58,45 +228,5 @@
     "url": "https://t.me/SolidIntelX#c444d5ab",
     "author": "@SolidIntelX",
     "created_at": "2026-05-16T06:48:02+00:00"
-  },
-  {
-    "id": "ff482131-b99a-4bcc-92cb-8b5ab83b1756",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Entain Directly Targets Premier League Clubs Citing ‘Cryptocurrency Reliance’ in Sponsor Ban",
-    "summary": "1. Entain General Counsel Simon Zinger has written directly to six Premier League clubs, urging them to commit to UK-licensed gambling sponsors only for the 2026/27 season, citing Stake’s “heavy reliance on cryptocurrency” and BJ88’s use of “unregulated payment methods like cryptocurrency to evade financial oversight” in letters reported by SBC News today.\n2. Entain’s General Counsel […]",
-    "url": "https://news.bitcoin.com/entain-directly-targets-premier-league-clubs-citing-cryptocurrency-reliance-in-sponsor-ban/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-05-16T05:30:08.000Z"
-  },
-  {
-    "id": "e463e6b5-ddd9-4214-869b-3297938ac4ef",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "OKX Targets South Korea Entry With Proposed 20% Coinone Investment",
-    "summary": "1. OKX and Korea Investment & Securities are reportedly in talks to acquire stakes in South Korean crypto exchange Coinone.\n2. The move could mark a major step in the opening of Korea’s tightly regulated digital asset market to global players.\n3. OKX Explores Strategic Coinone Role as South Korea Rethinks Crypto Rules Global crypto exchange OKX is […]",
-    "url": "https://news.bitcoin.com/okx-targets-south-korea-entry-with-proposed-20-coinone-investment/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-16T04:25:31.000Z"
-  },
-  {
-    "id": "b4fa0605-4cac-4511-9189-0a18e6efebe2",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
-    "summary": "1. Arkham Intelligence data shows that over $1 billion in bitcoin has left wallets attributed to Bhutan in the past year, flowing to exchanges and trading firms.\n2. The country says it has not sold any.",
-    "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-16T02:30:00.000Z"
-  },
-  {
-    "id": "b83ce6be-90cb-4131-bef8-6e42f85ab444",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment",
-    "summary": "1. Santiment warned that the crypto market “typically” moves against crowd expectations, pointing to a recent rise in bullish sentiment driven by renewed momentum around the US CLARITY Act.",
-    "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-05-16T02:13:23.000Z"
   }
 ]
