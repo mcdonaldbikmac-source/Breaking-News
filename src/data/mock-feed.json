@@ -1,132 +1,142 @@
 [
   {
-    "id": "ced7775e-0e07-4006-9b76-e81b4fe7f1fe",
-    "source": "CoinDesk",
+    "id": "7ecf27a6-c174-49a2-859b-b5d167d4996c",
+    "source": "CoinTelegraph",
     "type": "rss",
-    "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
-    "summary": "1. VerifiedX says its Bitcoin sidechain enables programmable, privacy-preserving transactions without synthetic wrappers, targeting growing institutional demand for native DeFi on the original blockchain system.",
-    "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
-    "author": "Jamie Crawley",
-    "created_at": "2026-05-17T12:00:00.000Z"
+    "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
+    "summary": "1. Michael Saylor signaled another Bitcoin buy on Sunday while urging retail investors to vote on a proxy measure enabling semi-monthly STRC dividend payouts.",
+    "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Robert Lakin",
+    "created_at": "2026-05-17T18:01:00.000Z"
   },
   {
-    "id": "11583ca7-b763-4f7e-af13-82b43fe1e054",
+    "id": "198d57dc-5eca-4b06-9dbe-0e26fce54632",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "DeFi Confidence Cracks After KelpDAO Exploit as Aave Suffers 44% Monthly Drop",
+    "summary": "1. Since the $292 million KelpDAO incident, decentralized finance has endured a brutal stretch, with fallout spreading well beyond the initial exploit.\n2. Lending protocol Aave has been among the hardest hit, as its total value locked has fallen 44% during a month that exposed just how fragile confidence across the DeFi sector can become after a […]",
+    "url": "https://news.bitcoin.com/defi-confidence-cracks-after-kelpdao-exploit-as-aave-suffers-44-monthly-drop/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-17T17:30:52.000Z"
+  },
+  {
+    "id": "6880721d-aba4-4bc0-90ec-384dc58919dc",
     "source": "Trump Truth",
     "type": "rss",
     "title": "New post from Donald Trump",
-    "summary": "1. Bad Congressman Tom Massie voted against Tax Cuts, the Border Wall, our Military and Law Enforcement.\n2. Actually, he voted against almost everything that is good.\n3. The Worst Republican Congressman in History.",
-    "url": "https://trumpstruth.org/statuses/38529",
+    "summary": "1. For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them.\n2. TIME IS OF THE ESSENCE!\n3. President DJT",
+    "url": "https://trumpstruth.org/statuses/38531",
     "author": "Trump Truth",
-    "created_at": "2026-05-17T11:58:21.000Z"
+    "created_at": "2026-05-17T16:42:47.000Z"
   },
   {
-    "id": "ddc0cd03-8148-4a81-80c4-4129c46c0208",
-    "source": "CoinDesk",
+    "id": "21e6f8fe-4fc2-4c4a-8711-bf591eb86849",
+    "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
-    "summary": "1. Another 11 companies responded to a survey saying they would consider offering crypto funds once the regulatory environment becomes clear.",
-    "url": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
-    "author": "Sheldon Reback",
-    "created_at": "2026-05-17T11:41:31.000Z"
+    "title": "Infinite Money Glitches, Multicoin’s AAVE Dump, and More – Week in Review",
+    "summary": "1. Coinbase moved deeper into Hyperliquid by taking the USDC treasury deployer role, while HYPE jumped on the platform’s shift toward a more unified stablecoin setup.\n2. Strategy’s STRC preferred stock hit record trading volume, reinforcing Michael Saylor’s bitcoin funding machine.\n3. In Washington, Kevin Warsh was confirmed as Fed chair and the CLARITY Act advanced in the […]",
+    "url": "https://news.bitcoin.com/infinite-money-glitches-multicoins-aave-dump-and-more-week-in-review/",
+    "author": "Alex Richardson",
+    "created_at": "2026-05-17T16:36:36.000Z"
   },
   {
-    "id": "66384b52-e548-4441-9208-71876b50c7e8",
+    "id": "e355ea76-853b-4349-b49e-d0dbba3fe6bc",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "summary": "1. It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+    "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "author": "Anthony Ha",
+    "created_at": "2026-05-17T16:32:04.000Z"
+  },
+  {
+    "id": "9e566dba-ee72-4671-9715-91ce9917c3fd",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "summary": "1. Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-05-17T16:05:00.000Z"
+  },
+  {
+    "id": "bbe38e29-2a68-401a-871f-26de8b992587",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Massie vs. Gallrein: Prediction Markets Bet $5.5M on the Most Expensive US House Primary Ever",
+    "summary": "1. Prediction market traders have placed more than $5.5 million in combined volume on the Kentucky 4th Congressional District Republican primary, with challenger Ed Gallrein holding a narrow edge over seven-term incumbent Rep.\n2. Thomas Massie ahead of Tuesday’s vote.\n3. Gallrein Pulls Ahead of Massie on Polymarket and Kalshi in Kentucky House Race On Polymarket, the KY-04 […]",
+    "url": "https://news.bitcoin.com/massie-vs-gallrein-prediction-markets-bet-5-5m-on-the-most-expensive-us-house-primary-ever/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-17T15:30:10.000Z"
+  },
+  {
+    "id": "05e13367-eaba-405a-a155-ad124f4e5eb8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+    "summary": "1. Investing in the real world was lonely for Lior Susan 10 years ago.\n2. Now his firm finds itself at the center of the tech world's action.",
+    "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+    "author": "Marina Temkin",
+    "created_at": "2026-05-17T15:00:00.000Z"
+  },
+  {
+    "id": "96ea260a-d979-4779-a156-0c4d0c28f2aa",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-05-17T14:00:00.000Z"
+  },
+  {
+    "id": "69965cc9-485d-49ec-8bf9-80b85280342a",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor hints at buying more Bitcoin.\"₿ig Dot Energy.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#f41dc93e",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-17T13:31:25+00:00"
+  },
+  {
+    "id": "f69d128d-0f43-4e42-95c7-84efb1e27fda",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ OpenSea CMO Adam Hollander says the next NFT wave will be driven by tokenized Pokémon cards, Rolex watches, tickets, and gaming items.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e1ba5eaf",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-17T13:04:35+00:00"
+  },
+  {
+    "id": "86661057-1071-4eb8-a94c-352cc049d0da",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 With the CLARITY Act now through the Senate Banking Committee, industry advocates expect banks to intensify lobbying ahead of a possible full Senate floor vote within weeks.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#170b2954",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-17T12:44:22+00:00"
+  },
+  {
+    "id": "c28f19e5-2a9d-47e3-9592-4ef620975150",
     "source": "@SolidIntelX",
     "type": "telegram",
-    "title": "China, US and UAE Conduct First Joint Crackdown on Crypto Romance Scams in Dubai dismantling 9 scam compounds and arresting 276 suspectsTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#ac8d19aa",
+    "title": "CUBA HAS ACQUIRED MORE THAN 300 MILITARY DRONES & BEGAN DISCUSSING PLANS TO ATTACK THE U.S.",
+    "summary": "BASE AT GUANTANAMO BAY, U.S. MILITARY VESSELS, ACCORDING TO AXIOSTwitter",
+    "url": "https://t.me/SolidIntelX#13d4443d",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-17T11:19:36+00:00"
+    "created_at": "2026-05-17T12:41:58+00:00"
   },
   {
-    "id": "754ab04c-b655-42e1-bc0e-df9d86cf61bb",
-    "source": "CoinTelegraph",
+    "id": "2566e12c-69ff-4cf9-8a2c-3bfba4db3584",
+    "source": "Trump Truth",
     "type": "rss",
-    "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
-    "summary": "1. Japan’s biggest brokerages are racing to bring crypto investment trusts to retail investors, as regulators move to formally allow crypto-holding funds by 2028.",
-    "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Amin Haqshanas",
-    "created_at": "2026-05-17T10:51:22.000Z"
-  },
-  {
-    "id": "a23bb4e5-68ad-4f1b-9030-64798662423e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 DogeOS founder Jordan Jefferson says Dogecoin is expanding beyond Elon Musk’s influence as the project works to build more onchain activity around DOGE.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4cad3a52",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-17T10:44:03+00:00"
-  },
-  {
-    "id": "2b2ead87-57d8-495a-9ff8-637688b2540e",
-    "source": "r/cryptocurrency",
-    "type": "reddit",
-    "title": "🚀 $SPACE memecoin – my 200 IQ play on the SpaceX IPO",
-    "summary": "1. My entire thesis:  \n\t1.\n2. SpaceX does IPO  \n\t2.\n3. People google “space”  \n\t3.",
-    "url": "https://reddit.com/r/CryptoCurrency/comments/1tflgd3/space_memecoin_my_200_iq_play_on_the_spacex_ipo/",
-    "author": "u/CyberWorldSeven",
-    "created_at": "2026-05-17T10:13:47.000Z"
-  },
-  {
-    "id": "10bc20e5-a3e9-40c7-a4cb-8609131da087",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 TD Cowen has raised its odds of the CLARITY Act becoming law to 40% from one-in-three after the Senate Banking Committee advanced the bill.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#00e9b44a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-17T09:19:16+00:00"
-  },
-  {
-    "id": "c8908515-1b7d-4adb-8aad-effaa4854e4b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?",
-    "summary": "1. While macro pain and Iran war uncertainty drag Bitcoin below $79K, fixed-income market outflows could trigger a medium-term Bitcoin rebound.",
-    "url": "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-05-17T08:50:02.000Z"
-  },
-  {
-    "id": "be9f5da6-ab3e-4769-a89e-3e6d95a04c94",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
-    "summary": "1. Intesa Sanpaolo grew its crypto holdings from $100 million to $235 million in Q1 2026, making first-time moves into Ethereum and XRP while nearly exiting Solana entirely.",
-    "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Amin Haqshanas",
-    "created_at": "2026-05-17T08:31:02.000Z"
-  },
-  {
-    "id": "32181883-1cec-4793-b6bf-cbda38775b3d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Latam Insights: Coinbase Co-Founder Eyes Venezuela as Grupo Salinas Embraces Stablecoins",
-    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, Coinbase co-founder Fred Ersham considers investing in Venezuela, Grupo Salinas partners with Anchorage Digital, and Brazil bans a bank from conducting foreign crypto trades.\n3. Coinbase Co-Founder Meets with US and Venezuelan Officials in […]",
-    "url": "https://news.bitcoin.com/latam-insights-coinbase-co-founder-eyes-venezuela-as-grupo-salinas-embraces-stablecoins/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-17T08:30:49.000Z"
-  },
-  {
-    "id": "f375eb9d-27ef-4740-93a8-e7933b13e007",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
-    "summary": "1. A7A5, the Russia-linked stablecoin built to move money around banking restrictions, says faster trade settlement, yield and regional crypto infrastructure could keep it relevant even if geopolitical tensions ease.",
-    "url": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-17T08:00:00.000Z"
-  },
-  {
-    "id": "414f8557-e8bd-42a1-8432-2e3b856e79ed",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "The $40 Billion Opportunity: Why Nubank and Revolut Are Betting Big on Mexico",
-    "summary": "1. Revolut and Nubank, two large neobanks, are now reaping the benefits of investing in Mexico, reaching milestones suggesting the market has reached an inflection point in the adoption of these alternatives, preferring them over traditional banks.\n2. Mexico Becomes A Hotbed for Alternative Neobanks The Mexican market, with over 90 million adults demanding financial solutions, is […]",
-    "url": "https://news.bitcoin.com/the-40-billion-opportunity-why-nubank-and-revolut-are-betting-big-on-mexico/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-17T06:30:46.000Z"
+    "title": "New post from Donald Trump",
+    "summary": "1. I HOPE EVERYBODY AT REDEDICATE 250 IS HAVING A GOOD TIME.\n2. IF THERE IS ANYTHING I CAN DO TO HELP, JUST HAVE OUR BEAUTIFUL, BOTH INSIDE AND OUT, RACHAEL C.D., GIVE ME A CALL.\n3. I’M BACK FROM CHINA!!!",
+    "url": "https://trumpstruth.org/statuses/38530",
+    "author": "Trump Truth",
+    "created_at": "2026-05-17T12:30:29.000Z"
   }
 ]
