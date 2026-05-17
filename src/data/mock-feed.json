@@ -1,6 +1,36 @@
 [
   {
-    "id": "c78e8c78-d37b-44c1-89c2-a1198f237515",
+    "id": "ced7775e-0e07-4006-9b76-e81b4fe7f1fe",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
+    "summary": "1. VerifiedX says its Bitcoin sidechain enables programmable, privacy-preserving transactions without synthetic wrappers, targeting growing institutional demand for native DeFi on the original blockchain system.",
+    "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
+    "author": "Jamie Crawley",
+    "created_at": "2026-05-17T12:00:00.000Z"
+  },
+  {
+    "id": "11583ca7-b763-4f7e-af13-82b43fe1e054",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Bad Congressman Tom Massie voted against Tax Cuts, the Border Wall, our Military and Law Enforcement.\n2. Actually, he voted against almost everything that is good.\n3. The Worst Republican Congressman in History.",
+    "url": "https://trumpstruth.org/statuses/38529",
+    "author": "Trump Truth",
+    "created_at": "2026-05-17T11:58:21.000Z"
+  },
+  {
+    "id": "ddc0cd03-8148-4a81-80c4-4129c46c0208",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
+    "summary": "1. Another 11 companies responded to a survey saying they would consider offering crypto funds once the regulatory environment becomes clear.",
+    "url": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
+    "author": "Sheldon Reback",
+    "created_at": "2026-05-17T11:41:31.000Z"
+  },
+  {
+    "id": "66384b52-e548-4441-9208-71876b50c7e8",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "China, US and UAE Conduct First Joint Crackdown on Crypto Romance Scams in Dubai dismantling 9 scam compounds and arresting 276 suspectsTwitter",
@@ -20,7 +50,7 @@
     "created_at": "2026-05-17T10:51:22.000Z"
   },
   {
-    "id": "23099572-1fb6-4315-84e4-a7640d9ab4f9",
+    "id": "a23bb4e5-68ad-4f1b-9030-64798662423e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 DogeOS founder Jordan Jefferson says Dogecoin is expanding beyond Elon Musk’s influence as the project works to build more onchain activity around DOGE.",
@@ -40,7 +70,7 @@
     "created_at": "2026-05-17T10:13:47.000Z"
   },
   {
-    "id": "4e77c9e3-9e2e-43c2-8e5f-89210b907ce0",
+    "id": "10bc20e5-a3e9-40c7-a4cb-8609131da087",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 TD Cowen has raised its odds of the CLARITY Act becoming law to 40% from one-in-three after the Senate Banking Committee advanced the bill.",
@@ -98,25 +128,5 @@
     "url": "https://news.bitcoin.com/the-40-billion-opportunity-why-nubank-and-revolut-are-betting-big-on-mexico/",
     "author": "Sergio Goschenko",
     "created_at": "2026-05-17T06:30:46.000Z"
-  },
-  {
-    "id": "2e4ad8f6-f7c0-474b-9a02-a50aedca2765",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Brazil Crypto Seizures Skyrocket 600% to $14 Million in 2025",
-    "summary": "1. According to local media, the use of cryptocurrency for illicit purposes has skyrocketed in Brazil, with criminal groups leveraging it for money laundering purposes.\n2. The number reached 71 million reais (nearly $14 million) of 505 billion reais ($100 billion) that circulated in Brazil in 2025.\n3. Brazil Registers Large Rise In Illegal Cryptocurrency Seizures Brazil, one […]",
-    "url": "https://news.bitcoin.com/brazil-crypto-seizures-skyrocket-600-to-14-million-in-2025/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-17T05:30:44.000Z"
-  },
-  {
-    "id": "1da1bac9-76c0-4f42-bfb7-703d3307e212",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
-    "summary": "1. Strategy executive chairman Michael Saylor said that continuing to use the “never sell” Bitcoin mantra could ultimately undermine the very asset his company is built around.",
-    "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-05-17T05:27:23.000Z"
   }
 ]
