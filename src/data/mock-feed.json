@@ -1,6 +1,106 @@
 [
   {
-    "id": "0c6e6ae3-67bd-4741-a917-83dba86daa17",
+    "id": "02b76c79-08e6-475a-b748-e2ccabf6b1fc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Pump.fun transfers $7.76M in SOL to Kraken",
+    "summary": "Pump.fun has transferred 91,708 SOL, worth approximately $7.76 million, to Kraken, Onchain Lens reported. This brings the total amount of Solana moved to the exchange today to 174,400 SOL, valued at around $14.76 million.",
+    "url": "https://t.me/CoinnessGL#441aecc2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T14:57:19+00:00"
+  },
+  {
+    "id": "dd21cbb7-a877-479d-a088-351ef7852684",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "summary": "1. Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "author": "Lauren Forristal",
+    "created_at": "2026-05-18T14:56:47.000Z"
+  },
+  {
+    "id": "03146e65-ae83-46af-83a7-85d898ff04a1",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Galaxy Receives BitLicense From New York State Department of Financial Services",
+    "summary": "1. Galaxy has obtained a BitLicense from the New York State Department of Financial Services, regulatory approval to operate a cryptocurrency business in the state.",
+    "url": "https://thedefiant.io/converge/regulation/galaxy-receives-bitlicense-nydfs-n4omxc",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-18T14:54:48.000Z"
+  },
+  {
+    "id": "4767a8b3-d6b9-4f78-8ee6-9e2d3745d5c1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Tether invests in remittance fintech LemFi to expand USDT settlement across Africa and Asia",
+    "summary": "1. Founded in 2021, LemFi says it has over 1 million customers and is backed by Y-Combinator, with $85 million raised.",
+    "url": "https://www.theblock.co/post/401666/tether-invests-remittance-fintech-lemfi-expand-usdt-settlement-africa-asia?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-05-18T14:53:54.000Z"
+  },
+  {
+    "id": "f4117407-01ab-4a83-93f0-422f9fb72ca4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitmine Buys 71,672 ETH in One Week as Tom Lee Targets 5% of Ethereum Supply",
+    "summary": "1. Bitmine Immersion Technologies now holds 5.28 million ethereum tokens worth more than $11.5 billion, putting the company within reach of controlling 5% of the entire ETH supply.\n2. Tom Lee Says Bitmine Will Hit 5% of ETH Supply Sometime in 2026 The Norwalk, Conn.-based company reported the figures as of May 18, 2026, disclosing total crypto, […]",
+    "url": "https://news.bitcoin.com/bitmine-buys-71672-eth-in-one-week-as-tom-lee-targets-5-of-ethereum-supply/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-18T14:52:41.000Z"
+  },
+  {
+    "id": "e978893b-daed-4938-9073-577f77870ef5",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Leverages Preferred Stock Issuance for $2 Billion Bitcoin Buy",
+    "summary": "1. Strategy purchased 24,869 Bitcoin last week for $2 billion, channeling billions of dollars that came from its flagship preferred stock.",
+    "url": "https://decrypt.co/368170/strategy-preferred-stock-issuance-2-billion-bitcoin-buy",
+    "author": "André Beganski",
+    "created_at": "2026-05-18T14:50:13.000Z"
+  },
+  {
+    "id": "3d63c780-fa13-48f6-bdc3-49a254edd370",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto market declines as rate cut hopes weaken, analyst says",
+    "summary": "The cryptocurrency market, including Bitcoin, has seen a downturn as expectations for a rate cut under new Fed Chairman Kevin Warsh have diminished, Walter Bloomberg noted in a post on X. BTC has fallen about 2% to around $76,660 after hitting a high of $82,000 last week, with the market now watching the $78,000 level as key support.Bloomberg added that inflows into spot Bitcoin ETFs are also slowing. He emphasized that data from prediction market Kalshi indicates a 34.3% probability of a Fed rate cut before 2027, reinforcing a \"higher for longer\" outlook in the market.",
+    "url": "https://t.me/CoinnessGL#9e52819c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T14:49:21+00:00"
+  },
+  {
+    "id": "cf6584a3-a52e-4fad-8741-9feb169f7795",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The worst Congressman in the long and storied history of the Republican Party, is Thomas Massie.\n2. He is an obstructionist and a fool.\n3. Vote him out of office tomorrow, Tuesday.",
+    "url": "https://trumpstruth.org/statuses/38569",
+    "author": "Trump Truth",
+    "created_at": "2026-05-18T14:47:44.000Z"
+  },
+  {
+    "id": "8de8f6b5-e2ea-4d17-ae77-4c50f13026eb",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom",
+    "summary": "1. Hyperliquid’s HYPE token has jumped as its HIP-3 pre-IPO perp marketplace heats up ahead of a series of high-profile tech IPOs.",
+    "url": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
+    "author": "Akash Girimath",
+    "created_at": "2026-05-18T14:46:25.000Z"
+  },
+  {
+    "id": "d04668fc-2763-42ea-b97e-1e0e4c37242e",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Minnesota Governor signs bill allowing banks and credit unions to offer crypto custody services.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#4dbb0f5c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-18T14:46:23+00:00"
+  },
+  {
+    "id": "b12e63ac-7d85-420c-81e7-53a885ba8ab6",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Nearly two-thirds of stablecoin payment volume originates in Asia",
@@ -100,7 +200,7 @@
     "created_at": "2026-05-18T14:02:05.000Z"
   },
   {
-    "id": "2a3264c1-8e81-418d-98c1-1a598d84600c",
+    "id": "36716dfd-0dd3-45dd-802f-435e60350f65",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "IRANIAN VESSEL PASSES THROUGH US BLOCKADE, IRAN SAYSTwitter",
@@ -120,7 +220,7 @@
     "created_at": "2026-05-18T13:47:48.000Z"
   },
   {
-    "id": "a63a11b0-233e-466e-b61d-65bd1b458d06",
+    "id": "9a85347c-22e1-46e1-b618-24588a7e195d",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US shows flexibility on Iran nuclear limits but offers only phased access to 25% of frozen funds, while Tehran demands full release and pushes nuclear talks to later stagesTwitter",
@@ -170,7 +270,7 @@
     "created_at": "2026-05-18T13:41:24.000Z"
   },
   {
-    "id": "b71bfbfe-b39b-4a33-bad3-975e10413d66",
+    "id": "823f6468-fcb8-4b38-9730-d887c657b037",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump moves to withdraw his $10 billion lawsuit against the IRS.@WatcherGuru",
@@ -230,6 +330,16 @@
     "created_at": "2026-05-18T13:17:36.000Z"
   },
   {
+    "id": "1fabd3cd-a115-4b47-abd2-bdbdcf746e5d",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance &amp; wallet blacklist checker",
+    "summary": "1. I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance & wallet blacklist checker",
+    "url": "https://reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/",
+    "author": "u/jimbobbins",
+    "created_at": "2026-05-18T13:10:42.000Z"
+  },
+  {
     "id": "cfb5fefd-67ac-4897-be76-99df9cc927ef",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -240,7 +350,7 @@
     "created_at": "2026-05-18T13:04:59.000Z"
   },
   {
-    "id": "c2744900-f63d-4041-a0dd-f8364ab09119",
+    "id": "d8093583-212c-4a07-888a-684fd5018ef2",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇮🇷 Iran launches Bitcoin-backed insurance service for shipping companies wanting to transit the Strait of Hormuz.@WatcherGuru",
@@ -250,7 +360,7 @@
     "created_at": "2026-05-18T12:44:10+00:00"
   },
   {
-    "id": "edb8209c-88d5-4923-8430-b5afbb351712",
+    "id": "087fafd8-e754-4b23-9a84-4f295a69e960",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BitMine $ETH holdings rise to 5.28M worth $12.6B after adding 73,200 tokens last week, taking stake to 4.37% of supplyTwitter",
@@ -300,7 +410,7 @@
     "created_at": "2026-05-18T12:05:32.000Z"
   },
   {
-    "id": "f2ae685a-28cb-4acb-819a-21349fc73e4c",
+    "id": "38d20241-2ce0-4522-b962-1fe866c6943f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ The US Senate’s crypto market structure bill must pass by August or risk stalling until after the midterms, when the legislative environment could shift significantly, NYDIG says.",
@@ -310,7 +420,7 @@
     "created_at": "2026-05-18T12:05:19+00:00"
   },
   {
-    "id": "8445b8ea-f24c-4c5c-b85f-9d5df7070435",
+    "id": "1f223df7-9adc-4a8c-9f16-78758d9c2649",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "👀 Top Crypto Fundraising Last Week1️⃣ Dunamu (Upbit Operator) - $670M; CEX2️⃣...",
@@ -340,6 +450,16 @@
     "created_at": "2026-05-18T11:20:51.000Z"
   },
   {
+    "id": "23441819-3930-4e76-a46a-69cb3e609f66",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Iran Introduces Bitcoin-Based Maritime Insurance Platform for Hormuz Shipping",
+    "summary": "1. Iran rolled out something called Hormuz Safe...\n2. a state-backed maritime insurance setup for vessels operating in the Persian Gulf and Strait of Hormuz.\n3. Payments and settlements can be done with Bitcoin and other crypto.",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tgje7w/iran_introduces_bitcoinbased_maritime_insurance/",
+    "author": "u/Feisty-Rhubarb-6718",
+    "created_at": "2026-05-18T11:12:34.000Z"
+  },
+  {
     "id": "f567ca67-e2e3-4768-917c-19c831e838b4",
     "source": "TechCrunch",
     "type": "rss",
@@ -348,5 +468,15 @@
     "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
     "author": "Kate Park",
     "created_at": "2026-05-18T11:00:00.000Z"
+  },
+  {
+    "id": "75220c95-0405-4be1-8804-f28d75c28153",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Moons getting delisted from kraken",
+    "summary": "1. Moons getting delisted from kraken",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tgigff/moons_getting_delisted_from_kraken/",
+    "author": "u/Froeztie",
+    "created_at": "2026-05-18T10:27:26.000Z"
   }
 ]
