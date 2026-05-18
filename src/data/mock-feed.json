@@ -1,5 +1,55 @@
 [
   {
+    "id": "bca84ab6-511e-49e3-9fc0-80e9b741d27b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Crypto Owners Forced at Gunpoint to Unlock Accounts in $6.5M Robbery Spree",
+    "summary": "1. A delivery-worker ruse escalated into a violent cryptocurrency robbery case involving firearms, restraints, and an alleged gunpoint transfer of approximately $6.5 million from a victim’s accounts.\n2. Delivery Disguises and Gunpoint Crypto Transfers Detailed A federal grand jury indicted Elijah Armstrong, Nino Chindavanh, and Jayden Rucker on robbery, kidnapping, and conspiracy charges tied to a violent […]",
+    "url": "https://news.bitcoin.com/crypto-owners-forced-at-gunpoint-to-unlock-accounts-in-6-5m-robbery-spree/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-18T01:30:30.000Z"
+  },
+  {
+    "id": "47f89d76-92a3-4f8e-a968-8bc2a0d63d1a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale address sells another $15.46M in WBTC",
+    "summary": "A Bitcoin whale address starting with 0xB4d has sold an additional $15.46 million worth of WBTC, according to on-chain analyst ai_9684 xtpa. This brings the address's cumulative sales over the past three days to $35.73 million. The address, known for its frequent interactions with block builder Titan builder, still holds approximately $125 million in on-chain assets. About 95% of these holdings are reportedly in ETH and WBTC.",
+    "url": "https://t.me/CoinnessGL#1bc3655e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T01:30:22+00:00"
+  },
+  {
+    "id": "44080037-5c3d-4df4-ba12-af21dcaa87d6",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Verus Ethereum bridge suffers suspected hack, $11.58M in losses",
+    "summary": "The Verus Ethereum cross-chain bridge has been targeted in a suspected hack, resulting in approximately $11.58 million in losses, Blockaid reported on X.",
+    "url": "https://t.me/CoinnessGL#1b8894c9",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T01:21:35+00:00"
+  },
+  {
+    "id": "75cefd16-e36c-4c01-b124-d72d008d1e3a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance Research says four on-chain indicators show weakening BTC sell pressure",
+    "summary": "Binance Research has analyzed four on-chain indicators suggesting that selling pressure on Bitcoin is weakening. The firm pointed to several factors:- Over 60% of addresses have held BTC for more than one year.- Long-term holders are dominating the market.- The supply of BTC on exchanges is decreasing.- Short-term holders have moved out of unprofitable positions.The analysis notes that the amount of dormant supply is at an all-time high, speculative short-term traders have largely exited the market, and a recent partial price recovery has allowed short-term holders to return to profitability, alleviating sell-side pressure.Binance Research added that these indicators suggest a low probability of new selling pressure emerging, concluding that the current market phase exhibits a typical pattern often seen before a sustained rebound.",
+    "url": "https://t.me/CoinnessGL#de39f659",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T01:20:38+00:00"
+  },
+  {
+    "id": "db741cd3-b903-4054-9d35-231fe0fa1c92",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Why Is XRP Unique? Ripple CEO Explains What Makes XRP Stand Out",
+    "summary": "1. Ripple CEO Brad Garlinghouse shared why he sees XRP as unique, pointing to its speed, low cost, scalability, and long-running community support.\n2. He cited three-to-five-second settlement, fractions-of-a-penny transaction costs, and more than 4 billion completed transactions.\n3. XRP’s Role in Payments Expands as Ripple Cites Network Strength Ripple CEO Brad Garlinghouse positioned XRP as a distinct […]",
+    "url": "https://news.bitcoin.com/why-is-xrp-unique-ripple-ceo-explains-what-makes-xrp-stand-out/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-18T00:30:06.000Z"
+  },
+  {
     "id": "7e58f130-b09c-4d95-b69f-41588afe2945",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -50,7 +100,7 @@
     "created_at": "2026-05-18T00:01:03.000Z"
   },
   {
-    "id": "fa0f22e2-468e-4f88-884c-0e8e75e49c8b",
+    "id": "77f288bc-9644-4776-bf00-66b2af89eaaf",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "$600,000,000 liquidated from the crypto market in the past 60 minutes.@WatcherGuru",
@@ -60,7 +110,17 @@
     "created_at": "2026-05-17T23:51:48+00:00"
   },
   {
-    "id": "5487a7fb-13de-41d4-bdff-afb09f93fa71",
+    "id": "622ae303-0c58-4424-b0c6-f25616e5bc68",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Michael Saylor hinted at another Strategy Bitcoin buy while urging STRC shareholders to vote on semi-monthly dividends before the June 8 deadline.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4e3cfbec",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-17T23:49:46+00:00"
+  },
+  {
+    "id": "58dbc1b8-badf-4f06-a89e-295f7a5c04c2",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Bitcoin falls under $77,000@WatcherGuru",
@@ -88,6 +148,16 @@
     "url": "https://news.bitcoin.com/crypto-payments-app-oobit-expands-to-colombia-after-explosive-200-growth-in-brazil/",
     "author": "Sergio Goschenko",
     "created_at": "2026-05-17T22:31:39.000Z"
+  },
+  {
+    "id": "60f5a700-b8ba-4b7b-ae99-7f08afffbc51",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-05-17T22:30:00.000Z"
   },
   {
     "id": "802329f1-feac-4add-9a7f-8e3a03a39c8f",
@@ -158,25 +228,5 @@
     "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
     "author": "Anthony Ha",
     "created_at": "2026-05-17T19:46:34.000Z"
-  },
-  {
-    "id": "833b755f-45c8-4dd0-92a5-2a0f1bfea778",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Japan’s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
-    "summary": "1. The push comes after Japan's cabinet approved a bill last month that would reclassify crypto under the Financial Instruments and Exchange Act.",
-    "url": "https://www.theblock.co/post/401561/japans-sbi-rakuten-developing-crypto-investment-trusts-in-house-nikkei?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-05-17T18:44:53.000Z"
-  },
-  {
-    "id": "7520eb81-e64a-4d5d-b361-9f11902f6ae7",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "The Clarity Act took a step forward: State of Crypto ",
-    "summary": "1. Unpacking Thursday's at-times contentious markup hearing.",
-    "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
-    "author": "Nikhilesh De",
-    "created_at": "2026-05-17T18:30:00.000Z"
   }
 ]
