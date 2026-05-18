@@ -1,5 +1,125 @@
 [
   {
+    "id": "9ffef7e2-92e8-4759-bda8-8fe682e7a88f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Elliptic CEO: AI trading surge creating a crypto security arms race",
+    "summary": "The expansion of AI agent-based financial trading is pushing existing crypto compliance systems to their limits, according to blockchain analytics firm Elliptic. In an interview with CoinDesk, Elliptic CEO Simone Maini said that agent-based commerce will cause an exponential increase in transactions requiring monitoring, a volume that current compliance staff cannot handle. To address this, Elliptic plans to build an \"AI agent-type\" compliance system to automate transaction monitoring and investigation. The company raised $120 million in a new funding round on May 12, backed by Deutsche Bank and Nasdaq's venture arm. CoinDesk noted that as AI technology also fuels an increase in hacker attacks, the crypto security landscape is turning into an arms race.",
+    "url": "https://t.me/CoinnessGL#b903614a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T07:30:56+00:00"
+  },
+  {
+    "id": "f7107196-d39f-419f-a683-e3ac509f24c0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Flash Crash: Price Slides Below $77K, Triggering $657 Million in Crypto Liquidations",
+    "summary": "1. Bitcoin fell below $77,000 on Monday, extending a four-day losing streak, triggering $657 million in total liquidations across crypto markets in 24 hours, with long positions bearing the brunt of the pain.\n2. BTC Flash Crash Wipes $584 Million in Longs Bitcoin’s latest decline pushed the asset below the $77,000 mark for the fourth consecutive day […]",
+    "url": "https://news.bitcoin.com/bitcoin-77000-657-million-liquidations-machi-big-brother-may-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-18T07:30:19.000Z"
+  },
+  {
+    "id": "ad95aff7-1fa1-4a24-baa6-f0add371200c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analyst: Rising bond yields weaken ETH staking, price may remain range-bound",
+    "summary": "Ethereum's price is heavily influenced by spot ETF fund flows, according to an analysis by 10x Research CEO Markus Thielen. He noted a high correlation over the past year between the price of ETH and the 30-day moving average of daily net inflows into its spot ETFs, establishing institutional capital as a key variable. However, Thielen explained that with U.S. 10-year Treasury yields exceeding 4.6% amid rising inflation, the appeal of Ethereum's approximate 2.5% staking yield is relatively diminishing. As ETH spot ETFs have reverted to net outflows in May, he suggested that if this trend persists, the price of ETH is likely to remain range-bound without a clear direction for the time being.",
+    "url": "https://t.me/CoinnessGL#3eff30b0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T07:28:16+00:00"
+  },
+  {
+    "id": "bbc327f2-da35-4d35-b9b4-46dda4be1cac",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "a16z-linked address buys an additional $16.9M in HYPE",
+    "summary": "An address associated with leading Silicon Valley venture capital firm Andreessen Horowitz (a16z) has purchased an additional 372,000 HYPE ($16.91 million) over the past three hours, Lookonchain reported. The address has now bought a total of 2.11 million HYPE ($90.87 million) since April 14.",
+    "url": "https://t.me/CoinnessGL#7340d467",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T07:20:41+00:00"
+  },
+  {
+    "id": "709c8add-72dd-4eaf-9457-802b81caebda",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto security is turning into an AI arms race as agents may overwhelm compliance teams",
+    "summary": "1. AI agents and automated payments could reach a scale that crypto monitoring systems built for human-paced markets cannot handle, Elliptic CEO Simone Maini warned.",
+    "url": "https://www.coindesk.com/tech/2026/05/18/crypto-security-is-turning-into-an-ai-arms-race-as-agents-may-overwhelm-compliance-teams",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-05-18T07:13:08.000Z"
+  },
+  {
+    "id": "e8101f62-d06c-4646-87b1-58405b295623",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Aave restores ether borrowing limits after $230 million exploit",
+    "summary": "1. The DeFi lending protocol reversed restrictions imposed after April’s $292 million exploit, restoring borrowing capacity across six networks as contagion fears ease.",
+    "url": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-18T07:05:20.000Z"
+  },
+  {
+    "id": "2fcd1a35-0709-42e5-ab72-d51dcd31c151",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Surging oil prices have been driving Ether selling pressure: Tom Lee",
+    "summary": "1. Fundstrat's Tom Lee pointed out an inverse correlation between crude and Ether as oil surged back to around $110 on Monday.",
+    "url": "https://cointelegraph.com/news/surging-oil-prices-key-driver-of-eth-selling-pressure-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-05-18T07:02:06.000Z"
+  },
+  {
+    "id": "2fe1490d-e91c-4b44-95f2-3364ff983326",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
+    "summary": "1. Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy.",
+    "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-18T06:55:50.000Z"
+  },
+  {
+    "id": "5c10f156-8912-4ef9-9958-db12fe488aea",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Reports suggest Iran is mulling Hormuz ‘insurance’ scheme, paid in Bitcoin",
+    "summary": "1. Screenshots of a website called “Hormuz Safe” have been circulating on social media, which offers “digital insurance” for ships passing through the Strait of Hormuz.",
+    "url": "https://cointelegraph.com/news/iran-mulls-platform-for-ships-transiting-strait-of-hormuz-to-pay-in-bitcoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-18T06:53:38.000Z"
+  },
+  {
+    "id": "2d9a6d10-b438-49a6-9da2-119133a6c5c3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Gaming Platform My Pet Hooligan Connects Token Debut to Series Finale",
+    "summary": "1. AMGI Studios recently announced the launch of its native token, HOOLI, for the My Pet Hooligan entertainment franchise, featuring an airdrop on May 18.\n2. Token Utility and Ecosystem Integration Transmedia entertainment franchise My Pet Hooligan recently announced plans to launch its native token, HOOLI, tying the debut to the 30th episode and finale of its […]",
+    "url": "https://news.bitcoin.com/gaming-platform-my-pet-hooligan-connects-token-debut-to-series-finale/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-18T06:30:15.000Z"
+  },
+  {
+    "id": "708f8de6-7f0b-450f-8b73-2456980b13fe",
+    "source": "The Block",
+    "type": "rss",
+    "title": "US crypto ATM operator Bitcoin Depot files for Chapter 11 to wind down business",
+    "summary": "1. Bitcoin Depot said changing regulatory environments have made it difficult to continue its current business model.",
+    "url": "https://www.theblock.co/post/401590/bitcoin-depot-chapter-11?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-18T06:10:05.000Z"
+  },
+  {
+    "id": "01dd473f-6c75-45bc-b13d-2731f76053b5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "What are Real-World Assets (RWAs)?",
+    "summary": "1. Real-world assets (RWAs) are crypto tokens backed by traditional assets.\n2. Issuers of RWAs take an existing asset — such as gold, fiat currency, stocks or bonds — and create a token representing it on the blockchain, in a process called “tokenization.” The token now represents ownership in the underlying asset, allowing investors to buy and sell […]",
+    "url": "https://www.theblock.co/learn/401094/what-are-real-world-assets-rwas?utm_source=rss&utm_medium=rss",
+    "author": "Callum Howe",
+    "created_at": "2026-05-18T05:36:33.000Z"
+  },
+  {
     "id": "b3b04ad1-1612-4bc2-8fb4-84215508d785",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +128,16 @@
     "url": "https://news.bitcoin.com/clarity-in-a-k-shaped-economy-week-in-review/",
     "author": "Alex Richardson",
     "created_at": "2026-05-18T05:30:36.000Z"
+  },
+  {
+    "id": "8617647d-28f0-47bc-ac39-0412b7a2a563",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Senate crypto bill at risk beyond midterms if not passed by August: NYDIG",
+    "summary": "1. NYDIG’s Greg Cipolaro says the Senate’s crypto market structure bill is at risk of failing if it cannot clear a floor vote by August.",
+    "url": "https://cointelegraph.com/news/senate-crypto-bill-august-advance-in-lame-duck-session-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-05-18T05:23:11.000Z"
   },
   {
     "id": "35bd503e-6ff6-41c2-8f29-35901d3ebf90",
@@ -50,7 +180,7 @@
     "created_at": "2026-05-18T05:06:21.000Z"
   },
   {
-    "id": "b864177a-d8ce-4c82-be56-9dd0a11cc66a",
+    "id": "bcd7cc82-d344-496e-a920-e647fa83af1c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "One of the largest Bitcoin ATM operators in the U.S.",
@@ -150,6 +280,16 @@
     "created_at": "2026-05-18T03:14:18+00:00"
   },
   {
+    "id": "8bba206a-62ee-427a-9488-ccc6ff68c6d8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ droppRWA’s chairman has reportedly secured $12.5B in tokenization mandates for Saudi real-world assets, starting with real estate.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b13d0952",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-18T03:04:44+00:00"
+  },
+  {
     "id": "3e3148c1-cb01-4b66-b3a8-20598ea13bf0",
     "source": "The Block",
     "type": "rss",
@@ -200,7 +340,7 @@
     "created_at": "2026-05-18T02:30:34.000Z"
   },
   {
-    "id": "ae01400e-ac91-4961-9bf4-e796b5d70d90",
+    "id": "3fd0b356-f9ed-424d-b9dd-2a2736503b8d",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Harvard cut its Bitcoin ETF stake by 43% and fully exited its Ethereum position, while Abu Dhabi's Mubadala added roughly $90M in BTC ETF shares in Q1.",
@@ -208,145 +348,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#fe2e6244",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-18T01:59:26+00:00"
-  },
-  {
-    "id": "bca84ab6-511e-49e3-9fc0-80e9b741d27b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto Owners Forced at Gunpoint to Unlock Accounts in $6.5M Robbery Spree",
-    "summary": "1. A delivery-worker ruse escalated into a violent cryptocurrency robbery case involving firearms, restraints, and an alleged gunpoint transfer of approximately $6.5 million from a victim’s accounts.\n2. Delivery Disguises and Gunpoint Crypto Transfers Detailed A federal grand jury indicted Elijah Armstrong, Nino Chindavanh, and Jayden Rucker on robbery, kidnapping, and conspiracy charges tied to a violent […]",
-    "url": "https://news.bitcoin.com/crypto-owners-forced-at-gunpoint-to-unlock-accounts-in-6-5m-robbery-spree/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-18T01:30:30.000Z"
-  },
-  {
-    "id": "47f89d76-92a3-4f8e-a968-8bc2a0d63d1a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale address sells another $15.46M in WBTC",
-    "summary": "A Bitcoin whale address starting with 0xB4d has sold an additional $15.46 million worth of WBTC, according to on-chain analyst ai_9684 xtpa. This brings the address's cumulative sales over the past three days to $35.73 million. The address, known for its frequent interactions with block builder Titan builder, still holds approximately $125 million in on-chain assets. About 95% of these holdings are reportedly in ETH and WBTC.",
-    "url": "https://t.me/CoinnessGL#1bc3655e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T01:30:22+00:00"
-  },
-  {
-    "id": "44080037-5c3d-4df4-ba12-af21dcaa87d6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Verus Ethereum bridge suffers suspected hack, $11.58M in losses",
-    "summary": "The Verus Ethereum cross-chain bridge has been targeted in a suspected hack, resulting in approximately $11.58 million in losses, Blockaid reported on X.",
-    "url": "https://t.me/CoinnessGL#1b8894c9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T01:21:35+00:00"
-  },
-  {
-    "id": "75cefd16-e36c-4c01-b124-d72d008d1e3a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance Research says four on-chain indicators show weakening BTC sell pressure",
-    "summary": "Binance Research has analyzed four on-chain indicators suggesting that selling pressure on Bitcoin is weakening. The firm pointed to several factors:- Over 60% of addresses have held BTC for more than one year.- Long-term holders are dominating the market.- The supply of BTC on exchanges is decreasing.- Short-term holders have moved out of unprofitable positions.The analysis notes that the amount of dormant supply is at an all-time high, speculative short-term traders have largely exited the market, and a recent partial price recovery has allowed short-term holders to return to profitability, alleviating sell-side pressure.Binance Research added that these indicators suggest a low probability of new selling pressure emerging, concluding that the current market phase exhibits a typical pattern often seen before a sustained rebound.",
-    "url": "https://t.me/CoinnessGL#de39f659",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T01:20:38+00:00"
-  },
-  {
-    "id": "1edbd81d-60c7-48de-b7f9-e64c8660b127",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ VanEck and Grayscale filed fresh BNB ETF amendments with the SEC, with an analyst saying BNB could be the next crypto asset to get a US spot ETF.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2c15cf77",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-18T00:54:20+00:00"
-  },
-  {
-    "id": "db741cd3-b903-4054-9d35-231fe0fa1c92",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Why Is XRP Unique? Ripple CEO Explains What Makes XRP Stand Out",
-    "summary": "1. Ripple CEO Brad Garlinghouse shared why he sees XRP as unique, pointing to its speed, low cost, scalability, and long-running community support.\n2. He cited three-to-five-second settlement, fractions-of-a-penny transaction costs, and more than 4 billion completed transactions.\n3. XRP’s Role in Payments Expands as Ripple Cites Network Strength Ripple CEO Brad Garlinghouse positioned XRP as a distinct […]",
-    "url": "https://news.bitcoin.com/why-is-xrp-unique-ripple-ceo-explains-what-makes-xrp-stand-out/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-18T00:30:06.000Z"
-  },
-  {
-    "id": "7e58f130-b09c-4d95-b69f-41588afe2945",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Key global macroeconomic events for the third week of May",
-    "summary": "The following are the key global macroeconomic events scheduled for the third week of May. All times are in UTC.- May 19, 12:00 p.m.: Speech by U.S. Federal Reserve (Fed) Governor Waller- May 19, 12:15 p.m.: U.S. ADP Weekly Employment Change report- May 20, 1:00 a.m.: People's Bank of China May Loan Prime Rate- May 20, 1:15 p.m.: Speech by Fed Vice Chair for Supervision Barr- May 20, 2:30 p.m.: U.S. crude oil inventories- May 20, 6:00 p.m.: Fed meeting minutes- May 21, 12:30 p.m.: U.S. initial jobless claims- May 21, 1:45 p.m.: U.S. May Manufacturing and Services Purchasing Managers' Index (PMI)- May 21, 8:30 p.m.: Fed balance sheet- May 22, 2:00 p.m.: Speech by Fed Governor Waller",
-    "url": "https://t.me/CoinnessGL#dbe8e7fb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T00:09:49+00:00"
-  },
-  {
-    "id": "d274ea81-f309-451e-918f-33c7ae75c237",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Oil Perps Hit $106 on Hyperliquid, Bitcoin Falls Below $77K as Trump Warns Iran: ‘Clock Is Ticking’",
-    "summary": "1. President Donald Trump issued a stark warning to Iran on Sunday, telling the country its time is running out as U.S.-Iran ceasefire talks stall and oil futures hold above $100 per barrel.\n2. Oil Prices Stay Above $100 as Trump Warns Iran Time Is Running Out on Ceasefire Deal Trump posted the statement on Truth Social […]",
-    "url": "https://news.bitcoin.com/oil-perps-hit-106-on-hyperliquid-bitcoin-falls-below-77k-as-trump-warns-iran-clock-is-ticking/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-18T00:09:00.000Z"
-  },
-  {
-    "id": "05991528-8802-4482-9f07-2427db401d11",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump warns Iran time is running out, hints at renewed military action",
-    "summary": "U.S. President Donald Trump has warned Iran that time is running out for negotiations and signaled the possibility of further military action, Axios reported. In an interview with the outlet, Trump said the clock is ticking for Iran and that the regime will face a much stronger attack if it does not present a better deal. Axios added that while Trump wants a peace agreement, the military option is being reconsidered because Iran has rejected many U.S. demands and has not made concessions regarding its nuclear program.",
-    "url": "https://t.me/CoinnessGL#73a2701c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T00:08:53+00:00"
-  },
-  {
-    "id": "82a51b3e-af28-4f09-bd1d-8c6991453790",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Shapeshift founder buys an additional $5.68M in ETH",
-    "summary": "A whale address, believed to belong to the founder of crypto exchange Shapeshift and an early Bitcoin supporter, has purchased 2,656 ETH for 5.68 million USDC, according to Onchain Lens. The whale now holds a total of 129,667 ETH, valued at $274.78 million.",
-    "url": "https://t.me/CoinnessGL#59d48a6d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T00:08:41+00:00"
-  },
-  {
-    "id": "f9b1f341-e5f8-4366-9b51-1f3a60e3a23b",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch",
-    "summary": "1. The exchange’s KuCard rollout enables users to make \"seamless payments\" to Mastercard merchants using USDC.",
-    "url": "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
-    "author": "Decrypt Staff",
-    "created_at": "2026-05-18T00:01:03.000Z"
-  },
-  {
-    "id": "4424287c-e200-440e-8ca1-004da2464194",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$600,000,000 liquidated from the crypto market in the past 60 minutes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1c411314",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-17T23:51:48+00:00"
-  },
-  {
-    "id": "3d0e1006-329d-4299-9f70-2ba2fdf8df3a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Michael Saylor hinted at another Strategy Bitcoin buy while urging STRC shareholders to vote on semi-monthly dividends before the June 8 deadline.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4e3cfbec",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-17T23:49:46+00:00"
-  },
-  {
-    "id": "b42433c6-012e-4505-a9e9-f43eaebc8e66",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Bitcoin falls under $77,000@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c85c5561",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-17T23:46:36+00:00"
   }
 ]
