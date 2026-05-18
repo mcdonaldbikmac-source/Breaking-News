@@ -1,352 +1,352 @@
 [
   {
-    "id": "9ffef7e2-92e8-4759-bda8-8fe682e7a88f",
+    "id": "0c6e6ae3-67bd-4741-a917-83dba86daa17",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "Elliptic CEO: AI trading surge creating a crypto security arms race",
-    "summary": "The expansion of AI agent-based financial trading is pushing existing crypto compliance systems to their limits, according to blockchain analytics firm Elliptic. In an interview with CoinDesk, Elliptic CEO Simone Maini said that agent-based commerce will cause an exponential increase in transactions requiring monitoring, a volume that current compliance staff cannot handle. To address this, Elliptic plans to build an \"AI agent-type\" compliance system to automate transaction monitoring and investigation. The company raised $120 million in a new funding round on May 12, backed by Deutsche Bank and Nasdaq's venture arm. CoinDesk noted that as AI technology also fuels an increase in hacker attacks, the crypto security landscape is turning into an arms race.",
-    "url": "https://t.me/CoinnessGL#b903614a",
+    "title": "Nearly two-thirds of stablecoin payment volume originates in Asia",
+    "summary": "Approximately two-thirds of all stablecoin payment volume originates from Asia, with Singapore, Hong Kong, and Japan accounting for the largest shares, Unfolded reported via X. The analysis showed that North America's share is around 25%, while Europe accounts for about 13%. In contrast, the combined transaction volume from Latin America and Africa is less than $1 billion, representing a very limited portion of the overall market.",
+    "url": "https://t.me/CoinnessGL#90513d7b",
     "author": "@CoinnessGL",
-    "created_at": "2026-05-18T07:30:56+00:00"
+    "created_at": "2026-05-18T14:45:19+00:00"
   },
   {
-    "id": "f7107196-d39f-419f-a683-e3ac509f24c0",
+    "id": "f0a3333c-1053-4df3-86b8-1183dcea9bfc",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close.\n2. The Dumacrats and Media have totally lost their way.\n3. They have gone absolutely CRAZY!!!",
+    "url": "https://trumpstruth.org/statuses/38568",
+    "author": "Trump Truth",
+    "created_at": "2026-05-18T14:40:18.000Z"
+  },
+  {
+    "id": "aaf97973-ae7b-4d67-a475-b638fa441fb3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Glassnode: Selling pressure persists with over 7.8M BTC at a loss",
+    "summary": "According to Glassnode, more than 7.8 million BTC are currently in a state of unrealized loss with the price at approximately $76,700. The analytics firm noted that a significant supply overhang from investors who bought near the cycle high remains in the market. Glassnode's analysis suggests that for a structurally sustainable uptrend to form, the market must first absorb this selling pressure.",
+    "url": "https://t.me/CoinnessGL#0b7956da",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T14:39:51+00:00"
+  },
+  {
+    "id": "2dd54205-3c4a-4fd5-9543-ad7578e91be2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Solana core devs recommend Agave 4.0 upgrade for mainnet validators",
+    "summary": "Anza, a core development team for Solana, recommended on May 18 via its official X account that mainnet validators upgrade to Agave 4.0. The upgrade includes XDP for Turbine, QUIC-based TPU data access, replay stage optimization, and SIMD features.Anza explained that tests with large mainnet validators showed Turbine retransmission latency dropped from approximately 600ms to around 0.8ms after implementing XDP. The company stated this provides Solana with the performance headroom to scale to one billion Compute Units (CU) per block.Additionally, Agave 4.0 removes UDP-based transaction access, making QUIC the sole method for transaction submission. The team added that replay performance has been improved by making Proof of History (PoH) verification and Ed25519 signature verification asynchronous.Other SIMD features, such as p-token, Stake Program v5, SBPFv3, prefunded account creation, and the BLS12-381 syscall, are scheduled to be activated in phases.",
+    "url": "https://t.me/CoinnessGL#8ef26d78",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T14:37:00+00:00"
+  },
+  {
+    "id": "d5eedd46-07c7-41ef-ae60-9ff41ee0362f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin gives up all of May's gains, slipping below $77,000",
+    "summary": "1. Strategy made a mammoth $2 billion bitcoin purchase last week, but it's not lifting crypto spirits or prices.",
+    "url": "https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000",
+    "author": "Stephen Alpher",
+    "created_at": "2026-05-18T14:26:44.000Z"
+  },
+  {
+    "id": "43ce2325-d2ed-4457-956d-b6b32516a567",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
+    "summary": "1. The Ethereum co-founder argued that AI-assisted \"formal verification\"  could become one of the most important tools for cybersecurity in a new blog post.",
+    "url": "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-05-18T14:19:58.000Z"
+  },
+  {
+    "id": "330331cc-8316-423d-8643-f5ee8fd9b9e5",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Bitcoin Flash Crash: Price Slides Below $77K, Triggering $657 Million in Crypto Liquidations",
-    "summary": "1. Bitcoin fell below $77,000 on Monday, extending a four-day losing streak, triggering $657 million in total liquidations across crypto markets in 24 hours, with long positions bearing the brunt of the pain.\n2. BTC Flash Crash Wipes $584 Million in Longs Bitcoin’s latest decline pushed the asset below the $77,000 mark for the fourth consecutive day […]",
-    "url": "https://news.bitcoin.com/bitcoin-77000-657-million-liquidations-machi-big-brother-may-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-18T07:30:19.000Z"
+    "title": "Bitcoin Price Outlook Turns Cautious as Resistance Builds Near $78,400",
+    "summary": "1. Bitcoin trades between $76,900 to $77,465 on May 18, 2026, at 9:40 a.m.\n2. ET as traders assess mixed technical signals across multiple timeframes.\n3. While broader trend structure remains constructive above major support zones, short-term momentum indicators continue to reflect a cautious tone amid resistance near the $78,400 area.",
+    "url": "https://news.bitcoin.com/bitcoin-price-outlook-turns-cautious-as-resistance-builds-near-78400/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-18T14:14:04.000Z"
   },
   {
-    "id": "ad95aff7-1fa1-4a24-baa6-f0add371200c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst: Rising bond yields weaken ETH staking, price may remain range-bound",
-    "summary": "Ethereum's price is heavily influenced by spot ETF fund flows, according to an analysis by 10x Research CEO Markus Thielen. He noted a high correlation over the past year between the price of ETH and the 30-day moving average of daily net inflows into its spot ETFs, establishing institutional capital as a key variable. However, Thielen explained that with U.S. 10-year Treasury yields exceeding 4.6% amid rising inflation, the appeal of Ethereum's approximate 2.5% staking yield is relatively diminishing. As ETH spot ETFs have reverted to net outflows in May, he suggested that if this trend persists, the price of ETH is likely to remain range-bound without a clear direction for the time being.",
-    "url": "https://t.me/CoinnessGL#3eff30b0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T07:28:16+00:00"
-  },
-  {
-    "id": "bbc327f2-da35-4d35-b9b4-46dda4be1cac",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "a16z-linked address buys an additional $16.9M in HYPE",
-    "summary": "An address associated with leading Silicon Valley venture capital firm Andreessen Horowitz (a16z) has purchased an additional 372,000 HYPE ($16.91 million) over the past three hours, Lookonchain reported. The address has now bought a total of 2.11 million HYPE ($90.87 million) since April 14.",
-    "url": "https://t.me/CoinnessGL#7340d467",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T07:20:41+00:00"
-  },
-  {
-    "id": "709c8add-72dd-4eaf-9457-802b81caebda",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto security is turning into an AI arms race as agents may overwhelm compliance teams",
-    "summary": "1. AI agents and automated payments could reach a scale that crypto monitoring systems built for human-paced markets cannot handle, Elliptic CEO Simone Maini warned.",
-    "url": "https://www.coindesk.com/tech/2026/05/18/crypto-security-is-turning-into-an-ai-arms-race-as-agents-may-overwhelm-compliance-teams",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-18T07:13:08.000Z"
-  },
-  {
-    "id": "e8101f62-d06c-4646-87b1-58405b295623",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Aave restores ether borrowing limits after $230 million exploit",
-    "summary": "1. The DeFi lending protocol reversed restrictions imposed after April’s $292 million exploit, restoring borrowing capacity across six networks as contagion fears ease.",
-    "url": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-18T07:05:20.000Z"
-  },
-  {
-    "id": "2fcd1a35-0709-42e5-ab72-d51dcd31c151",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Surging oil prices have been driving Ether selling pressure: Tom Lee",
-    "summary": "1. Fundstrat's Tom Lee pointed out an inverse correlation between crude and Ether as oil surged back to around $110 on Monday.",
-    "url": "https://cointelegraph.com/news/surging-oil-prices-key-driver-of-eth-selling-pressure-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-05-18T07:02:06.000Z"
-  },
-  {
-    "id": "2fe1490d-e91c-4b44-95f2-3364ff983326",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
-    "summary": "1. Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy.",
-    "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-18T06:55:50.000Z"
-  },
-  {
-    "id": "5c10f156-8912-4ef9-9958-db12fe488aea",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Reports suggest Iran is mulling Hormuz ‘insurance’ scheme, paid in Bitcoin",
-    "summary": "1. Screenshots of a website called “Hormuz Safe” have been circulating on social media, which offers “digital insurance” for ships passing through the Strait of Hormuz.",
-    "url": "https://cointelegraph.com/news/iran-mulls-platform-for-ships-transiting-strait-of-hormuz-to-pay-in-bitcoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-18T06:53:38.000Z"
-  },
-  {
-    "id": "2d9a6d10-b438-49a6-9da2-119133a6c5c3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Gaming Platform My Pet Hooligan Connects Token Debut to Series Finale",
-    "summary": "1. AMGI Studios recently announced the launch of its native token, HOOLI, for the My Pet Hooligan entertainment franchise, featuring an airdrop on May 18.\n2. Token Utility and Ecosystem Integration Transmedia entertainment franchise My Pet Hooligan recently announced plans to launch its native token, HOOLI, tying the debut to the 30th episode and finale of its […]",
-    "url": "https://news.bitcoin.com/gaming-platform-my-pet-hooligan-connects-token-debut-to-series-finale/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-18T06:30:15.000Z"
-  },
-  {
-    "id": "708f8de6-7f0b-450f-8b73-2456980b13fe",
+    "id": "91026a16-b07b-45c6-bdaa-fdd9bbb14cc3",
     "source": "The Block",
     "type": "rss",
-    "title": "US crypto ATM operator Bitcoin Depot files for Chapter 11 to wind down business",
-    "summary": "1. Bitcoin Depot said changing regulatory environments have made it difficult to continue its current business model.",
-    "url": "https://www.theblock.co/post/401590/bitcoin-depot-chapter-11?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-18T06:10:05.000Z"
+    "title": "Standard Chartered to absorb Zodia Custody’s crypto business into its own operations: Bloomberg",
+    "summary": "1. Standard Chartered has agreed to acquire Zodia Custody's crypto business to fold into its own digital asset operations, per Bloomberg.",
+    "url": "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-18T14:08:11.000Z"
   },
   {
-    "id": "01dd473f-6c75-45bc-b13d-2731f76053b5",
+    "id": "13b39561-261a-49c0-bd40-b13769316a3b",
     "source": "The Block",
     "type": "rss",
-    "title": "What are Real-World Assets (RWAs)?",
-    "summary": "1. Real-world assets (RWAs) are crypto tokens backed by traditional assets.\n2. Issuers of RWAs take an existing asset — such as gold, fiat currency, stocks or bonds — and create a token representing it on the blockchain, in a process called “tokenization.” The token now represents ownership in the underlying asset, allowing investors to buy and sell […]",
-    "url": "https://www.theblock.co/learn/401094/what-are-real-world-assets-rwas?utm_source=rss&utm_medium=rss",
-    "author": "Callum Howe",
-    "created_at": "2026-05-18T05:36:33.000Z"
+    "title": "HIVE stock rallies 35% after unveiling 320MW ‘AI gigafactory’ project in Toronto",
+    "summary": "1. Hive Digital Executive Chair Frank Holmes said the facility could eventually support more than 100,000 GPUs.",
+    "url": "https://www.theblock.co/post/401656/hive-stock-rallies-40-unveiling-320mw-ai-gigafactory-project-toronto?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-05-18T14:07:21.000Z"
   },
   {
-    "id": "b3b04ad1-1612-4bc2-8fb4-84215508d785",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Clarity in a K-Shaped Economy  – Week in Review",
-    "summary": "1. This editorial is from last week’s edition of the newsletter Week in Review.\n2. Subscribe to the newsletter to get this weekly editorial the second it’s finished.\n3. The newsletter also includes the biggest stories of the week with a comment on each story.",
-    "url": "https://news.bitcoin.com/clarity-in-a-k-shaped-economy-week-in-review/",
-    "author": "Alex Richardson",
-    "created_at": "2026-05-18T05:30:36.000Z"
-  },
-  {
-    "id": "8617647d-28f0-47bc-ac39-0412b7a2a563",
+    "id": "4d094588-af79-436e-b021-ec265367ac07",
     "source": "CoinTelegraph",
     "type": "rss",
-    "title": "Senate crypto bill at risk beyond midterms if not passed by August: NYDIG",
-    "summary": "1. NYDIG’s Greg Cipolaro says the Senate’s crypto market structure bill is at risk of failing if it cannot clear a floor vote by August.",
-    "url": "https://cointelegraph.com/news/senate-crypto-bill-august-advance-in-lame-duck-session-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-18T05:23:11.000Z"
+    "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+    "summary": "1. EUR 1 billion note programme planned for 2026 following completion of global issuance infrastructure by the end of Q3 2026.",
+    "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Advertorial",
+    "created_at": "2026-05-18T14:02:05.000Z"
   },
   {
-    "id": "35bd503e-6ff6-41c2-8f29-35901d3ebf90",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "FSC reviewing Hana Bank's Dunamu stake over banking separation rules",
-    "summary": "South Korea's Financial Services Commission (FSC) is reviewing whether Hana Bank's acquisition of a stake in Dunamu violates the country's rules on the separation of banking and commerce, iNews24 reported on May 18. An official from the FSC's Virtual Asset Division stated that the agency is not directly moving to relax these regulations. The official also noted that even though Hana Bank opted to acquire shares in Kakao Investment rather than directly in Dunamu, the deal is being treated as a substantive investment in Dunamu and is therefore subject to the same standards. more:",
-    "url": "https://t.me/CoinnessGL#c032f3ce",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T05:22:02+00:00"
-  },
-  {
-    "id": "c91160a7-9931-471f-bbb2-47844e7131ba",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CORN investors seek refunds after project halts operations pre-distribution",
-    "summary": "An anonymous investor who participated in the Corn (CORN) token sale has reported losses, claiming the project announced a network shutdown before they could receive their subscribed tokens. X user \"korail10g\" stated they participated in the CORN token sale in March 2025 through the Web3 presale platform Legion. The terms involved a one-year vesting period with subsequent monthly unlocks. However, the user claimed the token claim date, originally scheduled for this April, was postponed to Oct. 26 without notice. Following this delay, the Corn project abruptly announced on May 14 that it was halting network operations, prompting the investor to demand a refund.The operator of the crypto-focused Telegram channel 'Talking Rabbit' noted that while the project has announced its shutdown, there is no clear guidance on refunds or token distribution for investors from last year's sale who remain in their lock-up period. The operator added that the sales platform, Legion, has also not issued an official statement or offered any investor protection measures.According to CoinMarketCap, CORN is currently trading at $0.04227. more:",
-    "url": "https://t.me/CoinnessGL#039f07cd",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T05:18:20+00:00"
-  },
-  {
-    "id": "fc38b7e3-b92d-48c4-8514-788e083a10f5",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC/USDT spot CVD chart for 5:00 a.m. UTC on May 18",
-    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows the Volume Heatmap, and the bottom section shows the Cumulative Volume Delta (CVD).- The Volume Heatmap at the top tracks trading volume at specific price levels. The background brightens when the price lingers in a range or moves significantly, with these brighter areas potentially acting as support or resistance.- The Cumulative Volume Delta (CVD) indicator at the bottom represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line indicates orders between $100 and $1,000, while the brown line represents large orders between $1 million and $10 million.",
-    "url": "https://t.me/CoinnessGL#ec7c1aac",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T05:17:10+00:00"
-  },
-  {
-    "id": "7cadde94-a238-43f8-b44c-68429556c24d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Analysts debate whether Bitcoin is in a ‘sell in May’ bear market setup",
-    "summary": "1. Some analysts argue that a comparatively broadened, institutionalized buyer base for crypto today may prevent a repeat of the drawdowns seen in May 2018 and May 2022.",
-    "url": "https://cointelegraph.com/news/sell-in-may-historical-pattern-could-see-btc-back-at-33k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-05-18T05:06:21.000Z"
-  },
-  {
-    "id": "bcd7cc82-d344-496e-a920-e647fa83af1c",
+    "id": "2a3264c1-8e81-418d-98c1-1a598d84600c",
     "source": "@SolidIntelX",
     "type": "telegram",
-    "title": "One of the largest Bitcoin ATM operators in the U.S.",
-    "summary": "is shutting down.Bitcoin Depot has filed for Chapter 11 protection and plans to wind down operations while selling assets through an orderly process.Twitter",
-    "url": "https://t.me/SolidIntelX#8af910fa",
+    "title": "IRANIAN VESSEL PASSES THROUGH US BLOCKADE, IRAN SAYSTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#d42dd12d",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-18T05:02:55+00:00"
+    "created_at": "2026-05-18T13:51:40+00:00"
   },
   {
-    "id": "7dc506f5-ddf6-428f-bf91-8be3d64ba79a",
+    "id": "b60fbd82-7812-4a4c-a64f-ca9f4f1e332d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Aave Proposes Principal-Preserving Charitable Giving Layer for Protocol",
+    "summary": "1. Aave governance initiates temp-check on a new charitable mechanism that would allow users to generate yield on deposits while maintaining capital control for humanitarian organizations.",
+    "url": "https://thedefiant.io/news/defi/aave-proposes-principal-preserving-charitable-giving-layer-3bloge",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-18T13:47:48.000Z"
+  },
+  {
+    "id": "a63a11b0-233e-466e-b61d-65bd1b458d06",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US shows flexibility on Iran nuclear limits but offers only phased access to 25% of frozen funds, while Tehran demands full release and pushes nuclear talks to later stagesTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#63fcafbc",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-18T13:47:14+00:00"
+  },
+  {
+    "id": "d38f9633-4e47-4681-9942-315778aa7b29",
     "source": "CoinTelegraph",
     "type": "rss",
-    "title": "WETH markets return to normal operations on Aave amid rsETH recovery progress",
-    "summary": "1. Aave applied a temporary freeze to WETH as a precautionary safety measure in response to the exploit, alongside freezes on the rsETH and wrsETH reserves.",
-    "url": "https://cointelegraph.com/news/aave-restores-weth-borrowing-after-kelp-dao-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-18T05:02:08.000Z"
+    "title": "Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+    "summary": "1. Michael Saylor’s Strategy bought 24,869 Bitcoin for $2.01 billion last week, lifting holdings to 843,738 BTC as STRC sales funded around 97% of the acquisition.",
+    "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-05-18T13:44:29.000Z"
   },
   {
-    "id": "4ede80e2-3681-473d-84c4-65618efc3d3c",
+    "id": "9f167a55-8f55-45a8-be08-565deb39c9fe",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+    "summary": "1. The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+    "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-05-18T13:42:19.000Z"
+  },
+  {
+    "id": "34b9d768-59ad-41b5-bc00-41467af87f30",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Iran Pushes $10B Bitcoin Insurance Plan for Strait of Hormuz: Report",
+    "summary": "1. The platform settles cargo cover in Bitcoin under a plan for marine policies and certificates that could generate $10 billion for Iran.",
+    "url": "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report",
+    "author": "Vince Dioquino",
+    "created_at": "2026-05-18T13:41:50.000Z"
+  },
+  {
+    "id": "e1bb4c57-b565-4c15-98b9-1ebfaffa8025",
     "source": "CoinDesk",
     "type": "rss",
-    "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
-    "summary": "1. Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
-    "url": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-18T05:01:11.000Z"
+    "title": "Kraken parent Payward's Q1 revenue climbs despite crypto market slump",
+    "summary": "1. Co-CEO Arjun Sethi said the firm kept investing through market weakness, leaning on acquisitions and futures growth to offset softer spot trading.",
+    "url": "https://www.coindesk.com/business/2026/05/18/kraken-parent-payward-s-q1-revenue-climbs-despite-crypto-market-slump",
+    "author": "Will Canny",
+    "created_at": "2026-05-18T13:41:24.000Z"
   },
   {
-    "id": "82d744c9-31a5-4f38-9b54-63b1699772f6",
-    "source": "CoinDesk",
+    "id": "b71bfbfe-b39b-4a33-bad3-975e10413d66",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 President Trump moves to withdraw his $10 billion lawsuit against the IRS.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#714cea3f",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-18T13:41:05+00:00"
+  },
+  {
+    "id": "7a0fe505-45f3-408a-b1dc-93ad80b8a2cf",
+    "source": "Bitcoin Magazine",
     "type": "rss",
-    "title": "Yet another crypto bridge falls victim to an $11 million hack",
-    "summary": "1. The latest attack adds to growing string of cross-chain infrastructure exploits.",
-    "url": "https://www.coindesk.com/markets/2026/05/18/yet-another-crypto-bridge-falls-victim-to-an-usd11-million-hack",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-18T04:37:06.000Z"
+    "title": "Bitcoin Depot (BTM) Stock Falls 80% As Company Files for Chapter 11 Bankruptcy",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Depot (BTM) Stock Falls 80% As Company Files for Chapter 11 Bankruptcy\nBitcoin Depot (NASDAQ: BTM), once the largest Bitcoin ATM operator in North America, filed for voluntary Chapter 11 bankruptcy protection on Monday in the U.S.\n2. Bankruptcy Court for the Southern District of Texas.\n3. The Atlanta-based fintech company said it intends to wind down all operations and pursue a sale of its assets — marking one […]\nThis post Bitcoin Depot (BTM) Stock Falls 80% As Company Files for Chapter 11 Bankruptcy first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-depot-btm-files-for-chapter-11",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-18T13:38:41.000Z"
   },
   {
-    "id": "16636e52-4402-405d-a30d-454b1d64c4de",
+    "id": "ee870d74-e0df-41f4-8f4a-40aa98e55309",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Standard Chartered to absorb Zodia Custody’s core business, spin out Zodia Solutions",
+    "summary": "1. Standard Chartered will absorb Zodia Custody’s regulated crypto business and spin out Zodia Solutions, as big banks move to own core digital asset custody in-house.",
+    "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-05-18T13:31:13.000Z"
+  },
+  {
+    "id": "5ce1282b-3cf5-4d41-8f3c-2cc7a4957d3c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitmine lifts ether treasury to 5.28 million ETH as total holdings top $12 billion",
+    "summary": "1. Bitmine lifted its ether treasury to 5.28 million ETH, or 4.37% of supply, as total crypto and cash holdings reached $12.6 billion.",
+    "url": "https://www.theblock.co/post/401653/bitmine-lifts-ether-treasury-to-5-28-million-eth-as-total-holdings-top-12-billion?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-18T13:28:01.000Z"
+  },
+  {
+    "id": "94031e51-78ec-4651-9cc6-d2ba76a9d860",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Iran Launches Bitcoin-Settled Insurance Platform for Hormuz Strait Shipping",
+    "summary": "1. Iran has unveiled Hormuz Safe, a Bitcoin-backed insurance service enabling shipping companies to obtain coverage for transiting the Strait of Hormuz.",
+    "url": "https://thedefiant.io/news/markets/iran-hormuz-safe-bitcoin-insurance-platform-3p0r5p",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-18T13:18:41.000Z"
+  },
+  {
+    "id": "318a441a-75da-4f00-84e6-56c75f107be3",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue",
+    "summary": "1. Bitcoin Magazine\n\nIran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue\nIran has reportedly launched “Hormuz Safe,” a bitcoin-settled maritime insurance platform aimed at cargo owners and shipping firms operating through the Strait of Hormuz and the Persian Gulf.\n2. This post Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/iran-launches-bitcoin-backed-service",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-18T13:17:36.000Z"
+  },
+  {
+    "id": "cfb5fefd-67ac-4897-be76-99df9cc927ef",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Bitget AI Hits 1 Million Users and $1.2B in Agent Trading Volume Across 58 Tools",
-    "summary": "1. Bitget’s unified artificial intelligence (AI) trading platform has crossed 1 million users and recorded more than $1.2 billion in cumulative trading volume across 58 AI-powered tools, the exchange revealed this week.\n2. Bitget Launches Unified AI Trading Ecosystem The platform, now branded Bitget AI, combines market analysis, strategy execution, and risk management into a single infrastructure […]",
-    "url": "https://news.bitcoin.com/bitget-ai-hits-1-million-users-and-1-2b-in-agent-trading-volume-across-58-tools/",
+    "title": "Bitcoin Depot Shuts ATM Network as Chapter 11 Pushes Asset Sale",
+    "summary": "1. Bitcoin Depot entered Chapter 11 to wind down operations, sell assets, and shut its bitcoin ATM network as state rules tighten.\n2. The company cited new compliance burdens, transaction limits, and restrictions affecting BTM operators.\n3. Bitcoin Depot Begins Chapter 11 Process Amid Regulatory Pressure Bitcoin Depot Inc.",
+    "url": "https://news.bitcoin.com/bitcoin-depot-shuts-atm-network-as-chapter-11-pushes-asset-sale/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-18T13:04:59.000Z"
+  },
+  {
+    "id": "c2744900-f63d-4041-a0dd-f8364ab09119",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇮🇷 Iran launches Bitcoin-backed insurance service for shipping companies wanting to transit the Strait of Hormuz.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#90a3bafa",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-18T12:44:10+00:00"
+  },
+  {
+    "id": "edb8209c-88d5-4923-8430-b5afbb351712",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "BitMine $ETH holdings rise to 5.28M worth $12.6B after adding 73,200 tokens last week, taking stake to 4.37% of supplyTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#7462a8f9",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-18T12:43:27+00:00"
+  },
+  {
+    "id": "d1f565d1-502f-48d1-baad-abd4cba25fd6",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Strategy (MSTR) Spends A Massive $2 Billion on More Bitcoin, Lifts Holdings to 843,738 BTC",
+    "summary": "1. Bitcoin Magazine\n\nStrategy (MSTR) Spends A Massive $2 Billion on More Bitcoin, Lifts Holdings to 843,738 BTC\nStrategy said Monday it acquired an additional 24,869 bitcoin for approximately $2.01 billion.\n2. This post Strategy (MSTR) Spends A Massive $2 Billion on More Bitcoin, Lifts Holdings to 843,738 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/strategy-spends-a-massive-2-billion",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-18T12:41:08.000Z"
+  },
+  {
+    "id": "1317420d-7c11-4fbd-848b-479156583983",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy Grabs 24,869 BTC for $2.01B, Now Holds 843,738 Bitcoin Total",
+    "summary": "1. Strategy added 24,869 bitcoin to its treasury for approximately $2.01 billion, pushing its total holdings to 843,738 BTC as the company also moves to retire $1.5 billion in convertible debt.\n2. Strategy Crosses 843K BTC After $2 Billion Purchase and Convertible Note Buyback Michael Saylor announced the purchase on May 18, 2026, via X, noting an […]",
+    "url": "https://news.bitcoin.com/strategy-grabs-24869-btc-for-2-01b-now-holds-843738-bitcoin-total/",
     "author": "Jamie Redman",
-    "created_at": "2026-05-18T04:30:06.000Z"
+    "created_at": "2026-05-18T12:39:38.000Z"
   },
   {
-    "id": "71449992-7c50-4cec-b8bc-c45b65b23f59",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
-    "summary": "1. Long-term holders are still sitting tight and exchange balances remain near six-year lows, Binance Research data shows, but underwater short-term holders leave BTC vulnerable to macro shocks.",
-    "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-18T03:52:10.000Z"
-  },
-  {
-    "id": "2f8dde38-9d7e-40e7-8f57-850d84bb9622",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin drops below $77,000 on Trump’s Iran threat, renewed inflation fears: analysts",
-    "summary": "1. Investors are concerned that high oil prices could fuel inflation to the point where the Fed may raise interest rates, analysts say.",
-    "url": "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-18T03:37:36.000Z"
-  },
-  {
-    "id": "42759b2f-c8db-488e-b3af-21dafc887853",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "China Confirms Participation in ‘First of Its Kind’ Anti-Pig Butchering Operation",
-    "summary": "1. China confirmed its involvement in the operation that resulted in the arrest of 276 suspects and the closure of nine crime-focused facilities.\n2. The initiative might mark a new era of international cooperation to tackle and end pig-butchering scams.\n3. China Collaborated in the Largest International Anti-Pig Butchering Scam Operation While criminals are leveraging cryptocurrency and digital […]",
-    "url": "https://news.bitcoin.com/china-confirms-participation-in-first-of-its-kind-anti-pig-butchering-operation/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-18T03:30:08.000Z"
-  },
-  {
-    "id": "04e1a202-f308-497e-8fd5-c9dbd0905d90",
-    "source": "@CoinnessGL",
+    "id": "80814382-78e6-4a57-b69b-0fd43e5b9fd7",
+    "source": "@WatcherGuru",
     "type": "telegram",
-    "title": "Tom Lee says ETH could rebound if oil prices fall",
-    "summary": "Tom Lee, Chairman of Bitmine (BMNR) and co-founder of Fundstrat, has identified rising oil prices as the biggest short-term factor behind Ethereum's recent weakness. He stated on X that the surge in oil prices over the last six weeks has been a primary driver of ETH's price decline, noting that the inverse correlation between the two assets is at an all-time high. Lee suggested that if oil prices reverse their trend and begin to fall, ETH could experience a price recovery. He clarified, however, that this is a short-term dynamic. For the medium to long term, Lee believes growth in areas like tokenization and AI agents could fuel a rise in ETH, adding that the cryptocurrency will show stronger performance this year.",
-    "url": "https://t.me/CoinnessGL#d3d22264",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T03:16:42+00:00"
+    "title": "Michael Saylor's 'Strategy' buys 24,869 Bitcoin worth $2 billion.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#9d484c52",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-18T12:27:05+00:00"
   },
   {
-    "id": "9e904c8a-c727-4ea3-91f0-c152194c86db",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Hyperliquid emerging as new tool for valuing unlisted stocks",
-    "summary": "Hyperliquid's (HYPE) perpetual futures platform, TradeXYZ, is emerging as a new way to value unlisted companies after listing pre-market perpetuals for Cerebras Systems (CBRS) and SpaceX (SPCX), The Block reported. The analysis highlighted that during the Cerebras listing, Hyperliquid's pricing closely mirrored the real-time opening price, expanding investment opportunities for retail investors. Amir Hajian, a researcher at Keyrock, commented that perpetual futures markets could solve the low liquidity and leverage trading issues that have been problematic for unlisted stock trading. However, concerns persist regarding potential price manipulation and regulatory risks associated with derivatives, as they do not grant actual stock ownership. TradeXYZ currently records a daily trading volume of $6 billion within the Hyperliquid ecosystem.",
-    "url": "https://t.me/CoinnessGL#f8ab3fc5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T03:14:18+00:00"
+    "id": "18c3119c-355d-4cf1-af65-d9738e2ba75e",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike",
+    "summary": "1. Crypto majors are falling and the ETFs are seeing an exodus, while SpaceX had a major debut on Hyperliquid.",
+    "url": "https://decrypt.co/368159/morning-minute-bitcoin-slides-back-to-77k-on-rising-bond-yields-oil-spike",
+    "author": "Tyler Warner",
+    "created_at": "2026-05-18T12:05:32.000Z"
   },
   {
-    "id": "8bba206a-62ee-427a-9488-ccc6ff68c6d8",
+    "id": "f2ae685a-28cb-4acb-819a-21349fc73e4c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
-    "title": "⚡ droppRWA’s chairman has reportedly secured $12.5B in tokenization mandates for Saudi real-world assets, starting with real estate.",
+    "title": "⚡ The US Senate’s crypto market structure bill must pass by August or risk stalling until after the midterms, when the legislative environment could shift significantly, NYDIG says.",
     "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b13d0952",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9a2d85f4",
     "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-18T03:04:44+00:00"
+    "created_at": "2026-05-18T12:05:19+00:00"
   },
   {
-    "id": "3e3148c1-cb01-4b66-b3a8-20598ea13bf0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "The Funding: As SpaceX’s listing nears, are pre-IPO perps crypto’s next big market?",
-    "summary": "1. Pre-IPO perpetual futures just had their proof of concept moment with the Cerebras market on TradeXYZ.\n2. Here's where they go from here.",
-    "url": "https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-05-18T03:03:34.000Z"
-  },
-  {
-    "id": "e68a0270-7011-44ef-b4a0-91bf7b84c47f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "24-hour crypto futures liquidations",
-    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $182.96 million liquidated (88.25% longs)- ETH: $257.45 million liquidated (95.08% longs)- SOL: $27.94 million liquidated (95.9% longs)",
-    "url": "https://t.me/CoinnessGL#ca825c6a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-18T02:57:27+00:00"
-  },
-  {
-    "id": "3ffe9a45-8509-4da0-949a-32a0910c5656",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ongoing exploit drains $11.6 million from Verus-Ethereum bridge: Blockaid",
-    "summary": "1. Peckshield flagged that the Verus-Ethereum bridge has been drained for 103.6 tBTC, 1,625 ETH, and 147,000 USDC.",
-    "url": "https://www.theblock.co/post/401571/verus-ethereum-bridge-exploit?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-18T02:54:38.000Z"
-  },
-  {
-    "id": "830f6687-2ff8-4867-be63-36ff0f184f80",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch",
-    "summary": "1. The US securities regulator approved 21Shares’ Hyperliquid ETF last week, adding to a growing number of cryptocurrencies converted into ETF wrappers in the US.",
-    "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-18T02:40:22.000Z"
-  },
-  {
-    "id": "1321b605-1dbd-4a1c-9689-4a607933b0b8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Darknet Kingpin’s Fatal Flaw: Buying Gold Bars With Crypto Leads to Arrest",
-    "summary": "1. Owe Martin Andresen, a German national, faces money laundering charges after using a cryptocurrency-based payment processor to purchase gold bars and sending them to his home address.\n2. Adresen was the alleged admin of “Dream Market,” a darknet market that shut down in 2019.\n3. Alleged ‘Dream Market’ Admin Charged For Money Laundering After Buying Gold With […]",
-    "url": "https://news.bitcoin.com/darknet-kingpins-fatal-flaw-buying-gold-bars-with-crypto-leads-to-arrest/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-18T02:30:34.000Z"
-  },
-  {
-    "id": "3fd0b356-f9ed-424d-b9dd-2a2736503b8d",
+    "id": "8445b8ea-f24c-4c5c-b85f-9d5df7070435",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
-    "title": "📊 Harvard cut its Bitcoin ETF stake by 43% and fully exited its Ethereum position, while Abu Dhabi's Mubadala added roughly $90M in BTC ETF shares in Q1.",
+    "title": "👀 Top Crypto Fundraising Last Week1️⃣ Dunamu (Upbit Operator) - $670M; CEX2️⃣...",
     "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#fe2e6244",
+    "url": "https://t.me/CoinMarketCapAnnouncements#37229e1c",
     "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-18T01:59:26+00:00"
+    "created_at": "2026-05-18T12:05:17+00:00"
+  },
+  {
+    "id": "93c8d957-9747-42a2-aae3-fd560b4b5051",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "$11.58M Drained in Ongoing Exploit on Verus-Ethereum Bridge",
+    "summary": "1. An active exploit on the Verus-Ethereum Bridge has resulted in $11.58 million in losses, according to security firm Blockaid.",
+    "url": "https://thedefiant.io/news/hacks/verus-ethereum-bridge-exploit-11-5-million-ri18bt",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-18T12:03:08.000Z"
+  },
+  {
+    "id": "cafb750a-46f0-4fd3-a4cc-1ee3a310f878",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off",
+    "summary": "1. Analysts flagged that geopolitical shocks no longer \"hit crypto directly\" thanks to institutional transmission via ETF flows.",
+    "url": "https://decrypt.co/368156/bitcoin-slides-under-77k-as-crypto-liquidations-top-672m-amid-bond-sell-off",
+    "author": "Akash Girimath",
+    "created_at": "2026-05-18T11:20:51.000Z"
+  },
+  {
+    "id": "f567ca67-e2e3-4768-917c-19c831e838b4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "summary": "1. A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "author": "Kate Park",
+    "created_at": "2026-05-18T11:00:00.000Z"
   }
 ]
