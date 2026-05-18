@@ -1,5 +1,125 @@
 [
   {
+    "id": "b3b04ad1-1612-4bc2-8fb4-84215508d785",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Clarity in a K-Shaped Economy  – Week in Review",
+    "summary": "1. This editorial is from last week’s edition of the newsletter Week in Review.\n2. Subscribe to the newsletter to get this weekly editorial the second it’s finished.\n3. The newsletter also includes the biggest stories of the week with a comment on each story.",
+    "url": "https://news.bitcoin.com/clarity-in-a-k-shaped-economy-week-in-review/",
+    "author": "Alex Richardson",
+    "created_at": "2026-05-18T05:30:36.000Z"
+  },
+  {
+    "id": "35bd503e-6ff6-41c2-8f29-35901d3ebf90",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "FSC reviewing Hana Bank's Dunamu stake over banking separation rules",
+    "summary": "South Korea's Financial Services Commission (FSC) is reviewing whether Hana Bank's acquisition of a stake in Dunamu violates the country's rules on the separation of banking and commerce, iNews24 reported on May 18. An official from the FSC's Virtual Asset Division stated that the agency is not directly moving to relax these regulations. The official also noted that even though Hana Bank opted to acquire shares in Kakao Investment rather than directly in Dunamu, the deal is being treated as a substantive investment in Dunamu and is therefore subject to the same standards. more:",
+    "url": "https://t.me/CoinnessGL#c032f3ce",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T05:22:02+00:00"
+  },
+  {
+    "id": "c91160a7-9931-471f-bbb2-47844e7131ba",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CORN investors seek refunds after project halts operations pre-distribution",
+    "summary": "An anonymous investor who participated in the Corn (CORN) token sale has reported losses, claiming the project announced a network shutdown before they could receive their subscribed tokens. X user \"korail10g\" stated they participated in the CORN token sale in March 2025 through the Web3 presale platform Legion. The terms involved a one-year vesting period with subsequent monthly unlocks. However, the user claimed the token claim date, originally scheduled for this April, was postponed to Oct. 26 without notice. Following this delay, the Corn project abruptly announced on May 14 that it was halting network operations, prompting the investor to demand a refund.The operator of the crypto-focused Telegram channel 'Talking Rabbit' noted that while the project has announced its shutdown, there is no clear guidance on refunds or token distribution for investors from last year's sale who remain in their lock-up period. The operator added that the sales platform, Legion, has also not issued an official statement or offered any investor protection measures.According to CoinMarketCap, CORN is currently trading at $0.04227. more:",
+    "url": "https://t.me/CoinnessGL#039f07cd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T05:18:20+00:00"
+  },
+  {
+    "id": "fc38b7e3-b92d-48c4-8514-788e083a10f5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC/USDT spot CVD chart for 5:00 a.m. UTC on May 18",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows the Volume Heatmap, and the bottom section shows the Cumulative Volume Delta (CVD).- The Volume Heatmap at the top tracks trading volume at specific price levels. The background brightens when the price lingers in a range or moves significantly, with these brighter areas potentially acting as support or resistance.- The Cumulative Volume Delta (CVD) indicator at the bottom represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line indicates orders between $100 and $1,000, while the brown line represents large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#ec7c1aac",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-18T05:17:10+00:00"
+  },
+  {
+    "id": "7cadde94-a238-43f8-b44c-68429556c24d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Analysts debate whether Bitcoin is in a ‘sell in May’ bear market setup",
+    "summary": "1. Some analysts argue that a comparatively broadened, institutionalized buyer base for crypto today may prevent a repeat of the drawdowns seen in May 2018 and May 2022.",
+    "url": "https://cointelegraph.com/news/sell-in-may-historical-pattern-could-see-btc-back-at-33k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-05-18T05:06:21.000Z"
+  },
+  {
+    "id": "b864177a-d8ce-4c82-be56-9dd0a11cc66a",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "One of the largest Bitcoin ATM operators in the U.S.",
+    "summary": "is shutting down.Bitcoin Depot has filed for Chapter 11 protection and plans to wind down operations while selling assets through an orderly process.Twitter",
+    "url": "https://t.me/SolidIntelX#8af910fa",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-18T05:02:55+00:00"
+  },
+  {
+    "id": "7dc506f5-ddf6-428f-bf91-8be3d64ba79a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "WETH markets return to normal operations on Aave amid rsETH recovery progress",
+    "summary": "1. Aave applied a temporary freeze to WETH as a precautionary safety measure in response to the exploit, alongside freezes on the rsETH and wrsETH reserves.",
+    "url": "https://cointelegraph.com/news/aave-restores-weth-borrowing-after-kelp-dao-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-05-18T05:02:08.000Z"
+  },
+  {
+    "id": "4ede80e2-3681-473d-84c4-65618efc3d3c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
+    "summary": "1. Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
+    "url": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-18T05:01:11.000Z"
+  },
+  {
+    "id": "82d744c9-31a5-4f38-9b54-63b1699772f6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Yet another crypto bridge falls victim to an $11 million hack",
+    "summary": "1. The latest attack adds to growing string of cross-chain infrastructure exploits.",
+    "url": "https://www.coindesk.com/markets/2026/05/18/yet-another-crypto-bridge-falls-victim-to-an-usd11-million-hack",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-18T04:37:06.000Z"
+  },
+  {
+    "id": "16636e52-4402-405d-a30d-454b1d64c4de",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitget AI Hits 1 Million Users and $1.2B in Agent Trading Volume Across 58 Tools",
+    "summary": "1. Bitget’s unified artificial intelligence (AI) trading platform has crossed 1 million users and recorded more than $1.2 billion in cumulative trading volume across 58 AI-powered tools, the exchange revealed this week.\n2. Bitget Launches Unified AI Trading Ecosystem The platform, now branded Bitget AI, combines market analysis, strategy execution, and risk management into a single infrastructure […]",
+    "url": "https://news.bitcoin.com/bitget-ai-hits-1-million-users-and-1-2b-in-agent-trading-volume-across-58-tools/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-18T04:30:06.000Z"
+  },
+  {
+    "id": "71449992-7c50-4cec-b8bc-c45b65b23f59",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
+    "summary": "1. Long-term holders are still sitting tight and exchange balances remain near six-year lows, Binance Research data shows, but underwater short-term holders leave BTC vulnerable to macro shocks.",
+    "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-18T03:52:10.000Z"
+  },
+  {
+    "id": "2f8dde38-9d7e-40e7-8f57-850d84bb9622",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin drops below $77,000 on Trump’s Iran threat, renewed inflation fears: analysts",
+    "summary": "1. Investors are concerned that high oil prices could fuel inflation to the point where the Fed may raise interest rates, analysts say.",
+    "url": "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-18T03:37:36.000Z"
+  },
+  {
     "id": "42759b2f-c8db-488e-b3af-21dafc887853",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -80,7 +200,7 @@
     "created_at": "2026-05-18T02:30:34.000Z"
   },
   {
-    "id": "e5b56ea7-579f-4c7c-a2fb-e3ca594dfc3b",
+    "id": "ae01400e-ac91-4961-9bf4-e796b5d70d90",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Harvard cut its Bitcoin ETF stake by 43% and fully exited its Ethereum position, while Abu Dhabi's Mubadala added roughly $90M in BTC ETF shares in Q1.",
@@ -130,7 +250,7 @@
     "created_at": "2026-05-18T01:20:38+00:00"
   },
   {
-    "id": "0f4c8b8d-5f26-4f57-ada9-63c171591a44",
+    "id": "1edbd81d-60c7-48de-b7f9-e64c8660b127",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ VanEck and Grayscale filed fresh BNB ETF amendments with the SEC, with an analyst saying BNB could be the next crypto asset to get a US spot ETF.",
@@ -200,7 +320,7 @@
     "created_at": "2026-05-18T00:01:03.000Z"
   },
   {
-    "id": "e15e680b-8084-4d19-a03c-f86178ec0425",
+    "id": "4424287c-e200-440e-8ca1-004da2464194",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "$600,000,000 liquidated from the crypto market in the past 60 minutes.@WatcherGuru",
@@ -210,7 +330,7 @@
     "created_at": "2026-05-17T23:51:48+00:00"
   },
   {
-    "id": "c791a086-4fd1-4620-a5ca-e1211f3fc70a",
+    "id": "3d0e1006-329d-4299-9f70-2ba2fdf8df3a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Michael Saylor hinted at another Strategy Bitcoin buy while urging STRC shareholders to vote on semi-monthly dividends before the June 8 deadline.",
@@ -220,7 +340,7 @@
     "created_at": "2026-05-17T23:49:46+00:00"
   },
   {
-    "id": "70a00997-3a29-4dbc-956c-8120d33055fe",
+    "id": "b42433c6-012e-4505-a9e9-f43eaebc8e66",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Bitcoin falls under $77,000@WatcherGuru",
@@ -228,35 +348,5 @@
     "url": "https://t.me/WatcherGuru#c85c5561",
     "author": "@WatcherGuru",
     "created_at": "2026-05-17T23:46:36+00:00"
-  },
-  {
-    "id": "9f0e34c6-2e00-4432-8151-5f666030460e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Robert Kiyosaki Reinforces Bullish Bitcoin Outlook Amid Inflation Warning",
-    "summary": "1. Robert Kiyosaki renewed his bitcoin bull case, tying BTC ownership to inflation protection, hard assets, and long-term wealth planning.\n2. The Rich Dad Poor Dad author cited oil prices, national debt, and currency weakness while urging investors to consider real assets.\n3. Kiyosaki’s Bitcoin Bull Case Extends Beyond Market Forecasts Robert Kiyosaki combined entrepreneurship and bitcoin investing […]",
-    "url": "https://news.bitcoin.com/robert-kiyosaki-reinforces-bullish-bitcoin-outlook-amid-inflation-warning/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-17T23:30:15.000Z"
-  },
-  {
-    "id": "ac1f4d07-d0d3-443a-9362-8ce7016e03d6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto Payments App Oobit Expands to Colombia After Explosive 200% Growth in Brazil",
-    "summary": "1. The crypto payments company announced its launch in Colombia, becoming its ninth live market, as it prepares for a significant growth of crypto adoption in the country.\n2. The Colombian peso ranked second among centralized exchange stablecoin purchases, signaling growing demand for crypto payment methods.\n3. Oobit Launches Officially in Colombia While crypto is mainly viewed as […]",
-    "url": "https://news.bitcoin.com/crypto-payments-app-oobit-expands-to-colombia-after-explosive-200-growth-in-brazil/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-17T22:31:39.000Z"
-  },
-  {
-    "id": "60f5a700-b8ba-4b7b-ae99-7f08afffbc51",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-05-17T22:30:00.000Z"
   }
 ]
