@@ -1,5 +1,115 @@
 [
   {
+    "id": "6080ef5e-080a-4eae-8fc9-3a021669518b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ETH spot ETFs see net outflows for 6th straight day",
+    "summary": "U.S. spot Ethereum ETFs recorded $86.4 million in net outflows on May 18, marking the sixth consecutive day of net outflows, according to data compiled by Trader T.- BlackRock's ETHA: -$55.4 million- Fidelity's FETH: -$14.7 million- Grayscale's ETH: -$10.1 million",
+    "url": "https://t.me/CoinnessGL#56238166",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T04:06:20+00:00"
+  },
+  {
+    "id": "658e75f3-19cd-4deb-a328-b5c743334a8c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Pump.fun may be resuming SOL sales after 9-month pause, says analyst",
+    "summary": "On-chain analyst Lookonchain has suggested that Pump.fun (PUMP), a Solana-based memecoin issuance platform, may have resumed selling its SOL holdings. According to the analyst, a wallet presumed to belong to Pump.fun deposited 174,408 SOL, worth approximately $14.76 million, to Kraken about 13 hours ago. Subsequently, a new anonymous address withdrew 117,877 SOL (around $9.96 million) and exchanged it for 9.96 million USDC at an average price of $84.52. This USDC was then also deposited to Kraken. Lookonchain noted that this activity could be part of Pump.fun's move to sell its SOL. Previously, the analyst had pointed to a deposit of 82,700 SOL ($7.02 million) to Kraken by a Pump.fun address, suggesting a resumption of sales for the first time in about nine months since Aug. 12 of last year. more:",
+    "url": "https://t.me/CoinnessGL#da259876",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T04:04:49+00:00"
+  },
+  {
+    "id": "cc5bf027-5874-49ba-929e-d3fbf37ad5bc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US Bitcoin spot ETFs see $648.6M net outflow",
+    "summary": "U.S. Bitcoin spot ETFs saw a net outflow of approximately $648.6 million (976.1 billion won) on May 18, according to data compiled by Trader T. This marks the second consecutive trading day of net outflows.- BlackRock IBIT -$448.4 million- Fidelity FBTC -$63.4 million- Ark Invest ARKB -$109.6 million",
+    "url": "https://t.me/CoinnessGL#9527408b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T04:03:44+00:00"
+  },
+  {
+    "id": "53303025-18f6-4dc2-adee-9875a78326d3",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Minnesota signs law allowing banks, credit unions to offer crypto custody services",
+    "summary": "1. Governor Tim Walz has signed HF 3709 into law, permitting banks and credit unions to offer crypto custody services.",
+    "url": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-05-19T03:56:10.000Z"
+  },
+  {
+    "id": "738a213b-bb34-4af3-b522-df8902096d8a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Potential A16z-Linked Wallet Stacks $90.87M in HYPE Across 34 Days",
+    "summary": "1. A wallet onchain linked to venture capital firm a16z (Andreessen Horowitz) by Lookonchain has quietly accumulated 2.11 million HYPE tokens worth approximately $90.87 million since April 14.\n2. Smart Money Bets on Hyperliquid Dip Blockchain analytics firm Lookonchain flagged that wallet 0xb5E4, whose funding history and transaction patterns have led multiple analysts to associate it with […]",
+    "url": "https://news.bitcoin.com/a16z-hype-token-accumulation-90-million-hyperliquid-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-19T03:30:56.000Z"
+  },
+  {
+    "id": "3e9ee181-950b-4c4c-a58a-020664becaad",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Vitalik Buterin says AI-assisted formal verification could make Ethereum and crypto infrastructure more secure against bugs and cyberattacks.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e74d031c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-19T03:09:11+00:00"
+  },
+  {
+    "id": "47dfd018-1677-41cb-b6d5-28c8053a0f28",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Revolut is rolling out a Dogecoin-themed physical crypto card with an LED display, initially available across the UK and most of the EU.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#47476eda",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-19T03:09:09+00:00"
+  },
+  {
+    "id": "f1e1ffc7-76be-4fd9-bda7-f068f0ae84a3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 Minnesota has enacted a law authorizing banks and credit unions to offer crypto custody services, effective Aug.",
+    "summary": "1, 2026.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d07f128f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-19T03:09:07+00:00"
+  },
+  {
+    "id": "b15ed2b5-9b89-442e-a685-9405621eb51f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts",
+    "summary": "1. BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and using it as collateral to borrow WBTC.",
+    "url": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-19T02:49:27.000Z"
+  },
+  {
+    "id": "f93e8300-b300-42b4-ad59-e00c919a159b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Crypto Wallet Transfers Anchor $13 Million Federal Fraud Case",
+    "summary": "1. An alleged support impersonation scheme led to more than $13 million in cryptocurrency wallet losses, according to the DOJ.\n2. The case centers on fake support claims, unauthorized digital account access, wallet transfers, and laundering through luxury spending.\n3. Support Impersonation Scheme Led to Crypto Wallet Losses The Department of Justice (DOJ) announced on May 11 that […]",
+    "url": "https://news.bitcoin.com/crypto-wallet-transfers-anchor-13-million-federal-fraud-case/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-19T02:30:24.000Z"
+  },
+  {
+    "id": "9dd3ce8b-8c19-4cad-a820-f6e4fedefda3",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrumpThank you to Great Patriot Salena Zito for this wonderful article!\n2. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/38625",
+    "author": "Trump Truth",
+    "created_at": "2026-05-19T02:25:45.000Z"
+  },
+  {
     "id": "33777cf9-4ac5-429d-af2b-23a8ad42bd2a",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -178,145 +288,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#2c59b45a",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-18T22:19:34+00:00"
-  },
-  {
-    "id": "e0bcc9ac-7999-453f-b1b5-56aeaed98875",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "100,000 blocks remain until the next Bitcoin Halving.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#0fe161a4",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-18T22:07:38+00:00"
-  },
-  {
-    "id": "cbba14c3-81ae-43a8-9198-2a522b3dab4f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OSHA probing worker death at SpaceX’s Starbase site",
-    "summary": "1. The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
-    "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-05-18T21:55:02.000Z"
-  },
-  {
-    "id": "a735149a-2a37-488d-a347-200aec307ec8",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms",
-    "summary": "1. A contracting float against any meaningful demand recovery has historically been a constructive setup for price.",
-    "url": "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&utm_medium=rss",
-    "author": "Ivan Wu and Bryan Samsoedin",
-    "created_at": "2026-05-18T21:51:04.000Z"
-  },
-  {
-    "id": "25ea3364-0f36-4e60-8a3c-82c65e326112",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case",
-    "summary": "1. Attorneys representing a former Homeland Security official admitted using Anthropic’s Claude Console to help draft a court filing that included fabricated quotes.",
-    "url": "https://decrypt.co/368287/lawyers-apologize-fake-claude-generated-quotes-trump-layoffs-case",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-18T21:46:03.000Z"
-  },
-  {
-    "id": "14dd5912-df5f-4fe9-9899-4c9ed4d3e75a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ohio man sentenced to 9 years for running $10 million crypto Ponzi scheme",
-    "summary": "1. The CFTC filed an enforcement action against Rathnakishore Giri in August 2022 for running the fraudulent investment scheme.",
-    "url": "https://www.theblock.co/post/401761/ohio-man-sentenced-to-9-years-for-running-10-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-18T21:33:27.000Z"
-  },
-  {
-    "id": "5a26bd6e-dd1e-45c6-90dc-28c3a4df1a17",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "summary": "1. Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models.\n2. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-05-18T21:29:31.000Z"
-  },
-  {
-    "id": "66bf329d-1efe-4e3c-bf73-afd175c6482e",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "SEC PREPARES TO ALLOW BLOCKCHAIN-BASED TOKENIZED STOCK TRADING.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#179d3d41",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-18T21:08:01+00:00"
-  },
-  {
-    "id": "f76e69d2-21e6-4f7a-96be-07320d3f0843",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Minnesotan banks and credit unions set to provide crypto custody August 1",
-    "summary": "1. Minnesota established the midwest’s first unified digital asset safety net for banks and credit unions.",
-    "url": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
-    "author": "Olivier Acuna",
-    "created_at": "2026-05-18T21:07:08.000Z"
-  },
-  {
-    "id": "67d353e0-e208-430c-bffb-8c5a92085bea",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Still Can't Beat the On-Call Engineer: Here's Why",
-    "summary": "1. The best AI models can't yet beat the engineers they’re supposed to replace at fixing real-world problems, a new benchmark suggests.",
-    "url": "https://decrypt.co/368265/arfbench-datadog-benchmark-ai-engineers-outages",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-05-18T21:05:45.000Z"
-  },
-  {
-    "id": "27f828fb-c67f-46d2-89ab-7de87dcae382",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 SEC prepares to allow blockchain-based tokenized stock trading.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c340036e",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-18T21:05:39+00:00"
-  },
-  {
-    "id": "856ec6db-91a8-486f-a736-9d20a5f3f54d",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns",
-    "summary": "1. Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.",
-    "url": "https://decrypt.co/368264/bitcoin-faces-greater-quantum-computing-risk-ethereum-citi-warns",
-    "author": "Decrypt Agent",
-    "created_at": "2026-05-18T20:55:33.000Z"
-  },
-  {
-    "id": "51c6df74-605d-4744-9444-12b1b1a3efe6",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Mamdani’s Nakba Day video that never was",
-    "summary": "1. Mamdani’s Nakba Day video that never was",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/18/mamdanis-nakba-day-video-that-never-was-00926797",
-    "author": "By Chris Sommerfeldt and Jason Beeferman",
-    "created_at": "2026-05-18T20:54:39.000Z"
-  },
-  {
-    "id": "49a88194-d12c-4d37-81e6-20eda0a9c6a1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk announces he is filing appeal in lawsuit against OpenAI.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#3d8ba1dc",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-18T20:48:05+00:00"
-  },
-  {
-    "id": "0346de71-ff42-4a30-a3e5-ae7100bfb764",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
-    "summary": "1. The revenue share deal could shift an estimated $160 million in revenue from Coinbase and Circle into Hyperliquid's ecosystem, Compass Point analysts said.",
-    "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-18T20:18:37.000Z"
   }
 ]
