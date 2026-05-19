@@ -1,5 +1,125 @@
 [
   {
+    "id": "8648009e-7e01-4508-a278-c9c1b7511f78",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin has shed $5,000 within days. The data says this selloff could worsen",
+    "summary": "1. Bitcoin has fallen about 6% from $82,000 to $76,800, but underlying data point to more than routine pullback.",
+    "url": "https://www.coindesk.com/markets/2026/05/19/bitcoin-has-shed-usd5-000-within-days-the-data-says-this-selloff-could-worsen",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-19T06:08:22.000Z"
+  },
+  {
+    "id": "f3f46fa6-eb97-4727-bc28-582605271d22",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "AI Financial warns survival uncertain due to locked WLFI tokens",
+    "summary": "According to CoinDesk, Nasdaq-listed AI Financial (formerly Alt5 Sigma), a major holder of World Liberty Financial (WLFI) tokens, has warned that its ability to continue operating is uncertain. In a recent filing with the U.S. Securities and Exchange Commission (SEC), the company stated it has only $10.5 million in cash, while a significant portion of its assets—$706 million in WLFI tokens—are contractually locked and cannot be sold. AI Financial, which also has a related-party loan from World Liberty Financial, noted that this liquidity crunch raises doubts about its survival. The company warned it may not make it through the year. Last year, AI Financial raised approximately $1.5 billion to purchase $1.46 billion worth of WLFI tokens, which are associated with a DeFi project linked to the Trump family. The value of these tokens has since fallen by more than half, while the company's first-quarter fintech revenue was just $4.7 million.",
+    "url": "https://t.me/CoinnessGL#7c804749",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T06:06:39+00:00"
+  },
+  {
+    "id": "847d9c80-8107-4e72-8948-57fd5bf43e64",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Retail BTC inflows to Binance hit all-time low, says analyst",
+    "summary": "Bitcoin inflows to Binance from retail investors have plummeted to an all-time low, according to an analysis by on-chain analyst Darkfost. He noted that the average monthly inflow to the exchange from wallets holding under one BTC was just 314 BTC recently. This figure is significantly lower than the 1,800 BTC seen during the current cycle's bottom and the 1,200 BTC recorded in March 2024. For comparison, retail investor inflows were 5,400 BTC in 2018 and 2,600 BTC in 2021. The volume has dropped from around 1,000 BTC in January of this year to less than a third of that level. Darkfost suggested that some investors may have exited the market or are now participating indirectly through spot Bitcoin ETFs.",
+    "url": "https://t.me/CoinnessGL#6d0e13e3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T05:59:42+00:00"
+  },
+  {
+    "id": "a1de7f82-d0f4-4470-b5ac-e490a218c85a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+    "summary": "1. \"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship.\n2. Which is remarkable, right?\"",
+    "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+    "author": "Connie Loizos",
+    "created_at": "2026-05-19T05:50:49.000Z"
+  },
+  {
+    "id": "c49e873a-1595-40e0-8706-dad500884db5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Glassnode: BTC spot demand weakens amid rising downside bets in options",
+    "summary": "According to a weekly report from Glassnode, Bitcoin's (BTC) upward momentum is slowing despite a recent rebound from the high $60,000s to over $82,000, with the price correcting to the $77,000 range. The firm's analysis points to several indicators of weakening sentiment, including a sharp 848.7% decrease in Spot Cumulative Volume Delta (CVD), which signals a significant rise in selling pressure. Although spot trading volume increased by 4.2%, the activity was not driven by strong buying conviction. In derivatives, futures open interest (OI) fell by 2.9%, suggesting a slight pullback in leverage. Conversely, a 136.6% jump in funding rates for long positions indicates some traders are still betting on a price increase. However, the options market shows a 42.8% rise in the 25-delta skew, reflecting greater demand for downside hedging. Glassnode also noted that slowing net inflows into U.S. spot Bitcoin ETFs are further dampening institutional investor sentiment.",
+    "url": "https://t.me/CoinnessGL#0bca3cd8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T05:39:21+00:00"
+  },
+  {
+    "id": "98aad014-65bf-4761-9641-11d9c10e4484",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year ",
+    "summary": "1. The former Alt5 Sigma marked its 7.28 billion WLFI tokens at $706 million, down from a roughly $1.46 billion cost basis, while disclosing that the holdings remain locked amid liquidity concerns.",
+    "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-19T05:35:32.000Z"
+  },
+  {
+    "id": "accfd7d9-3d20-45a4-a792-a5b1db32336d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tether Backs LemFi in Strategic Investment to Supercharge Migrant Remittances",
+    "summary": "1. The stablecoin giant announced an undisclosed investment in LemFi, a migrant-focused remittance-based platform that allows users to send and receive money across 30 countries.\n2. The investment will support LemFi’s integration of USDT across its product suite, delivering faster and cheaper services to its customers.\n3. Stablecoin Behemoth Tether Invests in Remittance Platform LemFi Stablecoins have become […]",
+    "url": "https://news.bitcoin.com/tether-backs-lemfi-in-strategic-investment-to-supercharge-migrant-remittances/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-19T05:30:09.000Z"
+  },
+  {
+    "id": "ee085f98-c91e-4fbb-af22-22dd416a45ae",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "I found the name of the kitty from Roaring Kitty's profile picture",
+    "summary": "1. \\* mods - please don't ban - it's true investigative research, it is not AI \n\nWe all know this cat from [u/TheRoaringKitty]( profile picture.\n2. But until now, we didn't know its name.\n3. To get into how I figured out the cat's name, we first have to look into the origins of the photo.",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1thd0o1/i_found_the_name_of_the_kitty_from_roaring_kittys/",
+    "author": "u/indiangainz",
+    "created_at": "2026-05-19T05:15:01.000Z"
+  },
+  {
+    "id": "b318f17b-53e8-462e-98bd-a036b574e599",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed",
+    "summary": "1. Among those who used crypto for payments, over 25% said they did so because the business preferred crypto, citing speed, privacy and lower cost advantages.",
+    "url": "https://cointelegraph.com/news/10-percent-of-americans-invested-or-used-crypto-in-2025-federal-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-19T05:13:57.000Z"
+  },
+  {
+    "id": "ae975b6a-d863-4e1f-a9f1-b44bdddf310e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Echo Protocol's eBTC exploited for $77M in admin key compromise",
+    "summary": "1. The hacker has already laundered nearly 5% of the loot through Tornado Cash and is still holding the remaining 955 eBTC.",
+    "url": "https://cointelegraph.com/news/echo-protocols-ebtc-exploited-for-76m-in-admin-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-05-19T04:52:25.000Z"
+  },
+  {
+    "id": "b994b500-76d0-44fc-843a-d57dc6c704ce",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘Short-Term Noise’: Why Tom Lee Predicts a Massive Ethereum Rebound in 2026",
+    "summary": "1. The analyst believes that one of the reasons ether has been under selling pressure is linked to the conflict in the Middle East and the subsequent rise in oil prices.\n2. To Lee, this is “short tactical noise,” and prices should be stronger later this year.\n3. Fundstrat’s Tom Lee Predicts Stronger ETH Prices After Middle East […]",
+    "url": "https://news.bitcoin.com/short-term-noise-why-tom-lee-predicts-a-massive-ethereum-rebound-in-2026/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-19T04:30:54.000Z"
+  },
+  {
+    "id": "9bd3566e-69dc-4fc9-a0c9-49b1a02c6b79",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee",
+    "summary": "1. Bitmine chairman Tom Lee said the company is expected to have accumulated 5% of Ether's total supply before the end of the year.",
+    "url": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-05-19T04:21:57.000Z"
+  },
+  {
     "id": "6080ef5e-080a-4eae-8fc9-3a021669518b",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -50,7 +170,7 @@
     "created_at": "2026-05-19T03:30:56.000Z"
   },
   {
-    "id": "3e9ee181-950b-4c4c-a58a-020664becaad",
+    "id": "69e05d67-61b6-4d2e-9172-e7f95c8ac279",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Vitalik Buterin says AI-assisted formal verification could make Ethereum and crypto infrastructure more secure against bugs and cyberattacks.",
@@ -60,7 +180,7 @@
     "created_at": "2026-05-19T03:09:11+00:00"
   },
   {
-    "id": "47dfd018-1677-41cb-b6d5-28c8053a0f28",
+    "id": "019ab281-2163-4531-9bf8-f9e974a522a7",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Revolut is rolling out a Dogecoin-themed physical crypto card with an LED display, initially available across the UK and most of the EU.",
@@ -70,7 +190,7 @@
     "created_at": "2026-05-19T03:09:09+00:00"
   },
   {
-    "id": "f1e1ffc7-76be-4fd9-bda7-f068f0ae84a3",
+    "id": "b33045fc-fa82-45cd-b27e-a029e942bdf6",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🏦 Minnesota has enacted a law authorizing banks and credit unions to offer crypto custody services, effective Aug.",
@@ -208,85 +328,5 @@
     "url": "https://news.bitcoin.com/nine-polymarket-accounts-flagged-after-98-win-rate-on-iran-strikes/",
     "author": "Terence Zimwara",
     "created_at": "2026-05-19T00:30:29.000Z"
-  },
-  {
-    "id": "13915e7f-47cf-4a1a-ba83-b7798e1a36dc",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Messari says Solana is broadening beyond memecoins as institutions expand activity across tokenized funds, RWAs and payments.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2d1621aa",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-19T00:09:15+00:00"
-  },
-  {
-    "id": "b748e0c5-954c-4d05-964d-6b462a00d042",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?",
-    "summary": "1. Bitcoin retail inflows to Binance remained at record lows as aggressive BTC futures selling and weakening spot demand pressured BTC below $77,000.",
-    "url": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-05-18T23:40:51.000Z"
-  },
-  {
-    "id": "668d31b5-009d-466e-a1ee-81803037a2bc",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Report: Tokenized US Stocks Get New Regulatory Framework as SEC Prepares Exemption Release",
-    "summary": "1. Securities and Exchange Commission (SEC) is expected to release an innovation exemption for tokenized stocks as soon as this week, according to people familiar with the matter speaking with Bloomberg.\n2. SEC Innovation Exemption Signals Major Shift for Onchain U.S.\n3. Equity Trading in 2026 The exemption creates a new framework for trading tokens that […]",
-    "url": "https://news.bitcoin.com/report-tokenized-us-stocks-get-new-regulatory-framework-as-sec-prepares-exemption-release/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-18T23:30:28.000Z"
-  },
-  {
-    "id": "adbd8500-a19c-44aa-b584-503902629e0b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Odds against rate cuts high as new US Fed chair set for swearing in",
-    "summary": "1. Many experts voiced concerns that the confirmation of Kevin Warsh as Federal Reserve chair would lead to uncertainty about the central bank’s independence, particularly in setting interest rates.",
-    "url": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-18T22:49:27.000Z"
-  },
-  {
-    "id": "12b7d2fe-77ef-4cfd-968a-c746809bd010",
-    "source": "r/ethereum",
-    "type": "reddit",
-    "title": "The SEC Is About to Allow Tokenized Stocks on Blockchain",
-    "summary": "1. The SEC Is About to Allow Tokenized Stocks on Blockchain",
-    "url": "https://reddit.com/r/ethereum/comments/1th3gq8/the_sec_is_about_to_allow_tokenized_stocks_on/",
-    "author": "u/zakoal",
-    "created_at": "2026-05-18T22:21:59.000Z"
-  },
-  {
-    "id": "af1cd774-b70c-4387-ac19-c79959d7b557",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Galaxy secures New York BitLicense to expand institutional crypto services",
-    "summary": "1. The NYDFS approvals allow GalaxyOne Prime NY to offer trading and financing services to institutional investors in one of the most tightly regulated US crypto markets.",
-    "url": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-05-18T22:20:31.000Z"
-  },
-  {
-    "id": "828fb980-8691-494b-883a-312ed26aa5db",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-    "summary": "1. Securities and Exchange Commission is reportedly poised to release a major crypto proposal as it seeks to institute its digital assets agenda.",
-    "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-18T22:20:27.000Z"
-  },
-  {
-    "id": "9de87ff4-1cee-4bbc-aba5-b6050ec51b18",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Iran’s Economy Ministry has reportedly explored a Bitcoin-settled maritime insurance plan for Strait of Hormuz shipping that could generate over $10B, per Fars News Agency.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2c59b45a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-18T22:19:34+00:00"
   }
 ]
