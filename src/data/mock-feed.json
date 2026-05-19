@@ -1,5 +1,415 @@
 [
   {
+    "id": "48d0a70b-b56f-4977-af98-699dde29f7b5",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Aave V4 Gains Momentum With Two-Layer Market Isolation Structure During Capped Launch",
+    "summary": "1. Aave V4 introduces a new market architecture featuring collateral isolation across Hubs and Spokes, with Prime, Core, and Plus Hubs launching initially.",
+    "url": "https://thedefiant.io/news/defi/aave-v4-market-isolation-structure-launch-z6fuwi",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-19T17:32:35.000Z"
+  },
+  {
+    "id": "edc5b9c1-6de8-4304-970a-b580e1f0655a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ A wallet possibly linked to a16z added another 372K HYPE ($16.9M) during Monday's Bitcoin dump, bringing its 34-day stack to $90.87M, per Lookonchain.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#974cbcf9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-19T17:29:11+00:00"
+  },
+  {
+    "id": "54db668f-dc37-41c2-a7e2-ef384edc9ac4",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 President Trump says the rise in gas prices is \"peanuts\" and \"very temporary.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5eb40909",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-19T17:23:50+00:00"
+  },
+  {
+    "id": "b85e4524-12ee-4c08-994d-2901e21e39a4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Stablecoin supply surpasses $300B but growth slows",
+    "summary": "The total supply of stablecoins has surpassed $300 billion, but market growth is slowing, The Block reported. Over the past month, Tether's (USDT) supply increased by more than $5 billion, while the combined supply of USDC, USDe, and PYUSD decreased by $4.2 billion during the same period. This resulted in a net increase of only about $900 million for the entire stablecoin market, representing a growth rate of just 0.3% of the total supply. The data suggests a strong trend of existing stablecoin capital moving into USDT rather than new funds entering the market.",
+    "url": "https://t.me/CoinnessGL#ee6dc91a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T17:20:54+00:00"
+  },
+  {
+    "id": "bb6e97cc-4413-4f9e-abef-87ae6f49e4bf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "BNB Smart Chain Shows Quantum-Safe Crypto Works Despite 50% Throughput Drop",
+    "summary": "1. Developers behind BNB Smart Chain have demonstrated that post-quantum cryptography can already function on a live blockchain architecture, though the transition comes with major trade-offs in transaction size and throughput.\n2. The findings highlight how networks may eventually adapt to the long-term risks posed by quantum computing.\n3. BNB Smart Chain Advances Quantum Security Testing BNB Smart […]",
+    "url": "https://news.bitcoin.com/bnb-smart-chain-shows-quantum-safe-crypto-works-despite-50-throughput-drop/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-05-19T17:15:48.000Z"
+  },
+  {
+    "id": "53010fa2-aa2a-41b0-add2-63ee73266711",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US SEC proposes easing IPO rules, potentially benefiting crypto firms",
+    "summary": "The U.S. Securities and Exchange Commission (SEC) has announced a proposal to reform its rules for initial public offerings (IPOs) and publicly listed companies, CoinDesk reported. The SEC described the proposal as the most significant overhaul in over 20 years. The core objective is to slow the decline of public companies in the U.S. by reducing regulatory costs and streamlining the capital-raising process. Market observers believe the changes could particularly ease the listing burden for mid-sized cryptocurrency firms, for which the high costs and complex procedures of maintaining a listing have been major barriers to entry. One of the key proposed changes would allow newly public companies to use shelf registration immediately following their IPO, enabling them to raise additional funds more quickly in response to market conditions.",
+    "url": "https://t.me/CoinnessGL#671ea64e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T17:11:03+00:00"
+  },
+  {
+    "id": "5e9ae8e5-ae4c-4d29-a0bd-b1b349966c8d",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💡 CoinMarketCap | DexScan Updates 💡DexScan just added Holders Data to TRON.",
+    "summary": "Token allocation metrics are now visible directly where trading decisions actually happen.Better data means better decisions. Now you can: 🔷 See how the token supply is distributed 🔷 Avoid bundled tokens and potential rug pulls 🔷 Make safer trades with complete wallet metricsCheck the Holders tab on your favorite pairs today!",
+    "url": "https://t.me/CoinMarketCapAnnouncements#aaab5f9a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-19T17:04:12+00:00"
+  },
+  {
+    "id": "5efa7735-5972-4ef5-aab3-7d886a4e1fe0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The SEC wants to let newly public companies raise cash instantly in its biggest rule change in decades",
+    "summary": "1. The agency is proposing its largest overhaul of public listing rules in over 20 years, cutting compliance costs and giving crypto firms a much easier path to raise cash on Wall Street.",
+    "url": "https://www.coindesk.com/markets/2026/05/19/the-sec-wants-to-let-newly-public-companies-raise-cash-instantly-in-its-biggest-rule-change-in-decades",
+    "author": "Helene Braun",
+    "created_at": "2026-05-19T17:04:07.000Z"
+  },
+  {
+    "id": "4b0a8f25-dff9-4f9a-88d3-c307998cbca0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Deloitte acqui-hires crypto infrastructure firm Blocknative",
+    "summary": "Deloitte has acquired cryptocurrency infrastructure firm Blocknative in an acqui-hire, The Block reported. The Blocknative team is set to join Deloitte's Web3 innovation projects. Blocknative is currently in the process of shutting down its operations, with its API and gas network services scheduled to be phased out by June 19.",
+    "url": "https://t.me/CoinnessGL#864dc6d1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T16:58:50+00:00"
+  },
+  {
+    "id": "b959e230-d877-4c2f-be47-3e1e15c5e780",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": " BoE deputy says tokenization could cut costs, boost competition",
+    "summary": "1. The UK central bank said digital money should remain trusted and interoperable as it weighs stablecoin reforms and near-24/7 settlement to support tokenized markets.",
+    "url": "https://cointelegraph.com/news/boe-breeden-sees-value-supporting-tokenized-uk-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-05-19T16:54:43.000Z"
+  },
+  {
+    "id": "7f7a2013-957a-45a0-8e1c-304e41b3a75e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ The 30-year US Treasury yield has topped 5.19%, its highest level in nearly 19 years.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ce71127f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-19T16:54:18+00:00"
+  },
+  {
+    "id": "60f61fca-50e0-4638-a68d-554e142b8506",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Deloitte absorbs Blocknative team as crypto infra firm winds down APIs and Gas Network",
+    "summary": "1. The Blocknative website now returns a post noting that the firm is “now in the process of ceasing operations.\"",
+    "url": "https://www.theblock.co/post/401912/deloitte-absorbs-blocknative-team-as-crypto-infra-firm-winds-down-apis-and-gas-network?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-05-19T16:52:27.000Z"
+  },
+  {
+    "id": "506fe16d-0398-4b5a-b0a9-ae29e3c4a051",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Polymarket Launches Prediction Markets on Private Company Valuations With Nasdaq Data",
+    "summary": "1. Polymarket partnered with Nasdaq Private Market to enable trading on private company valuations, IPO timing, and secondary share prices, with early markets on OpenAI, Anthropic, Stripe, and other unicorns.",
+    "url": "https://thedefiant.io/news/markets/polymarket-nasdaq-private-company-prediction-markets-xvwn0x",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-19T16:47:22.000Z"
+  },
+  {
+    "id": "4a787992-f84b-475d-8745-07d550087af7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Polymarket Opens Private Company Markets Using Nasdaq Data for 1,600 Unicorns",
+    "summary": "1. Polymarket, the world’s largest prediction market platform, has launched the first prediction markets tied to private company performance, using exclusive data from Nasdaq Private Market to resolve outcomes.\n2. Polymarket Taps Nasdaq Private Market Data to Resolve New Private Company Bets The move opens a segment of financial markets that has long been closed to most […]",
+    "url": "https://news.bitcoin.com/polymarket-opens-private-company-markets-using-nasdaq-data-for-1600-unicorns/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-19T16:42:12.000Z"
+  },
+  {
+    "id": "1169f3ac-d9dd-4849-9417-475d5dce02b1",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "People Are More Willing to Lie to AI Than Humans, Study Finds",
+    "summary": "1. Consumers feel less social pressure when lying to an AI chatbot, research finds, while human-like social cues reduce dishonest behavior.",
+    "url": "https://decrypt.co/368334/people-more-willing-lie-ai-humans-study-finds",
+    "author": "Jason Nelson",
+    "created_at": "2026-05-19T16:40:32.000Z"
+  },
+  {
+    "id": "f2a41be2-f1fc-487d-a0e8-125364d05dc5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The U.S. can’t lose the bitcoin race to China",
+    "summary": "1. The next global power competition is not being fought over missiles alone.\n2. It’s being fought over money, and right now, China is moving aggressively to shape the future of it, argues Gooden.",
+    "url": "https://www.coindesk.com/opinion/2026/05/19/the-u-s-can-t-lose-the-bitcoin-race-to-china",
+    "author": "Congressman Lance Gooden",
+    "created_at": "2026-05-19T16:36:30.000Z"
+  },
+  {
+    "id": "9f1f5c41-1ff1-49b1-a8af-76bc93cfc7d8",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump endorses Paxton over Cornyn for Texas Senate",
+    "summary": "1. The late endorsement comes just a week before the heated GOP runoff election between the state attorney general and incumbent Sen.\n2. John Cornyn.",
+    "url": "https://www.politico.com/news/2026/05/19/trump-endorses-ken-paxton-texas-senate-00927811",
+    "author": "By Liz Crampton",
+    "created_at": "2026-05-19T16:36:04.000Z"
+  },
+  {
+    "id": "fe67cae7-c9cf-4eaf-b21f-3f2ace31ceab",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, is running for the United States Senate, to represent a place I love and WON, BIG, three times, with 6.4 Million Votes in 2024 (The Most Votes in the History of the State, BY FAR)!\n2. I know Ken well, have seen him tested at the highest and most difficult levels, and he is a WINNER!\n3. Ken is a Strong Supporter of TERMINATING THE FILIBUSTER and, very importantly, THE SAVE AMERICA ACT, something which polls at 87%, including Dumocrats, and yet can’t seem to get approved.",
+    "url": "https://trumpstruth.org/statuses/38633",
+    "author": "Trump Truth",
+    "created_at": "2026-05-19T16:30:52.000Z"
+  },
+  {
+    "id": "3c45db75-cca7-42d1-80af-d7a7933f65fe",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "XRP price risks 50% drop despite 9-day ETF inflow streak",
+    "summary": "1. Spot XRP ETFs record net inflows for nine days, absorbing sell pressure and potentially supporting an XRP price recovery over time.",
+    "url": "https://cointelegraph.com/markets/xrp-price-risks-50-drop-despite-9-day-etf-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nancy Lubale",
+    "created_at": "2026-05-19T16:20:35.000Z"
+  },
+  {
+    "id": "854a12a5-dec8-4346-86bc-335c18d725b5",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Canaan Shares Plunge as CEO Says Middle East Conflict Is Clouding Outlook for Bitcoin Miners",
+    "summary": "1. Canaan shares fell after the Bitcoin mining company disclosed an $88.7 million first-quarter net loss, its second straight negative period.",
+    "url": "https://decrypt.co/368365/canaan-shares-plunge-ceo-middle-east-conflict-clouding-outlook-bitcoin-miners",
+    "author": "André Beganski",
+    "created_at": "2026-05-19T16:20:26.000Z"
+  },
+  {
+    "id": "a332bdc9-3da2-40a4-be9d-880f08bee213",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇨🇳 US and China agree to launch \"government-to-government dialogue on AI.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#75f6aa79",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-19T16:15:29+00:00"
+  },
+  {
+    "id": "2309cac2-9973-4294-ad94-9c224c02ba32",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin-Backed Loans Could Hit $1 Trillion, Ledn Says — But Most Crypto Holders Still Haven’t Borrowed",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin-Backed Loans Could Hit $1 Trillion, Ledn Says — But Most Crypto Holders Still Haven’t Borrowed\nLedn says Bitcoin-backed lending could grow from a $3 billion niche to a $1 trillion market as demand outpaces trust in lending platforms.\n2. This post Bitcoin-Backed Loans Could Hit $1 Trillion, Ledn Says — But Most Crypto Holders Still Haven’t Borrowed first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-loans-could-hit-1-trillion-ledn",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-19T16:12:52.000Z"
+  },
+  {
+    "id": "fea08f18-3e4a-42ec-9428-0481874b0201",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price stays under $77K as US bond yields near 20-year highs",
+    "summary": "1. BTC price stayed pinned below $77,000 amid rising US bond yields and oil prices, with market analysts saying Bitcoin is now at a \"crucial level of support.\"",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-stays-under-77k-as-us-bond-yields-near-20-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-05-19T16:00:27.000Z"
+  },
+  {
+    "id": "4a0a1422-bc92-4103-8706-930ec8419b8a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Stablecoin infrastructure startup Checker raises $8 million from Galaxy Ventures and others",
+    "summary": "1. Stablecoin infrastructure startup Checker has raised $8 million in funding from a range of investors including Galaxy and Framework.",
+    "url": "https://www.theblock.co/post/401906/stablecoin-infrastructure-startup-checker-funding?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-05-19T16:00:02.000Z"
+  },
+  {
+    "id": "aab6cce0-0188-4a27-9068-e6ef2b8f5bae",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Georgia Republicans worry their path to defeating Ossoff is becoming more difficult",
+    "summary": "1. The party is heading into Tuesday night’s primary with no dominant front-runner and many voters still undecided.",
+    "url": "https://www.politico.com/news/2026/05/19/georgia-gop-senate-primary-chaos-ossoff-00927372",
+    "author": "By Alec Hernandez and Erin Doherty",
+    "created_at": "2026-05-19T16:00:00.000Z"
+  },
+  {
+    "id": "8ca9de9a-2460-4829-995b-e5c1b8056dda",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Polymarket partners with Nasdaq Private Market allowing users to trade private companies.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#c434e6cf",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-19T15:55:02+00:00"
+  },
+  {
+    "id": "adf4edc7-2065-4a2d-8916-bcefb21285b9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Prediction Markets Show $84K Ceiling as Traders Stack Bets on Polymarket, Kalshi, and Myriad",
+    "summary": "1. Prediction market traders have placed more than $100 million in combined volume across Polymarket, Kalshi, and Myriad on where bitcoin’s price lands in May 2026 and beyond, with crowd odds pointing to a market stuck below $85,000 for the near term.\n2. Traders Put $37M on Bitcoin All-Time High Milestones as $150K Odds Sit at 1% […]",
+    "url": "https://news.bitcoin.com/bitcoin-prediction-markets-show-84k-ceiling-as-traders-stack-bets-on-polymarket-kalshi-and-myriad/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-19T15:54:17.000Z"
+  },
+  {
+    "id": "5420c253-e3fc-481e-a427-45a466d4834d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "‘What's happening at the EF?’ Ethereum community looking for answers after high-profile departures",
+    "summary": "1. A wave of recent high-profile departures at the Ethereum Foundation has reignited longstanding questions from community members about what is going on inside the organization.",
+    "url": "https://www.coindesk.com/tech/2026/05/19/what-s-happening-at-the-ef-ethereum-community-looking-for-answers-after-high-profile-departures",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-05-19T15:45:26.000Z"
+  },
+  {
+    "id": "9ce0b8da-3ae4-4d5d-a46c-d03c823edb81",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+    "summary": "1. Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company.\n2. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+    "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+    "author": "Rebecca Bellan, Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-05-19T15:43:04.000Z"
+  },
+  {
+    "id": "56fd58b2-fe99-4ad0-a5c3-da3f02cbde2c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Senator Warren criticizes OCC over Ripple, Coinbase and other crypto trust charters",
+    "summary": "1. Last year, the OCC granted conditional approvals to Circle, Ripple, BitGo, Fidelity, and Paxos, as well as other firms more recently.",
+    "url": "https://www.theblock.co/post/401883/senator-warren-criticizes-occ-over-ripple-coinbase-and-other-crypto-trust-charters?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-05-19T15:40:38.000Z"
+  },
+  {
+    "id": "41341de1-9870-4cf7-a39f-b94c1998c614",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling",
+    "summary": "1. \"The Light Phone is designed to be used as little as possible,\" founder Joe Hollier told TechCrunch.",
+    "url": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-05-19T15:37:17.000Z"
+  },
+  {
+    "id": "743803b5-d327-4752-a57e-8e82e7c9173f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
+    "summary": "1. The attacks are part of a wider campaign known as Mini Shai-Hulud, which has already compromised several open source projects and, in turn, developers and companies that use them.",
+    "url": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-05-19T15:32:46.000Z"
+  },
+  {
+    "id": "d7541507-aba8-4dca-a31f-db429eff8461",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrumpTom Massie of Kentucky, the worst and most unreliable Republican Congressman in the history of our Country, is an even bigger insult to our Nation than Senator Bill Cassidy of Louisiana, who suffered an unprecedented loss tonight by not even being allowed to run in the Republican Primary.\n2. This is the first time such a thing has ever happened to a sitting U.S.\n3. That’s what you get by voting to Impeach an innocent man, especially one who made it possible for Cassidy’s Senate win.",
+    "url": "https://trumpstruth.org/statuses/38628",
+    "author": "Trump Truth",
+    "created_at": "2026-05-19T15:28:03.000Z"
+  },
+  {
+    "id": "2a76e6ed-d1ab-40b0-b616-c230b35cd2da",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrumpBad Congressman Tom Massie voted against Tax Cuts, the Border Wall, our Military and Law Enforcement.\n2. Actually, he voted against almost everything that is good.\n3. The Worst Republican Congressman in History.",
+    "url": "https://trumpstruth.org/statuses/38629",
+    "author": "Trump Truth",
+    "created_at": "2026-05-19T15:27:55.000Z"
+  },
+  {
+    "id": "c6e1ade8-c788-40f5-8424-a58f778e1dcc",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "OpenAI cofounder Andrej Karpathy joins AnthropicTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#95bc6828",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-19T15:27:01+00:00"
+  },
+  {
+    "id": "9e4557a7-17d0-4416-b47e-c051a67ae5f0",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Canaan (CAN) Wins Contract to Supply Crypto Mining Heat to Nordic District Heating Network",
+    "summary": "1. Bitcoin Magazine\n\nCanaan (CAN) Wins Contract to Supply Crypto Mining Heat to Nordic District Heating Network\nCanaan Inc.\n2. landed a Nordic district heating deal using hydro-cooled miners to warm ~2,800 homes, marking a major step toward scalable “hash-to-heat” infrastructure.\n3. This post Canaan (CAN) Wins Contract to Supply Crypto Mining Heat to Nordic District Heating Network first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/canaan-can-wins-contract-mining-heat",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-19T15:22:07.000Z"
+  },
+  {
+    "id": "44a4f78d-18a0-4127-8f6f-9decdfbcacea",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Giant Strategy Gets Price Target Boost From TD Cowen After $2 Billion BTC Buy",
+    "summary": "1. Analysts at TD Cowen believe shares in Bitcoin-buying Strategy behemoth could jump more than 139% in the next 12 months.",
+    "url": "https://decrypt.co/368347/bitcoin-giant-strategy-price-target-boost-td-cowen-2-billion-btc-buy",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-05-19T15:08:53.000Z"
+  },
+  {
+    "id": "36971d87-ef71-4a01-aeb2-ba9bc66b1114",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "SEC proposes rule changes to simplify public company reporting, expand shelf offerings and encourage more companies to go publicTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#06bdc0fa",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-19T15:00:47+00:00"
+  },
+  {
+    "id": "d54a330a-03d5-4536-9623-47521298a48d",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Strive (ASST) Stacks Another 382 BTC, Total Treasury Climbs to 15,391 Bitcoin",
+    "summary": "1. Bitcoin Magazine\n\nStrive (ASST) Stacks Another 382 BTC, Total Treasury Climbs to 15,391 Bitcoin\nStrive, Inc.\n2. added 382 Bitcoin for $30.3 million, pushing its treasury to 15,391 BTC as it continues an aggressive, equity-funded accumulation strategy tied to shareholder Bitcoin exposure growth.\n3. This post Strive (ASST) Stacks Another 382 BTC, Total Treasury Climbs to 15,391 Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/strive-stacks-another-382-btc",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-19T14:46:40.000Z"
+  },
+  {
+    "id": "5ea4e538-c45a-41f3-a649-f88931082877",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP REMARKS-We may have to give Iran another hit, not sure-You'll know very soon if we have to make another big hit-Decision on Iran action coming soon-We will help Cuba-Think can reach a diplomatic deal with Cuba-Don't know about changing Cuba's regime- Waiting on Iran for limited period of time- Time for Iran: 2-3 days, maybe til early next weekTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#bc626a92",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-19T14:44:35+00:00"
+  },
+  {
+    "id": "7bc8ec69-fb8e-47f2-b2a8-2c0b5c6aba67",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Tor Project and Funding the Commons Launch Web3-Native Crowdfunding Campaign",
+    "summary": "1. A coalition of privacy and crypto organizations is using quadratic funding to channel crypto donations to 10 nonprofits fighting censorship and surveillance worldwide.",
+    "url": "https://thedefiant.io/news/infrastructure/tor-project-and-funding-the-commons-launch-web3-native-crowdfunding-campaign",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-19T14:33:18.000Z"
+  },
+  {
     "id": "9c22bcac-6a0c-4844-a6ca-8cefaa5cc27f",
     "source": "Bitcoin Magazine",
     "type": "rss",
@@ -268,235 +678,5 @@
     "url": "https://decrypt.co/368321/bitcoin-etfs-shed-649m-in-a-day-as-long-term-btc-holders-limit-downside-potential",
     "author": "Akash Girimath",
     "created_at": "2026-05-19T11:55:54.000Z"
-  },
-  {
-    "id": "c08d09a4-18e3-4b0f-bff0-52f5a68b9583",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "BlackRock deposits 5,847 $BTC worth $450M into Coinbase PrimeTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#80c511d6",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-19T11:41:40+00:00"
-  },
-  {
-    "id": "425fc258-e9ba-4f26-824a-26158b966d4f",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
-    "summary": "1. HYPE soared as the SEC opened the door to third-party tokenized stocks.\n2. Strategy bought another $2B in BTC, and price still went lower.",
-    "url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
-    "author": "Tyler Warner",
-    "created_at": "2026-05-19T11:26:32.000Z"
-  },
-  {
-    "id": "dbc4e31e-3966-48cd-83f6-1ae0adeca767",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin may bottom in October if historical reward-halving cycle holds",
-    "summary": "1. Your day-ahead look for May 19, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/05/19/bitcoin-may-bottom-in-october-if-historical-reward-halving-cycle-holds",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-19T11:25:18.000Z"
-  },
-  {
-    "id": "6bb39a38-7aa8-4116-a48c-cbc3b8881113",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Wallet cluster earned $2.4M with 98% win rate on Polymarket military bets: Bubblemaps",
-    "summary": "1. Bubblemaps’ investigation found a cluster of nine accounts that generated $2.4 million with a near-perfect win rate on Polymarket contracts tied to major US military operations.",
-    "url": "https://cointelegraph.com/news/bubblemaps-polymarket-cluster-win-military-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-05-19T11:10:40.000Z"
-  },
-  {
-    "id": "9db839a5-7985-4036-b445-82c17480ae42",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Japan’s ruling party advances AI-blockchain finance plan, targeting 24/7 automated payments, yen stablecoins and tokenized BOJ depositsTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#37d5184f",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-19T10:14:46+00:00"
-  },
-  {
-    "id": "4ff51ba1-0306-4b74-8169-2b8eb2f02cb8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC spot CVD chart as of 10:00 a.m. UTC, May 19",
-    "summary": "The Spot Cumulative Volume Delta (CVD) chart analyzes the order book for the BTC/USDT spot pair. It consists of a Volume Heatmap on top and the CVD indicator at the bottom.- The Volume Heatmap at the top tracks trading volume at specific price levels. The background color brightens when the price lingers in a certain range or makes a significant move. These brighter areas can potentially act as support or resistance levels.- The Cumulative Volume Delta (CVD) indicator at the bottom shows buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. For example, the yellow line represents orders between $100 and $1,000, while the brown line indicates large orders ranging from $1 million to $10 million.",
-    "url": "https://t.me/CoinnessGL#36e2ecbf",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T10:01:44+00:00"
-  },
-  {
-    "id": "b6c20845-da5a-4856-b1e6-5e4ca0219165",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Ethereum Foundation sees key departures, sparking community concern",
-    "summary": "A series of resignations by key personnel at the Ethereum Foundation (EF) over the past several months is causing deep concern within the community, PA News reported. The departures began in February with the resignation of co-Executive Director Tomasz Stańczak. In April, Josh Stark and Trent Van Epps, who led major Ethereum upgrades, also resigned. This was followed in May by a string of key researchers, including Protocol Research co-lead Alex Stokes, Barnabé Monnot, and Tim Beiko, who either resigned or took leaves of absence. The outlet added that the talent drain stems from pushback against a censorship resistance pledge required by the foundation, as well as industry-low salary levels. In response to the departures, the foundation has appointed new co-leads, including Will Corcoran, Kev Wedderburn, and Fredrik Svantes.",
-    "url": "https://t.me/CoinnessGL#9b42008d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T10:00:55+00:00"
-  },
-  {
-    "id": "3a2eb681-1694-4ade-9184-d4506386aa35",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
-    "summary": "1. Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
-    "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
-    "author": "Tim De Chant",
-    "created_at": "2026-05-19T10:00:00.000Z"
-  },
-  {
-    "id": "f1c400ec-870b-4e01-9e77-d814d42c45a3",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Swan Bitcoin sued for nearly $1B over pre-bankruptcy transfers from Prime Trust",
-    "summary": "1. Swan Bitcoin has been sued for allegedly using insider access to pull nearly $1 billion in Bitcoin and cash from Prime Trust days before its 2023 bankruptcy filing.",
-    "url": "https://cointelegraph.com/news/swan-bitcoin-sued-for-nearly-1b-over-pre-bankruptcy-transfers-from-prime-trust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Amin Haqshanas",
-    "created_at": "2026-05-19T09:37:49.000Z"
-  },
-  {
-    "id": "1bee5277-ffc3-4c70-872d-9086bc0de3a6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Strategy Holds 843,738 BTC vs Blackrock’s 817,138 as the Race to a Million Bitcoin Intensifies",
-    "summary": "1. Fewer than 27,000 BTC now separates Strategy and Blackrock in what has become an unprecedented contest to be the first institution to hold 1 million bitcoin.\n2. Two Giants, One Finish Line For much of late 2024 and early 2025, Blackrock’s iShares Bitcoin Trust was regarded as the fastest-growing exchange-traded fund (ETF) in U.S.\n3. market history.",
-    "url": "https://news.bitcoin.com/strategy-blackrock-race-1-million-bitcoin-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-19T09:30:54.000Z"
-  },
-  {
-    "id": "ed9b6c2a-c5fa-496b-af5f-2996915fcced",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Japan’s ruling party advances proposal to build national AI-blockchain financial system",
-    "summary": "1. Japan's LDP formally approved a policy proposal to build a next-generation financial system based on blockchain and AI.",
-    "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-19T09:29:21.000Z"
-  },
-  {
-    "id": "3e047dc5-5c21-40c0-89bd-8247715811e2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Traders Push BTC Back to $77K After Trump Freezes Iran Response",
-    "summary": "1. On May 19, bitcoin rebounded from a low of $76,000 to trade above $77,000 ($77,200 by 3:50 AM EST).\n2. However, Bitfinex analysts warn that the drop below $78,000 exposes deep market fragilities.\n3. Geopolitical Relief Bitcoin climbed back above $77,000 on the morning of May 19, rebounding from a late‑Monday dip to $76,000.",
-    "url": "https://news.bitcoin.com/bitcoin-traders-push-btc-back-to-77k-after-trump-freezes-iran-response/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-19T09:15:59.000Z"
-  },
-  {
-    "id": "f0427aa5-da88-4865-a78a-440f99e9a5b6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Hyperscale Data holds 692.4 BTC, plans to expand holdings",
-    "summary": "New York Stock Exchange (NYSE)-listed company Hyperscale Data (GPUS) announced that it held 692.4 BTC, worth $53.6 million, as of May 17. The company plans to allocate its cash assets to purchase more Bitcoin in the future.",
-    "url": "https://t.me/CoinnessGL#f0f36747",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T09:13:05+00:00"
-  },
-  {
-    "id": "76d4efa9-fe24-46dd-8461-f52ece3185ac",
-    "source": "The Block",
-    "type": "rss",
-    "title": "WLFI treasury firm AI Financial posts $271 million quarterly net loss, flags doubt over survival within one year",
-    "summary": "1. AI Financial posted a net loss of $271.5 million for the quarter ended March 28, compared to a net loss of $2.4 million a year earlier.",
-    "url": "https://www.theblock.co/post/401788/wlfi-treasury-ai-financial-posts-loss?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-19T09:01:36.000Z"
-  },
-  {
-    "id": "a3c9cdfc-05ca-4faa-b433-f5a3d815857f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Echo Protocol suffers $76 million exploit in eBTC minting attack on Monad",
-    "summary": "1. The Bitcoin-focused DeFi protocol suffered an attack whereby about 1,000 unauthorized eBTC $77 million were minted on the Monad blockchain",
-    "url": "https://www.coindesk.com/business/2026/05/19/echo-protocol-suffers-usd76-million-exploit-in-ebtc-minting-attack-on-monad",
-    "author": "Jamie Crawley",
-    "created_at": "2026-05-19T08:42:15.000Z"
-  },
-  {
-    "id": "6a29c44d-ea0c-473d-b461-f1f86ab429c6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Shinhan Financial pursuing Hong Kong digital asset license",
-    "summary": "Shinhan Investment & Securities' Hong Kong subsidiary is in discussions with the city's Securities and Futures Commission (SFC) to expand its business scope to include tokenized assets (STOs and RWAs) while maintaining its existing license for traditional securities, The Herald Business reported. A senior official at Shinhan Investment & Securities said the company is currently in preliminary talks with Hong Kong's financial authorities. The official added that they are primarily reviewing a strategy focused on STO issuance and distribution to professional investors such as institutional investors, family offices, and high-net-worth individuals. more:",
-    "url": "https://t.me/CoinnessGL#1d37c232",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T08:40:31+00:00"
-  },
-  {
-    "id": "f1c4d094-3944-46c2-8b74-abed1b2129ae",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst: BTC uptrend intact if it holds $75K-$76K support",
-    "summary": "Cryptocurrency analyst Michaël van de Poppe noted on X that despite large-scale liquidations of BTC long positions and a surge in trading volume during this week's correction, Bitcoin did not experience a sharp drop. He added that, unlike in past corrections, altcoins also saw limited losses relative to BTC. However, van de Poppe cautioned that trends on the weekly and monthly charts are still showing bearish signals, so the possibility of a further decline cannot be entirely ruled out. He concluded that if BTC can maintain support in the key $75,000 to $76,000 zone, it could rally to $79,210, where last week's CME gap is located.",
-    "url": "https://t.me/CoinnessGL#f8dc05c1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T08:37:11+00:00"
-  },
-  {
-    "id": "7647186e-eb22-4b8e-97fa-beb7045ea386",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Over $787M in BTC longs face liquidation if price drops to $75,576",
-    "summary": "According to data from CoinGlass, long positions worth $787.43 million on major centralized exchanges face liquidation if Bitcoin's price falls to $75,576. On the upside, a break above $77,736 would liquidate short positions valued at $474.41 million.",
-    "url": "https://t.me/CoinnessGL#0a9d601d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T08:31:26+00:00"
-  },
-  {
-    "id": "b4a42076-7a6d-4c17-ae1e-733620d66a8b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Elon Musk Loses OpenAI Trial, Vows Appeal After Jury Dismisses Claims Over Statute of Limitations",
-    "summary": "1. A federal jury has thrown out every claim in Elon Musk’s lawsuit against OpenAI and Sam Altman, finding the case to have been filed past its legal deadline.\n2. Verdict Reached, But Battle Not Over A federal jury in Oakland, California sided with OpenAI on May 18, unanimously dismissing all claims in Elon Musk’s lawsuit against […]",
-    "url": "https://news.bitcoin.com/elon-musk-openai-lawsuit-dismissed-appeal-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-19T08:30:27.000Z"
-  },
-  {
-    "id": "98dfd262-78f9-4d91-9b43-c2fc1296b48c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "A DeFi exchange becomes the first to offer equity perpetuals powered by Nasdaq data",
-    "summary": "1. The partnership underscores both the rapid growth of equity perpetuals in onchain markets and Nasdaq’s broader strategy to support tokenized equity trading infrastructure.",
-    "url": "https://www.coindesk.com/markets/2026/05/19/a-defi-exchange-becomes-the-first-to-offer-equity-perpetuals-powered-by-nasdaq-data",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-19T08:28:30.000Z"
-  },
-  {
-    "id": "1a3141df-574a-4c55-bcd8-b2e43583748c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
-    "summary": "1. CoinShares data shows investors are rotating into listed products based on XRP and SOL while bitcoin and ethereum products posted heavy weekly outflows.",
-    "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-19T08:25:17.000Z"
-  },
-  {
-    "id": "7568609b-764c-4db2-991d-73c18e8f1e05",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US credit-card 90+ day delinquencies rose to 13.1% in Q1, the highest since 2010, while student-loan delinquencies jumped to 10.3% and auto-loan delinquencies hit a record 5.6%Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#2a0bcb01",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-19T08:07:08+00:00"
-  },
-  {
-    "id": "24285af0-4b93-4704-9e7f-f8c2a94967a2",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Tether files for South Korean trademark with company name and logo",
-    "summary": "Tether, the world's largest stablecoin issuer, has recently filed a trademark application in South Korea that includes its company name and logo. According to the Korean Intellectual Property Office's information search service, the application was submitted on May 14.While Tether has previously filed for domestic trademarks, those applications were primarily for its stablecoin product names. This latest move is being interpreted by some as a potential signal of a full-scale entry into the South Korean market.This follows a similar action by Circle, the world's second-largest stablecoin issuer, which also filed for a trademark with the South Korean patent office last December. more:",
-    "url": "https://t.me/CoinnessGL#f2d7571a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T08:04:06+00:00"
   }
 ]
