@@ -1,6 +1,76 @@
 [
   {
-    "id": "b6e41c3f-7c46-4f0c-985e-6b77892cb9fc",
+    "id": "a3c9cdfc-05ca-4faa-b433-f5a3d815857f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Echo Protocol suffers $76 million exploit in eBTC minting attack on Monad",
+    "summary": "1. The Bitcoin-focused DeFi protocol suffered an attack whereby about 1,000 unauthorized eBTC $77 million were minted on the Monad blockchain",
+    "url": "https://www.coindesk.com/business/2026/05/19/echo-protocol-suffers-usd76-million-exploit-in-ebtc-minting-attack-on-monad",
+    "author": "Jamie Crawley",
+    "created_at": "2026-05-19T08:42:15.000Z"
+  },
+  {
+    "id": "6a29c44d-ea0c-473d-b461-f1f86ab429c6",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Shinhan Financial pursuing Hong Kong digital asset license",
+    "summary": "Shinhan Investment & Securities' Hong Kong subsidiary is in discussions with the city's Securities and Futures Commission (SFC) to expand its business scope to include tokenized assets (STOs and RWAs) while maintaining its existing license for traditional securities, The Herald Business reported. A senior official at Shinhan Investment & Securities said the company is currently in preliminary talks with Hong Kong's financial authorities. The official added that they are primarily reviewing a strategy focused on STO issuance and distribution to professional investors such as institutional investors, family offices, and high-net-worth individuals. more:",
+    "url": "https://t.me/CoinnessGL#1d37c232",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T08:40:31+00:00"
+  },
+  {
+    "id": "f1c4d094-3944-46c2-8b74-abed1b2129ae",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analyst: BTC uptrend intact if it holds $75K-$76K support",
+    "summary": "Cryptocurrency analyst Michaël van de Poppe noted on X that despite large-scale liquidations of BTC long positions and a surge in trading volume during this week's correction, Bitcoin did not experience a sharp drop. He added that, unlike in past corrections, altcoins also saw limited losses relative to BTC. However, van de Poppe cautioned that trends on the weekly and monthly charts are still showing bearish signals, so the possibility of a further decline cannot be entirely ruled out. He concluded that if BTC can maintain support in the key $75,000 to $76,000 zone, it could rally to $79,210, where last week's CME gap is located.",
+    "url": "https://t.me/CoinnessGL#f8dc05c1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T08:37:11+00:00"
+  },
+  {
+    "id": "7647186e-eb22-4b8e-97fa-beb7045ea386",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Over $787M in BTC longs face liquidation if price drops to $75,576",
+    "summary": "According to data from CoinGlass, long positions worth $787.43 million on major centralized exchanges face liquidation if Bitcoin's price falls to $75,576. On the upside, a break above $77,736 would liquidate short positions valued at $474.41 million.",
+    "url": "https://t.me/CoinnessGL#0a9d601d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T08:31:26+00:00"
+  },
+  {
+    "id": "b4a42076-7a6d-4c17-ae1e-733620d66a8b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Elon Musk Loses OpenAI Trial, Vows Appeal After Jury Dismisses Claims Over Statute of Limitations",
+    "summary": "1. A federal jury has thrown out every claim in Elon Musk’s lawsuit against OpenAI and Sam Altman, finding the case to have been filed past its legal deadline.\n2. Verdict Reached, But Battle Not Over A federal jury in Oakland, California sided with OpenAI on May 18, unanimously dismissing all claims in Elon Musk’s lawsuit against […]",
+    "url": "https://news.bitcoin.com/elon-musk-openai-lawsuit-dismissed-appeal-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-19T08:30:27.000Z"
+  },
+  {
+    "id": "98dfd262-78f9-4d91-9b43-c2fc1296b48c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "A DeFi exchange becomes the first to offer equity perpetuals powered by Nasdaq data",
+    "summary": "1. The partnership underscores both the rapid growth of equity perpetuals in onchain markets and Nasdaq’s broader strategy to support tokenized equity trading infrastructure.",
+    "url": "https://www.coindesk.com/markets/2026/05/19/a-defi-exchange-becomes-the-first-to-offer-equity-perpetuals-powered-by-nasdaq-data",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-19T08:28:30.000Z"
+  },
+  {
+    "id": "1a3141df-574a-4c55-bcd8-b2e43583748c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
+    "summary": "1. CoinShares data shows investors are rotating into listed products based on XRP and SOL while bitcoin and ethereum products posted heavy weekly outflows.",
+    "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-19T08:25:17.000Z"
+  },
+  {
+    "id": "4e9f79c6-2d59-4ad0-b568-63eac416e526",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US credit-card 90+ day delinquencies rose to 13.1% in Q1, the highest since 2010, while student-loan delinquencies jumped to 10.3% and auto-loan delinquencies hit a record 5.6%Twitter",
@@ -270,7 +340,7 @@
     "created_at": "2026-05-19T03:30:56.000Z"
   },
   {
-    "id": "37417b0f-cc79-471d-b47a-e0b74f042f31",
+    "id": "6ead36b0-b680-4eb2-b303-0012020fc00a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Vitalik Buterin says AI-assisted formal verification could make Ethereum and crypto infrastructure more secure against bugs and cyberattacks.",
@@ -280,7 +350,7 @@
     "created_at": "2026-05-19T03:09:11+00:00"
   },
   {
-    "id": "78aba7d9-34a5-44dd-a391-7d9ba0715a89",
+    "id": "a6e389d7-1870-4aa9-90b9-c2f34248b1bc",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Revolut is rolling out a Dogecoin-themed physical crypto card with an LED display, initially available across the UK and most of the EU.",
@@ -290,7 +360,7 @@
     "created_at": "2026-05-19T03:09:09+00:00"
   },
   {
-    "id": "2612afed-afe3-409f-bc4f-50d3088cdcb4",
+    "id": "e57577ba-03f4-4eac-9570-d9eead1ad30f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🏦 Minnesota has enacted a law authorizing banks and credit unions to offer crypto custody services, effective Aug.",
@@ -308,25 +378,5 @@
     "url": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
     "author": "Danny Park",
     "created_at": "2026-05-19T02:49:27.000Z"
-  },
-  {
-    "id": "f93e8300-b300-42b4-ad59-e00c919a159b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto Wallet Transfers Anchor $13 Million Federal Fraud Case",
-    "summary": "1. An alleged support impersonation scheme led to more than $13 million in cryptocurrency wallet losses, according to the DOJ.\n2. The case centers on fake support claims, unauthorized digital account access, wallet transfers, and laundering through luxury spending.\n3. Support Impersonation Scheme Led to Crypto Wallet Losses The Department of Justice (DOJ) announced on May 11 that […]",
-    "url": "https://news.bitcoin.com/crypto-wallet-transfers-anchor-13-million-federal-fraud-case/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-19T02:30:24.000Z"
-  },
-  {
-    "id": "9dd3ce8b-8c19-4cad-a820-f6e4fedefda3",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpThank you to Great Patriot Salena Zito for this wonderful article!\n2. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/38625",
-    "author": "Trump Truth",
-    "created_at": "2026-05-19T02:25:45.000Z"
   }
 ]
