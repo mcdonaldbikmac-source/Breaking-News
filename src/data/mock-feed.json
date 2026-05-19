@@ -1,5 +1,105 @@
 [
   {
+    "id": "9db839a5-7985-4036-b445-82c17480ae42",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Japan’s ruling party advances AI-blockchain finance plan, targeting 24/7 automated payments, yen stablecoins and tokenized BOJ depositsTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#37d5184f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-19T10:14:46+00:00"
+  },
+  {
+    "id": "4ff51ba1-0306-4b74-8169-2b8eb2f02cb8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC spot CVD chart as of 10:00 a.m. UTC, May 19",
+    "summary": "The Spot Cumulative Volume Delta (CVD) chart analyzes the order book for the BTC/USDT spot pair. It consists of a Volume Heatmap on top and the CVD indicator at the bottom.- The Volume Heatmap at the top tracks trading volume at specific price levels. The background color brightens when the price lingers in a certain range or makes a significant move. These brighter areas can potentially act as support or resistance levels.- The Cumulative Volume Delta (CVD) indicator at the bottom shows buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. For example, the yellow line represents orders between $100 and $1,000, while the brown line indicates large orders ranging from $1 million to $10 million.",
+    "url": "https://t.me/CoinnessGL#36e2ecbf",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T10:01:44+00:00"
+  },
+  {
+    "id": "b6c20845-da5a-4856-b1e6-5e4ca0219165",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ethereum Foundation sees key departures, sparking community concern",
+    "summary": "A series of resignations by key personnel at the Ethereum Foundation (EF) over the past several months is causing deep concern within the community, PA News reported. The departures began in February with the resignation of co-Executive Director Tomasz Stańczak. In April, Josh Stark and Trent Van Epps, who led major Ethereum upgrades, also resigned. This was followed in May by a string of key researchers, including Protocol Research co-lead Alex Stokes, Barnabé Monnot, and Tim Beiko, who either resigned or took leaves of absence. The outlet added that the talent drain stems from pushback against a censorship resistance pledge required by the foundation, as well as industry-low salary levels. In response to the departures, the foundation has appointed new co-leads, including Will Corcoran, Kev Wedderburn, and Fredrik Svantes.",
+    "url": "https://t.me/CoinnessGL#9b42008d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T10:00:55+00:00"
+  },
+  {
+    "id": "3a2eb681-1694-4ade-9184-d4506386aa35",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
+    "summary": "1. Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
+    "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+    "author": "Tim De Chant",
+    "created_at": "2026-05-19T10:00:00.000Z"
+  },
+  {
+    "id": "f1c400ec-870b-4e01-9e77-d814d42c45a3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Swan Bitcoin sued for nearly $1B over pre-bankruptcy transfers from Prime Trust",
+    "summary": "1. Swan Bitcoin has been sued for allegedly using insider access to pull nearly $1 billion in Bitcoin and cash from Prime Trust days before its 2023 bankruptcy filing.",
+    "url": "https://cointelegraph.com/news/swan-bitcoin-sued-for-nearly-1b-over-pre-bankruptcy-transfers-from-prime-trust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-19T09:37:49.000Z"
+  },
+  {
+    "id": "1bee5277-ffc3-4c70-872d-9086bc0de3a6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy Holds 843,738 BTC vs Blackrock’s 817,138 as the Race to a Million Bitcoin Intensifies",
+    "summary": "1. Fewer than 27,000 BTC now separates Strategy and Blackrock in what has become an unprecedented contest to be the first institution to hold 1 million bitcoin.\n2. Two Giants, One Finish Line For much of late 2024 and early 2025, Blackrock’s iShares Bitcoin Trust was regarded as the fastest-growing exchange-traded fund (ETF) in U.S.\n3. market history.",
+    "url": "https://news.bitcoin.com/strategy-blackrock-race-1-million-bitcoin-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-19T09:30:54.000Z"
+  },
+  {
+    "id": "ed9b6c2a-c5fa-496b-af5f-2996915fcced",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Japan’s ruling party advances proposal to build national AI-blockchain financial system",
+    "summary": "1. Japan's LDP formally approved a policy proposal to build a next-generation financial system based on blockchain and AI.",
+    "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-19T09:29:21.000Z"
+  },
+  {
+    "id": "3e047dc5-5c21-40c0-89bd-8247715811e2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Traders Push BTC Back to $77K After Trump Freezes Iran Response",
+    "summary": "1. On May 19, bitcoin rebounded from a low of $76,000 to trade above $77,000 ($77,200 by 3:50 AM EST).\n2. However, Bitfinex analysts warn that the drop below $78,000 exposes deep market fragilities.\n3. Geopolitical Relief Bitcoin climbed back above $77,000 on the morning of May 19, rebounding from a late‑Monday dip to $76,000.",
+    "url": "https://news.bitcoin.com/bitcoin-traders-push-btc-back-to-77k-after-trump-freezes-iran-response/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-19T09:15:59.000Z"
+  },
+  {
+    "id": "f0427aa5-da88-4865-a78a-440f99e9a5b6",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Hyperscale Data holds 692.4 BTC, plans to expand holdings",
+    "summary": "New York Stock Exchange (NYSE)-listed company Hyperscale Data (GPUS) announced that it held 692.4 BTC, worth $53.6 million, as of May 17. The company plans to allocate its cash assets to purchase more Bitcoin in the future.",
+    "url": "https://t.me/CoinnessGL#f0f36747",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-19T09:13:05+00:00"
+  },
+  {
+    "id": "76d4efa9-fe24-46dd-8461-f52ece3185ac",
+    "source": "The Block",
+    "type": "rss",
+    "title": "WLFI treasury firm AI Financial posts $271 million quarterly net loss, flags doubt over survival within one year",
+    "summary": "1. AI Financial posted a net loss of $271.5 million for the quarter ended March 28, compared to a net loss of $2.4 million a year earlier.",
+    "url": "https://www.theblock.co/post/401788/wlfi-treasury-ai-financial-posts-loss?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-05-19T09:01:36.000Z"
+  },
+  {
     "id": "a3c9cdfc-05ca-4faa-b433-f5a3d815857f",
     "source": "CoinDesk",
     "type": "rss",
@@ -70,7 +170,7 @@
     "created_at": "2026-05-19T08:25:17.000Z"
   },
   {
-    "id": "4e9f79c6-2d59-4ad0-b568-63eac416e526",
+    "id": "7568609b-764c-4db2-991d-73c18e8f1e05",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US credit-card 90+ day delinquencies rose to 13.1% in Q1, the highest since 2010, while student-loan delinquencies jumped to 10.3% and auto-loan delinquencies hit a record 5.6%Twitter",
@@ -288,95 +388,5 @@
     "url": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Stephen Katte",
     "created_at": "2026-05-19T04:21:57.000Z"
-  },
-  {
-    "id": "6080ef5e-080a-4eae-8fc9-3a021669518b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "ETH spot ETFs see net outflows for 6th straight day",
-    "summary": "U.S. spot Ethereum ETFs recorded $86.4 million in net outflows on May 18, marking the sixth consecutive day of net outflows, according to data compiled by Trader T.- BlackRock's ETHA: -$55.4 million- Fidelity's FETH: -$14.7 million- Grayscale's ETH: -$10.1 million",
-    "url": "https://t.me/CoinnessGL#56238166",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T04:06:20+00:00"
-  },
-  {
-    "id": "658e75f3-19cd-4deb-a328-b5c743334a8c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Pump.fun may be resuming SOL sales after 9-month pause, says analyst",
-    "summary": "On-chain analyst Lookonchain has suggested that Pump.fun (PUMP), a Solana-based memecoin issuance platform, may have resumed selling its SOL holdings. According to the analyst, a wallet presumed to belong to Pump.fun deposited 174,408 SOL, worth approximately $14.76 million, to Kraken about 13 hours ago. Subsequently, a new anonymous address withdrew 117,877 SOL (around $9.96 million) and exchanged it for 9.96 million USDC at an average price of $84.52. This USDC was then also deposited to Kraken. Lookonchain noted that this activity could be part of Pump.fun's move to sell its SOL. Previously, the analyst had pointed to a deposit of 82,700 SOL ($7.02 million) to Kraken by a Pump.fun address, suggesting a resumption of sales for the first time in about nine months since Aug. 12 of last year. more:",
-    "url": "https://t.me/CoinnessGL#da259876",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T04:04:49+00:00"
-  },
-  {
-    "id": "cc5bf027-5874-49ba-929e-d3fbf37ad5bc",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US Bitcoin spot ETFs see $648.6M net outflow",
-    "summary": "U.S. Bitcoin spot ETFs saw a net outflow of approximately $648.6 million (976.1 billion won) on May 18, according to data compiled by Trader T. This marks the second consecutive trading day of net outflows.- BlackRock IBIT -$448.4 million- Fidelity FBTC -$63.4 million- Ark Invest ARKB -$109.6 million",
-    "url": "https://t.me/CoinnessGL#9527408b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T04:03:44+00:00"
-  },
-  {
-    "id": "53303025-18f6-4dc2-adee-9875a78326d3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Minnesota signs law allowing banks, credit unions to offer crypto custody services",
-    "summary": "1. Governor Tim Walz has signed HF 3709 into law, permitting banks and credit unions to offer crypto custody services.",
-    "url": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-19T03:56:10.000Z"
-  },
-  {
-    "id": "738a213b-bb34-4af3-b522-df8902096d8a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Potential A16z-Linked Wallet Stacks $90.87M in HYPE Across 34 Days",
-    "summary": "1. A wallet onchain linked to venture capital firm a16z (Andreessen Horowitz) by Lookonchain has quietly accumulated 2.11 million HYPE tokens worth approximately $90.87 million since April 14.\n2. Smart Money Bets on Hyperliquid Dip Blockchain analytics firm Lookonchain flagged that wallet 0xb5E4, whose funding history and transaction patterns have led multiple analysts to associate it with […]",
-    "url": "https://news.bitcoin.com/a16z-hype-token-accumulation-90-million-hyperliquid-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-19T03:30:56.000Z"
-  },
-  {
-    "id": "6ead36b0-b680-4eb2-b303-0012020fc00a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Vitalik Buterin says AI-assisted formal verification could make Ethereum and crypto infrastructure more secure against bugs and cyberattacks.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e74d031c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-19T03:09:11+00:00"
-  },
-  {
-    "id": "a6e389d7-1870-4aa9-90b9-c2f34248b1bc",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Revolut is rolling out a Dogecoin-themed physical crypto card with an LED display, initially available across the UK and most of the EU.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#47476eda",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-19T03:09:09+00:00"
-  },
-  {
-    "id": "e57577ba-03f4-4eac-9570-d9eead1ad30f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 Minnesota has enacted a law authorizing banks and credit unions to offer crypto custody services, effective Aug.",
-    "summary": "1, 2026.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d07f128f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-19T03:09:07+00:00"
-  },
-  {
-    "id": "b15ed2b5-9b89-442e-a685-9405621eb51f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts",
-    "summary": "1. BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and using it as collateral to borrow WBTC.",
-    "url": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-19T02:49:27.000Z"
   }
 ]
