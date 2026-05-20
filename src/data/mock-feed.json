@@ -1,5 +1,105 @@
 [
   {
+    "id": "89c5245f-80b8-4709-bef6-6e37c1446da2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CZ urges developers to rotate API keys amid GitHub hack concerns",
+    "summary": "Binance founder Changpeng Zhao has urged developers to periodically replace API keys stored in their code, amid growing concerns in the crypto industry over a recent GitHub hack. GitHub previously confirmed that a hacker stole 3,800 repositories after installing a malicious extension on an employee's device to gain access. The company added that no damage to customer or project accounts has been confirmed so far and that an investigation is ongoing. BeInCrypto noted that the incident has heightened tensions in the crypto market, as exposed API keys could allow attackers to drain trading account balances in minutes or gain access to exchange bots.",
+    "url": "https://t.me/CoinnessGL#934549f0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T05:21:18+00:00"
+  },
+  {
+    "id": "cd12efb6-90ff-403b-84a5-c3564279aecd",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot CVD chart for 5:00 a.m. UTC on May 20",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows the Volume Heatmap, and the bottom section displays the Cumulative Volume Delta (CVD).- The Volume Heatmap at the top tracks trading volume at specific price levels. The background color brightens when the price lingers in a particular range or experiences significant movement. These brighter areas can indicate potential support and resistance zones.- The Cumulative Volume Delta (CVD) indicator at the bottom represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. For example, the yellow line tracks orders between $100 and $1,000, while the brown line tracks large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#e4ada623",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T05:11:38+00:00"
+  },
+  {
+    "id": "e76d2f1a-55e1-4125-b650-678379f0c567",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to suspend deposits, withdrawals on Ethereum network",
+    "summary": "Binance has announced that it will temporarily suspend deposits and withdrawals for Ethereum-based tokens starting at 5:55 a.m. UTC on May 21 due to wallet maintenance on the Ethereum (ETH) network.",
+    "url": "https://t.me/CoinnessGL#2037c118",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T05:07:59+00:00"
+  },
+  {
+    "id": "1afbbc94-ea2f-4188-b0f6-8d1192b635df",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US Senate advances resolution to curb Trump’s Iran war powers ",
+    "summary": "1. “Congress has the power to slam the brakes on this unwise conflict,” said bill sponsor and Democratic Senator Tim Kaine.",
+    "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-05-20T04:58:03.000Z"
+  },
+  {
+    "id": "9567c2da-eea9-4445-a577-cf6adafbebf4",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump orders Fed to review giving crypto firms access to master accounts",
+    "summary": "1. The order urged the federal government to remove regulations that may be 'overly burdensome' to fintech innovation.",
+    "url": "https://www.theblock.co/post/401953/trump-orders-fed-master-account?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-05-20T04:57:20.000Z"
+  },
+  {
+    "id": "cc21a0ae-706c-4d66-8e1c-fb2d92c0feeb",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 The Zcash Foundation ended Q1 with $36.69M in liquid assets and just $817K in operating expenses, holding $21M in ZEC and $12.6M in cash and USDC, plus smaller amounts of Bitcoin and ETH.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1b24d789",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-20T04:54:41+00:00"
+  },
+  {
+    "id": "0ae2c7cf-82f8-4337-932e-9e8d98d72421",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "WLFI-linked AI Financial flags ‘going concern’ as losses mount",
+    "summary": "1. The World Liberty Financial-linked AI Financial Corp.\n2. posted a net loss of $271.5 million in the first quarter of 2026, and flagged significant doubt it could continue operating for the next 12 months without intervention.",
+    "url": "https://cointelegraph.com/news/world-liberty-linked-ai-financial-flags-going-concern-as-losses-mount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-05-20T04:44:55.000Z"
+  },
+  {
+    "id": "c67b0e2c-e12d-471d-b90b-39fd7f85d9be",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Solana Real-World Assets Hit $2B as Tokenized Assets Fuel Ecosystem Growth",
+    "summary": "1. Solana’s tokenized real-world asset market expanded 43% in the first quarter, even as broader crypto markets weakened.\n2. Application revenue remained resilient, while developers pushed ahead with infrastructure upgrades to dramatically improve network speed and scalability.\n3. Solana App Revenue Holds $342M Despite SOL Declining by 33% Solana’s blockchain economy showed surprising resilience in the first quarter […]",
+    "url": "https://news.bitcoin.com/solana-real-world-assets-hit-2b-as-tokenized-assets-fuel-ecosystem-growth/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-05-20T04:30:18.000Z"
+  },
+  {
+    "id": "3fbda60b-a604-4be5-af0e-ad3f85649802",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🚓 Two American men were arrested in Japan after allegedly entering the zoo enclosure of viral monkey Punch to promote a Solana meme coin.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#78e51c40",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-20T03:54:44+00:00"
+  },
+  {
+    "id": "e27e690e-2cef-41b7-bbec-1d2cfd7fd0fa",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "DOJ Says $10M Crypto Scheme Continued After Guilty Plea, Adding Victims",
+    "summary": "1. More cryptocurrency investors were harmed after a guilty plea, with prosecutors saying additional funds were solicited while the fraud case remained pending sentencing.\n2. The scheme raised more than $10 million and resulted in a nine-year prison sentence.\n3. Ohio Crypto Fraud Scheme Leads to 9-Year Sentence A cryptocurrency investment fraud scheme that raised more than $10 […]",
+    "url": "https://news.bitcoin.com/doj-says-10m-crypto-scheme-continued-after-guilty-plea-adding-victims/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-20T03:30:04.000Z"
+  },
+  {
     "id": "114d9279-79a3-4764-9211-ca7a7f64a4fa",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -18,6 +118,16 @@
     "url": "https://www.politico.com/news/2026/05/19/collins-dooley-georgia-senate-runoff-00929116",
     "author": "By Erin Doherty",
     "created_at": "2026-05-20T03:16:29.000Z"
+  },
+  {
+    "id": "6d3ed967-088c-4a0f-b12b-77f3d4b37127",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bankr temporarily disables transactions after 14 wallets hacked",
+    "summary": "1. Bankr recommends that affected users create a new wallet, generate a new seed phrase on a clean device and revoke approvals if remaining assets can’t be moved.",
+    "url": "https://cointelegraph.com/news/bankr-disables-transactions-after-14-wallets-hacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-05-20T03:14:22.000Z"
   },
   {
     "id": "f17f5fe4-6f43-46ba-a593-205344ae0baf",
@@ -188,175 +298,5 @@
     "url": "https://news.bitcoin.com/ripple-lands-in-cnbc-disruptor-50-top-20-as-institutional-crypto-expands/",
     "author": "Kevin Helms",
     "created_at": "2026-05-19T23:45:41.000Z"
-  },
-  {
-    "id": "eee0e770-6617-418c-8d73-06276a58a446",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Andy Barr wins Kentucky GOP Senate primary",
-    "summary": "1. The Trump-endorsed representative defeated former Attorney General Daniel Cameron in the race to succeed Mitch McConnell.",
-    "url": "https://www.politico.com/news/2026/05/19/barr-wins-kentucky-senate-primary-00928913",
-    "author": "By Aaron Pellish",
-    "created_at": "2026-05-19T23:04:20.000Z"
-  },
-  {
-    "id": "2bead859-821b-43ed-9bb8-4e77107e0fcd",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
-    "summary": "1. Donald Trump's executive order asks the Fed to review how depository institutions may be granted access to payment services, an area the crypto industry is deeply involved with.",
-    "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails",
-    "author": "Nikhilesh De",
-    "created_at": "2026-05-19T22:54:08.000Z"
-  },
-  {
-    "id": "fa91f6ce-1ebb-4c80-a688-803b4f8b1026",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows",
-    "summary": "1. The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.",
-    "url": "https://www.theblock.co/post/401711/ethereum-leads-65-billion-rwa-race-blockchains-compete-institutional-tokenization-flows?utm_source=rss&utm_medium=rss",
-    "author": "Ivan Wu and Bryan Samsoedin",
-    "created_at": "2026-05-19T22:36:02.000Z"
-  },
-  {
-    "id": "c0c47d97-af31-4f75-8706-353f6eda3305",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 The Bank of England is proposing near 24/7 settlement hours and easing stablecoin holding limits to support tokenized markets.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#721e8bec",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-19T22:29:30+00:00"
-  },
-  {
-    "id": "06180e93-fd3e-4793-a9b8-b21beb118225",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CME FedWatch shows 99% chance of Fed holding rates in June",
-    "summary": "According to the CME FedWatch Tool, there is a 99% probability that the U.S. Federal Reserve will hold interest rates steady in June, with a 1% chance of a 25-basis-point cut. Looking ahead to the July meeting, the tool indicates an 84.4% probability of rates remaining unchanged, a 14.8% chance of a 25-basis-point hike, and a 0.8% chance of a 25-basis-point cut.",
-    "url": "https://t.me/CoinnessGL#32dff6a3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T22:10:20+00:00"
-  },
-  {
-    "id": "163c7bc2-be50-462b-81e8-eff5a7afad6a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Turkey’s 8-Day Betting Blitz Hits 670+ Suspects as Crypto Rails Surface in Adana Probe",
-    "summary": "1. Turkish authorities have taken legal action against 233 more illegal betting suspects in Antalya and Mersin operations announced Monday, pushing the eight-day enforcement tally past 670 across four major raids.\n2. The earlier Adana investigation that arrested pro-government commentator Rasim Ozan Kütahyalı named cryptocurrency platforms among the alleged laundering channels.\n3. Antalya and Mersin Operations Extend 8-Day […]",
-    "url": "https://news.bitcoin.com/turkeys-8-day-betting-blitz-hits-670-suspects-as-crypto-rails-surface-in-adana-probe/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-05-19T22:01:57.000Z"
-  },
-  {
-    "id": "78dfabc5-2e22-41a3-bf2c-ee1f1ce46a63",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
-    "summary": "1. After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
-    "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
-    "author": "André Beganski",
-    "created_at": "2026-05-19T22:01:04.000Z"
-  },
-  {
-    "id": "e67898e2-2a72-48e9-9bce-429d8365b91a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Japan to fully permit overseas stablecoins from June 1",
-    "summary": "Japan will fully permit the use of overseas stablecoins starting June 1, according to a report by BeInCrypto. The move will integrate these assets into the country's financial network, clarifying their legal status after previously being subject to securities laws or operating in a regulatory gray area.",
-    "url": "https://t.me/CoinnessGL#2a6ff627",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T22:00:32+00:00"
-  },
-  {
-    "id": "2d4f81b5-fed0-44f6-8d79-bb8270201ebd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ The SEC proposed its biggest IPO rule overhaul in more than 20 years, aiming to make it easier for newly public companies to raise more money soon after listing.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d991fb2b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-19T21:54:46+00:00"
-  },
-  {
-    "id": "e5558ab1-4c07-4597-91d0-209153ed0027",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "U.S. SENATE ADVANCES MEASURE THAT WOULD END U.S. IRAN STRIKES UNLESS APPROVED BY CONGRESSTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#032e4196",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-19T21:49:20+00:00"
-  },
-  {
-    "id": "84a46a10-f7d6-4cfa-9116-a8168b9cc071",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BitGo launches modular crypto infrastructure for banks",
-    "summary": "Cryptocurrency custody firm BitGo has launched a modular digital asset infrastructure platform aimed at banks and financial institutions, Cointelegraph reported. The comprehensive solution goes beyond simple custody to include trading, settlement, staking, and stablecoin issuance, allowing banks to selectively integrate the services they need.",
-    "url": "https://t.me/CoinnessGL#a86795a9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-19T21:48:23+00:00"
-  },
-  {
-    "id": "85e9fbc1-5704-4fe2-9cba-4a370ec7a8db",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bernstein: Bitcoin miners becoming critical suppliers in AI infrastructure",
-    "summary": "1. Bernstein says miners control 27 GW of planned power and $90 billion in AI deals, giving them a strategic edge as electricity becomes the main constraint on data center growth.",
-    "url": "https://cointelegraph.com/news/bernstein-bitcoin-miners-gain-strategic-role-in-ai-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-05-19T21:39:16.000Z"
-  },
-  {
-    "id": "0d486e01-24d0-4935-a509-7b6abc52a950",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. I have long said that the horrific tragedy that beset East Palestine in 2023, along with Sleepy Joe Biden’s utterly incompetent response, must NEVER happen again.\n2. I quickly and strongly stood up for, and visited, the incredible Patriots of East Palestine, an action that forced Biden and FEMA, who had said they would not be sending Federal Aid to East Palestine, to “move” on sending a team.\n3. This was a major catastrophe during Biden’s presidency, which had many disasters, from letting the rest of the World empty out their prisons and mental asylums and flood our Great Country, to SURRENDERING Afghanistan.",
-    "url": "https://trumpstruth.org/statuses/38636",
-    "author": "Trump Truth",
-    "created_at": "2026-05-19T21:34:53.000Z"
-  },
-  {
-    "id": "33f83b09-4729-4f4e-b649-e2d4c754d87d",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "summary": "1. Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-    "author": "Aisha Malik",
-    "created_at": "2026-05-19T21:33:30.000Z"
-  },
-  {
-    "id": "58e72623-d0aa-4ada-9c9e-7f4009dd2d16",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.145",
-    "summary": "1. ## What's changed\n\n- Added `claude agents --json` to list live Claude sessions as JSON for scripting (tmux-resurrect, status bars, session pickers)\n- Added `agent_id` and `parent_agent_id` attributes to `claude_code.tool` OTEL spans, and fixed trace parenting so background subagent spans nest under the dispatching Agent tool span\n- Status line JSON input now includes GitHub repo and PR information when detected\n- `/plugin` Discover and Browse screens now show a plugin's commands, agents, skills, hooks, and MCP/LSP servers before installation\n- `claude agents` terminal tab title now shows the awaiting-input count so an alt-tabbed window tells you when an agent needs attention\n- Slash command and @-mention suggestion list now supports mouse hover and click in fullscreen mode\n- Stop and SubagentStop hook input now includes `background_tasks` and `session_crons` fields\n- Fixed a permission-prompt bypass where bare variable assignments to non-allowlisted environment variables in Bash commands were auto-approved\n- Fixed MCP prompt slash commands showing raw server validation errors when a required argument is omitted — the error now names the missing argument and shows expected usage\n- Fixed the spinner and elapsed-time display freezing until a keypress after the terminal was resized or refocused\n- Fixed the cross-project resume hint failing in default Windows PowerShell 5.1 — Windows now uses `;` as the command separator\n- Fixed voice push-to-talk not working in the agent view's reply pane\n- Fixed task lists rendering in random order when several tasks are created at once\n- Fixed stale \"Failed to install Anthropic marketplace\" banner showing when the marketplace is already installed\n- Fixed the PR badge in the footer not updating immediately after `gh pr create` and other PR-state-changing commands run in-session\n- Fixed Agent Teams teammates with non-ASCII names failing every API call due to invalid header encoding\n- Fixed `/review` using a deprecated `projectCards` GraphQL query that errored on repos with Classic Projects\n- Fixed `claude plugin validate` not flagging `skills:` entries that point at a file instead of a directory — the error now suggests the parent directory\n- Fixed an infinite loop where a skill using `context: fork` could repeatedly re-invoke itself instead of running\n- Improved the Read tool to return a truncated first page with a \"PARTIAL view\" notice instead of a hard error when a whole-file read exceeds the token limit",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.145",
-    "author": "ashwin-ant",
-    "created_at": "2026-05-19T21:31:07Z"
-  },
-  {
-    "id": "bff64c88-6c11-402a-b142-856f6da9a43d",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Minnesota Bans Prediction Markets—And Is Sued By the Trump Admin Hours Later",
-    "summary": "1. Minnesota's ban has made it a felony to create or operate a prediction market in the state.\n2. The CFTC and DOJ say it violates federal law.",
-    "url": "https://decrypt.co/368406/minnesota-bans-prediction-markets-sued-trump-admin-hours-later",
-    "author": "Sander Lutz",
-    "created_at": "2026-05-19T21:29:51.000Z"
-  },
-  {
-    "id": "ba8c9d10-d072-4b4c-847e-01155ee92471",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "summary": "1. Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "author": "Sarah Perez",
-    "created_at": "2026-05-19T21:25:31.000Z"
   }
 ]
