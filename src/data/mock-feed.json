@@ -1,5 +1,105 @@
 [
   {
+    "id": "114d9279-79a3-4764-9211-ca7a7f64a4fa",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "24-hour crypto liquidations top $66M",
+    "summary": "24-hour crypto futures liquidationsThe following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $29.09 million liquidated (69.02% longs)- ETH: $29.87 million liquidated (77.58% longs)- BSB: $7.17 million liquidated (76.08% shorts)",
+    "url": "https://t.me/CoinnessGL#f7b1f314",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T03:21:11+00:00"
+  },
+  {
+    "id": "d5188ce3-7dfe-4ea5-b3e6-f68d03434388",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Mike Collins and Derek Dooley head to runoff in Georgia Senate GOP race",
+    "summary": "1. The result extends a bitter intraparty fight and delays Republicans' ability to focus their attacks on Democratic Sen.\n2. Jon Ossoff.",
+    "url": "https://www.politico.com/news/2026/05/19/collins-dooley-georgia-senate-runoff-00929116",
+    "author": "By Erin Doherty",
+    "created_at": "2026-05-20T03:16:29.000Z"
+  },
+  {
+    "id": "f17f5fe4-6f43-46ba-a593-205344ae0baf",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US Bitcoin ETFs see $331M net outflow for third straight day",
+    "summary": "U.S. Bitcoin spot ETFs saw a net outflow of approximately $331.03 million yesterday, according to data compiled by Trader T. This marks the third consecutive trading day of net outflows.- BlackRock IBIT: -$325.57 million- Fidelity FBTC: -$1.67 million- Valkyrie BRRR: -$3.79 million",
+    "url": "https://t.me/CoinnessGL#6f5e7a5f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T03:04:26+00:00"
+  },
+  {
+    "id": "0f6f4051-a99e-4818-bb89-26401fc7b0c1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot ETH ETFs see 7th straight day of net outflows",
+    "summary": "U.S. spot Ethereum ETFs saw net outflows of $62.27 million on May 19, marking the seventh consecutive day of withdrawals, according to data compiled by Trader T.- BlackRock's ETHA: -$59.37 million- Fidelity's FETH: -$3.68 million- Bitwise's ETHW: +$760,000- BlackRock's Staking ETHB: +$200,000",
+    "url": "https://t.me/CoinnessGL#f9ee2039",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T03:00:50+00:00"
+  },
+  {
+    "id": "9f628960-d128-4637-bd54-08e2922d249e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Progressive firebrand Chris Rabb wins Democratic primary for the nation’s bluest House seat",
+    "summary": "1. The self-styled “troublemaker” and unabashed progressive was backed by members of the “Squad.”",
+    "url": "https://www.politico.com/news/2026/05/19/rabb-wins-pennsylvania-house-primary-00929091",
+    "author": "By Lisa Kashinsky",
+    "created_at": "2026-05-20T02:44:01.000Z"
+  },
+  {
+    "id": "c6496fdf-e87c-440b-a7b9-fcedaaace815",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trump-backed Truth Social pulls bids for crypto ETFs",
+    "summary": "1. The crypto ETFs were intended to be part of Trump Media & Technology Group’s broader crypto strategy, which included the launch of the Truth.fi financial platform.",
+    "url": "https://cointelegraph.com/news/trump-backed-truth-social-pulls-bids-for-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-20T02:42:44.000Z"
+  },
+  {
+    "id": "3cae7c2d-0624-411e-9390-45eec50f038e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Keisha Lance Bottoms wins Democratic nomination for governor in Georgia",
+    "summary": "1. She won the nomination outright despite some Democrats’ concerns over her record as Atlanta mayor.",
+    "url": "https://www.politico.com/news/2026/05/19/bottoms-wins-georgia-governor-primary-00929086",
+    "author": "By Erin Doherty",
+    "created_at": "2026-05-20T02:32:55.000Z"
+  },
+  {
+    "id": "95cc4cf5-0362-4ea2-be4b-fba7e8d751b1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase Helps Solve Kidnapping Case After Customer Is Forced to Transfer Crypto",
+    "summary": "1. Coinbase said blockchain intelligence helped United Kingdom investigators secure five convictions after monitoring systems flagged a customer under duress during a robbery.\n2. Investigators traced crypto and additional fiat funds across accounts.\n3. Blockchain Evidence Connects Robbery to Five Convictions Crypto exchange Coinbase (Nasdaq: COIN) revealed its assistance in a U.K.",
+    "url": "https://news.bitcoin.com/coinbase-helps-solve-kidnapping-case-after-customer-is-forced-to-transfer-crypto/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-20T02:30:13.000Z"
+  },
+  {
+    "id": "33e3f9c6-0b4c-44d4-8d7e-e96865fb0228",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump’s Truth Social withdraws bitcoin ETF application from SEC",
+    "summary": "1. Its advisor, Yorkville America, said the withdrawal is a strategic move to reapply under a more efficient securities framework.",
+    "url": "https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-20T02:08:52.000Z"
+  },
+  {
+    "id": "391df661-6e08-4e68-a7f1-1dfd1ae86f3b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Evernorth Highlights XRP’s ‘Actual Story’ Beyond JPMorgan Settlement Attention",
+    "summary": "1. XRP gained renewed attention after Evernorth highlighted how the crypto asset facilitated a tokenized Treasury redemption across Ripple, Mastercard, J.P.\n2. Morgan’s Kinexys, and Ondo Finance.\n3. Ripple, Mastercard, and JPMorgan’s Kinexys Linked Through XRP Settlement Flow XRP treasury company Evernorth shared on May 18 that the “actual story” behind a recent cross-institutional blockchain transaction was the […]",
+    "url": "https://news.bitcoin.com/evernorth-highlights-xrps-actual-story-beyond-jpmorgan-settlement-attention/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-20T01:30:11.000Z"
+  },
+  {
     "id": "8b9d242a-83ca-4e14-bf7e-d0637cd203ce",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -120,7 +220,7 @@
     "created_at": "2026-05-19T22:36:02.000Z"
   },
   {
-    "id": "07b699f4-e506-41a3-a929-43b26a160b5a",
+    "id": "c0c47d97-af31-4f75-8706-353f6eda3305",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🏦 The Bank of England is proposing near 24/7 settlement hours and easing stablecoin holding limits to support tokenized markets.",
@@ -170,7 +270,7 @@
     "created_at": "2026-05-19T22:00:32+00:00"
   },
   {
-    "id": "44d633ac-98ce-4428-88d2-f73ccc0e1507",
+    "id": "2d4f81b5-fed0-44f6-8d79-bb8270201ebd",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ The SEC proposed its biggest IPO rule overhaul in more than 20 years, aiming to make it easier for newly public companies to raise more money soon after listing.",
@@ -180,7 +280,7 @@
     "created_at": "2026-05-19T21:54:46+00:00"
   },
   {
-    "id": "25847b7d-fc66-4a16-abd2-14e39fd3c334",
+    "id": "e5558ab1-4c07-4597-91d0-209153ed0027",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "U.S. SENATE ADVANCES MEASURE THAT WOULD END U.S. IRAN STRIKES UNLESS APPROVED BY CONGRESSTwitter",
@@ -258,175 +358,5 @@
     "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
     "author": "Sarah Perez",
     "created_at": "2026-05-19T21:25:31.000Z"
-  },
-  {
-    "id": "17069e53-0368-42f6-a50b-368e9fa72295",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Whale With $24.79 Million Track Record Opens $21 Million in Longs Across Bitcoin, Ether, and Dogecoin",
-    "summary": "1. A tracked onchain wallet known for a $24.79 million profit record just placed $21 million in simultaneous long positions on bitcoin, ether, and dogecoin.\n2. They then proceeded to add more of the same via limit orders.\n3. One Wallet, Three Assets, Three Hours Onchain intelligence platform Lookonchain tracked wallet 0x152e opening a series of long positions […]",
-    "url": "https://news.bitcoin.com/smart-whale-21-million-long-bitcoin-ether-dogecoin-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-19T21:20:43.000Z"
-  },
-  {
-    "id": "a37b39ce-118c-4938-96d8-7a42713f36d8",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "How to use Google’s new AI agents to go beyond your standard searches",
-    "summary": "1. Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-05-19T21:16:25.000Z"
-  },
-  {
-    "id": "1f7db22f-da92-46b4-ba9a-b61e77af2fd2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitwise calls HYPE a ‘Gen 2’ crypto token, says its undervalued",
-    "summary": "1. The asset manager recently launched a HYPE-based exchange-traded fund and said it will use some of the fees generated to buy the token.",
-    "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-05-19T20:58:07.000Z"
-  },
-  {
-    "id": "9ffb69b1-1cab-4a49-bac2-77fa942f315c",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Can you imagine “Congressman” Thomas Massie putting out a many years ago Endorsement of him, by me, when he knows that he wasn’t endorsed, but that I proudly endorsed Ed Gallrein?\n2. The reason is that Massie has turned out to be the Worst Congressman in the Republican Party.\n3. This shows what a totally dishonest and desperate guy Massie is, and I hope the Voters aren’t fooled by his deception!",
-    "url": "https://trumpstruth.org/statuses/38635",
-    "author": "Trump Truth",
-    "created_at": "2026-05-19T20:56:28.000Z"
-  },
-  {
-    "id": "faad3441-7f24-4c22-9593-e9c4bb91fbae",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
-    "summary": "1. The head of digital assets and tokenization at one of Germany’s largest asset managers said that USDT and USDC are not stablecoins, from his perspective.",
-    "url": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
-    "author": "Olivier Acuna",
-    "created_at": "2026-05-19T20:47:28.000Z"
-  },
-  {
-    "id": "e624cf16-f4e1-4b3c-8707-5961889d8a8e",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇨🇳🇪🇺 US Senator Lummis says China & Europe are competing with US to lead in crypto.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#bc7032b9",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-19T20:45:51+00:00"
-  },
-  {
-    "id": "13b9ed81-2c33-4e8c-9632-2efd3f715365",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Tokenized equities daily volume hits all-time high of $3.57 billion",
-    "summary": "1. The Block's data shows onchain equities trading volume growing since the start of the year, and hitting an all-time high on Monday.",
-    "url": "https://www.theblock.co/post/401935/tokenized-equities-daily-volume-hits-all-time-high-of-3-57-billion?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-19T20:45:30.000Z"
-  },
-  {
-    "id": "8f59b25a-dc68-4e85-a2b8-66c680406086",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?",
-    "summary": "1. Bitcoin futures and orderbook data show dip buyers waiting for a BTC price drop below $70,000.",
-    "url": "https://cointelegraph.com/markets/bitcoin-traders-may-look-for-deeper-pullback-zones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-05-19T20:34:45.000Z"
-  },
-  {
-    "id": "7364d869-dc30-4025-b240-2fcc675312e6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Wintermute-Linked Wallets Receive 500 BTC Worth $38M From Decade-Old Bitcoin Holder",
-    "summary": "1. With bitcoin drifting just beneath the $77,000 range, a whale moved a cache of 500 BTC from a wallet established more than a decade ago.\n2. The funds appear to have flowed through the over-the-counter (OTC) desk Wintermute and a wallet identified as a Binance deposit address.\n3. Bitcoin Whale Moves 500 BTC; Assets Likely Sold A […]",
-    "url": "https://news.bitcoin.com/wintermute-linked-wallets-receive-500-btc-worth-38m-from-decade-old-bitcoin-holder/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-19T20:30:23.000Z"
-  },
-  {
-    "id": "41b73c3c-d4dd-4e41-9370-3240415c5a7f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says",
-    "summary": "1. The research firm said bitcoin traders remain unusually defensive, reducing the risk of the kind of leverage-driven collapse seen in prior downturns.",
-    "url": "https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-19T20:30:21.000Z"
-  },
-  {
-    "id": "7487c48e-edf1-4cb8-a9ae-0817465ea49a",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Trump-IRS settlement permanently blocks IRS from auditing tax claims for President Trump and his family, Politico reports.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#72023176",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-19T20:26:56+00:00"
-  },
-  {
-    "id": "f2f1dc4d-e498-4692-a418-faf27fb1ff28",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Americans Arrested in Japan for Entering Punch the Monkey’s Zoo Home to Promote Meme Coin",
-    "summary": "1. Viral Japanese macaque monkey Punch received unwelcome visitors this week, as trespassers attempted to promote a Solana meme coin.",
-    "url": "https://decrypt.co/368383/men-arrested-japan-entering-punch-monkey-zoo-enclosure-meme-coin",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-05-19T20:26:23.000Z"
-  },
-  {
-    "id": "e4d538f5-e267-4737-a923-c08c54a10b6a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 TD Cowen raised its Strategy price target to $400, citing roughly $2 billion in Bitcoin purchases and a $1.5 billion debt retirement last week.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4edc8199",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-19T20:19:12+00:00"
-  },
-  {
-    "id": "80831edb-7b4a-442b-a8ca-bd3fe96a79b0",
-    "source": "r/cryptocurrency",
-    "type": "reddit",
-    "title": "White House: Bitcoin Reserve Announcement Is Imminent",
-    "summary": "1. White House: Bitcoin Reserve Announcement Is Imminent",
-    "url": "https://reddit.com/r/CryptoCurrency/comments/1thyyy0/white_house_bitcoin_reserve_announcement_is/",
-    "author": "u/CriticalCobraz",
-    "created_at": "2026-05-19T20:17:13.000Z"
-  },
-  {
-    "id": "8b3f750a-7e91-472f-90a3-5ac51a009c31",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Can Massie remain standing even as other Trump enemies fall?",
-    "summary": "1. The president faces several tests of his power on Tuesday, from Kentucky to Georgia to Alabama.",
-    "url": "https://www.politico.com/news/2026/05/19/trump-revenge-massie-kentucky-primary-00927414",
-    "author": "By Lisa Kashinsky and Liz Crampton",
-    "created_at": "2026-05-19T20:00:00.000Z"
-  },
-  {
-    "id": "2161e053-6507-4604-bf1b-51c27025c51b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country.\n2. I endorsed Ed Gallrein, a true American Patriot, which Massie knows full well, so the statement that he put out is fraudulent, just like HE is fraudulent.\n3. WITHDRAW YOUR FAKE STATEMENT, MASSIE, RIGHT NOW!",
-    "url": "https://trumpstruth.org/statuses/38634",
-    "author": "Trump Truth",
-    "created_at": "2026-05-19T19:46:20.000Z"
-  },
-  {
-    "id": "0ef6a178-ae19-4b39-90ef-c8cda648b664",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion\nBitcoin price has fallen below $77,000 amid heavy ETF outflows, large-scale liquidations, and weakening capital inflows.\n2. This post Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slides-below-77000",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-19T19:22:34.000Z"
   }
 ]
