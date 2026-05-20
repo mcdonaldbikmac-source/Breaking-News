@@ -1,6 +1,146 @@
 [
   {
-    "id": "c1c6ebdf-b0f7-4834-9c8a-c78ce8a5e56c",
+    "id": "c76bd5e2-26ae-48d2-ae3a-979739a74262",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Lummis Warns US Must Pass CLARITY Act Immediately or Cede Digital Asset Leadership to China and Europe",
+    "summary": "1. Senator Cynthia Lummis has warned that China and Europe are actively competing with the United States for leadership in cryptocurrency and digital asset development, urging Congress to accelerate pending crypto legislation.\n2. US Cannot Afford to Fall Behind China and Europe, Says Lummis Speaking on the state of U.S.\n3. crypto policy, Senator Lummis, one of […]",
+    "url": "https://news.bitcoin.com/senator-lummis-us-china-europe-crypto-competition-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-20T09:20:33.000Z"
+  },
+  {
+    "id": "122ccea9-8662-4729-8e81-35fc2bd1a3a8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Suspected a16z Crypto address buys another $2.16M in HYPE",
+    "summary": "According to on-chain analyst ai_9684xtpa, an address suspected of belonging to a16z Crypto, the cryptocurrency investment arm of Silicon Valley venture capital firm Andreessen Horowitz (a16z), withdrew 44,500 HYPE worth $2.16 million from Gate.io a short while ago. The analyst previously noted that a16z Crypto may be the largest external holder of HYPE. Withdrawals from exchanges are typically interpreted as an intention to hold. more:",
+    "url": "https://t.me/CoinnessGL#dbe47a2c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T09:06:06+00:00"
+  },
+  {
+    "id": "6d35c600-a689-4ad8-8686-fbfb82c99ec5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Kaiko acquires European DeFi infrastructure firm Cometh",
+    "summary": "Cryptocurrency market analysis firm Kaiko announced today that it has acquired Cometh, a European decentralized finance (DeFi) infrastructure company. Cometh holds a Crypto-Asset Service Provider (CASP) license under the European Union's Markets in Crypto-Assets (MiCA) regulation. The acquisition will integrate Cometh's blockchain engineering and compliance capabilities into Kaiko's existing infrastructure. Kaiko COO Elodie de Marchi-Chouard said the move provides the engineering and regulatory foundation to meet institutional demand for on-chain capital market infrastructure, noting that clients are demanding standards on par with traditional financial markets.",
+    "url": "https://t.me/CoinnessGL#ef5cc6ac",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T09:05:09+00:00"
+  },
+  {
+    "id": "9a382c3f-f448-4321-baef-640fc7df8584",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to temporarily suspend FIL deposits and withdrawals",
+    "summary": "South Korean crypto exchange Bithumb announced that it will temporarily suspend deposits and withdrawals for Filecoin (FIL) starting at 9:00 a.m. UTC today to support an upcoming network upgrade.",
+    "url": "https://t.me/CoinnessGL#c4378516",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T09:02:03+00:00"
+  },
+  {
+    "id": "717487ce-7be7-4a5e-b918-0f4126d38b52",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "⚠️ Warning: Stay Away From MetaMask Swap",
+    "summary": "1. I swapped 37,028 wOCT for \\~$2,010 USDT through MetaMask Swap.\n2. The transaction executed successfully on-chain, yet I only received around $1,576 USDT in my wallet.\n3. Tx:\n\n\n\nOn-chain data shows the full amount was generated, but \\~$421.80 USDT was routed directly to one of their wallets:\n\n0xd0A67cB08BE17475f4315a04C5F0Be3e200Ef66c\n\nSupport blamed “low liquidity” and “price impact,” but the blockchain tells a different story.",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tifwhq/warning_stay_away_from_metamask_swap/",
+    "author": "u/look_45",
+    "created_at": "2026-05-20T08:57:23.000Z"
+  },
+  {
+    "id": "74f60c49-ab98-4c3a-ae49-34d803f0ba7f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇬🇧 Bank of England deputy governor Sarah Breeden says tokenization could cut costs and boost competition in financial markets.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#91186fe2",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-20T08:54:26+00:00"
+  },
+  {
+    "id": "a08a82cc-8cf1-4a5b-aea5-1d62100ec7e3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Pan-European stablecoin effort expands to 37 lenders in push back against U.S. dollar dominance",
+    "summary": "1. Qivalis, a stablecoin initiative backed by a group of European banks, aims to issue a stablecoin later this year to deepen the euro's role in tokenized finance.",
+    "url": "https://www.coindesk.com/business/2026/05/20/pan-european-stablecoin-effort-expands-to-37-lenders-in-push-back-against-u-s-dollar-dominance",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-05-20T08:44:08.000Z"
+  },
+  {
+    "id": "f6968121-1e9b-457c-832b-73b0fdc49187",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Senator Elizabeth Warren called the OCC's national trust bank charter approvals for crypto firms like Coinbase, Ripple, and Circle \"illegal\" under the National Bank Act.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c027422d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-20T08:19:27+00:00"
+  },
+  {
+    "id": "0deb1ef1-b602-4abd-b231-da4aceba3366",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⛏️ Bitcoin miner Hut 8 is investing in Louisiana water infrastructure to support its Google-backed River Bend AI data center campus, part of a broader pivot from Bitcoin mining.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#152e33ae",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-20T08:19:25+00:00"
+  },
+  {
+    "id": "bc34d7bb-7575-4081-bb03-b83d4afe63e5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "K33 Research Says Bitcoin’s $60K Bottom Was Bear Market’s Maximum Drawdown",
+    "summary": "1. Research firm K33 Research says the bitcoin bear market of 2026 is structurally different from previous cycles, with the February low near $60,000 likely representing the deepest pullback this downturn will produce.\n2. Bitcoin’s Downside Capped at $60K In a research note published this week, K33’s head of research, Vetle Lunde, argued that the conditions defining […]",
+    "url": "https://news.bitcoin.com/k33-research-bitcoin-bear-market-bottom-60000-maximum-drawdown-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-20T08:15:28.000Z"
+  },
+  {
+    "id": "df255ed0-df49-4763-9132-ac6430747ba3",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "South Carolina governor signs crypto rights bill banning state CBDC use, protecting self-custody and shielding digital assets from targeted taxesTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#920dfac9",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-20T07:58:15+00:00"
+  },
+  {
+    "id": "5cd867ae-ea01-479e-b568-9f4aae4c1a80",
+    "source": "The Block",
+    "type": "rss",
+    "title": "South Carolina Governor signs pro-crypto, anti-CBDC bill into law",
+    "summary": "1. The new legislation bans state entities from accepting or requiring payments in CBDC, and offers strong support for crypto mining.",
+    "url": "https://www.theblock.co/post/401965/south-carolina-governor-signs-pro-crypto-bill?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-20T07:51:56.000Z"
+  },
+  {
+    "id": "e21c7762-968b-477b-86d7-d4ae3ba2414c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitwise calls HYPE ‘most mispriced’ crypto despite 77% rise this year",
+    "summary": "1. Bitwise’s Matt Hougan says Hyperliquid’s token is not priced as if it is tied to a “global super-app,” arguing the platform is more than just a crypto platform.",
+    "url": "https://cointelegraph.com/news/bitwise-says-hyperliquid-most-mispriced-crypto-despite-77-rise-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-05-20T07:37:19.000Z"
+  },
+  {
+    "id": "20c6729c-9669-46ba-896a-ceb5e3ca05a3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trump orders review of fintech firms' access to Fed payment services",
+    "summary": "1. Financial regulators are also asked to review regulations that could be amended to streamline applications for eligible fintech firms seeking bank and credit union charters.",
+    "url": "https://cointelegraph.com/news/trump-review-crypto-access-federal-reserve-payment-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-05-20T07:20:28.000Z"
+  },
+  {
+    "id": "72714ee0-c8f1-4d6b-aba0-2a109e79170b",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Putin and Xi sign Beijing agreement to deepen Russia-China strategic cooperation and extend landmark 25-year friendship treatyTwitter",
@@ -258,115 +398,5 @@
     "url": "https://news.bitcoin.com/doj-says-10m-crypto-scheme-continued-after-guilty-plea-adding-victims/",
     "author": "Kevin Helms",
     "created_at": "2026-05-20T03:30:04.000Z"
-  },
-  {
-    "id": "114d9279-79a3-4764-9211-ca7a7f64a4fa",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "24-hour crypto liquidations top $66M",
-    "summary": "24-hour crypto futures liquidationsThe following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $29.09 million liquidated (69.02% longs)- ETH: $29.87 million liquidated (77.58% longs)- BSB: $7.17 million liquidated (76.08% shorts)",
-    "url": "https://t.me/CoinnessGL#f7b1f314",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-20T03:21:11+00:00"
-  },
-  {
-    "id": "d5188ce3-7dfe-4ea5-b3e6-f68d03434388",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Mike Collins and Derek Dooley head to runoff in Georgia Senate GOP race",
-    "summary": "1. The result extends a bitter intraparty fight and delays Republicans' ability to focus their attacks on Democratic Sen.\n2. Jon Ossoff.",
-    "url": "https://www.politico.com/news/2026/05/19/collins-dooley-georgia-senate-runoff-00929116",
-    "author": "By Erin Doherty",
-    "created_at": "2026-05-20T03:16:29.000Z"
-  },
-  {
-    "id": "6d3ed967-088c-4a0f-b12b-77f3d4b37127",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bankr temporarily disables transactions after 14 wallets hacked",
-    "summary": "1. Bankr recommends that affected users create a new wallet, generate a new seed phrase on a clean device and revoke approvals if remaining assets can’t be moved.",
-    "url": "https://cointelegraph.com/news/bankr-disables-transactions-after-14-wallets-hacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-20T03:14:22.000Z"
-  },
-  {
-    "id": "f17f5fe4-6f43-46ba-a593-205344ae0baf",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US Bitcoin ETFs see $331M net outflow for third straight day",
-    "summary": "U.S. Bitcoin spot ETFs saw a net outflow of approximately $331.03 million yesterday, according to data compiled by Trader T. This marks the third consecutive trading day of net outflows.- BlackRock IBIT: -$325.57 million- Fidelity FBTC: -$1.67 million- Valkyrie BRRR: -$3.79 million",
-    "url": "https://t.me/CoinnessGL#6f5e7a5f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-20T03:04:26+00:00"
-  },
-  {
-    "id": "0f6f4051-a99e-4818-bb89-26401fc7b0c1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot ETH ETFs see 7th straight day of net outflows",
-    "summary": "U.S. spot Ethereum ETFs saw net outflows of $62.27 million on May 19, marking the seventh consecutive day of withdrawals, according to data compiled by Trader T.- BlackRock's ETHA: -$59.37 million- Fidelity's FETH: -$3.68 million- Bitwise's ETHW: +$760,000- BlackRock's Staking ETHB: +$200,000",
-    "url": "https://t.me/CoinnessGL#f9ee2039",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-20T03:00:50+00:00"
-  },
-  {
-    "id": "9f628960-d128-4637-bd54-08e2922d249e",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Progressive firebrand Chris Rabb wins Democratic primary for the nation’s bluest House seat",
-    "summary": "1. The self-styled “troublemaker” and unabashed progressive was backed by members of the “Squad.”",
-    "url": "https://www.politico.com/news/2026/05/19/rabb-wins-pennsylvania-house-primary-00929091",
-    "author": "By Lisa Kashinsky",
-    "created_at": "2026-05-20T02:44:01.000Z"
-  },
-  {
-    "id": "c6496fdf-e87c-440b-a7b9-fcedaaace815",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Trump-backed Truth Social pulls bids for crypto ETFs",
-    "summary": "1. The crypto ETFs were intended to be part of Trump Media & Technology Group’s broader crypto strategy, which included the launch of the Truth.fi financial platform.",
-    "url": "https://cointelegraph.com/news/trump-backed-truth-social-pulls-bids-for-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-20T02:42:44.000Z"
-  },
-  {
-    "id": "3cae7c2d-0624-411e-9390-45eec50f038e",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Keisha Lance Bottoms wins Democratic nomination for governor in Georgia",
-    "summary": "1. She won the nomination outright despite some Democrats’ concerns over her record as Atlanta mayor.",
-    "url": "https://www.politico.com/news/2026/05/19/bottoms-wins-georgia-governor-primary-00929086",
-    "author": "By Erin Doherty",
-    "created_at": "2026-05-20T02:32:55.000Z"
-  },
-  {
-    "id": "95cc4cf5-0362-4ea2-be4b-fba7e8d751b1",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase Helps Solve Kidnapping Case After Customer Is Forced to Transfer Crypto",
-    "summary": "1. Coinbase said blockchain intelligence helped United Kingdom investigators secure five convictions after monitoring systems flagged a customer under duress during a robbery.\n2. Investigators traced crypto and additional fiat funds across accounts.\n3. Blockchain Evidence Connects Robbery to Five Convictions Crypto exchange Coinbase (Nasdaq: COIN) revealed its assistance in a U.K.",
-    "url": "https://news.bitcoin.com/coinbase-helps-solve-kidnapping-case-after-customer-is-forced-to-transfer-crypto/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-20T02:30:13.000Z"
-  },
-  {
-    "id": "33e3f9c6-0b4c-44d4-8d7e-e96865fb0228",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Trump’s Truth Social withdraws bitcoin ETF application from SEC",
-    "summary": "1. Its advisor, Yorkville America, said the withdrawal is a strategic move to reapply under a more efficient securities framework.",
-    "url": "https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-20T02:08:52.000Z"
-  },
-  {
-    "id": "391df661-6e08-4e68-a7f1-1dfd1ae86f3b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Evernorth Highlights XRP’s ‘Actual Story’ Beyond JPMorgan Settlement Attention",
-    "summary": "1. XRP gained renewed attention after Evernorth highlighted how the crypto asset facilitated a tokenized Treasury redemption across Ripple, Mastercard, J.P.\n2. Morgan’s Kinexys, and Ondo Finance.\n3. Ripple, Mastercard, and JPMorgan’s Kinexys Linked Through XRP Settlement Flow XRP treasury company Evernorth shared on May 18 that the “actual story” behind a recent cross-institutional blockchain transaction was the […]",
-    "url": "https://news.bitcoin.com/evernorth-highlights-xrps-actual-story-beyond-jpmorgan-settlement-attention/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-20T01:30:11.000Z"
   }
 ]
