@@ -1,5 +1,155 @@
 [
   {
+    "id": "37c2776e-06e1-4153-8bcf-f8ad361ae34e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC spot CVD chart at 10:00 a.m. UTC on May 20",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows a Volume Heatmap, while the bottom displays the Cumulative Volume Delta (CVD).- The Volume Heatmap at the top tracks the scale of trading volume at specific price levels. The background color brightens when the price remains in a certain range for an extended period or makes a significant move. Brighter areas may act as potential support or resistance levels.- The Cumulative Volume Delta (CVD) indicator at the bottom shows buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line tracks orders between $100 and $1,000, while the brown line represents large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#a2882598",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T10:37:10+00:00"
+  },
+  {
+    "id": "6d825975-0d49-46fc-b999-77d532472b95",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Rwanda’s CMA Moves to License Crypto Exchanges as Unapproved Platforms Face Penalties",
+    "summary": "1. Following parliament’s approval of its first digital asset legal framework, Rwanda’s Capital Markets Authority is establishing a strict regulatory regime for cryptocurrencies.\n2. Mandatory Licensing for Crypto Service Providers Rwanda’s Capital Markets Authority (CMA) has outlined how its upcoming virtual asset regulations will govern cryptocurrency trading, token issuance and digital investment platforms, following Parliament’s recent approval […]",
+    "url": "https://news.bitcoin.com/rwandas-cma-moves-to-license-crypto-exchanges-as-unapproved-platforms-face-penalties/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-20T10:30:06.000Z"
+  },
+  {
+    "id": "f195cb27-4c77-4d72-848a-5ad91e8f933b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Former CFTC Chair Timothy Massad says a US CBDC is still being discussed privately despite Trump’s public opposition, arguing tokenized finance will make government-backed digital dollar settlement inevitableTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#26a81ae8",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-20T10:28:42+00:00"
+  },
+  {
+    "id": "828aa36e-f27a-4122-8be2-de5731fa981c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "CAB, Europol secure another 500 BTC likely tied to Irish drug trafficking case",
+    "summary": "1. Irish authorities secured another 500 BTC after accessing a second dormant wallet likely tied to the long-lost Clifton Collins bitcoin cache.",
+    "url": "https://www.theblock.co/post/401975/cab-europol-secure-another-500-btc-likely-tied-to-irish-drug-trafficking-case?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-20T10:27:17.000Z"
+  },
+  {
+    "id": "8a07102d-7d7e-4ea4-8757-fb966a1bba17",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC long positions on Bitfinex reach 30-month high",
+    "summary": "As Bitcoin's price has fallen for five consecutive days, traders on Bitfinex have been increasing their leveraged long positions, CoinDesk reported. The volume of long positions on the platform has risen to 80,636 BTC, the highest level in approximately two and a half years. Since the beginning of the year, BTC long positions on the exchange have grown by about 10%, while the price of Bitcoin has fallen by around 13% over the same period. The market interprets this as a sign that large-scale investors are consistently accumulating BTC during the market correction. Historically, long positions held by Bitfinex whales tend to expand when the market is bearish or investor sentiment is weak, and contract near market peaks.",
+    "url": "https://t.me/CoinnessGL#818a0b2a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T10:18:21+00:00"
+  },
+  {
+    "id": "02f58146-4349-4d97-bf08-ae01d963bade",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Ethereum ETFs recovered only about one-third of prior outflows versus roughly two-thirds for Bitcoin ETFs, as JPMorgan warns ETH and altcoins may keep lagging BTC without stronger network growth.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0cd11400",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-20T10:14:30+00:00"
+  },
+  {
+    "id": "48e85760-5cd3-4814-95a1-f99c2f0c0518",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Bitwise says Hyperliquid’s HYPE is one of crypto’s most undervalued assets, citing roughly $800M-$1B in estimated annualized revenue and a valuation of 10x–14x its buyback stream.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f784b774",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-20T10:14:27+00:00"
+  },
+  {
+    "id": "b65f55dd-edca-4d98-813d-b7fc151b053d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitfinex traders double down on bitcoin during five-day slide as longs hit 2.5-year high",
+    "summary": "1. Margin longs on Bitfinex have climbed to a two-and-a-half year high as bitcoin struggles below key technical resistance near $78,000.",
+    "url": "https://www.coindesk.com/markets/2026/05/20/bitfinex-traders-double-down-on-bitcoin-during-five-day-slide-as-longs-hit-2-5-year-high",
+    "author": "James Van Straten",
+    "created_at": "2026-05-20T10:07:28.000Z"
+  },
+  {
+    "id": "f76a8d82-efa2-42eb-bdd5-0a4593e1bfe3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Euro stablecoin project Qivalis adds 25 banks ahead of launch",
+    "summary": "1. Qivalis expands to 37 banks after adding 25 new members across 15 countries, boosting euro stablecoin plans ahead of a second-half 2026 launch.",
+    "url": "https://cointelegraph.com/news/qivalis-euro-stablecoin-consortium-adds-25-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-05-20T10:06:49.000Z"
+  },
+  {
+    "id": "7ed17321-c603-4c87-bbdd-77591d90034a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Trump's Truth Social Pulls Bitcoin ETF Application From SEC Review",
+    "summary": "1. Trump Media & Technology Group has withdrawn its Form S-1 registrations for Bitcoin and Bitcoin-Ethereum ETFs.",
+    "url": "https://decrypt.co/368428/trumps-truth-social-pulls-bitcoin-etf-application-from-sec-review",
+    "author": "Decrypt Agent",
+    "created_at": "2026-05-20T10:04:26.000Z"
+  },
+  {
+    "id": "7ea494da-261d-4886-b036-367a93465025",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Zama acquires token platform TokenOps to build private distribution infrastructure",
+    "summary": "Open-source cryptography developer Zama has acquired TokenOps, an institutional token distribution management platform, The Block reported. Zama plans to use the acquisition to build a private token distribution infrastructure leveraging Fully Homomorphic Encryption (FHE) technology. This will enable details such as token allocation sizes, unlock schedules, and recipient information to be processed in an encrypted state on public blockchains. Zama previously raised $57 million in a Series B funding round last June, led by Pantera Capital and Blockchange, at a valuation of $1 billion.",
+    "url": "https://t.me/CoinnessGL#94211770",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-20T10:03:11+00:00"
+  },
+  {
+    "id": "b0c7b474-8ff3-4d45-a0b0-19e9f72399c0",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Zama acquires TokenOps to deploy encrypted token distributions for institutional issuers",
+    "summary": "1. Zama acquired TokenOps, a token distribution platform, to bring FHE-encrypted vesting and airdrops to institutional issuers.",
+    "url": "https://www.theblock.co/post/401974/zama-acquires-tokenops-to-deploy-encrypted-token-distributions-for-institutional-issuers?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-20T09:55:00.000Z"
+  },
+  {
+    "id": "cfbadfea-0102-4117-a4e8-fe79a6251e19",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump’s grip on the party threatens his grasp of Congress",
+    "summary": "1. President Donald Trump’s revenge tour is increasingly imperiling his midterm agenda on the Hill.",
+    "url": "https://www.politico.com/news/2026/05/20/trump-revenge-midterms-00929255",
+    "author": "By Adam Wren and Samuel Benson",
+    "created_at": "2026-05-20T09:55:00.000Z"
+  },
+  {
+    "id": "e7409238-3d89-434a-863c-0d4d1bbc9d8b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Despite Trump’s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
+    "summary": "1. Publicly, the U.S.\n2. has fiercely opposed a Central Bank Digital Currency, but former CFTC Chairman Timothy Massad said it is inevitable and there will be one sooner or later.",
+    "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
+    "author": "Olivier Acuna",
+    "created_at": "2026-05-20T09:45:21.000Z"
+  },
+  {
+    "id": "b8bf94f1-078e-41d5-b1f5-2384db9e80e6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+    "summary": "1. The DWS and Galaxy-backed firm targets June debut for its SEKAU stablecoin as Europe pushes to build regulated local-currency alternatives to U.S.\n2. dollar tokens.",
+    "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-05-20T09:22:58.000Z"
+  },
+  {
     "id": "c76bd5e2-26ae-48d2-ae3a-979739a74262",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +158,16 @@
     "url": "https://news.bitcoin.com/senator-lummis-us-china-europe-crypto-competition-2026/",
     "author": "Shiraz Jagati",
     "created_at": "2026-05-20T09:20:33.000Z"
+  },
+  {
+    "id": "66b08bab-a80c-478d-82fa-4dd4b46283f1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+    "summary": "1. OpenAI is opening its first overseas applied AI lab in Singapore through a $234 million partnership expected to create more than 200 technical roles.",
+    "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-20T09:16:08.000Z"
   },
   {
     "id": "122ccea9-8662-4729-8e81-35fc2bd1a3a8",
@@ -50,7 +210,7 @@
     "created_at": "2026-05-20T08:57:23.000Z"
   },
   {
-    "id": "74f60c49-ab98-4c3a-ae49-34d803f0ba7f",
+    "id": "c281ec30-4b83-46ba-99c4-2dbae0be29fe",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇬🇧 Bank of England deputy governor Sarah Breeden says tokenization could cut costs and boost competition in financial markets.",
@@ -100,7 +260,7 @@
     "created_at": "2026-05-20T08:15:28.000Z"
   },
   {
-    "id": "df255ed0-df49-4763-9132-ac6430747ba3",
+    "id": "3a8bd39e-0060-4434-bf76-93d5e87a6041",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "South Carolina governor signs crypto rights bill banning state CBDC use, protecting self-custody and shielding digital assets from targeted taxesTwitter",
@@ -140,7 +300,7 @@
     "created_at": "2026-05-20T07:20:28.000Z"
   },
   {
-    "id": "72714ee0-c8f1-4d6b-aba0-2a109e79170b",
+    "id": "197a7916-1cd3-4392-9d1d-4153af52fcd7",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Putin and Xi sign Beijing agreement to deepen Russia-China strategic cooperation and extend landmark 25-year friendship treatyTwitter",
@@ -368,35 +528,5 @@
     "url": "https://cointelegraph.com/news/world-liberty-linked-ai-financial-flags-going-concern-as-losses-mount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Jesse Coghlan",
     "created_at": "2026-05-20T04:44:55.000Z"
-  },
-  {
-    "id": "c67b0e2c-e12d-471d-b90b-39fd7f85d9be",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Solana Real-World Assets Hit $2B as Tokenized Assets Fuel Ecosystem Growth",
-    "summary": "1. Solana’s tokenized real-world asset market expanded 43% in the first quarter, even as broader crypto markets weakened.\n2. Application revenue remained resilient, while developers pushed ahead with infrastructure upgrades to dramatically improve network speed and scalability.\n3. Solana App Revenue Holds $342M Despite SOL Declining by 33% Solana’s blockchain economy showed surprising resilience in the first quarter […]",
-    "url": "https://news.bitcoin.com/solana-real-world-assets-hit-2b-as-tokenized-assets-fuel-ecosystem-growth/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-20T04:30:18.000Z"
-  },
-  {
-    "id": "966ba7d0-9320-490a-bc1d-03f9dcdc8260",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🚓 Two American men were arrested in Japan after allegedly entering the zoo enclosure of viral monkey Punch to promote a Solana meme coin.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#78e51c40",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-20T03:54:44+00:00"
-  },
-  {
-    "id": "e27e690e-2cef-41b7-bbec-1d2cfd7fd0fa",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "DOJ Says $10M Crypto Scheme Continued After Guilty Plea, Adding Victims",
-    "summary": "1. More cryptocurrency investors were harmed after a guilty plea, with prosecutors saying additional funds were solicited while the fraud case remained pending sentencing.\n2. The scheme raised more than $10 million and resulted in a nine-year prison sentence.\n3. Ohio Crypto Fraud Scheme Leads to 9-Year Sentence A cryptocurrency investment fraud scheme that raised more than $10 […]",
-    "url": "https://news.bitcoin.com/doj-says-10m-crypto-scheme-continued-after-guilty-plea-adding-victims/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-20T03:30:04.000Z"
   }
 ]
