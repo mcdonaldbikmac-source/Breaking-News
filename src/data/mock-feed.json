@@ -1,5 +1,115 @@
 [
   {
+    "id": "e0abce8f-07a0-420c-8a2d-256201ca9662",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Arthur Hayes says HYPE is nearing new all-time high",
+    "summary": "BitMEX founder Arthur Hayes said that a new all-time high for HYPE is imminent, adding that the token is getting much closer to his $150 price target. HYPE is currently about 3.5% away from its previous high of $59.30 and has risen approximately 46% over the past seven days.",
+    "url": "https://t.me/CoinnessGL#bf2e597f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-21T07:20:22+00:00"
+  },
+  {
+    "id": "33eefa31-0d30-4204-8873-6090df5eb6ef",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ripple Prime partners with EDX Markets",
+    "summary": "Ripple's prime brokerage platform for institutional investors, Ripple Prime, has partnered with U.S.-based institutional crypto platform EDX Markets to expand its trading services, Cointelegraph reported. Through the partnership, the two firms will provide institutional clients with liquidity in both spot and perpetual futures markets.",
+    "url": "https://t.me/CoinnessGL#40be712a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-21T07:17:04+00:00"
+  },
+  {
+    "id": "27295a68-1835-4f27-94c0-dad2f08ad648",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC perp long/short ratios on top exchanges",
+    "summary": "BTC perp long/short ratios on top exchanges by open interestThe following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 50.08% long, 49.92% short- Binance: 50.74% long, 49.26% short- OKX: 51.19% long, 48.81% short- Bybit: 49.38% long, 50.62% short",
+    "url": "https://t.me/CoinnessGL#5c652892",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-21T07:13:59+00:00"
+  },
+  {
+    "id": "a7c1cc6c-8b5d-47f6-aa4e-85de7dd313e2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Binance launches SpaceX pre-IPO perps amid $2 trillion valuation bets",
+    "summary": "1. Binance looks to democratize pre-IPO markets, starting with SpaceX perpetual futures.",
+    "url": "https://www.coindesk.com/markets/2026/05/21/binance-launches-spacex-pre-ipo-perps",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-21T07:03:20.000Z"
+  },
+  {
+    "id": "66103531-b675-48ca-bd98-3299a60be5a0",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ MoneyGram has been named anchor remittance validator for Tempo, the Stripe and Paradigm-backed L1 blockchain, and will integrate stablecoin settlement for its global payment flows.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7866553d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-21T06:39:45+00:00"
+  },
+  {
+    "id": "e3d16f75-5112-4d0d-a0fd-c8daf5742db8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ontop Uses Opentrade APIs to Turn Idle Payroll Cash Into 3% APR Rewards",
+    "summary": "1. Fintech payroll platform Ontop has partnered with stablecoin yield infrastructure provider Opentrade to launch a platform-wide ~3% APR rewards program for its remote workforce users.\n2. Mitigating Risk for Cross-Border Workers Ontop has rolled out a ~3% APR rewards program for its global workforce users after integrating stablecoin yield infrastructure from Opentrade.\n3. Under the program, Ontop […]",
+    "url": "https://news.bitcoin.com/ontop-uses-opentrade-apis-to-turn-idle-payroll-cash-into-3-apr-rewards/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-21T06:30:45.000Z"
+  },
+  {
+    "id": "643c762b-fa18-4f0a-9338-ef19b2c7b86c",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
+    "summary": "1. The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days.\n2. Initially, the launch will make the eSIM product available in 29 countries.",
+    "url": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-05-21T06:00:00.000Z"
+  },
+  {
+    "id": "9683d0ec-c744-4a55-b2b9-712f9fddacaf",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Vitalik Buterin says Ethereum is moving to make privacy native to the network, with three upcoming upgrades targeting censorship resistance, on-chain transaction linking, and private wallet reads.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f39e0bea",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-21T05:54:45+00:00"
+  },
+  {
+    "id": "a4320f9b-dd30-40bc-80c1-903cdd62ec87",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+    "summary": "1. Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
+    "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-05-21T05:52:38.000Z"
+  },
+  {
+    "id": "455e6114-05b5-41f6-8c40-41011ef121b6",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "SEC seeks public comment as it weighs prediction market ETFs",
+    "summary": "1. Bitwise, Roundhill Investments and GraniteShares had their prediction market ETF applications put on hold by the SEC earlier this month.",
+    "url": "https://cointelegraph.com/news/sec-seeks-public-comment-as-it-weighs-prediction-market-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-21T05:44:37.000Z"
+  },
+  {
+    "id": "a47d770c-c149-4bc5-a75f-da622c7257bb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "South African Treasury Extends Crypto Rule Deadline to June 30 After Backlash",
+    "summary": "1. South Africa’s National Treasury and central bank have assured the crypto industry that proposed capital-flow regulations will not criminalize digital asset ownership or apply retrospectively.\n2. Modernizing Exchange Controls South Africa’s National Treasury and the South African Reserve Bank have sought to calm growing concern in the crypto industry, saying proposed changes to the country’s capital-flow […]",
+    "url": "https://news.bitcoin.com/south-african-treasury-extends-crypto-rule-deadline-to-june-30-after-backlash/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-21T05:30:41.000Z"
+  },
+  {
     "id": "0b54c9f9-f243-4283-93f3-3ea175c3cecb",
     "source": "CoinDesk",
     "type": "rss",
@@ -18,6 +128,16 @@
     "url": "https://t.me/CoinnessGL#f74a3336",
     "author": "@CoinnessGL",
     "created_at": "2026-05-21T05:13:32+00:00"
+  },
+  {
+    "id": "33da8ca8-08db-4513-bdba-b98830ee0862",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "Daily General Discussion May 21, 2026",
+    "summary": "1. **Welcome to the Daily General Discussion on** r/ethereum\n\n\n\n[\n\n\n\nBookmarking this link will always bring you to the current daily:  [\n\n\n\nPlease use this thread to discuss Ethereum topics, news, events, and even *price*!\n2. Price discussion posted elsewhere in the subreddit will **continue to be removed.**\n\n\n\nAs always, be constructive.\n3. - [Subreddit Rules](\n\n\n\nWant to stake?",
+    "url": "https://reddit.com/r/ethereum/comments/1tjaarz/daily_general_discussion_may_21_2026/",
+    "author": "u/EthereumDailyThread",
+    "created_at": "2026-05-21T05:01:17.000Z"
   },
   {
     "id": "98f9f7cf-fb8f-4c2b-83a8-d04b28497f13",
@@ -50,7 +170,7 @@
     "created_at": "2026-05-21T04:51:17+00:00"
   },
   {
-    "id": "5a6fd0a7-71fa-4225-85d5-8c52727dc18e",
+    "id": "cadaf6ec-5eb1-4ea3-94d5-c73d5f5598a5",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Former CFTC Chair Timothy Massad says the US is quietly exploring CBDC infrastructure through the BIS's Project Agora despite a public pledge to ban a digital dollar.",
@@ -268,65 +388,5 @@
     "url": "https://news.bitcoin.com/italy-traces-e1-million-in-undeclared-bitcoin-ordinals-gains/",
     "author": "Kevin Helms",
     "created_at": "2026-05-21T01:30:06.000Z"
-  },
-  {
-    "id": "5a59d493-5700-4811-9e80-cd578a5e43b8",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Firm Nakamoto Plots 1-for-40 Stock Split Following 99% Price Plunge",
-    "summary": "1. Bitcoin treasury company Nakamoto aims to massively reduce its share count as it seeks a price of at least $1 to regain Nasdaq compliance.",
-    "url": "https://decrypt.co/368562/bitcoin-firm-nakamoto-stock-split-99-price-plunge",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-05-21T01:21:18.000Z"
-  },
-  {
-    "id": "9b03b4ca-79a3-47fd-a29f-5d1473b34d22",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Since May 15, the Short Term Holder Spent Output Profit Ratio (STH-SOPR) has...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#052fa247",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-21T01:14:35+00:00"
-  },
-  {
-    "id": "5d939836-b614-41f6-a2cc-997e7f8383bf",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Idle XRP Finds New Use Case Through Flare Yield Vault After XRP Alliance Launch",
-    "summary": "1. A three-week campaign is giving XRP holders a new way to put idle tokens to work while retaining cold-wallet security.\n2. The initiative removes the need to purchase separate gas tokens during deposits and includes a $40,000 reward pool tied to XRP and FLR incentives.\n3. XRP Utility Push Expands Through Flare Integration Many XRP holders continue […]",
-    "url": "https://news.bitcoin.com/idle-xrp-finds-new-use-case-through-flare-yield-vault-after-xrp-alliance-launch/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-21T00:30:34.000Z"
-  },
-  {
-    "id": "9b198fa5-8b9a-44fd-8e24-1fe40605ac79",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "summary": "1. The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "author": "Julie Bort",
-    "created_at": "2026-05-21T00:28:31.000Z"
-  },
-  {
-    "id": "2aa2711a-8165-4201-b074-2e54a8ba6eb5",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "summary": "1. Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-05-21T00:21:21.000Z"
-  },
-  {
-    "id": "d9cbb0dd-861e-4392-9c4e-cc9b21e8d351",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Nakamoto has approved a 1-for-40 reverse stock split effective May 22 to regain Nasdaq compliance, after NAKA fell more than 99% from its 2025 high.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#1f8b5d49",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-20T23:54:20+00:00"
   }
 ]
