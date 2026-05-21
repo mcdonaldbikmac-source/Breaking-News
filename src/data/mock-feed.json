@@ -1,5 +1,55 @@
 [
   {
+    "id": "c88e01d7-466f-4fc8-a195-9e1197fb84df",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Saylor: Goal is to maximize STRC growth to expand BTC purchases",
+    "summary": "Strategy(MSTR) founder Michael Saylor said the company's goal is to maximize the growth of its STRC credit products to expand its BTC purchase volume and its holdings of BTC per share. He added that the company is also seeking to minimize volatility and uncertainty as much as possible.",
+    "url": "https://t.me/CoinnessGL#d9472bf0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-21T09:21:24+00:00"
+  },
+  {
+    "id": "55955fc0-214a-4718-8e4c-86941cb3e787",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Ireland's Criminal Assets Bureau and Europol cracked a second dormant wallet from a 2019 drug trafficking case, seizing 500 BTC after deploying complex “decryption resources.”",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e6b9c04b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-21T09:14:08+00:00"
+  },
+  {
+    "id": "74ae60b3-1cdf-4595-8edd-42f0da901e5f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC/USDT spot CVD chart as of 9:00 a.m. UTC on May 21",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows the Volume Heatmap, and the bottom section shows the Cumulative Volume Delta (CVD).- The top section, the Volume Heatmap, tracks the volume of trades at specific price levels. The background color becomes brighter when the price remains in a certain range for an extended period or moves significantly. Brighter areas may act as potential support or resistance levels.- The bottom section, the Cumulative Volume Delta (CVD) indicator, represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line represents orders between $100 and $1,000, while the brown line indicates large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#2e8bc9fe",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-21T09:01:29+00:00"
+  },
+  {
+    "id": "f3f9b797-64cb-40c8-bc12-ea726d04281c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "AI0x plans to build on-chain credit system using influencer tokens",
+    "summary": "The influence of content creators on platforms like YouTube and the short-form video app Celebe could be used as a new credit scoring metric, according to Park Sung-hoon, CEO of AI0x, the operator of Fancycoin (FANC). Speaking at the 2026 Future Finance Forum, Park noted that while the global creator marketing market is valued at approximately 45 trillion won ($33.3 billion), around 15% of this is lost to inefficiencies such as fake followers. He stressed the need for on-chain verification data to assess genuine influence. Park added that AI0x is researching a system to bring activity data from Celebe on-chain and issue it in the form of FANC Soulbound Tokens (SBTs). He explained that the company aims to build an on-chain credit infrastructure that records creator activity and fandom contributions, linking them to a dedicated influence token.",
+    "url": "https://t.me/CoinnessGL#5f480360",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-21T09:00:34+00:00"
+  },
+  {
+    "id": "dc8a994f-c801-4022-89b9-b4c8434655cc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "TradFi giant IG to expand crypto trading across Europe through Bitpanda",
+    "summary": "1. The London-listed company is broadening its digital asset offering after introducing spot crypto trading for U.K.\n2. retail customers last year.",
+    "url": "https://www.coindesk.com/business/2026/05/20/tradfi-giant-ig-to-expand-crypto-trading-across-europe-through-bitpanda",
+    "author": "Jamie Crawley",
+    "created_at": "2026-05-21T08:58:31.000Z"
+  },
+  {
     "id": "25c9acc5-af65-47a3-905a-a9c1bedae6ff",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -50,7 +100,7 @@
     "created_at": "2026-05-21T08:20:05+00:00"
   },
   {
-    "id": "4c9fa0a2-d8dc-44ea-ba1b-e4a2e0681b31",
+    "id": "f8cbc81f-9ff8-4703-8e3c-066e347d792f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 White House crypto adviser Patrick Witt says the CLARITY Act would be \"one of the most impactful pieces of financial legislation in American history\" if passed.",
@@ -60,7 +110,7 @@
     "created_at": "2026-05-21T08:19:21+00:00"
   },
   {
-    "id": "a90ee53f-d42d-4993-970a-55bc91b39499",
+    "id": "8f0a29b3-58f9-4d3b-93a1-6ed42516c896",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💡 CoinMarketCap | Trending Prediction Markets 💡In a busy market, opinions are...",
@@ -90,7 +140,7 @@
     "created_at": "2026-05-21T08:00:00.000Z"
   },
   {
-    "id": "77659478-49cb-49b5-9856-7e23aed5d0fc",
+    "id": "95f15abb-4145-4fc3-8b8b-5d6dac0bfe4a",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "China reportedly blocks Pentagon official’s Beijing visit pending Trump decision on $14B Taiwan arms packageTwitter",
@@ -408,35 +458,5 @@
     "url": "https://news.bitcoin.com/kalshi-quietly-stages-leveraged-crypto-push-as-hidden-api-surfaces-margin-demo/",
     "author": "Luci Kelemen",
     "created_at": "2026-05-21T03:30:16.000Z"
-  },
-  {
-    "id": "6fbc27dd-07eb-473a-969e-7293133a246a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Fiscal burden of illegal aliens gradually disappearing due to Trump admin:",
-    "url": "https://trumpstruth.org/statuses/38686",
-    "author": "Trump Truth",
-    "created_at": "2026-05-21T03:13:53.000Z"
-  },
-  {
-    "id": "0c4c1f57-db3f-495f-9e3f-557be04879f2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hyperliquid ETFs attract record $25.5 million in net inflows as institutions pile in",
-    "summary": "1. spot HYPE ETFs saw $25.5 million in net inflows on Wednesday, marking their largest positive flows since launch.",
-    "url": "https://www.theblock.co/post/402120/hyperliquid-etfs-25-million-inflows?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-21T03:10:44.000Z"
-  },
-  {
-    "id": "6973842a-d5e3-44ce-8527-3b8068703919",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Deranged Jack Smith and his “gang” are really bad news.\n2. Can never be allowed to happen again.\n3. They should all be prosecuted!",
-    "url": "https://trumpstruth.org/statuses/38685",
-    "author": "Trump Truth",
-    "created_at": "2026-05-21T03:09:41.000Z"
   }
 ]
