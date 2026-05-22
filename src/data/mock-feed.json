@@ -1,16 +1,176 @@
 [
   {
-    "id": "0b44f7ab-b2b3-4b2f-a18f-d11c4c07a59d",
+    "id": "3e6efe03-7cec-4e3a-b459-19e31993594f",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US AND IRAN'S INSISTENCE ON RAISING THE CEILING OF THEIR DEMANDS REGARDING URANIUM AND THE STRAIT OF HORMUZ HAS LED TO THE ESCALATION OF NEGOTIATIONS, ACCORDING TO PAKISTANI SOURCETwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#bbd3a018",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-22T09:41:30.221Z"
+  },
+  {
+    "id": "d9b98edc-6b4c-4710-a55c-c797a231e234",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "SkyBridge Capital's crypto-heavy fund posts second straight quarterly loss",
+    "summary": "The Opportunity Fund, a flagship offering from U.S. asset manager SkyBridge Capital, posted a 12.9% loss in the first quarter of 2026, marking its second consecutive quarter of declines due to its cryptocurrency exposure, Bloomberg reported. The fund, which allocates approximately 64% of its assets to crypto, previously fell 18% in the fourth quarter of 2025, closing out the year with an annual return of -12%.",
+    "url": "https://t.me/CoinnessGL#6beedf39",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T09:40:33+00:00"
+  },
+  {
+    "id": "ca946fc9-9004-4948-9525-9e344ab09f93",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
+    "summary": "1. Blockchain investigator ZachXBT has highlighted a suspected security breach involving Polymarket, the world’s largest decentralized prediction market platform.",
+    "url": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-22T09:39:55.000Z"
+  },
+  {
+    "id": "464f7c70-f1d1-4930-8f72-08dfc14934b3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BitMart faces withdrawal halt rumors with only $650K in USDT reserves",
+    "summary": "Reports are circulating of withdrawal delays and suspensions at global cryptocurrency exchange BitMart. According to a South Korean online community, while BitMart's Proof of Reserves (PoR) totals approximately $169 million, the majority consists of low-liquidity tokens such as SISC, TBC, and its native token, BMX. The exchange's holdings of USDT, crucial for processing withdrawals, amount to only about $650,000. Additionally, BitMart is reportedly not integrated with South Korean exchanges under the Travel Rule.",
+    "url": "https://t.me/CoinnessGL#400da680",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T09:30:55+00:00"
+  },
+  {
+    "id": "f13933f3-8471-44c4-8141-a403b07c0219",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘No longer a distant place’: F2Pool Co-founder Chun Wang joins SpaceX’s 2-year mission to Mars",
+    "summary": "1. Wang will board Starship on a two-year mission that will explore outside the Earth-Moon system and conduct a fly-by of Mars.",
+    "url": "https://www.theblock.co/post/402332/f2pool-chun-wang-spacex-mars?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-22T09:30:39.000Z"
+  },
+  {
+    "id": "6f3e4246-2897-4ac3-bced-4f5b5a8fccea",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "US Lawmakers Introduce ARMA Bill to Codify Strategic Bitcoin Reserve With 20-Year Hold and 1M BTC Goal",
+    "summary": "1. A bipartisan group of more than a dozen U.S.\n2. representatives has introduced legislation to enshrine a Strategic Bitcoin Reserve in federal law, mandate a minimum 20-year holding period, and direct the Treasury Department to acquire up to 1 million bitcoin over five years.\n3. Bipartisan ARMA Bill Targets 1 Million Bitcoin Reserve Congressman Nick Begich (AK-AL) […]",
+    "url": "https://news.bitcoin.com/arma-bill-strategic-bitcoin-reserve-20-year-hold-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-22T09:30:07.000Z"
+  },
+  {
+    "id": "a4f617ad-07ab-4e65-af24-bfc38643ef44",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "China investigates Futu, two other brokerages over crypto services",
+    "summary": "Chinese regulators are investigating three brokerage firms—Futu, Tiger Brokers, and Longbridge Securities—Foresight News reported. Futu, often called the 'Robinhood of China,' has previously obtained a license for a crypto trading platform. Tiger Brokers has also supported crypto trading for retail investors in Hong Kong.",
+    "url": "https://t.me/CoinnessGL#ad2f9751",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T09:21:10+00:00"
+  },
+  {
+    "id": "7525017b-3bb4-4f6d-a1c4-008d48d277b7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Former Ethereum Foundation developer Dankrad Feist has suggested raising $1B to form a new Ethereum advocacy group, separate from the existing non-profit foundation.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c842e988",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-22T09:09:35+00:00"
+  },
+  {
+    "id": "d13d0307-feb2-4e7e-9e67-6eee51b5895e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Polymarket probes private key compromise of internal top-up wallet on Polygon",
+    "summary": "1. Onchain sleuth ZachXBT flagged a potential exploit of Polymarket's UMA CTF Adapter on Polygon, with $520K reportedly drained so far.",
+    "url": "https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-22T09:02:16.000Z"
+  },
+  {
+    "id": "a2dab49f-93a5-4de6-80ad-b9e7b93a6a2c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The nation’s cartoonists on the week in politics",
+    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
+    "url": "https://www.politico.com/gallery/2026/05/22/the-nations-cartoonists-on-the-week-in-politics-00933393",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-05-22T09:00:00.000Z"
+  },
+  {
+    "id": "897b8f90-2936-4f1b-b46b-8b0eb03bdeae",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Near Protocol to automate its own growth and its token is skyrocketing",
+    "summary": "1. Near Protocol will introduce dynamic resharding in June, allowing the blockchain to automatically add shards as demand grows without human intervention.",
+    "url": "https://www.coindesk.com/markets/2026/05/22/near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing",
+    "author": "Omkar Godbole",
+    "created_at": "2026-05-22T08:52:32.000Z"
+  },
+  {
+    "id": "2b6215ea-8eb3-42ea-a635-4e4ed181625e",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Trump to swear in Kevin Warsh as Fed Chair at White House Friday, succeeding Jerome PowellTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#156b921f",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-22T07:41:07.705Z"
+    "created_at": "2026-05-22T08:42:07+00:00"
   },
   {
-    "id": "15acf6b6-fae0-4431-855f-f6f61cfc53ed",
+    "id": "c148f935-ef8a-43cb-af2d-b9c143ce982b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Polymarket aims for prediction market approval in Japan by 2030",
+    "summary": "1. Mike Eidlin, head of Japan at cryptocurrency exchange Jupiter, is leading Polymarket's efforts, according to reports.",
+    "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
+    "author": "Jamie Crawley",
+    "created_at": "2026-05-22T08:34:13.000Z"
+  },
+  {
+    "id": "95d90e41-af9f-4242-bd85-a82788c0611a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Polymarket Targets Japan Market Entry, Appoints Representative in Push for 2030 Approval",
+    "summary": "1. Decentralized prediction market platform Polymarket has set its sights on Japan, appointing a local representative and launching a formal lobbying effort aimed at securing government authorization by 2030.\n2. Japanese Market Entry With a Strong Lobby Push Polymarket, the blockchain-based prediction market that hit its first $10 billion monthly trading volume in March 2026, is making […]",
+    "url": "https://news.bitcoin.com/polymarket-japan-market-entry-approval-2030/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-22T08:30:04.000Z"
+  },
+  {
+    "id": "48f34d5c-2224-480a-a10a-b3a926c5283d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
+    "summary": "1. An attacker transferred 4,052.4 ETH worth $8.5 million back to Verus on Friday after the team proposed a bounty framework.",
+    "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-22T08:29:12.000Z"
+  },
+  {
+    "id": "bcdd0af3-9538-4e63-9227-4bc7bd24b3c9",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇷 A petition to abolish South Korea's crypto tax has hit 50,000 signatures, triggering a parliamentary review.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e8209454",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-22T08:19:28+00:00"
+  },
+  {
+    "id": "7d90f96f-cefe-434d-821d-85509b35906a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis",
+    "summary": "1. Bitcoin rallied for 90 days after its dip below $60,000, breaking the record for the longest uptrend within a bear market in BTC price history.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-05-22T08:12:28.000Z"
+  },
+  {
+    "id": "8d933b53-e450-4db3-bab1-342e08c9ff13",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ The US will invest over $2B in quantum computing, including $1B for IBM’s new quantum chip venture, as concerns grow over the long-term threat to Bitcoin encryption.",
@@ -20,7 +180,7 @@
     "created_at": "2026-05-22T07:39:06+00:00"
   },
   {
-    "id": "08fa420a-e6af-4986-bbfc-55d3b6cba44d",
+    "id": "fddd0725-0974-447c-891c-f8d7b1c98716",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BILLIONAIRE MARK CUBAN SAYS HE SOLD \"MOST\" OF HIS BITCOIN ONCE HE WAS SAYING “BITCOIN IS BETTER THAN GOLD”Twitter",
@@ -140,7 +300,7 @@
     "created_at": "2026-05-22T06:30:12.000Z"
   },
   {
-    "id": "727e1825-fbdb-46e8-a09f-11fdaeb65c93",
+    "id": "1da53284-b125-4128-b9c0-c3161cabd43e",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea considers abolishing planned 22% crypto tax.@WatcherGuru",
@@ -290,7 +450,7 @@
     "created_at": "2026-05-22T04:30:52.000Z"
   },
   {
-    "id": "6d93d73c-4c29-4d31-8754-8385d75019c3",
+    "id": "bc719195-2ced-4147-a549-b24b7eb748c6",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "16 years ago today, Laszlo Hanyecz paid 10,000 Bitcoin for two Papa John's pizzas.",
@@ -328,85 +488,5 @@
     "url": "https://www.politico.com/video/2026/05/21/ukraines-ambassador-on-trump-putin-and-the-path-to-peace-2069123",
     "author": "Politico",
     "created_at": "2026-05-22T03:59:00.000Z"
-  },
-  {
-    "id": "660b3eb8-5572-458a-bbd5-5cdf70278399",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Traders Get AI, Defense, and China Perp Futures on Coinbase Starting June 8",
-    "summary": "1. Coinbase Derivatives is bringing perpetual-style equity index futures to U.S.\n2. regulated markets on June 8, giving traders direct exposure to artificial intelligence (AI), Chinese equities, defense, and broad tech through four new thematic contracts.\n3. Traders Get Regulated Equity Perps From Coinbase Derivatives on June 8 The exchange announced the launch on Thursday.",
-    "url": "https://news.bitcoin.com/traders-get-ai-defense-and-china-perp-futures-on-coinbase-starting-june-8/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-22T03:30:57.000Z"
-  },
-  {
-    "id": "b1cc0174-344e-4e66-82e6-3a35adf77775",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Nvidia CEO Jensen Huang says a billion people will have hundreds of billions of AI agents working for them 24/7, each using tools nonstop and needing computing resources.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b0f5d69d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-22T03:24:40+00:00"
-  },
-  {
-    "id": "df1b403d-4ecd-4858-9eca-e5106624af9b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ark Invest buys another $5 million in Bullish shares as stock slides 3%",
-    "summary": "1. Ark Invest bought a total of 139,117 shares of Bullish, worth about $5 million, across three of its ETFs on Thursday.",
-    "url": "https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-22T02:37:27.000Z"
-  },
-  {
-    "id": "6e94c223-3972-481c-9cd0-6ccb51490337",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "F2Pool founder to command SpaceX Mars flyby mission",
-    "summary": "Chun Wang, founder of F2Pool, a major crypto mining pool with Chinese roots, is set to command a manned SpaceX flyby mission to Mars. The two-year mission is scheduled to leave the Earth-Moon orbit, fly past Mars, and then return to Earth.",
-    "url": "https://t.me/CoinnessGL#fe03f2cc",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T02:15:41+00:00"
-  },
-  {
-    "id": "ccfd1fc7-4da0-4ad1-83f5-fdda58900d03",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Ethereum L2 Zero Network to shut down",
-    "summary": "Ethereum Layer 2 project Zero Network is shutting down its operations a year and a half after its launch, The Block reported. Zerion, the crypto wallet company behind the project, announced that it will be ending Zero Network's operations to focus its team's resources on its API and wallet. Users who have deposited assets on the network must complete their withdrawals by the end of July. The bridging service for deposits has already been suspended.",
-    "url": "https://t.me/CoinnessGL#5de8692c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T02:02:24+00:00"
-  },
-  {
-    "id": "e2897a12-a689-4dc4-bd60-f9aa1870b67c",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. President DJT",
-    "url": "https://trumpstruth.org/statuses/38701",
-    "author": "Trump Truth",
-    "created_at": "2026-05-22T02:00:14.000Z"
-  },
-  {
-    "id": "73855e3a-8fac-4ffc-9e42-ac948093ccc0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bithumb to list OPG for KRW trading",
-    "summary": "Bithumb has announced it will list OPG for trading against the South Korean won.",
-    "url": "https://t.me/CoinnessGL#11c42a2b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T01:57:55+00:00"
-  },
-  {
-    "id": "58a4b61b-71a9-4e6d-82ca-438c756b61b8",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations",
-    "summary": "1. Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.",
-    "url": "https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-22T01:57:49.000Z"
   }
 ]
