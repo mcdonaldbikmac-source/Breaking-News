@@ -1,13 +1,83 @@
 [
   {
-    "id": "3e6efe03-7cec-4e3a-b459-19e31993594f",
+    "id": "6614e15a-62e6-4bfe-8e9b-62beffeaa6cc",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US AND IRAN'S INSISTENCE ON RAISING THE CEILING OF THEIR DEMANDS REGARDING URANIUM AND THE STRAIT OF HORMUZ HAS LED TO THE ESCALATION OF NEGOTIATIONS, ACCORDING TO PAKISTANI SOURCETwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#bbd3a018",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-22T09:41:30.221Z"
+    "created_at": "2026-05-22T10:38:13.243Z"
+  },
+  {
+    "id": "f75223f7-4d32-478e-80c2-8bbca0fe5303",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Over $560M in BTC longs face liquidation below $76,528",
+    "summary": "According to data from Coinglass, if BTC breaks below $76,528, long positions worth $560.01 million on major centralized exchanges are at risk of liquidation. Conversely, a break above $78,108 would trigger the liquidation of $219.47 million in short positions.",
+    "url": "https://t.me/CoinnessGL#ac2a0459",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T10:36:58+00:00"
+  },
+  {
+    "id": "27914303-c684-4a9c-a008-4052e03ad8ee",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Media Sends 2,650 Bitcoin Worth $205M to Crypto.com, Raising Treasury Questions",
+    "summary": "1. A wallet linked to Trump Media & Technology Group has moved 2,650 bitcoin to crypto exchange Crypto.com, a transfer worth approximately $204.93 million that has prompted fresh questions about the company’s bitcoin treasury management.\n2. Trump’s Treasury Strategy Draws Scrutiny Onchain data shows a Trump Media-linked address depositing 2,650 BTC, valued at roughly $204.93 million, to […]",
+    "url": "https://news.bitcoin.com/trump-media-2650-bitcoin-crypto-com-transfer-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-22T10:30:05.000Z"
+  },
+  {
+    "id": "3da23328-7eed-4871-935e-ea7c1eb5a51f",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report",
+    "summary": "1. The prediction market has reportedly appointed a representative in Japan as it aims to secure authorization to operate there by 2030.",
+    "url": "https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report",
+    "author": "Decrypt Agent",
+    "created_at": "2026-05-22T10:29:48.000Z"
+  },
+  {
+    "id": "ebba6f6e-a172-4a8f-ab74-6da08e833f8a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Treehouse launches tHYPE liquid staking token on Hyperliquid",
+    "summary": "DeFi portfolio analytics platform Treehouse has launched tHYPE, a liquid staking token for the Hyperliquid network. The new token is the third tAsset from the platform, following tETH and tAVAX, and is designed to generate returns through interest rate arbitrage.",
+    "url": "https://t.me/CoinnessGL#8af2a0d3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T10:26:29+00:00"
+  },
+  {
+    "id": "5370d27c-bb50-4f1c-99bc-b96bc8392107",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto majors stuck in tight range as altcoin rotation picks up steam",
+    "summary": "1. Bitcoin holds between $76,000 and $78,000 while AI tokens and HYPE surge; derivatives signal calm conditions with volatility selling dominating options markets.",
+    "url": "https://www.coindesk.com/markets/2026/05/22/crypto-majors-stuck-in-tight-range-as-altcoin-rotation-picks-up-steam",
+    "author": "Oliver Knight",
+    "created_at": "2026-05-22T10:23:48.000Z"
+  },
+  {
+    "id": "91493a14-ac88-49e5-b113-0d497a8ab9ba",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ether.fi reports temporary disruption affecting balance display",
+    "summary": "DeFi protocol Ether.fi (ETHFI) announced on X that it is experiencing a temporary disruption affecting card payments and the display of account balances in its user interface. The team is currently working to restore services.",
+    "url": "https://t.me/CoinnessGL#180be56a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T10:16:32+00:00"
+  },
+  {
+    "id": "c85ab0bf-ea40-4520-9ae3-e41d415f8225",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Happy Bitcoin Pizza Day!",
+    "summary": "🍕",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a3a427a7",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-22T10:04:20+00:00"
   },
   {
     "id": "d9b98edc-6b4c-4710-a55c-c797a231e234",
@@ -28,6 +98,16 @@
     "url": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
     "author": "Omkar Godbole",
     "created_at": "2026-05-22T09:39:55.000Z"
+  },
+  {
+    "id": "007ece78-1793-4066-a7cf-9554cf58c5cf",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Verus bridge exploiter returns $8.5M after bounty offer",
+    "summary": "1. The hacker behind the Verus bridge exploit returned 75% of the stolen funds as part of a recovery deal negotiated with the protocol days after the incident.",
+    "url": "https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-05-22T09:32:03.000Z"
   },
   {
     "id": "464f7c70-f1d1-4930-8f72-08dfc14934b3",
@@ -70,7 +150,7 @@
     "created_at": "2026-05-22T09:21:10+00:00"
   },
   {
-    "id": "7525017b-3bb4-4f6d-a1c4-008d48d277b7",
+    "id": "d7ac60f7-142c-4dba-83fd-981782bc1c1c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Former Ethereum Foundation developer Dankrad Feist has suggested raising $1B to form a new Ethereum advocacy group, separate from the existing non-profit foundation.",
@@ -110,7 +190,7 @@
     "created_at": "2026-05-22T08:52:32.000Z"
   },
   {
-    "id": "2b6215ea-8eb3-42ea-a635-4e4ed181625e",
+    "id": "cdfe6c00-bce4-4c7f-acf2-064cb7699703",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Trump to swear in Kevin Warsh as Fed Chair at White House Friday, succeeding Jerome PowellTwitter",
@@ -150,7 +230,7 @@
     "created_at": "2026-05-22T08:29:12.000Z"
   },
   {
-    "id": "bcdd0af3-9538-4e63-9227-4bc7bd24b3c9",
+    "id": "c1d5e7d3-c0d7-4535-8e5f-3f150f577fd9",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇰🇷 A petition to abolish South Korea's crypto tax has hit 50,000 signatures, triggering a parliamentary review.",
@@ -180,7 +260,7 @@
     "created_at": "2026-05-22T07:39:06+00:00"
   },
   {
-    "id": "fddd0725-0974-447c-891c-f8d7b1c98716",
+    "id": "7f98bd51-94a4-421f-b4a3-d9fa8b7c4622",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BILLIONAIRE MARK CUBAN SAYS HE SOLD \"MOST\" OF HIS BITCOIN ONCE HE WAS SAYING “BITCOIN IS BETTER THAN GOLD”Twitter",
@@ -300,7 +380,7 @@
     "created_at": "2026-05-22T06:30:12.000Z"
   },
   {
-    "id": "1da53284-b125-4128-b9c0-c3161cabd43e",
+    "id": "26d0e658-68f8-49a5-b876-717267232667",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea considers abolishing planned 22% crypto tax.@WatcherGuru",
@@ -438,55 +518,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#ba6c3891",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-22T04:39:33+00:00"
-  },
-  {
-    "id": "e083d572-02b1-48b5-8264-5733dfdaa90d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Foundation Raises $6.4M to Build Hardware That Authorizes AI Agents in Real Time",
-    "summary": "1. Foundation, the Boston-based bitcoin hardware wallet company, has closed a $6.4 million funding round led by Fulgur Ventures to expand its security platform beyond self-custody into identity, multi-factor authentication, and artificial intelligence (AI) agent authorization.\n2. Fulgur Ventures Backs Foundation $6.4M to Secure the Agentic Era With Passport Prime Arche Capital also participated in the round, […]",
-    "url": "https://news.bitcoin.com/foundation-raises-6-4m-to-build-hardware-that-authorizes-ai-agents-in-real-time/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-22T04:30:52.000Z"
-  },
-  {
-    "id": "bc719195-2ced-4147-a549-b24b7eb748c6",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "16 years ago today, Laszlo Hanyecz paid 10,000 Bitcoin for two Papa John's pizzas.",
-    "summary": "Today, 10k $BTC is worth over $775,000,000.@WatcherGuru",
-    "url": "https://t.me/WatcherGuru#247412ec",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-22T04:19:23+00:00"
-  },
-  {
-    "id": "e7258722-fc4a-4bf2-a69e-8a767b4b59f6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US lawmakers renew strategic Bitcoin reserve push with ARMA bill",
-    "summary": "1. Under the American Reserve Modernization Act of 2026, Bitcoin must be held for a minimum of 20 years unless used to slash national debt.",
-    "url": "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-22T04:02:37.000Z"
-  },
-  {
-    "id": "a1938899-4f05-415d-ab70-6b1d229ea2b7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "5 crypto firms wind down this week amid ongoing market slump",
-    "summary": "1. Fantasy.top, Everclear and ZERO Network announced they were winding down on Thursday, adding to a growing list of crypto companies that have closed this year.",
-    "url": "https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-22T03:59:57.000Z"
-  },
-  {
-    "id": "fbf99be2-b0c1-41fa-b9c5-8b008391e1d1",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Ukraine’s ambassador on Trump, Putin and the path to peace",
-    "summary": "1. Ukraine’s ambassador on Trump, Putin and the path to peace",
-    "url": "https://www.politico.com/video/2026/05/21/ukraines-ambassador-on-trump-putin-and-the-path-to-peace-2069123",
-    "author": "Politico",
-    "created_at": "2026-05-22T03:59:00.000Z"
   }
 ]
