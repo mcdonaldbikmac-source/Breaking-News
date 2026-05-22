@@ -1,16 +1,226 @@
 [
   {
-    "id": "0bafc44b-d727-4aa4-ac70-2e148d1e5c14",
+    "id": "54fec304-000e-46f7-bf01-741e96aec90d",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BILLIONAIRE MARK CUBAN SAYS HE SOLD \"MOST\" OF HIS BITCOIN ONCE HE WAS SAYING “BITCOIN IS BETTER THAN GOLD”Twitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#74d0de5a",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-21T22:50:47.682Z"
+    "created_at": "2026-05-22T02:29:44.018Z"
   },
   {
-    "id": "d8e0ddce-946c-4243-81cc-53e9cb7940a4",
+    "id": "6e94c223-3972-481c-9cd0-6ccb51490337",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "F2Pool founder to command SpaceX Mars flyby mission",
+    "summary": "Chun Wang, founder of F2Pool, a major crypto mining pool with Chinese roots, is set to command a manned SpaceX flyby mission to Mars. The two-year mission is scheduled to leave the Earth-Moon orbit, fly past Mars, and then return to Earth.",
+    "url": "https://t.me/CoinnessGL#fe03f2cc",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T02:15:41+00:00"
+  },
+  {
+    "id": "ccfd1fc7-4da0-4ad1-83f5-fdda58900d03",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ethereum L2 Zero Network to shut down",
+    "summary": "Ethereum Layer 2 project Zero Network is shutting down its operations a year and a half after its launch, The Block reported. Zerion, the crypto wallet company behind the project, announced that it will be ending Zero Network's operations to focus its team's resources on its API and wallet. Users who have deposited assets on the network must complete their withdrawals by the end of July. The bridging service for deposits has already been suspended.",
+    "url": "https://t.me/CoinnessGL#5de8692c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T02:02:24+00:00"
+  },
+  {
+    "id": "e2897a12-a689-4dc4-bd60-f9aa1870b67c",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. President DJT",
+    "url": "https://trumpstruth.org/statuses/38701",
+    "author": "Trump Truth",
+    "created_at": "2026-05-22T02:00:14.000Z"
+  },
+  {
+    "id": "73855e3a-8fac-4ffc-9e42-ac948093ccc0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to list OPG for KRW trading",
+    "summary": "Bithumb has announced it will list OPG for trading against the South Korean won.",
+    "url": "https://t.me/CoinnessGL#11c42a2b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T01:57:55+00:00"
+  },
+  {
+    "id": "58a4b61b-71a9-4e6d-82ca-438c756b61b8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations",
+    "summary": "1. Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.",
+    "url": "https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-22T01:57:49.000Z"
+  },
+  {
+    "id": "1289a431-d67f-4f7a-837d-bd83844c74db",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP vs RLUSD: Evernorth Says XRP’s XRPL Utility Case Keeps Growing",
+    "summary": "1. XRP and RLUSD were described as serving separate XRP Ledger roles, with XRP routing trades and RLUSD supporting dollar-based transactions.\n2. Evernorth’s Sagar Shah described XRP as an intermediary asset that routes trades in the background, while stablecoins remain tied to issuer requirements and compliance obligations.\n3. XRP Ledger Routing Structure Separates XRP From RLUSD As tokenized […]",
+    "url": "https://news.bitcoin.com/xrp-vs-rlusd-evernorth-says-xrps-xrpl-utility-case-keeps-growing/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-22T01:30:45.000Z"
+  },
+  {
+    "id": "f134ff9c-54aa-4402-b2a5-1b22ba535447",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.148",
+    "summary": "1. ## What's changed\n\n- Fixed the Bash tool returning exit code 127 on every command for some users (a regression introduced in 2.1.147)",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.148",
+    "author": "ashwin-ant",
+    "created_at": "2026-05-22T01:16:52Z"
+  },
+  {
+    "id": "bdbd872d-b5c7-40c8-b6b8-728845b9eccc",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SEC Commissioner Peirce Clarifies Scope of Proposed Innovation Exemption for Onchain Stock Trading",
+    "summary": "1. Hester Peirce pushes back against \"hyperbole\" surrounding a contemplated SEC innovation exemption for tokenized NMS stock, emphasizing it would cover only digital representations of existing equities, not synthetic assets.",
+    "url": "https://thedefiant.io/converge/regulation/sec-commissioner-peirce-clarifies-tokenized-stock-exemption-scope-uikype",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-22T01:02:21.000Z"
+  },
+  {
+    "id": "59429d56-c276-49cc-bcbb-2d2d73f511d2",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+    "summary": "1. Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-05-22T00:37:00.000Z"
+  },
+  {
+    "id": "09cb0b4a-034a-447d-b642-1450f2e794ef",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin liquidity balance hints at developing rally toward $80K",
+    "summary": "1. Data show Bitcoin futures traders are pursuing overhead short positions, raising the chance of a rally to $80,000.",
+    "url": "https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-05-22T00:34:56.000Z"
+  },
+  {
+    "id": "0cec1051-e763-4610-b5fd-d99898d7b54f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "67 Million Americans Hold Crypto: 90% Plan to Buy More Next Year",
+    "summary": "1. A total of more than 67 million Americans, or 1 in 4 adults, now own crypto as adoption spreads across income, age, and work groups, according to the National Cryptocurrency Association.\n2. The report found 90% expect to buy within the next year, and 77% said crypto improved their lives.\n3. Crypto Holders Broaden Across Income, Age, […]",
+    "url": "https://news.bitcoin.com/67-million-americans-hold-crypto-90-plan-to-buy-more-next-year/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-22T00:30:51.000Z"
+  },
+  {
+    "id": "a9b5a6bb-6579-424d-9368-6d246a3178e9",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "This 32 year old Japanese trader spent the last 9 years crypto trading and turned $387,000 into $14,000,000. If he had simply bought BTC and done nothing, he would have over $36,000,000 today, according to math experts.",
+    "summary": "1. This 32 year old Japanese trader spent the last 9 years crypto trading and turned $387,000 into $14,000,000.\n2. If he had simply bought BTC and done nothing, he would have over $36,000,000 today, according to math experts.",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tk30dl/this_32_year_old_japanese_trader_spent_the_last_9/",
+    "author": "u/fan_of_hakiksexydays",
+    "created_at": "2026-05-22T00:30:39.000Z"
+  },
+  {
+    "id": "4b5fca63-75dc-4273-9ed8-714ce2a0e7f0",
+    "source": "GitHub",
+    "type": "github",
+    "title": "base-org/node: v0.16.0",
+    "summary": "1. ## What Changed\r\n\r\n> [!IMPORTANT]\r\n> Node operators must upgrade Base Mainet nodes  to v0.16.0 by 28th May to support Base Azul.\n2. See [here]( for more information.\n3. - As part of this upgrade, support for all clients except for `base-reth-node` and `base-consensus` have been dropped.",
+    "url": "https://github.com/base/node/releases/tag/v0.16.0",
+    "author": "danyalprout",
+    "created_at": "2026-05-22T00:24:19Z"
+  },
+  {
+    "id": "777f9410-865a-4351-b6c5-c4fc94fd624d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Galaxy’s Novogratz and BitGo face off in court over $100 million claim: Bloomberg",
+    "summary": "1. In 2022, Galaxy said it was abandoning its acquisition plan due to BitGo's 'failure to deliver ...\n2. audited financial statements for 2021.'",
+    "url": "https://www.theblock.co/post/402290/galaxys-bitgo-court?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-05-22T00:22:44.000Z"
+  },
+  {
+    "id": "c47adcc4-6f33-486b-9331-43d6ffa6ca3a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+    "summary": "1. SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub.\n2. It's expected to try again Friday.",
+    "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-05-22T00:07:47.000Z"
+  },
+  {
+    "id": "4af316d0-0125-4ce2-9e15-4252b28cea68",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Coinbase Launches Perpetual Equity Index Futures in the U.S. on June 8",
+    "summary": "1. Coinbase is expanding its trading offerings by launching perpetual-style equity index futures on June 8, allowing users to go long or short on market sectors and trends.",
+    "url": "https://thedefiant.io/converge/cefi/coinbase-perpetual-equity-index-futures-june-8-yclimy",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-22T00:02:18.000Z"
+  },
+  {
+    "id": "742f009a-a441-4b22-b35f-cad01eb40049",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Futures Hit $62.87B at CME as Institutions Deepen Exposure",
+    "summary": "1. CME’s XRP futures suite has expanded within the regulated crypto derivatives market, reaching $62.87 billion in notional volume.\n2. The first-year figures show broader institutional use across futures, options, and spot-quoted XRP futures.\n3. XRP Futures Gain Depth Inside CME’s Crypto Market XRP has become a larger part of CME Group’s regulated crypto derivatives business as institutional […]",
+    "url": "https://news.bitcoin.com/xrp-futures-hit-62-87b-at-cme-as-institutions-deepen-exposure/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-21T23:30:41.000Z"
+  },
+  {
+    "id": "29397300-a155-4ef4-b7f9-9f349be61eec",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I love the Great State of South Carolina, won every one of my Races there by a landslide, and only want the BEST representing you in Elected Office!\n2. There’s this RINO Candidate in the Palmetto State named David Pascoe, a lifelong Democrat who previously endorsed Crooked Joe Biden for President, and served as a Biden Co-Chair in South Carolina, who is running in the Republican Primary to be your next Attorney General — Pascoe is a total fraud and phony, and is no friend of our incredible Movement to, MAKE SOUTH CAROLINA, AND AMERICA, GREAT AGAIN!\n3. To our amazing South Carolina MAGA Patriots: Please make sure to get out and vote AGAINST “RINO” David Pascoe in the June Republican Primary for Attorney General, and make sure he never holds Elected Office again.",
+    "url": "https://trumpstruth.org/statuses/38700",
+    "author": "Trump Truth",
+    "created_at": "2026-05-21T23:19:57.000Z"
+  },
+  {
+    "id": "82aad159-829a-45a6-9191-94b59e55d7aa",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
+    "summary": "1. Data shows Bitcoin traders cutting short positions and going long despite concerning US macroeconomic data emerging.\n2. Is a rally toward $82,000 next?",
+    "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-05-21T23:07:13.000Z"
+  },
+  {
+    "id": "29733741-c57c-43c7-86a8-48dfe85231b9",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode",
+    "summary": "1. Blockchain data firm Glassnode mapped the vulnerabilities embedded in Bitcoin’s existing supply, pointing to exchanges as a weak point.",
+    "url": "https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode",
+    "author": "Decrypt Agent",
+    "created_at": "2026-05-21T23:00:04.000Z"
+  },
+  {
+    "id": "f90d2714-59cb-482d-bb94-361649ce51ab",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. It is my Great Honor to endorse MAGA Warrior, Kenny Cody, who is running to represent the fantastic people of Tennessee’s 11th State House District.\n2. A very successful School Teacher, Civic Leader, Conservative Journalist and Activist, Kenny has dedicated his life to serving his Community.\n3. In the State House, he will fight tirelessly to Promote East Tennessee’s “Mountain Values,” Grow the Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Champion American Energy DOMINANCE, Stop Migrant Crime, Strengthen our Military/Veterans, Promote School Choice, Safeguard our Elections, and Defend our always under siege Second Amendment.",
+    "url": "https://trumpstruth.org/statuses/38699",
+    "author": "Trump Truth",
+    "created_at": "2026-05-21T22:55:33.000Z"
+  },
+  {
+    "id": "957a1baf-8352-4154-9bf6-fa53f94f136d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Take-Two reaffirms GTA 6 will launch on November 19th this year.@WatcherGuru",
@@ -100,7 +310,7 @@
     "created_at": "2026-05-21T21:56:03.000Z"
   },
   {
-    "id": "6b8f5533-a8bf-4001-ad60-d6fd4c922643",
+    "id": "0a331175-5e05-49c0-a505-facf56aee153",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📈 Bitcoin long-term holder supply has climbed to about 16.3M BTC, nearing an all-time high, as analysts say a weekly RSI retest of 50 reduces the odds of new lows.",
@@ -110,7 +320,7 @@
     "created_at": "2026-05-21T21:49:40+00:00"
   },
   {
-    "id": "67ce22de-70c2-4ec6-98ca-97d8caacf235",
+    "id": "9d928aef-d3d4-41e6-bdea-f0a4c1785974",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ MoonPay has launched MoonPay Trade, giving banks and fintechs access to tokenized assets, DeFi and stablecoin liquidity across 200+ blockchains.",
@@ -170,6 +380,16 @@
     "created_at": "2026-05-21T21:09:50.000Z"
   },
   {
+    "id": "b58c4e7a-ff63-4e14-b029-d965839961f6",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Up, down, down, down",
+    "summary": "1. Up, down, down, down",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tjxumf/up_down_down_down/",
+    "author": "u/CriticalCobraz",
+    "created_at": "2026-05-21T21:02:58.000Z"
+  },
+  {
     "id": "eb8d9b9d-fe24-4063-9a76-f2cc2ebdab0b",
     "source": "TechCrunch",
     "type": "rss",
@@ -220,7 +440,7 @@
     "created_at": "2026-05-21T20:48:52.000Z"
   },
   {
-    "id": "360cd35c-edf2-4409-9db6-43bd99b7fdb1",
+    "id": "0cf60850-d43d-4f0a-86a0-49b7d0723eb2",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Reps. Nick Begich and Jared Golden have introduced the American Reserve Modernization Act to permanently codify the US strategic Bitcoin reserve into law.",
@@ -248,175 +468,5 @@
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.147",
     "author": "ashwin-ant",
     "created_at": "2026-05-21T20:39:22Z"
-  },
-  {
-    "id": "6bdc8416-0486-4e36-9b43-b0045498d069",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Satoshi’s 1.1 million bitcoin and millions more can be saved from quantum attack, says expert",
-    "summary": "1. Researchers at the privacy-centric blockchain startup say their multi-layer quantum defense will feature a soft fork to freeze and protect dormant BTC.",
-    "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
-    "author": "Olivier Acuna",
-    "created_at": "2026-05-21T19:10:03.000Z"
-  },
-  {
-    "id": "926653ce-88bd-4123-8dfc-dcf410377012",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US Congressman Mike Rulli says \"there will only ever be 21 million Bitcoin.\"\"While governments can print unlimited amounts of money, Bitcoin's supply is permanently fixed.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#72d0b5a3",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-21T18:45:52+00:00"
-  },
-  {
-    "id": "dd3b4e76-ee86-4730-82f9-8edda706522c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Former EF developer Dankrad Feist suggests $1 billion raise to form new Ethereum advocacy group",
-    "summary": "1. The Ethereum Foundation is a non-profit stewarding the development of the world's second-largest blockchain.",
-    "url": "https://www.theblock.co/post/402271/former-ef-developer-dankrad-feist-suggests-1-billion-raise-new-ethereum-advocacy-group?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-05-21T18:27:15.000Z"
-  },
-  {
-    "id": "d164f5ac-2a0b-4888-a628-38a995c21d8c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Rep. Begich introduces Bitcoin legislation to recognize and codify its \"strategic importance\" in US.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d632eb21",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-21T18:25:44+00:00"
-  },
-  {
-    "id": "1427251e-ecfb-4647-b514-eb4d865504ae",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "THIS DRAFT INCLUDES AN IMMEDIATE AND COMPREHENSIVE CEASEFIRE ON ALL FRONTSTHE PARTIES MUTUALLY UNDERTAKE TO REFRAIN FROM TARGETING INFRASTRUCTUREFREEDOM OF NAVIGATION IN THE PERSIAN GULF AND THE STRAIT OF HORMUZ IS GUARANTEED UNDER A JOINT MONITORING MECHANISMSANCTIONS WILL BE GRADUALLY LIFTED IN EXCHANGE FOR IRAN'S COMPLIANCE WITH THE TERMS OF THE DEALNEGOTIATIONS ON OUTSTANDING ISSUES SHALL BEGIN WITHIN A MAXIMUM OF SEVEN DAYSTHE FINAL DRAFT OF THE US-IRAN AGREEMENT HAS BEEN REACHED WITH THE MEDIATION OF PAKISTAN, WHICH IS EXPECTED TO BE ANNOUNCED WITHIN THE NEXT FEW HOURS - IRAN IRNA CITING AL ARABIYA Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#b4eb821c",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-21T18:25:10+00:00"
-  },
-  {
-    "id": "2a5bbe09-83a5-4927-be7b-01b3f4bf412f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Harvard Endowment Cuts Bitcoin ETF Holdings by 43%, Exits Ethereum Fund Entirely",
-    "summary": "1. Harvard Management Company slashed its BlackRock Bitcoin ETF position by roughly 43% in Q1 2026 and fully exited its Ethereum ETF stake, according to SEC filings.",
-    "url": "https://thedefiant.io/news/markets/harvard-endowment-cuts-bitcoin-ethereum-etf-holdings-djwmny",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-21T17:45:37.000Z"
-  },
-  {
-    "id": "7ec239dc-f3a1-4bd5-853c-e38082605128",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US, Iran reach final draft agreement, announcement expected within hours",
-    "summary": "The final draft of an agreement between the U.S. and Iran, mediated by Pakistan, has been reached and is expected to be announced within hours, Iran's ILNA news agency reported, citing Al Arabiya TV.The draft includes the following provisions:- An immediate and comprehensive ceasefire on all fronts.- A mutual commitment not to target infrastructure.- Guaranteed freedom of navigation in the Persian Gulf and the Strait of Hormuz under a joint monitoring system.- A phased lifting of sanctions against Iran, conditional on its implementation of the agreement's provisions.- The commencement of negotiations on unresolved issues within a maximum of seven days.",
-    "url": "https://t.me/CoinnessGL#b5bcc5eb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-21T17:35:23+00:00"
-  },
-  {
-    "id": "3213ad10-25ab-46dd-8ffe-f05b18b18ab9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase to delist TRIA, NEO, IMX perpetual futures on June 4",
-    "summary": "Coinbase announced via its official X account that it will halt trading support for TRIA, NEO, and IMX perpetual futures starting from 1:00 p.m. UTC on June 4. At the time of the suspension, any open positions held by users will be automatically settled.",
-    "url": "https://t.me/CoinnessGL#d39bf64c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-21T17:34:07+00:00"
-  },
-  {
-    "id": "58838e58-e5f6-45ae-b571-2a9d170ed7cf",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
-    "summary": "1. President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-05-21T17:30:45.000Z"
-  },
-  {
-    "id": "add8ab1d-7e81-49f5-a7b6-d7c76b9e2295",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC rises above $78,000",
-    "summary": "According to CoinNess market monitoring, BTC has risen above $78,000. BTC is trading at $78,000 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#b3636d86",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-21T17:30:28+00:00"
-  },
-  {
-    "id": "412a0577-bfaa-4247-ad07-2b420995b4d6",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Mark Cuban says he sold most of his Bitcoin after failed hedge narrative 'disappointed' the billionaire",
-    "summary": "1. The billionaire investor said he sold most of his bitcoin after concluding the cryptocurrency failed to act as a hedge during recent geopolitical turmoil and dollar weakness.",
-    "url": "https://www.coindesk.com/markets/2026/05/21/mark-cuban-says-he-sold-most-of-his-bitcoin-after-failed-hedge-narrative-disappointed-the-billionaire",
-    "author": "Helene Braun",
-    "created_at": "2026-05-21T17:30:16.000Z"
-  },
-  {
-    "id": "89b2ad80-6b58-4e59-b60d-f30c64390bea",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "US Government Makes $2 Billion Bet on Quantum Computing as Threat to Bitcoin Grows",
-    "summary": "1. Department of Commerce will invest $2 billion into quantum chip foundries and startups as the \"Q-Day\" Bitcoin threat nears.",
-    "url": "https://decrypt.co/368647/us-government-2-billion-bet-quantum-computing-bitcoin-threat-grows",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-21T17:24:00.000Z"
-  },
-  {
-    "id": "7250d4b5-ad39-4770-af4c-1ef450ee1fe5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Bulls Lose Control After $78,000 Rejection Wipes out Overnight Recovery",
-    "summary": "1. Bitcoin has erased its recent gains, failing to hold the $78,000 threshold and dropping to just above $77,000.\n2. Bitcoin Erases Gains as ETF Outflows Mount Bitcoin endured yet another underwhelming session, failing to hold the $78,000 mark and erasing earlier gains to close the 24 hours just above $77,000.\n3. The price action reversed the momentum […]",
-    "url": "https://news.bitcoin.com/bitcoin-bulls-lose-control-after-78000-rejection-wipes-out-overnight-recovery/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-21T17:21:35.000Z"
-  },
-  {
-    "id": "6131fb88-48a1-48fc-9fe0-f190099775ca",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS US WE WILL LIKELY HAVE TO PAY BACK $149B IN TARIFFSTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#75dbf2fd",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-21T17:20:15+00:00"
-  },
-  {
-    "id": "e344d10a-614e-4298-99b1-5a470546cc05",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US Sanctions Sinaloa Cartel Network for Laundering Drug Profits Through Cryptocurrency",
-    "summary": "1. government has designated twelve individuals and two companies involved in money laundering operations for the Sinaloa Cartel.\n2. The groups allegedly transformed cash coming from the sales of drugs and fentanyl in the U.S.\n3. and converted it into cryptocurrency.",
-    "url": "https://news.bitcoin.com/us-sanctions-sinaloa-cartel-network-for-laundering-drug-profits-through-cryptocurrency/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-21T17:05:27.000Z"
-  },
-  {
-    "id": "13aa8652-6556-4912-8db7-5444dad84b1a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CLEAR token tanks 48% as Everclear winds down protocol, foundation and labs unit",
-    "summary": "1. Everclear achieved $500 million in monthly volume, but \"never developed the commercial depth,\" the team said on Thursday.",
-    "url": "https://www.theblock.co/post/402252/clear-token-tanks-48-everclear-winds-down-protocol-foundation-labs-unit?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-21T16:59:29.000Z"
-  },
-  {
-    "id": "329ff79a-c0d1-4a41-95cd-685f3e6309b3",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community",
-    "summary": "1. What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members.",
-    "url": "https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-05-21T16:56:33.000Z"
   }
 ]
