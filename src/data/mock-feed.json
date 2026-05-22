@@ -1,522 +1,372 @@
 [
   {
-    "id": "6614e15a-62e6-4bfe-8e9b-62beffeaa6cc",
+    "id": "114a701c-bcc8-40d6-85bd-adf8db69bbcf",
     "source": "@SolidIntelX",
     "type": "telegram",
-    "title": "US AND IRAN'S INSISTENCE ON RAISING THE CEILING OF THEIR DEMANDS REGARDING URANIUM AND THE STRAIT OF HORMUZ HAS LED TO THE ESCALATION OF NEGOTIATIONS, ACCORDING TO PAKISTANI SOURCETwitter",
+    "title": "FED'S WALLER REMARKS-Have not spoken to Warsh about policy-It's crazy given recent data to be talking about rate cuts in near futureTwitter",
     "summary": "",
-    "url": "https://t.me/SolidIntelX#bbd3a018",
+    "url": "https://t.me/SolidIntelX#e4643e05",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-22T10:38:13.243Z"
+    "created_at": "2026-05-22T16:45:35.220Z"
   },
   {
-    "id": "f75223f7-4d32-478e-80c2-8bbca0fe5303",
+    "id": "f0756420-8d50-4192-8272-059048e9354c",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "Over $560M in BTC longs face liquidation below $76,528",
-    "summary": "According to data from Coinglass, if BTC breaks below $76,528, long positions worth $560.01 million on major centralized exchanges are at risk of liquidation. Conversely, a break above $78,108 would trigger the liquidation of $219.47 million in short positions.",
-    "url": "https://t.me/CoinnessGL#ac2a0459",
+    "title": "Rep. Emmer defends bill to exempt DeFi developers from money transmitter regulations",
+    "summary": "U.S. House Majority Whip Tom Emmer has dismissed concerns from law enforcement regarding protections for crypto developers as a distraction. In an interview with CoinDesk, Emmer strongly advocated for the Blockchain Regulatory Certainty Act (BRCA), which would exempt non-custodial DeFi software developers from being regulated as money transmitters. He argued that it is unfair to regulate developers who do not directly hold user funds and that varying state-by-state regulations are stifling innovation. Emmer emphasized that the Clarity Act, which has already passed the Senate Banking Committee with bipartisan support, will enhance the global competitiveness of the U.S. digital asset market. He added that the goal should be a 'light-touch' regulatory approach that limits the authority of regulatory agencies, predicting the legislation will soon pass Congress and receive President Donald Trump's signature.",
+    "url": "https://t.me/CoinnessGL#581fe421",
     "author": "@CoinnessGL",
-    "created_at": "2026-05-22T10:36:58+00:00"
+    "created_at": "2026-05-22T16:37:26+00:00"
   },
   {
-    "id": "27914303-c684-4a9c-a008-4052e03ad8ee",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Trump Media Sends 2,650 Bitcoin Worth $205M to Crypto.com, Raising Treasury Questions",
-    "summary": "1. A wallet linked to Trump Media & Technology Group has moved 2,650 bitcoin to crypto exchange Crypto.com, a transfer worth approximately $204.93 million that has prompted fresh questions about the company’s bitcoin treasury management.\n2. Trump’s Treasury Strategy Draws Scrutiny Onchain data shows a Trump Media-linked address depositing 2,650 BTC, valued at roughly $204.93 million, to […]",
-    "url": "https://news.bitcoin.com/trump-media-2650-bitcoin-crypto-com-transfer-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-22T10:30:05.000Z"
-  },
-  {
-    "id": "3da23328-7eed-4871-935e-ea7c1eb5a51f",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report",
-    "summary": "1. The prediction market has reportedly appointed a representative in Japan as it aims to secure authorization to operate there by 2030.",
-    "url": "https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report",
-    "author": "Decrypt Agent",
-    "created_at": "2026-05-22T10:29:48.000Z"
-  },
-  {
-    "id": "ebba6f6e-a172-4a8f-ab74-6da08e833f8a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Treehouse launches tHYPE liquid staking token on Hyperliquid",
-    "summary": "DeFi portfolio analytics platform Treehouse has launched tHYPE, a liquid staking token for the Hyperliquid network. The new token is the third tAsset from the platform, following tETH and tAVAX, and is designed to generate returns through interest rate arbitrage.",
-    "url": "https://t.me/CoinnessGL#8af2a0d3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T10:26:29+00:00"
-  },
-  {
-    "id": "5370d27c-bb50-4f1c-99bc-b96bc8392107",
+    "id": "cd2a8a2c-37bd-4606-89f7-88f4cd41b92f",
     "source": "CoinDesk",
     "type": "rss",
-    "title": "Crypto majors stuck in tight range as altcoin rotation picks up steam",
-    "summary": "1. Bitcoin holds between $76,000 and $78,000 while AI tokens and HYPE surge; derivatives signal calm conditions with volatility selling dominating options markets.",
-    "url": "https://www.coindesk.com/markets/2026/05/22/crypto-majors-stuck-in-tight-range-as-altcoin-rotation-picks-up-steam",
-    "author": "Oliver Knight",
-    "created_at": "2026-05-22T10:23:48.000Z"
+    "title": "Tom Emmer brushes off law enforcement concerns over Clarity Act",
+    "summary": "1. House Majority Whip Tom Emmer said concerns from law enforcement groups about crypto developer protections are being overstated.",
+    "url": "https://www.coindesk.com/policy/2026/05/22/tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act",
+    "author": "AI Boost",
+    "created_at": "2026-05-22T16:30:55.000Z"
   },
   {
-    "id": "91493a14-ac88-49e5-b113-0d497a8ab9ba",
+    "id": "ba83ca79-4535-4e1d-93cf-49a7f3dd44f1",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "Ether.fi reports temporary disruption affecting balance display",
-    "summary": "DeFi protocol Ether.fi (ETHFI) announced on X that it is experiencing a temporary disruption affecting card payments and the display of account balances in its user interface. The team is currently working to restore services.",
-    "url": "https://t.me/CoinnessGL#180be56a",
+    "title": "New US lobbying group for prediction markets launches with ex-White House official",
+    "summary": "A new lobbying group, Americans for Fair Markets, has launched in the U.S. to advocate for prediction market platforms ahead of the midterm elections. The group is supported by prediction market platform Kalshi and has brought on Taylor Budowich, a former White House Deputy Chief of Staff for Communications and Cabinet Affairs, as a strategic advisor. The organization aims to counter what it describes as market monopolization attempts and the spread of misinformation by existing sports betting and casino interest groups. Americans for Fair Markets plans to collaborate with the existing Coalition for Prediction Markets, which includes members like Robinhood and Coinbase, on comprehensive legislative and regulatory defense efforts.",
+    "url": "https://t.me/CoinnessGL#13594215",
     "author": "@CoinnessGL",
-    "created_at": "2026-05-22T10:16:32+00:00"
+    "created_at": "2026-05-22T16:29:21+00:00"
   },
   {
-    "id": "c85ab0bf-ea40-4520-9ae3-e41d415f8225",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Happy Bitcoin Pizza Day!",
-    "summary": "🍕",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a3a427a7",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-22T10:04:20+00:00"
-  },
-  {
-    "id": "d9b98edc-6b4c-4710-a55c-c797a231e234",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "SkyBridge Capital's crypto-heavy fund posts second straight quarterly loss",
-    "summary": "The Opportunity Fund, a flagship offering from U.S. asset manager SkyBridge Capital, posted a 12.9% loss in the first quarter of 2026, marking its second consecutive quarter of declines due to its cryptocurrency exposure, Bloomberg reported. The fund, which allocates approximately 64% of its assets to crypto, previously fell 18% in the fourth quarter of 2025, closing out the year with an annual return of -12%.",
-    "url": "https://t.me/CoinnessGL#6beedf39",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T09:40:33+00:00"
-  },
-  {
-    "id": "ca946fc9-9004-4948-9525-9e344ab09f93",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
-    "summary": "1. Blockchain investigator ZachXBT has highlighted a suspected security breach involving Polymarket, the world’s largest decentralized prediction market platform.",
-    "url": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-22T09:39:55.000Z"
-  },
-  {
-    "id": "007ece78-1793-4066-a7cf-9554cf58c5cf",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Verus bridge exploiter returns $8.5M after bounty offer",
-    "summary": "1. The hacker behind the Verus bridge exploit returned 75% of the stolen funds as part of a recovery deal negotiated with the protocol days after the incident.",
-    "url": "https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-05-22T09:32:03.000Z"
-  },
-  {
-    "id": "464f7c70-f1d1-4930-8f72-08dfc14934b3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BitMart faces withdrawal halt rumors with only $650K in USDT reserves",
-    "summary": "Reports are circulating of withdrawal delays and suspensions at global cryptocurrency exchange BitMart. According to a South Korean online community, while BitMart's Proof of Reserves (PoR) totals approximately $169 million, the majority consists of low-liquidity tokens such as SISC, TBC, and its native token, BMX. The exchange's holdings of USDT, crucial for processing withdrawals, amount to only about $650,000. Additionally, BitMart is reportedly not integrated with South Korean exchanges under the Travel Rule.",
-    "url": "https://t.me/CoinnessGL#400da680",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T09:30:55+00:00"
-  },
-  {
-    "id": "f13933f3-8471-44c4-8141-a403b07c0219",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘No longer a distant place’: F2Pool Co-founder Chun Wang joins SpaceX’s 2-year mission to Mars",
-    "summary": "1. Wang will board Starship on a two-year mission that will explore outside the Earth-Moon system and conduct a fly-by of Mars.",
-    "url": "https://www.theblock.co/post/402332/f2pool-chun-wang-spacex-mars?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-22T09:30:39.000Z"
-  },
-  {
-    "id": "6f3e4246-2897-4ac3-bced-4f5b5a8fccea",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US Lawmakers Introduce ARMA Bill to Codify Strategic Bitcoin Reserve With 20-Year Hold and 1M BTC Goal",
-    "summary": "1. A bipartisan group of more than a dozen U.S.\n2. representatives has introduced legislation to enshrine a Strategic Bitcoin Reserve in federal law, mandate a minimum 20-year holding period, and direct the Treasury Department to acquire up to 1 million bitcoin over five years.\n3. Bipartisan ARMA Bill Targets 1 Million Bitcoin Reserve Congressman Nick Begich (AK-AL) […]",
-    "url": "https://news.bitcoin.com/arma-bill-strategic-bitcoin-reserve-20-year-hold-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-22T09:30:07.000Z"
-  },
-  {
-    "id": "a4f617ad-07ab-4e65-af24-bfc38643ef44",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "China investigates Futu, two other brokerages over crypto services",
-    "summary": "Chinese regulators are investigating three brokerage firms—Futu, Tiger Brokers, and Longbridge Securities—Foresight News reported. Futu, often called the 'Robinhood of China,' has previously obtained a license for a crypto trading platform. Tiger Brokers has also supported crypto trading for retail investors in Hong Kong.",
-    "url": "https://t.me/CoinnessGL#ad2f9751",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T09:21:10+00:00"
-  },
-  {
-    "id": "d7ac60f7-142c-4dba-83fd-981782bc1c1c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Former Ethereum Foundation developer Dankrad Feist has suggested raising $1B to form a new Ethereum advocacy group, separate from the existing non-profit foundation.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c842e988",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-22T09:09:35+00:00"
-  },
-  {
-    "id": "d13d0307-feb2-4e7e-9e67-6eee51b5895e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Polymarket probes private key compromise of internal top-up wallet on Polygon",
-    "summary": "1. Onchain sleuth ZachXBT flagged a potential exploit of Polymarket's UMA CTF Adapter on Polygon, with $520K reportedly drained so far.",
-    "url": "https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-05-22T09:02:16.000Z"
-  },
-  {
-    "id": "a2dab49f-93a5-4de6-80ad-b9e7b93a6a2c",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The nation’s cartoonists on the week in politics",
-    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
-    "url": "https://www.politico.com/gallery/2026/05/22/the-nations-cartoonists-on-the-week-in-politics-00933393",
-    "author": "By POLITICO Staff",
-    "created_at": "2026-05-22T09:00:00.000Z"
-  },
-  {
-    "id": "897b8f90-2936-4f1b-b46b-8b0eb03bdeae",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Near Protocol to automate its own growth and its token is skyrocketing",
-    "summary": "1. Near Protocol will introduce dynamic resharding in June, allowing the blockchain to automatically add shards as demand grows without human intervention.",
-    "url": "https://www.coindesk.com/markets/2026/05/22/near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-22T08:52:32.000Z"
-  },
-  {
-    "id": "cdfe6c00-bce4-4c7f-acf2-064cb7699703",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Trump to swear in Kevin Warsh as Fed Chair at White House Friday, succeeding Jerome PowellTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#156b921f",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-22T08:42:07+00:00"
-  },
-  {
-    "id": "c148f935-ef8a-43cb-af2d-b9c143ce982b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Polymarket aims for prediction market approval in Japan by 2030",
-    "summary": "1. Mike Eidlin, head of Japan at cryptocurrency exchange Jupiter, is leading Polymarket's efforts, according to reports.",
-    "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
-    "author": "Jamie Crawley",
-    "created_at": "2026-05-22T08:34:13.000Z"
-  },
-  {
-    "id": "95d90e41-af9f-4242-bd85-a82788c0611a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Polymarket Targets Japan Market Entry, Appoints Representative in Push for 2030 Approval",
-    "summary": "1. Decentralized prediction market platform Polymarket has set its sights on Japan, appointing a local representative and launching a formal lobbying effort aimed at securing government authorization by 2030.\n2. Japanese Market Entry With a Strong Lobby Push Polymarket, the blockchain-based prediction market that hit its first $10 billion monthly trading volume in March 2026, is making […]",
-    "url": "https://news.bitcoin.com/polymarket-japan-market-entry-approval-2030/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-22T08:30:04.000Z"
-  },
-  {
-    "id": "48f34d5c-2224-480a-a10a-b3a926c5283d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
-    "summary": "1. An attacker transferred 4,052.4 ETH worth $8.5 million back to Verus on Friday after the team proposed a bounty framework.",
-    "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-05-22T08:29:12.000Z"
-  },
-  {
-    "id": "c1d5e7d3-c0d7-4535-8e5f-3f150f577fd9",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇰🇷 A petition to abolish South Korea's crypto tax has hit 50,000 signatures, triggering a parliamentary review.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e8209454",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-22T08:19:28+00:00"
-  },
-  {
-    "id": "7d90f96f-cefe-434d-821d-85509b35906a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis",
-    "summary": "1. Bitcoin rallied for 90 days after its dip below $60,000, breaking the record for the longest uptrend within a bear market in BTC price history.",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-05-22T08:12:28.000Z"
-  },
-  {
-    "id": "8d933b53-e450-4db3-bab1-342e08c9ff13",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ The US will invest over $2B in quantum computing, including $1B for IBM’s new quantum chip venture, as concerns grow over the long-term threat to Bitcoin encryption.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d9329613",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-22T07:39:06+00:00"
-  },
-  {
-    "id": "7f98bd51-94a4-421f-b4a3-d9fa8b7c4622",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "BILLIONAIRE MARK CUBAN SAYS HE SOLD \"MOST\" OF HIS BITCOIN ONCE HE WAS SAYING “BITCOIN IS BETTER THAN GOLD”Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#74d0de5a",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-22T07:35:02+00:00"
-  },
-  {
-    "id": "81da91ae-0532-4eae-afb3-0d4474e88d85",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "OKX to list Gensyn (AI) for spot trading",
-    "summary": "OKX announced it will list Gensyn (AI) for spot trading at 11:00 a.m. UTC on May 22.",
-    "url": "https://t.me/CoinnessGL#d8ff4bb4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T07:34:10+00:00"
-  },
-  {
-    "id": "741affee-7d0a-4e76-925d-3e3ae53a8466",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "ZachXBT Accuses Kucoin of Shielding $13M in Stolen Crypto From German Investigators",
-    "summary": "1. Onchain investigator ZachXBT has publicly accused Kucoin of allowing stolen cryptocurrency to flow freely through its platform while refusing to cooperate with German law enforcement.\n2. ZachXBT Says Kucoin Is ‘Complicit’ The pseudonymous blockchain sleuth posted a direct broadside against Kucoin on May 22.\n3. “The team is complicit and allows illicit activity to flow as long […]",
-    "url": "https://news.bitcoin.com/zachxbt-accuses-kucoin-of-shielding-13m-in-stolen-crypto-from-german-investigators/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-22T07:30:31.000Z"
-  },
-  {
-    "id": "d6be6dc0-a76f-48a7-82e0-acaaee6ad778",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst says rising Binance BTC open interest signals end to deleveraging",
-    "summary": "The long-term deleveraging phase in the Bitcoin futures market is ending as Open Interest (OI) has surpassed its 180-day moving average, according to cryptocurrency analyst Darkfost. In a post on X, the analyst explained that a deleveraging phase, where investors close positions and exit the market, is typically marked by OI falling below this key moving average. This trend, which had been in place since Oct. 10 of last year, is now reversing. Darkfost noted that Open Interest on Binance has increased to approximately $8.96 billion from a low of around $6.4 billion in March.",
-    "url": "https://t.me/CoinnessGL#6f796a63",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T07:26:09+00:00"
-  },
-  {
-    "id": "d1ad145b-5afa-4a3c-a6ae-2c4f7e7cda1a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance to list GENIUS, OPG",
-    "summary": "Binance has announced the addition of GENIUS and OPG for spot trading, effective at 11:00 a.m. UTC today. The exchange noted that the Seed Tag will be applied to both tokens, a label used for projects that may exhibit higher volatility and risk compared to other listed assets.",
-    "url": "https://t.me/CoinnessGL#d0c61115",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T07:21:27+00:00"
-  },
-  {
-    "id": "f5600c01-f7b9-499e-bad4-86172eceb500",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Tokenized stocks risk liquidity and revenue fragmentation: Research",
-    "summary": "1. TradFi views the breakup of its previously consolidated, centralized liquidity as a “serious structural threat,” said Tiger Research director Ryan Yoon.",
-    "url": "https://cointelegraph.com/news/tokenized-stocks-risk-liquidity-and-revenue-fragmentation-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-05-22T06:56:35.000Z"
-  },
-  {
-    "id": "efa50f69-9d90-4151-9fb1-a6fcd11aa066",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Galaxy’s Novogratz speaks in court over failed $1.2B BitGo deal: Report",
-    "summary": "1. Galaxy Digital’s Mike Novogratz reportedly told a court the SEC made it “very difficult” to complete a planned 2021 merger with BitGo.",
-    "url": "https://cointelegraph.com/news/galaxys-novogratz-speaks-in-court-on-12b-bitgo-deal-gone-wrong-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-05-22T06:45:06.000Z"
-  },
-  {
-    "id": "f924f2eb-ee80-4f7a-8b3e-093bfbf42d4d",
+    "id": "89c392e5-8daf-47e9-9a3e-8c03f23d4a79",
     "source": "TechCrunch",
     "type": "rss",
-    "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
-    "summary": "1. HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
-    "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-05-22T06:41:28.000Z"
+    "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+    "summary": "1. According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
+    "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-05-22T16:28:06.000Z"
   },
   {
-    "id": "676f491f-30eb-4ee2-bdf0-5f5b82e73585",
-    "source": "CoinDesk",
+    "id": "823cb34e-d31c-435c-8d51-a06cd2fa97aa",
+    "source": "TechCrunch",
     "type": "rss",
-    "title": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
-    "summary": "1. Fresh inflows into XRP-linked funds and a spike in newly created wallets suggest some traders may be rotating into the token while trimming exposure to crypto’s largest assets.",
-    "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-22T06:36:18.000Z"
+    "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+    "summary": "1. Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
+    "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+    "author": "Sarah Perez",
+    "created_at": "2026-05-22T16:27:57.000Z"
   },
   {
-    "id": "2645c356-84c7-4538-a66d-6e773510f761",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "SEC's Peirce tempers expectations over tokenized stocks exemption",
-    "summary": "1. An executive at tokenization platforms Superstate said the stricter approach suggested by Hester Peirce would enable DeFi to expand without compromising rules in traditional capital markets.",
-    "url": "https://cointelegraph.com/news/secs-peirce-tempers-expectations-over-innovation-exemption-for-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-05-22T06:35:38.000Z"
+    "id": "54f5020a-6745-4c60-a570-5a59f6be6969",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Sen. Lummis: 'CLARITY Act' will end crypto regulatory ambiguity",
+    "summary": "U.S. Senator Cynthia Lummis said the CLARITY Act will end the regulatory ambiguity facing American crypto consumers and the industry, Cointelegraph reported.",
+    "url": "https://t.me/CoinnessGL#ad2f1bbb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-22T16:24:34+00:00"
   },
   {
-    "id": "23120463-052e-4b63-9a1c-29f846c4ab4a",
+    "id": "299f7683-62e7-4f35-b35e-bd09d5453207",
     "source": "The Block",
     "type": "rss",
-    "title": "Polymarket eyes Japan market entry, appoints regional representative: Bloomberg",
-    "summary": "1. The prediction markets platform aims to secure regulatory authorization to operate in Japan by 2030, according to Bloomberg.",
-    "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-05-22T06:35:24.000Z"
+    "title": "Kalshi-backed prediction market advocacy group debuts with support from former Trump aide",
+    "summary": "1. An advocacy group focused on prediction markets has emerged with support from former White House Deputy Chief of Staff Taylor Budowich.",
+    "url": "https://www.theblock.co/post/402374/kalshi-prediction-market-advocacy-group-debuts-support-former-trump-aide?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-05-22T16:22:34.000Z"
   },
   {
-    "id": "ee328279-174a-4dd2-8a15-60fbfa3ef79f",
-    "source": "Bitcoin.com",
+    "id": "a19dd567-280b-4ecb-8216-08ab3a6558e7",
+    "source": "Bitcoin Magazine",
     "type": "rss",
-    "title": "European Commission Launches MiCA Review Targeting Stablecoins, DeFi and Staking Rules",
-    "summary": "1. The European Commission has launched a broad review of the EU’s landmark crypto regulation, MiCA, signaling potential changes to rules governing stablecoins, decentralized finance ( DeFi), staking, and tokenized assets.\n2. The consultation reflects how quickly digital asset markets have evolved since the framework took effect in 2024.\n3. Europe Reassesses Crypto Framework as Crypto Adoption Accelerates […]",
-    "url": "https://news.bitcoin.com/european-commission-launches-mica-review-targeting-stablecoins-defi-and-staking-rules/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-22T06:30:12.000Z"
+    "title": "Trump Media (DJT) Moves to Sell Bitcoin as Losses Reach $455 Million",
+    "summary": "1. Bitcoin Magazine\n\nTrump Media (DJT) Moves to Sell Bitcoin as Losses Reach $455 Million\nTrump Media & Technology Group transferred 2,650 Bitcoin (~$205 million) to Crypto.com, signaling a likely pending sale.\n2. This post Trump Media (DJT) Moves to Sell Bitcoin as Losses Reach $455 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/trump-media-djt-moves-to-sell-bitcoin-as-losses-reach-455-million",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-22T16:19:52.000Z"
   },
   {
-    "id": "26d0e658-68f8-49a5-b876-717267232667",
+    "id": "d16c255b-3c0a-4dcb-8158-eea04f740c6b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Kevin Warsh has officially been sworn in as the new chair of the Federal Reserve, replacing Jerome Powell.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#fc2043bb",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-22T16:19:22+00:00"
+  },
+  {
+    "id": "89355713-ef5b-48c7-8ee1-1d0b3b5aac32",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Spotify’s AI bet: more of everything, less of what you want",
+    "summary": "1. Spotify has released a bunch of AI-powered tools that nudge users to create more content.\n2. It can be a bit much.",
+    "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-05-22T16:18:10.000Z"
+  },
+  {
+    "id": "865590c3-2bb9-48bb-87fa-6f17121fc427",
     "source": "@WatcherGuru",
     "type": "telegram",
-    "title": "🇰🇷 South Korea considers abolishing planned 22% crypto tax.@WatcherGuru",
+    "title": "🇺🇸 Pro-crypto Kevin Warsh officially sworn in as Federal Reserve Chair, replacing Jerome Powell.@WatcherGuru",
     "summary": "",
-    "url": "https://t.me/WatcherGuru#060104ab",
+    "url": "https://t.me/WatcherGuru#9a08f8db",
     "author": "@WatcherGuru",
-    "created_at": "2026-05-22T06:13:26+00:00"
+    "created_at": "2026-05-22T16:16:46+00:00"
   },
   {
-    "id": "1cef951b-56f2-4e59-bf44-17905a1cbcef",
-    "source": "The Block",
-    "type": "rss",
-    "title": "South Korea to review scrapping crypto tax plan after national petition hits 50,000 signatures",
-    "summary": "1. The petitioner said taxing cryptocurrency gains while abolishing taxes on traditional investments is unfair.",
-    "url": "https://www.theblock.co/post/402311/south-korea-petition-crypto-tax-plan?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-22T06:06:21.000Z"
-  },
-  {
-    "id": "629e9c3b-ae69-4a9c-bc08-09f378494057",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Colbert is finally finished at CBS.\n2. Amazing that he lasted so long!\n3. No talent, no ratings, no life.",
-    "url": "https://trumpstruth.org/statuses/38703",
-    "author": "Trump Truth",
-    "created_at": "2026-05-22T05:52:36.000Z"
-  },
-  {
-    "id": "b50d4daf-04b8-4dca-9b7b-339bf1975a05",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin trades near $77,700 as analysts eye $75,000 support after liquidation wave",
-    "summary": "1. Open interest held steady and funding stayed subdued during the recent liquidation wave, suggesting traders were de-risking rather than capitulating, according to HashKey Research's Tim Sun.",
-    "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-trades-near-usd77-700-as-analysts-eye-usd75-000-support-after-liquidation-wave",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-22T05:38:22.000Z"
-  },
-  {
-    "id": "377a07fa-5b3f-4130-86ae-544dd9751c6e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Applied Digital Tops 1 GW as AI Factory Campus Locks $7.5B Hyperscaler Lease",
-    "summary": "1. Applied Digital has signed a 15-year, take-or-pay lease at its fourth artificial intelligence (AI) Factory campus, Polaris Forge 3, with the same U.S.-based investment-grade hyperscaler that signed at Delta Forge 1 in April 2026.\n2. Applied Digital Pushes Total Contracted Revenue to $31B With Fourth AI Campus Deal Applied Digital Corp.\n3. (Nasdaq: APLD), the Dallas-based artificial […]",
-    "url": "https://news.bitcoin.com/applied-digital-tops-1-gw-as-ai-factory-campus-locks-7-5b-hyperscaler-lease/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-22T05:30:55.000Z"
-  },
-  {
-    "id": "64cce976-2526-4e45-9c82-a6c2501d4b59",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpIf Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close.\n2. The Dumacrats and Media have totally lost their way.\n3. They have gone absolutely CRAZY!!!",
-    "url": "https://trumpstruth.org/statuses/38702",
-    "author": "Trump Truth",
-    "created_at": "2026-05-22T05:29:09.000Z"
-  },
-  {
-    "id": "7edd2b02-1903-4460-a5aa-e1ab8d4f8a69",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance CEO calls WSJ report on Iran sanctions inaccurate",
-    "summary": "Binance CEO Richard Teng has refuted a report from The Wall Street Journal (WSJ) alleging that a financier for Iran's Islamic Revolutionary Guard Corps (IGRC) operated a secret military payment network through the exchange. In a post on X, Teng stated that the WSJ continues to publish inaccurate reports regarding Binance's compliance framework. He clarified that Binance did not permit transactions with sanctioned individuals on its platform and that the trades mentioned by the WSJ occurred before sanctions were imposed. Teng added that Binance had proactively investigated the matter before the WSJ's inquiry, a fact he claims the publication omitted from its report. He emphasized that Binance is strictly blocking illicit activities and operates an industry-leading compliance program. The WSJ article had claimed that a financial network led by Iranian businessman Babak Zanjani processed at least $850 million in transactions on Binance over the past two years, with half of the funds allegedly flowing to the IGRC and pro-Iran militant groups in the Middle East. The WSJ has previously published negative reports targeting Binance, and the exchange has sued a WSJ reporter for defamation over allegations of evading Iran sanctions.",
-    "url": "https://t.me/CoinnessGL#6cbc222e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T05:29:03+00:00"
-  },
-  {
-    "id": "d0b53ffe-f09f-42de-838c-8fc769567807",
+    "id": "08a058ad-5893-42b2-aad9-45398a65114e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
-    "title": "⚡️ Sui has launched gasless stablecoin transfers for 7 tokens, including USDC, eliminating transaction fees as it targets global payments.",
+    "title": "📊 CME Group says its XRP futures suite hit $62.87B in notional volume in its first year, trading 1.32 million contracts at $238M in average daily volume.",
     "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c215c590",
+    "url": "https://t.me/CoinMarketCapAnnouncements#adce1637",
     "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-22T05:24:14+00:00"
+    "created_at": "2026-05-22T16:14:11+00:00"
   },
   {
-    "id": "aa0ca573-37d4-459f-985b-4982f1ff9c79",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "India blocks access to prediction market Polymarket",
-    "summary": "Indian regulatory authorities have blocked access to the decentralized prediction market Polymarket as part of a broader crackdown on online gambling, CoinDesk reported. India's Ministry of Electronics and Information Technology has classified prediction markets as a form of online gambling and issued a cease-and-desist order to Polymarket. The ministry plans to take similar action against Kalshi in the future.",
-    "url": "https://t.me/CoinnessGL#f85748b9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T05:22:47+00:00"
-  },
-  {
-    "id": "36108afc-e45a-4d62-b416-d81d0caa545a",
-    "source": "CoinDesk",
+    "id": "2ac1526a-5054-405f-ba48-300c2fdb5bb3",
+    "source": "Bitcoin Magazine",
     "type": "rss",
-    "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
-    "summary": "1. Polymarket has gone dark in India and as per local media reports, Kalshi could be next.",
-    "url": "https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-22T05:14:46.000Z"
+    "title": "Happy Bitcoin Pizza Day, The 16th Anniversary of Laszlo Hanyecz Paying 10,000 BTC For Two Papa John’s Pies",
+    "summary": "1. Bitcoin Magazine\n\nHappy Bitcoin Pizza Day, The 16th Anniversary of Laszlo Hanyecz Paying 10,000 BTC For Two Papa John’s Pies\nSixteen years ago today, a Florida programmer named Laszlo Hanyecz paid 10,000 Bitcoin for two large Papa John's pizzas.\n2. This post Happy Bitcoin Pizza Day, The 16th Anniversary of Laszlo Hanyecz Paying 10,000 BTC For Two Papa John’s Pies first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/happy-bitcoin-pizza-day-16th-anniversary",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-22T16:08:56.000Z"
   },
   {
-    "id": "ba6f067f-6129-4f5f-82f6-65063cba65b0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trader who profited from ZEC, HYPE opens $38.63M long on ETH",
-    "summary": "Lookonchain reported that an anonymous address (starting with 0x8652), which previously profited from long positions on Zcash (ZEC) and Hyperliquid (HYPE), has opened a 25x leveraged long position on Ethereum (ETH) worth $38.63 million. The address had earned approximately $7.5 million in profit from its ZEC and HYPE positions over the past four days. The average entry price for the new ETH long is $2,133.19, with a liquidation price of $1,949.67.",
-    "url": "https://t.me/CoinnessGL#f68020ca",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-22T05:10:15+00:00"
-  },
-  {
-    "id": "3b6a8442-853c-41f7-b6c0-62c89eb2bbbf",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitget Kicks Off Second Year Supporting UNICEF’s Game Changers Coalition, Backing Expansion into Financial Literacy and AI",
-    "summary": "1. PRESS RELEASE.\n2. Victoria, Seychelles, May 21, 2026 — Bitget, the world’s largest Universal Exchange (UEX), announced today the start of its second-year partnership in support of the UNICEF Game Changers Coalition (GCC).\n3. The coalition, which has reached over 642,000 young people, parents, and teachers across eight countries since launch, is entering a new phase of […]",
-    "url": "https://news.bitcoin.com/bitget-kicks-off-second-year-supporting-unicefs-game-changers-coalition-backing-expansion-into-financial-literacy-and-ai/",
-    "author": "Media",
-    "created_at": "2026-05-22T05:00:19.000Z"
-  },
-  {
-    "id": "a5197cb4-1a6f-4f27-9e9e-9db64f6c211c",
+    "id": "bfb34fd2-7605-4657-b825-b5bc79514e05",
     "source": "CoinTelegraph",
     "type": "rss",
-    "title": "Accused attackers of Sandbox exec’s wife tried to flee via Uber",
-    "summary": "1. CertiK reported earlier this month that criminal wrench attack teams usually consist of three to five people and are often made up of amateurs, while the masterminds are outside the country.",
-    "url": "https://cointelegraph.com/news/uber-getaway-wrench-attack-sandbox-cofounder-wife-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-22T04:57:33.000Z"
+    "title": "Crypto Biz: Institutions tighten their grip on Bitcoin, AI and prediction markets",
+    "summary": "1. Institutional crypto adoption accelerates as Tether expands Bitcoin holdings, miners pivot to AI and Polymarket joins Nasdaq amid $1 billion fund outflows.",
+    "url": "https://cointelegraph.com/news/institutional-crypto-adoption-tether-bitcoin-ai-polymarket-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-05-22T16:02:30.000Z"
   },
   {
-    "id": "c97bec7e-312a-4411-8392-104258e66efa",
+    "id": "0cacd691-9b87-4a1d-ac5b-f910a80e16da",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Trump Media Moves Over $200 Million in Bitcoin as Losses Pile Up: Arkham",
+    "summary": "1. It's unknown whether Trump Media & Technology Group is selling its Bitcoin, though it has amassed sizable losses on its holdings.",
+    "url": "https://decrypt.co/368752/trump-media-moves-over-200-million-bitcoin-losses-arkham",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-05-22T15:56:52.000Z"
+  },
+  {
+    "id": "63c1180e-e58c-4cb2-bacc-0b13457b08cf",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price falls under $77K as Dow Jones hits new all-time highs",
+    "summary": "1. Bitcoin headed lower as Wall Street trading began with new record highs for the Dow Jones, while traders warned of weak US demand.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-77k-as-dow-jones-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-05-22T15:40:15.000Z"
+  },
+  {
+    "id": "36f933db-1204-4b85-9e19-62937dda0b8a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
-    "title": "⚡️ Boerse Stuttgart's Seturion blockchain settlement platform is adding SocGen and flatexDEGIRO as it pushes to unify Europe's securities settlement infrastructure.",
+    "title": "🤖 DeepSeek is building an agentic coding tool to rival Anthropic's Claude Code and OpenAI's Codex, per job listings posted this week.",
     "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ba6c3891",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b636d29d",
     "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-22T04:39:33+00:00"
+    "created_at": "2026-05-22T15:39:17+00:00"
+  },
+  {
+    "id": "053c8db3-e766-468a-a0d8-76fac30292f6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+    "summary": "1. James Comer is demanding internal records from the prediction market CEOs, warning that government employees could be using classified information to make “huge profits”.",
+    "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+    "author": "Olivier Acuna",
+    "created_at": "2026-05-22T15:27:40.000Z"
+  },
+  {
+    "id": "714b27cc-d069-4350-80be-4fc9cbf5ada7",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "NYSE Parent, OKX Counter Hyperliquid With Regulated Oil Perpetual Futures",
+    "summary": "1. OKX debuted perpetual oil futures tied to Intercontinental Exchange’s benchmarks, the latest sign of growing competition for Hyperliquid.",
+    "url": "https://decrypt.co/368755/nyse-parent-okx-counter-hyperliquid-regulated-oil-perpetual-futures",
+    "author": "André Beganski",
+    "created_at": "2026-05-22T15:15:30.000Z"
+  },
+  {
+    "id": "b7cf1992-c55e-49c3-9ea2-3b13660558f4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Polymarket Suffers $700K Breach After Internal Admin Wallet is Compromised",
+    "summary": "1. Blockchain investigator ZachXBT first pointed to a possible hack, indicating that $520K were drained so far.\n2. Polymarket acknowledged the security event and stressed that it was taking action after the compromise of an alleged private key, explaining that user funds were safe.\n3. Polymarket Faces Security Event: No User Funds Affected Polymarket, one of the largest […]",
+    "url": "https://news.bitcoin.com/polymarket-suffers-700k-breach-after-internal-admin-wallet-is-compromised/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-22T15:04:44.000Z"
+  },
+  {
+    "id": "70bae1a3-5ae8-419e-b67a-2fa47ced2fb3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The agentic CFO in your pocket",
+    "summary": "1. Chalom explains that retail investors have never had the opportunity to access and manage their own digital treasury desk.",
+    "url": "https://www.coindesk.com/opinion/2026/05/22/the-agentic-cfo-in-your-pocket",
+    "author": "Joseph Chalom",
+    "created_at": "2026-05-22T14:57:29.000Z"
+  },
+  {
+    "id": "388639f2-c2e9-45a2-845a-06b7db70f312",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Traders now price Fed rate hikes starting as soon as OctoberTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#1ec3e1e9",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-22T14:49:23+00:00"
+  },
+  {
+    "id": "60c05e1c-f464-444e-b1d0-f95bac99a258",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "NYSE owner ICE to launch oil-linked futures with OKX",
+    "summary": "1. ICE and OKX plan to launch oil-linked perpetual futures based on Brent and WTI benchmarks, bringing crypto derivatives further into traditional energy markets under licensing restrictions.",
+    "url": "https://cointelegraph.com/news/nyse-owner-ice-oil-perpetual-futures-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-05-22T14:42:45.000Z"
+  },
+  {
+    "id": "682f04ff-2dcc-427b-ad08-46f8846d6a60",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading",
+    "summary": "1. The chair of the powerful House Oversight Committee has requested documents from Polymarket and Kalshi regarding insider trading and war-related markets.",
+    "url": "https://decrypt.co/368748/house-republicans-open-investigation-kalshi-polymarket-insider-trades",
+    "author": "Sander Lutz",
+    "created_at": "2026-05-22T14:37:58.000Z"
+  },
+  {
+    "id": "e0989265-29c3-4161-9adf-d77c8fd9691f",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "FED'S WALLER REMARKS-No sign AI investment boom will slow-Can't dismiss risk of unanchoring inflation expectations-Can't rule out hikes if inflation doesn't abate soon-Inflation to be driving force in policy decisions ahead-Rate cut no more likely than a hike as FED's next moveTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#6d4edc90",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-22T14:05:51+00:00"
+  },
+  {
+    "id": "c6072dc4-261a-4914-bca8-1c329ca0a357",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Department of War releases second batch of UFO and potential alien life files.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#522b79c9",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-22T14:05:34+00:00"
+  },
+  {
+    "id": "9cdbc924-16b2-4531-9ff5-c27c84205212",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
+    "summary": "1. WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized.",
+    "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-22T14:02:44.000Z"
+  },
+  {
+    "id": "4da503db-d9b8-4239-bbcc-c1ea810d7d4e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "NEAR Jumps 30% as $36M Bitwise ETP Adds Weight to AI Token Thesis",
+    "summary": "1. The NEAR token jumped 30% to an intraday high of $2.25, marking a 70% increase since the start of May and briefly pushing its market capitalization past $2.9 billion.\n2. NEAR Token Surges Past $2 NEAR, the token of the artificial intelligence-native protocol Near, surged on Friday as it crossed the $2 threshold for the first […]",
+    "url": "https://news.bitcoin.com/near-jumps-30-as-36m-bitwise-etp-adds-weight-to-ai-token-thesis/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-22T14:01:43.000Z"
+  },
+  {
+    "id": "b8afb02b-15ae-4481-9869-a44a152c8812",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I gave up a lot of money in allowing the just announced Anti-Weaponization Fund to go forward.\n2. I could have settled my case, including the illegal release of my Tax Returns and the equally illegal BREAK IN of Mar-a-Lago, for an absolute fortune.\n3. Instead, I am helping others, who were so badly abused by an evil, corrupt, and weaponized Biden Administration, receive, at long last, JUSTICE!",
+    "url": "https://trumpstruth.org/statuses/38709",
+    "author": "Trump Truth",
+    "created_at": "2026-05-22T13:49:50.000Z"
+  },
+  {
+    "id": "fd94d4a2-1a45-4dbc-977e-2c611d6d69b5",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Stephen Colbert’s firing from CBS was the “Beginning of the End” for untalented, nasty, highly overpaid, not funny, and very poorly rated Late Night Television Hosts.\n2. Others, of even less talent, to soon follow.\n3. May they all Rest in Peace!",
+    "url": "https://trumpstruth.org/statuses/38708",
+    "author": "Trump Truth",
+    "created_at": "2026-05-22T13:37:25.000Z"
+  },
+  {
+    "id": "4b3cc6ee-4c9a-42b6-8088-c5e9d7d04071",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Bitcoin crashing from a high of $30, 15 years ago. They called it the \"Great Bubble of 2011.\" Anyone who bought the top is up 200,000%",
+    "summary": "1. Bitcoin crashing from a high of $30, 15 years ago.\n2. They called it the \"Great Bubble of 2011.\" Anyone who bought the top is up 200,000%",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tkiyj8/bitcoin_crashing_from_a_high_of_30_15_years_ago/",
+    "author": "u/knallerbsee",
+    "created_at": "2026-05-22T13:25:41.000Z"
+  },
+  {
+    "id": "c2d7035e-0dbc-48eb-a66e-0bc9c80dbcd0",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "Ethereal news weekly #24 | Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched",
+    "summary": "1. Ethereal news weekly #24 | Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched",
+    "url": "https://reddit.com/r/ethereum/comments/1tkixdk/ethereal_news_weekly_24_devcon_8_early_bird/",
+    "author": "u/abcoathup",
+    "created_at": "2026-05-22T13:24:24.000Z"
+  },
+  {
+    "id": "fc6a823e-ea1c-4ce7-9c2c-5d725287ec65",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Stop playing games and PASS THE SAVE AMERICA ACT!",
+    "url": "https://trumpstruth.org/statuses/38707",
+    "author": "Trump Truth",
+    "created_at": "2026-05-22T13:16:44.000Z"
+  },
+  {
+    "id": "d60619d8-9592-49dc-b10c-a79740361a42",
+    "source": "The Block",
+    "type": "rss",
+    "title": "House Oversight chair launches probe into insider trading on Kalshi and Polymarket",
+    "summary": "1. House Oversight Chairman Comer probes insider trading on Kalshi and Polymarket, sending letters to both CEOs with a June 5 document deadline.",
+    "url": "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-22T13:03:35.000Z"
+  },
+  {
+    "id": "64db88c7-f57a-4122-822d-9646c7bbed36",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Happy Bitcoin Pizza Day: Celebrating the $770 Million Delivery",
+    "summary": "1. On May 22, 2010, Laszlo Hanyecz completed one of the first BTC commercial transactions ever, exchanging 10,000 BTC for two Papa John’s pizzas, a milestone that still keeps being celebrated even in an age of institutional dominance over the cryptocurrency ecosystem.\n2. Bitcoin Pizza Day Keeps Being Celebrated Even After 16 Years While the bitcoin ecosystem […]",
+    "url": "https://news.bitcoin.com/happy-bitcoin-pizza-day-celebrating-the-770-million-delivery/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-22T12:44:25.000Z"
+  },
+  {
+    "id": "66ad8123-91d4-4fc1-b67f-ebef9e5340ba",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 President Trump says \"new stock market record!\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#71ac4b8d",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-22T11:39:24+00:00"
   }
 ]
