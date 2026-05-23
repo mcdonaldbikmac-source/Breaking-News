@@ -1,5 +1,55 @@
 [
   {
+    "id": "2e7099f0-eecc-425f-a881-998594302630",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Boerse Stuttgart Targets Europe’s Fragmented Markets With Tokenized Trades",
+    "summary": "1. Seturion has launched a strategic partnership with flatexDEGIRO and Societe Generale’s blockchain-based infrastructure to modernize securities settlement in Europe.\n2. Tokenized Assets and Trading Venues Boerse Stuttgart Group’s digital settlement platform, Seturion, has partnered with three major financial institutions to build a pan-European, blockchain-based infrastructure designed to modernize and lower the costs of securities settlement across […]",
+    "url": "https://news.bitcoin.com/boerse-stuttgart-targets-europes-fragmented-markets-with-tokenized-trades/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-23T06:30:06.000Z"
+  },
+  {
+    "id": "7ea66843-773a-41a1-b12c-a1c36a3ff31b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC spot ETF outflows could be a buy signal, analysis suggests",
+    "summary": "The recent net outflow of over $1 billion from U.S. spot Bitcoin ETFs could represent a buying opportunity, according to an analysis by Santiment reported by Cointelegraph. The firm suggests that ETF fund flows can act as a contrarian indicator, as they tend to reflect retail investor sentiment more strongly than institutional sentiment. While the market generally interprets consecutive net outflows from BTC ETFs as a bearish signal, Santiment argues the current trend is closer to a market reset than a sign of excessive fear. The report also noted that such periods of sustained outflows have often created favorable conditions for long-term investors to accumulate positions incrementally.",
+    "url": "https://t.me/CoinnessGL#5e017360",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T06:16:28+00:00"
+  },
+  {
+    "id": "c1002e45-2e4d-45dc-8f8c-d144aa55e51c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Uniswap proposes expanding UNI buyback and burn mechanism",
+    "summary": "Uniswap has put forward a governance proposal to expand its protocol fee-based UNI buyback and burn mechanism to the BNB Chain, Polygon (POL), and Celo (CELO) networks. The proposal will utilize an expedited process introduced through a governance overhaul known as \"UNIfication.\" Under this new procedure, proposals related to fee updates will bypass the standard Request for Comments (RFC) stage and proceed directly to a five-day Snapshot vote, followed by an on-chain governance vote.",
+    "url": "https://t.me/CoinnessGL#17e78b81",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T06:12:01+00:00"
+  },
+  {
+    "id": "05914ece-2f9b-4191-9c57-93e575be3141",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Brazilian police uncover illegal BTC mining farm",
+    "summary": "Police in São Paulo, Brazil, and power company CPFL Piratininga have uncovered a Bitcoin (BTC) mining farm using illegal electricity, seizing approximately 1,400 mining rigs, local media outlet Livecoins reported. The unauthorized electricity consumption at the site is estimated to be equivalent to the monthly usage of approximately 2,000 homes.",
+    "url": "https://t.me/CoinnessGL#0a635b2a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T06:09:12+00:00"
+  },
+  {
+    "id": "db09cac7-a42f-4e9a-89fd-8f2a1b086a83",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 House Majority Whip Tom Emmer says the CLARITY Act has momentum, citing the Senate Banking Committee's 15-9 bipartisan vote and predicting it will land on Trump's desk.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7099ae3f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-23T05:19:23+00:00"
+  },
+  {
     "id": "5397c503-a192-4ca0-8e23-4617fdea6b44",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +58,16 @@
     "url": "https://news.bitcoin.com/nyse-owner-ice-partners-with-okx-to-launch-perpetual-oil-futures/",
     "author": "Emmanuel Musa",
     "created_at": "2026-05-23T04:30:58.000Z"
+  },
+  {
+    "id": "080b831a-2c3f-4a49-a896-54e51cba82a8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
+    "summary": "1. Strategy chairman Michael Saylor said the goal is to maximize Strategy’s Bitcoin per share by 2033.",
+    "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ciaran Lyons",
+    "created_at": "2026-05-23T04:24:09.000Z"
   },
   {
     "id": "8f96d3a6-e0b2-4d17-abd5-90d076cfd7a1",
@@ -98,55 +158,5 @@
     "url": "https://news.bitcoin.com/bitcoin-falls-below-76k-as-209m-in-long-liquidations-hammer-traders/",
     "author": "Jamie Redman",
     "created_at": "2026-05-23T01:25:25.000Z"
-  },
-  {
-    "id": "7ce8a15d-0b9f-47d5-97ac-bb9745de3045",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ghana Rolls Out 2025 Crypto Law as Regulators Target Fraud and AML Risks",
-    "summary": "1. Ghana has introduced a new legal framework via the Virtual Asset Service Providers Act of 2025 to regulate its rapidly growing cryptocurrency market.\n2. Rising Crypto Adoption and Systemic Risks Ghana has rolled out a legal framework to regulate virtual assets as cryptocurrency adoption accelerates across the economy, according to the country’s 2025 Financial Stability Review.",
-    "url": "https://news.bitcoin.com/ghana-rolls-out-2025-crypto-law-as-regulators-target-fraud-and-aml-risks/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-23T00:30:04.000Z"
-  },
-  {
-    "id": "81d0d236-e724-4b34-aafc-11087ad903f0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ethereum is still a good long-term buy, according data: Analyst",
-    "summary": "1. Ethereum’s dominance in DeFi, stablecoins and staking is strengthening the long-term ETH accumulation thesis, despite it’s 28% price decline in 2026.",
-    "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-05-23T00:29:18.000Z"
-  },
-  {
-    "id": "1d80be8a-4a91-4c14-9e0a-15d20812b34e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today",
-    "summary": "1. Laszlo Hanyecz's 2010 post, offering 10,000 BTC in exchange for two pizzas delivered to his home, marked the first recorded commercial BTC payment.",
-    "url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Vince Quill",
-    "created_at": "2026-05-22T23:16:38.000Z"
-  },
-  {
-    "id": "75220d43-83a8-4d46-ad30-3fb0a66a7b30",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "AI is being used to resurrect the voices of dead pilots",
-    "summary": "1. People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-05-22T23:03:33.000Z"
-  },
-  {
-    "id": "e9c74cbf-9d51-40df-851e-bc4c6a939fce",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-    "summary": "1. The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
-    "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-05-22T22:55:57.000Z"
   }
 ]
