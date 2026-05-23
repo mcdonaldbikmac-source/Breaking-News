@@ -1,5 +1,165 @@
 [
   {
+    "id": "8de718ce-0a6a-4d23-a07e-fab8f521e37d",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "summary": "1. IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "author": "Dominic-Madori Davis",
+    "created_at": "2026-05-23T15:08:00.000Z"
+  },
+  {
+    "id": "69869582-2b84-4c9f-ae63-59ddc8d5b6f1",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Argentina Launched an AI to Predict the Future. It Couldn't Predict a Typo",
+    "summary": "1. Milei's government unveiled a social digital twin to overhaul public policy—announced via a video full of AI slop, grammatical errors, and a deepfake of a minister.",
+    "url": "https://decrypt.co/368860/argentina-ai-predict-future",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-05-23T15:01:04.000Z"
+  },
+  {
+    "id": "e1587e51-454a-442a-8bfa-87c00109567c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Top 5 Stablecoins Capture Nearly 90% of Sector as Market Contracts This Week",
+    "summary": "1. Over the last seven days, the stablecoin sector posted a slight contraction of $90.01 million, bringing the market’s total valuation to $323.052 billion, according to figures compiled by Defillama.\n2. Tether continues to dominate the category, with its market capitalization sitting just below the $190 billion threshold at $189.468 billion, accounting for 58.65% of the stablecoin […]",
+    "url": "https://news.bitcoin.com/top-5-stablecoins-capture-nearly-90-of-sector-as-market-contracts-this-week/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-23T14:51:33.000Z"
+  },
+  {
+    "id": "65e97015-dee7-4c1f-9395-2b54c5a9a32f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+    "summary": "1. Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+    "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+    "author": "Tim De Chant",
+    "created_at": "2026-05-23T14:50:00.000Z"
+  },
+  {
+    "id": "c3269d9b-141d-4d8b-85e5-e82ea5e1a65e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S., Iran nearing agreement on 60-day ceasefire extension",
+    "summary": "According to the Financial Times (FT), mediators said the U.S. and Iran are close to an agreement to extend their ceasefire for 60 days.",
+    "url": "https://t.me/CoinnessGL#d358aa2e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T14:34:21+00:00"
+  },
+  {
+    "id": "8734ff6c-fd69-4e04-b40f-7a6b2f1e1ce1",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "“THE DEAL SEEMS TO BE GOING IN THE RIGHT DIRECTION.",
+    "summary": "IT’S WITH THE AMERICANS NOW FOR REVIEW,” A DIPLOMAT BRIEFED ON THE TALKS SAIDTwitter",
+    "url": "https://t.me/SolidIntelX#5b1dbbb6",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-23T14:31:57+00:00"
+  },
+  {
+    "id": "fea9aea1-c7b7-4ffa-8b94-c00adb9c90b0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "HYPE, AI tokens could lead next altcoin season, says analyst",
+    "summary": "Hyperliquid's native token HYPE and AI-related cryptocurrencies could lead the next altcoin season as risk appetite shows signs of recovery in the crypto market, according to an analysis. Prominent crypto analyst Michaël van de Poppe noted that the recent bullish trend in HYPE and growing interest in AI cryptocurrencies suggest that market risk-on sentiment is reviving. He added that Hyperliquid is strengthening the on-chain asset tokenization trend by expanding into tokenized stocks, commodities, and pre-IPO assets. Van de Poppe believes HYPE could surpass $100 if market sentiment continues to improve, also stating that NEAR and Bittensor (TAO) are significantly undervalued in the AI sector.",
+    "url": "https://t.me/CoinnessGL#00369a72",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T14:30:51+00:00"
+  },
+  {
+    "id": "3a97dfba-b099-4036-a8f2-07699d5d1a75",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US AND IRAN CLOSE TO EXTENDING CEASEFIRE BY 60 DAYS, SAY MEDIATORSTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#43620891",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-23T14:29:19+00:00"
+  },
+  {
+    "id": "b5b40ec4-d5ca-4904-85b4-35f955615282",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Iran says MOU with US in final stages",
+    "summary": "Iran and the United States are in the final stages of confirming a memorandum of understanding (MOU), Iranian Foreign Ministry spokesperson Baghaei announced today, according to the Xinhua News Agency. He stated that after weeks of dialogue, the positions of both sides have progressed toward greater alignment.",
+    "url": "https://t.me/CoinnessGL#3e0f646f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T14:23:23+00:00"
+  },
+  {
+    "id": "9c1fb75e-5942-491c-9c7c-fb4114baa4ce",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+    "summary": "1. Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.",
+    "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+    "author": "AI Boost",
+    "created_at": "2026-05-23T14:19:18.000Z"
+  },
+  {
+    "id": "37fbd036-eda3-40eb-82ea-aab7147e2946",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
+    "summary": "1. Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-linked transactions flowed through the exchange to the IRGC.",
+    "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-23T14:03:36.000Z"
+  },
+  {
+    "id": "c527a5e1-b525-48ae-b542-7d2cff383733",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-05-23T14:02:22.000Z"
+  },
+  {
+    "id": "7b5d1084-ba9b-4c6a-8294-3ca181a58671",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "US Lawmakers Propose the 'ARMA' Bill to Build a 1-Million-Bitcoin Strategic Reserve",
+    "summary": "1. US Lawmakers Propose the 'ARMA' Bill to Build a 1-Million-Bitcoin Strategic Reserve",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tlgq4f/us_lawmakers_propose_the_arma_bill_to_build_a/",
+    "author": "u/donutloop",
+    "created_at": "2026-05-23T13:36:39.000Z"
+  },
+  {
+    "id": "7dda5c94-bcff-454d-b10a-55285c5bb9e5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Slides as Coinbase Bitcoin Premium Index Signals Reduced Institutional Accumulation",
+    "summary": "1. The Coinbase bitcoin premium index has fallen to its lowest level in a month, with analysts warning that intensified institutional selling is adding significant weight to BTC’s near-term price outlook.\n2. What the Data Shows The Coinbase bitcoin premium, an index measuring the price difference between bitcoin traded on Coinbase (used predominantly by U.S.\n3. institutional investors) […]",
+    "url": "https://news.bitcoin.com/coinbase-bitcoin-premium-monthly-low-institutional-selling-may-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-23T13:32:39.000Z"
+  },
+  {
+    "id": "9ed9c23b-ab04-4407-840d-d2b3460cee8a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ F2Pool co-founder Chun Wang will join SpaceX's Starship for a two-year mission that includes a Mars fly-by, having previously commanded SpaceX's first crewed polar orbit mission in 2025.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f40da505",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-23T13:19:38+00:00"
+  },
+  {
+    "id": "d7da8bbb-dba4-4134-ad5a-f422d388e22d",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "IRAN OFFERED TO OPEN THE STRAIT OF HORMUZ IN EXCHANGE FOR THE US PAYING COMPENSATIONTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#f35d887a",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-23T13:13:28+00:00"
+  },
+  {
     "id": "96686128-427b-4a76-9f44-679eb9823122",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -90,7 +250,7 @@
     "created_at": "2026-05-23T12:03:50+00:00"
   },
   {
-    "id": "aa02a4bf-bac2-4022-aaf6-f685b31bc256",
+    "id": "1f2bee96-e019-43ab-8cf5-101ec3af7e00",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Tom Lee says the upcoming SpaceX, OpenAI, and Anthropic IPOs could generate trillions in post-lockup supply but won't crash the S&P 500.",
@@ -150,7 +310,7 @@
     "created_at": "2026-05-23T10:19:40.000Z"
   },
   {
-    "id": "2938f386-1640-47a4-8306-3523652f1070",
+    "id": "206c3bd0-3e98-4737-a72f-cbc57dd99465",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Michael Saylor says Strategy will probably buy all of the Bitcoin mined between now and 2140, when BTC’s 21M cap is reached.",
@@ -158,65 +318,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#9b6c3fae",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-23T09:49:07+00:00"
-  },
-  {
-    "id": "702da872-a8a5-47e0-99be-7ebfab1cfcf6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
-    "summary": "1. The cash-settled, European-style contracts will trade under the ticker QBTC on Phlx, but still require CFTC approval before trading can begin.",
-    "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Amin Haqshanas",
-    "created_at": "2026-05-23T09:05:53.000Z"
-  },
-  {
-    "id": "050a79f1-6498-48af-8fca-2ee761fb26ac",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Congressman Nick Begich's new Strategic Bitcoin Reserve bill now has 21 cosponsorsTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#61c6e16c",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-23T08:39:24+00:00"
-  },
-  {
-    "id": "b29dd87e-1456-4e9b-b66d-163d4e1a9bf3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Kraken Secures VARA Approval to Launch Crypto Trading and Staking in UAE",
-    "summary": "1. Kraken parent company Payward has received preliminary regulatory approval to expand operations in the United Arab Emirates.\n2. The move strengthens Dubai’s position as a global crypto hub as major exchanges continue gravitating toward jurisdictions with clearer digital asset rules.\n3. Payward Gains UAE Crypto License Approval as Kraken Deepens Middle East Push Kraken is preparing to […]",
-    "url": "https://news.bitcoin.com/kraken-secures-vara-approval-to-launch-crypto-trading-and-staking-in-uae/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-23T08:30:33.000Z"
-  },
-  {
-    "id": "9c218a93-f730-4472-8c4f-dafecc79cbe1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$400,000,000 worth of longs liquidated from the crypto market in the past 10 minutes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#b5ff2f34",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-23T07:56:51+00:00"
-  },
-  {
-    "id": "9e5797c2-0e77-4862-9496-f39f475bb492",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Bitcoin falls under $75,000@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#88d59911",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-23T07:48:06+00:00"
-  },
-  {
-    "id": "aeeacfb3-46e8-4f04-b3b6-600c35aad9fa",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ IREN co-founder Dan Roberts says power, land, and data center capacity are becoming more valuable than chips as global AI compute demand surges.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4d13480b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-23T07:24:31+00:00"
   }
 ]
