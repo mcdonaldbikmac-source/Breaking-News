@@ -1,5 +1,75 @@
 [
   {
+    "id": "96686128-427b-4a76-9f44-679eb9823122",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Price Analysis: BTC Risks Deeper Correction Below $74K",
+    "summary": "1. Bitcoin is trading in a volatile but technically fragile range on Saturday as bearish pressure from Friday evening’s whiplash continues to dominate higher time frames despite selective short-term recovery attempts.\n2. Traders are monitoring whether the leading crypto asset can stabilize above the critical $74,000 support zone after a sharp retreat from recent highs near $82,833.",
+    "url": "https://news.bitcoin.com/bitcoin-price-analysis-btc-risks-deeper-correction-below-74k/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-23T13:05:24.000Z"
+  },
+  {
+    "id": "5fd8c980-4eb1-4d63-a255-939f9822173d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump postpones decision on Iran strike to allow more time for talks: WSJ",
+    "summary": "President Donald Trump has decided against formally ordering a new military strike on Iran for now, opting instead to allow more time for diplomatic negotiations, The Wall Street Journal (WSJ) reported, citing multiple U.S. officials. During a meeting with his national security team on May 22, President Trump was briefed on the ongoing dialogue with Iran and subsequently expressed his intention to grant additional time for the talks. However, he also made it clear that the option for a military attack remains reserved should the negotiations ultimately fail.",
+    "url": "https://t.me/CoinnessGL#3fee0122",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T13:04:55+00:00"
+  },
+  {
+    "id": "27b181a2-acbd-4b18-b1b5-04d0eb53e0d3",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "3 Wacky Hermes Skills You Should Try",
+    "summary": "1. A real astrology engine disguised as a fortune teller.\n2. A scammer-punishment machine loaded with the Shrek screenplay.\n3. A tool that reads any book and maps every idea to your actual life.",
+    "url": "https://decrypt.co/368188/3-wacky-hermes-skills-you-should-try",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-05-23T13:01:04.000Z"
+  },
+  {
+    "id": "54b1be62-6458-4d53-a3b7-011d5c9b19b7",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+    "summary": "1. The bill’s restrictions on yield-bearing crypto products may push the industry away from passive \"hold-to-earn\" models and toward AI-driven, compliant yield infrastructure, according to STBL Chief Commercial Officer Joe Vollono.",
+    "url": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+    "author": "Will Canny",
+    "created_at": "2026-05-23T13:00:00.000Z"
+  },
+  {
+    "id": "25e2710c-f160-4b68-84e9-425fa7975970",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "summary": "1. Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers.\n2. What happened to the \"solar-electric economy\" he promised?",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "author": "Tim De Chant",
+    "created_at": "2026-05-23T13:00:00.000Z"
+  },
+  {
+    "id": "e0e69658-d7fb-41b4-8c31-0a8065cd7b00",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Fenwick & West to pay $54M to settle FTX customer lawsuit",
+    "summary": "Fenwick & West, a law firm that represented FTX, has agreed to pay $54 million to settle a lawsuit related to customer losses, BeInCrypto reported. The settlement is subject to court approval before it is finalized.Plaintiffs alleged that Fenwick went beyond a simple advisory role and was involved in designing the structure that allowed for the misappropriation of customer funds between FTX and Alameda Research. This settlement is part of a secondary wave of legal battles following the FTX bankruptcy, and a separate $525 million lawsuit against Fenwick and some of its partners is still ongoing.",
+    "url": "https://t.me/CoinnessGL#117c8e76",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T12:37:31+00:00"
+  },
+  {
+    "id": "d099c30c-749e-46b4-9c1b-1a98b57ad1d8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "HYPE evolving into on-chain Wall Street, may hit $100 this year",
+    "summary": "Hyperliquid is evolving beyond a simple decentralized exchange (DEX) into an on-chain \"Wall Street platform,\" CryptoSlate reported. The price of HYPE recently surpassed $60, marking a year-to-date increase of over 120% and pushing its market capitalization past $15 billion. This performance contrasts with the bearish trends of major cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), and Solana (SOL) during the same period. According to the report, Hyperliquid is expanding its institutional fund inflows by integrating brokerage, exchange, and custody functions into a single environment. The publication also noted that prediction market Polymarket currently gives HYPE an approximately 30% chance of reaching $100 by the end of the year.",
+    "url": "https://t.me/CoinnessGL#31512538",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-23T12:18:06+00:00"
+  },
+  {
     "id": "c6b53c24-10cc-45f8-8160-232023d8084c",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -20,7 +90,7 @@
     "created_at": "2026-05-23T12:03:50+00:00"
   },
   {
-    "id": "c788afaa-a457-4d8d-b29a-9ad31d22439b",
+    "id": "aa02a4bf-bac2-4022-aaf6-f685b31bc256",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Tom Lee says the upcoming SpaceX, OpenAI, and Anthropic IPOs could generate trillions in post-lockup supply but won't crash the S&P 500.",
@@ -80,7 +150,7 @@
     "created_at": "2026-05-23T10:19:40.000Z"
   },
   {
-    "id": "03ceefd1-2357-4aeb-bfbd-a2eea03e608b",
+    "id": "2938f386-1640-47a4-8306-3523652f1070",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Michael Saylor says Strategy will probably buy all of the Bitcoin mined between now and 2140, when BTC’s 21M cap is reached.",
@@ -100,7 +170,7 @@
     "created_at": "2026-05-23T09:05:53.000Z"
   },
   {
-    "id": "dddf65f0-dbc7-4db1-b4c1-7e72d6c85a22",
+    "id": "050a79f1-6498-48af-8fca-2ee761fb26ac",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Congressman Nick Begich's new Strategic Bitcoin Reserve bill now has 21 cosponsorsTwitter",
@@ -120,7 +190,7 @@
     "created_at": "2026-05-23T08:30:33.000Z"
   },
   {
-    "id": "9626655e-4d32-4b80-b916-d817ef84d64e",
+    "id": "9c218a93-f730-4472-8c4f-dafecc79cbe1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "$400,000,000 worth of longs liquidated from the crypto market in the past 10 minutes.@WatcherGuru",
@@ -130,7 +200,7 @@
     "created_at": "2026-05-23T07:56:51+00:00"
   },
   {
-    "id": "dfb45ad9-29ce-4f01-8e22-ef92a7d7968a",
+    "id": "9e5797c2-0e77-4862-9496-f39f475bb492",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Bitcoin falls under $75,000@WatcherGuru",
@@ -140,7 +210,7 @@
     "created_at": "2026-05-23T07:48:06+00:00"
   },
   {
-    "id": "724b9d36-2923-421b-9f9f-0c3884c3cdda",
+    "id": "aeeacfb3-46e8-4f04-b3b6-600c35aad9fa",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ IREN co-founder Dan Roberts says power, land, and data center capacity are becoming more valuable than chips as global AI compute demand surges.",
@@ -148,55 +218,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#4d13480b",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-23T07:24:31+00:00"
-  },
-  {
-    "id": "3c701296-90a0-428a-9bd9-d978979e5d7f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
-    "summary": "1. Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
-    "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-    "author": "Anna Heim",
-    "created_at": "2026-05-23T07:01:00.000Z"
-  },
-  {
-    "id": "3ab4567a-e5c9-4779-bd7b-32f1e2975543",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
-    "summary": "1. Ongoing Bitcoin ETF outflows have historically “correlated with conditions favorable for patient accumulation rather than panic,\" according to Santiment.",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-05-23T06:55:08.000Z"
-  },
-  {
-    "id": "2e7099f0-eecc-425f-a881-998594302630",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Boerse Stuttgart Targets Europe’s Fragmented Markets With Tokenized Trades",
-    "summary": "1. Seturion has launched a strategic partnership with flatexDEGIRO and Societe Generale’s blockchain-based infrastructure to modernize securities settlement in Europe.\n2. Tokenized Assets and Trading Venues Boerse Stuttgart Group’s digital settlement platform, Seturion, has partnered with three major financial institutions to build a pan-European, blockchain-based infrastructure designed to modernize and lower the costs of securities settlement across […]",
-    "url": "https://news.bitcoin.com/boerse-stuttgart-targets-europes-fragmented-markets-with-tokenized-trades/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-23T06:30:06.000Z"
-  },
-  {
-    "id": "7ea66843-773a-41a1-b12c-a1c36a3ff31b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC spot ETF outflows could be a buy signal, analysis suggests",
-    "summary": "The recent net outflow of over $1 billion from U.S. spot Bitcoin ETFs could represent a buying opportunity, according to an analysis by Santiment reported by Cointelegraph. The firm suggests that ETF fund flows can act as a contrarian indicator, as they tend to reflect retail investor sentiment more strongly than institutional sentiment. While the market generally interprets consecutive net outflows from BTC ETFs as a bearish signal, Santiment argues the current trend is closer to a market reset than a sign of excessive fear. The report also noted that such periods of sustained outflows have often created favorable conditions for long-term investors to accumulate positions incrementally.",
-    "url": "https://t.me/CoinnessGL#5e017360",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-23T06:16:28+00:00"
-  },
-  {
-    "id": "c1002e45-2e4d-45dc-8f8c-d144aa55e51c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Uniswap proposes expanding UNI buyback and burn mechanism",
-    "summary": "Uniswap has put forward a governance proposal to expand its protocol fee-based UNI buyback and burn mechanism to the BNB Chain, Polygon (POL), and Celo (CELO) networks. The proposal will utilize an expedited process introduced through a governance overhaul known as \"UNIfication.\" Under this new procedure, proposals related to fee updates will bypass the standard Request for Comments (RFC) stage and proceed directly to a five-day Snapshot vote, followed by an on-chain governance vote.",
-    "url": "https://t.me/CoinnessGL#17e78b81",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-23T06:12:01+00:00"
   }
 ]
