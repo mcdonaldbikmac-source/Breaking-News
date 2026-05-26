@@ -1,5 +1,195 @@
 [
   {
+    "id": "223466d6-dd22-4a3c-872e-10d705693fbb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Investor who sued Upbit over martial law-era system failure loses case",
+    "summary": "An Upbit user who sued the exchange's operator, Dunamu, for losses incurred during a system failure immediately following the Dec. 3, 2024, emergency martial law declaration has lost the case, Yonhap News reported. The user, identified by his surname Cho, filed six market sell orders for 43,551 XRP between 1:51 p.m. and 1:57 p.m. UTC on Dec. 3. He argued that while the market price was in the 3,000 won range at the time of his first order, a system disruption delayed the transaction, which ultimately executed at 1,727 won, resulting in a loss of over 55.44 million won (about $42,600). However, the court dismissed the claim, stating that it was unlikely the initial order would have been filled at the 3,000 won price, given the surge in sell orders that occurred in response to the martial law situation. more:",
+    "url": "https://t.me/CoinnessGL#88b9e2e5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T21:19:33+00:00"
+  },
+  {
+    "id": "3e991a99-f577-406d-84b4-2b31d6c5aa52",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Base Launches MCP Gateway Letting Claude and ChatGPT Execute Onchain DeFi Actions",
+    "summary": "1. Base, the Coinbase-incubated Ethereum layer two ( L2) network, launched Base MCP on Tuesday, a Model Context Protocol gateway that connects artificial intelligence (AI) agents directly to users’ Base Accounts for onchain transactions.\n2. Base Deploys MCP Gateway for Claude and Cursor Users to Interact With Onchain Apps The tool allows users of AI interfaces, including […]",
+    "url": "https://news.bitcoin.com/base-launches-mcp-gateway-letting-claude-and-chatgpt-execute-onchain-defi-actions/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-26T21:05:58.000Z"
+  },
+  {
+    "id": "898ee9d7-027a-4237-be6b-beebd93c215b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+    "summary": "1. SpaceX’s recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company’s boosters and its critics.\n2. Hidden behind the fantastic expectations for AI enterprise profits and plans for a Moon base is a more grounded reality: […]",
+    "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-05-26T21:03:56.000Z"
+  },
+  {
+    "id": "70c9596d-3185-44d6-b320-bded0c7a80c6",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Mamdani promises housing ‘transformation’",
+    "summary": "1. Mamdani promises housing ‘transformation’",
+    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/26/mamdani-promises-housing-transformation-00936116",
+    "author": "By Janaki Chadha",
+    "created_at": "2026-05-26T21:01:51.000Z"
+  },
+  {
+    "id": "1b0cb389-52de-4276-b21b-ca78c26d6564",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "This Half-Gigabyte AI Model Runs Local Agents on Your Phone",
+    "summary": "1. OpenBMB's 1B-parameter model brings MCP support and agentic tool use to on-device AI—but it has trouble with logic traps.",
+    "url": "https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-05-26T20:59:20.000Z"
+  },
+  {
+    "id": "db79e370-a236-4463-8792-a5f583114829",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ripple Ledger proposes new AMM to boost DeFi capabilities",
+    "summary": "Ripple Ledger (XRPL) is proposing a new Automated Market Maker (AMM) system to enhance its DeFi capabilities, CoinDesk reported. A draft proposal outlines plans to add features like concentrated liquidity and StableSwap models to the existing XRPL AMM.The core of the proposal is to give liquidity providers (LPs) direct control over how their pools' prices are formed. The current XRPL AMM distributes liquidity uniformly across all price ranges, a method considered inefficient for assets like stablecoins. The concentrated liquidity model would allow LPs to focus capital within specific price bands where most trading occurs, increasing capital efficiency. The StableSwap model is optimized for trading assets with minimal price differences, such as dollar-pegged stablecoins and wrapped assets.Additionally, a fully programmable Smart AMM is planned for future development under a separate specification.",
+    "url": "https://t.me/CoinnessGL#ac585122",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T20:48:28+00:00"
+  },
+  {
+    "id": "e41378ad-1c8d-41a0-b37d-9341b22fdc36",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Based on the possible bad weather conditions tomorrow, we will be having our Cabinet Meeting in the White House, and will be postponing the Cabinet trip to Camp David.\n2. Thank you for your attention to this matter!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/38813",
+    "author": "Trump Truth",
+    "created_at": "2026-05-26T20:47:20.000Z"
+  },
+  {
+    "id": "52795c01-c51f-4928-ba4a-4af0124ff285",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Bitfinex-backed Stable launched StableEarn, a USDT yield product tied to real-world assets including US Treasurys and gold.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b55725a5",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-26T20:44:31+00:00"
+  },
+  {
+    "id": "42fa6d0d-3f79-4bef-bf80-fc9753b1ee46",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "DeFi TVL drops 14% since KelpDAO hack in April",
+    "summary": "Total Value Locked (TVL) in the decentralized finance (DeFi) sector has fallen by approximately 14% since the KelpDAO hack in April, The Block reported. The total TVL decreased from around $172 billion to $148 billion. The DeFi lending sector saw a notable decline during this period, dropping from approximately $53 billion to $40 billion.",
+    "url": "https://t.me/CoinnessGL#a2317b6b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T20:43:43+00:00"
+  },
+  {
+    "id": "579a0bfb-f3e9-4dea-b9e1-b491004e9fdd",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
+    "summary": "1. Crypto treasury firms Sharplink and Forward Industries will both be included in the Russell 2000 and 3000 indexes at the end of June.",
+    "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-05-26T20:40:44.000Z"
+  },
+  {
+    "id": "6763e82d-027e-4883-8beb-f17c17786fc9",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024.\n2. I know Byron well, have seen him tested at the highest and most difficult levels, and he is a TOTAL WINNER!\n3. Byron has a great wife, Erika, and three beautiful sons.",
+    "url": "https://trumpstruth.org/statuses/38812",
+    "author": "Trump Truth",
+    "created_at": "2026-05-26T20:37:52.000Z"
+  },
+  {
+    "id": "05d57650-3a30-450f-a041-5ea940ba9c44",
+    "source": "The Block",
+    "type": "rss",
+    "title": "DeFi TVL slides 14% since KelpDAO exploit as risk appetite retreats",
+    "summary": "1. DeFi outflows have deepened five weeks after the KelpDAO breach exposed new infrastructure risks.",
+    "url": "https://www.theblock.co/post/402641/defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats?utm_source=rss&utm_medium=rss",
+    "author": "Ivan Wu and Bryan Samsoedin",
+    "created_at": "2026-05-26T20:37:00.000Z"
+  },
+  {
+    "id": "9b791038-6013-47a7-b4ed-399aa6b03c44",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Arkham Flags Roswell, New Mexico’s 0.173 BTC Reserve in Viral Alien Meme Post",
+    "summary": "1. Crypto analytics platform Arkham Intelligence posted a satirical meme on Tuesday, spotlighting the City of Roswell, New Mexico’s onchain bitcoin holdings of 0.173 BTC, currently valued at a modest $13,000.\n2. City of Roswell, NM Sits on $13,000 in BTC as Arkham Tracks It Onchain The post, framed as a tongue-in-cheek joke tying the city’s famous […]",
+    "url": "https://news.bitcoin.com/arkham-flags-roswell-new-mexicos-0-173-btc-reserve-in-viral-alien-meme-post/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-26T20:30:49.000Z"
+  },
+  {
+    "id": "a5bf2970-8242-4f98-ae2c-c35237cb94fd",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "TeraWulf Acquires 1 GW Kentucky AI Data Center Site, Shares Jump 11%",
+    "summary": "1. Bitcoin Magazine\n\nTeraWulf Acquires 1 GW Kentucky AI Data Center Site, Shares Jump 11%\nTeraWulf Inc.\n2. acquired a 1 GW AI-focused data center site in Kentucky, advancing its pivot toward high-performance computing infrastructure and sending shares up 11% on strong investor response.\n3. This post TeraWulf Acquires 1 GW Kentucky AI Data Center Site, Shares Jump 11% first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/terawulf-acquires-1-gw-kentucky-ai-data",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-05-26T20:21:20.000Z"
+  },
+  {
+    "id": "49b74f5b-8734-483b-85a0-1fec5673d1e4",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🚨 Socket researchers have discovered Trapdoor, a supply chain attack infecting 34 developer packages across 384 versions to steal crypto wallets and private keys.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6d26f19c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-26T20:19:20+00:00"
+  },
+  {
+    "id": "afffbc21-025b-4468-994f-07f5d6f49542",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Dips Below $76,000 as Traders Dump Longs and Momentum Fades",
+    "summary": "1. On Tuesday morning, Bitcoin experienced a sharp $2,000 flash crash, tumbling below the $76,000 support level just three hours after peaking at $78,000.\n2. Military Clashes Derail Weekend Rally Bitcoin’s trademark volatility was triggered anew on Tuesday morning, as a violent flash crash erased $2,000 in value in a mere three-hour window.\n3. The number-one cryptocurrency tumbled […]",
+    "url": "https://news.bitcoin.com/bitcoin-dips-below-76000-as-traders-dump-longs-and-momentum-fades/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-26T20:01:24.000Z"
+  },
+  {
+    "id": "b2f58973-cf7a-4d0c-9e0d-f80a22f6ac5a",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US Space Force awards Elon Musk's SpaceX $2.29 billion contract to develop space-based military data network.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#fcde2061",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-26T20:00:52+00:00"
+  },
+  {
+    "id": "2041f64b-0c7d-4ca1-b7dd-de98aabd06ed",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Grand Theft Data: Threat Actors Weaponizing GTA 6 Hype, NordVPN Warns",
+    "summary": "1. Cybercriminals are weaponizing the hype surrounding Grand Theft Auto 6, flooding the internet with GTA phishing traps and malware.",
+    "url": "https://decrypt.co/369064/grand-theft-data-threat-actors-weaponizing-gta-6-hype-nordvpn-warns",
+    "author": "André Beganski",
+    "created_at": "2026-05-26T19:57:05.000Z"
+  },
+  {
+    "id": "bb6f92ae-4943-40cf-b81b-06200c719009",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡  Kelp DAO says rsETH has been fully restored, five weeks after its $293M protocol hack.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4ac01284",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-26T19:44:28+00:00"
+  },
+  {
     "id": "c668f6bc-d9c8-4feb-95a9-654eb19bb7d2",
     "source": "Trump Truth",
     "type": "rss",
@@ -70,6 +260,16 @@
     "created_at": "2026-05-26T18:57:13+00:00"
   },
   {
+    "id": "151d6273-7356-4dd3-a7ad-f5e1d7811289",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Vitalik just published Ethereum's quantum resistance roadmap and it might be the most important post-merge development nobody's discussing.",
+    "summary": "1. While everyone's been staring at BTC price action and ETF outflows, Vitalik dropped an actual technical roadmap for making.\n2. Ethereum quantum-resistant.\n3. I've read through it and the implications go way beyond ETH.",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1togj0j/vitalik_just_published_ethereums_quantum/",
+    "author": "u/ConsiderationFit2353",
+    "created_at": "2026-05-26T18:56:51.000Z"
+  },
+  {
     "id": "b8224a51-d33a-45a6-8676-e00ecf18f44f",
     "source": "The Block",
     "type": "rss",
@@ -80,7 +280,7 @@
     "created_at": "2026-05-26T18:50:01.000Z"
   },
   {
-    "id": "2e876816-91c9-4b0a-b252-ec91ebbcfb02",
+    "id": "c2a751a5-4f7b-46d8-bc16-ed9d15b7e70c",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Elon Musk says \"time to build a major base on the Moon.\"@WatcherGuru",
@@ -150,7 +350,7 @@
     "created_at": "2026-05-26T18:30:21.000Z"
   },
   {
-    "id": "d8e20994-318a-493b-ad63-45747348064d",
+    "id": "f95e8582-4fc2-43c2-9eb9-2ee959028c9c",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Micron $MU rises 20% in its biggest one-day gain since 2011, surpassing a $1 trillion market cap.@WatcherGuru",
@@ -228,6 +428,16 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#ee978a39",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-26T17:54:40+00:00"
+  },
+  {
+    "id": "121fced1-d1d5-4d67-ba36-92a5b087d326",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "~$440M of STRC is now sitting in DeFi protocols — and most MSTR holders haven't noticed where the secondary float is going",
+    "summary": "1. ~$440M of STRC is now sitting in DeFi protocols — and most MSTR holders haven't noticed where the secondary float is going",
+    "url": "https://reddit.com/r/ethereum/comments/1toen8p/440m_of_strc_is_now_sitting_in_defi_protocols_and/",
+    "author": "u/MadSL1m",
+    "created_at": "2026-05-26T17:54:06.000Z"
   },
   {
     "id": "366a999b-090d-433b-bb9c-d4827cbe3bd0",
@@ -350,7 +560,7 @@
     "created_at": "2026-05-26T16:00:00.000Z"
   },
   {
-    "id": "f6c508f5-0797-473e-9687-d1bc04503602",
+    "id": "f8983f06-f20d-45f9-acdc-e0a5748a37c6",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "EXPANDED GROUND OPERATION IN SOUTHERN LEBANON BEYOND THE YELLOW LINE TO 'REMOVE DIRECTS THREATS' TO CITIZENS AND TROOPS, ISRAELI MILITARY OFFICIAL SAYSTwitter",
@@ -358,25 +568,5 @@
     "url": "https://t.me/SolidIntelX#b1c4f649",
     "author": "@SolidIntelX",
     "created_at": "2026-05-26T15:34:33+00:00"
-  },
-  {
-    "id": "03b7d0b1-5e98-47ee-a48e-767dfb862b29",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US consumer confidence rises to 93.1 in May, beating 92.0 estimateTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#6a83af1a",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-26T14:01:43+00:00"
-  },
-  {
-    "id": "e8553339-8ae2-4590-97b2-af29136519ac",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Peter Schiff says Michael Saylor is “running out of cash” after Strategy’s $1.5B debt repurchase, asking what he will sell next to keep the wheels from falling offTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#fe5c124c",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-26T13:35:37+00:00"
   }
 ]
