@@ -1,5 +1,125 @@
 [
   {
+    "id": "4ccea746-e329-416e-a4ba-3d0e4575e93a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support",
+    "summary": "1. XRP lost a key support zone after another failed breakout attempt, with traders now watching whether the months-long compression pattern resolves lower.",
+    "url": "https://www.coindesk.com/markets/2026/05/26/xrp-slips-below-usd1-35-after-triangle-breakdown-puts-focus-on-usd1-30-support",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-26T05:08:57.000Z"
+  },
+  {
+    "id": "1997124a-7ea0-4bf8-a200-ad204b65af97",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC/USDT spot CVD chart for 5:00 a.m. UTC on May 26",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section displays a Volume Heatmap, while the bottom shows the Cumulative Volume Delta (CVD).- The Volume Heatmap at the top tracks trading volume at specific price levels. The background color brightens when the price lingers in a range or moves significantly, with these brighter areas potentially acting as support or resistance.- The CVD indicator at the bottom represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line indicates orders between $100 and $1,000, while the brown line represents large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#9e2b1de3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T05:08:43+00:00"
+  },
+  {
+    "id": "53fb529a-c044-4ab0-97e7-3629da20a4b0",
+    "source": "The Block",
+    "type": "rss",
+    "title": "OKX’s X Layer launches Exchange OS, allowing users to create custom crypto markets",
+    "summary": "1. Exchange OS moves core exchange functions, such as matching, margining, liquidation, and settlement, to the protocol layer.",
+    "url": "https://www.theblock.co/post/402505/okx-x-layer-exchange-os?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-26T05:03:38.000Z"
+  },
+  {
+    "id": "42578ef8-1860-4b6f-8dce-35fc4a26d38e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+    "summary": "1. ZEC and XMR dropped 5% in a session that saw most major tokens pull back after weeks of gains, with the move tracking renewed Middle East tension and a rebound in oil prices.",
+    "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-26T04:57:43.000Z"
+  },
+  {
+    "id": "031f5b5d-2e41-452a-886a-ce0ab04b5c97",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ondo Finance founder Nathan Allman dies aged 32",
+    "summary": "1. Ondo Finance says its founder, Nathan Allman, died unexpectedly, with company president Ian De Bode to serve as CEO.",
+    "url": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-26T04:45:04.000Z"
+  },
+  {
+    "id": "0b2a1d2c-1608-4237-8293-913c315eba70",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale opens $40.3M BTC short position on Hyperliquid",
+    "summary": "Onchain Lens reported that an anonymous trader, Evaded (@ICanPlug), has opened a 40x leveraged short position on Hyperliquid involving 525.3 BTC, valued at $40.26 million. The position's entry price is $76,474, with a liquidation price of $77,417. The same trader also opened a 5x leveraged long position on 53,500 ZEC ($33.30 million) two days ago.",
+    "url": "https://t.me/CoinnessGL#d9580152",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T04:36:00+00:00"
+  },
+  {
+    "id": "1cd96467-3a79-4b6f-b91c-5cb1cb3ed1c3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Binance Wallet Integrates Platform to Enable Onchain Trading of Real-World Outcomes",
+    "summary": "1. Binance unveils a platform that allows users to trade on real-world events using onchain event tokens settled in the stablecoin USDT.\n2. Bonding Curve Pricing Mechanism Binance Wallet has launched a new third‑party decentralized application that lets users trade blockchain‑based tokens tied to real‑world events, including sports results, crypto price levels and news outcomes.\n3. Known as […]",
+    "url": "https://news.bitcoin.com/binance-wallet-integrates-platform-to-enable-onchain-trading-of-real-world-outcomes/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-26T04:30:05.000Z"
+  },
+  {
+    "id": "2c7afc00-02ee-48a7-b42d-457efbd1cab1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin stalls near $76,500 as muted trading points to macro wait-and-see",
+    "summary": "1. Enflux says “the bid is there” but no one is adding size, while Glassnode data shows easing selling pressure alongside weaker market activity.",
+    "url": "https://www.coindesk.com/markets/2026/05/26/bitcoin-stalls-near-usd76-500-as-muted-trading-points-to-macro-wait-and-see",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-26T04:06:43.000Z"
+  },
+  {
+    "id": "91f36fd8-cc77-4617-8d91-bf8488fb65b4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Stable launches Morpho-based treasury management service",
+    "summary": "Stable (STABLE), a Layer 1 blockchain focused on the world's largest stablecoin USDT, launched a treasury management service called StableEarn today, Tech in Asia reported. The first vault is built on the decentralized lending protocol Morpho, with DeFi risk management project Gauntlet managing its asset allocation and risk parameters. The vault's strategy utilizes products from real-world asset tokenization platform Theo, including the U.S. Treasury bill token thBILL, the gold-backed yield-bearing token thGOLD, and the gold derivative-based stablecoin thUSD. The service is available to neobanks, fintech firms, payment providers, and individuals.",
+    "url": "https://t.me/CoinnessGL#214f9757",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T03:58:14+00:00"
+  },
+  {
+    "id": "5f6bac6a-8cf8-4b18-8e73-d18f1920f5b7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin 2026 Prediction Roundup: Saylor at $1M, Hayes at $125K, Brandt at $60K Low",
+    "summary": "1. Despite the bearish atmosphere at the start of 2026, bitcoin is still drawing price targets from nearly every corner of the market, with veteran traders, institutional analysts, and high-profile executives placing calls that range from a near-term drop to $40,000 to a long-term ceiling of $1.5 million.\n2. Market Observers Call Bitcoin Targets From $40K to […]",
+    "url": "https://news.bitcoin.com/bitcoin-2026-prediction-roundup-saylor-at-1m-hayes-at-125k-brandt-at-60k-low/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-26T03:30:56.000Z"
+  },
+  {
+    "id": "8288d40c-3c1a-4d10-98f6-d74cfa4c4022",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Kelp DAO says rsETH restored 5 weeks after $293M protocol hack ",
+    "summary": "1. Kelp DAO says that sETH mints, redemptions and rewards operations have been running smoothly since it opened withdrawals for the token earlier this month.",
+    "url": "https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-26T03:14:03.000Z"
+  },
+  {
+    "id": "967f5336-b1b6-4ceb-9f3e-5c85e5186045",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?",
+    "summary": "1. Bitcoin’s 8-month low volatility can’t predict BTC’s price prediction but derivatives data does suggest that a rally to $82,000 would cause a large short squeeze.",
+    "url": "https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-05-26T02:59:45.000Z"
+  },
+  {
     "id": "4d0ed5eb-4553-438c-ad39-b5eb4ec24fc2",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -170,83 +290,13 @@
     "created_at": "2026-05-25T23:21:14.000Z"
   },
   {
-    "id": "2f2b9478-90ed-4e0f-8174-2a7f8b8987e8",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "SITUATION IN BANDAR ABBAS IS UNDER CONTROL AND NO CAUSE FOR CONCERN FOLLOWING EXPLOSIONS EAST OF THE CITY - IRANIAN NEWS REPORTTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#3a33fa08",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-25T22:30:11+00:00"
-  },
-  {
-    "id": "9fe6f64b-6cae-4f3c-b232-b6dc427ed34e",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration",
-    "summary": "1. The Ethereum Foundation's Kohaku Initiative released an SDK enabling seamless integration of shielded pool protocols like Railgun, Tornado Cash, and Privacy Pools directly into wallet interfaces, with 4337 relaying now operational.",
-    "url": "https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-25T22:24:55.000Z"
-  },
-  {
-    "id": "316abecc-78b4-4f19-b47e-4a33365cb8a9",
+    "id": "3e8e80d2-d628-48c5-b101-6d2e8c58d361",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
-    "title": "📊 Bitcoin surpassed $77,000 as Polymarket odds of a US-Iran peace deal this month climbed, with Iranian negotiators in Doha for talks.",
+    "title": "🏦 Ledger added native support for ADI, giving holders of the UAE-linked institutional stablecoin network’s token direct self-custody access.",
     "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e742a130",
+    "url": "https://t.me/CoinMarketCapAnnouncements#72914617",
     "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-25T22:14:38+00:00"
-  },
-  {
-    "id": "398ceb06-fa77-4b24-a078-2856696b58f1",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin ETFs Lose $1.26B as XRP and HYPE Funds Attract Fresh Inflows",
-    "summary": "1. A bruising week for crypto ETFs saw a sharp shift in institutional sentiment, with bitcoin ETFs suffering more than $1.2 billion in outflows and ether products extending a prolonged losing streak.\n2. Yet beneath the weakness in the market’s largest assets, capital continued flowing into XRP, solana, and HYPE-linked products, signaling a growing appetite for alternative […]",
-    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-1-26b-as-xrp-and-hype-funds-attract-fresh-inflows/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-25T22:01:08.000Z"
-  },
-  {
-    "id": "e7860bdf-69d6-49a8-b547-384800011312",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "What happened in the last few hours: – Three explosions were heard in Bandar Abbas Airport from the East with smoke was seen rising.",
-    "summary": "Air defenses were activated- US-Israeli strikes targeted Iranian vessels (Two IRGC Navy speedboats) in the Strait of Hormuz- News of airstrikes or fires on Kharg Island is fake; oil refineries routinely show up on NASA heatmaps- Trump said enriched uranium must be immediately turned over to the US for destruction Twitter",
-    "url": "https://t.me/SolidIntelX#5b713e97",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-25T21:59:36+00:00"
-  },
-  {
-    "id": "9190d3ec-02b4-4523-861f-c42668144367",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US-ISRAELI STRIKES TARGET IRAN VESSELS IN HORMUZ STRAITTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#0d432651",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-25T21:43:31+00:00"
-  },
-  {
-    "id": "b816f897-fe25-41c2-90bb-776efea7f7ab",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 A key Bitcoin demand metric has fallen to its lowest level of 2026, raising the risk of a drop toward $72,000.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2c0851b1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-25T21:34:12+00:00"
-  },
-  {
-    "id": "94be8f5a-b69c-4e09-abb7-e484fbdccb93",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 NEAR Protocol surged 90% in 30 days, fueled by NEAR Intents crossing $19 billion in cumulative volume and $32 million in fees.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c72b0398",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-25T20:44:27+00:00"
+    "created_at": "2026-05-25T23:14:16+00:00"
   }
 ]
