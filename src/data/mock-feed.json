@@ -1,5 +1,155 @@
 [
   {
+    "id": "3cd94f1c-392c-4cce-ae31-484b113d9164",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Altcoin Season Index rises to 36",
+    "summary": "CoinMarketCap's Altcoin Season Index has risen three points from yesterday to 36. The index measures whether altcoins are outperforming Bitcoin. It is considered an \"altcoin season\" when 75% of the top 100 cryptocurrencies by market capitalization, excluding stablecoins and wrapped coins, have performed better than Bitcoin over the past 90 days. A score closer to 100 indicates a stronger altcoin season.",
+    "url": "https://t.me/CoinnessGL#79394b28",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T00:34:52+00:00"
+  },
+  {
+    "id": "547f415e-6a23-4c1b-879d-3893acd0e772",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trapdoor Malware: The Massive Supply Chain Attack Targeting Crypto Developers",
+    "summary": "1. Investigators at Soclet have discovered a new supply attack targeting crypto developers using npm, PyPI, and Crates.io packages.\n2. The campaign, dubbed Trapdoor, focuses on stealing crypto wallet keys and other secrets from developers in the crypto space.\n3. Supply Chain Attack Scheme Trapdoor Targets Developers For Maximum Performance While some malware campaigns target everyday crypto users, […]",
+    "url": "https://news.bitcoin.com/trapdoor-malware-the-massive-supply-chain-attack-targeting-crypto-developers/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-26T00:30:48.000Z"
+  },
+  {
+    "id": "ef9709cc-bbc5-4c06-93ee-34cf252f6c8f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Parataxis Ethereum purchases additional 310 ETH",
+    "summary": "KOSDAQ-listed company Parataxis Ethereum purchased an additional 310 ETH on May 22, Edaily reported. The acquisition increases its total holdings from 8,691 ETH to 9,001 ETH, making it the largest publicly traded holder of Ethereum in Asia. more:",
+    "url": "https://t.me/CoinnessGL#5bde79cd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T00:28:23+00:00"
+  },
+  {
+    "id": "b38057c6-470d-4c24-a395-a9e1c4f8ed99",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ESPORTS dumping address sells another $1.5M in tokens",
+    "summary": "The address responsible for causing a more than 90% crash in the ESPORTS token has sold an additional 35.13 million ESPORTS, worth $1.5 million, over the past three hours, according to an analysis by Lookonchain. The on-chain analytics firm added that the sell-off is ongoing and that the address had previously dumped 22.73 million ESPORTS for approximately $987,000. Lookonchain raised suspicions of a rug pull following the token dump and subsequent price collapse, which began yesterday evening. In response, ESPORTS token issuer Yuldo Games stated that it is investigating the cause and details of the crash and will announce its findings upon completion. According to CoinMarketCap, ESPORTS is currently trading at $0.04277, down 93.85% over the past 24 hours. more:",
+    "url": "https://t.me/CoinnessGL#fa715232",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T00:23:15+00:00"
+  },
+  {
+    "id": "e7c39ec1-a8e4-40b7-884c-8caa7cc44757",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+    "summary": "1. Bitcoin’s weekend bounce shows strong demand at lower levels, but holding $78,000 may remain a challenge for the bulls.",
+    "url": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Rakesh Upadhyay",
+    "created_at": "2026-05-25T23:34:12.000Z"
+  },
+  {
+    "id": "fe217f31-0b75-45ac-a43f-0f0c99990583",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Whale Who Spent $62M on Uniswap and Compound Tokens Is Now Selling at a $39.7M Loss",
+    "summary": "1. A crypto whale who accumulated $62.83 million worth of Uniswap and Compound governance tokens in July 2025 has begun selling at sharply reduced prices, with losses exceeding $39.7 million and roughly half the original position still to be offloaded.\n2. A $62 Million Bet That Went Wrong In July 2025, a wallet identified as 0xfa93 made […]",
+    "url": "https://news.bitcoin.com/uniswap-compound-whale-39m-loss-capitulation-may-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-25T23:21:14.000Z"
+  },
+  {
+    "id": "a97b1533-511a-4780-9f42-d8c76f3491dd",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "SITUATION IN BANDAR ABBAS IS UNDER CONTROL AND NO CAUSE FOR CONCERN FOLLOWING EXPLOSIONS EAST OF THE CITY - IRANIAN NEWS REPORTTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#3a33fa08",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-25T22:30:11+00:00"
+  },
+  {
+    "id": "9fe6f64b-6cae-4f3c-b232-b6dc427ed34e",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration",
+    "summary": "1. The Ethereum Foundation's Kohaku Initiative released an SDK enabling seamless integration of shielded pool protocols like Railgun, Tornado Cash, and Privacy Pools directly into wallet interfaces, with 4337 relaying now operational.",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-25T22:24:55.000Z"
+  },
+  {
+    "id": "41fdc88b-9fd2-419a-a08a-d0eee6cfb283",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitcoin surpassed $77,000 as Polymarket odds of a US-Iran peace deal this month climbed, with Iranian negotiators in Doha for talks.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e742a130",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-25T22:14:38+00:00"
+  },
+  {
+    "id": "398ceb06-fa77-4b24-a078-2856696b58f1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin ETFs Lose $1.26B as XRP and HYPE Funds Attract Fresh Inflows",
+    "summary": "1. A bruising week for crypto ETFs saw a sharp shift in institutional sentiment, with bitcoin ETFs suffering more than $1.2 billion in outflows and ether products extending a prolonged losing streak.\n2. Yet beneath the weakness in the market’s largest assets, capital continued flowing into XRP, solana, and HYPE-linked products, signaling a growing appetite for alternative […]",
+    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-1-26b-as-xrp-and-hype-funds-attract-fresh-inflows/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-05-25T22:01:08.000Z"
+  },
+  {
+    "id": "54b9b230-97fe-4b47-b39b-357398050445",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "What happened in the last few hours: – Three explosions were heard in Bandar Abbas Airport from the East with smoke was seen rising.",
+    "summary": "Air defenses were activated- US-Israeli strikes targeted Iranian vessels (Two IRGC Navy speedboats) in the Strait of Hormuz- News of airstrikes or fires on Kharg Island is fake; oil refineries routinely show up on NASA heatmaps- Trump said enriched uranium must be immediately turned over to the US for destruction Twitter",
+    "url": "https://t.me/SolidIntelX#5b713e97",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-25T21:59:36+00:00"
+  },
+  {
+    "id": "05ae4007-ea30-40ed-91b0-40f6b3d5698b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US-ISRAELI STRIKES TARGET IRAN VESSELS IN HORMUZ STRAITTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#0d432651",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-25T21:43:31+00:00"
+  },
+  {
+    "id": "e1f4a2db-d97c-43dd-91a7-11fe1e80e0ba",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 A key Bitcoin demand metric has fallen to its lowest level of 2026, raising the risk of a drop toward $72,000.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2c0851b1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-25T21:34:12+00:00"
+  },
+  {
+    "id": "5defa18a-4426-4cec-bdb7-0794ce2afa4b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 NEAR Protocol surged 90% in 30 days, fueled by NEAR Intents crossing $19 billion in cumulative volume and $32 million in fees.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c72b0398",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-25T20:44:27+00:00"
+  },
+  {
+    "id": "7cb4e73e-d65d-47eb-aad1-1d15988d6dce",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges",
+    "summary": "1. Whales withdrew $170 million in XRP from Binance as the price holds a key $1.35-$1.40 accumulation and support zone.",
+    "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nancy Lubale",
+    "created_at": "2026-05-25T20:30:46.000Z"
+  },
+  {
     "id": "bf1b24d0-d1a2-4bae-a65c-3899936142d0",
     "source": "Decrypt",
     "type": "rss",
@@ -68,205 +218,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#e38004bf",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-25T18:49:22+00:00"
-  },
-  {
-    "id": "56394e4f-2992-45ed-b564-25649a3163a7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
-    "summary": "1. The integration gives ADI token holders access to Ledger’s self-custody platform as ADI Chain expands its stablecoin and tokenized asset network.",
-    "url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-05-25T18:29:58.000Z"
-  },
-  {
-    "id": "01882b57-c398-42de-aca5-b453241b6994",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇮🇩 Indonesia has blocked Polymarket over online gambling laws, joining Brazil and Argentina in restricting the prediction market platform.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#6cfd2fb7",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-25T18:09:15+00:00"
-  },
-  {
-    "id": "8a8a6c71-5110-4003-aa0f-f47d0f5beb8b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Iran Diplomats Push Peace Talks in Doha as Bitcoin Holds $77,700 and Oil Drops 6%",
-    "summary": "1. Iranian diplomats landed in Doha, Qatar, on Monday, for high-level talks with U.S.\n2. counterparts aimed at building a peace framework, sending oil prices lower and pushing risk assets including bitcoin higher.\n3. Iran and U.S.",
-    "url": "https://news.bitcoin.com/iran-diplomats-push-peace-talks-in-doha-as-bitcoin-holds-77700-and-oil-drops-6/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-25T18:06:30.000Z"
-  },
-  {
-    "id": "90fdcb20-fc00-4ca8-9706-671614fe126a",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin",
-    "summary": "1. Tether plans to issue a stablecoin in Georgia with support from the country’s government, marking a new frontier for the crypto giant.",
-    "url": "https://decrypt.co/368961/central-bank-georgia-tether-stablecoin",
-    "author": "André Beganski",
-    "created_at": "2026-05-25T18:06:03.000Z"
-  },
-  {
-    "id": "caacffdf-7055-426d-8389-402c3fcd9585",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers",
-    "summary": "1. The crypto-aligned Protect Progress PAC reported spending another $750,000 on media for a Democratic candidate over Representative Al Green, whom it described as “actively hostile” to digital assets.",
-    "url": "https://cointelegraph.com/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-25T17:57:00.000Z"
-  },
-  {
-    "id": "c901b7c9-834b-40c4-8748-ca7b9c027345",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "This channel delivers thanks to readers like youA simple Boost helps us grow and...",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#53035c2d",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-25T17:52:01+00:00"
-  },
-  {
-    "id": "519e06c3-4afd-4094-b5db-7b13fc94be14",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "NEAR rallies on success of cross-chain feature, analysis shows",
-    "summary": "Near Protocol (NEAR) is rallying on the success of its cross-chain trading system, NEAR Intents, CoinDesk reported. The outlet noted that NEAR Intents, which allows users to swap cryptocurrencies on the Ethereum (ETH) network for assets on other chains, has generated a cumulative trading volume of $19 billion and $32 million in fees. Additionally, institutional demand is growing, with assets under management for the Europe-listed Bitwise NEAR Staking ETP increasing to around $40 million. Investors are also watching for the introduction of dynamic resharding, an update scheduled for this June that is expected to improve scalability.",
-    "url": "https://t.me/CoinnessGL#f3fbd941",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-25T17:46:59+00:00"
-  },
-  {
-    "id": "754a82d5-9d77-4ac2-b7a2-1a00df7c43c8",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Ethereum's ETH Gains in Line with Market Following Vitalik Buterin's EF Vision Post",
-    "summary": "1. Ethereum co-founder Vitalik Buterin outlined a leaner, more focused future for the Ethereum Foundation (EF).",
-    "url": "https://thedefiant.io/news/blockchains/ethereum-s-eth-gains-in-line-with-market-following-vitalik-buterin-s-ef-vision-post",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-25T17:42:59.000Z"
-  },
-  {
-    "id": "13d44d7f-cecc-460a-8a6a-539392625692",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump",
-    "summary": "1. The rally is fueled by NEAR Intents, the cross-chain system that has processed over $19 billion in volume and generated $32 million in fees.",
-    "url": "https://www.coindesk.com/markets/2026/05/25/near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15-jump",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-05-25T17:38:39.000Z"
-  },
-  {
-    "id": "5b5da663-75b9-4fc4-b34d-0aa8df36c862",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "WTI crude oil falls below $90 a barrel for first time since May 7",
-    "summary": "WTI crude oil has fallen below $90 per barrel for the first time since May 7.",
-    "url": "https://t.me/CoinnessGL#85ee6bb2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-25T17:28:26+00:00"
-  },
-  {
-    "id": "3c153428-69bb-4ac8-a407-4aeb8f7bd83a",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Israel discussing plans with the US to expand military operations in Lebanon, according to Israeli media reports.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#fd080481",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-25T17:22:24+00:00"
-  },
-  {
-    "id": "186583c2-3f67-4a1a-a7b5-6cc218e5d3e1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US, Iran extend ceasefire by 60 days, reopening Strait of Hormuz to shipping",
-    "summary": "The ceasefire agreement between the U.S. and Iran, first reached in early April, has been extended for another 60 days, Nikkei reported. The extension allows ships from all nations to resume free and safe passage through the Strait of Hormuz.",
-    "url": "https://t.me/CoinnessGL#3677a2e2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-25T17:09:33+00:00"
-  },
-  {
-    "id": "cc8f682c-6978-4c8a-a100-a652399f8e37",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "CEASEFIRE AGREED ON BY THE U.S.",
-    "summary": "AND IRAN IN EARLY APRIL WOULD BE EXTENDED FOR 60 DAYS Twitter",
-    "url": "https://t.me/SolidIntelX#3737e74a",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-25T17:08:50+00:00"
-  },
-  {
-    "id": "9246d445-9ad5-4204-869b-4bc86e939de1",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
-    "summary": "1. Authorities stated that using crypto or blockchain doesn't change platforms that let users wager on uncertain outcomes from being gambling products.",
-    "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-05-25T17:04:49.000Z"
-  },
-  {
-    "id": "650b0e81-b0b1-4f00-a5a7-1d2ad8e3882c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
-    "summary": "1. Iranian negotiators arrived in Doha for talks, focusing on the Strait of Hormuz and highly enriched uranium, as Pakistan and Qatar are mediating.",
-    "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-05-25T16:46:45.000Z"
-  },
-  {
-    "id": "0e3d0600-d6f6-4308-855b-51466ccc851e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "What ClickUp’s mass layoff tells us about the future of work",
-    "summary": "1. The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-    "author": "Marina Temkin",
-    "created_at": "2026-05-25T16:00:00.000Z"
-  },
-  {
-    "id": "0d2451c6-f097-4165-8e19-e78de56546c3",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CoinQuant introduces trading infrastructure for the agent economy",
-    "summary": "1. CoinQuant, the AI-powered no-code trading platform that has attracted over 15,000 users since launch, today announces its expansion into a unified trading intelligence architecture built for both human traders and autonomous AI agents.",
-    "url": "https://cointelegraph.com/press-releases/coinquant-introduces-trading-infrastructure-for-the-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Advertorial",
-    "created_at": "2026-05-25T15:39:11.000Z"
-  },
-  {
-    "id": "538195b2-4652-45f8-b3fd-eb0019a18b17",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Pope Leo XIV calls for AI to be \"disarmed.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#ed5029ec",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-25T15:13:20+00:00"
-  },
-  {
-    "id": "7458a169-0565-4fcb-96d5-ed3a94b96508",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The pope’s AI encyclical isn’t really about AI",
-    "summary": "1. Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
-    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-05-25T15:09:41.000Z"
-  },
-  {
-    "id": "35e4d5f9-5413-4211-8fdc-fd0ff723613f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-    "summary": "1. Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done.\n2. And he shared several secrets on how he did it.",
-    "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-    "author": "Julie Bort",
-    "created_at": "2026-05-25T15:00:00.000Z"
   }
 ]
