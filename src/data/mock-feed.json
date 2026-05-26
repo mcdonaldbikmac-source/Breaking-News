@@ -1,5 +1,105 @@
 [
   {
+    "id": "4d0ed5eb-4553-438c-ad39-b5eb4ec24fc2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Seizure Links Chinese National’s Binance Account to DOJ Case",
+    "summary": "1. Federal prosecutors are seeking forfeiture of bitcoin tied to a synthetic drug importation case involving Binance records, blockchain tracing, and cooperation with Chinese authorities.\n2. Investigators said the seized cryptocurrency was linked to accounts and payments connected to alleged drug shipments routed through Georgia.\n3. Bitcoin Seizure Anchors Savannah Drug Forfeiture Case The U.S.",
+    "url": "https://news.bitcoin.com/bitcoin-seizure-links-chinese-nationals-binance-account-to-doj-case/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-26T02:30:53.000Z"
+  },
+  {
+    "id": "1fd8e224-dc9f-4b36-8d40-10b9188b243f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analysis: BTC short squeeze risk grows as bearish bets overheat",
+    "summary": "Bitcoin's implied volatility has dropped to its lowest level in eight months, but an overheating of bearish sentiment in derivatives markets is increasing the potential for a short squeeze, according to an analysis by Cointelegraph.BTC's implied volatility is currently around 36%. The decline in volatility has been attributed to easing market anxiety as Bitcoin has maintained the $60,000 level as a key support line. The media outlet noted that volatility has rarely remained below 35% for extended periods, and historically, significant price movements have often followed such lulls.The analysis highlights that short positions are now heavily concentrated in the $78,000 to $83,000 range. It suggests that traders may have become overconfident in their bearish bets, as BTC has remained below $90,000 for approximately four months. This sentiment is reflected in the options market, where put options are trading at a 14% premium over call options, indicating that professional investors are leaning toward a price decline.Given this market structure, the report concludes that if BTC were to break through the $82,000 resistance level, it could trigger a more powerful short squeeze.",
+    "url": "https://t.me/CoinnessGL#ae32d4d3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T02:30:07+00:00"
+  },
+  {
+    "id": "66e6c70e-e1c0-4bad-b2d0-8409fdaa76a3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "OKX launches 'Exchange OS' to support market creation on X Layer",
+    "summary": "Cryptocurrency exchange OKX, which has Chinese roots, announced the launch of Exchange OS, a major protocol upgrade on its proprietary Ethereum (ETH) Layer 2 blockchain, X Layer. The new protocol allows developers, institutions, and ecosystem participants to leverage OKX's institutional-grade infrastructure to build three types of markets on X Layer: spot, perpetual futures, and prediction markets. As its first use case, OKX plans to launch a simulation-based 2026 World Cup Prediction Market in June, which will be deployed directly on Exchange OS.",
+    "url": "https://t.me/CoinnessGL#4f530fed",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T02:20:09+00:00"
+  },
+  {
+    "id": "3646d27b-4584-4710-88d7-5b5b0ea1ce8d",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. attorney in Miami sends ‘message’ to deep state with indictment against ex-prosecutor",
+    "url": "https://trumpstruth.org/statuses/38787",
+    "author": "Trump Truth",
+    "created_at": "2026-05-26T02:14:24.000Z"
+  },
+  {
+    "id": "69c6ce0c-4afc-4a34-a9b4-4d14741c802d",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Exclusive: Key Biden DOJ official raised red flags about FBI’s Mar-a-Lago raid, memo shows:",
+    "url": "https://trumpstruth.org/statuses/38788",
+    "author": "Trump Truth",
+    "created_at": "2026-05-26T02:13:02.000Z"
+  },
+  {
+    "id": "958ad7ea-ba8e-4c37-9541-cf0caa6782ad",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ethereum Foundation releases SDK to help integrate privacy protocols into wallets",
+    "summary": "The Ethereum Foundation's privacy initiative, Kohaku, has released a software development kit (SDK) to help integrate privacy protocols directly into Ethereum wallets without intermediaries, The Defiant reported. The tool allows users to incorporate protocols such as Railgun, Tornado Cash, and Privacy Pools. Kohaku has launched a version that currently enables Railgun integration and supports a 4337 mempool relay for private transactions. Integration for Tornado Cash and Privacy Pools is reportedly under development. The Ethereum Foundation announced the launch of Kohaku last year as an open-source privacy initiative to enhance privacy and security within the ecosystem. more:",
+    "url": "https://t.me/CoinnessGL#8a1d4618",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-26T02:02:02+00:00"
+  },
+  {
+    "id": "a642c314-212d-4553-a48f-9c535dbe68f4",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Nathan Allman, founder and CEO of Ondo Finance, dies unexpectedly",
+    "summary": "1. Ian De Bode, president of Ondo Finance, will assume the role of CEO, the company said in a statement on Monday.",
+    "url": "https://www.theblock.co/post/402500/nathan-allman-ondo-finance?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-26T01:55:58.000Z"
+  },
+  {
+    "id": "9f941ab4-353d-4ef0-96c1-ed9443dfdc5f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin holds $77K as stocks rally, global tensions cool: Are BTC bulls back?",
+    "summary": "1. Data suggests that Bitcoin may be gearing up for a rally to $82,000.\n2. Will bulls seize the opportunity?",
+    "url": "https://cointelegraph.com/markets/bitcoin-holds-77k-as-stocks-rally-global-tensions-cool-are-btc-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-05-26T01:31:39.000Z"
+  },
+  {
+    "id": "a00c9c31-557e-4284-b525-03ca61637962",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Robert Kiyosaki Links Iran Yuan Oil Move to US Dollar ‘Death’ Warning",
+    "summary": "1. Robert Kiyosaki warned that Iran’s yuan-based oil payments could intensify pressure on the U.S.\n2. His comments cited Ray Dalio’s petrodollar analysis and reports involving Strait of Hormuz traffic.\n3. Kiyosaki Predicts Dollar Pressure From Yuan Oil Trade Robert Kiyosaki raised a stark warning about the U.S.",
+    "url": "https://news.bitcoin.com/robert-kiyosaki-links-iran-yuan-oil-move-to-us-dollar-death-warning/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-26T01:30:38.000Z"
+  },
+  {
+    "id": "eb302aba-89ab-4749-93d3-c62bca51181d",
+    "source": "r/cryptocurrency",
+    "type": "reddit",
+    "title": "Kraken Delists $MOON as Reddit Token Era Ends",
+    "summary": "1. Kraken Delists $MOON as Reddit Token Era Ends",
+    "url": "https://reddit.com/r/CryptoCurrency/comments/1tnrv22/kraken_delists_moon_as_reddit_token_era_ends/",
+    "author": "u/GreedVault",
+    "created_at": "2026-05-26T01:13:25.000Z"
+  },
+  {
     "id": "3cd94f1c-392c-4cce-ae31-484b113d9164",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -40,6 +140,16 @@
     "created_at": "2026-05-26T00:23:15+00:00"
   },
   {
+    "id": "cbb3307e-55bf-4431-ac52-e07456d5781f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next?",
+    "summary": "1. Bitcoin reclaimed $77,000 despite rising exchange supply and spot BTC ETF outflows.\n2. Will bulls push BTC to $80,000 this week?",
+    "url": "https://cointelegraph.com/markets/bitcoin-retests-77k-despite-mounting-btc-supply-is-80k-possible-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-05-26T00:10:24.000Z"
+  },
+  {
     "id": "e7c39ec1-a8e4-40b7-884c-8caa7cc44757",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -60,7 +170,7 @@
     "created_at": "2026-05-25T23:21:14.000Z"
   },
   {
-    "id": "a97b1533-511a-4780-9f42-d8c76f3491dd",
+    "id": "2f2b9478-90ed-4e0f-8174-2a7f8b8987e8",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "SITUATION IN BANDAR ABBAS IS UNDER CONTROL AND NO CAUSE FOR CONCERN FOLLOWING EXPLOSIONS EAST OF THE CITY - IRANIAN NEWS REPORTTwitter",
@@ -80,7 +190,7 @@
     "created_at": "2026-05-25T22:24:55.000Z"
   },
   {
-    "id": "41fdc88b-9fd2-419a-a08a-d0eee6cfb283",
+    "id": "316abecc-78b4-4f19-b47e-4a33365cb8a9",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Bitcoin surpassed $77,000 as Polymarket odds of a US-Iran peace deal this month climbed, with Iranian negotiators in Doha for talks.",
@@ -100,7 +210,7 @@
     "created_at": "2026-05-25T22:01:08.000Z"
   },
   {
-    "id": "54b9b230-97fe-4b47-b39b-357398050445",
+    "id": "e7860bdf-69d6-49a8-b547-384800011312",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "What happened in the last few hours: – Three explosions were heard in Bandar Abbas Airport from the East with smoke was seen rising.",
@@ -110,7 +220,7 @@
     "created_at": "2026-05-25T21:59:36+00:00"
   },
   {
-    "id": "05ae4007-ea30-40ed-91b0-40f6b3d5698b",
+    "id": "9190d3ec-02b4-4523-861f-c42668144367",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US-ISRAELI STRIKES TARGET IRAN VESSELS IN HORMUZ STRAITTwitter",
@@ -120,7 +230,7 @@
     "created_at": "2026-05-25T21:43:31+00:00"
   },
   {
-    "id": "e1f4a2db-d97c-43dd-91a7-11fe1e80e0ba",
+    "id": "b816f897-fe25-41c2-90bb-776efea7f7ab",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 A key Bitcoin demand metric has fallen to its lowest level of 2026, raising the risk of a drop toward $72,000.",
@@ -130,7 +240,7 @@
     "created_at": "2026-05-25T21:34:12+00:00"
   },
   {
-    "id": "5defa18a-4426-4cec-bdb7-0794ce2afa4b",
+    "id": "94be8f5a-b69c-4e09-abb7-e484fbdccb93",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📈 NEAR Protocol surged 90% in 30 days, fueled by NEAR Intents crossing $19 billion in cumulative volume and $32 million in fees.",
@@ -138,85 +248,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#c72b0398",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-25T20:44:27+00:00"
-  },
-  {
-    "id": "7cb4e73e-d65d-47eb-aad1-1d15988d6dce",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges",
-    "summary": "1. Whales withdrew $170 million in XRP from Binance as the price holds a key $1.35-$1.40 accumulation and support zone.",
-    "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nancy Lubale",
-    "created_at": "2026-05-25T20:30:46.000Z"
-  },
-  {
-    "id": "bf1b24d0-d1a2-4bae-a65c-3899936142d0",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
-    "summary": "1. The Ethereum-buying firm owns 3.8% of the digital asset’s supply.",
-    "url": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
-    "author": "André Beganski",
-    "created_at": "2026-05-25T20:06:04.000Z"
-  },
-  {
-    "id": "57782814-b0dc-42f0-a559-1b6c8a81dbb4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Pope Leo XIV Condemns Sacrificing Jobs for AI Profits in Landmark Encyclical",
-    "summary": "1. The letters examine the growing influence of artificial intelligence (AI) on today’s and future human lives and call to remain “profoundly human.” Leo XIV acknowledges that AI changes the current Social Doctrine and calls for protecting jobs and the role of work in the economy.\n2. Pope Leo XIV Issues First AI Encyclical Letter: Humanity Must […]",
-    "url": "https://news.bitcoin.com/pope-leo-xiv-condemns-sacrificing-jobs-for-ai-profits-in-landmark-encyclical/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-25T20:05:07.000Z"
-  },
-  {
-    "id": "7640d75b-ac8c-461c-a39f-323ae9da29eb",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Binance Wallet has launched Event Rush, letting users trade real-world event outcomes as tokens on BNB Chain.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#40e01d69",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-25T19:29:18+00:00"
-  },
-  {
-    "id": "43b1e85b-ca26-4f07-8643-ad1a8110ab01",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Holds $77,500 After Late Surge Adds 1.2% to $1.55 Trillion Market",
-    "summary": "1. Bitcoin climbed to an intraday high of $77,831 on May 25, buoyed by growing investor optimism that ongoing Middle East peace negotiations could ease geopolitical tensions and support risk appetite.\n2. Bitcoin Navigates Volatile Weekend to Peak Near $78K Bitcoin climbed steadily on May 25, peaking at $77,831 from just above $76,500 a day earlier.",
-    "url": "https://news.bitcoin.com/bitcoin-holds-77500-after-late-surge-adds-1-2-to-1-55-trillion-market/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-25T19:07:41.000Z"
-  },
-  {
-    "id": "736edf74-30cb-42fa-beed-65cb168ad05c",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen",
-    "summary": "1. George Hotz spent six months testing agents on real projects and came away convinced they're creating an avalanche of undetectable slop—and that large organizations won't realize it until it's too late.",
-    "url": "https://decrypt.co/368964/george-hotz-vibe-coding-ai-slop-warning",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-05-25T19:06:04.000Z"
-  },
-  {
-    "id": "fd6d9abb-f7c6-40a2-8fc8-6b083f6bcf53",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Tokenized Stocks Emerge as Fastest-Growing Asset Class on Ethereum",
-    "summary": "1. Token Terminal reports that tokenized stocks have become the leading category of tokenized assets on Ethereum, with xStocks and Ondo Finance leading the sector.",
-    "url": "https://thedefiant.io/converge/defi/tokenized-stocks-fastest-growing-ethereum-assets-tim56f",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-25T19:02:30.000Z"
-  },
-  {
-    "id": "0914dbe1-0952-401d-9a03-d748c78e01b3",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ MoonPay launched a ChatGPT app that lets users buy Bitcoin, XRP, Solana and other digital assets through generated checkout links.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e38004bf",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-25T18:49:22+00:00"
   }
 ]
