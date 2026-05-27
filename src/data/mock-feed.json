@@ -1,5 +1,275 @@
 [
   {
+    "id": "18a11e59-db2b-414b-a663-e8450bc1d5fd",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Rep. Chip Roy loses runoff for Texas attorney general to a MAGA challenger",
+    "summary": "1. Mayes Middleton won after casting Roy as insufficiently loyal to the president.",
+    "url": "https://www.politico.com/news/2026/05/26/chip-roy-loses-texas-attorney-general-runoff-00937472",
+    "author": "By Liz Crampton",
+    "created_at": "2026-05-27T01:58:47.000Z"
+  },
+  {
+    "id": "b8e17bf1-1957-4b1b-be83-054d8489715f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale nets $2.5M profit from HYPE sale after 1.5-month hold",
+    "summary": "According to Onchain Lens, a whale address beginning with '0x96e' sold 123,127 HYPE at an average price of $61, swapping the tokens for approximately 7.5 million USDC. The address had held the HYPE for about one and a half months, realizing a profit of around $2.5 million from the sale. The whale had previously acquired the HYPE for approximately $5 million.",
+    "url": "https://t.me/CoinnessGL#8283555e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-27T01:57:26+00:00"
+  },
+  {
+    "id": "71153dd8-d961-468a-a104-fc7b8880b173",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale buys $5M in ETH, sets limit sell order",
+    "summary": "An anonymous whale address starting with 0x54d purchased 2,400.38 ETH, worth $5 million, nine hours ago at an average price of $2,083, according to on-chain analyst ai_9684xtpa. The analyst noted that the whale has since placed a limit sell order at $2,132. If filled, this would result in a profit of approximately $117,000. The analyst added that the address has been swing trading with a capital of around $10 million.",
+    "url": "https://t.me/CoinnessGL#2e2eccca",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-27T01:56:42+00:00"
+  },
+  {
+    "id": "76c29a1c-9502-4ac4-a8e6-ba3eadbbe9bc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Jeffrey Huang adds to 25x ETH long position on Hyperliquid",
+    "summary": "Jeffrey Huang, a well-known Taiwanese singer also known as Machi Big Brother, has deposited an additional 287,913 USDC on Hyperliquid to add to his 25x ETH long position, Onchain Lens reported. His total position is now 6,325 ETH, valued at $13.11 million, with an average entry price of $2,095.6 and a liquidation price of $2,034.6.",
+    "url": "https://t.me/CoinnessGL#fcc964cd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-27T01:38:17+00:00"
+  },
+  {
+    "id": "48370226-4ca9-4b73-b1d1-dd8d1049fdb7",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.152",
+    "summary": "1. ## What's changed\n\n- `/code-review --fix` now applies review findings to your working tree after the review, surfacing reuse, simplification, and efficiency suggestions; `/simplify` now invokes `/code-review --fix`\n- Skills and slash commands can now set `disallowed-tools` in frontmatter to remove tools from the model while the skill is active\n- Added `/reload-skills` command to re-scan skill directories without restarting the session\n- `SessionStart` hooks can now return `reloadSkills: true` to re-scan skill directories, making skills installed by the hook available in the same session\n- `SessionStart` hooks can now set the session title via `hookSpecificOutput.sessionTitle` on startup and resume\n- Added a `MessageDisplay` hook event that lets hooks transform or hide assistant message text as it is displayed\n- Added `pluginSuggestionMarketplaces` managed setting: admins can allowlist org marketplaces whose plugins may be suggested via context-aware tips\n- `claude plugin marketplace remove` now accepts `--scope user|project|local` for symmetry with `marketplace add`, `install`, and `uninstall`\n- Claude Code now switches to your configured `--fallback-model` for the rest of the session when the primary model is not found, instead of failing every request\n- Auto mode no longer requires opt-in consent\n- Vim mode: `/` in NORMAL mode now opens reverse history search (like Ctrl+R), matching bash/zsh vi-mode\n- The `/usage` breakdown now includes large session files; files are scanned with a streaming read so memory usage stays flat\n- Thinking summaries in the collapsed group now stay readable for at least 3 seconds, render as markdown, and cap at 10 lines (`Ctrl+O` shows the full thinking)\n- In fullscreen mode, the \"Thinking for Ns\" indicator now counts up live while the model is thinking, and keeps its value if you interrupt mid-thought\n- Simplified the Workflow tool's inline progress display — live agent counts now show only in the persistent workflow status row below the prompt\n- The post-response timer now shows \"Waiting for N background agents/workflows to finish\" when backgrounded agents or workflows are still running, and reports the cumulative time once their results are processed\n- Added the session entrypoint as an OpenTelemetry metric attribute (`app.entrypoint`, opt-in via `OTEL_METRICS_INCLUDE_ENTRYPOINT=true`)\n- Fixed terminal styling degrading in very long sessions by recycling the renderer's style pool\n- Fixed the sandbox-enabled warning not appearing in condensed startup mode — it now shows in every layout\n- Fixed the loading spinner showing \"still thinking\"/\"almost done thinking\" while a tool is running, and reset the thinking status to \"thinking\" after each tool\n- Fixed focus mode showing a spurious \"N messages hidden\" count on turns with no hidden activity\n- Fixed clicking a link inside an expanded tool result collapsing the section instead of opening the link\n- Fixed markdown table cell borders inheriting the color of inline code, wrapped continuation lines losing their style, and empty header cells showing a label in the narrow-terminal stacked layout\n- Fixed plugin MCP servers with the same command but different environment variables being incorrectly deduplicated\n- Fixed `/doctor` reporting \"marketplace not found\" or \"plugin not found\" for stale `enabledPlugins` entries referencing removed marketplaces or dropped plugins\n- Fixed plugins that track a git branch silently no longer receiving updates after the plugin registry was rebuilt\n- Fixed remote MCP servers failing to connect in Claude Code Remote sessions when the egress proxy is enabled\n- Fixed the effort-change confirmation dialog appearing when the conversation has no messages or when switching between effort levels that resolve to the same underlying value\n- Fixed the Agent tool description referencing an agent list that is never delivered when running with `--bare` or with attachments disabled\n- Fixed a background worker crash in `claude agents` when accepting a stale permission prompt after a subagent was cancelled\n- Fixed `cache_creation_input_tokens` reporting as 0 in transcript and result usage when the API reports cache writes only via the nested `cache_creation` breakdown\n- Fixed the PushNotification tool incorrectly reporting \"Mobile push not sent (Remote Control inactive)\" in SDK-hosted sessions when Remote Control is enabled\n- Fixed sessions getting stuck after a model or login switch left stale thinking-block signatures in history; now stripped proactively with a retry safety-net",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.152",
+    "author": "ashwin-ant",
+    "created_at": "2026-05-27T01:30:59Z"
+  },
+  {
+    "id": "e9b713d7-2126-45b5-9e8a-3a9b2c6d64b8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple Named One of Fortune’s Best Bay Area Workplaces for 2026",
+    "summary": "1. Ripple received Bay Area workplace recognition after 95% of surveyed employees described the crypto solutions company as a great workplace, extending its multiyear presence on Fortune’s regional workplace lists.\n2. Ripple Earns 2026 Bay Area Workplace Recognition Ripple announced on May 26 that Fortune and Great Place to Work named it one of the Best Workplaces […]",
+    "url": "https://news.bitcoin.com/ripple-named-one-of-fortunes-best-bay-area-workplaces-for-2026/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-27T01:30:03.000Z"
+  },
+  {
+    "id": "ba62c2e3-0317-493d-88bc-0c77c9e6bd68",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Paxton wins Texas Senate runoff, defeating longtime incumbent Cornyn",
+    "summary": "1. The attorney general was boosted by President Donald Trump’s endorsement in the final days of the race.",
+    "url": "https://www.politico.com/news/2026/05/26/paxton-wins-texas-senate-runoff-00937454",
+    "author": "By Liz Crampton",
+    "created_at": "2026-05-27T01:00:38.000Z"
+  },
+  {
+    "id": "0c005e20-186e-4950-89a6-3fa47031677c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Rep. Christian Menefee defeats fellow Rep. Al Green in Texas House runoff",
+    "summary": "1. The 38-year-old Democrat’s victory in the newly drawn Houston-based district is the party’s latest sign of generational change.",
+    "url": "https://www.politico.com/news/2026/05/26/menefee-wins-texas-house-runoff-00937460",
+    "author": "By Samuel Benson",
+    "created_at": "2026-05-27T00:34:39.000Z"
+  },
+  {
+    "id": "976d2a86-490a-423d-b2d2-00b670ad4d2b",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 President Trump appoints former Attorney General Pam Bondi to White House AI board.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#bdb5c15d",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-27T00:30:33+00:00"
+  },
+  {
+    "id": "91bae59c-0a7b-4ba9-b776-c1dd0490edbc",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Grayscale: SpaceX Expected to Become Largest Public Company Holding Bitcoin",
+    "summary": "1. Grayscale says Elon Musk’s SpaceX could become the most valuable public company holding bitcoin after its expected IPO, while Strategy would likely remain the largest holder by BTC amount.\n2. Its S-1 filing lists 18,712 BTC under digital assets.\n3. SpaceX IPO Could Reshape Corporate Bitcoin Rankings Crypto asset manager Grayscale Investments said in a blog post […]",
+    "url": "https://news.bitcoin.com/grayscale-spacex-expected-to-become-largest-public-company-holding-bitcoin/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-27T00:30:20.000Z"
+  },
+  {
+    "id": "7c80744e-6cb0-46cd-a5af-91b6f905a402",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Blackrock IBIT Dark Pool Trade Tops $1.29 Billion as Bitcoin Stays Flat Above $75,000",
+    "summary": "1. A $1.29 billion dark pool block trade in Blackrock’s Ishares Bitcoin Trust (IBIT) crossed Nasdaq on Tuesday morning, drawing immediate attention from institutional traders and crypto analysts tracking exchange-traded fund (ETF) flows.\n2. Blackrock Bitcoin ETF Sees Largest Institutional Block Trade According to several reports, the order was executed around 10:30 a.m.\n3. ET at approximately $43.16 […]",
+    "url": "https://news.bitcoin.com/blackrock-ibit-dark-pool-trade-tops-1-29-billion-as-bitcoin-stays-flat-above-75000/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-27T00:05:07.000Z"
+  },
+  {
+    "id": "642660cd-2d3c-45f2-a53d-9c22d3b6bb00",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin drops after $78K pop, but ‘value investor’ keeps ‘hoovering up cheap’ BTC",
+    "summary": "1. Bitcoin’s rangebound trading carries on as bears defend $77,000 and bulls hold out near $74,000.",
+    "url": "https://cointelegraph.com/markets/bitcoin-drops-after-78k-pop-but-value-investor-keeps-hoovering-up-cheap-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Antonio Oliveira",
+    "created_at": "2026-05-26T23:57:49.000Z"
+  },
+  {
+    "id": "8647d384-2dfb-414d-913c-113d840a02da",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Umbra and Streamflow have launched private token vesting on Solana, letting projects distribute tokens to shielded wallets.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9f124671",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-26T23:54:23+00:00"
+  },
+  {
+    "id": "d652a9c5-753e-4691-b403-fb01bc9d220a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+    "summary": "1. The third-party website exposed applicants' sensitive documents as part of the U.K.\n2. visa application process.\n3. Instead of fixing the issue, the company sent attorneys.",
+    "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-05-26T23:49:05.000Z"
+  },
+  {
+    "id": "38757d37-3fe0-4dd7-84b8-811254495046",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "HYPE chases new highs as ETF inflows, institutional adoption accelerate",
+    "summary": "1. HYPE reached new highs above $65 following record ETF inflows, futures participation and trading volumes at Hyperliquid exchange.\n2. Is $100 next?",
+    "url": "https://cointelegraph.com/markets/hype-price-discovery-next-key-price-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-05-26T23:01:43.000Z"
+  },
+  {
+    "id": "395b2c8b-2202-457d-9b52-57ef4f077f74",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+    "summary": "1. Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+    "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+    "author": "Isabelle Johannessen",
+    "created_at": "2026-05-26T22:55:01.000Z"
+  },
+  {
+    "id": "d7909988-cb72-4fdd-bf75-8679c17c328a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+    "summary": "1. Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S.",
+    "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-05-26T22:55:01.000Z"
+  },
+  {
+    "id": "73f6b3a2-87ea-4e2e-a3da-df92f7a8e829",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Coinbase's Base launched Base MCP, letting AI agents like ChatGPT and Claude manage crypto wallets and DeFi apps via chat.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f13706ba",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-26T22:39:12+00:00"
+  },
+  {
+    "id": "6426d491-823f-4c49-80a2-cc4df5d887c1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto advocacy group challenges Senator Warren's claims on OCC charters",
+    "summary": "1. After Massachusetts Senator Elizabeth Warren's claimed that the Comptroller may have violated US banking laws by approving crypto companies’ charters, The Digital Chamber urged the regulator to defend the applications.",
+    "url": "https://cointelegraph.com/news/digital-chamber-senator-warren-crypto-companies-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-05-26T22:21:00.000Z"
+  },
+  {
+    "id": "49dee2ac-9d8f-49ba-9343-a02d7daa0e3e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘Critically important’: President Trump backs CFTC Chair Selig’s push to expand prediction market authority",
+    "summary": "1. President Donald Trump is publicly backing his CFTC Chair Michael Selig in his push to have authority over prediction markets.",
+    "url": "https://www.theblock.co/post/402672/critically-important-president-trump-backs-cftc-chair-seligs-push-to-expand-prediction-market-authority?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-05-26T22:09:18.000Z"
+  },
+  {
+    "id": "fbb532d7-ecff-4345-9598-3479acad8518",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 TeraWulf surged 13% Tuesday after announcing a new Kentucky facility targeting AI and HPC demand.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#36945751",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-26T21:59:29+00:00"
+  },
+  {
+    "id": "c293ea5b-bd5f-4102-96a9-79f01b2174db",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Iran accused the U.S.",
+    "summary": "of violating the ceasefire and targeting commercial shipping, while saying it will only sign a formal peace agreement if Washington releases $24 billion in frozen Iranian assets.  Twitter",
+    "url": "https://t.me/SolidIntelX#dfbcc2b8",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-26T21:57:33+00:00"
+  },
+  {
+    "id": "660c1911-34fe-4554-ae8e-9aa520d5b282",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Some Non-Enhanced Athletes Beat Their Juiced Rivals at the 'Steroid Olympics'",
+    "summary": "1. The inaugural games produced a record-breaking swim, but several non-enhanced athletes still beat the enhanced competitors.",
+    "url": "https://decrypt.co/369121/non-enhanced-athletes-beat-juiced-rivals-steroid-olympics",
+    "author": "Jason Nelson",
+    "created_at": "2026-05-26T21:53:25.000Z"
+  },
+  {
+    "id": "452d4372-9e51-4bb5-90c3-9a470c4736c8",
+    "source": "r/ethereum",
+    "type": "reddit",
+    "title": "Daily Doots Podcast #149 - What A Ride!",
+    "summary": "1. Daily Doots Podcast #149 - What A Ride!",
+    "url": "https://reddit.com/r/ethereum/comments/1tolisk/daily_doots_podcast_149_what_a_ride/",
+    "author": "u/jtnichol",
+    "created_at": "2026-05-26T21:52:17.000Z"
+  },
+  {
+    "id": "28495e89-7fc2-424f-a7c9-de1bed8564b6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Trump praises prediction markets, defends CFTC as court cases compound",
+    "summary": "1. President Donald Trump said it was \"critically important\" that the CFTC keep \"exclusive authority\" over prediction markets, echoing CFTC Chair Michael Selig.",
+    "url": "https://www.coindesk.com/policy/2026/05/26/trump-praises-prediction-markets-defends-cftc-as-court-cases-compound",
+    "author": "Nikhilesh De",
+    "created_at": "2026-05-26T21:50:04.000Z"
+  },
+  {
+    "id": "dfd09f45-76ce-4556-8a50-704081edce64",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 President Trump says he will not let other countries replace US as the Bitcoin & crypto \"capital of the world.\"\"It is a major industry, and we must protect it.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#4c292f0a",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-26T21:23:45+00:00"
+  },
+  {
+    "id": "2028cea3-129b-4976-99e4-d7303c24576c",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Someone Just Destroyed $8.2 Million in Bitcoin—Why?",
+    "summary": "1. Five unknown addresses removed 107 Bitcoin worth $8.2 million from circulation today, sparking intrigue on social media.",
+    "url": "https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why",
+    "author": "André Beganski",
+    "created_at": "2026-05-26T21:19:34.000Z"
+  },
+  {
     "id": "223466d6-dd22-4a3c-872e-10d705693fbb",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -148,425 +418,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#6d26f19c",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-05-26T20:19:20+00:00"
-  },
-  {
-    "id": "afffbc21-025b-4468-994f-07f5d6f49542",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Dips Below $76,000 as Traders Dump Longs and Momentum Fades",
-    "summary": "1. On Tuesday morning, Bitcoin experienced a sharp $2,000 flash crash, tumbling below the $76,000 support level just three hours after peaking at $78,000.\n2. Military Clashes Derail Weekend Rally Bitcoin’s trademark volatility was triggered anew on Tuesday morning, as a violent flash crash erased $2,000 in value in a mere three-hour window.\n3. The number-one cryptocurrency tumbled […]",
-    "url": "https://news.bitcoin.com/bitcoin-dips-below-76000-as-traders-dump-longs-and-momentum-fades/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-26T20:01:24.000Z"
-  },
-  {
-    "id": "b2f58973-cf7a-4d0c-9e0d-f80a22f6ac5a",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US Space Force awards Elon Musk's SpaceX $2.29 billion contract to develop space-based military data network.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#fcde2061",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-26T20:00:52+00:00"
-  },
-  {
-    "id": "2041f64b-0c7d-4ca1-b7dd-de98aabd06ed",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Grand Theft Data: Threat Actors Weaponizing GTA 6 Hype, NordVPN Warns",
-    "summary": "1. Cybercriminals are weaponizing the hype surrounding Grand Theft Auto 6, flooding the internet with GTA phishing traps and malware.",
-    "url": "https://decrypt.co/369064/grand-theft-data-threat-actors-weaponizing-gta-6-hype-nordvpn-warns",
-    "author": "André Beganski",
-    "created_at": "2026-05-26T19:57:05.000Z"
-  },
-  {
-    "id": "bb6f92ae-4943-40cf-b81b-06200c719009",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡  Kelp DAO says rsETH has been fully restored, five weeks after its $293M protocol hack.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4ac01284",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-26T19:44:28+00:00"
-  },
-  {
-    "id": "c668f6bc-d9c8-4feb-95a9-654eb19bb7d2",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close.\n2. The Dumacrats and Media have totally lost their way.\n3. They have gone absolutely CRAZY!!!",
-    "url": "https://trumpstruth.org/statuses/38811",
-    "author": "Trump Truth",
-    "created_at": "2026-05-26T19:32:42.000Z"
-  },
-  {
-    "id": "dd247f00-98a4-4883-87d3-0f3f7b1f7d3b",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Spain Blocks Prediction Markets Kalshi, Polymarket for Potential Gambling Law Violations",
-    "summary": "1. Spain is the latest country to clamp down on the rising use of prediction market platforms like Polymarket and Kalshi.",
-    "url": "https://decrypt.co/369043/spain-blocks-prediction-markets-kalshi-polymarket-potential-violations",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-05-26T19:14:11.000Z"
-  },
-  {
-    "id": "9423abc7-f860-4164-8959-bd6524762428",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Spain Goes After Polymarket, Kalshi as Legal Fork Between US and EU Keeps Widening",
-    "summary": "1. Spain’s gambling watchdog opened sanctioning proceedings against Polymarket and Kalshi, ordering precautionary blocks on both platforms while it investigates whether the unlicensed operators violated the country’s gambling law.\n2. European Enforcement Efforts Grow as US Takes Different Direction The Dirección General de Ordenación del Juego (DGOJ) published the notices in the Boletín Oficial del Estado after […]",
-    "url": "https://news.bitcoin.com/spain-goes-after-polymarket-kalshi-as-legal-fork-between-us-and-eu-keeps-widening/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-05-26T19:07:05.000Z"
-  },
-  {
-    "id": "b106fd92-b220-4af9-a179-511dc30b3044",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel  indexes",
-    "summary": "1. The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.",
-    "url": "https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-26T19:03:39.000Z"
-  },
-  {
-    "id": "3abefaeb-59f4-407b-91a7-ac7e0d5cea01",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Chatbots Show Bias Toward Catholicism, Researchers Say",
-    "summary": "1. Researchers find AI models steer users toward Catholicism and away from other religions, like Jehovah’s Witnesses.",
-    "url": "https://decrypt.co/369045/ai-chatbots-claude-chatgpt-bias-catholicism-pope-leo",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-26T18:59:10.000Z"
-  },
-  {
-    "id": "a4f96da9-fee3-450b-a11b-503d2a848cb0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum, Solana treasury firms Sharplink and Forward join Russell indexes",
-    "summary": "1. According to data from earlier this month, about $12.2 trillion in investor assets are benchmarked\" to the Russell U.S.",
-    "url": "https://www.theblock.co/post/402627/ethereum-solana-treasury-firms-sharplink-forward-join-russell-indexes?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-05-26T18:57:52.000Z"
-  },
-  {
-    "id": "941fcdef-2d04-4bcd-a9f6-81e4b0896f2d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Clarity Act unlikely to pass this year, says TD Cowen",
-    "summary": "The likelihood of the Clarity Act passing this year is diminishing as the political environment surrounding the bill continues to deteriorate, according to investment bank TD Cowen. The Block reported that Jaret Seiberg, a managing director at TD Cowen's Washington Research Group, noted that the political climate for the bill has worsened, making it improbable that it will become law this year. Although the Senate Banking Committee advanced the legislation earlier this month despite opposition from Democrats and the banking sector, Seiberg explained this signifies the debate has moved to the full Senate rather than a consensus being reached. He added that major obstacles remain, particularly concerning conflict-of-interest provisions. Seiberg also assessed that recent events surrounding President Donald Trump and his administration are making it more difficult for Democrats to support cryptocurrency legislation.",
-    "url": "https://t.me/CoinnessGL#b332d0ec",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-26T18:57:13+00:00"
-  },
-  {
-    "id": "151d6273-7356-4dd3-a7ad-f5e1d7811289",
-    "source": "r/cryptocurrency",
-    "type": "reddit",
-    "title": "Vitalik just published Ethereum's quantum resistance roadmap and it might be the most important post-merge development nobody's discussing.",
-    "summary": "1. While everyone's been staring at BTC price action and ETF outflows, Vitalik dropped an actual technical roadmap for making.\n2. Ethereum quantum-resistant.\n3. I've read through it and the implications go way beyond ETH.",
-    "url": "https://reddit.com/r/CryptoCurrency/comments/1togj0j/vitalik_just_published_ethereums_quantum/",
-    "author": "u/ConsiderationFit2353",
-    "created_at": "2026-05-26T18:56:51.000Z"
-  },
-  {
-    "id": "b8224a51-d33a-45a6-8676-e00ecf18f44f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "TD Cowen says crypto bill unlikely to pass this year amid worsening political environment",
-    "summary": "1. The political environment around the Clarity Act is getting worse, TD Cowen says, making it harder for the crypto bill to pass this year.",
-    "url": "https://www.theblock.co/post/402649/td-cowen-crypto-bill-worsening-political-environment-trump?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-05-26T18:50:01.000Z"
-  },
-  {
-    "id": "c2a751a5-4f7b-46d8-bc16-ed9d15b7e70c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk says \"time to build a major base on the Moon.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c5be3bb5",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-26T18:49:05+00:00"
-  },
-  {
-    "id": "67d71ddb-a586-4625-878b-e36dd05dd0d8",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-    "summary": "1. American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
-    "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-05-26T18:48:04.000Z"
-  },
-  {
-    "id": "d972a234-ac29-43df-90fd-7fa9405570de",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "UK authorities sanction HTX crypto exchange over support for Russia",
-    "summary": "1. Formerly Huobi Global, the exchange is the latest entity to be named as part of a crackdown on companies “exploited by Russia to circumvent UK sanctions.”",
-    "url": "https://cointelegraph.com/news/uk-sanctions-htx-huobi-russia-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-26T18:41:07.000Z"
-  },
-  {
-    "id": "deafa8f5-d6a4-4d29-aa3f-e4e8207c72f5",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Smarter Web Company Adds 10 Bitcoin, Lifts Holdings to 2,869 BTC Amid Treasury Push",
-    "summary": "1. Bitcoin Magazine\n\nSmarter Web Company Adds 10 Bitcoin, Lifts Holdings to 2,869 BTC Amid Treasury Push\nLondon-listed The Smarter Web Company added 10 BTC to reach 2,869 holdings, continuing its debt-supported push to expand a Bitcoin-centric treasury strategy.\n2. This post Smarter Web Company Adds 10 Bitcoin, Lifts Holdings to 2,869 BTC Amid Treasury Push first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/smarter-web-company-adds-10-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-26T18:37:18.000Z"
-  },
-  {
-    "id": "368a9793-c556-4b72-b928-49f1996f8c22",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up",
-    "summary": "1. Bitcoin Magazine\n\nStrive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up\nStrive’s SATA preferred stock is rapidly emerging as a major bitcoin accumulation vehicle — briefly absorbing more than 100% of daily mining supply.\n2. This post Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/strives-sata-swallows-entire-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-26T18:33:49.000Z"
-  },
-  {
-    "id": "dc02f4b5-7949-44be-a426-b9f5c1ac5a45",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "summary": "1. OpenRouter has raised a $113 million Series B led by CapitalG.\n2. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "author": "Julie Bort",
-    "created_at": "2026-05-26T18:33:01.000Z"
-  },
-  {
-    "id": "c5add867-3fea-405f-91bb-260b6d062ee3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Whale Wallets Stack $4.3M in Chainlink and Dogecoin Longs, $8M+ in Pending Orders",
-    "summary": "1. At least two major onchain wallets have simultaneously opened leveraged long positions worth more than $4.3 million across chainlink and dogecoin, with additional limit orders signaling intent to add $8 million more in exposure.\n2. Whale Wallets Build Chainlink and Dogecoin Long Positions Two separate whale wallets opened coordinated long positions on chainlink (LINK) and dogecoin […]",
-    "url": "https://news.bitcoin.com/whale-chainlink-dogecoin-long-positions-limit-orders-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-05-26T18:30:21.000Z"
-  },
-  {
-    "id": "f95e8582-4fc2-43c2-9eb9-2ee959028c9c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Micron $MU rises 20% in its biggest one-day gain since 2011, surpassing a $1 trillion market cap.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#10c9d91f",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-26T18:30:02+00:00"
-  },
-  {
-    "id": "3ad3f4f0-d1ad-437d-be29-ebe5cd78e8fb",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Vivek Ramaswamy’s Strive acquired 1,109 BTC to bring its total holdings to 16,500 coins, making it the seventh-largest publicly traded corporate Bitcoin holder.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b10a2128",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-26T18:29:46+00:00"
-  },
-  {
-    "id": "913b3839-cf1e-43fb-b2d1-837783d16f90",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "TeraWulf Stock Pops as Bitcoin Miner Acquires Kentucky Site to Meet AI Power Demands",
-    "summary": "1. Bitcoin miner TeraWulf’s latest deal adds more than a gigawatt of potential data center capacity in a region eager for economic investment.",
-    "url": "https://decrypt.co/369053/terawulf-bitcoin-miner-kentucky-site-ai-power-demands",
-    "author": "Decrypt Agent",
-    "created_at": "2026-05-26T18:23:18.000Z"
-  },
-  {
-    "id": "1f218aac-2b05-4c10-9596-d661f396dda1",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Base Launches MCP Agent Gateway for Onchain Portfolio Management",
-    "summary": "1. Base introduces Model Context Protocol integration enabling AI agents to execute swaps, trades, and portfolio management across leading DeFi protocols.",
-    "url": "https://thedefiant.io/news/defi/base-mcp-agent-gateway-launch-2p8bh1",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-26T18:18:37.000Z"
-  },
-  {
-    "id": "dc4700b5-d0b5-4cf5-9c90-760cd11720db",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Crypto industry defends OCC charters for Ripple, Coinbase and others after Sen. Warren calls them unlawful",
-    "summary": "1. The Digital Chamber rejected accusations from Sen.\n2. Warren that crypto firms were \"improperly\" granted national trust charters.",
-    "url": "https://www.theblock.co/post/402639/crypto-industry-defends-occ-charters-for-ripple-coinbase-after-warren-calls-unlawful?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-05-26T18:12:47.000Z"
-  },
-  {
-    "id": "fc09e3ab-5931-4356-92f9-07782ff744a8",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Clyburn’s seat survives for now as South Carolina Republicans buck Trump on redistricting",
-    "summary": "1. President Donald Trump had ramped up pressure on the Palmetto State, but he fell short in his goal of ousting the state’s lone Democrat.",
-    "url": "https://www.politico.com/news/2026/05/26/south-carolina-redistricting-fails-clyburn-trump-00936000",
-    "author": "By Andrew Howard, Alec Hernandez and Adam Wren",
-    "created_at": "2026-05-26T18:02:53.000Z"
-  },
-  {
-    "id": "0c0b96cb-e03b-47ad-a5ab-91492d05b6f8",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity",
-    "summary": "1. WULF shares surged on Tuesday after the Bitcoin miner announced its latest move to expand into AI and HPC through a multi-phase buildout through 2030.",
-    "url": "https://cointelegraph.com/news/terawulf-kentucky-ai-data-center-1gw-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-05-26T18:01:53.000Z"
-  },
-  {
-    "id": "7377e557-49b5-40a7-aa78-1f330645729b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇸 Polymarket and Kalshi are now blocked in Spain after regulators launched disciplinary proceedings, claiming they operated without licenses under Spanish gambling law.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ee978a39",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-26T17:54:40+00:00"
-  },
-  {
-    "id": "121fced1-d1d5-4d67-ba36-92a5b087d326",
-    "source": "r/ethereum",
-    "type": "reddit",
-    "title": "~$440M of STRC is now sitting in DeFi protocols — and most MSTR holders haven't noticed where the secondary float is going",
-    "summary": "1. ~$440M of STRC is now sitting in DeFi protocols — and most MSTR holders haven't noticed where the secondary float is going",
-    "url": "https://reddit.com/r/ethereum/comments/1toen8p/440m_of_strc_is_now_sitting_in_defi_protocols_and/",
-    "author": "u/MadSL1m",
-    "created_at": "2026-05-26T17:54:06.000Z"
-  },
-  {
-    "id": "366a999b-090d-433b-bb9c-d4827cbe3bd0",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tom Lee Backs Ethereum Supercycle as Bitmine ETH Holdings Reach 5.39M",
-    "summary": "1. Bitmine said its crypto, cash, and strategic holdings now total $12.3 billion, led by 5.39 million ether tokens.\n2. The company is also expanding its staking strategy through MAVAN, its institutional ethereum validator network.\n3. BitMine Controls 4.47% of Ethereum Supply With $12.3B Asset Base Bitmine Immersion Technologies disclosed that its total crypto, cash and “moonshot” holdings […]",
-    "url": "https://news.bitcoin.com/tom-lee-backs-ethereum-supercycle-as-bitmine-eth-holdings-reach-5-39m/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-26T17:39:41.000Z"
-  },
-  {
-    "id": "862c2b8b-11e2-4e35-adb6-dcbf6e866851",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks",
-    "summary": "1. Britain applied banking-style sanctions to crypto exchanges for the first time, requiring U.K.\n2. financial firms to freeze funds and trace transactions.",
-    "url": "https://www.coindesk.com/business/2026/05/26/uk-sanctions-huobi-and-ruble-stablecoin-issuer-in-crackdown-on-russia-crypto-networks",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-05-26T17:33:35.000Z"
-  },
-  {
-    "id": "26ed4197-bd69-44bb-ba74-63a050462d62",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Manna Wallet + Branta Guardrails: Self-Custodial Bitcoin Payments Now Show Verified Merchant Details",
-    "summary": "1. Bitcoin Magazine\n\nManna Wallet + Branta Guardrails: Self-Custodial Bitcoin Payments Now Show Verified Merchant Details\nOpen-source Branta Guardrails uses zero-knowledge proofs to authenticate merchant connections without compromising privacy, now live with Manna and supported invoicing tools like BTCPay Server.\n2. This post Manna Wallet + Branta Guardrails: Self-Custodial Bitcoin Payments Now Show Verified Merchant Details first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/business/manna-wallet-branta-guardrails-self-custodial-bitcoin-payments-now-show-verified-merchant-details",
-    "author": "Juan Galt",
-    "created_at": "2026-05-26T17:31:58.000Z"
-  },
-  {
-    "id": "f6c413fa-0fb3-40ba-b368-314f9ecef3fd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $76,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $76,000. BTC is trading at $75,901.01 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#a9e53d17",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-26T17:30:18+00:00"
-  },
-  {
-    "id": "52c05124-e45a-42cb-9240-dfe70a1c6d2f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Base launches MCP Gateway to link AI interfaces with wallets",
-    "summary": "Coinbase's Layer 2 network, Base, has launched its MCP Gateway, a tool designed to easily connect artificial intelligence interfaces with wallet infrastructure, The Block reported. The MCP Gateway provides a secure connection between Base accounts and AI interfaces that support the MCP standard, such as ChatGPT and Claude. This allows users to perform token swaps, transfer assets, and interact with dApps using only natural language commands.",
-    "url": "https://t.me/CoinnessGL#f1bbbcea",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-26T17:29:57+00:00"
-  },
-  {
-    "id": "e4244364-57ac-4de7-8193-9bb5a1ab417c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ CME Group has added Avalanche and Sui futures, continuing an altcoin derivatives expansion that began with Cardano, Chainlink, and Stellar in February.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f8778030",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-26T17:19:20+00:00"
-  },
-  {
-    "id": "7434f70e-4975-44fc-9164-0f7c1c819654",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Spanish authorities block Polymarket and Kalshi over gambling laws",
-    "summary": "1. Spain joined a growing list of national authorities restricting or banning prediction market platforms amid concerns over unlicensed gambling activities.",
-    "url": "https://cointelegraph.com/news/spain-blocks-polymarket-kalshi-gambling-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-26T17:02:00.000Z"
-  },
-  {
-    "id": "812d2818-50a2-4f63-8d7f-b182931d863f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Teen takeover in Chicago.\n2. Five officers badly hurt.\n3. Mayor and Governor are terrible.",
-    "url": "https://trumpstruth.org/statuses/38810",
-    "author": "Trump Truth",
-    "created_at": "2026-05-26T16:47:22.000Z"
-  },
-  {
-    "id": "1b9d51a8-d799-4a3e-ad2f-308b9dcd8174",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Just finished my 6 month physical at Walter Reed Military Medical Center.\n2. Everything checked out PERFECTLY.\n3. Thank you to the great Doctors and Staff!",
-    "url": "https://trumpstruth.org/statuses/38809",
-    "author": "Trump Truth",
-    "created_at": "2026-05-26T16:40:50.000Z"
-  },
-  {
-    "id": "1422b9e5-e959-4bf1-909e-f7ad78391a23",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "American Airlines $AAL rises over 7% after announcing it will install Elon Musk's Starlink Wi-Fi to its airplanes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c0920443",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-26T16:31:53+00:00"
-  },
-  {
-    "id": "b968ac1e-89b6-40c0-804f-bd209df5c914",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bermuda, the small island nation with huge crypto ambitions",
-    "summary": "1. The government recently announced it would become the world’s first economy to go fully onchain, a move officials believe will bring its people new opportunities.",
-    "url": "https://www.coindesk.com/business/2026/05/26/bermuda-the-small-island-nation-with-huge-crypto-ambitions",
-    "author": "Olivier Acuna",
-    "created_at": "2026-05-26T16:23:05.000Z"
-  },
-  {
-    "id": "981a7588-39b2-4a38-91a5-66920a29e903",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "This startup is betting India’s gig economy can train the world’s robots",
-    "summary": "1. Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-05-26T16:00:00.000Z"
-  },
-  {
-    "id": "f8983f06-f20d-45f9-acdc-e0a5748a37c6",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "EXPANDED GROUND OPERATION IN SOUTHERN LEBANON BEYOND THE YELLOW LINE TO 'REMOVE DIRECTS THREATS' TO CITIZENS AND TROOPS, ISRAELI MILITARY OFFICIAL SAYSTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#b1c4f649",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-26T15:34:33+00:00"
   }
 ]
