@@ -1,13 +1,193 @@
 [
   {
-    "id": "829c7dfe-57e1-4800-96b6-e94b35aad3ef",
+    "id": "5820084d-e742-4219-b2b4-589e2049b70c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Anthropic has reportedly raised $65 billion in Series H funding at a staggering $965 billion post-money valuation, while reports estimate the company is now generating at least 35% more revenue than OpenAI.Twitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#fd3951a5",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-29T02:31:09.972Z"
+    "created_at": "2026-05-29T05:10:43.128Z"
+  },
+  {
+    "id": "9feb087c-3ea2-4435-afe8-391ea69b240a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale dormant for 4 months opens $25.9M, 25x ETH long position",
+    "summary": "An anonymous whale address that had been dormant for four months has opened a 25x long position with 12,902 ETH ($25.87 million), according to Onchain Lens. The position's liquidation price is $1,966.83.",
+    "url": "https://t.me/CoinnessGL#61194940",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T05:03:06+00:00"
+  },
+  {
+    "id": "a730614d-df09-4506-922f-2a2cad0fcead",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP rebounds above $1.30 after volume surge, but bears still control the bigger picture",
+    "summary": "1. XRP snapped a streak of lower lows on heavy buying, though the token remains stuck below major resistance levels that have capped every rally this year.",
+    "url": "https://www.coindesk.com/markets/2026/05/29/xrp-rebounds-above-usd1-30-after-volume-surge-but-bears-still-control-the-bigger-picture",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-29T05:01:02.000Z"
+  },
+  {
+    "id": "5cb6c92b-9eb2-4a57-9b1f-6486b63d0400",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ONTR token exploited for $98K in WETH via vulnerability",
+    "summary": "An exploit of an access control vulnerability in the ONTR token contract has resulted in a loss of approximately 49.48 WETH, worth around $98,000, according to blockchain security firm SlowMist.",
+    "url": "https://t.me/CoinnessGL#3505247d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T04:55:27+00:00"
+  },
+  {
+    "id": "1c9dde53-2974-4c3c-8aee-bcbbfa5a8a60",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears",
+    "summary": "1. Global stocks hit records and oil cracked on a tentative US-Iran ceasefire extension.\n2. Crypto stayed on the sidelines, with some analysts saying the next catalyst is regulatory, not geopolitical.",
+    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-ether-little-changed-despite-record-stocks-falling-oil-and-easing-war-fears",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-29T04:41:55.000Z"
+  },
+  {
+    "id": "bc2b5a52-7508-46b7-85dd-aa7b52875f2a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin’s major holders halt buys as demand slows: CryptoQuant",
+    "summary": "1. CryptoQuant says that the holding structure for large Bitcoin holders is deteriorating, a trend that has historically preceded “sustained price weakness.”",
+    "url": "https://cointelegraph.com/news/bitcoin-hodling-structure-weakening-across-major-investor-cohorts-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-05-29T04:33:46.000Z"
+  },
+  {
+    "id": "8ae5ff59-53eb-44bb-97b7-058679abaf0e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Quantus Warns Quantum Computers Could Threaten $2T in Bitcoin and Crypto Assets",
+    "summary": "1. A new Quantus report says the crypto industry is not moving fast enough to prepare for quantum computers that could break today’s signature systems.\n2. The report warns that bitcoin, ethereum, and other major networks face a difficult migration problem because public keys live permanently on-chain.\n3. Google and IBM Advances Push Bitcoin Quantum Threat Closer Quantum […]",
+    "url": "https://news.bitcoin.com/quantus-warns-quantum-computers-could-threaten-2t-in-bitcoin-and-crypto-assets/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-05-29T04:30:36.000Z"
+  },
+  {
+    "id": "2c480f62-ba3b-41c6-936c-18d28bbbaf4d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "FG Nexus transfers $10.1M in ETH to Galaxy Digital",
+    "summary": "Nasdaq-listed company FG Nexus (FGNX), which has been strategically accumulating Ethereum, transferred 5,000 ETH ($10.06 million) to Galaxy Digital, according to Onchain Lens. The company currently holds 16,354 ETH, valued at $34.15 million.",
+    "url": "https://t.me/CoinnessGL#6f0912f2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T04:24:18+00:00"
+  },
+  {
+    "id": "f51eac98-da4e-4345-837f-85a6b668b01e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin's record holder supply hides a buyer drought, CryptoQuant says",
+    "summary": "1. A record high in long-term holder supply typically signals conviction.\n2. CryptoQuant says it reflects a shortage of new buyers, a view echoed by weakening ETF demand and bearish prediction market odds.",
+    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-s-record-holder-supply-hides-a-buyer-drought-cryptoquant-says",
+    "author": "Sam Reynolds",
+    "created_at": "2026-05-29T04:23:22.000Z"
+  },
+  {
+    "id": "81a0160d-5d8c-4817-b343-271ef1ecf78c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Sui Network back online after ‘crash bug’ causes 6 hour outage",
+    "summary": "1. The Sui mainnet has resumed after a bug in a network update took it offline for 5 hours and 55 minutes.",
+    "url": "https://cointelegraph.com/news/sui-network-back-online-after-crash-bug-six-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-05-29T04:08:41.000Z"
+  },
+  {
+    "id": "b45a8d9e-7554-4c3c-b625-96056a04c05d",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Audience questions, special cameos &amp; behind-the-scenes stories with Dasha Burns",
+    "summary": "1. Audience questions, special cameos & behind-the-scenes stories with Dasha Burns",
+    "url": "https://www.politico.com/video/2026/05/28/audience-questions-special-cameos-behind-the-scenes-stories-with-dasha-burns-2079363",
+    "author": "Politico",
+    "created_at": "2026-05-29T03:59:00.000Z"
+  },
+  {
+    "id": "e2f7de3e-686c-4efb-aa7f-8be38ee1176f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?",
+    "summary": "1. Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoin under pressure amid heavy ETF outflows and corporate selling",
+    "url": "https://cointelegraph.com/markets/bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-05-29T03:44:40.000Z"
+  },
+  {
+    "id": "4e76e0a8-b9a9-47b2-880c-632143c4f0ae",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Treasury Secretary Scott Bessent says the US needs to bring crypto onshore, as \"all the nonsense that happens\" is the result of an unregulated \"Wild Wild West offshore.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e3292a23",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-29T03:44:21+00:00"
+  },
+  {
+    "id": "3f00c8cc-8632-4548-9b7c-dea13b44d06c",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. John Solomon unpacks a bombshell revelation about James Comey:",
+    "url": "https://trumpstruth.org/statuses/38848",
+    "author": "Trump Truth",
+    "created_at": "2026-05-29T03:34:25.000Z"
+  },
+  {
+    "id": "0ed2797a-b5f1-4a77-963a-91ff1c16be5f",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Judge clears Trump’s voter citizenship checks and mail-in voting crackdown, slapping down Democrats:",
+    "url": "https://trumpstruth.org/statuses/38849",
+    "author": "Trump Truth",
+    "created_at": "2026-05-29T03:34:03.000Z"
+  },
+  {
+    "id": "d194d73a-5074-46fd-99e7-34900eea7caa",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. FBI and DOJ concerns on Mar-a-Lago raid bolster Florida-based anti-Trump ‘grand conspiracy’ inquiry:",
+    "url": "https://trumpstruth.org/statuses/38850",
+    "author": "Trump Truth",
+    "created_at": "2026-05-29T03:32:54.000Z"
+  },
+  {
+    "id": "32c5dec0-1912-4250-8b1f-48d47e58fcbc",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Sumitomo Mitsui Trust Partners With Hashport to Turn Card Points into JPYC Stablecoins",
+    "summary": "1. The announcement constitutes the first initiative of its kind in Japan, allowing users to exchange their loyalty points received for JPYC, Japan’s first onchore yen stablecoin.\n2. The initiative has the potential to bring ¥2.8 trillion to the stablecoin ecosystem, powering massive adoption.\n3. Sumitomo Mitsui Trust Club and Hashport Launch Reward Point To Stablecoin Exchange Program […]",
+    "url": "https://news.bitcoin.com/sumitomo-mitsui-trust-partners-with-hashport-to-turn-card-points-into-jpyc-stablecoins/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-29T03:30:54.000Z"
+  },
+  {
+    "id": "49a16472-a29e-4ec4-9fc9-9ec024df372e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Treasury Secretary Scott Bessent reiterates ‘no CBDC’ commitment under Trump admin",
+    "summary": "1. During a Thursday press briefing, Bessent also urged the House and the Senate to get the Clarity Act to the finish line.",
+    "url": "https://www.theblock.co/post/402971/scott-bessent-reiterates-no-cbdc?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-29T02:53:58.000Z"
+  },
+  {
+    "id": "c4e60af7-a9e6-460d-9c54-79c296451b2a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CFTC Sues Rhode Island as State Rules Threaten Prediction Markets",
+    "summary": "1. The Commodity Futures Trading Commission (CFTC) moved to intervene in Rhode Island litigation over prediction markets, seeking to block state gambling laws from being applied to federally regulated event-contract platforms.\n2. The dispute centers on civil penalties, federal preemption claims, and several state challenges.\n3. CFTC Moves Against Rhode Island Over Prediction Markets Dispute The Commodity Futures […]",
+    "url": "https://news.bitcoin.com/cftc-sues-rhode-island-as-state-rules-threaten-prediction-markets/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-29T02:30:45.000Z"
   },
   {
     "id": "517dabb8-502f-494a-baab-f2eac0b8dfbe",
@@ -50,7 +230,7 @@
     "created_at": "2026-05-29T01:42:23Z"
   },
   {
-    "id": "86d04687-bdce-41a0-8f64-558ba3ca3392",
+    "id": "f203903c-5f34-4544-88d4-301d72b25a3f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Treasury Secretary Scott Bessent says there will be no CBDC under the Trump administration.",
@@ -80,7 +260,7 @@
     "created_at": "2026-05-29T01:22:16.000Z"
   },
   {
-    "id": "15c6b91b-58d9-4a3d-ba6a-789e3f08b032",
+    "id": "d382d163-6105-4cc8-a862-e060d2a2b9f0",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Jeff Bezos's Blue Origin New Glenn rocket explodes during a static-fire test.@WatcherGuru",
@@ -130,7 +310,7 @@
     "created_at": "2026-05-29T00:14:35.000Z"
   },
   {
-    "id": "b6208413-d0be-4816-bb85-9549ca48e1e4",
+    "id": "dd0f162d-7374-4d5c-abd0-8ab7855fbb4b",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ French semiconductor firm Sequans Communications is ending its Bitcoin treasury strategy and will monetize its remaining 658 BTC over time.",
@@ -148,115 +328,5 @@
     "url": "https://news.bitcoin.com/xrp-traders-hit-47-losses-as-santiment-flags-historic-dip-buy-setup/",
     "author": "Kevin Helms",
     "created_at": "2026-05-28T23:30:37.000Z"
-  },
-  {
-    "id": "703bc542-2c61-44df-b683-943e84c9cc21",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Hyperliquid’s SpaceX perpetual contract plunged nearly 45% in 30 minutes, liquidating 405 users and wiping out $1.51M in notional value as thin liquidity amplified a large sell order.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#cd3c77e5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-28T23:04:28+00:00"
-  },
-  {
-    "id": "0e300d41-1e28-437e-8311-a3022800ba25",
-    "source": "Politico",
-    "type": "rss",
-    "title": "‘Why are we talking about this?’: Democrats are furious that the Bidens won’t go away",
-    "summary": "1. Jill Biden’s new memoir is the latest of many pain points for Democrats who want to move on from 2024.",
-    "url": "https://www.politico.com/news/2026/05/28/biden-democrats-2024-election-00942001",
-    "author": "By Lisa Kashinsky, Dasha Burns and Andrew Howard",
-    "created_at": "2026-05-28T22:55:14.000Z"
-  },
-  {
-    "id": "a75f6362-f37b-4e25-b079-3c65b3ea6227",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
-    "summary": "1. Bulls abandon ship as SOL futures open interest dropped 30% in May.\n2. With the price weakening near $80, Solana may be destined for new lows.",
-    "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-05-28T22:39:43.000Z"
-  },
-  {
-    "id": "1c432a04-c9ba-4d5d-b026-efaa85701c2b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems",
-    "summary": "1. The investment firm said nation-states and central banks are increasingly turning to assets like Bitcoin and gold as alternative settlement systems outside of US control.",
-    "url": "https://cointelegraph.com/news/fidelity-digital-assets-shift-dollar-based-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Vince Quill",
-    "created_at": "2026-05-28T22:32:50.000Z"
-  },
-  {
-    "id": "09c1630d-9cb9-4a33-a382-0ab1cb9505c2",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-    "summary": "1. As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.",
-    "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
-    "author": "AI Boost",
-    "created_at": "2026-05-28T22:03:42.000Z"
-  },
-  {
-    "id": "f9d747f1-1b3c-4d38-9f52-a54be2040c33",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 $DELL is up 57% since President Trump said to buy the stock on May 8th.Yesterday, the US government announced a $9.7 billion contract with Dell.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#0b851026",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-28T21:56:34+00:00"
-  },
-  {
-    "id": "babc86a8-c6be-496d-a041-e2bcc8fa492a",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Base Launches Azul Upgrade, Takes Step Toward Stage 2 Decentralization",
-    "summary": "1. The Coinbase-incubated layer-2 network activated multiproofs on mainnet, combining TEE and ZK proof systems to move closer to full decentralization while cutting empty blocks by 99%.",
-    "url": "https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization",
-    "author": "The Defiant Team",
-    "created_at": "2026-05-28T21:27:03.000Z"
-  },
-  {
-    "id": "722be1a3-f0a3-4d86-a903-b96158730f70",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
-    "summary": "1. Claude maker Anthropic said annualized revenue surpassed $47 billion as it expands cloud and compute partnerships.",
-    "url": "https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-28T20:51:52.000Z"
-  },
-  {
-    "id": "25d37257-355b-4366-beac-c79554e0716b",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Hochul knocks Trump’s ‘slush fund’",
-    "summary": "1. Hochul knocks Trump’s ‘slush fund’",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/28/hochul-knocks-trumps-slush-fund-00941504",
-    "author": "By Nick Reisman",
-    "created_at": "2026-05-28T20:49:55.000Z"
-  },
-  {
-    "id": "60ec9e98-b800-4a36-876a-0705c954187c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Gemini crypto exchange launches AI data feed powered by Grok",
-    "summary": "1. The move comes as Gemini continues to expand beyond spot crypto trading into derivatives, predictions, and other financial services.",
-    "url": "https://www.theblock.co/post/402961/gemini-crypto-exchange-launches-ai-data-feed-powered-grok?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-05-28T20:40:53.000Z"
-  },
-  {
-    "id": "650d6571-81e3-4e35-a60a-5368a3344200",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "BESSENT SAYS NO DEAL WITH IRAN WITHOUT OPEN HORMUZ AND ENRICHED URANIUMTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#b931cdc4",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-28T20:38:51+00:00"
   }
 ]
