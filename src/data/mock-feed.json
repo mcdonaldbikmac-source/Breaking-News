@@ -1,13 +1,193 @@
 [
   {
-    "id": "f019dce0-70cf-4282-a6a1-eb01e69d47b0",
+    "id": "c163a88b-46ef-46bf-9cd9-70004d6ff230",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "NATO’s Rutte warns Russia’s reckless behavior is a danger to all after a Russian drone hit a residential block in RomaniaTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#5dc873e9",
+    "author": "@SolidIntelX",
+    "created_at": "2026-05-29T09:54:58.875Z"
+  },
+  {
+    "id": "dfe4f5e2-e14c-496c-8484-5aa4d2eceba7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Jeffrey Huang closes BTC long, adds to $9.2M ETH position",
+    "summary": "Taiwanese singer Jeffrey Huang has closed the 40x leveraged BTC long position he opened yesterday on Hyperliquid and added to his 25x leveraged ETH long position, according to data from Hyperbot. He currently holds 4,588 ETH, valued at $9.23 million. His entry price is $1,997, with a liquidation price of $1,973. Huang has lost an estimated $34 million on his ETH futures investments to date.",
+    "url": "https://t.me/CoinnessGL#117cb88a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T09:54:51+00:00"
+  },
+  {
+    "id": "ac9d6716-92b1-4165-8fc1-7e23d57a70b3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ SEC Commissioner Hester Peirce urged regulators not to treat crypto privacy tools as signs of criminal intent, saying privacy should be the norm for law-abiding users.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bf1b7c4d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-29T09:49:22+00:00"
+  },
+  {
+    "id": "738e37d9-9958-40ea-8272-eb92959a9a9c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Base applies 'Azul' upgrade to mainnet to enhance decentralization",
+    "summary": "Base has applied its Azul upgrade to the mainnet, The Block reported. The upgrade aims to enhance the decentralization of the Coinbase-backed Ethereum (ETH) Layer 2 network. Azul introduces a multi-proof structure that combines Trusted Execution Environment (TEE) proofs with Zero-Knowledge (ZK) proofs. This system is designed to effectively shorten withdrawal processing times when both proofs yield the same result.",
+    "url": "https://t.me/CoinnessGL#d763c105",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T09:41:07+00:00"
+  },
+  {
+    "id": "ffca2821-f04e-43c2-9436-dcef7f489a0d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Aave V4 total deposits surpass $100M",
+    "summary": "Total deposits on Aave V4, a decentralized finance (DeFi) lending protocol, have surpassed $100 million, reaching $104.9 million.",
+    "url": "https://t.me/CoinnessGL#47a00fc6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T09:35:25+00:00"
+  },
+  {
+    "id": "178bbe45-66a7-4580-820c-c4a7c3fbe86b",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Base launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization",
+    "summary": "1. Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.",
+    "url": "https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-29T09:31:56.000Z"
+  },
+  {
+    "id": "66d520d1-ecff-43f3-ad0a-4db4a1843db6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "NYSE Parent ICE Explores Potential Collaboration With Decentralized Exchange Hyperliquid",
+    "summary": "1. Jeff Sprecher, the CEO of the New York Stock Exchange’s parent company ICE, has openly praised the decentralized derivatives protocol Hyperliquid, calling the platform “bigger than Nasdaq” at a recent gathering.\n2. Wall Street Giants Shift From Lobbying to Exploring Decentralized Finance Speaking at the Bernstein Annual Strategic Decision Conference, the head of the company that […]",
+    "url": "https://news.bitcoin.com/nyse-parent-ice-explores-collaboration-with-decentralized-exchange-hyperliquid/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-29T09:30:34.000Z"
+  },
+  {
+    "id": "5bdd143c-09ea-4ef6-bceb-e75ac3b6f7eb",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid",
+    "summary": "1. Ventuals to compensate traders after faulty oracle data sent SPACEX perps down 45% on Hyperliquid, wiping $1.51 million.",
+    "url": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-05-29T09:12:53.000Z"
+  },
+  {
+    "id": "a1f46240-4c42-491c-bf9d-8a36f76f6227",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Strategy's STRC slips below $99 as Strive captures investor attention",
+    "summary": "1. STRC has struggled to maintain its $100 target price, while Strategy's reduced cash reserves and dividend obligations are drawing increased investor attention.",
+    "url": "https://www.coindesk.com/markets/2026/05/29/strategy-s-strc-slips-below-usd99-as-strive-captures-investor-attention",
+    "author": "James Van Straten",
+    "created_at": "2026-05-29T09:10:49.000Z"
+  },
+  {
+    "id": "edc77ebe-160e-4a68-bcae-9b03e3723004",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Grant Cardone says his wealth strategy is to hustle fiat and convert it to real estate or Bitcoin, saying he doesn’t believe in gold and silver.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b0ffcb80",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-29T09:09:15+00:00"
+  },
+  {
+    "id": "1c437ff4-3a0c-4012-9ad5-2bc359a11a1f",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Poll: Trump’s economic message isn't breaking through",
+    "summary": "1. New results from The POLITICO Poll underscore the challenge facing the president and Republicans, who are eager to channel voters’ cost of living concerns into a winning midterm message.",
+    "url": "https://www.politico.com/news/2026/05/29/poll-trump-economy-midterms-iran-war-00941406",
+    "author": "By Erin Doherty",
+    "created_at": "2026-05-29T09:00:00.000Z"
+  },
+  {
+    "id": "1f2204ec-8610-4208-8568-852bc4e38e94",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The nation’s cartoonists on the week in politics",
+    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
+    "url": "https://www.politico.com/gallery/2026/05/29/the-nations-cartoonists-on-the-week-in-politics-00942154",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-05-29T09:00:00.000Z"
+  },
+  {
+    "id": "8ca09079-c0d1-4c09-953c-7abc379efee9",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘First and only’: Paxos secures SEC registration as clearing and settlement agency",
+    "summary": "1. Paxos said it is the first and only blockchain-native firm to be registered as a clearing agency under the SEC.",
+    "url": "https://www.theblock.co/post/402994/paxos-sec-registration?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-05-29T08:51:59.000Z"
+  },
+  {
+    "id": "d5ed3e6f-c517-46a2-b77b-8d4ef1d2a76b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M",
+    "summary": "1. OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, deepening ties between traditional finance and crypto in South Korea’s tightly regulated market.",
+    "url": "https://cointelegraph.com/news/okx-ventures-korea-investment-securities-buy-196-stake-in-coinone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-05-29T08:31:00.000Z"
+  },
+  {
+    "id": "698e11f2-e739-4dbf-977c-86509b0dbbbf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Stake DAO Freezes Arbitrum vsdCRV Markets After Attacker Mints 5.4T Synthetic Tokens",
+    "summary": "1. On May 27, decentralized finance platform Stake DAO suffered an infinite-minting exploit on its Arbitrum protocol.\n2. However, Stake DAO core contributors quickly secured the mainnet funds backing the tokens, shut down the vsdCRV bridge, and successfully contained the exploit.\n3. Infinite-Minting Loophole Triggers Exploit Decentralized finance ( DeFi), platform Stake DAO confirmed May 27 that its […]",
+    "url": "https://news.bitcoin.com/stake-dao-freezes-arbitrum-vsdcrv-markets-after-attacker-mints-5-4t-synthetic-tokens/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-29T08:30:52.000Z"
+  },
+  {
+    "id": "4661d08d-e1bf-49eb-b3eb-31464836e6bb",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Bitwise CIO Matt Hougan says Hyperliquid is not a crypto app targeting the digital asset market, rather it’s a “super app” targeting the $600T global asset market.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8db94f8e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-29T08:29:39+00:00"
+  },
+  {
+    "id": "f5669dc8-3d8c-4394-be39-c0926b5c5d11",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+    "summary": "1. The campaign targets crypto, DeFi, AI and security developers with fake tooling packages to steal wallets, SSH keys, GitHub tokens, cloud credentials and browser data.",
+    "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-05-29T08:19:42.000Z"
+  },
+  {
+    "id": "36d58a56-3459-44fb-8af5-b74268696385",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Anthropic has reportedly raised $65 billion in Series H funding at a staggering $965 billion post-money valuation, while reports estimate the company is now generating at least 35% more revenue than OpenAI.Twitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#fd3951a5",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-29T07:10:55.709Z"
+    "created_at": "2026-05-29T07:48:53+00:00"
+  },
+  {
+    "id": "fb71b695-e6a1-4f5a-a5a4-5eb60ce1cf65",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Sui Network Suffers 6-Hour Outage Following 1.72 Upgrade Bug",
+    "summary": "1. The Sui blockchain experienced a nearly six-hour network stall, halting all onchain block production.\n2. The disruption marks the second major downtime event for the high-throughput network this year.\n3. Onchain Data Shows Block Production Halt for Sui Mainnet The Sui blockchain experienced a severe network stall, halting all block production for exactly five hours and 55 […]",
+    "url": "https://news.bitcoin.com/sui-network-suffers-6-hour-outage-following-upgrade-bug/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-05-29T07:30:38.000Z"
   },
   {
     "id": "367a4e31-8c44-48a7-9c92-7be39be1ebb9",
@@ -70,7 +250,7 @@
     "created_at": "2026-05-29T06:27:21.000Z"
   },
   {
-    "id": "ae70cd53-5c46-49b8-8da1-ffc8fa05f888",
+    "id": "919b1110-4d6c-424b-9232-ca7a1a2fc1da",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 SEC grants first blockchain-native company 'Paxos' approval to clear and settle securities transactions.@WatcherGuru",
@@ -228,165 +408,5 @@
     "url": "https://www.politico.com/video/2026/05/28/audience-questions-special-cameos-behind-the-scenes-stories-with-dasha-burns-2079363",
     "author": "Politico",
     "created_at": "2026-05-29T03:59:00.000Z"
-  },
-  {
-    "id": "e2f7de3e-686c-4efb-aa7f-8be38ee1176f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?",
-    "summary": "1. Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoin under pressure amid heavy ETF outflows and corporate selling",
-    "url": "https://cointelegraph.com/markets/bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-05-29T03:44:40.000Z"
-  },
-  {
-    "id": "d42c74c5-4ca9-4ffe-a575-96c7c9a4d579",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Treasury Secretary Scott Bessent says the US needs to bring crypto onshore, as \"all the nonsense that happens\" is the result of an unregulated \"Wild Wild West offshore.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e3292a23",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-29T03:44:21+00:00"
-  },
-  {
-    "id": "3f00c8cc-8632-4548-9b7c-dea13b44d06c",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. John Solomon unpacks a bombshell revelation about James Comey:",
-    "url": "https://trumpstruth.org/statuses/38848",
-    "author": "Trump Truth",
-    "created_at": "2026-05-29T03:34:25.000Z"
-  },
-  {
-    "id": "0ed2797a-b5f1-4a77-963a-91ff1c16be5f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Judge clears Trump’s voter citizenship checks and mail-in voting crackdown, slapping down Democrats:",
-    "url": "https://trumpstruth.org/statuses/38849",
-    "author": "Trump Truth",
-    "created_at": "2026-05-29T03:34:03.000Z"
-  },
-  {
-    "id": "d194d73a-5074-46fd-99e7-34900eea7caa",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. FBI and DOJ concerns on Mar-a-Lago raid bolster Florida-based anti-Trump ‘grand conspiracy’ inquiry:",
-    "url": "https://trumpstruth.org/statuses/38850",
-    "author": "Trump Truth",
-    "created_at": "2026-05-29T03:32:54.000Z"
-  },
-  {
-    "id": "32c5dec0-1912-4250-8b1f-48d47e58fcbc",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Sumitomo Mitsui Trust Partners With Hashport to Turn Card Points into JPYC Stablecoins",
-    "summary": "1. The announcement constitutes the first initiative of its kind in Japan, allowing users to exchange their loyalty points received for JPYC, Japan’s first onchore yen stablecoin.\n2. The initiative has the potential to bring ¥2.8 trillion to the stablecoin ecosystem, powering massive adoption.\n3. Sumitomo Mitsui Trust Club and Hashport Launch Reward Point To Stablecoin Exchange Program […]",
-    "url": "https://news.bitcoin.com/sumitomo-mitsui-trust-partners-with-hashport-to-turn-card-points-into-jpyc-stablecoins/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-29T03:30:54.000Z"
-  },
-  {
-    "id": "49a16472-a29e-4ec4-9fc9-9ec024df372e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Treasury Secretary Scott Bessent reiterates ‘no CBDC’ commitment under Trump admin",
-    "summary": "1. During a Thursday press briefing, Bessent also urged the House and the Senate to get the Clarity Act to the finish line.",
-    "url": "https://www.theblock.co/post/402971/scott-bessent-reiterates-no-cbdc?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-05-29T02:53:58.000Z"
-  },
-  {
-    "id": "c4e60af7-a9e6-460d-9c54-79c296451b2a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CFTC Sues Rhode Island as State Rules Threaten Prediction Markets",
-    "summary": "1. The Commodity Futures Trading Commission (CFTC) moved to intervene in Rhode Island litigation over prediction markets, seeking to block state gambling laws from being applied to federally regulated event-contract platforms.\n2. The dispute centers on civil penalties, federal preemption claims, and several state challenges.\n3. CFTC Moves Against Rhode Island Over Prediction Markets Dispute The Commodity Futures […]",
-    "url": "https://news.bitcoin.com/cftc-sues-rhode-island-as-state-rules-threaten-prediction-markets/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-29T02:30:45.000Z"
-  },
-  {
-    "id": "517dabb8-502f-494a-baab-f2eac0b8dfbe",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Keyinside, developer of MiL.k, files patent for stablecoin payment system",
-    "summary": "Keyinside, the developer of the blockchain-based loyalty point integration platform 'MiL.k', announced today that it has filed a patent for a stablecoin payment model. According to News1, the solution would allow users to pay with stablecoins at offline merchants using popular crypto wallets such as MetaMask. more:",
-    "url": "https://t.me/CoinnessGL#15086e45",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-29T02:27:52+00:00"
-  },
-  {
-    "id": "41f0523b-c8c9-4f6f-87e1-c486bd426676",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase engineering head resigns, will remain advisor for x402 project",
-    "summary": "Erik Reppel, head of engineering for the Coinbase Developer Platform (CDP), has announced on X that he is leaving the company to launch his own startup. Reppel added that he will continue to be involved with Coinbase's x402 open payment protocol project and will also maintain his advisory role at Agentic Commerce. He will be succeeded by Senior Engineering Manager Yuga Cohler.",
-    "url": "https://t.me/CoinnessGL#85ddc802",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-29T02:20:19+00:00"
-  },
-  {
-    "id": "6b4dc5dc-7e8c-4b8a-8155-10e465a17a38",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "MicroStrategy deposits $30.3M in BTC to Coinbase Prime",
-    "summary": "MicroStrategy (MSTR) has deposited 411.48 BTC, worth $30.3 million, to Coinbase Prime, according to on-chain analytics firm Lookonchain. Coinbase Prime is a prime brokerage platform that provides large-scale trading and custody services for institutional investors. Meanwhile, betting odds on Polymarket that MicroStrategy will sell its BTC this year have now risen to 84%.",
-    "url": "https://t.me/CoinnessGL#d5b5ec7e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-29T02:14:18+00:00"
-  },
-  {
-    "id": "df958e4b-52aa-4165-8303-8325da7af437",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.156",
-    "summary": "1. ## What's changed\n\n- Fixed an issue when using Opus 4.8 where thinking blocks were modified, leading to API errors.",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.156",
-    "author": "ashwin-ant",
-    "created_at": "2026-05-29T01:42:23Z"
-  },
-  {
-    "id": "f203903c-5f34-4544-88d4-301d72b25a3f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Treasury Secretary Scott Bessent says there will be no CBDC under the Trump administration.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e2d6d1ba",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-29T01:39:29+00:00"
-  },
-  {
-    "id": "3819fa4b-28ba-40bb-ae80-97339417aa9b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Anti-Crypto Army Lost: Ripple CEO Cites Trump’s Future-Proof Crypto Push",
-    "summary": "1. Ripple CEO Brad Garlinghouse framed President Trump’s crypto post as a sign of a new U.S.\n2. policy opening for digital assets.\n3. XRP remains part of the broader market debate as lawmakers weigh clearer federal rules.",
-    "url": "https://news.bitcoin.com/anti-crypto-army-lost-ripple-ceo-cites-trumps-future-proof-crypto-push/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-29T01:30:23.000Z"
-  },
-  {
-    "id": "cc2b3489-4b6f-4d86-8261-8e4e952f2b87",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
-    "summary": "1. The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
-    "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-05-29T01:22:16.000Z"
-  },
-  {
-    "id": "e6a521c0-55c6-440e-abb4-4efb7780c203",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Jeff Bezos's Blue Origin New Glenn rocket explodes during a static-fire test.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#36c62e72",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-29T01:11:14+00:00"
   }
 ]
