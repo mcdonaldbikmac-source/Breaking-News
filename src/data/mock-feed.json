@@ -1,16 +1,256 @@
 [
   {
-    "id": "ddf401b7-c23e-44b5-89fa-eebfddc4cc81",
+    "id": "829c7dfe-57e1-4800-96b6-e94b35aad3ef",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Anthropic has reportedly raised $65 billion in Series H funding at a staggering $965 billion post-money valuation, while reports estimate the company is now generating at least 35% more revenue than OpenAI.Twitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#fd3951a5",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-28T20:40:54.391Z"
+    "created_at": "2026-05-29T02:31:09.972Z"
   },
   {
-    "id": "6eccdfdb-0586-45e6-a3fc-e124022ad283",
+    "id": "517dabb8-502f-494a-baab-f2eac0b8dfbe",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Keyinside, developer of MiL.k, files patent for stablecoin payment system",
+    "summary": "Keyinside, the developer of the blockchain-based loyalty point integration platform 'MiL.k', announced today that it has filed a patent for a stablecoin payment model. According to News1, the solution would allow users to pay with stablecoins at offline merchants using popular crypto wallets such as MetaMask. more:",
+    "url": "https://t.me/CoinnessGL#15086e45",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T02:27:52+00:00"
+  },
+  {
+    "id": "41f0523b-c8c9-4f6f-87e1-c486bd426676",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase engineering head resigns, will remain advisor for x402 project",
+    "summary": "Erik Reppel, head of engineering for the Coinbase Developer Platform (CDP), has announced on X that he is leaving the company to launch his own startup. Reppel added that he will continue to be involved with Coinbase's x402 open payment protocol project and will also maintain his advisory role at Agentic Commerce. He will be succeeded by Senior Engineering Manager Yuga Cohler.",
+    "url": "https://t.me/CoinnessGL#85ddc802",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T02:20:19+00:00"
+  },
+  {
+    "id": "6b4dc5dc-7e8c-4b8a-8155-10e465a17a38",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "MicroStrategy deposits $30.3M in BTC to Coinbase Prime",
+    "summary": "MicroStrategy (MSTR) has deposited 411.48 BTC, worth $30.3 million, to Coinbase Prime, according to on-chain analytics firm Lookonchain. Coinbase Prime is a prime brokerage platform that provides large-scale trading and custody services for institutional investors. Meanwhile, betting odds on Polymarket that MicroStrategy will sell its BTC this year have now risen to 84%.",
+    "url": "https://t.me/CoinnessGL#d5b5ec7e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T02:14:18+00:00"
+  },
+  {
+    "id": "df958e4b-52aa-4165-8303-8325da7af437",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.156",
+    "summary": "1. ## What's changed\n\n- Fixed an issue when using Opus 4.8 where thinking blocks were modified, leading to API errors.",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.156",
+    "author": "ashwin-ant",
+    "created_at": "2026-05-29T01:42:23Z"
+  },
+  {
+    "id": "86d04687-bdce-41a0-8f64-558ba3ca3392",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Treasury Secretary Scott Bessent says there will be no CBDC under the Trump administration.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e2d6d1ba",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-29T01:39:29+00:00"
+  },
+  {
+    "id": "3819fa4b-28ba-40bb-ae80-97339417aa9b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Anti-Crypto Army Lost: Ripple CEO Cites Trump’s Future-Proof Crypto Push",
+    "summary": "1. Ripple CEO Brad Garlinghouse framed President Trump’s crypto post as a sign of a new U.S.\n2. policy opening for digital assets.\n3. XRP remains part of the broader market debate as lawmakers weigh clearer federal rules.",
+    "url": "https://news.bitcoin.com/anti-crypto-army-lost-ripple-ceo-cites-trumps-future-proof-crypto-push/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-29T01:30:23.000Z"
+  },
+  {
+    "id": "cc2b3489-4b6f-4d86-8261-8e4e952f2b87",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+    "summary": "1. The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+    "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-05-29T01:22:16.000Z"
+  },
+  {
+    "id": "15c6b91b-58d9-4a3d-ba6a-789e3f08b032",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Jeff Bezos's Blue Origin New Glenn rocket explodes during a static-fire test.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#36c62e72",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-29T01:11:14+00:00"
+  },
+  {
+    "id": "8041d2e0-2519-456a-81d6-99d8274bbbf2",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Gemini taps Grok for personalized AI-powered prediction market feeds ",
+    "summary": "1. Gemini is leaning into AI features for its prediction market, following other crypto exchanges in moving beyond crypto trading amid a market slump.",
+    "url": "https://cointelegraph.com/news/gemini-taps-grok-personalized-ai-powered-prediction-market-feeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-05-29T00:59:09.000Z"
+  },
+  {
+    "id": "0465ecec-1d4c-46f6-bba5-2e64e39000c1",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "summary": "1. The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "author": "Marina Temkin",
+    "created_at": "2026-05-29T00:44:37.000Z"
+  },
+  {
+    "id": "650c73cb-7e34-4259-b2ab-10643f26bb1f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CFTC Moves to Drop Gemini Restrictions in Case It Says Shouldn’t Exist",
+    "summary": "1. The CFTC says its Gemini crypto case should never have been filed under current enforcement standards.\n2. The agency has joined Gemini in asking a federal court to remove remaining settlement restrictions after monetary penalties were already satisfied.\n3. CFTC Review of Gemini Case Reshapes Crypto Enforcement The Commodity Futures Trading Commission (CFTC) brought its effort to […]",
+    "url": "https://news.bitcoin.com/cftc-moves-to-drop-gemini-restrictions-in-case-it-says-shouldnt-exist/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-29T00:30:02.000Z"
+  },
+  {
+    "id": "a7bdf554-552e-4a87-9475-5f6753a41e9c",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+    "summary": "1. A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
+    "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-05-29T00:14:35.000Z"
+  },
+  {
+    "id": "b6208413-d0be-4816-bb85-9549ca48e1e4",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ French semiconductor firm Sequans Communications is ending its Bitcoin treasury strategy and will monetize its remaining 658 BTC over time.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8ac5399d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-28T23:54:04+00:00"
+  },
+  {
+    "id": "9503288d-3212-4d55-8b46-e11a79f7c91c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Traders Hit 47% Losses as Santiment Flags Historic Dip-Buy Setup",
+    "summary": "1. XRP traders are facing rare loss extremes as Santiment data points to deep bearish sentiment and potential rebound conditions.\n2. The firm said average active traders were down 47%, placing short-term holders in one of the weakest return zones since late 2020.\n3. XRP Trader Losses Put Sentiment at Rare Extremes Crypto data intelligence firm Santiment shared […]",
+    "url": "https://news.bitcoin.com/xrp-traders-hit-47-losses-as-santiment-flags-historic-dip-buy-setup/",
+    "author": "Kevin Helms",
+    "created_at": "2026-05-28T23:30:37.000Z"
+  },
+  {
+    "id": "703bc542-2c61-44df-b683-943e84c9cc21",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Hyperliquid’s SpaceX perpetual contract plunged nearly 45% in 30 minutes, liquidating 405 users and wiping out $1.51M in notional value as thin liquidity amplified a large sell order.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#cd3c77e5",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-28T23:04:28+00:00"
+  },
+  {
+    "id": "0e300d41-1e28-437e-8311-a3022800ba25",
+    "source": "Politico",
+    "type": "rss",
+    "title": "‘Why are we talking about this?’: Democrats are furious that the Bidens won’t go away",
+    "summary": "1. Jill Biden’s new memoir is the latest of many pain points for Democrats who want to move on from 2024.",
+    "url": "https://www.politico.com/news/2026/05/28/biden-democrats-2024-election-00942001",
+    "author": "By Lisa Kashinsky, Dasha Burns and Andrew Howard",
+    "created_at": "2026-05-28T22:55:14.000Z"
+  },
+  {
+    "id": "a75f6362-f37b-4e25-b079-3c65b3ea6227",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
+    "summary": "1. Bulls abandon ship as SOL futures open interest dropped 30% in May.\n2. With the price weakening near $80, Solana may be destined for new lows.",
+    "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-05-28T22:39:43.000Z"
+  },
+  {
+    "id": "1c432a04-c9ba-4d5d-b026-efaa85701c2b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems",
+    "summary": "1. The investment firm said nation-states and central banks are increasingly turning to assets like Bitcoin and gold as alternative settlement systems outside of US control.",
+    "url": "https://cointelegraph.com/news/fidelity-digital-assets-shift-dollar-based-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Vince Quill",
+    "created_at": "2026-05-28T22:32:50.000Z"
+  },
+  {
+    "id": "09c1630d-9cb9-4a33-a382-0ab1cb9505c2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+    "summary": "1. As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.",
+    "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
+    "author": "AI Boost",
+    "created_at": "2026-05-28T22:03:42.000Z"
+  },
+  {
+    "id": "f9d747f1-1b3c-4d38-9f52-a54be2040c33",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 $DELL is up 57% since President Trump said to buy the stock on May 8th.Yesterday, the US government announced a $9.7 billion contract with Dell.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#0b851026",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-28T21:56:34+00:00"
+  },
+  {
+    "id": "babc86a8-c6be-496d-a041-e2bcc8fa492a",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Base Launches Azul Upgrade, Takes Step Toward Stage 2 Decentralization",
+    "summary": "1. The Coinbase-incubated layer-2 network activated multiproofs on mainnet, combining TEE and ZK proof systems to move closer to full decentralization while cutting empty blocks by 99%.",
+    "url": "https://thedefiant.io/news/blockchains/base-launches-azul-upgrade-takes-step-toward-stage-2-decentralization",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-28T21:27:03.000Z"
+  },
+  {
+    "id": "722be1a3-f0a3-4d86-a903-b96158730f70",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
+    "summary": "1. Claude maker Anthropic said annualized revenue surpassed $47 billion as it expands cloud and compute partnerships.",
+    "url": "https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise",
+    "author": "Jason Nelson",
+    "created_at": "2026-05-28T20:51:52.000Z"
+  },
+  {
+    "id": "25d37257-355b-4366-beac-c79554e0716b",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Hochul knocks Trump’s ‘slush fund’",
+    "summary": "1. Hochul knocks Trump’s ‘slush fund’",
+    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/28/hochul-knocks-trumps-slush-fund-00941504",
+    "author": "By Nick Reisman",
+    "created_at": "2026-05-28T20:49:55.000Z"
+  },
+  {
+    "id": "60ec9e98-b800-4a36-876a-0705c954187c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Gemini crypto exchange launches AI data feed powered by Grok",
+    "summary": "1. The move comes as Gemini continues to expand beyond spot crypto trading into derivatives, predictions, and other financial services.",
+    "url": "https://www.theblock.co/post/402961/gemini-crypto-exchange-launches-ai-data-feed-powered-grok?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-05-28T20:40:53.000Z"
+  },
+  {
+    "id": "650d6571-81e3-4e35-a60a-5368a3344200",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BESSENT SAYS NO DEAL WITH IRAN WITHOUT OPEN HORMUZ AND ENRICHED URANIUMTwitter",
@@ -18,335 +258,5 @@
     "url": "https://t.me/SolidIntelX#b931cdc4",
     "author": "@SolidIntelX",
     "created_at": "2026-05-28T20:38:51+00:00"
-  },
-  {
-    "id": "ea35675b-a17e-49cf-a898-bd49df3df2ab",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Trezor Adds USDC and USDT Yield to Suite, Targeting 2 Million Hardware Wallet Users",
-    "summary": "1. Trezor added native stablecoin yield to Trezor Suite on Thursday, letting users earn on USDC and USDT without leaving the hardware wallet’s interface.\n2. Trezor Rolls out Native Yield on USDC and USDT Powered by Morpho Vaults The Prague-based company Trezor integrated Morpho, a decentralized lending protocol running on Ethereum since 2022, to power the feature.",
-    "url": "https://news.bitcoin.com/trezor-adds-usdc-and-usdt-yield-to-suite-targeting-2-million-hardware-wallet-users/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-28T20:30:22.000Z"
-  },
-  {
-    "id": "22e3418b-a765-4562-885a-c74aae50a52f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump: US holds all the cards, Iran is militarily defeated",
-    "summary": "U.S. President Donald Trump said the United States holds all the cards in its conflict with Iran, adding that Iran has been militarily defeated.",
-    "url": "https://t.me/CoinnessGL#69cffe2f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-28T20:29:54+00:00"
-  },
-  {
-    "id": "408ef572-cd76-4d1e-a8c6-e37755bb8aa0",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
-    "summary": "1. The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
-    "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-05-28T20:29:00.000Z"
-  },
-  {
-    "id": "d42ee010-c0f9-47ad-8253-083b310f3935",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Agents Are Learning to Predict What Users Want—Before They Ask for It",
-    "summary": "1. Researchers in China built a model that uses an AI’s downtime to prepare for users’ next question before they ask it.",
-    "url": "https://decrypt.co/369382/ai-agents-learning-predict-what-users-want-before-ask",
-    "author": "Jason Nelson",
-    "created_at": "2026-05-28T20:24:53.000Z"
-  },
-  {
-    "id": "e8252c92-de08-49ba-96ab-20b008d77732",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Sui Network Goes Down for Hours, Just Months After the Last Downtime",
-    "summary": "1. Blockchain network Sui is suffering another period of significant downtime barely five months after the last \"network stall.\"",
-    "url": "https://decrypt.co/369414/sui-network-down-hours-months-after-last-downtime",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-05-28T20:09:41.000Z"
-  },
-  {
-    "id": "8f4514dc-d2df-4420-b3eb-57940288b247",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close higher",
-    "summary": "The three major U.S. stock indices closed higher today.- S&P 500: +0.56%- Nasdaq: +0.91%- Dow Jones: +0.05%",
-    "url": "https://t.me/CoinnessGL#f4d730ab",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-28T20:06:17+00:00"
-  },
-  {
-    "id": "db8e2801-da83-4548-b245-cd1305ed14ca",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Asana acquires no-code agent-builder Stack AI",
-    "summary": "1. Asana will incorporate Stack AI into its growing suite of AI workflow tools.",
-    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "author": "Russell Brandom",
-    "created_at": "2026-05-28T20:06:07.000Z"
-  },
-  {
-    "id": "b4c53dd0-2d24-4356-8026-cb366996f3b2",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto firm FalconX confidentially files for US IPO",
-    "summary": "Cryptocurrency prime brokerage FalconX has confidentially filed a draft S-1 registration statement with the U.S. Securities and Exchange Commission (SEC) for a potential initial public offering (IPO), CoinDesk reported. Citing a source familiar with the matter, the report noted that FalconX has retained several financial institutions, including Wall Street investment firm Cantor, as advisors. The potential IPO remains a private matter, and the actual listing is expected in the second half of this year or possibly next year, contingent on market conditions. more:",
-    "url": "https://t.me/CoinnessGL#248e5fe5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-28T20:05:21+00:00"
-  },
-  {
-    "id": "2c8145ed-cb55-47a4-860e-3c1253ea0469",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CryptoQuant says bitcoin whale and dolphin accumulation stalled as demand remains weak",
-    "summary": "1. Bitcoin holding structure continues to deteriorate as whale and dolphin BTC balances have stalled, CryptoQuant said.",
-    "url": "https://www.theblock.co/post/402954/cryptoquant-bitcoin-whale-dolphin-accumulation-stalled-demand-weak?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-05-28T20:03:53.000Z"
-  },
-  {
-    "id": "3c531f18-8c44-4a0b-980f-8a80c6ee7de1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 S&P 500 closes at new all-time high of 7,563@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#017056c7",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-28T20:01:26+00:00"
-  },
-  {
-    "id": "12043e62-3f84-4f19-bbd0-1c4877b0721a",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Miners Face AI Squeeze as Hash Rate Flattens and Network Enters New Security Phase, Fidelity Says",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Miners Face AI Squeeze as Hash Rate Flattens and Network Enters New Security Phase, Fidelity Says\nFidelity Digital Assets says 2026’s crypto slump masks a deeper “structural retooling,” as institutional adoption, tokenization, and Bitcoin’s evolving infrastructure quietly advance despite weaker prices.\n2. This post Bitcoin Miners Face AI Squeeze as Hash Rate Flattens and Network Enters New Security Phase, Fidelity Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-miners-face-ai-squeeze",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-28T19:55:14.000Z"
-  },
-  {
-    "id": "2268d09d-7baa-4165-968b-53129c09dfcb",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers",
-    "summary": "1. FalconX has hired Cantor and other bankers to advise on a potential IPO and confidentially filed draft paperwork with the SEC, though the listing is not expected until later this year amid volatile market conditions.",
-    "url": "https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers",
-    "author": "Will Canny",
-    "created_at": "2026-05-28T19:53:38.000Z"
-  },
-  {
-    "id": "5c07d11e-0167-424d-bc48-3ca5584e3ba5",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Apple iOS 27 Leaks: Siri Is Being Remade to Be More Like ChatGPT",
-    "summary": "1. Rendered illustrations published ahead of WWDC 2026 reveal a dedicated Siri app, Dynamic Island integration, and a Google Gemini backbone—the biggest overhaul to the assistant in nearly 15 years.",
-    "url": "https://decrypt.co/369415/apple-ios-27-leaks-siri-redesign-chatgpt",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-05-28T19:50:44.000Z"
-  },
-  {
-    "id": "266a21ce-934c-4dcf-8a82-72a75f896321",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘Enough Is Enough’: Kalshi Slams Polymarket Over Alleged Lack of Compliance and KYC",
-    "summary": "1. Josh Stevens, VP of Engineering at Polymarket, denied reports indicating that the prediction market platform would shift to a model requiring full customer ID for its operations.\n2. Kalshi’s Head of Enforcement, Robert J.\n3. DeNault, called Polymarket to enhance its compliance policies, as insiders were “using the platform left and right.” Kalshi Criticizes Polymarket’s Compliance Policies: […]",
-    "url": "https://news.bitcoin.com/enough-is-enough-kalshi-slams-polymarket-over-alleged-lack-of-compliance-and-kyc/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-28T19:35:29.000Z"
-  },
-  {
-    "id": "3c8ddc0a-cb4a-4493-9898-406cfe653095",
-    "source": "The Block",
-    "type": "rss",
-    "title": "The Digital Chamber ramps up pressure on Congress with call to action to pass Clarity Act",
-    "summary": "1. The Digital Chamber published a website to serve as a central spot for people to write to lawmakers in its latest push to pass a crypto bill.",
-    "url": "https://www.theblock.co/post/402948/the-digital-chamber-ramps-up-pressure-on-congress-with-call-to-action-to-pass-clarity-act?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-05-28T19:35:02.000Z"
-  },
-  {
-    "id": "1e31420e-0691-4af8-b629-387dfdaac71e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 JPMorgan says Bitcoin and gold ETF outflows over the past 2 weeks point to a cooling debasement trade, potentially linked to hopes for an Iran-US peace deal.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e6d40dc2",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-28T19:29:44+00:00"
-  },
-  {
-    "id": "c80d74d8-d0e1-4b76-84ce-f439bac3c864",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Bluesky embraces long-form content to counter X Articles",
-    "summary": "1. In its latest update, Bluesky is getting into long-form content.",
-    "url": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
-    "author": "Sarah Perez",
-    "created_at": "2026-05-28T19:27:07.000Z"
-  },
-  {
-    "id": "ff96ed1c-55e4-4f8f-bdcd-d763b769f8e8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Sequans Ends Bitcoin Treasury Experiment, Redirects Focus to 5G Growth",
-    "summary": "1. Sequans Communications has fully redeemed all convertible debt from its July 2025 offering by selling a portion of its bitcoin treasury, leaving the Paris-based IoT semiconductor firm with approximately 658 BTC and a near-debt-free balance sheet.\n2. Sequans Cuts Bitcoin Holdings to 658 BTC and Exits Digital Asset Treasury Strategy The company confirmed the transaction Thursday.",
-    "url": "https://news.bitcoin.com/sequans-ends-bitcoin-treasury-experiment-redirects-focus-to-5g-growth/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-28T19:15:59.000Z"
-  },
-  {
-    "id": "2d8fe810-7602-4347-badf-d6627bdb644c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war",
-    "summary": "1. In this week's edition of The Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.",
-    "url": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-05-28T19:09:36.000Z"
-  },
-  {
-    "id": "037e63c7-da9b-467c-bd70-e20323e8f95a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Standard Chartered reaffirmed its Ethereum price targets of $4,000 by end-2026 and $40,000 by end-2030, comparing ETH's drop to Amazon stock in 2001.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b24396a4",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-28T18:59:11+00:00"
-  },
-  {
-    "id": "1063e4bf-d91b-41e5-a034-215d0da2d0d5",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
-    "summary": "1. USAT's market cap jumped above $140 million in April, though it remains well behind Circle's USDC, PayPal's PYUSD and Ripple's RLUSD tokens.",
-    "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-05-28T18:53:40.000Z"
-  },
-  {
-    "id": "5769a294-5715-419f-8722-24e875ae91d1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US Treasury Secretary Bessent calls on Congress pass crypto Clarity Act.\"The most important thing we can do is make digital assets come into the United States.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#2991f1f7",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-28T18:47:32+00:00"
-  },
-  {
-    "id": "f2ce5f29-b085-48b5-8fce-374f1ffa7200",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Anonymous Plaintiff Seeks Legal Title to $293 Billion in Dormant Bitcoin, Without Holding Any Private Keys",
-    "summary": "1. Bitcoin Magazine\n\nAnonymous Plaintiff Seeks Legal Title to $293 Billion in Dormant Bitcoin, Without Holding Any Private Keys\nA pseudonymous claimant, “Noah Doe,” alongside two Wyoming LLCs, has filed a lawsuit in New York Supreme Court seeking recognition as the rightful owner of 39,069 dormant Bitcoin addresses containing roughly 3.8 million BTC—valued at about $293 billion.\n2. This post Anonymous Plaintiff Seeks Legal Title to $293 Billion in Dormant Bitcoin, Without Holding Any Private Keys first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/anonymous-plaintiff-seeks-legal-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-28T18:44:08.000Z"
-  },
-  {
-    "id": "c2e072fe-96ab-4d27-a16c-6037d7c563bf",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "IRAN SAYS US DEAL TEXT NOT FINALIZED, REJECTS WESTERN REPORTSTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#d0897b39",
-    "author": "@SolidIntelX",
-    "created_at": "2026-05-28T18:27:19+00:00"
-  },
-  {
-    "id": "e20c2284-0fdf-437f-a508-d31ca4f9f8af",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ VanEck has launched the first US spot BNB ETF, trading as VBNB on Nasdaq with a 0.39% fee and BNB held in cold storage.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7a14e114",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-28T18:19:28+00:00"
-  },
-  {
-    "id": "42d9b223-d30b-4d6c-af2f-efd5be9e1d1d",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Claude AI developer Anthropic raises $65 billion at $965,000,000,000 valuation.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#8e616194",
-    "author": "@WatcherGuru",
-    "created_at": "2026-05-28T18:13:20+00:00"
-  },
-  {
-    "id": "79d9f00f-cbe3-4f64-83a9-e70df593dcc1",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.154",
-    "summary": "1. ## What's changed\n\n- Opus 4.8 is here!\n2. Now defaults to high effort · /effort xhigh for your hardest tasks\n- Introducing dynamic workflows: ask Claude to create a workflow and it orchestrates work across tens to hundreds of agents in the background, so you can take on larger, more complex tasks.\n3. Run `/workflows` to view your runs\n- Fast mode on Opus 4.8 is now available at a fraction of its previous cost: 2x the standard rate for 2.5x the speed\n- The lean system prompt is now the default for all models except Haiku, Sonnet, and Opus 4.7 and earlier\n- Claude now reserves the multiple-choice question prompt for decisions it genuinely cannot make itself, instead of asking when it already has enough context to proceed\n- `/simplify` now runs a cleanup-only review (reuse, simplification, efficiency, altitude) and applies the fixes, instead of running the full `/code-review --fix` bug-hunting review\n- Renamed the `/effort` slider labels from \"Speed\"/\"Intelligence\" to \"Faster\"/\"Smarter\" for clarity\n- `claude agents`: type `!",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.154",
-    "author": "ashwin-ant",
-    "created_at": "2026-05-28T18:00:55Z"
-  },
-  {
-    "id": "30644238-6e71-464b-9deb-565605de3a72",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Kalshi’s turn: Prediction markets platform sues Minnesota over law going into effect in August",
-    "summary": "1. Following the CFTC's suit, Kalshi has sued the state of Minnesota after Governor Tim Walz signed a law blocking prediction markets.",
-    "url": "https://www.theblock.co/post/402937/kalshis-prediction-markets-sues-minnesota-law-ban?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-05-28T17:55:31.000Z"
-  },
-  {
-    "id": "82ccbd45-3068-4015-b9ef-4b972e5fba43",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Trezor adds native USDt, USDC yield via Morpho integration",
-    "summary": "1. The feature lets users earn stablecoin yield directly through Trezor Suite without connecting external wallets or using separate DeFi apps.",
-    "url": "https://cointelegraph.com/news/trezor-usdc-usdt-yield-morpho-trezor-suite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-05-28T17:28:36.000Z"
-  },
-  {
-    "id": "09fd368b-4043-4df7-9551-6af745f3eda9",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "French company abandons crypto treasury strategy, will liquidate Bitcoin holdings",
-    "summary": "1. In the year since Sequans Communications announced that it would adopt a digital asset treasury strategy, the price of Bitcoin fell by more than 30%.",
-    "url": "https://cointelegraph.com/news/sequans-crypto-treasury-strategy-liquidate-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-05-28T17:22:14.000Z"
-  },
-  {
-    "id": "21fb8931-99f7-445b-8ca1-fa95d8ba9d95",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "P2P.org launches real-time data stream for Sui and Hyperliquid",
-    "summary": "1. P2P.org, a blockchain infrastructure provider operating validators across 40+ proof-of-stake networks since 2018, today launched Syncro Data Stream, a real-time blockchain data stream for Sui and Hyperliquid.",
-    "url": "https://cointelegraph.com/press-releases/p2porg-launches-real-time-data-stream-for-sui-and-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Advertorial",
-    "created_at": "2026-05-28T16:57:03.000Z"
-  },
-  {
-    "id": "546841d6-2413-4b9a-b2a7-2cb5f96d37a6",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Sequans (SQNS) Completes Bitcoin Unwind, Exits Digital Asset Strategy After Less Than a Year",
-    "summary": "1. Bitcoin Magazine\n\nSequans (SQNS) Completes Bitcoin Unwind, Exits Digital Asset Strategy After Less Than a Year\nSequans Communications exited its Bitcoin treasury strategy in under a year after selling most of its holdings to retire convertible debt, leaving about 658 BTC and refocusing on its core IoT business.\n2. This post Sequans (SQNS) Completes Bitcoin Unwind, Exits Digital Asset Strategy After Less Than a Year first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/sequans-completes-bitcoin-unwind",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-05-28T15:48:03.000Z"
-  },
-  {
-    "id": "23bad03b-d117-4188-a1a6-075c4ffb1611",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Gretchen Whitmer says she won’t run for president in 2028",
-    "summary": "1. Whitmer said she’s looking forward to taking “a little bit of a break.”",
-    "url": "https://www.politico.com/news/2026/05/28/gretchen-whitmer-2028-president-00940998",
-    "author": "By Gregory Svirnovskiy and Adam Wren",
-    "created_at": "2026-05-28T15:43:01.000Z"
   }
 ]
