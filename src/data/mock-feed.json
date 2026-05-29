@@ -1,13 +1,113 @@
 [
   {
-    "id": "c163a88b-46ef-46bf-9cd9-70004d6ff230",
+    "id": "7d34cb2c-18b3-4acf-9f15-44bd385e4e3b",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "NATO’s Rutte warns Russia’s reckless behavior is a danger to all after a Russian drone hit a residential block in RomaniaTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#5dc873e9",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-29T09:54:58.875Z"
+    "created_at": "2026-05-29T10:55:08.612Z"
+  },
+  {
+    "id": "a0f4dc92-2a6d-4bc7-b177-2c54604ea915",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto market increasingly decoupling from US stocks, analysis shows",
+    "summary": "The decoupling between the cryptocurrency market and the U.S. stock market is deepening, CoinDesk reported. The outlet noted that Bitcoin (BTC) has continued a bearish trend, falling to its lowest level since April after failing to break through $83,000. This weakening correlation between crypto and U.S. stocks has become more pronounced recently, potentially because the crypto market has not fully recovered from the large-scale leveraged liquidations that occurred last October. CoinDesk also pointed to mixed signals in the derivatives market, explaining that while BTC's implied volatility has significantly decreased, a heightened preference for short-term put options suggests that investor sentiment has not fully improved.",
+    "url": "https://t.me/CoinnessGL#1341315c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T10:44:55+00:00"
+  },
+  {
+    "id": "10537ba7-c91c-4c14-a75e-c9ea88459ca2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin ETF outflows reach record nine-day streak as investors pull $2.8 billion",
+    "summary": "1. The longest run of withdrawals since U.S.\n2. spot bitcoin ETFs listed in January 2024 comes as bitcoin underperforms high-flying AI and semiconductor stocks.",
+    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
+    "author": "James Van Straten",
+    "created_at": "2026-05-29T10:38:47.000Z"
+  },
+  {
+    "id": "0cc56349-1ffd-4ce6-9431-8a8fe851116a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Strategy's 2026 BTC purchases are 2.6x total amount mined",
+    "summary": "Strategy's Bitcoin purchases throughout 2026 have reached a volume 2.6 times greater than the total amount of Bitcoin mined globally over the same period.",
+    "url": "https://t.me/CoinnessGL#5961962a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T10:36:13+00:00"
+  },
+  {
+    "id": "61d4f487-9ce9-48aa-b086-7a036d5bd06c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Charles Hoskinson says crypto can hit a $100T market cap within 12 years, with billions of users coming on board.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ad699d22",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-29T10:34:40+00:00"
+  },
+  {
+    "id": "c270abff-22ed-4d2f-aa28-5604d1874113",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Paxos Secures SEC Registration as Clearing Agency",
+    "summary": "1. The approval makes Paxos the “only blockchain-native firm” approved by the SEC to operate as a registered clearing agency in the U.S.",
+    "url": "https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency",
+    "author": "Decrypt Agent",
+    "created_at": "2026-05-29T10:34:30.000Z"
+  },
+  {
+    "id": "319feec0-dfb2-4c56-afb1-b13d0f997b24",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Certik Unveils ‘Anti-Virus for AI Agents’ as Skill Marketplaces Face Hidden Threats",
+    "summary": "1. Certik has launched a new security platform described as an “anti-virus for AI agents” designed to address the growing risks of unvetted third-party AI skill marketplaces.\n2. The Security Challenge Blockchain and AI security firm Certik, on May 27, unveiled a new security platform designed to evaluate risks in third-party artificial intelligence (AI) skills.\n3. Dubbed the […]",
+    "url": "https://news.bitcoin.com/certik-unveils-anti-virus-for-ai-agents-as-skill-marketplaces-face-hidden-threats/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-29T10:30:53.000Z"
+  },
+  {
+    "id": "9cea7ebc-5fd7-413d-86b3-25394ad8be6e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
+    "summary": "1. Bitcoin's failed breakout above $83,000 is looking increasingly like a bear market signal, even as S&P 500 and Nasdaq futures notch gains and approach all-time highs.",
+    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities",
+    "author": "Oliver Knight",
+    "created_at": "2026-05-29T10:29:14.000Z"
+  },
+  {
+    "id": "424fa2c1-1248-4030-9874-5412a9b3c275",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot CVD chart as of 10:00 a.m. UTC, May 29",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot trading pair. The top section displays a Volume Heatmap, while the bottom shows the Cumulative Volume Delta (CVD).- The Volume Heatmap tracks trading volume at specific price levels. The background color brightens when the price lingers in a particular range or experiences a significant move. These brighter areas can indicate potential support and resistance levels.- The Cumulative Volume Delta (CVD) indicator represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. For example, the yellow line tracks orders between $100 and $1,000, while the brown line tracks large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#5168eca1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-05-29T10:29:12+00:00"
+  },
+  {
+    "id": "99f374f6-6c3a-463b-9962-49b7f66b09f1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Aave Labs secures dual UK licenses for regulated crypto payments infrastructure through local subsidiary",
+    "summary": "1. Aave Labs has obtained FCA cryptoasset registration in the U.K.\n2. for its Push subsidiaries, unlocking zero-fee fiat on-ramps.",
+    "url": "https://www.theblock.co/post/403014/aave-labs-secures-dual-uk-licenses-for-regulated-crypto-payments-infrastructure-through-local-subsidiary?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-05-29T10:18:22.000Z"
+  },
+  {
+    "id": "b8ba7d14-caf4-4b3b-af9b-69d76c5f6441",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
+    "summary": "1. The Governor of Minnesota signed into law a measure that, starting Aug.\n2. 1, makes it a crime to advertise and operate prediction market platforms across the state.",
+    "url": "https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets",
+    "author": "Olivier Acuna",
+    "created_at": "2026-05-29T09:59:39.000Z"
   },
   {
     "id": "dfe4f5e2-e14c-496c-8484-5aa4d2eceba7",
@@ -20,7 +120,7 @@
     "created_at": "2026-05-29T09:54:51+00:00"
   },
   {
-    "id": "ac9d6716-92b1-4165-8fc1-7e23d57a70b3",
+    "id": "e6a81732-d087-4746-8d6f-9ef60baabfed",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ SEC Commissioner Hester Peirce urged regulators not to treat crypto privacy tools as signs of criminal intent, saying privacy should be the norm for law-abiding users.",
@@ -90,7 +190,7 @@
     "created_at": "2026-05-29T09:10:49.000Z"
   },
   {
-    "id": "edc77ebe-160e-4a68-bcae-9b03e3723004",
+    "id": "414202a8-073e-47ab-bb0b-f4ba5da4979a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Grant Cardone says his wealth strategy is to hustle fiat and convert it to real estate or Bitcoin, saying he doesn’t believe in gold and silver.",
@@ -170,7 +270,7 @@
     "created_at": "2026-05-29T08:19:42.000Z"
   },
   {
-    "id": "36d58a56-3459-44fb-8af5-b74268696385",
+    "id": "79839abf-e04a-4873-bfa6-7b2973e849e7",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Anthropic has reportedly raised $65 billion in Series H funding at a staggering $965 billion post-money valuation, while reports estimate the company is now generating at least 35% more revenue than OpenAI.Twitter",
@@ -250,7 +350,7 @@
     "created_at": "2026-05-29T06:27:21.000Z"
   },
   {
-    "id": "919b1110-4d6c-424b-9232-ca7a1a2fc1da",
+    "id": "556171d5-b46f-4ef1-918f-32e44a375cf1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 SEC grants first blockchain-native company 'Paxos' approval to clear and settle securities transactions.@WatcherGuru",
@@ -338,75 +438,5 @@
     "url": "https://t.me/CoinnessGL#3505247d",
     "author": "@CoinnessGL",
     "created_at": "2026-05-29T04:55:27+00:00"
-  },
-  {
-    "id": "1c9dde53-2974-4c3c-8aee-bcbbfa5a8a60",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin, ether little-changed despite record stocks, falling oil and easing war fears",
-    "summary": "1. Global stocks hit records and oil cracked on a tentative US-Iran ceasefire extension.\n2. Crypto stayed on the sidelines, with some analysts saying the next catalyst is regulatory, not geopolitical.",
-    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-ether-little-changed-despite-record-stocks-falling-oil-and-easing-war-fears",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-29T04:41:55.000Z"
-  },
-  {
-    "id": "bc2b5a52-7508-46b7-85dd-aa7b52875f2a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin’s major holders halt buys as demand slows: CryptoQuant",
-    "summary": "1. CryptoQuant says that the holding structure for large Bitcoin holders is deteriorating, a trend that has historically preceded “sustained price weakness.”",
-    "url": "https://cointelegraph.com/news/bitcoin-hodling-structure-weakening-across-major-investor-cohorts-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-05-29T04:33:46.000Z"
-  },
-  {
-    "id": "8ae5ff59-53eb-44bb-97b7-058679abaf0e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Quantus Warns Quantum Computers Could Threaten $2T in Bitcoin and Crypto Assets",
-    "summary": "1. A new Quantus report says the crypto industry is not moving fast enough to prepare for quantum computers that could break today’s signature systems.\n2. The report warns that bitcoin, ethereum, and other major networks face a difficult migration problem because public keys live permanently on-chain.\n3. Google and IBM Advances Push Bitcoin Quantum Threat Closer Quantum […]",
-    "url": "https://news.bitcoin.com/quantus-warns-quantum-computers-could-threaten-2t-in-bitcoin-and-crypto-assets/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-05-29T04:30:36.000Z"
-  },
-  {
-    "id": "2c480f62-ba3b-41c6-936c-18d28bbbaf4d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "FG Nexus transfers $10.1M in ETH to Galaxy Digital",
-    "summary": "Nasdaq-listed company FG Nexus (FGNX), which has been strategically accumulating Ethereum, transferred 5,000 ETH ($10.06 million) to Galaxy Digital, according to Onchain Lens. The company currently holds 16,354 ETH, valued at $34.15 million.",
-    "url": "https://t.me/CoinnessGL#6f0912f2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-05-29T04:24:18+00:00"
-  },
-  {
-    "id": "f51eac98-da4e-4345-837f-85a6b668b01e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin's record holder supply hides a buyer drought, CryptoQuant says",
-    "summary": "1. A record high in long-term holder supply typically signals conviction.\n2. CryptoQuant says it reflects a shortage of new buyers, a view echoed by weakening ETF demand and bearish prediction market odds.",
-    "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-s-record-holder-supply-hides-a-buyer-drought-cryptoquant-says",
-    "author": "Sam Reynolds",
-    "created_at": "2026-05-29T04:23:22.000Z"
-  },
-  {
-    "id": "81a0160d-5d8c-4817-b343-271ef1ecf78c",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Sui Network back online after ‘crash bug’ causes 6 hour outage",
-    "summary": "1. The Sui mainnet has resumed after a bug in a network update took it offline for 5 hours and 55 minutes.",
-    "url": "https://cointelegraph.com/news/sui-network-back-online-after-crash-bug-six-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-05-29T04:08:41.000Z"
-  },
-  {
-    "id": "b45a8d9e-7554-4c3c-b625-96056a04c05d",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Audience questions, special cameos &amp; behind-the-scenes stories with Dasha Burns",
-    "summary": "1. Audience questions, special cameos & behind-the-scenes stories with Dasha Burns",
-    "url": "https://www.politico.com/video/2026/05/28/audience-questions-special-cameos-behind-the-scenes-stories-with-dasha-burns-2079363",
-    "author": "Politico",
-    "created_at": "2026-05-29T03:59:00.000Z"
   }
 ]
