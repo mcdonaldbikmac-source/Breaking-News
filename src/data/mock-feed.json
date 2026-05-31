@@ -1,13 +1,93 @@
 [
   {
-    "id": "3cf4e8c4-61e3-4b8f-8602-174383af886f",
+    "id": "81c11e5e-9db6-4435-8bce-14e7e5c85c3d",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BLOCKADE OF IRAN PORTS REMAINS IN EFFECT: UKMTOTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#c03713b5",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-31T11:04:30.553Z"
+    "created_at": "2026-05-31T14:00:14.654Z"
+  },
+  {
+    "id": "1c2e8da5-dceb-4cc0-9278-fb8ebf17f5c5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Demands Fort Knox Audit After CIA Official Seized With $40M in Gold Bars",
+    "summary": "1. President Donald Trump renewed his call for a physical audit of the U.S.\n2. gold reserves at Fort Knox this weekend, citing the FBI’s arrest of a former CIA official found with approximately $40 million in gold bars at his Virginia home.\n3. Trump Posts, Then Explains Trump posted on Truth Social over the weekend, writing […]",
+    "url": "https://news.bitcoin.com/trump-demands-fort-knox-audit-after-cia-official-seized-with-40m-in-gold-bars/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-31T13:30:47.000Z"
+  },
+  {
+    "id": "61dc50fb-e142-4c34-9d7e-cf87370c2997",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor hints at buying more Bitcoin.\"Working ₿etter.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d89e3202",
+    "author": "@WatcherGuru",
+    "created_at": "2026-05-31T13:20:29+00:00"
+  },
+  {
+    "id": "5175f139-622e-4ae7-a7d2-4208e52f6795",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Argentine Prosecutors Arrest 24, Seize Over $8M in USDT in 'Fake Coins' Crypto-Fraud Sweep",
+    "summary": "1. The Buenos Aires Public Prosecutor's Office said it ran 90 simultaneous raids and froze more than 8 million USDT across three fraud rings — fake trading apps, WhatsApp hijacks, and a Chinese-origin infostealer operation — in what it calls the province's largest crypto seizure to date.",
+    "url": "https://thedefiant.io/news/regulation/argentine-prosecutors-arrest-24-seize-8m-usdt-fake-coins",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-31T13:01:51.000Z"
+  },
+  {
+    "id": "dd14006d-71d6-440f-9bbd-577f8e8200a2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin's wild days are over — and Trace Mayer says that's a good thing",
+    "summary": "1. The creator of the Mayer Multiple argues bitcoin’s growing economic substance is compressing volatility and attracting deeper capital.",
+    "url": "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness",
+    "author": "James Van Straten",
+    "created_at": "2026-05-31T13:00:00.000Z"
+  },
+  {
+    "id": "3142e87d-396e-45ec-8553-5eb51ffa22aa",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
+    "summary": "1. The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+    "url": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-05-31T13:00:00.000Z"
+  },
+  {
+    "id": "2fdfccf9-3347-49b0-ae0e-63f91527a688",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Alephium Bridge Loses $815K to Forged Guardian Messages, Not Stolen Keys",
+    "summary": "1. Alephium's Wormhole-fork TokenBridge was drained on Ethereum and BNB Chain in roughly seven minutes after an off-chain backend flaw let fraudulent messages slip past its four-guardian network, the team said in a public correction.",
+    "url": "https://thedefiant.io/news/hacks/alephium-bridge-815k-forged-guardian-messages",
+    "author": "The Defiant Team",
+    "created_at": "2026-05-31T12:59:29.000Z"
+  },
+  {
+    "id": "1de1973b-b564-4f35-8588-6a996e67aba4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'",
+    "summary": "1. Bitcoin’s bounce from a key holder cost-basis level has improved the case for further upside, with historical data pointing to $101,000 as a potential best-case target.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-05-31T12:39:47.000Z"
+  },
+  {
+    "id": "85bcead4-929a-4076-8d57-abccb3e936c9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Youtuber Warns Bitcoin Bottom Is Not In as Stablecoin Dominance Hits Risk-off Level",
+    "summary": "1. Bitcoin traded near $73,840 on May 31, 2026, stuck in a narrow band between $73,412 and $74,110 as technical indicators signaled bearish pressure and institutional players moved in opposite directions.\n2. With stablecoin dominance climbing, Tether burning over a billion dollars in 24 hours, and Blackrock offloading $2.1 billion worth of bitcoin over the last ten […]",
+    "url": "https://news.bitcoin.com/youtuber-warns-bitcoin-bottom-is-not-in-as-stablecoin-dominance-hits-risk-off-level/",
+    "author": "Jamie Redman",
+    "created_at": "2026-05-31T12:15:59.000Z"
   },
   {
     "id": "c610db54-f101-445a-bc8c-3e9ae9e00a98",
@@ -48,85 +128,5 @@
     "url": "https://news.bitcoin.com/british-olympian-cj-ujah-appears-at-court-in-crypto-fraud-case/",
     "author": "Terence Zimwara",
     "created_at": "2026-05-31T08:30:24.000Z"
-  },
-  {
-    "id": "cb7ec3ee-d178-4871-8e1f-bf6c2375ac5f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Bitwise CIO Matt Hougan says Bitcoin could get \"well north of a million dollars\" just by capturing market share from the $30T gold market.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a020e3a9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-05-31T07:59:29+00:00"
-  },
-  {
-    "id": "fe284ac7-2178-4c83-92c2-38e30daa3e47",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Roman Storm Accuses the DOJ of Weaponizing Debanking to Sabotage His Legal Defense",
-    "summary": "1. Storm, who might still face a retrial on the Tornado Cash case, rebuked statements from Lead Bank CEO Jackie Reses, who referred to debanking as a “crock of shit.” He affirmed that the phenomenon was real and that he had experienced it multiple times after having his accounts subpoenaed by the DOJ.\n2. Tornado Cash Roman […]",
-    "url": "https://news.bitcoin.com/roman-storm-accuses-the-doj-of-weaponizing-debanking-to-sabotage-his-legal-defense/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-05-31T07:30:24.000Z"
-  },
-  {
-    "id": "0fab59c3-c8c8-4bb7-a15e-ae3430297d69",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Is All DeFi Unsafe? Industry Leaders Push Back After Openzeppelin Founder Warns Retail to Exit Blue-Chips",
-    "summary": "1. Openzeppelin co-founder Manuel Aráoz sparked widespread industry debate by calling decentralized finance ( DeFi) unsafe.\n2. Industry leaders counter that Aráoz’s framing overstates the risk, pointing out that DeFi lending security has improved by roughly 98% since 2020.\n3. Shifting From Drama to Data When Openzeppelin co-founder and former Chief Technology Officer (CTO) Manuel Aráoz characterized decentralized […]",
-    "url": "https://news.bitcoin.com/is-all-defi-unsafe-industry-leaders-push-back-after-openzeppelin-founder-warns-retail-to-exit-blue-chips/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-31T06:30:47.000Z"
-  },
-  {
-    "id": "06991c1a-4598-415d-be0c-bca22d787dec",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment",
-    "summary": "1. Crypto sentiment platform Santiment warned that the two biggest spikes in social media bullishness around Bitcoin have previously been followed by short-term price pullbacks.",
-    "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-05-31T06:02:05.000Z"
-  },
-  {
-    "id": "dd22aa7f-95e9-4387-8e2f-c462a117405f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness",
-    "summary": "1. Bitcoin dip buyers are present near range lows, and new leveraged longs opened in the zone but the volumes lack the size needed to reverse the downtrend.",
-    "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Antonio Oliveira",
-    "created_at": "2026-05-31T05:37:27.000Z"
-  },
-  {
-    "id": "e431af64-f8d2-4b45-810b-2a834b4114d8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Americanfortress Links Stealth Addresses to Arbitrum as DeFi Firms Watch Compliance",
-    "summary": "1. Americanfortress has launched the beta version of its compliant privacy infrastructure on the Arbitrum network, aiming to support institutional decentralized finance ( DeFi) activity.\n2. Solving the Privacy Challenge for Institutional DeFi Americanfortress has launched the beta version of its compliant privacy infrastructure on Arbitrum, introducing tools designed to support institutional and high- volume decentralized finance […]",
-    "url": "https://news.bitcoin.com/americanfortress-links-stealth-addresses-to-arbitrum-as-defi-firms-watch-compliance/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-05-31T05:30:44.000Z"
-  },
-  {
-    "id": "585ebdfa-c866-4a70-b7c8-08f76720b41d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Dhillon wants judge who allegedly attended a Fani Willis event off Georgia election integrity case:",
-    "url": "https://trumpstruth.org/statuses/38956",
-    "author": "Trump Truth",
-    "created_at": "2026-05-31T05:08:48.000Z"
-  },
-  {
-    "id": "d4751d8d-df9a-471b-b5b3-31eefd0be92a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Cotton over chemicals: How Trump’s USDA is Making America’s Fabric Great Again:",
-    "url": "https://trumpstruth.org/statuses/38957",
-    "author": "Trump Truth",
-    "created_at": "2026-05-31T05:08:16.000Z"
   }
 ]
