@@ -1,13 +1,63 @@
 [
   {
-    "id": "9623ecb6-a66d-45c6-9a22-22675841ad22",
+    "id": "3cf4e8c4-61e3-4b8f-8602-174383af886f",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BLOCKADE OF IRAN PORTS REMAINS IN EFFECT: UKMTOTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#c03713b5",
     "author": "@SolidIntelX",
-    "created_at": "2026-05-31T08:27:07.603Z"
+    "created_at": "2026-05-31T11:04:30.553Z"
+  },
+  {
+    "id": "c610db54-f101-445a-bc8c-3e9ae9e00a98",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Latam Insights: The Global War on Crypto Laundering Heats up Across Mexico and Brazil",
+    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, Brazil adds audit requirements for VASPs, Mexico and the EU explore opportunities to target crypto money laundering at a global scale, and the US government declares Brazil’s gangs as global terrorist organizations.",
+    "url": "https://news.bitcoin.com/latam-insights-the-global-war-on-crypto-laundering-heats-up-across-mexico-and-brazil/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-05-31T10:30:59.000Z"
+  },
+  {
+    "id": "7eadf6b3-1293-43c4-8287-c1f4027ec82e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Vietnam proposes allowing SMEs to use digital assets as loan collateral",
+    "summary": "1. Vietnam’s Ministry of Finance has proposed letting SMEs use digital assets, virtual assets and intellectual property as loan collateral.",
+    "url": "https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-31T10:03:56.000Z"
+  },
+  {
+    "id": "34e7571e-a1fa-4d1d-a25c-342f0f500278",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit",
+    "summary": "1. Gravity Bridge was drained of roughly $5.4 million in a suspected signing key compromise, prompting validators to halt the bridge while an investigation is underway.",
+    "url": "https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-05-31T08:57:25.000Z"
+  },
+  {
+    "id": "e66b388e-eabc-465f-822a-60a06fd572a5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "British Olympian CJ Ujah Appears at Court in Crypto Fraud Case",
+    "summary": "1. British Olympic sprinter CJ Ujah and nine other individuals appeared before U.K.\n2. on May 28 on charges related to an organized cryptocurrency fraud scheme.\n3. Crypto Fraud Allegations British sprinter and Olympian CJ Ujah appeared in a U.K.",
+    "url": "https://news.bitcoin.com/british-olympian-cj-ujah-appears-at-court-in-crypto-fraud-case/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-05-31T08:30:24.000Z"
+  },
+  {
+    "id": "cb7ec3ee-d178-4871-8e1f-bf6c2375ac5f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Bitwise CIO Matt Hougan says Bitcoin could get \"well north of a million dollars\" just by capturing market share from the $30T gold market.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a020e3a9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-05-31T07:59:29+00:00"
   },
   {
     "id": "fe284ac7-2178-4c83-92c2-38e30daa3e47",
@@ -78,25 +128,5 @@
     "url": "https://trumpstruth.org/statuses/38957",
     "author": "Trump Truth",
     "created_at": "2026-05-31T05:08:16.000Z"
-  },
-  {
-    "id": "23552671-6398-4795-894a-acfeeef42ff0",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The results of my Physical Examination, taken at Walter Reed Military Medical Center, and just released, were extremely good.\n2. Unlike other U.S.\n3. Presidents, none of whom have ever taken an approved, high difficulty, Cognitive Test, I scored a perfect 30 out of 30, considered “extreme intelligence.” Are the Dumocrats really surprised?",
-    "url": "https://trumpstruth.org/statuses/38955",
-    "author": "Trump Truth",
-    "created_at": "2026-05-31T04:35:28.000Z"
-  },
-  {
-    "id": "5b055d07-8c40-4b03-8b64-08b2f7c63bac",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
-    "summary": "1. A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.",
-    "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-05-31T02:30:00.000Z"
   }
 ]
