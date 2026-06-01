@@ -1,5 +1,105 @@
 [
   {
+    "id": "a6881827-2678-4ef7-bd12-951833b47ce9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Arthur Hayes bets $100K HYPE will outperform top 10 cryptos this year",
+    "summary": "BitMEX co-founder Arthur Hayes has proposed a $100,000 bet to Multicoin Capital co-founder Kyle Samani on the year-end performance of HYPE. Hayes wagered that HYPE would deliver a higher U.S. dollar return by the end of the year than any other asset among the top 10 cryptocurrencies by market capitalization. In response, Samani accepted the bet, choosing to back SOL.",
+    "url": "https://t.me/CoinnessGL#36ad30a7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T06:04:53+00:00"
+  },
+  {
+    "id": "3670eca0-2ab4-42a9-ac5b-1c2cbafa10cd",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto hacking losses in May totaled $68M, down 90% from April",
+    "summary": "Losses from cryptocurrency hacks and exploits totaled approximately $68.3 million in May, Web3 security firm CertiK reported. The figure represents a roughly 90% decrease from the $650 million lost in April. Phishing attacks accounted for approximately $2.6 million of the total, while around $9.4 million was recovered or returned. more:",
+    "url": "https://t.me/CoinnessGL#2ea13941",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T05:58:43+00:00"
+  },
+  {
+    "id": "1776c32e-81b1-4005-9430-2aaada294afd",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC/USDT spot CVD chart as of 6:00 a.m. UTC",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot trading pair. The upper section shows a volume heatmap, and the lower section displays the cumulative volume delta (CVD).- The volume heatmap at the top tracks trading volume at specific price levels. The background color brightens when the price lingers in a certain range or moves significantly, with these brighter areas indicating potential support or resistance.- The cumulative volume delta (CVD) indicator at the bottom shows buy and sell orders categorized by trade size. As buy orders for a specific size increase, the corresponding colored line rises. The yellow line, for instance, tracks orders between $100 and $1,000, while the brown line tracks large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#72ccf521",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T05:55:40+00:00"
+  },
+  {
+    "id": "309188ad-79f3-4a73-8b93-7d3d38bc3e4a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP drops to $1.32 as sellers overpower exchange outflows",
+    "summary": "1. XRP hit a 15-week low before stabilizing, with traders watching whether the latest washout turns into a base or another leg lower.",
+    "url": "https://www.coindesk.com/markets/2026/06/01/xrp-drops-to-usd1-32-as-sellers-overpower-exchange-outflows",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-01T05:41:31.000Z"
+  },
+  {
+    "id": "a9671b70-6941-455b-9f21-04ff786451f6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers",
+    "summary": "1. The Sui Foundation's post-mortem published Sunday traces all three outages to interactions between a new address-balance feature shipped in the v1.72 release and the network's existing gas and consensus logic.",
+    "url": "https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-01T05:38:50.000Z"
+  },
+  {
+    "id": "4121470d-01a8-44a7-bb8f-ae9a84e2547f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitgo CEO Warns Europe’s MiCA Rules Could Trigger a Massive Stablecoin Crisis",
+    "summary": "1. Bitgo CEO Mike Belshe claims that the Markets in Crypto Assets (MiCA) framework puts the entire stablecoin ecosystem in danger by forcing issuers to hold their reserves in fractional banks, exposing crypto to the risks of the fiat system in Europe.\n2. Bitgo CEO States MiCA Brings Systemic Risks to Stablecoin Issuers Mike Belshe, CEO of […]",
+    "url": "https://news.bitcoin.com/bitgo-ceo-warns-europes-mica-rules-could-trigger-a-massive-stablecoin-crisis/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-01T05:30:37.000Z"
+  },
+  {
+    "id": "9bfc59d3-2a32-4a26-ba3c-4f85a54e1049",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
+    "summary": "1. spot bitcoin ETFs lost $2.97 billion across 10 trading days through Friday, the longest outflow streak on record.\n2. Oil's bounce on the stalled Iran deal added pressure even as global equities hit new highs on the Nvidia and SoftBank AI trade.",
+    "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-01T05:11:40.000Z"
+  },
+  {
+    "id": "821defe6-a821-4686-92a3-8a4c10f78c7d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Coinbase launches Indian rupee rails with perps access in expansion push",
+    "summary": "1. The Nasdaq-listed company said it has established INR order books to provide dedicated liquidity for users in the country.",
+    "url": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-01T05:11:02.000Z"
+  },
+  {
+    "id": "31ef4a49-2c53-47e4-b616-ff871fc4c19e",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Has anyone ever seen a happy Dumocrat???\n2. President DJT",
+    "url": "https://trumpstruth.org/statuses/38974",
+    "author": "Trump Truth",
+    "created_at": "2026-06-01T05:03:51.000Z"
+  },
+  {
+    "id": "440138b5-ad8a-4e29-aad3-a81936896b1e",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Iran really wants to make a deal, and it will be a good one for the U.S.A.\n2. and those that are with us.\n3. But don’t the Dumocrats, and various seemingly unpatriotic Republicans,  understand that it is MUCH tougher for me to properly do my job and negotiate, when political hacks keep negatively “chirping,” at levels never seen before, over and over again, that I should move faster, or move slower, or go to war, or not go to war, or whatever.",
+    "url": "https://trumpstruth.org/statuses/38975",
+    "author": "Trump Truth",
+    "created_at": "2026-06-01T05:02:12.000Z"
+  },
+  {
     "id": "0399fe03-154b-4e78-8ccc-b85ee6d7f09b",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -40,6 +140,16 @@
     "created_at": "2026-06-01T04:30:32.000Z"
   },
   {
+    "id": "ba4f4425-ab7a-4a0c-9f35-b9c2061da4bb",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Wintermute to bring liquidity to booming prediction markets sector",
+    "summary": "1. Wintermute says it will provide “two-sided markets across event contracts on leading venues,” but did not specify what platforms it was trading on.",
+    "url": "https://cointelegraph.com/news/wintermute-is-entering-prediction-markets-as-a-liquidity-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-01T04:22:38.000Z"
+  },
+  {
     "id": "8abd1dc2-e663-4161-8f6b-91cd0672a30a",
     "source": "The Block",
     "type": "rss",
@@ -60,7 +170,7 @@
     "created_at": "2026-06-01T03:30:59.000Z"
   },
   {
-    "id": "2a472959-0723-48a7-a8b4-e19f7955d006",
+    "id": "d14224a3-c099-42af-b425-26590c7d7bce",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Intel $INTC to launch new AI chip this year to compete with NVIDIA and AMD.@WatcherGuru",
@@ -140,7 +250,7 @@
     "created_at": "2026-06-01T00:57:40+00:00"
   },
   {
-    "id": "f97aa172-c233-494a-9d4b-a2b444c4617b",
+    "id": "92370e26-4769-48cb-af70-72c3db9c4c7e",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Former Fed Chair Jerome Powell says the Federal Reserve will not survive if officials are removed over policy disagreements.@WatcherGuru",
@@ -178,45 +288,5 @@
     "url": "https://t.me/CoinnessGL#f991f1aa",
     "author": "@CoinnessGL",
     "created_at": "2026-06-01T00:17:38+00:00"
-  },
-  {
-    "id": "02da2a77-6719-4f32-b598-b899747fd35d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Welcome home to Justo Betancourt, whose Daughter, Arianne, fought very hard to free her father from Alligator Alcatraz.\n2. Enjoy your Freedom together!!!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/38973",
-    "author": "Trump Truth",
-    "created_at": "2026-05-31T23:32:55.000Z"
-  },
-  {
-    "id": "071f4ed1-d72f-41e3-8506-c8041816f9ce",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
-    "summary": "1. Coinbase announces INR rails to make the platform fully accessible to Indian retail traders.",
-    "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
-    "author": "Omkar Godbole",
-    "created_at": "2026-05-31T23:30:00.000Z"
-  },
-  {
-    "id": "92240b1d-a4fa-41e1-bc21-3a9ebdb6c62a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Fake News CNN said today, routinely, that my Iran Nuclear Deal doesn’t talk about Nuclear, when actually it states, very clearly, that Iran will not have a Nuclear Weapon.\n2. It then goes on, in very strong and lengthy detail, to discuss various other aspects of Nuclear.\n3. In fact, that’s what most of the agreement is about.",
-    "url": "https://trumpstruth.org/statuses/38972",
-    "author": "Trump Truth",
-    "created_at": "2026-05-31T23:27:46.000Z"
-  },
-  {
-    "id": "48c042c2-4e05-4cd0-bb42-5ee4b130bc89",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP ‘North Star’ Thesis Gains Momentum Beyond Ripple",
-    "summary": "1. XRP treasury use is moving beyond theory as “north star” comments echo Ripple’s long-standing view of the digital asset’s role.\n2. Using XRP for holdings, payments, and liquidity underscores its expanding utility across blockchain networks.\n3. XRP Treasury Use Highlights Cross-Chain Liquidity Strategy XRP is moving from market thesis to operating strategy as treasury use becomes a […]",
-    "url": "https://news.bitcoin.com/xrp-north-star-thesis-gains-momentum-beyond-ripple/",
-    "author": "Kevin Helms",
-    "created_at": "2026-05-31T23:05:33.000Z"
   }
 ]
