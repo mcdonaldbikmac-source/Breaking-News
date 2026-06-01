@@ -1,5 +1,15 @@
 [
   {
+    "id": "0c3742a7-b292-4106-86d9-3427525cc845",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "$50M in 72 Hours: CME Group’s 24/7 Crypto Futures Debut Draws Institutional Demand",
+    "summary": "1. CME Group launched 24/7 cryptocurrency futures and options trading on May 29, marking the first time retail and institutional traders can access regulated crypto derivatives at any hour, any day of the week.\n2. The Chicago-based derivatives exchange announced the expanded hours on June 1, confirming that more than 7,200 contracts traded over the inaugural weekend, […]",
+    "url": "https://news.bitcoin.com/50m-in-72-hours-cme-groups-24-7-crypto-futures-debut-draws-institutional-demand/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-01T21:50:49.000Z"
+  },
+  {
     "id": "f926de10-1c51-47f4-9b19-d4f72ee0e435",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
@@ -48,6 +58,16 @@
     "url": "https://thedefiant.io/news/defi/vitalik-buterin-options-based-defi-replace-liquidation-driven-debt",
     "author": "The Defiant Team",
     "created_at": "2026-06-01T21:20:54.000Z"
+  },
+  {
+    "id": "bb5f0ee3-a1bb-4c38-b4e1-71665e1973f4",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "$60M Polymarket Dispute Over Strategy's May Bitcoin Sale Puts UMA's Token-Voting Oracle on Trial",
+    "summary": "1. A multi-million-dollar Polymarket contract on whether Strategy sold any bitcoin by May 31 has been disputed twice and is now in front of UMA tokenholders, reigniting an analyst argument that prediction-market oracles built on token voting are structurally unfit for high-stakes settlement.",
+    "url": "https://thedefiant.io/news/markets/usd85m-polymarket-dispute-over-strategy-s-may-bitcoin-sale-puts-uma-s-token-voting-oracle-on",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-01T21:19:02.000Z"
   },
   {
     "id": "8e9a9dd7-9c35-49c6-8a89-61d37655c7b7",
@@ -578,45 +598,5 @@
     "url": "https://t.me/WatcherGuru#5284bf89",
     "author": "@WatcherGuru",
     "created_at": "2026-06-01T16:07:12+00:00"
-  },
-  {
-    "id": "e6b506b0-3b96-4c7e-90de-ed494a45116c",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "ANTHROPIC FILES CONFIDENTIALLY WITH SEC FOR IPOTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#19f030a5",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-01T16:01:21+00:00"
-  },
-  {
-    "id": "8fe7abfe-4f38-4063-a258-07e0eeba2a70",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ ECB board member Isabel Schnabel says a digital euro is essential to counter dollar-denominated stablecoins.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#21ce4d90",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-01T15:49:16+00:00"
-  },
-  {
-    "id": "11330c6a-d5ab-44ef-9103-ae8bae91ea86",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy Shares Slide Following Bitcoin Sale—Will It Dump More BTC Ahead?",
-    "summary": "1. Strategy sold Bitcoin, sparking jitters among investors and raising questions among analysts toward the prospect of future sales.",
-    "url": "https://decrypt.co/369625/strategy-shares-slide-bitcoin-sale-dump-more-btc",
-    "author": "André Beganski",
-    "created_at": "2026-06-01T15:44:04.000Z"
-  },
-  {
-    "id": "452012f6-8bad-4bda-895b-4a4659f65383",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Are Ethereum OGs jumping ship? Here's what the data says",
-    "summary": "1. Long-term whales have cashed out millions of dollars from Ethereum following the recent sell-off, potentially putting ETH at risk of further losses.",
-    "url": "https://cointelegraph.com/markets/are-ethereum-ogs-jumping-ship-heres-what-the-data-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nancy Lubale",
-    "created_at": "2026-06-01T15:44:00.000Z"
   }
 ]
