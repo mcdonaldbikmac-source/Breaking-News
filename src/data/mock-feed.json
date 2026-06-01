@@ -1,5 +1,75 @@
 [
   {
+    "id": "0399fe03-154b-4e78-8ccc-b85ee6d7f09b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit delays SLX listing by 30 minutes",
+    "summary": "Upbit announced it is changing the listing time for Solstice (SLX) to 5:30 a.m. UTC today. The listing was previously scheduled for 5:00 a.m. UTC.",
+    "url": "https://t.me/CoinnessGL#4ad43283",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T04:56:44+00:00"
+  },
+  {
+    "id": "1cc96bc0-cefc-4370-8848-14a400532049",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Multicoin Capital co-founder says Web3 is over, leaving only DeFi and DePIN",
+    "summary": "Multicoin Capital co-founder Kyle Samani said that Web3 is over, with only DeFi (decentralized finance) and DePIN (decentralized physical infrastructure) remaining. His comments follow a statement from Starknet co-founder Eli Ben-Sasson, who said the crypto industry is currently facing an identity crisis. Ben-Sasson pointed out that while longtime industry OGs are leaving, institutional investors and traditional finance (TradFi) are beginning to show interest in crypto—the very trend the industry initially resisted.",
+    "url": "https://t.me/CoinnessGL#c84b3c43",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T04:55:20+00:00"
+  },
+  {
+    "id": "1a8491ec-a274-4347-89ef-a99d7cf4fdb6",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Korean crypto trading volume shrinks to 2% of KOSPI's",
+    "summary": "While the KOSPI index has surged recently, boosting stock market trading volume, activity in the South Korean crypto market has dwindled to just 2% of the stock index's level, Maeil Business Newspaper reported. On May 29, the KOSPI's daily trading volume reached 118.267 trillion won, whereas the combined 24-hour trading volume of the country's five largest digital asset exchanges—Upbit, Bithumb, Coinone, Korbit, and Gopax—amounted to only 2.713 trillion won. This marks a sharp reversal from the market sentiment observed just a year ago. more:",
+    "url": "https://t.me/CoinnessGL#b414ab9f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T04:43:36+00:00"
+  },
+  {
+    "id": "dd6ef815-b947-4a7f-b0e6-646d1413e513",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "A7 Exec Warns: ‘Western Compliance Pressure’ Will Push Russia Fully into Independent Digital Payments",
+    "summary": "1. Stanislav Lazarev, Deputy General Director for Sales at A7, believes that the cross-border payments ecosystem will shift toward independent solutions, including digital assets, as participants seek to complete these disbursements while avoiding secondary sanctions imposed by Western countries.\n2. A7: Cross-Border Settlements Ecosystem To Change Due To Western Pressure The sheer number of sanctions Russia is […]",
+    "url": "https://news.bitcoin.com/a7-exec-warns-western-compliance-pressure-will-push-russia-fully-into-independent-digital-payments/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-01T04:30:32.000Z"
+  },
+  {
+    "id": "8abd1dc2-e663-4161-8f6b-91cd0672a30a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "The Funding: How crypto hedge funds are navigating weak markets",
+    "summary": "1. As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever.",
+    "url": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-06-01T03:33:52.000Z"
+  },
+  {
+    "id": "5094c735-50c7-4e49-9a7d-3aba003acd88",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Solo Home Miner Wins $232K Bitcoin Block With a $300 Machine at 149 Million-to-1 Odds",
+    "summary": "1. A solo home miner running a consumer-grade Canaan Avalon Nano 3S beat odds of roughly 149 million to one, winning Bitcoin block 951771 this weekend, and collecting a reward worth approximately $232,000.\n2. One Block, One Machine The block was mined at approximately 00:27 UTC through Braiins Solo, a pool designed for solo miners who want […]",
+    "url": "https://news.bitcoin.com/solo-home-miner-wins-232k-bitcoin-block-with-a-300-machine-at-149-million-to-1-odds/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-01T03:30:59.000Z"
+  },
+  {
+    "id": "2a472959-0723-48a7-a8b4-e19f7955d006",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Intel $INTC to launch new AI chip this year to compete with NVIDIA and AMD.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#196a8541",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-01T03:11:13+00:00"
+  },
+  {
     "id": "c7906ce9-315a-4090-8196-cfc08cf90517",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -40,6 +110,16 @@
     "created_at": "2026-06-01T02:30:28.000Z"
   },
   {
+    "id": "c084db5b-60ea-4d80-af69-f6b4f9c4811e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "White hat hacker recovers $2M from faulty 2016 ICO smart contract",
+    "summary": "1. A white-hat hacker has helped the creators of Hong Coin by showing them how to exploit a flawed admin function on a smart contract and ultimately refund investors after a decade.",
+    "url": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-06-01T02:21:56.000Z"
+  },
+  {
     "id": "8413bf3e-24e7-419b-b6a1-60232cd62dec",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -60,7 +140,7 @@
     "created_at": "2026-06-01T00:57:40+00:00"
   },
   {
-    "id": "d9578858-2f12-4b0f-a590-edc147c14492",
+    "id": "f97aa172-c233-494a-9d4b-a2b444c4617b",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Former Fed Chair Jerome Powell says the Federal Reserve will not survive if officials are removed over policy disagreements.@WatcherGuru",
@@ -138,55 +218,5 @@
     "url": "https://news.bitcoin.com/xrp-north-star-thesis-gains-momentum-beyond-ripple/",
     "author": "Kevin Helms",
     "created_at": "2026-05-31T23:05:33.000Z"
-  },
-  {
-    "id": "1bcc2fc3-090e-4444-92e9-b60f0f197d34",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Animoca’s Yat Siu Warns $900B Ad Industry Faces Collapse as AI Agents Take Over Discovery",
-    "summary": "1. Animoca Brands co-founder Yat Siu says agentic artificial intelligence (AI) is the most important shift in the internet since blockchain, and his firm is backing it with a fresh $10 million investment program.\n2. Yat Siu Says AI Productivity Gains Are 1,000x, Tells Retail Investors to Build Wide Baskets Now Speaking in Miami on The David […]",
-    "url": "https://news.bitcoin.com/animocas-yat-siu-warns-900b-ad-industry-faces-collapse-as-ai-agents-take-over-discovery/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-31T22:04:36.000Z"
-  },
-  {
-    "id": "d4efc4e4-d3e5-4e51-b6e7-f5d4e22162c0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit",
-    "summary": "1. The developer told The Block that two of 48 eligible investors have already claimed 96.5 ETH that was unfrozen, worth nearly $200,000 at current prices.",
-    "url": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-05-31T21:34:48.000Z"
-  },
-  {
-    "id": "e7ca8c7c-2539-447f-8bf8-81c65e5e225d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "An AI Cracks an 80-Year-Old Geometry Puzzle. What Do Mathematicians Make of It?",
-    "summary": "1. Eight decades after Paul Erdős posed the unit distance problem in 1946, a general-purpose AI has produced configurations that beat the long-standing conjectured bounds, proving at least n^(1+δ) unit-distance pairs for some δ>0.\n2. Mathematicians at Princeton have verified the result, with figures like Tim Gowers and Arul Shankar calling it a significant advance.\n3. An 80-year-old […]",
-    "url": "https://news.bitcoin.com/an-ai-cracks-an-80-year-old-geometry-puzzle-what-do-mathematicians-make-of-it-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-05-31T21:12:46.000Z"
-  },
-  {
-    "id": "3b0ed3a8-a6f9-4c90-a56f-2044efac56ff",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US, UK central bankers offer contrary views on stablecoins",
-    "summary": "1. Federal Reserve governor Christopher Waller told a conference on Sunday that stablecoins expand the reach of US policy while the Bank of England’s Megan Greene expects their popularity will soon fade.",
-    "url": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-05-31T21:11:35.000Z"
-  },
-  {
-    "id": "6f06a1c8-86a6-47c7-b0db-992cd8ed7323",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Erin Brockovich takes aim at data center secrecy",
-    "summary": "1. Environmental activist Erin Brockovich has a new mission.",
-    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-    "author": "Anthony Ha",
-    "created_at": "2026-05-31T21:05:14.000Z"
   }
 ]
