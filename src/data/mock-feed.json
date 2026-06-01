@@ -1,5 +1,75 @@
 [
   {
+    "id": "dde4663c-1d72-46ac-8b85-d150c9d82f00",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Powell Warns the Federal Reserve Won’t Survive if a President Can Fire Officials Over Policy",
+    "summary": "1. Former Federal Reserve chair Jerome Powell says the U.S.\n2. central bank would lose the credibility it needs to steady the economy if officials could be removed over policy disagreements.\n3. The warning landed as the Supreme Court weighs President Donald Trump’s effort to fire Governor Lisa Cook.",
+    "url": "https://news.bitcoin.com/powell-fed-independence-warning/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-01T07:30:53.000Z"
+  },
+  {
+    "id": "893432b8-2f25-45ac-bf55-c3b40c96042a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Citi predicts the tokenized securities market will grow to $5.5 trillion by 2030",
+    "summary": "1. Stablecoins alone will generate a demand for up to $1 trillion worth of onchain U.S.\n2. Treasury bills and $2.6 trillion for tokenized stocks, said Citi.",
+    "url": "https://www.coindesk.com/markets/2026/06/01/citi-predicts-the-tokenized-securities-market-will-grow-to-usd5-5-trillion-by-2030",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-01T06:57:05.000Z"
+  },
+  {
+    "id": "0ffae300-8736-4f2a-bb2f-90a4dcc0ffb3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years ",
+    "summary": "1. 0xflorent, a security researcher, found an integer-overflow flaw in the HongCoin token sale contract that lets the team unlock funds for 48 original investors.\n2. It is the second such recovery he has publicized in eight days.",
+    "url": "https://www.coindesk.com/tech/2026/06/01/whitehat-developer-unlocks-usd2-million-stuck-in-a-2016-ethereum-ico-contract-for-nine-years",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-01T06:52:38.000Z"
+  },
+  {
+    "id": "b60518b9-f221-4121-b4b5-e36cc5db8077",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Sui Foundation says ‘major upgrade’ fixed bugs behind three outages ",
+    "summary": "1. The Sui Network's first two outages were caused by bugs introduced in its 1.72 update, while an interim fix deployed to restore the blockchain triggered the third.",
+    "url": "https://cointelegraph.com/news/sui-major-upgrade-fixes-outage-bugs-restores-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-06-01T06:48:04.000Z"
+  },
+  {
+    "id": "70929fd1-4a0b-4c00-a301-37851fabeebb",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto exploit losses in May fall 90% over month to $68M: CertiK",
+    "summary": "1. CertiK says May is the third month so far in 2026 to record crypto losses under $100 million.",
+    "url": "https://cointelegraph.com/news/crypto-exploit-losses-fall-by-90-in-may-to-68m-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-01T06:40:42.000Z"
+  },
+  {
+    "id": "f4ba6a7d-03a6-4a09-99df-24f023aa3487",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "This Week in Crypto Law (May 23, 2026)",
+    "summary": "1. Law and Ledger is a news segment focusing on crypto legal news, brought to you by Kelman Law – A law firm focused on digital asset commerce.\n2. This Week in Crypto Law The opinion editorial below was written by Alex Forehand and Michael Handelsman for Kelman.Law.\n3. The final full week of May offered further evidence […]",
+    "url": "https://news.bitcoin.com/this-week-in-crypto-law-may-23-2026/",
+    "author": "Guest Author",
+    "created_at": "2026-06-01T06:30:34.000Z"
+  },
+  {
+    "id": "c8527f28-c52c-4f71-a12d-fff705fb9135",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Cardano Foundation cancels annual conference after failed funding vote ",
+    "summary": "1. Cardano Foundation has failed at its second attempt to secure funding from Cardano’s community to fund its annual conference.",
+    "url": "https://cointelegraph.com/news/cardano-foundation-cancels-annual-conference-after-failed-funding-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-06-01T06:24:07.000Z"
+  },
+  {
     "id": "a6881827-2678-4ef7-bd12-951833b47ce9",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -228,65 +298,5 @@
     "url": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Brayden Lindrea",
     "created_at": "2026-06-01T02:21:56.000Z"
-  },
-  {
-    "id": "8413bf3e-24e7-419b-b6a1-60232cd62dec",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Eyes Turkey’s $200B Crypto Boom and 4x UAE Lead",
-    "summary": "1. Turkey’s crypto market has become the region’s largest, with roughly $200 billion in transaction volume over the past year.\n2. Ripple executive Reece Merrick described Turkey as a leading crypto adoption market as Istanbul prepares to host a major blockchain event.\n3. Turkey’s Crypto Adoption Surge Signals a Larger Regional Shift Ripple Senior Executive Officer and Managing […]",
-    "url": "https://news.bitcoin.com/ripple-eyes-turkeys-200b-crypto-boom-and-4x-uae-lead/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-01T01:30:11.000Z"
-  },
-  {
-    "id": "44ea7abe-2b20-46c6-95d7-f4bbd87a00e2",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Powell warns firing Fed officials over policy differences threatens independence",
-    "summary": "Jerome Powell, former Chairman of the U.S. Federal Reserve, has warned that the central bank's existence could be threatened if an administration were able to fire its officials over policy disagreements. According to The Wall Street Journal, Powell said at an event in Boston that if one administration finds a way to remove Fed officials based on policy differences, subsequent administrations would do the same. He added that the trust in the Fed, built over decades, is a precious asset that must be protected. The comments were his first public remarks since stepping down as Fed Chairman a week ago.",
-    "url": "https://t.me/CoinnessGL#e4c4c2ac",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-01T00:57:40+00:00"
-  },
-  {
-    "id": "92370e26-4769-48cb-af70-72c3db9c4c7e",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Former Fed Chair Jerome Powell says the Federal Reserve will not survive if officials are removed over policy disagreements.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1d2fb329",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-01T00:37:51+00:00"
-  },
-  {
-    "id": "d558a540-7695-4b60-8ad0-5269bcd3b05d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Altcoin Season Index holds at 39",
-    "summary": "CoinMarketCap's Altcoin Season Index is currently at 39, unchanged from yesterday. The index measures market sentiment by comparing the price performance of the top 100 cryptocurrencies by market capitalization, excluding stablecoins and wrapped tokens, against that of Bitcoin. A period is considered an altcoin season if 75% of these top 100 coins outperform Bitcoin over the past 90 days. Otherwise, it is deemed a Bitcoin season. A score closer to 100 indicates that the market is in an altcoin season.",
-    "url": "https://t.me/CoinnessGL#fcfa9bf7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-01T00:33:30+00:00"
-  },
-  {
-    "id": "9c92b3c2-2105-4dc7-a887-0075b2d14510",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US Senator Warns Clarity Act Delay Could Push Crypto Rules to 2030",
-    "summary": "1. Senator Cynthia Lummis is warning Congress that missing the Clarity Act window could delay major crypto legislation until 2030.\n2. She says inaction would leave developers exposed, consumers vulnerable, and law enforcement agencies without stronger tools.\n3. Clarity Act Warning Puts Congress on a Crypto Policy Deadline The Clarity Act has become a deadline test for Congress, […]",
-    "url": "https://news.bitcoin.com/us-senator-warns-clarity-act-delay-could-push-crypto-rules-to-2030/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-01T00:30:31.000Z"
-  },
-  {
-    "id": "6af1ee1f-553e-4992-bb25-fbe8f58ca9d8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Key token unlocks this week include $684M in HYPE",
-    "summary": "Key token unlocks this week include $684 million in HYPEAccording to data from Tokenomist, the major token unlocks scheduled for this week (June 1–7) are as follows:- EIGEN: 36.82 million tokens ($7.51 million), representing 6.55% of circulating supply, at 4:00 a.m. UTC on June 1- ENA: 40.63 million tokens ($3.55 million), representing 0.49% of circulating supply, at 7:00 a.m. UTC on June 2- OPN: 32.09 million tokens ($4.24 million), representing 10.89% of circulating supply, at 12:00 p.m. UTC on June 5- HYPE: 9.92 million tokens ($684 million), representing 2.54% of circulating supply, at 12:00 a.m. UTC on June 6- RED: 40.85 million tokens ($4.82 million), representing 10.87% of circulating supply, at 4:00 p.m. UTC on June 6",
-    "url": "https://t.me/CoinnessGL#f991f1aa",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-01T00:17:38+00:00"
   }
 ]
