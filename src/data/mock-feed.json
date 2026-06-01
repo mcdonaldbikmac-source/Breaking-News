@@ -1,5 +1,55 @@
 [
   {
+    "id": "c7906ce9-315a-4090-8196-cfc08cf90517",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Polymarket user loses over $2M to phishing attack",
+    "summary": "In response to reports that a Polymarket user lost over $2 million in a hack, Josh Stevens, the company's Vice President of Engineering, stated on X that Polymarket is collaborating with the victim and relevant exchanges to freeze the stolen funds. He clarified that the victim was deceived by a fake webpage created by a hacker, where they entered a one-time password (OTP) for their Magic Link wallet, a simple wallet accessed via email links. The hacker then used this to withdraw the funds. Stevens urged users to be extremely cautious when accessing non-Polymarket domains and added that the company is internally considering the introduction of additional security features, such as multi-factor authentication (MFA), to enhance account protection.",
+    "url": "https://t.me/CoinnessGL#79f6ad50",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T03:03:48+00:00"
+  },
+  {
+    "id": "5243bce0-fad9-420b-a9fb-452d4d9dfcf7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to list Solstice (SLX)",
+    "summary": "South Korean crypto exchange Bithumb announced it will list Solstice (SLX) for trading against the won at 8:00 a.m. UTC today.",
+    "url": "https://t.me/CoinnessGL#bb3863b5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T03:00:52+00:00"
+  },
+  {
+    "id": "8c767154-602b-4233-95d3-01ddc82e8631",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to list Solstice (SLX)",
+    "summary": "South Korean crypto exchange Upbit announced it will list Solstice (SLX) for trading against the South Korean won (KRW), Bitcoin (BTC), and Tether (USDT) at 5:00 a.m. UTC on June 1.",
+    "url": "https://t.me/CoinnessGL#5a964862",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-01T02:46:34+00:00"
+  },
+  {
+    "id": "86fb7b00-819c-4d8e-b784-4a891123a98e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "DOJ’s Record 127,271 BTC Seizure Resurfaces Amid Scam Crackdown",
+    "summary": "1. The DOJ’s record bitcoin forfeiture case has renewed scrutiny of global scam compounds tied to crypto fraud, trafficking, and organized crime.\n2. Authorities sought forfeiture of 127,271 BTC, worth about $15 billion.\n3. Record Bitcoin Case Puts Global Scam Compounds Back in Focus The U.S.",
+    "url": "https://news.bitcoin.com/dojs-record-127271-btc-seizure-resurfaces-amid-scam-crackdown/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-01T02:30:28.000Z"
+  },
+  {
+    "id": "8413bf3e-24e7-419b-b6a1-60232cd62dec",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple Eyes Turkey’s $200B Crypto Boom and 4x UAE Lead",
+    "summary": "1. Turkey’s crypto market has become the region’s largest, with roughly $200 billion in transaction volume over the past year.\n2. Ripple executive Reece Merrick described Turkey as a leading crypto adoption market as Istanbul prepares to host a major blockchain event.\n3. Turkey’s Crypto Adoption Surge Signals a Larger Regional Shift Ripple Senior Executive Officer and Managing […]",
+    "url": "https://news.bitcoin.com/ripple-eyes-turkeys-200b-crypto-boom-and-4x-uae-lead/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-01T01:30:11.000Z"
+  },
+  {
     "id": "44ea7abe-2b20-46c6-95d7-f4bbd87a00e2",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -10,7 +60,7 @@
     "created_at": "2026-06-01T00:57:40+00:00"
   },
   {
-    "id": "9c06bf53-8396-4983-a31d-04e3259bb358",
+    "id": "d9578858-2f12-4b0f-a590-edc147c14492",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Former Fed Chair Jerome Powell says the Federal Reserve will not survive if officials are removed over policy disagreements.@WatcherGuru",
@@ -138,65 +188,5 @@
     "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "author": "Anthony Ha",
     "created_at": "2026-05-31T21:05:14.000Z"
-  },
-  {
-    "id": "4518887e-66b2-4e0c-92e3-41dedd4def93",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Sui traces three mainnet halts to upgrade bugs, including a fix it knew carried halt risk",
-    "summary": "1. The Sui Foundation said no user funds were at risk and credited AI agents with speeding up its diagnosis of the incidents.",
-    "url": "https://www.theblock.co/post/403124/sui-traces-three-mainnet-halts-to-upgrade-bugs-including-a-fix-it-knew-carried-halt-risk?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-05-31T20:46:27.000Z"
-  },
-  {
-    "id": "fd1a05a6-2d94-46f4-a654-cfbd210d286b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The New York Times wrote a story today entitled, “Trump Administration Sees Striking Exodus of Legal Talent,” as though that’s a bad thing, when actually, it’s very good.\n2. The people that are leaving are Radical Left Deep State Lunatics, who are destroying our Country, and Weaponizing Government.\n3. Many of them didn’t leave, but were fired!",
-    "url": "https://trumpstruth.org/statuses/38971",
-    "author": "Trump Truth",
-    "created_at": "2026-05-31T20:18:28.000Z"
-  },
-  {
-    "id": "8b784edc-afba-4a36-b2f5-17ddbc9f0604",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Strategy STRC Pays Farmer’s Father 11.5% Yield, Critics Call It a Bitcoin Bait and Switch",
-    "summary": "1. A farmer’s son posted online that his father received 0.96% more Strategy STRC shares in a single day, and X posts like it, even the skeptical ones, have ignited a debate that cuts to the core of what bitcoin is meant to be.\n2. Dad Earns 11.5% on Strategy STRC Shares The post spread quickly across […]",
-    "url": "https://news.bitcoin.com/strategy-strc-pays-farmers-father-11-5-yield-critics-call-it-a-bitcoin-bait-and-switch/",
-    "author": "Jamie Redman",
-    "created_at": "2026-05-31T20:03:39.000Z"
-  },
-  {
-    "id": "5476f7a0-56c2-4b30-a30f-377bc13ba787",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
-    "summary": "1. Strategy could be set to announce it has resumed buying Bitcoin after pausing in recent weeks as the biggest crypto looks poised to close out the month down more than 3.5%.",
-    "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-05-31T20:00:12.000Z"
-  },
-  {
-    "id": "72640e1a-3496-43d8-bec4-7ab73d4fc2f9",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.159",
-    "summary": "1. ## What's changed\n\n- Internal infrastructure improvements (no user-facing changes)",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.159",
-    "author": "ashwin-ant",
-    "created_at": "2026-05-31T19:42:49Z"
-  },
-  {
-    "id": "ae12fbe1-73ac-4694-aa90-63d63b8c1707",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
-    "summary": "1. NYDIG, meanwhile, rejected the basis-trade theory, citing the large discount and the lack of an unusual spike in corresponding CME bitcoin futures volume.",
-    "url": "https://www.coindesk.com/markets/2026/05/31/a-massive-usd1-26-billion-sale-of-blackrock-s-ibit-was-likely-a-rapid-exit-by-a-large-investor",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-05-31T19:41:51.000Z"
   }
 ]
