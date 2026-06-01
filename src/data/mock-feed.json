@@ -1,5 +1,105 @@
 [
   {
+    "id": "2b3c0fc4-a883-4f81-8c17-cbe9d5564bf2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain",
+    "summary": "1. Bitcoin and ether fell Monday after dropping in May, a month that usually sees them post positive returns.\n2. equity index futures rose.",
+    "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+    "author": "Sheldon Reback",
+    "created_at": "2026-06-01T10:04:10.000Z"
+  },
+  {
+    "id": "0f08debf-c1ff-451e-ae15-4c708a03368c",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "What Is BChat? The Decentralized Messaging App Built for Privacy",
+    "summary": "1. Built on the Beldex Network, BChat aims to solve the weaknesses of relying solely on end-to-end encryption (E2EE) for private messaging.",
+    "url": "https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy",
+    "author": "Decrypt Staff",
+    "created_at": "2026-06-01T10:01:04.000Z"
+  },
+  {
+    "id": "ebb5184d-223a-4c48-a3b2-0dc9b12c12f1",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+    "summary": "1. The Seoul-based rocket startup is developing its own launch vehicles and engines.",
+    "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+    "author": "Kate Park",
+    "created_at": "2026-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "44cb9f95-26c0-471f-aa4c-d906c87ad340",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Coinbase launches rupee bank rails in India after FIU nod",
+    "summary": "1. Coinbase has switched on direct rupee bank transfers in India via IMPS, letting users move funds between local bank accounts and the exchange for spot and futures trading.",
+    "url": "https://cointelegraph.com/news/coinbase-rolls-out-rupee-bank-rails-in-india-after-watchdog-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-01T09:45:49.000Z"
+  },
+  {
+    "id": "3b6b34a2-4c33-451b-b056-174a9fd4786d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Intel Targets Nvidia and AMD With New AI Chip",
+    "summary": "1. Intel says it will launch a new artificial-intelligence data-center chip this year to challenge Nvidia and AMD, betting that cheaper memory and lower power draw can win over operators building out compute capacity.\n2. A Cheaper Bet on AI Inference The plan, flagged in a widely shared market update, centers on a data-center graphics processing unit […]",
+    "url": "https://news.bitcoin.com/intel-crescent-island-ai-chip-crypto/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-01T09:30:08.000Z"
+  },
+  {
+    "id": "467bade5-1ce9-4e75-b8b8-600898fd2305",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Hyperliquid Overtakes DOGE in Market Cap as HYPE Rally Adds 70% in May",
+    "summary": "1. The HYPE token broke through $70 to reach a new all-time high of $74.04, driving its market capitalization past $16 billion.\n2. HYPE Flips DOGE as Market Cap Crosses $16B HYPE kicked off June with another milestone as the token breached the $70 mark on its way to tapping an all-time high.\n3. The latest surge, which […]",
+    "url": "https://news.bitcoin.com/hyperliquid-overtakes-doge-in-market-cap-as-hype-rally-adds-70-in-may/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-01T09:05:28.000Z"
+  },
+  {
+    "id": "56f0f831-4692-48cb-a65c-2fc0be09c663",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week",
+    "summary": "1. Bitcoin price headed below $72,000 on Iran woes as US President Donald Trump told observers to \"sit back and relax\" with a ceasefire still unresolved.",
+    "url": "https://cointelegraph.com/markets/trump-says-iran-will-work-out-well-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-06-01T08:56:01.000Z"
+  },
+  {
+    "id": "dcddf699-0c3c-4691-904f-8eef98e9a0bd",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. Congress returns as GENIUS comments periods close, jobs report: Crypto Week Ahead",
+    "summary": "1. Your look at what's coming in the week starting June 1.",
+    "url": "https://www.coindesk.com/markets/2026/06/01/u-s-congress-returns-as-genius-comments-periods-close-jobs-report-crypto-week-ahead",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-06-01T08:50:45.000Z"
+  },
+  {
+    "id": "37244ddd-12fa-4eac-adec-4a752719fe6a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Digital euro is key to counter stablecoin risks, says ECB’s Schnabel",
+    "summary": "1. Isabel Schnabel, an ECB board member, said Monday that central banks should respond to stablecoin risks with strong regulation and CBDCs.",
+    "url": "https://www.theblock.co/post/403142/digital-euro-stablecoin-risks-ecb?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-01T08:49:18.000Z"
+  },
+  {
+    "id": "8f363716-d97d-432b-b72c-a2d1a4869342",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The Bots Were Fake: SEC Sues Privvy Founder Over $12.3 Million Crypto Scheme",
+    "summary": "1. Securities and Exchange Commission has sued a Texas entrepreneur it says raised $12.3 million from about 150 investors by promising profits from artificial-intelligence trading bots that did not exist.\n2. A “ Crypto Arbitrage” Operation Built on a Lie According to a complaint filed on May 29, the Securities and Exchange Commission (SEC) has […]",
+    "url": "https://news.bitcoin.com/sec-privvy-fuller-ai-bot-fraud/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-01T08:30:02.000Z"
+  },
+  {
     "id": "dde4663c-1d72-46ac-8b85-d150c9d82f00",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +108,16 @@
     "url": "https://news.bitcoin.com/powell-fed-independence-warning/",
     "author": "Shiraz Jagati",
     "created_at": "2026-06-01T07:30:53.000Z"
+  },
+  {
+    "id": "7f28728e-fcac-4301-996d-2c41d260e98e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "NYDIG suggests $1.3B IBIT sale was whale exiting directional trade",
+    "summary": "1. NYDIG’s Greg Cipolaro says a sale below market price and giving up millions of dollars for immediate execution indicates a large directional holder exited a trade on BlackRock’s IBIT last week.",
+    "url": "https://cointelegraph.com/news/nydig-ibit-whale-exit-directional-bitcoin-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Stephen Katte",
+    "created_at": "2026-06-01T07:09:14.000Z"
   },
   {
     "id": "893432b8-2f25-45ac-bf55-c3b40c96042a",
@@ -218,85 +328,5 @@
     "url": "https://cointelegraph.com/news/wintermute-is-entering-prediction-markets-as-a-liquidity-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Martin Young",
     "created_at": "2026-06-01T04:22:38.000Z"
-  },
-  {
-    "id": "8abd1dc2-e663-4161-8f6b-91cd0672a30a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "The Funding: How crypto hedge funds are navigating weak markets",
-    "summary": "1. As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever.",
-    "url": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-06-01T03:33:52.000Z"
-  },
-  {
-    "id": "5094c735-50c7-4e49-9a7d-3aba003acd88",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Solo Home Miner Wins $232K Bitcoin Block With a $300 Machine at 149 Million-to-1 Odds",
-    "summary": "1. A solo home miner running a consumer-grade Canaan Avalon Nano 3S beat odds of roughly 149 million to one, winning Bitcoin block 951771 this weekend, and collecting a reward worth approximately $232,000.\n2. One Block, One Machine The block was mined at approximately 00:27 UTC through Braiins Solo, a pool designed for solo miners who want […]",
-    "url": "https://news.bitcoin.com/solo-home-miner-wins-232k-bitcoin-block-with-a-300-machine-at-149-million-to-1-odds/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-01T03:30:59.000Z"
-  },
-  {
-    "id": "d14224a3-c099-42af-b425-26590c7d7bce",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Intel $INTC to launch new AI chip this year to compete with NVIDIA and AMD.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#196a8541",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-01T03:11:13+00:00"
-  },
-  {
-    "id": "c7906ce9-315a-4090-8196-cfc08cf90517",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Polymarket user loses over $2M to phishing attack",
-    "summary": "In response to reports that a Polymarket user lost over $2 million in a hack, Josh Stevens, the company's Vice President of Engineering, stated on X that Polymarket is collaborating with the victim and relevant exchanges to freeze the stolen funds. He clarified that the victim was deceived by a fake webpage created by a hacker, where they entered a one-time password (OTP) for their Magic Link wallet, a simple wallet accessed via email links. The hacker then used this to withdraw the funds. Stevens urged users to be extremely cautious when accessing non-Polymarket domains and added that the company is internally considering the introduction of additional security features, such as multi-factor authentication (MFA), to enhance account protection.",
-    "url": "https://t.me/CoinnessGL#79f6ad50",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-01T03:03:48+00:00"
-  },
-  {
-    "id": "5243bce0-fad9-420b-a9fb-452d4d9dfcf7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bithumb to list Solstice (SLX)",
-    "summary": "South Korean crypto exchange Bithumb announced it will list Solstice (SLX) for trading against the won at 8:00 a.m. UTC today.",
-    "url": "https://t.me/CoinnessGL#bb3863b5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-01T03:00:52+00:00"
-  },
-  {
-    "id": "8c767154-602b-4233-95d3-01ddc82e8631",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Upbit to list Solstice (SLX)",
-    "summary": "South Korean crypto exchange Upbit announced it will list Solstice (SLX) for trading against the South Korean won (KRW), Bitcoin (BTC), and Tether (USDT) at 5:00 a.m. UTC on June 1.",
-    "url": "https://t.me/CoinnessGL#5a964862",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-01T02:46:34+00:00"
-  },
-  {
-    "id": "86fb7b00-819c-4d8e-b784-4a891123a98e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "DOJ’s Record 127,271 BTC Seizure Resurfaces Amid Scam Crackdown",
-    "summary": "1. The DOJ’s record bitcoin forfeiture case has renewed scrutiny of global scam compounds tied to crypto fraud, trafficking, and organized crime.\n2. Authorities sought forfeiture of 127,271 BTC, worth about $15 billion.\n3. Record Bitcoin Case Puts Global Scam Compounds Back in Focus The U.S.",
-    "url": "https://news.bitcoin.com/dojs-record-127271-btc-seizure-resurfaces-amid-scam-crackdown/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-01T02:30:28.000Z"
-  },
-  {
-    "id": "c084db5b-60ea-4d80-af69-f6b4f9c4811e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "White hat hacker recovers $2M from faulty 2016 ICO smart contract",
-    "summary": "1. A white-hat hacker has helped the creators of Hong Coin by showing them how to exploit a flawed admin function on a smart contract and ultimately refund investors after a decade.",
-    "url": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-06-01T02:21:56.000Z"
   }
 ]
