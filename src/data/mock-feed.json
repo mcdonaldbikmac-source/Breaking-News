@@ -1,5 +1,385 @@
 [
   {
+    "id": "1534a4e8-9910-4884-8214-b643e78f18a1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ethena Labs Moves Into Institutional Off-Chain Lending With Anchorage Digital",
+    "summary": "1. Anchorage Digital has expanded its Atlas Collateral Management platform through a new arrangement with Ethena Labs, positioning the federally chartered crypto bank as collateral manager for Ethena’s institutional lending operations.\n2. What the Deal Does Under the structure, Anchorage Digital holds and monitors collateral, while Ethena Labs deploys capital into institutional loans, Anchorage detailed in a […]",
+    "url": "https://news.bitcoin.com/ethena-labs-moves-into-institutional-off-chain-lending-with-anchorage-digital/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-02T20:56:03.000Z"
+  },
+  {
+    "id": "fede8c0e-3319-422a-89d5-fbcc23a64be1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "US sanctions Nobitex and other Iranian crypto exchanges under ‘Economic Fury’ campaign",
+    "summary": "1. Sanctioned exchange Nobitex handled more than half of Iran's crypto inflows last year, according to the U.S.",
+    "url": "https://www.theblock.co/post/403436/us-sanctions-nobitex-iranian-crypto-exchanges-economic-fury-campaign?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-02T20:50:53.000Z"
+  },
+  {
+    "id": "e14ad967-1c8c-41c7-a30d-2ca71977443d",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Shares Fall for Second Straight Day After $56 Billion Bitcoin Giant Sells BTC",
+    "summary": "1. Shares in the leading Bitcoin treasury firm Strategy (MSTR) are now more than 70% off their 52-week high after the company sold BTC.",
+    "url": "https://decrypt.co/369788/strategy-shares-fall-second-straight-day-bitcoin-giant-sells-btc",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-02T20:43:39.000Z"
+  },
+  {
+    "id": "de6293ed-3737-4cf7-bc81-234508f91c50",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Stocks, Led By Strategy (MSTR), Take a Beating as BTC Price Sells Off ",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Stocks, Led By Strategy (MSTR), Take a Beating as BTC Price Sells Off \nBitcoin’s drop into the mid-$67,000s — driven by ETF outflows, Mt.\n2. Gox movements, geopolitical tension, and Strategy’s first BTC sale in years—triggered an outsized selloff in crypto-linked stocks.\n3. This post Bitcoin Stocks, Led By Strategy (MSTR), Take a Beating as BTC Price Sells Off  first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-stocks-take-a-beating",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-02T20:41:47.000Z"
+  },
+  {
+    "id": "ce248791-428c-4574-aaaf-2585a2eee464",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "U.S. Treasury Sanctions Iran’s Largest Crypto Exchange in Sweeping Economic Warfare Push",
+    "summary": "1. Bitcoin Magazine\n\nU.S.\n2. Treasury Sanctions Iran’s Largest Crypto Exchange in Sweeping Economic Warfare Push\nThe U.S.\n3. Treasury designated Nobitex and three other Iranian crypto platforms—along with key executives—under counterterrorism and financial-sector authorities, intensifying U.S.",
+    "url": "https://bitcoinmagazine.com/news/u-s-treasury-sanctions-irans-crypto",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-02T20:35:41.000Z"
+  },
+  {
+    "id": "54ede04e-6dbd-4ef4-b87e-1a3f19c14cb3",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout",
+    "summary": "1. Tech people will say everyone's already using OpenClaw.\n2. They're right.\n3. But Microsoft is the one with 1.4 billion Windows users ready to adopt it.",
+    "url": "https://decrypt.co/369781/microsoft-scout-openclaw-enterprise-ai-agent",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-06-02T20:25:22.000Z"
+  },
+  {
+    "id": "f8da7201-a942-471d-be88-b75bfe1e18e3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Tom Lee says Strategy's small Bitcoin sale and 11 days of ETF outflows are typical bottoming behavior, not a risk signal.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#85040b38",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T20:24:19+00:00"
+  },
+  {
+    "id": "5ef867f8-63e0-42b1-9541-1e1b02bca465",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Blackrock IBIT Sheds $440M as Bitcoin ETF Outflows Reach 11 Days",
+    "summary": "1. Crypto exchange-traded fund (ETF) flows opened June on a defensive note, with bitcoin funds losing nearly half a billion dollars and ether products extending their outflow streak to 15 trading days.\n2. Yet XRP and HYPE ETFs again attracted fresh capital, showing that investors are still making selective bets beyond the largest crypto assets.\n3. XRP ETFs […]",
+    "url": "https://news.bitcoin.com/blackrock-ibit-sheds-440m-as-bitcoin-etf-outflows-reach-11-days/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-02T20:20:18.000Z"
+  },
+  {
+    "id": "a9ed7d6e-0471-4630-b766-026480695ad3",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+    "summary": "1. Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.",
+    "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-06-02T20:20:00.000Z"
+  },
+  {
+    "id": "ee4ada03-6fb6-4c0a-8cd3-23df026df130",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "345,838,818 USDT transferred from an unknown wallet to Bitfinex",
+    "summary": "Whale Alert reported that 345,838,818 USDT has been transferred from an unknown wallet to Bitfinex. The transaction is valued at about $345 million.",
+    "url": "https://t.me/CoinnessGL#216162fa",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-02T20:19:39+00:00"
+  },
+  {
+    "id": "b16d9d15-60a0-4b2c-81d2-2f3107d9b8a7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "345,838,818 USDT transferred from Kraken to an unknown wallet",
+    "summary": "Whale Alert reported that 345,838,818 USDT has been transferred from Kraken to an unknown wallet. The transaction is valued at about $346 million.",
+    "url": "https://t.me/CoinnessGL#8ec10481",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-02T20:18:17+00:00"
+  },
+  {
+    "id": "fea1b552-f173-472b-99e0-da538a0dcaf4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users",
+    "summary": "1. Coinbase Ventures, the exchange's venture arm, bought Ethena tokens on the open market as the protocol is set to roll out a Coinbase integration next week.",
+    "url": "https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-02T20:09:53.000Z"
+  },
+  {
+    "id": "905b674e-d7bc-46b0-b8ce-3c9377e40d20",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bernie Sanders, Elizabeth Warren Urge Labor Department to Drop Bitcoin, Crypto 401K Plan",
+    "summary": "1. The senators said a plan allowing fiduciaries to offer exposure to riskier assets like crypto and private equity would hurt retirees and personally benefit President Trump.",
+    "url": "https://decrypt.co/369773/bernie-sanders-elizabeth-warren-labor-dept-drop-bitcoin-crypto-401k-plan",
+    "author": "Sander Lutz",
+    "created_at": "2026-06-02T20:00:04.000Z"
+  },
+  {
+    "id": "653630e2-9a55-4cfc-8d09-96a8bb714e69",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Sinks to $66,346 as $1.35B in Long Liquidations Accelerate Market Selloff",
+    "summary": "1. Bitcoin experienced a sharp decline in early June 2026, tumbling more than 6% in 24 hours to an intraday low of $66,948.\n2. Market Cap and Liquidation Crunch Bitcoin’s poor start to June continued as the cryptocurrency tumbled below $67,000, hitting another multi-week low.\n3. The daily chart shows bitcoin steadily declining from just over $71,500 late […]",
+    "url": "https://news.bitcoin.com/bitcoin-sinks-to-66346-as-1-35b-in-long-liquidations-accelerate-market-selloff/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-02T19:56:35.000Z"
+  },
+  {
+    "id": "e0c1198d-0cef-4292-bcdc-5d5a3572f02e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Crypto derivatives activity slumps to late-2023 levels, but US perp market opportunity emerges",
+    "summary": "1. The composition of that volume remains heavily concentrated among a handful of exchanges, with Binance maintaining its dominant share.",
+    "url": "https://www.theblock.co/post/403379/crypto-derivatives-activity-slumps-late-2023-levels-us-perp-market-opportunity-emerges?utm_source=rss&utm_medium=rss",
+    "author": "Ivan Wu and Bryan Samsoedin",
+    "created_at": "2026-06-02T19:46:02.000Z"
+  },
+  {
+    "id": "09c76607-37d5-44df-b24a-7fed398faaaf",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 US spot Bitcoin ETFs have shed a record $3.45 billion across 11 straight days of outflows, according to SoSoValue.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#286efe1e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T19:44:31+00:00"
+  },
+  {
+    "id": "1b50c463-8f67-4c83-85d6-ab4349f1c89c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "$260 million worth of futures liquidated in the past hour",
+    "summary": "Major exchanges have seen $260 million worth of futures liquidated in the past hour. In the past 24 hours, $1,483 million worth of futures have been liquidated.",
+    "url": "https://t.me/CoinnessGL#42691936",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-02T19:37:08+00:00"
+  },
+  {
+    "id": "16fa31a8-1188-4e0b-b6f1-5f570ac67d81",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇮🇷 US imposes sanctions on Iran's largest crypto exchange 'Nobitex.'@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#efd0c0ee",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-02T19:34:57+00:00"
+  },
+  {
+    "id": "52545343-21dc-44d5-a1be-9d4f28b33a56",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitwise CIO Matt Hougan calls crypto a ‘contrarian bet’",
+    "summary": "1. Growing AI stocks and uncertainty around the Clarity Act have put crypto in a tough spot for institutional investors, Hougan said.",
+    "url": "https://www.theblock.co/post/403423/bitwise-cio-matt-hougan-calls-crypto-a-contrarian-bet?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-02T19:28:40.000Z"
+  },
+  {
+    "id": "8faf3376-6773-4f88-9600-548a805a7c3a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise",
+    "summary": "1. A sovereign default-risk model estimates Bitcoin’s fair value at $224,000, as rising debt risks and bond-market stress could strengthen the asset’s long-term investment case.",
+    "url": "https://cointelegraph.com/markets/bitcoins-224k-fair-value-could-emerge-if-sovereign-debt-fears-deepen-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-06-02T19:28:01.000Z"
+  },
+  {
+    "id": "576ef108-df13-42a2-9108-71a7c76f35ae",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Coinbase chief policy officer Faryar Shirzad says the CLARITY Act will be the biggest financial regulatory bill since Dodd-Frank.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c34f4799",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T19:19:17+00:00"
+  },
+  {
+    "id": "1eb999f5-4422-4e37-961b-774754b453d3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Galaxy enters institutional prediction markets with $10 million Arca trade",
+    "summary": "1. The digital asset firm launched OTC prediction markets trading for institutions and completed a $10 million trade tied to U.S.\n2. crypto legislation with hedge fund Arca.",
+    "url": "https://www.coindesk.com/markets/2026/06/02/galaxy-enters-institutional-prediction-markets-with-usd10-million-arca-trade",
+    "author": "Helene Braun",
+    "created_at": "2026-06-02T19:17:12.000Z"
+  },
+  {
+    "id": "0c938ef4-c6d8-4932-be2d-f8b56dab4b31",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Uber caps employee AI spending after blowing through budget in four months",
+    "summary": "1. Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-06-02T19:11:48.000Z"
+  },
+  {
+    "id": "d01e848e-2253-4f2c-bdd7-b3fa0f08f502",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "summary": "1. Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "author": "Ram Iyer",
+    "created_at": "2026-06-02T19:02:21.000Z"
+  },
+  {
+    "id": "59dd0ca3-4b8d-44c7-b0ff-e220bcde1bb3",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "The CLARITY Act is now on the Senate Legislative Calendar as of June 1, after Banking Committee approval.Next steps: Senate Majority Leader schedules floor debate and vote, 60 votes needed to overcome a filibuster.",
+    "summary": "If passed, House must concur on the Senate version before it heads to the President’s desk.Timeline: Floor action possible June/July. Enactment by fall 2026 if prioritized, a packed calendar and Senate hurdles make delays likely. Bipartisan House passage (294-134) is a tailwind.Twitter",
+    "url": "https://t.me/SolidIntelX#68b7e86d",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-02T18:54:35+00:00"
+  },
+  {
+    "id": "77bea801-2642-4462-8a99-cfebb10e1ba4",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Citi’s Tokenization 2030 report highlights Chainlink CCIP as the interoperability standard for the tokenized financial system and projects market hitting $8.2T by 2030$LINKTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#1054a515",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-02T18:47:15+00:00"
+  },
+  {
+    "id": "2f0a239d-f4e8-4988-940d-3862719852d5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Tom Lee predicts ether will hit $250,000 as corporate validators take over network control",
+    "summary": "1. The Bitmine chairman said DeFi and AI could push the Ethereum network's value into the multi-trillion range, making current prices “future optionality at a discount”.",
+    "url": "https://www.coindesk.com/markets/2026/06/02/tom-lee-predicts-eth-will-hit-usd250-000-as-corporate-validators-take-over-network-control",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-02T18:42:40.000Z"
+  },
+  {
+    "id": "16c9e7cd-58e3-4816-bd22-6726c0f51599",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 President Trump signs executive order to shut down bank accounts used to \"enable illegal immigration.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#9d1c6bb6",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-02T18:39:41+00:00"
+  },
+  {
+    "id": "79d7e19f-90a1-499d-b720-0dc225749d85",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Illegal Immigrants and Foreign Fraudsters steal BILLIONS every year from the American Taxpayer.\n2. As part of my Administration’s Historic effort to end FRAUD and reverse MASS ILLEGAL IMMIGRATION, I recently signed a powerful new Executive Order, which will be led by the Treasury Department, to stop Banks, Credit Cards, and Financial Institutions from being used to facilitate Human Smuggling, Drug Trafficking, Illegal Immigration, and the Criminal Cartels who orchestrate these activities.\n3. Access to our Nation’s Financial Systems must be limited to those who have a Legal Right to be here, and who are engaged in Lawful and Legitimate Commerce.",
+    "url": "https://trumpstruth.org/statuses/39044",
+    "author": "Trump Truth",
+    "created_at": "2026-06-02T18:20:36.000Z"
+  },
+  {
+    "id": "857a6a8c-350b-4476-a7b0-16339135e629",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Truth the Media Won't Tell You About the Anti-Weaponization Fund:",
+    "url": "https://trumpstruth.org/statuses/39043",
+    "author": "Trump Truth",
+    "created_at": "2026-06-02T18:19:15.000Z"
+  },
+  {
+    "id": "e6f6c39d-8067-4715-903c-ab247041ba11",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "A Little Story About Inflation – An Excerpt from Bitcoin: The Honest Money",
+    "summary": "1. Bitcoin Magazine\n\nA Little Story About Inflation – An Excerpt from Bitcoin: The Honest Money\nAn excerpt from Bitcoin: The Honest Money uses the rising cost of ice cream to explain how inflation devalues money, wages, savings, and time.\n2. This post A Little Story About Inflation – An Excerpt from Bitcoin: The Honest Money first appeared on Bitcoin Magazine and is written by Alex v.\n3. Frankenberg.",
+    "url": "https://bitcoinmagazine.com/bitcoin-books/a-little-story-about-inflation-an-excerpt-from-bitcoin-the-honest-money",
+    "author": "Alex v. Frankenberg",
+    "created_at": "2026-06-02T18:14:53.000Z"
+  },
+  {
+    "id": "8a64cd91-1867-4f95-a90d-e73689985b98",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin gets new $50K target after BTC price crashes 6% in a day",
+    "summary": "1. Bitcoin price bets saw $50,000 returning after 6% daily BTC price losses liquidated $1.25 billion of crypto positions.",
+    "url": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-06-02T17:54:18.000Z"
+  },
+  {
+    "id": "e7d2115d-7d23-4d33-bbcf-94c8e2a36904",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. In a sign of Strength and Fortitude, it was just announced that The White House Correspondents’ Dinner, which violently ended rather abruptly on April 25th, will be rescheduled to July 24th.\n2. This announcement is a very good thing in that we cannot allow Lunatics to change our way of life, or even its scheduling.\n3. I was asked to be there, and speak, by Weijia Jiang, President of The White House Correspondents’ Association, and have accepted.",
+    "url": "https://trumpstruth.org/statuses/39042",
+    "author": "Trump Truth",
+    "created_at": "2026-06-02T17:50:46.000Z"
+  },
+  {
+    "id": "bb3b4117-d3c3-4371-9e12-6b33619408c3",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": " Bad Sentiment, Strong Fundamentals: the Institutional Turn | Chris Perkins, Franklin Crypto",
+    "summary": "1. Crypto is entering a new phase — and institutions, not retail, are driving it.\n2. As regulatory clarity arrives, the largest institutions in the world are moving from the sidelines into the market.\n3. The thesis from our guest: sentiment is poor, but fundamentals are improving; a coiled spring.",
+    "url": "https://thedefiant.io/converge/podcast/bad-sentiment-strong-fundamentals-the-institutional-turn-or-chris-perkins-franklin-crypto",
+    "author": "Chris Storaker",
+    "created_at": "2026-06-02T17:43:53.000Z"
+  },
+  {
+    "id": "8316d3d8-e6a6-48c0-b60b-46d01bf47b6a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "CFTC chair claims Gemini case was politically motivated, seeks to reverse $5M settlement",
+    "summary": "1. The CFTC chair seeks to roll back an enforcement action on the company founded by Cameron and Tyler Winklevoss, donors to Donald Trump’s 2024 campaign and attendees at White House events.",
+    "url": "https://cointelegraph.com/news/cftc-michael-selig-gemini-politically-motivated-reverse-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-06-02T17:39:30.000Z"
+  },
+  {
+    "id": "1d1dadd1-e52b-431f-aa8f-acfeb8d51a35",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Crypto Clarity Act added to Senate Legislative Calendar, making it eligible for full Senate consideration.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#460141a4",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-02T17:36:31+00:00"
+  },
+  {
+    "id": "0bcb0be4-d4cc-4ac7-a75d-8a0bcabddbb2",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Coinbase Ventures Buys ENA on the Open Market as Coinbase and Ethena Strike Distribution Deal",
+    "summary": "1. The exchange's venture arm bought ENA tokens directly on the open market rather than through a private round, the first such disclosed purchase, alongside a partnership to push Ethena's onchain dollar and savings products into Coinbase's userbase.",
+    "url": "https://thedefiant.io/news/defi/coinbase-ventures-ena-open-market-ethena-distribution-deal",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-02T17:28:14.000Z"
+  },
+  {
+    "id": "a031c4ec-c946-49ac-952d-0bdd058c4c82",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Google plans $80B stock sale to fund AI spending and tax obligations, flipping from years of buybacks as 2026 capex heads toward $190BTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#48df78f4",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-02T17:20:13+00:00"
+  },
+  {
     "id": "d942f6f7-a494-4429-ba16-625807ef9458",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -268,315 +648,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#c31d1ff7",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-02T14:59:54+00:00"
-  },
-  {
-    "id": "d842272e-9b51-4f36-ba95-5632e945cffb",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase investing into stablecoin reserves ETF issued by ProShares",
-    "summary": "1. The fund, called ProShares GENIUS Money Market ETF, has $22 billion in assets under management and launched this year.",
-    "url": "https://www.theblock.co/post/403367/coinbases-investing-into-stablecoin-reserves-etf-issued-by-proshares?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-02T14:48:47.000Z"
-  },
-  {
-    "id": "d451addd-44c7-4141-9fe1-7442146e4800",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Crashes to $67,000 Range, Down 13% in a Week Amid ETF Outflows and Market Fears",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Crashes to $67,000 Range, Down 13% in a Week Amid ETF Outflows and Market Fears\nBitcoin price fell below $68,000 amid a mix of symbolic selling by Strategy, heavy ETF outflows, renewed Mt.\n2. Gox activity, and rising geopolitical tension tied to Iran–U.S.\n3. developments.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-to-67000-range",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-02T14:38:24.000Z"
-  },
-  {
-    "id": "4c624a5d-55b8-4325-a4c0-606b139190bf",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ MoneyGram launched MGUSD, a USD stablecoin on Stellar, targeting over 60M customers across nearly 500,000 retail locations worldwide.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#da8911d4",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-02T14:34:25+00:00"
-  },
-  {
-    "id": "a74eda0a-f7e4-49a9-b0bc-71e452e7cb09",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$320,000,000 worth of crypto longs liquidated in the past 60 minutes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#43e84e41",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-02T14:32:33+00:00"
-  },
-  {
-    "id": "8b853f72-bc68-40f9-9376-0cb41eee2790",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Strive adds 2,500 BTC to treasury as Saylor’s Strategy sells",
-    "summary": "1. In an initiation note, Benchmark said the company has \"one of the most differentiated capital structures in the bitcoin treasury sector.\"",
-    "url": "https://www.theblock.co/post/403352/strive-adds-2500-btc-treasury-saylor-strategy-sells?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-02T14:32:01.000Z"
-  },
-  {
-    "id": "dd1a8573-6184-4b8d-ab71-f8955a247649",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Securitize Brings Hamilton Lane's HLSCOPE Private-Credit Fund to TRON in First Issuance on the Network",
-    "summary": "1. The tokenized Senior Credit Opportunities feeder fund — already live on Polygon, Ethereum and three other chains — becomes the inaugural Securitize-issued asset on a network with 383 million accounts and roughly $90 billion in circulating stablecoins.",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-hamilton-lane-hlscope-private-credit-tron-first-issuance",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-02T14:02:34.000Z"
-  },
-  {
-    "id": "f62b5605-fa7a-4654-98dd-3b0b220f9e78",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Standard Chartered says Strategy’s bitcoin sale may mark start of ETH outperformance",
-    "summary": "1. Standard Chartered said Ethereum DATs have an advantage over bitcoin DATs because ETH's staking yield means they do not need to sell ETH.",
-    "url": "https://www.theblock.co/post/403351/standard-chartered-strategy-bitcoin-sale-eth-outperformance?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-06-02T13:55:50.000Z"
-  },
-  {
-    "id": "6c5fe8a9-ed11-4af7-9a7b-d8049c731e00",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘Materially softer demand’: Bitcoin hits two-month low below $69,000 amid institutional outflow streak, fading onchain interest",
-    "summary": "1. Bitcoin fell below $69,000 to a two-month low as ETF outflows hit $3.45 billion over 11 days, along with $742 million in liquidations.",
-    "url": "https://www.theblock.co/post/403356/materially-softer-demand-bitcoin-hits-two-month-low-below-69000-amid-institutional-outflow-streak-fading-onchain-interest?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-02T13:48:59.000Z"
-  },
-  {
-    "id": "45d97881-f29f-4b4d-8a0b-ce25a3d4ffb8",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Mt. Gox Moves 10,422 Bitcoin While Bitcoin Price Craters Below $69,000",
-    "summary": "1. Bitcoin Magazine\n\nMt.\n2. Gox Moves 10,422 Bitcoin While Bitcoin Price Craters Below $69,000\nMt.\n3. Gox moved 10,422 BTC worth $739 million ahead of its 2026 repayment deadline, triggering market jitters and contributing to Bitcoin’s drop below $69,000 despite no confirmed selling activity.",
-    "url": "https://bitcoinmagazine.com/news/mt-gox-moves-bitcoin-while-bitcoin-price",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-02T13:48:37.000Z"
-  },
-  {
-    "id": "80521b7c-e04f-4246-8625-148998e2b99d",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Amazon Prime Day 2026 takes place June 23-26",
-    "summary": "1. Groceries and household essentials will be a main focus of this year's deals event.",
-    "url": "https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/",
-    "author": "Aisha Malik",
-    "created_at": "2026-06-02T13:47:53.000Z"
-  },
-  {
-    "id": "e205cc8f-f0f3-4e9f-865e-a773b97c869d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Polymarket Trader Loses $527K as Strategy’s First Bitcoin Sale Since 2022 Settles a Heated Bet",
-    "summary": "1. A trader on the decentralized prediction market Polymarket lost about $527,000 in a single day after Strategy disclosed its first bitcoin sale since 2022, per Lookonchain.\n2. A Bet Settled by an SEC Filing A Polymarket trader identified onchain as ‘willo2’ lost around $527,000 in a day after Strategy’s bitcoin sale was made public.\n3. The wager […]",
-    "url": "https://news.bitcoin.com/polymarket-trader-loses-527k-strategy-bitcoin-sale/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-02T13:40:12.000Z"
-  },
-  {
-    "id": "8230ff76-b12f-48df-b6fb-c5dc23541b1c",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "OpenSea Teases Hyperliquid-Powered Perpetuals Launch",
-    "summary": "1. OpenSea Product Marketing Lead Zack Brenner asked users on X who wanted early access to perpetual contracts, then confirmed the product would run on Hyperliquid's builder-code rails — the clearest signal yet the NFT marketplace is bolting on a derivatives venue.",
-    "url": "https://thedefiant.io/news/defi/opensea-teases-hyperliquid-powered-perpetuals-launch",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-02T13:36:51.000Z"
-  },
-  {
-    "id": "25620556-cbb1-40eb-b007-394a30c41c8b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Franklin Templeton brings BENJI tokenized fund to MoonPay",
-    "summary": "1. The partnership will serve as \"the foundation for a broader strategic relationship between Franklin Templeton and MoonPay.\"",
-    "url": "https://www.theblock.co/post/403223/franklin-templeton-brings-benji-tokenized-fund-to-moonpay?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-02T13:30:00.000Z"
-  },
-  {
-    "id": "20b175e8-ff2a-4dc4-aeea-2f395c3a8da2",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7",
-    "summary": "1. The Wall Street giant is integrating its tech platform with MoonPay's infrastructure, allowing eligible institutions to seamlessly swap stablecoins for yield-generating tokenized funds without ever leaving the blockchain.",
-    "url": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-teams-up-with-moonpay-to-let-big-investors-swap-stablecoins-for-yields-24-7",
-    "author": "Helene Braun",
-    "created_at": "2026-06-02T13:30:00.000Z"
-  },
-  {
-    "id": "20d34bd2-abb0-44db-839d-e62d83f3069c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Blue Origin plans to launch New Glenn again this year after explosion",
-    "summary": "1. CEO Dave Limp said damage to the company's launchpad in Florida was not as bad as expected.\n2. But Blue Origin still hasn't shared the cause of last week's explosion.",
-    "url": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-06-02T13:25:59.000Z"
-  },
-  {
-    "id": "8484b1d7-4993-47ea-8f70-641c3fb3d6b9",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Mt. Gox Moves $739M in Bitcoin as Repayment Deadline Looms",
-    "summary": "1. The defunct exchange still has about 35,000 BTC left to distribute, though the latest transfer does not show a sale.",
-    "url": "https://decrypt.co/369714/mt-gox-moves-739m-in-bitcoin-as-repayment-deadline-looms",
-    "author": "Vince Dioquino",
-    "created_at": "2026-06-02T13:25:53.000Z"
-  },
-  {
-    "id": "714f2377-4540-4a79-92b8-6c63ba0f43e6",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strive (ASST) Adds $185 Million in Bitcoin as Holdings Reach 19,000 BTC",
-    "summary": "1. Bitcoin Magazine\n\nStrive (ASST) Adds $185 Million in Bitcoin as Holdings Reach 19,000 BTC\nStrive added 2,500 BTC for $185.2 million, boosting its holdings to 19,000 BTC and cementing its position among the largest public corporate Bitcoin holders.\n2. This post Strive (ASST) Adds $185 Million in Bitcoin as Holdings Reach 19,000 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/strive-asst-adds-185-million-in-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-02T13:20:19.000Z"
-  },
-  {
-    "id": "e8088c1d-4069-44fa-8c73-2e47708dcdaf",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Strategy's bitcoin sale may mark start of ether outperformance, StanChart's Kendrick says",
-    "summary": "1. ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover obligations, the bank's digital asset research head said.",
-    "url": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-02T13:14:36.000Z"
-  },
-  {
-    "id": "df1b6ba7-addd-4a0e-89af-d94cf5e634b7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "60 Million Moneygram Users Gain Access to a Self-Custodial Dollar via Stellar Stablecoin",
-    "summary": "1. Moneygram launched MGUSD on June 2, 2026, a U.S.\n2. dollar stablecoin built natively on the Stellar blockchain and integrated directly into the Moneygram app for self-custodial wallet access.\n3. What MGUSD Is and How It Works The stablecoin is issued by Bridge, a Stripe company that the firm describes as GENIUS Act-ready.",
-    "url": "https://news.bitcoin.com/60-million-moneygram-users-gain-access-to-a-self-custodial-dollar-via-stellar-stablecoin/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-02T13:10:05.000Z"
-  },
-  {
-    "id": "66664245-eb95-4f8b-953a-42717dbf255c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "CoinDesk 20 performance update: Stellar (XLM) falls 8.4%, leading index lower ",
-    "summary": "1. Aave (AAVE), down 3.9% from Monday, was also an underperformer.",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/06/02/coindesk-20-performance-update-stellar-xlm-falls-8-4-leading-index-lower",
-    "author": "CoinDesk Indices",
-    "created_at": "2026-06-02T13:09:14.000Z"
-  },
-  {
-    "id": "5bcb0d26-dbb8-40c0-9b0d-c38214f08feb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Securitize Launches Private Credit Fund on TRON Blockchain",
-    "summary": "1. PRESS RELEASE.\n2. Miami, Florida – June 2, 2026 – Securitize, the leading platform for tokenizing real-world assets – and which has announced a proposed business combination with Cantor Equity Partners II (Nasdaq: CEPT)* — today announced that Hamilton Lane (Nasdaq: HLNE)’s tokenized Senior Credit Opportunities Fund (“HLSCOPE”) is now launching on the TRON blockchain, expanding […]",
-    "url": "https://news.bitcoin.com/securitize-launches-private-credit-fund-on-tron-blockchain/",
-    "author": "Media",
-    "created_at": "2026-06-02T13:07:30.000Z"
-  },
-  {
-    "id": "6a754e05-c791-456a-825c-1b3b66e6fe00",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. I am appointing the Director of the Federal Housing Finance Agency, and Chairman of Fannie Mae/Freddie Mac, William J.\n2. Pulte, to serve as Acting Director of National Intelligence.\n3. William has deep experience managing the most sensitive matters in America, the safety and soundness of the Markets, and over 10 Trillion Dollars at Fannie Mae/Freddie Mac, a substantial increase from where it was just 12 months ago.",
-    "url": "https://trumpstruth.org/statuses/39039",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T13:06:14.000Z"
-  },
-  {
-    "id": "1c7f1b95-6dec-4abc-8949-372d86803468",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "EdgeX blames ‘external party’ for token crash as ZachXBT alleges insider manipulation",
-    "summary": "1. Onchain investigator ZachXBT claims decentralized exchange edgeX insiders controlled nearly the entire supply with a thin float.",
-    "url": "https://cointelegraph.com/news/edgex-blames-external-party-for-token-crash-as-zachxbt-points-to-insider-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Amin Haqshanas",
-    "created_at": "2026-06-02T12:59:10.000Z"
-  },
-  {
-    "id": "f3bb4b63-ddbc-4d33-b355-93cd26a087b6",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "NEAR, Worldcoin Post Double-Digit Gains as Market Sees $714M in Liquidations",
-    "summary": "1. While Bitcoin dipped below $70,000 to trigger a massive liquidation cascade, select altcoins surged on individual ecosystem catalysts.",
-    "url": "https://decrypt.co/369708/near-worldcoin-post-double-digit-gains-as-market-sees-714m-in-liquidations",
-    "author": "Akash Girimath",
-    "created_at": "2026-06-02T12:52:52.000Z"
-  },
-  {
-    "id": "585d6060-83a3-4d8f-8a20-15192d32b996",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. CALIFORNIA: Vote today for Steve Hilton for Governor.\n2. He will work with me and the Federal Government, the money will flow because I have confidence in him (but not any of the others!), and we will MAKE CALIFORNIA GREAT AGAIN.\n3. Steve Hilton will NEVER let you down.",
-    "url": "https://trumpstruth.org/statuses/39038",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T12:40:21.000Z"
-  },
-  {
-    "id": "bb44311e-2272-4e4c-9773-26cba65f7fcf",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Capital B seeks $122B funding mandate to buy more Bitcoin",
-    "summary": "1. Capital B is asking shareholders to approve up to $122 billion in capital-raising authority to accelerate its Bitcoin treasury strategy.",
-    "url": "https://cointelegraph.com/news/capital-b-shareholder-motion-58b-capital-increase-116b-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-06-02T12:35:58.000Z"
-  },
-  {
-    "id": "47d1d216-94cf-444e-a2b3-e1ff54ab21c1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "ZeroDrift raises $10M to protect AI models from themselves",
-    "summary": "1. A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-    "author": "Russell Brandom",
-    "created_at": "2026-06-02T12:32:59.000Z"
-  },
-  {
-    "id": "06043528-50ba-4bb0-ac97-c91ba45fe2b9",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Great job by highly decorated Navy Seal Officer, Mike Sarraille, on Jesse Watters.\n2. Mike has seen it all, and really gets it.\n3. A “tough cookie.” President DJT",
-    "url": "https://trumpstruth.org/statuses/39037",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T12:32:37.000Z"
-  },
-  {
-    "id": "af960c02-5270-4614-83c1-3f5e4680eddb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: Saylor Sells Bitcoin for First Time Since 2022",
-    "summary": "1. Bitcoin fell below $70K on the back of the sales, and a major Polymarket dispute is brewing over whether Strategy indeed sold in May or not.",
-    "url": "https://decrypt.co/369709/morning-minute-saylor-sells-bitcoin-for-first-time-since-2022",
-    "author": "Tyler Warner",
-    "created_at": "2026-06-02T12:14:51.000Z"
-  },
-  {
-    "id": "26235eee-218c-42dc-8e83-0e6cfbc4b9e1",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "summary": "1. Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-    "url": "https://openai.com/index/travelers",
-    "author": "OpenAI",
-    "created_at": "2026-06-02T12:00:00.000Z"
-  },
-  {
-    "id": "8db7f197-dd88-41cf-847e-6769fe483d3e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin back in ‘distribution phase’ as extreme fear grips crypto market",
-    "summary": "1. Bitcoin slips below $70,000 as rising losses, exchange inflows and extreme fear signal a renewed distribution phase.",
-    "url": "https://cointelegraph.com/markets/bitcoin-back-in-distribution-phase-as-fear-grips-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nancy Lubale",
-    "created_at": "2026-06-02T11:09:56.000Z"
   }
 ]
