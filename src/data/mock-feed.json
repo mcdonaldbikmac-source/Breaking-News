@@ -1,5 +1,175 @@
 [
   {
+    "id": "8a8fdc67-8502-4f2c-a59f-7139569e8816",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Vitalik Buterin proposes options-based synthetic assets to avoid liquidations and reduce reliance on real-time oracles",
+    "summary": "1. Buterin proposed options-based synthetic assets that avoid liquidation risk and rely on slow oracles instead of real-time price feeds.",
+    "url": "https://www.theblock.co/post/403311/vitalik-buterin-proposes-options-based-synthetic-assets-to-avoid-liquidations-and-reduce-reliance-on-real-time-oracles?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-02T10:31:02.000Z"
+  },
+  {
+    "id": "aaa60dd4-c0b6-4bb3-adc0-0b19685b7637",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple Unlocks 1 Billion XRP for June as US Spot ETFs Log Record $118 Million in May Inflows",
+    "summary": "1. Ripple released 1 billion XRP from escrow at the start of June, the latest in its monthly unlock schedule, even as U.S.\n2. spot exchange-traded funds (ETFs) tied to the token posted their strongest month of 2026 with $118.29 million in net inflows.\n3. A Routine Unlock Meets Record ETF Demand Ripple, the company that uses the […]",
+    "url": "https://news.bitcoin.com/ripple-unlocks-1-billion-xrp-june-etf-inflows/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-02T10:30:37.000Z"
+  },
+  {
+    "id": "a72bca6c-8a68-4d90-aecd-6f266f947a6c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Polymarket faces backlash over disputed Strategy bitcoin sale market",
+    "summary": "1. Polymarket is facing continued backlash from traders who bet on \"Yes\" in a market asking whether Strategy would sell any bitcoin by May 31.",
+    "url": "https://www.theblock.co/post/403312/polymarket-faces-backlash-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-02T10:14:29.000Z"
+  },
+  {
+    "id": "b61ef6f0-b38c-43df-921b-ab4490e9afde",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Tether-linked address transfers $14.36M in BTC to Bitfinex",
+    "summary": "A Tether BTC reserve address transferred 204.3 BTC, worth approximately $14.36 million, to Bitfinex two hours ago, EmberCN reported via X. The address has been used to purchase BTC with 15% of the company's profits since 2023. It currently holds 96,936 BTC, valued at around $6.72 billion.",
+    "url": "https://t.me/CoinnessGL#9e6daa04",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-02T10:14:00+00:00"
+  },
+  {
+    "id": "15ce5686-6f89-42a5-8ca1-323ad0b14ec0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Deepcoin obtains Bitcoin service provider license in El Salvador",
+    "summary": "Cryptocurrency exchange Deepcoin has obtained an official Bitcoin Service Provider (BSP) license from the Central Bank of El Salvador, ChainCatcher reported. The license allows the company to legally provide Bitcoin custody, sales and trading, and related currency exchange services under El Salvador's regulatory framework.",
+    "url": "https://t.me/CoinnessGL#761b04ae",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-02T10:13:21+00:00"
+  },
+  {
+    "id": "57a27860-c88c-4a37-9c6c-0d97851332d1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin drops toward $69,000 as Saylor sale spooks investors while AI tokens buck the trend",
+    "summary": "1. The price of bitcoin fell to its lowest since April 7 as Strategy's sale dented sentiment, while AI tokens H and NEAR surged and DeFi TVL hit a 20-month low.",
+    "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-drops-toward-usd69-000-as-saylor-sale-spooks-investors-while-ai-tokens-buck-the-trend",
+    "author": "Oliver Knight",
+    "created_at": "2026-06-02T10:00:35.000Z"
+  },
+  {
+    "id": "7d0348e8-70cb-4191-9a5b-3765484785b1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Mt. Gox makes test transfer to Bitstamp",
+    "summary": "An address linked to Mt. Gox made a test transfer of 0.000017 BTC to the Bitstamp exchange two hours ago after moving 116.3 BTC ($8.25 million) from a cold wallet to a hot wallet, EmberCN reported via X. The firm added that based on Mt. Gox's past transfer patterns, it is likely the full 116.3 BTC will subsequently be moved to Bitstamp. Mt. Gox currently holds 34,500 BTC ($2.39 billion). more:",
+    "url": "https://t.me/CoinnessGL#6b2ca309",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-02T10:00:09+00:00"
+  },
+  {
+    "id": "4e920d2a-04d8-4c7c-8791-a39d997616a8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Traders Lose $455M on Long Bets as BTC Dips Below $70,000",
+    "summary": "1. Bitcoin dropped below $70,000 to an eight-week low of $69,390, wiping out $4,000 in value over 48 hours and temporarily pushing its market cap below $1.4 trillion.\n2. Massive Liquidations Rock Crypto Traders Bitcoin ( BTC) continued to plunge Tuesday morning, dropping below $70,000 as the fallout from Strategy’s sale of 32 bitcoins continued to rock […]",
+    "url": "https://news.bitcoin.com/bitcoin-traders-lose-455m-on-long-bets-as-btc-dips-below-70000/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-02T09:55:10.000Z"
+  },
+  {
+    "id": "aa9155ed-0345-4e22-95a0-c33c76bc4b0d",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 CryptoQuant CEO Ki Young Ju says Bitcoin's bear market could last into early 2027, arguing BTC's downtrend won't reverse until unrealized profits rebuild.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#089453ec",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T09:49:29+00:00"
+  },
+  {
+    "id": "99c263d0-2c12-4a6d-bdd3-d9528b5d1641",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Mt. Gox moves $739M in Bitcoin from cold wallets: Arkham",
+    "summary": "1. Gox moved $739 million in Bitcoin for the first time since March, raising speculation about imminent creditor distributions.",
+    "url": "https://cointelegraph.com/news/mt-gox-moves-739m-in-bitcoin-for-first-time-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Amin Haqshanas",
+    "created_at": "2026-06-02T09:35:48.000Z"
+  },
+  {
+    "id": "ca65374a-4660-4d22-b498-4c98fb54002f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Brazil’s B3 Readies Tokenized Stocks for H2 2026, But Says Direct Trading Will Have to Wait",
+    "summary": "1. B3, the Brazilian stock exchange, will develop a digital twin of its depository database in a blockchain in preparation for a potential inclusion of these into the traditional financial system.\n2. B3 also expects to launch B3RL, a Brazilian real stablecoin, later this year.\n3. B3 Takes First Steps to Tokenize Stocks B3, Brazil’s stock exchange, is […]",
+    "url": "https://news.bitcoin.com/brazil-b3-tokenization-trading/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-02T09:30:10.000Z"
+  },
+  {
+    "id": "73f23215-e323-48d4-bbfc-950dcc048e69",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Animoca Brands' Yat Siu says AI agents will dismantle the $900B advertising industry by routing discovery value to blockchain networks.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6d04037e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T09:09:43+00:00"
+  },
+  {
+    "id": "0f1a4f0d-5d17-4b27-b017-bce3e02c52fc",
+    "source": "The Block",
+    "type": "rss",
+    "title": "CME’s 24/7 crypto derivatives market sees $50 million in opening weekend trading",
+    "summary": "1. CME Group said that its 24/7 crypto futures and options market saw over 7,200 contracts traded over the first weekend.",
+    "url": "https://www.theblock.co/post/403304/cme-groups-crypto-derivatives-50-million?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-02T09:06:26.000Z"
+  },
+  {
+    "id": "04e00307-d3ac-4989-a370-7f1debf91834",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments",
+    "summary": "1. MGUSD, issued by Stripe's Bridge, will power services across MoneyGram's global network as stablecoins gain traction in cross-border payments.",
+    "url": "https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-02T09:00:00.000Z"
+  },
+  {
+    "id": "68cef5c6-db91-4404-b089-aa4c5762bc53",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price falls under $70K as crypto markets liquidate $800M",
+    "summary": "1. Bitcoin fell to fresh two-month lows as BTC price weakness accelerated and analysis targeted its 200-day moving average trend line.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-06-02T08:55:20.000Z"
+  },
+  {
+    "id": "42f1195a-0ace-48dd-ad30-aeb95585ff3f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Bitcoin miner IREN landed $3.65B in A-rated financing for its Microsoft AI data center buildout, weeks after closing a $3B convertible notes offering.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ded90e7b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T08:54:12+00:00"
+  },
+  {
+    "id": "fc855050-3216-4783-b445-2b6880bcc152",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump-backed Iowa Senate candidate says Iran war could become ‘political liability’",
+    "summary": "1. The comments, obtained by POLITICO, are a stark acknowledgement from Republican Rep.\n2. Ashley Hinson.",
+    "url": "https://www.politico.com/news/2026/06/02/ashley-hinson-audio-iran-war-iowa-senate-00946145",
+    "author": "By Erin Doherty",
+    "created_at": "2026-06-02T08:45:00.000Z"
+  },
+  {
     "id": "8948e5fc-b588-4c3a-9629-0cc5610ab9ca",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -18,6 +188,16 @@
     "url": "https://news.bitcoin.com/sp-500-record-7599-bitcoin-lags/",
     "author": "Shiraz Jagati",
     "created_at": "2026-06-02T07:10:58.000Z"
+  },
+  {
+    "id": "09d5c25c-1279-4753-939a-41ef25d12c06",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Bitcoin falls under $70,000@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#c993d02b",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-02T07:01:29+00:00"
   },
   {
     "id": "9a4be46e-8554-420d-ae40-2d23212b5c63",
@@ -178,155 +358,5 @@
     "url": "https://cointelegraph.com/news/the-open-network-ton-native-currency-plans-to-rebrand-to-gram?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Martin Young",
     "created_at": "2026-06-02T04:53:23.000Z"
-  },
-  {
-    "id": "68e16d2a-cb44-462e-9657-30fa94558d98",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Citi Projects $5.5T Tokenized Market by 2030 as Wall Street Moves Onchain",
-    "summary": "1. Citi expects tokenized securities and real-world assets to grow from about $17 billion today to $5.5 trillion by 2030.\n2. The bank says Treasury bills, digital stocks, and stablecoins could become the main drivers of Wall Street’s move onchain.\n3. Citi Highlights Stablecoins, Treasuries and Stocks as Tokenization Leaders Citi expects the market for tokenized securities to […]",
-    "url": "https://news.bitcoin.com/citi-projects-5-5t-tokenized-market-by-2030-as-wall-street-moves-onchain/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-02T04:30:45.000Z"
-  },
-  {
-    "id": "cd019fa3-991c-48cf-acaa-8d9322c9b6d4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Twenty One Capital faces NYSE non-compliance warning",
-    "summary": "Twenty One Capital, a publicly listed company known for its Bitcoin treasury strategy, is at risk of receiving a non-compliance warning from the New York Stock Exchange (NYSE), Protos reported. The warning stems from the company's failure to meet regulations regarding its independent directors. If the issue is not resolved by June 6, the company's stock will be marked as \"BC\" (Below Compliance) starting June 9. The designation serves as a warning and does not result in an immediate trading halt or delisting, as companies are typically granted a grace period to address the non-compliance.",
-    "url": "https://t.me/CoinnessGL#d62b1bd4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-02T04:09:34+00:00"
-  },
-  {
-    "id": "55ee5722-44d4-4ac1-bc27-62b96c37fb39",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. When a Star Witness totally recants, and in every way reveals that he was pressured and coerced to give testimony, and when the Prosecutor admits that this Witness was the single reason that the case was brought, there was no other, how can that Case not be immediately dismissed?\n2. That is exactly what happened in the Democrat New York Attorney General and Manhattan District Attorney’s Hoaxes against me.\n3. Michael Cohen has come out and unequivocally stated that the Radical Left Prosecutors, Tish James and Alvin Bragg, pressured and coerced him to testify against your favorite President, ME, when they made him the key player in their Political Witch Hunts.",
-    "url": "https://trumpstruth.org/statuses/39035",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T04:08:21.000Z"
-  },
-  {
-    "id": "023615d5-2922-469d-99d6-1a127476267f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin slides toward $70,000 as Strategy’s BTC sale, geopolitical risks weigh on crypto",
-    "summary": "1. Analysts said the size of Strategy's bitcoin sale was relatively trivial, but sent a bearish signal to the broader market.",
-    "url": "https://www.theblock.co/post/403286/bitcoin-slides-geopolitical-risks-strategy-btc-sale?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-02T04:05:50.000Z"
-  },
-  {
-    "id": "b8e3179a-5bde-4d3f-8793-fec3167181e8",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum’s strength",
-    "summary": "1. Bitmine is aiming to hold 5% of the total circulating supply of 120.6 million Ether tokens and is about 90% of the way to its target after its latest purchase.",
-    "url": "https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-06-02T04:03:00.000Z"
-  },
-  {
-    "id": "eb728bc4-b69f-4e8d-8085-de8c47630558",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Strategy’s Bitcoin sale causes clash for $80M in Polymarket bets",
-    "summary": "1. A clash has erupted among Polymarket users over the timing and disclosure of a recent Bitcoin sale by Strategy, with more than $80 million traded on the disputed outcome.",
-    "url": "https://cointelegraph.com/news/strategys-bitcoin-sale-causes-clash-on-80m-in-polymarket-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-06-02T03:44:23.000Z"
-  },
-  {
-    "id": "bed77205-cc8b-45e7-81f4-e511afdd5869",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale may realize $4.22M loss on GRASS after exchange deposit",
-    "summary": "An anonymous whale address starting with BVtsAV has deposited 3.82 million GRASS, worth $1.86 million, to Bybit and OKX after holding the tokens for one year, Onchain Lens reported. The whale originally acquired the tokens for $6.08 million from Gate.io, Bybit, and BitGo. A sale at current prices would represent an estimated loss of $4.22 million.",
-    "url": "https://t.me/CoinnessGL#4a9c5f92",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-02T03:44:20+00:00"
-  },
-  {
-    "id": "ff285f0d-3fb8-4db2-95b1-c3d8ff045c15",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Cuban-American congresswoman calls for Democrats aiding Cuba to be investigated for treason:",
-    "url": "https://trumpstruth.org/statuses/39032",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T03:41:08.000Z"
-  },
-  {
-    "id": "94d44266-e2d7-4f0c-9a29-219ddf9d8448",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. FBI and DOJ concerns on Mar-a-Lago raid bolster Florida-based anti-Trump ‘grand conspiracy’ inquiry:",
-    "url": "https://trumpstruth.org/statuses/39033",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T03:40:50.000Z"
-  },
-  {
-    "id": "b85fb1fc-11eb-47c7-a71a-d23093b37595",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Solana Prepares for a Massive Tokenomics Overhaul to Slash Network Inflation",
-    "summary": "1. The proposal, introduced by pseudonymous developer cavemanloverboy, aims to increase the amount of SOL burned by introducing a new base fee for every transaction.\n2. This might make Solana’s network issuance deflationary during periods of very high activity, according to some estimations.\n3. Proposed Solana Tokenomics Might Make SOL Deflationary Solana developer cavemanloverboy has introduced a proposal […]",
-    "url": "https://news.bitcoin.com/solana-prepares-for-a-massive-tokenomics-overhaul-to-slash-network-inflation/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-02T03:30:49.000Z"
-  },
-  {
-    "id": "0cbd693f-b116-480e-a81e-c2506317a22d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot ETH ETFs see $44.37M net outflow for 15th consecutive day",
-    "summary": "U.S. spot Ethereum ETFs experienced a net outflow of approximately $44.37 million on June 1, according to data compiled by Trader T. This marks the 15th consecutive trading day of net outflows.- BlackRock ETHA: -$34.97 million- BlackRock Staking ETHB: +$70,000- Fidelity FETH: -$9.47 million",
-    "url": "https://t.me/CoinnessGL#f0615413",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-02T03:28:01+00:00"
-  },
-  {
-    "id": "dfdb4993-a676-483b-8e17-ce6bfa016fc7",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024.\n2. I know Ashley well, and she is a WINNER!\n3. A Loving Wife and Proud Mother of two sons, Ashley is a wonderful person, has ALWAYS delivered for Iowa, and will continue doing so in the United States Senate.",
-    "url": "https://trumpstruth.org/statuses/39027",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T02:46:39.000Z"
-  },
-  {
-    "id": "0104ec8b-2415-4917-abe5-1288c6435b5a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Avalanche Network Explodes as FIFA World Cup Drives 60,000 Blockchain Ticket Transactions",
-    "summary": "1. Arielle Pennington, SVP of Growth at Avalanche, stressed that the rise in these ticketing transactions before the FIFA World Cup shows how blockchain technology can be adopted in the background, integrating seamlessly into the user experience process without being promoted upfront.\n2. Avalanche Facilitates Over 60,000 FIFA World Cup Ticket Transactions The upcoming FIFA World Cup, […]",
-    "url": "https://news.bitcoin.com/avalanche-network-explodes-as-fifa-world-cup-drives-60000-blockchain-ticket-transactions/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-02T02:30:43.000Z"
-  },
-  {
-    "id": "414edf17-e8e4-4f3d-8663-73aad679f204",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.160",
-    "summary": "1. ## What's changed\n\n- Added a prompt before writing to shell startup files (`.zshenv`, `.zlogin`, `.bash_login`) and `~/.config/git/`, which could otherwise lead to unintended command execution\n- `acceptEdits` mode now prompts before writing build-tool config files that grant code execution (`.npmrc`, `.yarnrc*`, `bunfig.toml`, `.bazelrc`, `.pre-commit-config.yaml`, `.devcontainer/`, etc.)\n- Edit no longer requires a separate Read after viewing a file with `grep`: single-file `grep`/`egrep`/`fgrep` commands now satisfy the read-before-edit check\n- Fixed copy-on-select not writing to the Windows clipboard on WSL — now uses PowerShell interop instead of OSC 52, which terminals like MobaXterm don't support\n- Fixed restoring a completed session from `claude agents` dropping chat history and re-running the original prompt\n- Fixed background sessions re-attached after overnight retire losing their conversation and re-running the original prompt\n- Fixed `claude --bg` occasionally failing with \"socket missing\" when the background daemon was cold-starting on a loaded machine\n- Fixed an issue on Windows where the directory a background session was started in could not be deleted after `claude rm` until the background daemon exited\n- Fixed background agents that resumed work being shown under Completed in the agents list\n- Fixed `claude agents` freezing for several seconds when returning to the session list due to the auto-updater re-checking on every exit\n- Fixed Esc, arrow keys, and typing becoming unresponsive on Windows when attached to a background session or in the agent view while the host is under heavy CPU load\n- Fixed background agents emitting terminal sync-output markers to terminals that don't support them (Apple Terminal, tmux), causing render artifacts when entering a running agent\n- Fixed mouse wheel scrolling prompt history instead of the transcript right after opening a session from the agents list\n- Fixed CJK IME composition appearing at the bottom-left of the screen instead of at the input caret in the `claude agents` view\n- Fixed valid `file:///C:/...` links being rewritten to a broken path on Windows terminals with hyperlink support\n- Fixed voice mode failing to connect when the project directory or branch name contains non-ASCII or special characters\n- Fixed the auto mode unavailability message on third-party providers (Bedrock/Vertex/Foundry) to point to the `CLAUDE_CODE_ENABLE_AUTO_MODE` opt-in instead of incorrectly blaming the model\n- Fixed `/effort ultracode` incorrectly blaming the dynamic workflows setting when the model cannot run xhigh; ultracode is no longer offered on models that do not support it\n- Fixed model-not-found errors suggesting `--model` when running via the SDK or other hosts where the CLI flag doesn't apply\n- Fixed Claude's past replies disappearing from scrollback when resuming a brief mode session with brief mode turned off\n- Fixed vim mode `p` pasting on the line below instead of at the cursor when the register was yanked with `v$`\n- Improved performance of opening recently-inactive background agent sessions in `claude agents`\n- Improved auto mode classifier latency by reducing reasoning on routine actions, lowering the chance of \"could not evaluate this action\" blocks\n- Improved background-session teardown (`claude rm`/`stop`, idle reap) to send SIGTERM to running shell subprocesses before SIGKILL, so cleanup handlers run\n- Removed `CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE`; the environment variable is now a no-op\n- Removed the JetBrains plugin install suggestion from startup\n- Renamed the dynamic-workflow trigger keyword from `workflow` to `ultracode`.\n2. The word \"workflow\" no longer triggers a run; asking for one in your own words still works.\n3. The trigger keyword is highlighted in violet in the prompt input",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.160",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-02T02:10:25Z"
-  },
-  {
-    "id": "c3fc3503-f846-4763-a51d-5d115520fd75",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Robinhood closes $180 million WonderFi acquisition, entering Canadian crypto market",
-    "summary": "1. Users of WonderFi's crypto platforms Bitbuy and Coinsquare will be invited to continue on the Robinhood app.",
-    "url": "https://www.theblock.co/post/403279/robinhood-closes-wonderfi-acquisition-canada?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-02T01:59:49.000Z"
   }
 ]
