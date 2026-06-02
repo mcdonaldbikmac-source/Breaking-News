@@ -1,5 +1,85 @@
 [
   {
+    "id": "658c0e10-e967-4d02-85af-d2d5ae67b018",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Spot bitcoin ETFs extend negative streak, following $2.4 billion monthly outflows in May",
+    "summary": "1. Dampened hopes for an improved macroeconomic environment have led institutions to move from crypto ETFs to AI stocks, an analyst said.",
+    "url": "https://www.theblock.co/post/403292/spot-bitcoin-etfs-extend-negative-streak-may?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-02T05:47:15.000Z"
+  },
+  {
+    "id": "70eba990-0976-4dc9-a962-18e81ddc6a8d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The Unexpected Deal Steve Jobs Offered U2 After Refusing to Hand Over Apple Shares",
+    "summary": "1. In 2004, U2 approached Apple about an ad deal, asking to be paid in Apple shares.\n2. Steve Jobs refused and instead steered the band into a no-fee campaign built around a special iPod U2 Edition, complete with black casing, red click wheel and engraved signatures.\n3. The tie-up drove a hit product and big sales without […]",
+    "url": "https://news.bitcoin.com/the-unexpected-deal-steve-jobs-offered-u2-after-refusing-to-hand-over-apple-shares-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-02T05:30:51.000Z"
+  },
+  {
+    "id": "8b032c33-6409-477d-adc7-ce935589ea61",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Kalshi has applied with the CFTC to self-certify perpetual futures on XRP, Solana, Dogecoin, and 9 other altcoins following the CFTC's Bitcoin perps approval on Friday.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9b8462b9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T05:29:37+00:00"
+  },
+  {
+    "id": "61d9fc76-9708-418e-8162-9c4c4b9b57b2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Grayscale has set a 0.29% fee for its planned Hyperliquid Staking ETF, undercutting 21Shares, with a launch expected soon.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#45b3d292",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T05:29:35+00:00"
+  },
+  {
+    "id": "e0b4cfaa-2795-4e42-9e88-e5a163619283",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Lookonchain says a trader lost $42.2M in 10-month profits in just 18 days by shorting HYPE, and lost a further $5.19M as the token hit a new ATH.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#855b7334",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-02T05:29:33+00:00"
+  },
+  {
+    "id": "4c501900-383f-4fe3-adb4-a90a66560f01",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin slide to $70,000 as stocks pause and Strategy's BTC sale weighs on crypto",
+    "summary": "1. BTC fell 3.4% in 24 hours to below $71,000, the lowest level in weeks, as Monday's 8-K filing disclosing Strategy's first publicized bitcoin sale continued to weigh.",
+    "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-slide-to-usd70-000-as-stocks-pause-and-strategy-s-btc-sale-weighs-on-crypto",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-02T05:09:39.000Z"
+  },
+  {
+    "id": "deef1d12-7b90-4f77-87c0-592822f9be3c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Strategy sold bitcoin in late May, and told the market in June. Here's how Polymarket bettors are fighting over when it counts.",
+    "summary": "1. A $79 million market hinges not on whether Michael Saylor's firm sold bitcoin, but on whether a sale disclosed June 1 can count toward a deadline that passed May 31.",
+    "url": "https://www.coindesk.com/markets/2026/06/02/strategy-sold-bitcoin-in-late-may-and-told-the-market-in-june-here-s-how-polymarket-bettors-are-fighting-over-when-it-counts",
+    "author": "Sam Reynolds",
+    "created_at": "2026-06-02T05:00:34.000Z"
+  },
+  {
+    "id": "95295772-5129-4155-83aa-9ce287ec057a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "TON jumps 15% as The Open Network plans rebrand to Gram",
+    "summary": "1. Telegram founder Pavel Durov says it is “returning to our roots — and starting a new chapter” by rebranding Toncoin to Gram.",
+    "url": "https://cointelegraph.com/news/the-open-network-ton-native-currency-plans-to-rebrand-to-gram?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-02T04:53:23.000Z"
+  },
+  {
     "id": "68e16d2a-cb44-462e-9657-30fa94558d98",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -208,55 +288,5 @@
     "url": "https://t.me/WatcherGuru#f9a74763",
     "author": "@WatcherGuru",
     "created_at": "2026-06-02T00:25:16+00:00"
-  },
-  {
-    "id": "6b148c68-5a07-45d4-aea6-dd0f555584e4",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
-    "summary": "1. Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage.\n2. Here’s how to get there and why the opportunity starts well before the main stage.",
-    "url": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
-    "author": "Isabelle Johannessen",
-    "created_at": "2026-06-01T23:20:52.000Z"
-  },
-  {
-    "id": "f40438d7-b758-4bfc-b689-9bb448c24419",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Anthropic has confidentially filed for a US IPO, edging ahead of rival OpenAI after a $65 billion raise valued it at $965 billion.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2a649b96",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-01T22:59:12+00:00"
-  },
-  {
-    "id": "3e7f409a-616e-489d-b00d-6d2a6284913d",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "summary": "1. \"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
-    "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-01T22:55:09.000Z"
-  },
-  {
-    "id": "7a3d3314-8b62-45db-9008-9717ddc3d925",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin bulls eye fresh positions after BTC price drops under $71K",
-    "summary": "1. Selling from all angles pushed Bitcoin below $71,000 at the weekly open, but early bullish positioning in BTC derivatives may signal the start of a recovery.",
-    "url": "https://cointelegraph.com/markets/bitcoin-bulls-eye-fresh-positions-after-btc-price-drops-under-71k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-06-01T22:54:07.000Z"
-  },
-  {
-    "id": "f98d90f8-632a-491e-97e1-fac4f7b4fbb3",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Nvidia Releases Its Best Open AI Model Yet—But Still Lags Behind China",
-    "summary": "1. Nvidia's Nemotron 3 Ultra tops every American open-weight AI system by a wide margin—but still trails the Chinese-led frontier.",
-    "url": "https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-01T22:46:04.000Z"
   }
 ]
