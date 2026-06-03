@@ -1,5 +1,365 @@
 [
   {
+    "id": "1aee1cc3-c045-49d6-ba0b-d4839f271c79",
+    "source": "The Block",
+    "type": "rss",
+    "title": "EdgeX offers refunds and launches 200,000 USDC bounty after 71% token flash crash",
+    "summary": "1. EdgeX says that 174 addresses flooded a PancakeSwap pool with EDGE token sell orders during a period of low liquidity.",
+    "url": "https://www.theblock.co/post/403567/edgex-offers-refunds-200000-usdc-bounty-71-token-flash-crash?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-03T16:56:29.000Z"
+  },
+  {
+    "id": "95b0d68e-3996-42f4-b928-ef7864c1ab73",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hyperliquid hits record share of global perps market as HIP-3 tops $62 billion monthly volume",
+    "summary": "1. Despite the bullish sentiment on HIP-3, Hyperliquid's pure crypto volumes are down significantly year over year.",
+    "url": "https://www.theblock.co/post/403384/hyperliquid-record-share-global-perps-market-hip-3-tops-62-billion-monthly-volume?utm_source=rss&utm_medium=rss",
+    "author": "Ivan Wu and Bryan Samsoedin",
+    "created_at": "2026-06-03T16:56:02.000Z"
+  },
+  {
+    "id": "c0e458b1-0e35-4f2b-960e-fa290234c3e0",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Stripe Millionaire Loses Bid for Congress to Candidate Backed by Ripple Co-Founder",
+    "summary": "1. Former Stripe engineer Saikat Chakrabarti lost his bid to succeed Nancy Pelosi in California to a candidate backed by Ripple's Chris Larsen.",
+    "url": "https://decrypt.co/369910/stripe-millionaire-loses-bid-congress-candidate-backed-ripple-co-founder",
+    "author": "André Beganski",
+    "created_at": "2026-06-03T16:53:21.000Z"
+  },
+  {
+    "id": "02c4b977-15ec-432b-b2f1-7f99032d0b1f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin ETFs Lose $519M as Grayscale’s GSOL Pulls in Fresh Solana Demand",
+    "summary": "1. Crypto exchange-traded fund (ETF) flows remained under heavy pressure on Tuesday, June 2, as bitcoin funds posted a 12th straight day of redemptions and ether ETFs extended their losing streak to 16 sessions.\n2. Solana and HYPE products drew fresh inflows, but the broader market remained defined by large exits from the two biggest asset classes.",
+    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-519m-as-grayscales-gsol-pulls-in-fresh-solana-demand/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-03T16:52:18.000Z"
+  },
+  {
+    "id": "84849455-e694-46d2-8358-942dd5def703",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US Treasury Secretary pursuing strategic BTC reserve, aims for summer passage of Clarity Act",
+    "summary": "U.S. Treasury Secretary Scott Bessent has stated that the department is pursuing a plan for a strategic Bitcoin reserve and that he hopes the Clarity Act will pass this summer. According to The Block, Bessent emphasized during a Senate Finance Committee hearing the need for a clear regulatory framework for the crypto industry. He added that officials are working to establish a crypto custody system and make the U.S. a global hub for innovation, reiterating his goal for the bill's passage this summer and confirming that the Treasury is proceeding with the BTC reserve plan.",
+    "url": "https://t.me/CoinnessGL#6605494a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-03T16:49:40+00:00"
+  },
+  {
+    "id": "09c59c02-5ff2-46ea-a5f6-39d56437ff90",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Strategy's preferred stock STRC trades below par, sparking fears over its BTC strategy",
+    "summary": "Strategy's perpetual preferred stock (STRC) has fallen to $94.84, a 5.2% discount to its $100 par value, sparking analysis that a crack has formed in the company's BTC acquisition structure amid a sharp crypto market downturn.According to Decrypt, Ryan Yoon, a senior analyst at Tiger Research, said the stock trading below its peg signifies a flaw in Strategy's high-leverage approach to buying BTC. Yoon explained that due to the burden of massive dividend obligations, hedge funds have been concerned that Michael Saylor might be forced to sell some of the company's BTC holdings to service its debt. This possibility has undermined the narrative of never selling BTC, placing immediate downward pressure on the cryptocurrency's price, he added.",
+    "url": "https://t.me/CoinnessGL#a8bf4612",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-03T16:44:52+00:00"
+  },
+  {
+    "id": "c172c8d3-9538-453b-9917-a3833252babc",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Cardano's TapTools Winding Down is a Symptom of a Shrinking Chain",
+    "summary": "1. TapTools, the most-used analytics platform on Cardano, said on X it will wind down within two weeks after losing its fifth senior executive in a year.\n2. Founder Charles Hoskinson warned in a video the same day that more older Cardano-ecosystem projects will fold in the second half of 2026.",
+    "url": "https://thedefiant.io/news/blockchains/cardano-s-taptools-winding-down-is-a-symptom-of-a-shrinking-chain",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-03T16:37:06.000Z"
+  },
+  {
+    "id": "33625724-0c30-40f3-a99b-053e739a62ba",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bessent backs summer push for Clarity Act, says bitcoin reserve moving at ‘deliberate speed’",
+    "summary": "1. Treasury Secretary Scott Bessent said the department is moving at a \"deliberate speed\" to establish a strategic bitcoin reserve.",
+    "url": "https://www.theblock.co/post/403563/bessent-backs-summer-push-clarity-act-bitcoin-reserve-moving-deliberate-speed?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-03T16:36:45.000Z"
+  },
+  {
+    "id": "5fdc1b89-62ff-4cf8-b3fe-650d75cfab6b",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Kalshi Goes Live With America’s First Regulated Bitcoin Perpetual Futures",
+    "summary": "1. Bitcoin Magazine\n\nKalshi Goes Live With America’s First Regulated Bitcoin Perpetual Futures\nKalshi announced on X that bitcoin perpetual futures are now live on its platform, offering U.S.\n2. investors rare access to regulated perps domestically.\n3. This post Kalshi Goes Live With America’s First Regulated Bitcoin Perpetual Futures first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/kalshi-goes-live-with-americas-first",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-03T16:35:58.000Z"
+  },
+  {
+    "id": "fb195e12-e1cc-459a-95fb-9e9de632de2c",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Wanted to 'Inoculate' the Bitcoin Market—Has Its BTC Sale Backfired?",
+    "summary": "1. With STRC trading under $100, experts are at odds over whether the sale has exposed a “structural crack” in Strategy’s Bitcoin flywheel.",
+    "url": "https://decrypt.co/369904/strategy-wanted-to-inoculate-the-bitcoin-market-has-its-btc-sale-backfired",
+    "author": "Akash Girimath",
+    "created_at": "2026-06-03T16:35:13.000Z"
+  },
+  {
+    "id": "141c7620-10c1-4c2e-9479-a30d76794e58",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Tether-Backed Adecoagro to Launch Sugarcane-Powered Bitcoin Mining in Brazil",
+    "summary": "1. Bitcoin Magazine\n\nTether-Backed Adecoagro to Launch Sugarcane-Powered Bitcoin Mining in Brazil\nAdecoagro is set to begin Bitcoin mining operations in Brazil using electricity generated from sugarcane waste, with a target launch date of July 1.\n2. This post Tether-Backed Adecoagro to Launch Sugarcane-Powered Bitcoin Mining in Brazil first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/tether-backed-adecoagro-bitcoin-mining",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-03T16:29:47.000Z"
+  },
+  {
+    "id": "daff43bb-8c32-4bc4-875d-ee159669c35a",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor's 'Strategy' $BTC investment is currently at a $8,500,000,000 unrealized loss.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#0c0a6a98",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-03T16:28:08+00:00"
+  },
+  {
+    "id": "80a491d5-40aa-47d7-968a-95f717ff5e75",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Miners Hit $1.08B in May Revenue, Then Prices Pull the Floor Away",
+    "summary": "1. Bitcoin miners finally had something to celebrate, delivering their strongest revenue gain in four months as May lifted earnings beyond the $1 billion mark for the first time since January.\n2. Current revenue, however, has cooled considerably, with bitcoin slipping below the $66,000 mark on Tuesday before staging a modest recovery the following day.\n3. Miners Feel […]",
+    "url": "https://news.bitcoin.com/bitcoin-miners-hit-1-08b-in-may-revenue-then-prices-pull-the-floor-away/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-03T16:20:43.000Z"
+  },
+  {
+    "id": "00cadbee-09c2-4a06-82ce-152ccc2e8a1f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto Long & Short: What about the American consumer?",
+    "summary": "1. In this week's Crypto Long & Short, Alex Tapscott on the stalling of the CLARITY Act and how it's impacting the average American consumer.\n2. Then, Aisha Hunt writes that crypto will grow by upgrading Wall Street’s trusted products rather than replacing them.",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-long-and-short-what-about-the-american-consumer",
+    "author": "Alex Tapscott",
+    "created_at": "2026-06-03T16:13:51.000Z"
+  },
+  {
+    "id": "b08c9d43-390c-4644-b1f6-bf97d32d23d8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+    "summary": "1. Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.",
+    "url": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-06-03T16:12:06.000Z"
+  },
+  {
+    "id": "9b7d9252-5b9e-407d-9ac7-2d056143a8af",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Solayer launches on-chain perpetual futures platform",
+    "summary": "Solayer (LAYER), a Solana Virtual Machine (SVM)-based Layer 1, has launched the mainnet for its on-chain perpetual futures trading platform, Margin Trade, The Block reported. The platform supports trading a variety of assets, including cryptocurrencies, commodities, and stocks, through a single Solana-based margin account. Margin Trade aims to offer the speed and capital efficiency of traditional finance while maintaining transparency and self-custody.",
+    "url": "https://t.me/CoinnessGL#2e16f7b8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-03T16:04:35+00:00"
+  },
+  {
+    "id": "3e85d6f9-57e2-4025-b469-02d1dd51feb1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto firms face July 1 EU cutoff as MiCA grace period ends",
+    "summary": "1. The ESMA says crypto companies without MiCA authorization must stop serving EU clients from July 1, even if their licence applications remain under review.",
+    "url": "https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-03T16:01:06.000Z"
+  },
+  {
+    "id": "ea4e1a13-c308-4e5c-a3ef-e09d8ec9d7ca",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hyperliquid bear turns bullish after losing over $46M shorting HYPE",
+    "summary": "1. The whale is now backing Arthur Hayes’ favored HYPE, ZEC and NEAR plays, signaling a sharp pivot toward momentum-led crypto bets.",
+    "url": "https://cointelegraph.com/markets/hyperliquid-bear-turns-bullish-after-losing-over-46m-betting-on-hype-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-06-03T16:00:40.000Z"
+  },
+  {
+    "id": "49288fe2-c2da-46d4-9d33-21fd9c3a903c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Report: Payments Giants Visa, Mastercard, and Stripe Back Stablecoin Platform for Faster Payments",
+    "summary": "1. Visa, Mastercard, and Stripe are reportedly backing a new shared stablecoin platform aimed at faster, cheaper cross-border settlement, according to a Coindesk report published Wednesday by reporter Ian Allison, citing three people familiar with the plans.\n2. Payments Giants Eye Shared Stablecoin Infrastructure The platform, which has not been officially announced and carries no confirmed name, […]",
+    "url": "https://news.bitcoin.com/report-payments-giants-visa-mastercard-and-stripe-back-stablecoin-platform-for-faster-payments/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-03T15:50:49.000Z"
+  },
+  {
+    "id": "e97bfa86-61ac-4584-a21f-3facf93c66f4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Amazon will show AI product images when you search for some reason",
+    "summary": "1. Amazon will use visual search and AI to show AI generated product images that match your search queries.\n2. The retailer says it will help guide users to products.",
+    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "author": "Sarah Perez",
+    "created_at": "2026-06-03T15:50:26.000Z"
+  },
+  {
+    "id": "4dfda68e-904a-4466-bc22-633ec47b3ec3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ IREN is building its first data center campus in Australia to serve Asia-Pacific AI demand, marking its expansion beyond North America.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a5036637",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-03T15:49:21+00:00"
+  },
+  {
+    "id": "7d906b35-7e95-4878-b496-a54f97b202e0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?",
+    "summary": "1. Ethereum price slides to a 14-week low as weakening demand and persistent ETF outflows put the key $1,800 support at risk.",
+    "url": "https://cointelegraph.com/markets/ethereum-drops-to-14-week-lows-can-eth-price-hold-18k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nancy Lubale",
+    "created_at": "2026-06-03T15:32:39.000Z"
+  },
+  {
+    "id": "5dca47fc-6325-4d88-9400-edc12a433dce",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+    "summary": "1. The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
+    "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-06-03T15:31:42.000Z"
+  },
+  {
+    "id": "0dcb55f6-f156-4441-b4a1-e1e7c26c22ff",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase",
+    "summary": "1. Bitcoin Magazine\n\nLava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase\nLava has launched a secured Visa credit card that lets users fund spending with cash or stablecoins while earning Bitcoin rewards on every purchase.\n2. This post Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/lava-card-launches-visa-credit-card",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-03T15:18:31.000Z"
+  },
+  {
+    "id": "5e7af353-77bb-431e-ae0b-7e51c5d52db7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ The Blockchain Association released a letter from 160 former national security, intelligence and law enforcement professionals urging Senate leaders to advance the CLARITY Act.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a4e9ba7e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-03T15:14:22+00:00"
+  },
+  {
+    "id": "1c24a2af-0087-4606-b956-f5c24b39fe91",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer",
+    "summary": "1. Sawyer confirmed that Standard Chartered’s full acquisition of the firm is on track to target a signing at the end of June and complete by the end of August.",
+    "url": "https://www.coindesk.com/business/2026/06/03/standard-chartered-buyout-of-zodia-custody-is-great-news-for-crypto-tech-adoption-ceo-says",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-03T15:08:41.000Z"
+  },
+  {
+    "id": "3ccd174a-caea-49ac-aa14-cbe9ec3afa3e",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Zcash Completes 'Most Ambitious' Network Upgrade as ZEC Resumes Recent Surge",
+    "summary": "1. A Zcash vulnerability could have allowed double-spending within the network's flagship privacy pool, though no exploitation occurred.",
+    "url": "https://decrypt.co/369896/zcash-completes-most-ambitious-network-upgrade-zec-resumes-recent-surge",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-03T15:05:53.000Z"
+  },
+  {
+    "id": "d5019427-c610-4bcd-8dae-c2112d0971f7",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Netanyahu says cracks in Iran will propagate and the regime will ultimately fallTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#933b8326",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-03T14:52:07+00:00"
+  },
+  {
+    "id": "210bac62-7203-4267-84ed-d6c94d520879",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "RAY DALIO SAYS AI BUBBLE WILL BURST EVENTUALLYTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#28de5d41",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-03T14:46:49+00:00"
+  },
+  {
+    "id": "d56710d0-2acc-4d39-83ca-045c16d63d2a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Rare physical bitcoin worth $1.78 million gets cashed in after 12 years",
+    "summary": "1. The S1-COIN-25 physical bitcoin, part of Mike Caldwell's 2011-2013 mint, had its tamper-evident hologram peeled and the 25 BTC swept on-chain on Wednesday.",
+    "url": "https://www.coindesk.com/markets/2026/06/03/rare-physical-bitcoin-worth-usd1-78-million-gets-cashed-in-after-12-years",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-03T14:32:32.000Z"
+  },
+  {
+    "id": "70bd57f0-73ff-4091-88b5-ff6775cd49da",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitwise CIO Matt Hougan says crypto is becoming a “contrarian bet” as AI stocks dominate investor attention and the Nasdaq-100 rises more than 40% year-over-year.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#21e8426e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-03T14:29:19+00:00"
+  },
+  {
+    "id": "45d57636-1bf5-4ba1-9ed1-6b6cafdf0a36",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Old DxSale Lockers Drained for $7.3M Across 1,400 BNB Chain Pools as Owner-Privilege Exploits Pile Up",
+    "summary": "1. A dormant launchpad contract from 2021 was emptied this week through a quiet ownership transfer and a one-wei fee reset — the latest in a string of BNB Chain drains that turn admin keys into the attack surface.",
+    "url": "https://thedefiant.io/news/hacks/old-dxsale-lockers-drained-for-7-3m-across-1-400-bnb-chain-pools-as-owner-privil",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-03T14:04:28.000Z"
+  },
+  {
+    "id": "84400188-dd05-4574-8b28-673d62d40ff0",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Mastercard Opens Card-Settlement Network on Eight Blockchains, Adding Weekend and Holiday Cycles",
+    "summary": "1. Issuers and acquirers can now clear card transactions in regulated stablecoins on Arbitrum, Base, Canton, Ethereum, Polygon, Solana, Tempo and XRPL, with ARQ, CBW Bank, Cross River, Lead Bank and Nuvei lined up as the first adopters in the US and Latin America.",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-card-settlement-network-on-eight-blockchains-adding-weekend-and-holiday-cycles",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-03T14:02:51.000Z"
+  },
+  {
+    "id": "695413d7-4f06-4ab8-8652-af3791b00ecb",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Peter Schiff says there is “way too much complacency in Bitcoin” for a market bottom, warning “When Bitcoin breaks $50K, it should be a quick fall below $20K”Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#0b10dbd5",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-03T13:47:13+00:00"
+  },
+  {
+    "id": "b8879b90-3d2f-4ad1-84f2-350d6099b5ec",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Visa, Mastercard and Stripe to launch crypto stablecoin platform.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#c9f36c88",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-03T13:30:09+00:00"
+  },
+  {
+    "id": "889ae634-1090-4668-a78e-1057edf55942",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Bitcoin 'Fear & Greed Index' falls to 11, extreme fear.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#21cba08c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-03T13:03:18+00:00"
+  },
+  {
     "id": "47d48c53-de2d-4bfd-b539-0187a36225d1",
     "source": "TechCrunch",
     "type": "rss",
@@ -198,165 +558,5 @@
     "url": "https://t.me/CoinnessGL#4ec0c1cc",
     "author": "@CoinnessGL",
     "created_at": "2026-06-03T11:04:15+00:00"
-  },
-  {
-    "id": "36b84226-1709-4b13-aae8-c7324eb895c9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Binance winds down centralized NFT service, gives users one month to withdraw assets",
-    "summary": "1. Binance is closing its centralized NFT service on July 3, 2026, requiring users to withdraw transferable NFTs or lose access.",
-    "url": "https://www.theblock.co/post/403483/binance-winds-down-centralized-nft-service-gives-users-one-month-to-withdraw-assets?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-03T10:52:41.000Z"
-  },
-  {
-    "id": "57a37886-dd6e-430e-9b1b-6521c8c01693",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin's crash to $65K triggers $1.8B in crypto liquidations",
-    "summary": "1. Bitcoin's drop to $65,000 triggered over $1.8 billion in crypto liquidations as traders brace for a test of $60,000 as support.",
-    "url": "https://cointelegraph.com/markets/bitcoins-crash-to-65k-triggers-18b-in-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nancy Lubale",
-    "created_at": "2026-06-03T10:48:51.000Z"
-  },
-  {
-    "id": "13ef9d92-1c5f-4975-9523-396fafcf1982",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Trump confirms he called Netanyahu “fucking crazy” during the heated phone callTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#90c09be7",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-03T10:41:50+00:00"
-  },
-  {
-    "id": "a2801648-b23a-479a-a4c8-94419c1a4d00",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin steadies at $67,000, faces critical juncture after sliding 9.5% in seven days",
-    "summary": "1. The recovery does little to mask a 9.5% weekly decline as U.S.\n2. stocks hit records highs, AI tokens rally and Coinbase's Ethena deal steals the spotlight.",
-    "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-steadies-at-usd67-000-faces-critical-juncture-after-sliding-9-5-in-seven-days",
-    "author": "Oliver Knight",
-    "created_at": "2026-06-03T10:41:23.000Z"
-  },
-  {
-    "id": "f1f72594-2652-4b9d-b56c-0023c15f422e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Vitalik Buterin says synthetic stable assets should focus on real-world price stability, not simulated USD, helping users cover future expenses.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#00cb7103",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-03T10:39:20+00:00"
-  },
-  {
-    "id": "ce565de6-8f13-4e5d-9578-41549721b91d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Grayscale’s Hyperliquid Staking ETF Debuts With Lowest US Fee at 0.29%",
-    "summary": "1. Grayscale’s Hyperliquid Staking ETF (HYPG) began trading on June 3 with a 0.29% sponsor fee, the lowest among US-listed HYPE products, intensifying a price war among issuers chasing the fast-growing token.\n2. A Fee War Heats up Around HYPE Grayscale has launched its Hyperliquid Staking exchange-traded fund (ETF), with the product now trading live under the […]",
-    "url": "https://news.bitcoin.com/grayscale-hyperliquid-staking-etf-hypg-lowest-fee/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-03T10:30:09.000Z"
-  },
-  {
-    "id": "38a5efa2-51ed-4bb0-aa12-6a5e8566ed0b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Apparent Zcash outage was a block explorer problem, infrastructure providers say",
-    "summary": "1. The Zcash blockchain didn't produce new blocks for more than four hours on June 3.",
-    "url": "https://www.coindesk.com/tech/2026/06/03/privacy-focused-zcash-blockchain-has-not-produced-a-block-for-four-hours",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-03T10:22:36.000Z"
-  },
-  {
-    "id": "0eb92ef5-92d8-4337-9fdc-fbedd9ed3ad0",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "UK's financial watchdog cracks down on Premier League crypto partnerships",
-    "summary": "1. The FCA said unauthorized firms could be breaching rules on financial promotions through high-profile sponsorships deals.",
-    "url": "https://www.coindesk.com/policy/2026/06/03/uk-s-financial-watchdog-cracks-down-on-premier-league-crypto-partnerships",
-    "author": "Jamie Crawley",
-    "created_at": "2026-06-03T10:19:12.000Z"
-  },
-  {
-    "id": "8cd5ad15-dad8-4742-ac49-1d0fcd4b758e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin has hit 'max fear' below $67K as analysis sees BTC price rebound",
-    "summary": "1. Bitcoin sparked two-month lows in the Crypto Fear & Greed Index while analysis predicted a \"catch-up\" with record highs in stocks.",
-    "url": "https://cointelegraph.com/markets/crypto-extreme-fear-worst-in-two-months-as-analysis-sees-bitcoin-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-03T10:16:46.000Z"
-  },
-  {
-    "id": "6373dbb5-8220-41af-a07f-00214e51d125",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The world’s largest privately owned laser just turned on",
-    "summary": "1. Fusion startup Xcimer fired up the world's largest privately owned laser.",
-    "url": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
-    "author": "Tim De Chant",
-    "created_at": "2026-06-03T10:00:00.000Z"
-  },
-  {
-    "id": "0aa5cf20-edb0-47b4-9fb8-356366426791",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Gary Vaynerchuk says AI is creating \"the biggest financial opportunity\" for young entrepreneurs, comparing its impact to the early internet era.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ac6d4d41",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-03T09:54:40+00:00"
-  },
-  {
-    "id": "ac5108b0-3a7e-450d-a7a8-5186b7118ae6",
-    "source": "The Block",
-    "type": "rss",
-    "title": "UK regulator warns soccer clubs over sponsorship deals with unauthorized crypto firms",
-    "summary": "1. The FCA instructed clubs to ensure they understand the source of sponsorship funds and assess financial crime and reputational risks.",
-    "url": "https://www.theblock.co/post/403478/uk-fca-warns-soccer-clubs-crypto-sponsorship?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-03T09:39:56.000Z"
-  },
-  {
-    "id": "884b1a48-3dd4-45e4-8d07-f6645e190489",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase CEO Brian Armstrong’s Newlimit Raises $435 Million, Tripling Valuation to $3.1 Billion",
-    "summary": "1. Newlimit, the longevity biotech co-founded by Coinbase CEO Brian Armstrong, has raised $435 million in a Series C round led by Founders Fund, roughly tripling the company’s valuation to about $3.1 billion.\n2. Crypto Wealth Flows Into Longevity Science Newlimit, the anti-aging biotech co-founded by Coinbase Global Inc.\n3. (Nasdaq: COIN) Chief Executive Brian Armstrong, has closed […]",
-    "url": "https://news.bitcoin.com/newlimit-435-million-series-c-brian-armstrong/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-03T09:30:49.000Z"
-  },
-  {
-    "id": "012c8aa1-b98b-423c-82f7-8cc9ed65a072",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 A newly released draft of the SEC's 2026-2030 strategic plan puts digital assets among its top regulatory priorities.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#182d9bc5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-03T09:19:06+00:00"
-  },
-  {
-    "id": "590f5b47-6c53-4b52-815a-ffe441afe528",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Democrats see the stars aligning in Iowa",
-    "summary": "1. With Rob Sand atop the ticket, Josh Turek as their newly minted Senate nominee and multiple House races in play, Democrats believe they have the best shot to win big in Iowa in more than a decade.",
-    "url": "https://www.politico.com/news/2026/06/03/democrats-iowa-excitement-primary-00947943",
-    "author": "By Samuel Benson, Katherine Hapgood and Adam Wren",
-    "created_at": "2026-06-03T08:45:00.000Z"
-  },
-  {
-    "id": "9592a5f6-cbeb-49c3-b30f-ff1555c7c258",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "El Salvador Buys the Dip as Bitcoin Slides Under $66,000, Reserve Nears 7,600 BTC",
-    "summary": "1. El Salvador is buying the dip again as bitcoin slides as low as $65,700, with the Central American nation’s strategic reserve now holding roughly 7,600 BTC worth more than $510 million.\n2. A Familiar Playbook on a Red Day As bitcoin dropped under $66,000 this week, El Salvador leaned into the slide rather than away from […]",
-    "url": "https://news.bitcoin.com/el-salvador-buys-the-dip-bitcoin-under-66000/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-03T08:30:29.000Z"
   }
 ]
