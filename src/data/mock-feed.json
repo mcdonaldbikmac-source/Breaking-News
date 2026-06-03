@@ -1,5 +1,355 @@
 [
   {
+    "id": "7542a881-9662-4214-8aa4-03decd619ee3",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures'",
+    "summary": "1. Founder Charles Hoskinson was brutally honest about the troubles the Cardano ecosystem could face as the market continues declining.",
+    "url": "https://decrypt.co/369974/cardano-slumps-5-year-low-price-charles-hoskinson-warns-failures",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-03T21:20:00.000Z"
+  },
+  {
+    "id": "02d50a30-3770-498b-9639-29591c8d2ae6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Nineteen New AI Billionaires Worth $59.3 Billion. Will the Boom Make You Rich?",
+    "summary": "1. Nineteen new American AI billionaires now hold a combined $59.3 billion, a second wave following the founders of OpenAI, Anthropic and DeepSeek.\n2. The haul stems from specialized models powering startups such as OpenEvidence (100+ million medical consultations), Reflection AI’s coding agents, and Mercor, which scaled revenue from $100 million in 2025 to $1 billion in […]",
+    "url": "https://news.bitcoin.com/nineteen-new-ai-billionaires-worth-59-3-billion-will-the-boom-make-you-rich-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-03T21:17:45.000Z"
+  },
+  {
+    "id": "1cc3efb4-c282-454a-88b2-c1ef45cd8fad",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "PENDLE Token Goes Live on Revolut, Reaching 20M EEA Crypto Traders",
+    "summary": "1. The yield-tokenization protocol's $233M-mcap token is now buyable inside Revolut's MiCA-licensed crypto app across the UK, EU, Norway, Iceland and Liechtenstein — the second on-chain yield protocol to land on the fintech's regulated rails after Maple's SYRUP in April.",
+    "url": "https://thedefiant.io/news/defi/pendle-token-goes-live-on-revolut-reaching-20m-eea-crypto-traders",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-03T21:09:43.000Z"
+  },
+  {
+    "id": "d9c90573-391c-4437-9add-04ced9cbb743",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
+    "summary": "1. Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.",
+    "url": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-03T21:03:50.000Z"
+  },
+  {
+    "id": "3583866e-9f33-49b9-ac1a-2262878165e0",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hyperliquid’s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
+    "summary": "1. Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.",
+    "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-03T20:57:29.000Z"
+  },
+  {
+    "id": "e0e38aee-514a-4c7f-acd0-dad15e4e7a6b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC falls below $65,000",
+    "summary": "According to CoinNess market monitoring, BTC has fallen below $65,000. BTC is trading at $64,792.6 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#5314ecf7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-03T20:55:18+00:00"
+  },
+  {
+    "id": "ad1a3dab-13d9-4b18-a414-ab2f23aaecf3",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Bitcoin falls under $65,000@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#98d504e8",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-03T20:52:56+00:00"
+  },
+  {
+    "id": "e4e74b2b-1f75-4ca4-b01d-4a5c0c4ce260",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Defense tech is flooded with money, but who’s built to last?",
+    "summary": "1. Defense tech is red hot right now.\n2. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S.\n3. government is proposing a 40% increase in defense budget.",
+    "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+    "author": "Theresa Loconsolo",
+    "created_at": "2026-06-03T20:51:41.000Z"
+  },
+  {
+    "id": "ce8b78c9-38db-4f6c-b82d-feea5e605535",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "$113 million worth of futures liquidated in the past hour",
+    "summary": "Major exchanges have seen $113 million worth of futures liquidated in the past hour. In the past 24 hours, $979 million worth of futures have been liquidated.",
+    "url": "https://t.me/CoinnessGL#a26a3560",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-03T20:48:08+00:00"
+  },
+  {
+    "id": "d333349c-0a77-4a13-b6bd-cda64bd04f18",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "AI Lawyers Are Already Better Than Law Professors at Reasoning—Say Law Professors",
+    "summary": "1. Researchers found professors preferred AI-generated answers over those written by their peers, raising questions about the role of AI in professional education.",
+    "url": "https://decrypt.co/369951/ai-lawyers-better-law-professors-reasoning-stanford",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-03T20:40:49.000Z"
+  },
+  {
+    "id": "eb24fda7-8ff3-4892-97fe-7a9ab7102556",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street’s Fee Machine, Not Its Technology",
+    "summary": "1. Bitcoin Magazine\n\nFranklin Templeton CEO: Blockchains Threaten Wall Street’s Fee Machine, Not Its Technology\nFranklin Templeton CEO Jenny Johnson said traditional finance resists public blockchains because they threaten fee-based revenue, as the firm expands aggressively into tokenization, bitcoin products, and on-chain finance.\n2. This post Franklin Templeton CEO: Blockchains Threaten Wall Street’s Fee Machine, Not Its Technology first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/franklin-templeton-ceo-blockchain-wall",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-03T20:39:36.000Z"
+  },
+  {
+    "id": "b3f8f0c7-f6bf-4c54-a8f0-3e9f389b350a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitwise Model Shows Bitcoin Is Deeply Underpriced at $224K Fair Value Amid Debt Crisis",
+    "summary": "1. Bitcoin is currently trading roughly $150,000 below what Bitwise Europe’s sovereign default model says it is worth.\n2. That gap widened in May as the price climbed to $83,000 before $1 billion in exchange-traded product (ETP) outflows dragged it back to $72,000, leaving the market compressed at a structural crossroads.\n3. Bitcoin Hit $83K Then Crashed to […]",
+    "url": "https://news.bitcoin.com/bitwise-model-shows-bitcoin-is-deeply-underpriced-at-224k-fair-value-amid-debt-crisis/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-03T20:34:22.000Z"
+  },
+  {
+    "id": "f5c8f708-85c0-43e3-b26c-bddab077ff24",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800",
+    "summary": "1. Shares of Tom Lee's Ethereum treasury firm hit their lowest level since the company's crypto pivot as ETH revisits the February lows.",
+    "url": "https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-03T20:33:51.000Z"
+  },
+  {
+    "id": "631ff353-0567-4516-b23e-4a49730297d0",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs\nBitcoin price is holding a risky position near $65,000 Wednesday, down roughly 12% over the past seven days and trading at its lowest level since February as a broad rotation out of crypto into competing speculative trades chips away at the foundation of its recent bull run.\n2. The world’s largest cryptocurrency touched a bitcoin price […]\nThis post Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-to-precarious",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-03T20:20:57.000Z"
+  },
+  {
+    "id": "56fc8e7e-922a-4d4d-95e2-4ce71d0af09b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Fed's Logan says a rate hike may be needed this year",
+    "summary": "Dallas Federal Reserve President Lorie Logan stated on June 3 that a rate hike might be necessary in the second half of this year to bring inflation down to the 2% target. Logan assessed the U.S. labor market as largely balanced, noted active investment in artificial intelligence (AI), and described financial conditions as still accommodative. However, she pointed out that the current inflation trend is not slowing toward the Fed's 2% goal. This situation, she said, suggests that current monetary policy is not having a restrictive effect on the economy. Logan added that there is growing concern that a rate hike may be needed in the second half of this year to fully restore price stability and properly fulfill the Fed's dual mandate.",
+    "url": "https://t.me/CoinnessGL#9d626110",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-03T20:18:55+00:00"
+  },
+  {
+    "id": "4b417179-508d-4238-bcae-081a248ac0fc",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 AI agents have now processed over 100M payments on Base.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a0d8af17",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-03T20:14:33+00:00"
+  },
+  {
+    "id": "b12d57db-3f9b-421b-8222-b9f51f294180",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Uber to put 500 data-collection vehicles on the road this year",
+    "summary": "1. The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
+    "url": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+    "author": "Sean O'Kane, Kirsten Korosec",
+    "created_at": "2026-06-03T20:08:28.000Z"
+  },
+  {
+    "id": "1995e672-6296-4480-a8b6-54cb421eb59d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Revolut Plans 2027 US Bank Launch With Stablecoin Services Built In From Day One",
+    "summary": "1. The British neobank, with 70 million customers and a $75 billion valuation, will pair FDIC-insured accounts with stablecoin access on a single platform — a tier-one fintech entering US banking with stablecoins designed in, not bolted on.",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-plans-2027-us-bank-launch-stablecoin-services-day-one",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-03T20:08:23.000Z"
+  },
+  {
+    "id": "3f292ddb-0a00-4c18-9e5d-8d4e0320ec20",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Ethereum $ETH falls under $1,800@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#93c56936",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-03T19:58:18+00:00"
+  },
+  {
+    "id": "7d43f747-43f3-44a5-b2e0-212c97a84189",
+    "source": "Politico",
+    "type": "rss",
+    "title": "She hired investigators to track her opponent",
+    "summary": "1. She hired investigators to track her opponent",
+    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/03/she-hired-investigators-to-track-her-opponent-00948606",
+    "author": "By Jason Beeferman",
+    "created_at": "2026-06-03T19:47:06.000Z"
+  },
+  {
+    "id": "2ec20748-9a92-4318-8414-ce769322a2b8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Crypto VC deal count slumps to five-year low as investors grow more selective",
+    "summary": "1. Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.",
+    "url": "https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing?utm_source=rss&utm_medium=rss",
+    "author": "Ivan Wu and Bryan Samsoedin",
+    "created_at": "2026-06-03T19:42:03.000Z"
+  },
+  {
+    "id": "f03a0e69-06f4-4fba-a5c7-820e4feee7d8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Bankless co-founder David Hoffman says that after selling ETH, he put about half the capital into VVV, NEAR, ZEC and HYPE, and used the rest to buy LIT.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a97261e0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-03T19:39:35+00:00"
+  },
+  {
+    "id": "1d67e840-0799-416e-975a-cbf88cd80e74",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "summary": "1. If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "author": "Julie Bort",
+    "created_at": "2026-06-03T19:38:32.000Z"
+  },
+  {
+    "id": "f850a585-f5a0-4e28-af32-62429df607ab",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I’ll be going to the G7, in France, immediately following what will be one of the Most Entertaining Nights in American History, the UFC World Championship Fights on the South Lawn of the White House.\n2. Records indicate that whilst fights of a much lower level took place at the White House throughout its long and storied History, nothing even close to this, the Greatest Fighters in the World, CHAMPIONS ALL, was even thought of for the People’s House!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39073",
+    "author": "Trump Truth",
+    "created_at": "2026-06-03T19:34:48.000Z"
+  },
+  {
+    "id": "b490beb1-0f99-4c86-8ee1-cce5232e694e",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Blockware Appoints Megan Brooks-Anderson as Chief Executive Officer",
+    "summary": "1. Bitcoin Magazine\n\nBlockware Appoints Megan Brooks-Anderson as Chief Executive Officer\nNew CEO to lead strategic pivot into AI and HPC infrastructure while strengthening core Bitcoin mining business.\n2. This post Blockware Appoints Megan Brooks-Anderson as Chief Executive Officer first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
+    "url": "https://bitcoinmagazine.com/press-releases/blockware-appoints-megan-brooks-anderson-as-chief-executive-officer",
+    "author": "Bitcoin Magazine",
+    "created_at": "2026-06-03T19:34:37.000Z"
+  },
+  {
+    "id": "1017a29a-f6c7-4ecc-ab3f-74d96bcda6cf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "WSJ: Hyperliquid Has Become Wall Street’s Go-to Weekend and After-Hours Perps Venue",
+    "summary": "1. Hyperliquid is emerging as a key weekend and after-hours venue for Wall Street traders to trade perpetual futures, the Wall Street Journal reported, as round-the-clock onchain markets pull activity away from traditional exchanges.\n2. When the Markets Close, Hyperliquid Stays Open Hyperliquid, a decentralized exchange ( DEX) built for perpetual futures, has become a destination for […]",
+    "url": "https://news.bitcoin.com/hyperliquid-wall-street-weekend-after-hours-perps-venue/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-03T19:32:51.000Z"
+  },
+  {
+    "id": "66d4d2ca-2781-45ad-b554-23e78cad7b2b",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Has anyone ever seen a Happy Communist?\n2. President DJT",
+    "url": "https://trumpstruth.org/statuses/39071",
+    "author": "Trump Truth",
+    "created_at": "2026-06-03T19:22:30.000Z"
+  },
+  {
+    "id": "df2b187a-7af7-4773-aed2-ead82179b0f1",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Communists always do well with the Voters or, as they would say, THE PEOPLE, in the Early Years!\n2. But, in the end, the Country, State, or City, GOES TO HELL!\n3. Great Violence proceeds at levels never seen before, and the entity dissolves into Poverty, Squalor, and Crime.",
+    "url": "https://trumpstruth.org/statuses/39072",
+    "author": "Trump Truth",
+    "created_at": "2026-06-03T19:21:58.000Z"
+  },
+  {
+    "id": "0926fb3d-a825-4de1-aceb-d5c2a52e7855",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto PAC-supported candidates sweep US state primaries after media buys ",
+    "summary": "1. Nearly a dozen candidates across three US states won their primaries or will advance to the November election after they were supported by $3.5 million in ads funded by crypto industry-aligned PACs.",
+    "url": "https://cointelegraph.com/news/crypto-pac-candidates-california-nj-primaries-ads?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-06-03T19:21:00.000Z"
+  },
+  {
+    "id": "f629f57a-b738-463b-b500-2afdbbbd27ba",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Tether launched a Visa card with Fasset that pays up to 6% cashback in its gold-backed token XAUT.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#216622c0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-03T18:54:26+00:00"
+  },
+  {
+    "id": "64be6860-7a8b-4c99-abc8-3c5eeb476d1c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "New DeFi entrant widens field of crypto political campaign funds as elections loom ",
+    "summary": "1. The Defend Developers PAC is aiming to contribute to lawmakers who seek to shield crypto developers from legal vulnerabilities.",
+    "url": "https://www.coindesk.com/policy/2026/06/03/new-defi-entrant-widens-field-of-crypto-political-campaign-funds-as-elections-loom",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-06-03T18:50:05.000Z"
+  },
+  {
+    "id": "001707fb-05bd-4ff3-ad5b-c4509eafe075",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade",
+    "summary": "1. Bitcoin's recent weakness reflects a broader rotation into AI, IPOs and other momentum trades rather than concerns about Michael Saylor's bitcoin sales, according to Charles Schwab's Jim Ferraioli.",
+    "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade",
+    "author": "Helene Braun",
+    "created_at": "2026-06-03T18:48:22.000Z"
+  },
+  {
+    "id": "ce7f7b6d-4560-460b-951d-0f184ed1d80d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Agentic payment activity tops 100M transactions on Base",
+    "summary": "1. New data suggests AI-driven payment rails are evolving beyond experimentation as users are making more higher-value transfers.",
+    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-03T17:54:33.000Z"
+  },
+  {
+    "id": "0dda5431-c4a3-4af8-8f74-aedb1d00b380",
+    "source": "GitHub",
+    "type": "github",
+    "title": "base-org/node: v1.0.0",
+    "summary": "1. ## What's Changed\r\n\r\n> [!NOTE]\r\n>\r\n> This release contains improvements to ERC-7562 tracing performance.\n2. For RPC providers or operators relying on account abstraction workflows, this is a recommended release.\n3. This release updates `base-node-reth` and `base-consensus` to [v1.0.0](\r\n\r\n**Full Changelog**:",
+    "url": "https://github.com/base/node/releases/tag/v1.0.0",
+    "author": "haardikk21",
+    "created_at": "2026-06-03T17:25:14Z"
+  },
+  {
+    "id": "59cdc6da-a977-4da3-9105-debe3d835f84",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Bitcoin Slides Below $66,000 as Spot ETF Outflow Streak Hits a Record 12 Days",
+    "summary": "1. US spot Bitcoin ETFs pulled in another $519 million of net redemptions on June 2, extending the longest outflow run since the funds launched and tipping a leveraged market into $1.86 billion of forced selling.",
+    "url": "https://thedefiant.io/news/markets/bitcoin-slides-below-66000-spot-etf-outflow-streak-record-12-days",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-03T17:07:05.000Z"
+  },
+  {
     "id": "1aee1cc3-c045-49d6-ba0b-d4839f271c79",
     "source": "The Block",
     "type": "rss",
@@ -110,7 +460,7 @@
     "created_at": "2026-06-03T16:29:47.000Z"
   },
   {
-    "id": "daff43bb-8c32-4bc4-875d-ee159669c35a",
+    "id": "2d81a33f-a370-4cc1-9022-2b19d2552dbd",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Michael Saylor's 'Strategy' $BTC investment is currently at a $8,500,000,000 unrealized loss.@WatcherGuru",
@@ -148,6 +498,16 @@
     "url": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
     "author": "Lorenzo Franceschi-Bicchierai",
     "created_at": "2026-06-03T16:12:06.000Z"
+  },
+  {
+    "id": "d20c57bb-37de-4485-9015-8170e1d41c40",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin copying 2022 'almost perfectly' as trader sees key support failing",
+    "summary": "1. Bitcoin traders warned of a key BTC price support trend line failing as 2022 bear market history continued to repeat.",
+    "url": "https://cointelegraph.com/markets/bitcoin-copying-2022-almost-perfectly-as-trader-sees-key-support-failing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-06-03T16:09:12.000Z"
   },
   {
     "id": "9b7d9252-5b9e-407d-9ac7-2d056143a8af",
@@ -228,335 +588,5 @@
     "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
     "author": "Amanda Silberling",
     "created_at": "2026-06-03T15:31:42.000Z"
-  },
-  {
-    "id": "0dcb55f6-f156-4441-b4a1-e1e7c26c22ff",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase",
-    "summary": "1. Bitcoin Magazine\n\nLava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase\nLava has launched a secured Visa credit card that lets users fund spending with cash or stablecoins while earning Bitcoin rewards on every purchase.\n2. This post Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/lava-card-launches-visa-credit-card",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-03T15:18:31.000Z"
-  },
-  {
-    "id": "5e7af353-77bb-431e-ae0b-7e51c5d52db7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ The Blockchain Association released a letter from 160 former national security, intelligence and law enforcement professionals urging Senate leaders to advance the CLARITY Act.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a4e9ba7e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-03T15:14:22+00:00"
-  },
-  {
-    "id": "1c24a2af-0087-4606-b956-f5c24b39fe91",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer",
-    "summary": "1. Sawyer confirmed that Standard Chartered’s full acquisition of the firm is on track to target a signing at the end of June and complete by the end of August.",
-    "url": "https://www.coindesk.com/business/2026/06/03/standard-chartered-buyout-of-zodia-custody-is-great-news-for-crypto-tech-adoption-ceo-says",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-03T15:08:41.000Z"
-  },
-  {
-    "id": "3ccd174a-caea-49ac-aa14-cbe9ec3afa3e",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Zcash Completes 'Most Ambitious' Network Upgrade as ZEC Resumes Recent Surge",
-    "summary": "1. A Zcash vulnerability could have allowed double-spending within the network's flagship privacy pool, though no exploitation occurred.",
-    "url": "https://decrypt.co/369896/zcash-completes-most-ambitious-network-upgrade-zec-resumes-recent-surge",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-03T15:05:53.000Z"
-  },
-  {
-    "id": "d5019427-c610-4bcd-8dae-c2112d0971f7",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Netanyahu says cracks in Iran will propagate and the regime will ultimately fallTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#933b8326",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-03T14:52:07+00:00"
-  },
-  {
-    "id": "210bac62-7203-4267-84ed-d6c94d520879",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "RAY DALIO SAYS AI BUBBLE WILL BURST EVENTUALLYTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#28de5d41",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-03T14:46:49+00:00"
-  },
-  {
-    "id": "d56710d0-2acc-4d39-83ca-045c16d63d2a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Rare physical bitcoin worth $1.78 million gets cashed in after 12 years",
-    "summary": "1. The S1-COIN-25 physical bitcoin, part of Mike Caldwell's 2011-2013 mint, had its tamper-evident hologram peeled and the 25 BTC swept on-chain on Wednesday.",
-    "url": "https://www.coindesk.com/markets/2026/06/03/rare-physical-bitcoin-worth-usd1-78-million-gets-cashed-in-after-12-years",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-03T14:32:32.000Z"
-  },
-  {
-    "id": "70bd57f0-73ff-4091-88b5-ff6775cd49da",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bitwise CIO Matt Hougan says crypto is becoming a “contrarian bet” as AI stocks dominate investor attention and the Nasdaq-100 rises more than 40% year-over-year.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#21e8426e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-03T14:29:19+00:00"
-  },
-  {
-    "id": "45d57636-1bf5-4ba1-9ed1-6b6cafdf0a36",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Old DxSale Lockers Drained for $7.3M Across 1,400 BNB Chain Pools as Owner-Privilege Exploits Pile Up",
-    "summary": "1. A dormant launchpad contract from 2021 was emptied this week through a quiet ownership transfer and a one-wei fee reset — the latest in a string of BNB Chain drains that turn admin keys into the attack surface.",
-    "url": "https://thedefiant.io/news/hacks/old-dxsale-lockers-drained-for-7-3m-across-1-400-bnb-chain-pools-as-owner-privil",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-03T14:04:28.000Z"
-  },
-  {
-    "id": "84400188-dd05-4574-8b28-673d62d40ff0",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Mastercard Opens Card-Settlement Network on Eight Blockchains, Adding Weekend and Holiday Cycles",
-    "summary": "1. Issuers and acquirers can now clear card transactions in regulated stablecoins on Arbitrum, Base, Canton, Ethereum, Polygon, Solana, Tempo and XRPL, with ARQ, CBW Bank, Cross River, Lead Bank and Nuvei lined up as the first adopters in the US and Latin America.",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-card-settlement-network-on-eight-blockchains-adding-weekend-and-holiday-cycles",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-03T14:02:51.000Z"
-  },
-  {
-    "id": "695413d7-4f06-4ab8-8652-af3791b00ecb",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Peter Schiff says there is “way too much complacency in Bitcoin” for a market bottom, warning “When Bitcoin breaks $50K, it should be a quick fall below $20K”Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#0b10dbd5",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-03T13:47:13+00:00"
-  },
-  {
-    "id": "b8879b90-3d2f-4ad1-84f2-350d6099b5ec",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Visa, Mastercard and Stripe to launch crypto stablecoin platform.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c9f36c88",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-03T13:30:09+00:00"
-  },
-  {
-    "id": "889ae634-1090-4668-a78e-1057edf55942",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Bitcoin 'Fear & Greed Index' falls to 11, extreme fear.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#21cba08c",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-03T13:03:18+00:00"
-  },
-  {
-    "id": "47d48c53-de2d-4bfd-b539-0187a36225d1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-    "summary": "1. The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-    "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-06-03T13:02:51.000Z"
-  },
-  {
-    "id": "3cc66607-5958-4dc8-b581-f9ee657eebe6",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Kraken parent Payward plans to offer tokenized IPO access as investors await blockbuster debuts",
-    "summary": "1. Payward aims to give retail investors access to IPO shares at the offering price through tokenized equities.",
-    "url": "https://www.coindesk.com/business/2026/06/03/kraken-parent-payward-plans-to-offer-tokenized-ipo-access-as-investors-await-blockbuster-debuts",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-03T13:02:26.000Z"
-  },
-  {
-    "id": "2524d51a-bc9b-4f67-a8c5-10432742cdef",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "MoonPay Brings Crypto Transactions to Claude and Codex With MoonAgents Desktop App",
-    "summary": "1. MoonPay's new desktop app connects AI assistants to crypto wallets and blockchain services through a graphical interface.",
-    "url": "https://decrypt.co/369746/moonpay-brings-crypto-transactions-claude-codex-moonagents",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-03T13:01:03.000Z"
-  },
-  {
-    "id": "3dd0dcf3-4dc4-4d9d-90b6-d36119e5f8ed",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "IREN adds 4% premarket as company unveils 800MW Australian AI data center campus",
-    "summary": "1. The AI infrastructure firm secured a grid connection for a planned South Australian campus, with energization targeted for 2028.",
-    "url": "https://www.coindesk.com/markets/2026/06/03/iren-adds-4-premarket-as-company-unveils-800mw-australian-ai-data-center-campus",
-    "author": "James Van Straten",
-    "created_at": "2026-06-03T13:01:01.000Z"
-  },
-  {
-    "id": "fa3293ac-8686-4433-a68b-8d374a075f3f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done",
-    "summary": "1. The dwindling congressional calendar may spur a legislative competition for the crypto market structure bill to win Senate floor time against other priorities.",
-    "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-03T13:00:00.000Z"
-  },
-  {
-    "id": "cf70a475-a56d-44bc-8c22-b29e388f0ac5",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
-    "summary": "1. Plex has come a long way from being just a personal media server.\n2. Over the past few years, it has transformed into a streaming hub, today featuring ad-supported content and movie rental options.\n3. Now, the company is setting its sights on competing with social networking platforms like Reddit and Letterboxd: on Wednesday, Plex unveiled several […]",
-    "url": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-06-03T13:00:00.000Z"
-  },
-  {
-    "id": "160acf97-7f50-4d1c-b295-dcd885fdf3cc",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: Bitcoin Falls Below $67k as MSTR Plummets",
-    "summary": "1. The fallout from Saylor’s first Bitcoin sale in years keeps spreading, while Bernie Sanders and Elizabeth Warren want crypto out of your 401(k).",
-    "url": "https://decrypt.co/369839/morning-minute-bitcoin-falls-below-67k-as-mstr-plummets",
-    "author": "Tyler Warner",
-    "created_at": "2026-06-03T12:47:43.000Z"
-  },
-  {
-    "id": "30e1ce2d-2d65-4046-9c91-5f5e8909fe4a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth",
-    "summary": "1. A UK House of Lords committee warned that Britain lags the U.S.\n2. and the EU on stablecoins, calling on the BoE and FCA to revise rules.",
-    "url": "https://www.theblock.co/post/403498/house-of-lords-committee-urges-uk-regulators-to-ease-stablecoin-rules-that-could-stifle-market-growth?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-03T12:47:15.000Z"
-  },
-  {
-    "id": "55256527-6be7-4503-a6c3-1274a75c4864",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Trezor Reveals Hardware Wallet Vulnerability, But Funds 'Safe'",
-    "summary": "1. The vulnerability in Trezor's TROPIC01 Secure Element chip was uncovered by an audit carried out by the Ledger Donjon team.",
-    "url": "https://decrypt.co/369857/trezor-reveals-hardware-wallet-vulnerability-but-funds-safe",
-    "author": "Ryan Gladwin",
-    "created_at": "2026-06-03T12:42:25.000Z"
-  },
-  {
-    "id": "c0ba7a86-0cb6-429d-b16a-b796dbb2de6a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Kraken to offer tokenized US IPO access for global retail investors via xStocks",
-    "summary": "1. Expected in the coming weeks, customers of Kraken and select xStocks partners can register interest in U.S.-listed IPOs before going public.",
-    "url": "https://www.theblock.co/post/403495/kraken-tokenized-us-ipo-access-retail-investors-xstocks?utm_source=rss&utm_medium=rss",
-    "author": "James Hunt",
-    "created_at": "2026-06-03T12:30:00.000Z"
-  },
-  {
-    "id": "8104ee41-022a-49c9-8242-599d3c5f1428",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ledger researchers find flaw in chip used by Trezor Safe 7; Trezor says user funds safe",
-    "summary": "1. Ledger's Donjon team found a laser-based hardware flaw in the TROPIC01 chip used in the Trezor Safe 7, but Trezor says no funds are at risk.",
-    "url": "https://www.theblock.co/post/403492/ledger-researchers-find-flaw-in-chip-used-by-trezor-safe-7-trezor-says-user-funds-safe?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-03T12:25:07.000Z"
-  },
-  {
-    "id": "a1e7218b-e64d-4d96-8c86-16313600e94a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement",
-    "summary": "1. The payments giant said USDC, PYUSD, RLUSD and other stablecoins will support new settlement options across multiple blockchains.",
-    "url": "https://cointelegraph.com/news/mastercard-stablecoin-settlement-usdc-pyusd-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-06-03T11:48:55.000Z"
-  },
-  {
-    "id": "9df73b28-c870-4ddd-9da8-6a37184a174e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bank of America Names Adam Dixon Global Head of Digital Asset Transformation",
-    "summary": "1. Bank of America has appointed Adam Dixon, a more than 20-year veteran of the firm, as its global head of digital asset transformation, tasking him with steering the second-largest American bank’s crypto and tokenization strategy.\n2. A New Crypto Command at a Wall Street Giant The appointment names Dixon global head of digital asset transformation, with […]",
-    "url": "https://news.bitcoin.com/bank-of-america-names-adam-dixon-global-head-of-digital-asset-transformation/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-03T11:30:28.000Z"
-  },
-  {
-    "id": "ab36e613-2663-4be2-acef-4a7655f758e3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance acquires stake in US stock token custody firm Alpaca",
-    "summary": "Binance has acquired a stake in Alpaca, a key infrastructure company that controls approximately 94% of the U.S. stock token and ETF custody market, SpotOnChain reported. Beyond a simple equity investment, Binance has also entered into an exclusive revenue-sharing agreement. The deal secures Binance 50% of the fees from Payment for Order Flow (PFOF) and 65% of the residual profits generated by Alpaca's user stock lending services. SpotOnChain commented that this move marks Binance's entry into the real-world asset (RWA) tokenization space. The analytics firm added that by establishing a revenue-sharing structure with a dominant company in the stock token custody market, Binance has secured a direct pipeline to global RWA trading liquidity.",
-    "url": "https://t.me/CoinnessGL#7c3e3a71",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-03T11:12:14+00:00"
-  },
-  {
-    "id": "516c1ab8-daca-4344-bda0-cff3cf89425e",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "UK Regulator Warns Soccer Clubs Over Unauthorized Crypto Sponsorship Deals",
-    "summary": "1. The FCA has warned Premier League clubs that partnerships with unlicensed crypto firms could expose fans to unregulated trading platforms.",
-    "url": "https://decrypt.co/369835/uk-regulator-warns-soccer-clubs-over-unauthorized-crypto-sponsorship-deals",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-03T11:11:43.000Z"
-  },
-  {
-    "id": "3f2ddd2c-5c27-4377-93d1-d25a4b1237a0",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Tether-backed agricultural giant Adecoagro to turn surplus sugarcane biomass power into Bitcoin miningTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#41bda623",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-03T11:10:55+00:00"
-  },
-  {
-    "id": "4505dcdf-1e23-4950-8f2e-89471569c229",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Mastercard to introduce stablecoins for card payment settlement",
-    "summary": "Mastercard is introducing stablecoins into its settlement system, a core component of its traditional credit card payment network, Cointelegraph reported. The company officially announced it will expand its payment infrastructure to allow card issuers and acquirers to use stablecoins for settling transactions. This will enable global payment settlements, previously restricted to banking business days, to be processed in real-time around the clock, including on weekends and holidays.",
-    "url": "https://t.me/CoinnessGL#49d7d04b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-03T11:06:40+00:00"
-  },
-  {
-    "id": "3c690567-7157-4e8a-b8bf-53437c4c1e5c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report",
-    "summary": "1. DOJ and CFTC are investigating George Santos after Kalshi flagged trades where he allegedly bet against his own State of the Union attendance.",
-    "url": "https://www.theblock.co/post/403486/doj-cftc-probe-george-santos-over-kalshi-trades-tied-to-state-of-the-union-appearance-report?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-03T11:06:31.000Z"
-  },
-  {
-    "id": "d4047008-a759-40fe-8a32-e1563b5efbbc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk",
-    "summary": "1. Trezor and Tropic Square disclosed a TROPIC01 chip vulnerability found during a Ledger Donjon audit, saying the Safe 7 wallet and user funds remain secure.",
-    "url": "https://cointelegraph.com/news/trezor-tropic-chip-flaw-ledger-donjon-funds-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-06-03T11:04:51.000Z"
-  },
-  {
-    "id": "b662c42e-ca3a-414e-8efa-c5cff0220328",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance to shut down centralized NFT service",
-    "summary": "Binance is shutting down its centralized NFT service and will offer a one-month grace period for user withdrawals, Unfolded reported.",
-    "url": "https://t.me/CoinnessGL#4ec0c1cc",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-03T11:04:15+00:00"
   }
 ]
