@@ -1,5 +1,55 @@
 [
   {
+    "id": "c8d5772a-76fd-4045-a726-f927d8ef3659",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "UK Lords warn BoE could regulate pound stablecoins into irrelevance",
+    "summary": "1. A UK House of Lords committee warned that strict stablecoin rules could make pound sterling tokens commercially unworkable despite supporting regulation.",
+    "url": "https://cointelegraph.com/news/lords-warn-bank-of-england-not-to-regulate-gbp-stablecoins-into-irrelevance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-03T00:01:00.000Z"
+  },
+  {
+    "id": "611896db-5088-4160-ab69-d25062843fe1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple Expands D.C. Presence to Strengthen US Crypto Policy Engagement",
+    "summary": "1. Ripple expanded its Washington, D.C., office as institutional crypto adoption accelerates and U.S.\n2. policymakers debate the future of digital asset regulation.\n3. The move emphasizes clear rules, consumer protection, and collaboration with regulators and industry stakeholders.",
+    "url": "https://news.bitcoin.com/ripple-expands-d-c-presence-to-strengthen-us-crypto-policy-engagement/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-02T23:45:37.000Z"
+  },
+  {
+    "id": "5b756caa-879e-4ccb-81af-27cc87ca463f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder",
+    "summary": "1. Ala Shaabana explains how using Bitcoin network’s coordinate-and-reward playbook can bust open corporate monopolies on AI.",
+    "url": "https://www.coindesk.com/tech/2026/06/02/bitcoin-s-compute-power-dwarfs-top-100-supercomputers-by-600-000x-says-bittensor-co-founder",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-02T23:25:44.000Z"
+  },
+  {
+    "id": "ef680dbd-624f-46f6-8e7c-614fd8c2aaf9",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+    "summary": "1. Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
+    "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-06-02T23:25:20.000Z"
+  },
+  {
+    "id": "4d21fc2e-7a84-4d0b-a8a5-0a52eb0b83c0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Nobitex Sanctions Hit Iran’s Largest Crypto Exchange as Compliance Risks Grow",
+    "summary": "1. Treasury Department sanctioned Nobitex, Iran’s largest digital asset exchange, and three other Iranian crypto platforms on Tuesday, placing a sharper compliance spotlight on crypto flows tied to Iran.\n2. 4 Exchanges, 4 Nationals Hit as U.S.\n3. Expands Iran Crypto Sanctions Campaign The Treasury’s Office of Foreign Assets Control, or OFAC, designated Nobitex, Wallex, Bitpin, […]",
+    "url": "https://news.bitcoin.com/nobitex-sanctions-hit-irans-largest-crypto-exchange-as-compliance-risks-grow/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-02T23:15:30.000Z"
+  },
+  {
     "id": "82a543ae-4a5c-4e9c-99f0-60a71acd1e54",
     "source": "CoinDesk",
     "type": "rss",
@@ -60,6 +110,16 @@
     "created_at": "2026-06-02T22:45:45.000Z"
   },
   {
+    "id": "1321969e-76c5-4eb5-a4ca-7e262f80abdb",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US lawmakers push back on Labor Department plans to include crypto in 401(k)s",
+    "summary": "1. The three members of Congress said the volatility of digital assets and “lack of regulation and safeguards” could put Americans’ retirement savings at risk.",
+    "url": "https://cointelegraph.com/news/democrats-labor-department-digital-assets-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-06-02T22:44:19.000Z"
+  },
+  {
     "id": "a3aab7e3-0d01-4e28-88ff-3069aa535d74",
     "source": "Decrypt",
     "type": "rss",
@@ -78,6 +138,16 @@
     "url": "https://t.me/CoinnessGL#a4a8a1b8",
     "author": "@CoinnessGL",
     "created_at": "2026-06-02T22:18:11+00:00"
+  },
+  {
+    "id": "f0c3af02-8822-47f2-a49b-ba52115a58cf",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "SEC makes digital assets strategic priority through 2030",
+    "summary": "1. The regulator’s five-year roadmap calls for clearer crypto rules, support for tokenization and a framework for staking and onchain markets.",
+    "url": "https://cointelegraph.com/news/sec-makes-digital-assets-strategic-priority-through-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-02T22:17:11.000Z"
   },
   {
     "id": "fc66e14b-2c0c-4e33-aaa1-48a49767e33b",
@@ -538,105 +608,5 @@
     "url": "https://t.me/WatcherGuru#9d1c6bb6",
     "author": "@WatcherGuru",
     "created_at": "2026-06-02T18:39:41+00:00"
-  },
-  {
-    "id": "79d7e19f-90a1-499d-b720-0dc225749d85",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Illegal Immigrants and Foreign Fraudsters steal BILLIONS every year from the American Taxpayer.\n2. As part of my Administration’s Historic effort to end FRAUD and reverse MASS ILLEGAL IMMIGRATION, I recently signed a powerful new Executive Order, which will be led by the Treasury Department, to stop Banks, Credit Cards, and Financial Institutions from being used to facilitate Human Smuggling, Drug Trafficking, Illegal Immigration, and the Criminal Cartels who orchestrate these activities.\n3. Access to our Nation’s Financial Systems must be limited to those who have a Legal Right to be here, and who are engaged in Lawful and Legitimate Commerce.",
-    "url": "https://trumpstruth.org/statuses/39044",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T18:20:36.000Z"
-  },
-  {
-    "id": "857a6a8c-350b-4476-a7b0-16339135e629",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Truth the Media Won't Tell You About the Anti-Weaponization Fund:",
-    "url": "https://trumpstruth.org/statuses/39043",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T18:19:15.000Z"
-  },
-  {
-    "id": "e6f6c39d-8067-4715-903c-ab247041ba11",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "A Little Story About Inflation – An Excerpt from Bitcoin: The Honest Money",
-    "summary": "1. Bitcoin Magazine\n\nA Little Story About Inflation – An Excerpt from Bitcoin: The Honest Money\nAn excerpt from Bitcoin: The Honest Money uses the rising cost of ice cream to explain how inflation devalues money, wages, savings, and time.\n2. This post A Little Story About Inflation – An Excerpt from Bitcoin: The Honest Money first appeared on Bitcoin Magazine and is written by Alex v.\n3. Frankenberg.",
-    "url": "https://bitcoinmagazine.com/bitcoin-books/a-little-story-about-inflation-an-excerpt-from-bitcoin-the-honest-money",
-    "author": "Alex v. Frankenberg",
-    "created_at": "2026-06-02T18:14:53.000Z"
-  },
-  {
-    "id": "8a64cd91-1867-4f95-a90d-e73689985b98",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin gets new $50K target after BTC price crashes 6% in a day",
-    "summary": "1. Bitcoin price bets saw $50,000 returning after 6% daily BTC price losses liquidated $1.25 billion of crypto positions.",
-    "url": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-02T17:54:18.000Z"
-  },
-  {
-    "id": "e7d2115d-7d23-4d33-bbcf-94c8e2a36904",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. In a sign of Strength and Fortitude, it was just announced that The White House Correspondents’ Dinner, which violently ended rather abruptly on April 25th, will be rescheduled to July 24th.\n2. This announcement is a very good thing in that we cannot allow Lunatics to change our way of life, or even its scheduling.\n3. I was asked to be there, and speak, by Weijia Jiang, President of The White House Correspondents’ Association, and have accepted.",
-    "url": "https://trumpstruth.org/statuses/39042",
-    "author": "Trump Truth",
-    "created_at": "2026-06-02T17:50:46.000Z"
-  },
-  {
-    "id": "bb3b4117-d3c3-4371-9e12-6b33619408c3",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": " Bad Sentiment, Strong Fundamentals: the Institutional Turn | Chris Perkins, Franklin Crypto",
-    "summary": "1. Crypto is entering a new phase — and institutions, not retail, are driving it.\n2. As regulatory clarity arrives, the largest institutions in the world are moving from the sidelines into the market.\n3. The thesis from our guest: sentiment is poor, but fundamentals are improving; a coiled spring.",
-    "url": "https://thedefiant.io/converge/podcast/bad-sentiment-strong-fundamentals-the-institutional-turn-or-chris-perkins-franklin-crypto",
-    "author": "Chris Storaker",
-    "created_at": "2026-06-02T17:43:53.000Z"
-  },
-  {
-    "id": "8316d3d8-e6a6-48c0-b60b-46d01bf47b6a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CFTC chair claims Gemini case was politically motivated, seeks to reverse $5M settlement",
-    "summary": "1. The CFTC chair seeks to roll back an enforcement action on the company founded by Cameron and Tyler Winklevoss, donors to Donald Trump’s 2024 campaign and attendees at White House events.",
-    "url": "https://cointelegraph.com/news/cftc-michael-selig-gemini-politically-motivated-reverse-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-02T17:39:30.000Z"
-  },
-  {
-    "id": "1d1dadd1-e52b-431f-aa8f-acfeb8d51a35",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Crypto Clarity Act added to Senate Legislative Calendar, making it eligible for full Senate consideration.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#460141a4",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-02T17:36:31+00:00"
-  },
-  {
-    "id": "0bcb0be4-d4cc-4ac7-a75d-8a0bcabddbb2",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Coinbase Ventures Buys ENA on the Open Market as Coinbase and Ethena Strike Distribution Deal",
-    "summary": "1. The exchange's venture arm bought ENA tokens directly on the open market rather than through a private round, the first such disclosed purchase, alongside a partnership to push Ethena's onchain dollar and savings products into Coinbase's userbase.",
-    "url": "https://thedefiant.io/news/defi/coinbase-ventures-ena-open-market-ethena-distribution-deal",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-02T17:28:14.000Z"
-  },
-  {
-    "id": "e627d79f-44d2-474e-95f1-0c9a168ceb28",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Google plans $80B stock sale to fund AI spending and tax obligations, flipping from years of buybacks as 2026 capex heads toward $190BTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#48df78f4",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-02T17:20:13+00:00"
   }
 ]
