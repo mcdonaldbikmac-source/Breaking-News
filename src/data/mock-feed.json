@@ -1,5 +1,135 @@
 [
   {
+    "id": "47d48c53-de2d-4bfd-b539-0187a36225d1",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "summary": "1. The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+    "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-03T13:02:51.000Z"
+  },
+  {
+    "id": "3cc66607-5958-4dc8-b581-f9ee657eebe6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Kraken parent Payward plans to offer tokenized IPO access as investors await blockbuster debuts",
+    "summary": "1. Payward aims to give retail investors access to IPO shares at the offering price through tokenized equities.",
+    "url": "https://www.coindesk.com/business/2026/06/03/kraken-parent-payward-plans-to-offer-tokenized-ipo-access-as-investors-await-blockbuster-debuts",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-03T13:02:26.000Z"
+  },
+  {
+    "id": "2524d51a-bc9b-4f67-a8c5-10432742cdef",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "MoonPay Brings Crypto Transactions to Claude and Codex With MoonAgents Desktop App",
+    "summary": "1. MoonPay's new desktop app connects AI assistants to crypto wallets and blockchain services through a graphical interface.",
+    "url": "https://decrypt.co/369746/moonpay-brings-crypto-transactions-claude-codex-moonagents",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-03T13:01:03.000Z"
+  },
+  {
+    "id": "3dd0dcf3-4dc4-4d9d-90b6-d36119e5f8ed",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "IREN adds 4% premarket as company unveils 800MW Australian AI data center campus",
+    "summary": "1. The AI infrastructure firm secured a grid connection for a planned South Australian campus, with energization targeted for 2028.",
+    "url": "https://www.coindesk.com/markets/2026/06/03/iren-adds-4-premarket-as-company-unveils-800mw-australian-ai-data-center-campus",
+    "author": "James Van Straten",
+    "created_at": "2026-06-03T13:01:01.000Z"
+  },
+  {
+    "id": "fa3293ac-8686-4433-a68b-8d374a075f3f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done",
+    "summary": "1. The dwindling congressional calendar may spur a legislative competition for the crypto market structure bill to win Senate floor time against other priorities.",
+    "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-06-03T13:00:00.000Z"
+  },
+  {
+    "id": "cf70a475-a56d-44bc-8c22-b29e388f0ac5",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
+    "summary": "1. Plex has come a long way from being just a personal media server.\n2. Over the past few years, it has transformed into a streaming hub, today featuring ad-supported content and movie rental options.\n3. Now, the company is setting its sights on competing with social networking platforms like Reddit and Letterboxd: on Wednesday, Plex unveiled several […]",
+    "url": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
+    "author": "Lauren Forristal",
+    "created_at": "2026-06-03T13:00:00.000Z"
+  },
+  {
+    "id": "160acf97-7f50-4d1c-b295-dcd885fdf3cc",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: Bitcoin Falls Below $67k as MSTR Plummets",
+    "summary": "1. The fallout from Saylor’s first Bitcoin sale in years keeps spreading, while Bernie Sanders and Elizabeth Warren want crypto out of your 401(k).",
+    "url": "https://decrypt.co/369839/morning-minute-bitcoin-falls-below-67k-as-mstr-plummets",
+    "author": "Tyler Warner",
+    "created_at": "2026-06-03T12:47:43.000Z"
+  },
+  {
+    "id": "30e1ce2d-2d65-4046-9c91-5f5e8909fe4a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth",
+    "summary": "1. A UK House of Lords committee warned that Britain lags the U.S.\n2. and the EU on stablecoins, calling on the BoE and FCA to revise rules.",
+    "url": "https://www.theblock.co/post/403498/house-of-lords-committee-urges-uk-regulators-to-ease-stablecoin-rules-that-could-stifle-market-growth?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-03T12:47:15.000Z"
+  },
+  {
+    "id": "55256527-6be7-4503-a6c3-1274a75c4864",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Trezor Reveals Hardware Wallet Vulnerability, But Funds 'Safe'",
+    "summary": "1. The vulnerability in Trezor's TROPIC01 Secure Element chip was uncovered by an audit carried out by the Ledger Donjon team.",
+    "url": "https://decrypt.co/369857/trezor-reveals-hardware-wallet-vulnerability-but-funds-safe",
+    "author": "Ryan Gladwin",
+    "created_at": "2026-06-03T12:42:25.000Z"
+  },
+  {
+    "id": "c0ba7a86-0cb6-429d-b16a-b796dbb2de6a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kraken to offer tokenized US IPO access for global retail investors via xStocks",
+    "summary": "1. Expected in the coming weeks, customers of Kraken and select xStocks partners can register interest in U.S.-listed IPOs before going public.",
+    "url": "https://www.theblock.co/post/403495/kraken-tokenized-us-ipo-access-retail-investors-xstocks?utm_source=rss&utm_medium=rss",
+    "author": "James Hunt",
+    "created_at": "2026-06-03T12:30:00.000Z"
+  },
+  {
+    "id": "8104ee41-022a-49c9-8242-599d3c5f1428",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ledger researchers find flaw in chip used by Trezor Safe 7; Trezor says user funds safe",
+    "summary": "1. Ledger's Donjon team found a laser-based hardware flaw in the TROPIC01 chip used in the Trezor Safe 7, but Trezor says no funds are at risk.",
+    "url": "https://www.theblock.co/post/403492/ledger-researchers-find-flaw-in-chip-used-by-trezor-safe-7-trezor-says-user-funds-safe?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-03T12:25:07.000Z"
+  },
+  {
+    "id": "a1e7218b-e64d-4d96-8c86-16313600e94a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement",
+    "summary": "1. The payments giant said USDC, PYUSD, RLUSD and other stablecoins will support new settlement options across multiple blockchains.",
+    "url": "https://cointelegraph.com/news/mastercard-stablecoin-settlement-usdc-pyusd-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-06-03T11:48:55.000Z"
+  },
+  {
+    "id": "9df73b28-c870-4ddd-9da8-6a37184a174e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bank of America Names Adam Dixon Global Head of Digital Asset Transformation",
+    "summary": "1. Bank of America has appointed Adam Dixon, a more than 20-year veteran of the firm, as its global head of digital asset transformation, tasking him with steering the second-largest American bank’s crypto and tokenization strategy.\n2. A New Crypto Command at a Wall Street Giant The appointment names Dixon global head of digital asset transformation, with […]",
+    "url": "https://news.bitcoin.com/bank-of-america-names-adam-dixon-global-head-of-digital-asset-transformation/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-03T11:30:28.000Z"
+  },
+  {
     "id": "ab36e613-2663-4be2-acef-4a7655f758e3",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -48,6 +178,16 @@
     "url": "https://www.theblock.co/post/403486/doj-cftc-probe-george-santos-over-kalshi-trades-tied-to-state-of-the-union-appearance-report?utm_source=rss&utm_medium=rss",
     "author": "Brian Danga",
     "created_at": "2026-06-03T11:06:31.000Z"
+  },
+  {
+    "id": "d4047008-a759-40fe-8a32-e1563b5efbbc",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk",
+    "summary": "1. Trezor and Tropic Square disclosed a TROPIC01 chip vulnerability found during a Ledger Donjon audit, saying the Safe 7 wallet and user funds remain secure.",
+    "url": "https://cointelegraph.com/news/trezor-tropic-chip-flaw-ledger-donjon-funds-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-06-03T11:04:51.000Z"
   },
   {
     "id": "b662c42e-ca3a-414e-8efa-c5cff0220328",
@@ -218,15 +358,5 @@
     "url": "https://news.bitcoin.com/el-salvador-buys-the-dip-bitcoin-under-66000/",
     "author": "Shiraz Jagati",
     "created_at": "2026-06-03T08:30:29.000Z"
-  },
-  {
-    "id": "5223330e-f0bf-40f5-9071-80592001680f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "New York and EU’s finance watchdogs team up to police stablecoins",
-    "summary": "1. Some of the information that New York and the European Union’s watchdogs will share includes the issued stablecoins, total volume in circulation and the number of holders.",
-    "url": "https://cointelegraph.com/news/new-york-eu-regulators-joint-stablecoin-oversight-agreement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Stephen Katte",
-    "created_at": "2026-06-03T06:58:05.000Z"
   }
 ]
