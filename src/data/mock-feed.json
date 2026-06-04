@@ -1,5 +1,85 @@
 [
   {
+    "id": "db4dae8c-bf05-4879-b50d-92d0fff1f52f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitmine to launch STRC-style preferred stock offering amid $9.2 billion unrealized ETH losses",
+    "summary": "1. The company plans to use the net proceeds for general purposes, which may include purchasing additional ETH and expanding staking operations.",
+    "url": "https://www.theblock.co/post/403594/bitmine-preferred-stock-offering?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-04T02:38:47.000Z"
+  },
+  {
+    "id": "4738089f-e7b8-435e-8c84-864aaebc3c57",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Falls Sharply as Traders Brace for Deeper Crypto Sell-Off",
+    "summary": "1. XRP extended its decline, testing support near the $1.14 level, as heavy long liquidations, persistent selling pressure, and a series of lower highs reinforced the cryptocurrency’s bearish market structure.\n2. XRP Price Slides as Selling Pressure Intensifies At 10:09 p.m.\n3. on June 3, XRP was trading at $1.15712, extending a sharp decline that has dominated recent […]",
+    "url": "https://news.bitcoin.com/xrp-falls-sharply-as-traders-brace-for-deeper-crypto-sell-off/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-04T02:38:20.000Z"
+  },
+  {
+    "id": "21a0cd50-c9f3-4c4a-982e-54dd9665045c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple Expands RLUSD Into Turkey as a $200B Crypto Market Signals Bigger Stablecoin Demand",
+    "summary": "1. RLUSD, Ripple’s USD-backed stablecoin, has launched in Turkey via local crypto platforms, giving enterprises regulated access to digital dollars.\n2. The rollout supports payments, liquidity, collateral management, and tokenization in a market with roughly $200 billion in annual crypto volume.\n3. RLUSD Enters Turkey Through Local Platforms Serving Crypto Users Ripple said its USD-backed stablecoin, RLUSD, is […]",
+    "url": "https://news.bitcoin.com/ripple-expands-rlusd-into-turkey-as-a-200b-crypto-market-signals-bigger-stablecoin-demand/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-04T02:30:09.000Z"
+  },
+  {
+    "id": "bd23900e-c35a-4529-a16d-793fc13750be",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates\nBitcoin price has tumbled to its lowest level in months Wednesday night, crashing below $62,000 and wiping out a sharp intraday loss of more than $5,300.\n2. This post Bitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-62000-erasing-months-of-recovery-as-sell-off-accelerates",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-04T02:21:50.000Z"
+  },
+  {
+    "id": "4c096c92-ca19-44db-a252-5aab2b779d4f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out",
+    "summary": "1. Presto Research says bitcoin's drawdowns this year have coincided with rallies in AI stocks and gold as markets scale back expectations for Fed rate cuts.",
+    "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out",
+    "author": "Sam Reynolds",
+    "created_at": "2026-06-04T02:13:28.000Z"
+  },
+  {
+    "id": "c7df7ded-f3a3-4880-8d47-b7d95ea520e8",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated",
+    "summary": "1. Analysts and market observers are saying bitcoin's crash is happening due to traders chasing momentum and rotating out of crypto and into high-flying IPOs and AI stocks.",
+    "url": "https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-04T02:11:08.000Z"
+  },
+  {
+    "id": "08dc720c-ef45-44bf-bda9-1ece97b413aa",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "$1.2B Liquidated as Bitcoin Tests $62.5K Support Amid Sharp Crypto Selloff",
+    "summary": "1. Bitcoin hovered under the $63,000 mark late June 3 after a steep selloff erased more than $1.2 billion in leveraged crypto positions during the past 24 hours.\n2. Data from Coinglass shows total liquidations reached approximately $1.12 billion over the last day, with long traders absorbing the overwhelming majority of the damage.\n3. Nearly $949 million in […]",
+    "url": "https://news.bitcoin.com/1-2b-liquidated-as-bitcoin-tests-62-5k-support-amid-sharp-crypto-selloff/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-04T01:56:40.000Z"
+  },
+  {
+    "id": "8676b483-8f6d-4ac9-99ef-7f2c2b06e288",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens",
+    "summary": "1. The selloff has triggered demand for protective options plays, pushing the fear gauge higher.",
+    "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-04T01:30:53.000Z"
+  },
+  {
     "id": "890655cc-abc6-4991-9a71-68bc247bf851",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -128,275 +208,5 @@
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.162",
     "author": "ashwin-ant",
     "created_at": "2026-06-03T21:31:35Z"
-  },
-  {
-    "id": "7542a881-9662-4214-8aa4-03decd619ee3",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures'",
-    "summary": "1. Founder Charles Hoskinson was brutally honest about the troubles the Cardano ecosystem could face as the market continues declining.",
-    "url": "https://decrypt.co/369974/cardano-slumps-5-year-low-price-charles-hoskinson-warns-failures",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-03T21:20:00.000Z"
-  },
-  {
-    "id": "24c24dcc-3d83-40c2-b017-0f11c449da2a",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Deel Deploys Stripe's Full Stablecoin Stack to Pay 1.5M Contractors in DLUSD",
-    "summary": "1. Deel is the first enterprise to combine Bridge, Privy, and Tempo in a single product, issuing a custom USD-denominated stablecoin for 1.5 million contractors across 150 countries, starting in Argentina.",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-03T21:18:10.000Z"
-  },
-  {
-    "id": "02d50a30-3770-498b-9639-29591c8d2ae6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Nineteen New AI Billionaires Worth $59.3 Billion. Will the Boom Make You Rich?",
-    "summary": "1. Nineteen new American AI billionaires now hold a combined $59.3 billion, a second wave following the founders of OpenAI, Anthropic and DeepSeek.\n2. The haul stems from specialized models powering startups such as OpenEvidence (100+ million medical consultations), Reflection AI’s coding agents, and Mercor, which scaled revenue from $100 million in 2025 to $1 billion in […]",
-    "url": "https://news.bitcoin.com/nineteen-new-ai-billionaires-worth-59-3-billion-will-the-boom-make-you-rich-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-06-03T21:17:45.000Z"
-  },
-  {
-    "id": "1cc3efb4-c282-454a-88b2-c1ef45cd8fad",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "PENDLE Token Goes Live on Revolut, Reaching 20M EEA Crypto Traders",
-    "summary": "1. The yield-tokenization protocol's $233M-mcap token is now buyable inside Revolut's MiCA-licensed crypto app across the UK, EU, Norway, Iceland and Liechtenstein — the second on-chain yield protocol to land on the fintech's regulated rails after Maple's SYRUP in April.",
-    "url": "https://thedefiant.io/news/defi/pendle-token-goes-live-on-revolut-reaching-20m-eea-crypto-traders",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-03T21:09:43.000Z"
-  },
-  {
-    "id": "d9c90573-391c-4437-9add-04ced9cbb743",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
-    "summary": "1. Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.",
-    "url": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-03T21:03:50.000Z"
-  },
-  {
-    "id": "3583866e-9f33-49b9-ac1a-2262878165e0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hyperliquid’s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
-    "summary": "1. Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.",
-    "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-03T20:57:29.000Z"
-  },
-  {
-    "id": "e0e38aee-514a-4c7f-acd0-dad15e4e7a6b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $65,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $65,000. BTC is trading at $64,792.6 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#5314ecf7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-03T20:55:18+00:00"
-  },
-  {
-    "id": "ad1a3dab-13d9-4b18-a414-ab2f23aaecf3",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Bitcoin falls under $65,000@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#98d504e8",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-03T20:52:56+00:00"
-  },
-  {
-    "id": "e4e74b2b-1f75-4ca4-b01d-4a5c0c4ce260",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Defense tech is flooded with money, but who’s built to last?",
-    "summary": "1. Defense tech is red hot right now.\n2. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S.\n3. government is proposing a 40% increase in defense budget.",
-    "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
-    "author": "Theresa Loconsolo",
-    "created_at": "2026-06-03T20:51:41.000Z"
-  },
-  {
-    "id": "ce8b78c9-38db-4f6c-b82d-feea5e605535",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "$113 million worth of futures liquidated in the past hour",
-    "summary": "Major exchanges have seen $113 million worth of futures liquidated in the past hour. In the past 24 hours, $979 million worth of futures have been liquidated.",
-    "url": "https://t.me/CoinnessGL#a26a3560",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-03T20:48:08+00:00"
-  },
-  {
-    "id": "d333349c-0a77-4a13-b6bd-cda64bd04f18",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Lawyers Are Already Better Than Law Professors at Reasoning—Say Law Professors",
-    "summary": "1. Researchers found professors preferred AI-generated answers over those written by their peers, raising questions about the role of AI in professional education.",
-    "url": "https://decrypt.co/369951/ai-lawyers-better-law-professors-reasoning-stanford",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-03T20:40:49.000Z"
-  },
-  {
-    "id": "eb24fda7-8ff3-4892-97fe-7a9ab7102556",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street’s Fee Machine, Not Its Technology",
-    "summary": "1. Bitcoin Magazine\n\nFranklin Templeton CEO: Blockchains Threaten Wall Street’s Fee Machine, Not Its Technology\nFranklin Templeton CEO Jenny Johnson said traditional finance resists public blockchains because they threaten fee-based revenue, as the firm expands aggressively into tokenization, bitcoin products, and on-chain finance.\n2. This post Franklin Templeton CEO: Blockchains Threaten Wall Street’s Fee Machine, Not Its Technology first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/franklin-templeton-ceo-blockchain-wall",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-03T20:39:36.000Z"
-  },
-  {
-    "id": "b3f8f0c7-f6bf-4c54-a8f0-3e9f389b350a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitwise Model Shows Bitcoin Is Deeply Underpriced at $224K Fair Value Amid Debt Crisis",
-    "summary": "1. Bitcoin is currently trading roughly $150,000 below what Bitwise Europe’s sovereign default model says it is worth.\n2. That gap widened in May as the price climbed to $83,000 before $1 billion in exchange-traded product (ETP) outflows dragged it back to $72,000, leaving the market compressed at a structural crossroads.\n3. Bitcoin Hit $83K Then Crashed to […]",
-    "url": "https://news.bitcoin.com/bitwise-model-shows-bitcoin-is-deeply-underpriced-at-224k-fair-value-amid-debt-crisis/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-03T20:34:22.000Z"
-  },
-  {
-    "id": "f5c8f708-85c0-43e3-b26c-bddab077ff24",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800",
-    "summary": "1. Shares of Tom Lee's Ethereum treasury firm hit their lowest level since the company's crypto pivot as ETH revisits the February lows.",
-    "url": "https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-03T20:33:51.000Z"
-  },
-  {
-    "id": "631ff353-0567-4516-b23e-4a49730297d0",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs\nBitcoin price is holding a risky position near $65,000 Wednesday, down roughly 12% over the past seven days and trading at its lowest level since February as a broad rotation out of crypto into competing speculative trades chips away at the foundation of its recent bull run.\n2. The world’s largest cryptocurrency touched a bitcoin price […]\nThis post Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-to-precarious",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-03T20:20:57.000Z"
-  },
-  {
-    "id": "56fc8e7e-922a-4d4d-95e2-4ce71d0af09b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Fed's Logan says a rate hike may be needed this year",
-    "summary": "Dallas Federal Reserve President Lorie Logan stated on June 3 that a rate hike might be necessary in the second half of this year to bring inflation down to the 2% target. Logan assessed the U.S. labor market as largely balanced, noted active investment in artificial intelligence (AI), and described financial conditions as still accommodative. However, she pointed out that the current inflation trend is not slowing toward the Fed's 2% goal. This situation, she said, suggests that current monetary policy is not having a restrictive effect on the economy. Logan added that there is growing concern that a rate hike may be needed in the second half of this year to fully restore price stability and properly fulfill the Fed's dual mandate.",
-    "url": "https://t.me/CoinnessGL#9d626110",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-03T20:18:55+00:00"
-  },
-  {
-    "id": "4b417179-508d-4238-bcae-081a248ac0fc",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 AI agents have now processed over 100M payments on Base.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a0d8af17",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-03T20:14:33+00:00"
-  },
-  {
-    "id": "b12d57db-3f9b-421b-8222-b9f51f294180",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Uber to put 500 data-collection vehicles on the road this year",
-    "summary": "1. The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
-    "url": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
-    "author": "Sean O'Kane, Kirsten Korosec",
-    "created_at": "2026-06-03T20:08:28.000Z"
-  },
-  {
-    "id": "1995e672-6296-4480-a8b6-54cb421eb59d",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Revolut Plans 2027 US Bank Launch With Stablecoin Services Built In From Day One",
-    "summary": "1. The British neobank, with 70 million customers and a $75 billion valuation, will pair FDIC-insured accounts with stablecoin access on a single platform — a tier-one fintech entering US banking with stablecoins designed in, not bolted on.",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-plans-2027-us-bank-launch-stablecoin-services-day-one",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-03T20:08:23.000Z"
-  },
-  {
-    "id": "3f292ddb-0a00-4c18-9e5d-8d4e0320ec20",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Ethereum $ETH falls under $1,800@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#93c56936",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-03T19:58:18+00:00"
-  },
-  {
-    "id": "7d43f747-43f3-44a5-b2e0-212c97a84189",
-    "source": "Politico",
-    "type": "rss",
-    "title": "She hired investigators to track her opponent",
-    "summary": "1. She hired investigators to track her opponent",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/03/she-hired-investigators-to-track-her-opponent-00948606",
-    "author": "By Jason Beeferman",
-    "created_at": "2026-06-03T19:47:06.000Z"
-  },
-  {
-    "id": "2ec20748-9a92-4318-8414-ce769322a2b8",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Crypto VC deal count slumps to five-year low as investors grow more selective",
-    "summary": "1. Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.",
-    "url": "https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing?utm_source=rss&utm_medium=rss",
-    "author": "Ivan Wu and Bryan Samsoedin",
-    "created_at": "2026-06-03T19:42:03.000Z"
-  },
-  {
-    "id": "f03a0e69-06f4-4fba-a5c7-820e4feee7d8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Bankless co-founder David Hoffman says that after selling ETH, he put about half the capital into VVV, NEAR, ZEC and HYPE, and used the rest to buy LIT.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a97261e0",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-03T19:39:35+00:00"
-  },
-  {
-    "id": "1d67e840-0799-416e-975a-cbf88cd80e74",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "summary": "1. If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "author": "Julie Bort",
-    "created_at": "2026-06-03T19:38:32.000Z"
-  },
-  {
-    "id": "f850a585-f5a0-4e28-af32-62429df607ab",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. I’ll be going to the G7, in France, immediately following what will be one of the Most Entertaining Nights in American History, the UFC World Championship Fights on the South Lawn of the White House.\n2. Records indicate that whilst fights of a much lower level took place at the White House throughout its long and storied History, nothing even close to this, the Greatest Fighters in the World, CHAMPIONS ALL, was even thought of for the People’s House!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39073",
-    "author": "Trump Truth",
-    "created_at": "2026-06-03T19:34:48.000Z"
-  },
-  {
-    "id": "b490beb1-0f99-4c86-8ee1-cce5232e694e",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Blockware Appoints Megan Brooks-Anderson as Chief Executive Officer",
-    "summary": "1. Bitcoin Magazine\n\nBlockware Appoints Megan Brooks-Anderson as Chief Executive Officer\nNew CEO to lead strategic pivot into AI and HPC infrastructure while strengthening core Bitcoin mining business.\n2. This post Blockware Appoints Megan Brooks-Anderson as Chief Executive Officer first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
-    "url": "https://bitcoinmagazine.com/press-releases/blockware-appoints-megan-brooks-anderson-as-chief-executive-officer",
-    "author": "Bitcoin Magazine",
-    "created_at": "2026-06-03T19:34:37.000Z"
-  },
-  {
-    "id": "1017a29a-f6c7-4ecc-ab3f-74d96bcda6cf",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "WSJ: Hyperliquid Has Become Wall Street’s Go-to Weekend and After-Hours Perps Venue",
-    "summary": "1. Hyperliquid is emerging as a key weekend and after-hours venue for Wall Street traders to trade perpetual futures, the Wall Street Journal reported, as round-the-clock onchain markets pull activity away from traditional exchanges.\n2. When the Markets Close, Hyperliquid Stays Open Hyperliquid, a decentralized exchange ( DEX) built for perpetual futures, has become a destination for […]",
-    "url": "https://news.bitcoin.com/hyperliquid-wall-street-weekend-after-hours-perps-venue/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-03T19:32:51.000Z"
   }
 ]
