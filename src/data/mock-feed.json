@@ -1,13 +1,233 @@
 [
   {
-    "id": "6e0c906f-b1ba-4b87-8565-a33d7c9be708",
+    "id": "19b42170-26b1-484a-80b2-7c6ebc5ce2ff",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Robinhood director Meyer Malka buys another $15.1M in $HOOD shares, bringing reported purchases to $31.1M over the past weekTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#5e89e7dc",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-04T20:13:10.189Z"
+    "created_at": "2026-06-04T22:25:16.775Z"
+  },
+  {
+    "id": "74ae6cce-ed4d-4ac6-b2d0-8d7a77421205",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "SpaceX sets IPO price at $135 per share",
+    "summary": "SpaceX has informed investment banks that its initial public offering (IPO) will be priced at $135 per share, a figure the company does not intend to change, according to sources.",
+    "url": "https://t.me/CoinnessGL#1675a89f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-04T21:55:18+00:00"
+  },
+  {
+    "id": "b55aa5db-3d5c-474a-999f-615a32c1b634",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Comptroller says only Democrats pressuring over crypto trust charter",
+    "summary": "1. US Comptroller of the Currency Jonathan Gould and New York Representative Gregory Meeks sparred over Donald Trump’s influence on regulators he has nominated as president at a Thursday oversight hearing.",
+    "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-06-04T21:54:37.000Z"
+  },
+  {
+    "id": "2dc2e000-5afb-4534-b008-dcca3b4652ed",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.163",
+    "summary": "1. ## What's changed\n\n- Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings — Claude Code refuses to start if its version is outside the allowed range and directs the user to an approved version\n- Added `/plugin list` command to list installed plugins, with `--enabled`/`--disabled` filters\n- Added a \"c to copy\" shortcut to `/btw` that copies the raw markdown answer to the clipboard, preserving formatting when pasted elsewhere\n- Hooks: Stop and SubagentStop hooks can now return `hookSpecificOutput.additionalContext` to give Claude feedback and keep the turn going without being labeled a hook error\n- Skills: added `\\$` escape syntax to include a literal `$` before a digit in command bodies\n- stdio MCP servers now receive the same `CLAUDE_CODE_SESSION_ID` as hooks/Bash on `--resume`\n- Fixed `claude -p` hanging forever after its final result when a backgrounded command never exits — background shells are now stopped ~5s after the result once stdin closes\n- Fixed `claude -p` failing with \"ANTHROPIC_API_KEY required\" on Bedrock/Vertex/Foundry when `CI=true` and no Anthropic API key is set\n- Fixed bash commands failing under bazel and EDR-protected Go workflows: `$TMPDIR` was overridden to `/tmp/claude-{uid}` for all commands instead of only sandboxed ones (regression in 2.1.154)\n- Fixed Bash commands failing on Windows with \"EEXIST: file already exists\" on the session-env directory when it has the read-only attribute or is inside OneDrive\n- Fixed org-managed permission rules not applying for the entire session when the managed settings fetch completed during startup on a fresh config directory\n- Fixed background sessions in `claude agents` losing their running background tasks when reattached after a Claude Code update\n- Fixed terminal misalignment and a multi-second hang when exiting the agent view by pressing Esc\n- Fixed clicking Stop on a background-task chip in the desktop app not clearing the chip when the underlying process was already gone\n- Fixed keyboard input becoming permanently unresponsive after a paste operation whose end marker is dropped by the terminal\n- Fixed hook `if: \"Bash(...)\"` conditions firing on every Bash command containing `$()` or `$VAR`; the pattern now matches against commands inside subshells and backticks too\n- Fixed deny rules on home-directory paths (e.g.\n2. `Read(~/Desktop/**)`) not blocking Bash commands that reference the path via `$HOME`\n- Fixed a stray \"(no content)\" line left in the transcript after closing panel dialogs like /mcp and /plugins\n- Background agent sessions now update to a new Claude Code version in the background, so opening a session after an update no longer waits on a cold restart\n- Clearer descriptions for built-in commands and skills in the / menu\n- The subscription-switch suggestion now shows in the startup announcement slot instead of a toast\n- `claude agents` dispatching from the state-grouped view now starts the session in the directory the agent view was opened from",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.163",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-04T21:52:51Z"
+  },
+  {
+    "id": "c2027ea8-2e68-43ac-b0e5-b421d67e0c09",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. A very big THANK YOU to the National Capital Planning Commission on the 8-1 approval of the Great Triumphal Arch to be built at the base of the Arlington Memorial Bridge, which has been waiting for this structure for over 200 years.\n2. When completed, it will be, without question, the Greatest Arch of them all!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39098",
+    "author": "Trump Truth",
+    "created_at": "2026-06-04T21:48:12.000Z"
+  },
+  {
+    "id": "e8f61c57-29d6-4e0b-8b50-09340ecace06",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. On Wednesday, June 24th, at 7 P.M., in magnificent Washington, D.C., now totally beautified, and one of the Safest Cities anywhere in the World, and in celebration of our Country’s 250 Year History, we will be bringing you, LIVE, the Greatest Rally, EVER!\n2. It will be special at every level — A Rally to end all Rallies!\n3. We don’t want singers with no talent, but big fees to put you to sleep, we’ve told them all to stay home.",
+    "url": "https://trumpstruth.org/statuses/39099",
+    "author": "Trump Truth",
+    "created_at": "2026-06-04T21:45:56.000Z"
+  },
+  {
+    "id": "42903914-5adb-4871-8fde-0de1b81a8acd",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+    "summary": "1. This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+    "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-06-04T21:44:09.000Z"
+  },
+  {
+    "id": "02de401e-b4f3-4ac9-be49-093fe61f4dba",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
+    "summary": "1. Anthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
+    "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-04T21:37:01.000Z"
+  },
+  {
+    "id": "46719e39-78b3-4119-ba74-04d128ca5c1f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Pred Opens to Public as $5M Beta Volume Fuels World Cup Sports Trading Push",
+    "summary": "1. Peer-to-peer decentralized sports trading exchange, Pred, has officially opened to public access to its platform.\n2. The public debut just a few days before the opening match of the 2026 FIFA World Cup.\n3. Beta Engagement and Performance Metrics Pred, a peer-to-peer sports trading exchange built on the Base blockchain network, opened public access on June 4 […]",
+    "url": "https://news.bitcoin.com/pred-opens-to-public-as-5m-beta-volume-fuels-world-cup-sports-trading-push/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-04T21:33:37.000Z"
+  },
+  {
+    "id": "f5d42ae1-5877-448c-bff2-25b04fefdec1",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "summary": "1. On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry.\n2. Secure your spot today.",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "author": "TechCrunch Events",
+    "created_at": "2026-06-04T21:30:00.000Z"
+  },
+  {
+    "id": "24cc7b71-2b2a-4b40-a46d-ae8023d1ac74",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⛏️ Bitdeer broke ground on a $155M Alberta site pairing a 101 MW gas plant with a 100 MW data center, designed for Bitcoin mining now and AI workloads later.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4f72ca01",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-04T21:14:24+00:00"
+  },
+  {
+    "id": "5ce0b63a-272a-495e-abd2-dd2b01e41116",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish\nBitcoin’s recent pullback is testing the institutional-adoption thesis, but Anthony Pompliano argues the decline reflects normal capital rotation and Bitcoin’s maturation into a mainstream financial asset.\n2. This post Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-as-pompliano-stays-bullish",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-04T21:12:41.000Z"
+  },
+  {
+    "id": "65834ccd-418f-4278-9864-52c209303855",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump open to meeting new Iranian leader if final deal is reached",
+    "summary": "U.S. President Donald Trump said on June 4 that he would not rule out a meeting with Iran's new Supreme Leader if a final agreement is reached with the country. He reiterated that the U.S. would never tolerate Iran possessing nuclear weapons and claimed to have previously struck and completely destroyed an Iranian nuclear facility. Trump also explained that he had considered and ultimately abandoned a plan to send U.S. troops to remove enriched uranium from an Iranian nuclear site. He said the plan was deemed too risky, as it would have required a one-to-two-week operation involving heavy equipment and airlift capabilities, and could have led to U.S. casualties in a prolonged ground mission.",
+    "url": "https://t.me/CoinnessGL#e191146c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-04T21:02:59+00:00"
+  },
+  {
+    "id": "bdbf86fa-ab21-4cf1-8c66-3b21cae837ab",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Polymarket Traders Put 62% Odds on Bitcoin Dropping Below $60K This June",
+    "summary": "1. Traders across multiple prediction markets are pricing a significant downside move for bitcoin well ahead of any recovery toward six figures.\n2. As of 3:30 p.m.\n3. EDT on June 4, 2026, bitcoin is trading at $63,826, down roughly 2.8% on the day.",
+    "url": "https://news.bitcoin.com/polymarket-traders-put-62-odds-on-bitcoin-dropping-below-60k-this-june/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-04T20:55:51.000Z"
+  },
+  {
+    "id": "68b84b0a-051f-40dd-9abc-e155913b2209",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+    "summary": "1. On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies.\n2. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+    "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+    "author": "Isabelle Johannessen",
+    "created_at": "2026-06-04T20:55:38.000Z"
+  },
+  {
+    "id": "01d08e11-d224-4a0a-b71a-56acac707864",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "0x Opens Cross-Chain API to All Developers with 12 Bridge Partners on Day One",
+    "summary": "1. 0x Protocol has opened its Cross-Chain API to general availability with 12 bridge providers live from day one, including Circle, LayerZero, Stargate and Across — accessible through a single API integration.",
+    "url": "https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-04T20:55:00.000Z"
+  },
+  {
+    "id": "539764ed-984f-4770-85d1-a8556d64fcc4",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
+    "summary": "1. Bryan Steil said he'll add language to the House congressional stock ban bill to cover prediction markets like Polymarket and Kalshi.",
+    "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
+    "author": "André Beganski",
+    "created_at": "2026-06-04T20:43:19.000Z"
+  },
+  {
+    "id": "c7037e7c-cbdf-4847-aedf-6fb3168398b7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Arthur Hayes says he dumped all his HYPE and NEAR, warning markets could peak between now and September as energy prices rise and major AI IPOs approach.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#13f51249",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-04T20:39:24+00:00"
+  },
+  {
+    "id": "11566bfd-74a9-456d-acb2-a71da97df885",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?",
+    "summary": "1. Bitcoin price collapsed as Strategy faced tighter liquidity conditions and paused its BTC buying.\n2. Is it time to jump ship, or buy the dip?",
+    "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-06-04T20:37:58.000Z"
+  },
+  {
+    "id": "cd96fb1e-b84a-4bde-942a-3679addf1a2f",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash\nBitcoin price plunged below the Bitcoin Rainbow Chart’s lowest “Basically a Fire Sale!” band for only the second time since the FTX collapse, while the Fear and Greed Index sank to 12.\n2. This post Bitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-fire-sale",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-04T20:28:54.000Z"
+  },
+  {
+    "id": "8bb6491c-d321-4304-9787-267ec6b553ad",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "White House advisor calls CLARITY Act pro-regulation",
+    "summary": "Patrick Witt, a member of the White House Digital Asset Advisory Committee, has described the CLARITY Act as being both pro-regulation and pro-law enforcement. Speaking at an industry event, Witt warned that if the U.S. does not set its own standards for digital asset regulation, it will be forced to adopt rules made by other countries, The Block reported. He added that recent concerns have been addressed through new provisions and asserted that the bill is not intended to hinder law enforcement. His comments follow recent criticism from some law enforcement agencies and Democratic lawmakers, who have argued the bill could weaken anti-money laundering (AML) regulations and make it more difficult to prosecute financial crimes.",
+    "url": "https://t.me/CoinnessGL#911e130e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-04T20:22:51+00:00"
+  },
+  {
+    "id": "b5f6e154-c7bd-4143-b2a9-0878893719a5",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
+    "summary": "1. Political activist Bill Browder, the teenager’s father, said his son was “the first high school student in the world to be sanctioned by an authoritarian regime” over a report on the ruble-pegged stablecoin A7A5.",
+    "url": "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-06-04T20:21:55.000Z"
+  },
+  {
+    "id": "0cf34f33-2457-48a5-9a92-01dd25aa056d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Solo Bitcoin Miners Keep Pocketing Full Block Rewards in 2026: Here’s How",
+    "summary": "1. Solo bitcoin miners running desktop-sized hardware are still finding full blocks in 2026, and the data from several active solo mining pools makes clear this is no longer a fluke.\n2. A Recent Solo Win Puts the Spotlight Back on Home Mining A solo miner hit a bitcoin block recently, collecting the full 3.125 BTC subsidy […]",
+    "url": "https://news.bitcoin.com/solo-bitcoin-miners-keep-pocketing-full-block-rewards-in-2026-heres-how/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-04T20:15:22.000Z"
   },
   {
     "id": "43eeb526-1a07-4775-9cf9-0f9dd9da7c5f",
@@ -28,6 +248,16 @@
     "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&utm_medium=rss",
     "author": "Sarah Wynn",
     "created_at": "2026-06-04T20:08:40.000Z"
+  },
+  {
+    "id": "564ebbd5-29b1-4630-a29c-1ce2a8b8de37",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ A Michigan couple have closed on the first Fannie Mae-backed mortgage using Bitcoin as collateral.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d3556417",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-04T20:04:25+00:00"
   },
   {
     "id": "f8d9d349-8985-4817-808e-526daa963948",
@@ -250,7 +480,7 @@
     "created_at": "2026-06-04T18:06:15.000Z"
   },
   {
-    "id": "2def07cd-6af7-47b0-a8ae-09ece6aa30ba",
+    "id": "12be299d-b490-4a36-85ee-f77a2d69d255",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇯🇵 US and Japan announce $1,000,000,000 partnership to advance AI, quantum computing, fusion energy, and biotechnology.@WatcherGuru",
@@ -298,225 +528,5 @@
     "url": "https://thedefiant.io/converge/podcast/erc-3643-the-case-for-permissioned-tokens-for-insitutional-adoption",
     "author": "Chris Storaker",
     "created_at": "2026-06-04T16:51:18.000Z"
-  },
-  {
-    "id": "0aae821c-7da5-4baf-9d21-44c1da382997",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Jim Cramer says Michael Saylor \"murdered Bitcoin.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#80879f29",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-04T15:42:39+00:00"
-  },
-  {
-    "id": "d2e5cd34-90a3-40ac-9c63-64f9046d2d9e",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Michael Saylor Calls Bitcoin’s Drop a ‘Capital Rotation’ to AI as BTC Slides Below $62,000",
-    "summary": "1. Bitcoin Magazine\n\nMichael Saylor Calls Bitcoin’s Drop a ‘Capital Rotation’ to AI as BTC Slides Below $62,000\nMichael Saylor argued the bitcoin selloff reflects a broader capital rotation into AI infrastructure rather than weakening fundamentals for Bitcoin.\n2. This post Michael Saylor Calls Bitcoin’s Drop a ‘Capital Rotation’ to AI as BTC Slides Below $62,000 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-04T15:36:58.000Z"
-  },
-  {
-    "id": "7b231032-4330-41de-93ba-da1e1b3f200c",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Spot Bitcoin ETF Outflow Streak Extends to Record 13 Days, $4.4B Cumulative",
-    "summary": "1. US spot Bitcoin ETFs posted a 13th consecutive day of net outflows on Wednesday, extending the longest withdrawal streak in the products' history to $4.4 billion cumulative since May 15.",
-    "url": "https://thedefiant.io/news/markets/spot-bitcoin-etf-outflow-streak-record-13-days",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-04T15:30:00.000Z"
-  },
-  {
-    "id": "e3880bfb-5502-4707-b200-0efece7628b7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "South Korean police investigating Polymarket users for gambling, lawyer says",
-    "summary": "The Gangwon Provincial Police Agency is investigating users of the prediction market platform Polymarket on suspicion of gambling, according to Ahn Chang-bo, an attorney at Law Office Jonjung and a former prosecutor specializing in gambling cases. In a recent blog post, Ahn stated that the agency's Cyber Investigation Division is tracking users' cryptocurrency transaction histories to identify them and is issuing summonses in sequence. He noted that he recently attended a suspect interrogation for a client summoned in connection with the investigation. Ahn added that the police are currently treating Polymarket activity as gambling and that the case is expected to be transferred to the Chuncheon District Prosecutors' Office upon completion. However, he clarified that there has not yet been a ruling from prosecutors or the courts on whether using Polymarket constitutes a gambling offense under South Korean criminal law. The situation calls for caution among Polymarket users in the country.",
-    "url": "https://t.me/CoinnessGL#9d373dcb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T15:29:56+00:00"
-  },
-  {
-    "id": "47e4f90b-16c9-495c-b333-2e0770f57efb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says",
-    "summary": "1. Coinbase said a Michigan couple closed on the first-ever conventional, Fannie Mae-backed home mortgage by pledging Bitcoin as collateral.",
-    "url": "https://decrypt.co/370016/fannie-mae-backed-bitcoin-home-mortgages-finally-here-coinbase",
-    "author": "André Beganski",
-    "created_at": "2026-06-04T15:12:00.000Z"
-  },
-  {
-    "id": "d22dca40-da9e-477a-ae68-bfaadcd93ef1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
-    "summary": "1. Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
-    "url": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
-    "author": "Ram Iyer",
-    "created_at": "2026-06-04T15:08:34.000Z"
-  },
-  {
-    "id": "dab55456-2630-4c2b-abb7-939562a0b470",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "U.S. Treasury Secretary Bessent: Conflict with Iran is currently paused",
-    "summary": "U.S. Treasury Secretary Scott Bessent said the conflict with Iran is currently paused.",
-    "url": "https://t.me/CoinnessGL#e5afe9b9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T15:07:42+00:00"
-  },
-  {
-    "id": "bdb4a2b1-96b6-466e-a123-08bf6c428a06",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-    "summary": "1. The California startup released the fourth-generation of its home assistance robot, Stretch.",
-    "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-06-04T15:05:00.000Z"
-  },
-  {
-    "id": "84fe7b10-1dfc-409a-83ee-a02e05706cc9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Lukka acquires data platform PEER DATA",
-    "summary": "According to a PR Newswire press release, cryptocurrency data and software firm Lukka has acquired data platform PEER DATA. PEER DATA is a platform that offers features for tracking data usage, managing contracts, and overseeing data assets. Lukka stated that the acquisition will help its institutional clients manage their digital assets and various data more systematically.",
-    "url": "https://t.me/CoinnessGL#0e883155",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T15:02:24+00:00"
-  },
-  {
-    "id": "c14ecaf9-8b00-4f6b-bec6-4c4386d716fe",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto for Advisors: The crypto due diligence questions you forgot to ask",
-    "summary": "1. As stablecoins, shifting regulation and AI-enabled infrastructure mature, advisors should revisit three questions their crypto due diligence may no longer fully cover.",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-for-advisors-the-crypto-due-diligence-questions-you-forgot-to-ask",
-    "author": "Beth Haddock",
-    "created_at": "2026-06-04T15:00:00.000Z"
-  },
-  {
-    "id": "b740f76e-6f59-43ba-ba91-6a0979d949a6",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. FoxNews should get rid of sloppy RINO Karl Rove.\n2. He’s called ME and MAGA wrong for 11 years now, and he still doesn’t get it, and he never will, because he suffers from a completely inoperable, and totally dysfunctional, case of Trump Derangement Syndrome.\n3. Put Karl Rove out to pasture, NOW.",
-    "url": "https://trumpstruth.org/statuses/39079",
-    "author": "Trump Truth",
-    "created_at": "2026-06-04T14:59:05.000Z"
-  },
-  {
-    "id": "4d82e017-836a-4379-bd9c-2eb04d553744",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-04T14:58:17.000Z"
-  },
-  {
-    "id": "4c993575-5177-450a-8832-c12bb25afb46",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$3.5 trillion Goldman Sachs expects SpaceX's AI revenue to surge 100x by 2030.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#026c41fb",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-04T14:57:50+00:00"
-  },
-  {
-    "id": "ecd456b2-3a7e-4fbe-b082-50d2a3aac6c4",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
-    "summary": "1. The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information.",
-    "url": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-04T14:57:41.000Z"
-  },
-  {
-    "id": "be237369-de36-49b9-a11d-12809246a743",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "BitMine Files for $300M Preferred Stock Offering at 9.5% Yield to Expand ETH Treasury",
-    "summary": "1. BitMine Immersion Technologies filed a 424B5 prospectus supplement to raise up to $300 million through Series A Perpetual Preferred Stock at a 9.5% cumulative dividend — applying Strategy's STRC capital-markets playbook to a corporate Ethereum treasury sitting on $9.2 billion in unrealized losses.",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-files-300m-preferred-stock-offering-9-5-yield-eth-treasury",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-04T14:55:00.000Z"
-  },
-  {
-    "id": "cae5e965-3b72-4401-9156-c129ae1369b9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Senate Republicans urged financial regulators to rework bank capital rules for digital assets",
-    "summary": "1. A group of Senate Republicans is pressing key financial regulatory agencies to clarify capital standards for digital assets.",
-    "url": "https://www.theblock.co/post/403671/senate-republicans-urged-financial-regulators-to-rework-bank-capital-rules-for-digital-assets?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-04T14:54:53.000Z"
-  },
-  {
-    "id": "0b87d0a6-1c06-4610-96a3-fdba24fd0a17",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Saylor downplays Bitcoin slide as Strategy faces $11B paper loss",
-    "summary": "1. Strategy’s Bitcoin paper loss tops $11 billion as Saylor pointed to ETF outflows and AI infrastructure spending as factors pressuring BTC.",
-    "url": "https://cointelegraph.com/news/strategys-unrealized-loss-soars-11b-standard-chartered-bottom-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-06-04T14:48:44.000Z"
-  },
-  {
-    "id": "ce3a1a49-4ca4-4e94-8ad5-7ac1092e72c7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "$1 Trillion Payments Giant Visa Tests Private Stablecoin Settlement for Institutions",
-    "summary": "1. Visa has launched a proof-of-concept initiative with stablecoin infrastructure provider Brale to evaluate private, blockchain-based settlement for institutional payment flows using the SBC stablecoin on the Canton Network.\n2. Visa Expands Stablecoin Strategy The collaboration centers on SBC, a U.S.\n3. dollar-backed stablecoin issued by Brale, and will examine whether privacy-enabled blockchain infrastructure can support faster and […]",
-    "url": "https://news.bitcoin.com/1-trillion-payments-giant-visa-tests-private-stablecoin-settlement-for-institutions/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-04T14:45:34.000Z"
-  },
-  {
-    "id": "9ebcc981-a6fb-42ef-97a4-67bbb37b1f74",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Why tokenization is an ETF-style market structure revolution",
-    "summary": "1. The current tokenization dialogue and pattern resemble ETFs’ early days, which ultimately transformed into a $10+ trillion market, Lie argues.",
-    "url": "https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution",
-    "author": "Michael Lie",
-    "created_at": "2026-06-04T14:44:07.000Z"
-  },
-  {
-    "id": "d7043d47-94f8-4b35-b2db-819cab469cd2",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ BitMine has filed to offer 3 million shares of 9.5% perpetual preferred stock.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ddd58453",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T14:39:19+00:00"
-  },
-  {
-    "id": "ae351bff-3d04-4d30-9910-597fe399b7a1",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Buys a Home: Better and Coinbase Close First Fannie Mae-Backed BTC Mortgage",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Buys a Home: Better and Coinbase Close First Fannie Mae-Backed BTC Mortgage\nBetter and Coinbase have funded the first Fannie Mae-backed mortgage that lets homebuyers use Bitcoin as collateral for their down payment loan\nThis post Bitcoin Buys a Home: Better and Coinbase Close First Fannie Mae-Backed BTC Mortgage first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-buys-a-home-better-and-coinbase",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-04T14:33:33.000Z"
-  },
-  {
-    "id": "572c6e17-68f9-4f35-9865-a8bf1a118517",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "British Teen Sanctioned By Russia After Alleging Crypto Use to Evade Sanctions",
-    "summary": "1. The teenager's research into Russia’s alleged illicit crypto flows appears to have prompted Moscow's retaliation.",
-    "url": "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-04T14:27:40.000Z"
   }
 ]
