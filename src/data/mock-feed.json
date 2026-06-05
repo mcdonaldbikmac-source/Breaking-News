@@ -1,5 +1,145 @@
 [
   {
+    "id": "43bb0513-fc14-4bbb-9c63-662c67be778e",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Supabase doubles valuation to $10B in 8 months",
+    "summary": "1. Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
+    "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+    "author": "Julie Bort",
+    "created_at": "2026-06-05T16:32:27.000Z"
+  },
+  {
+    "id": "a73c3146-718f-4706-8cfb-780c59463bfa",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase CEO Brian Armstrong: US-China Competition Is ‘the Best Thing to Happen to America Since the Cold War’",
+    "summary": "1. Coinbase CEO Brian Armstrong believes competition with China “might be the best thing to happen to America since the cold war,” arguing the rivalry will jolt a complacent U.S.\n2. back into excellence.\n3. A Bullish Take on Great-Power Rivalry Brian Armstrong, chief executive of the largest U.S.",
+    "url": "https://news.bitcoin.com/brian-armstrong-us-china-competition-crypto/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-05T16:30:57.000Z"
+  },
+  {
+    "id": "9e268063-c611-4b2d-8192-250d85a69191",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
+    "summary": "1. Securitize's SPAC merger is expected to close shortly after a CEPT shareholder vote, if approved, later this month.",
+    "url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-05T16:30:52.000Z"
+  },
+  {
+    "id": "6d661df1-4828-4f0d-bba1-84827e802a53",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
+    "summary": "1. Bitcoin has now fallen more than 50% from its October peak, dipping below $60,000 as the crypto industry reckons with the Zcash vulnerability.",
+    "url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
+    "author": "Andrew Hayward",
+    "created_at": "2026-06-05T16:15:42.000Z"
+  },
+  {
+    "id": "2110edb8-1735-4b34-8303-6f0ba253a658",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+    "summary": "1. Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin.\n2. Here’s what you need to know.",
+    "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-05T16:15:02.000Z"
+  },
+  {
+    "id": "fc4059b9-563e-4cb9-ae30-cd26da1106aa",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "apxUSD Loses Dollar Peg as Bitcoin Slide Squeezes STRC-Backed Collateral",
+    "summary": "1. Apyx Finance's apxUSD stablecoin slipped to $0.94 after Bitcoin fell to $63K, the first concrete peg break in the chain linking Strategy's BTC treasury to on-chain dollar instruments.",
+    "url": "https://thedefiant.io/news/defi/apxusd-loses-dollar-peg-bitcoin-slide-strc-backed-collateral",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-05T16:09:35.000Z"
+  },
+  {
+    "id": "8a5c83a6-deb3-4531-9a90-3ad7cee4da16",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+    "summary": "1. Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
+    "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-06-05T16:07:46.000Z"
+  },
+  {
+    "id": "d252cef0-4f32-40a8-ba79-dcc9b9ef2eef",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults",
+    "summary": "1. A new coalition is forming, focused on crypto vaults, an increasingly popular mechanism for depositing digital assets and earning yield.",
+    "url": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-05T16:05:02.000Z"
+  },
+  {
+    "id": "1f39900a-df6b-4858-a78d-b32b0c364752",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Memecoins dogecoin, shiba inu dive 9% as bitcoin nears $60,000",
+    "summary": "1. Dogecoin and Shiba Inu led losses among major tokens as heavy volume and liquidations overwhelmed support levels, extending a broader risk-off move across crypto markets.",
+    "url": "https://www.coindesk.com/markets/2026/06/05/memecoins-dogecoin-shiba-inu-dive-9-as-bitcoin-nears-usd60-000",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-05T16:01:00.000Z"
+  },
+  {
+    "id": "39d9375e-82c8-4712-baa1-7318443922f6",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
+    "summary": "1. Brad Sherman warned that allowing government payments in stablecoins would \"sanctify an alternative to the U.S.",
+    "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-05T15:52:15.000Z"
+  },
+  {
+    "id": "7a7f05ae-8eee-4757-b6bb-6086c6a748ac",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
+    "summary": "1. Seven draft bills are being circulated by the House Ways and Means Committee ahead of a hearing next week, including proposals to ease small-gain, mining and staking burdens.",
+    "url": "https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-06-05T15:49:13.000Z"
+  },
+  {
+    "id": "a31753c3-b54b-4f68-b79c-869309941631",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K",
+    "summary": "1. Bitcoin sellers were losing steam, market analysis said as ongoing BTC price downside brought the market closer to $60,000.",
+    "url": "https://cointelegraph.com/markets/bitcoin-approaches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-06-05T15:43:14.000Z"
+  },
+  {
+    "id": "094fae00-e17f-43b7-88a2-614d5197b4f8",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, just opened to “rave reviews” but, maliciously or not, some say, like The Washington Post, it was a “paint job.” This was not a paint job.\n2. This was highly sophisticated material, industrial strength, that could last for 100 years, applied by very talented people, many of whom came from the Great State of Oklahoma, where I won 77 out of 77 Counties, THREE TIMES, the only President to ever do so.\n3. The material is thick, strong, flexible, and has a natural, beautiful color, the dark blue of the American Flag!",
+    "url": "https://trumpstruth.org/statuses/39107",
+    "author": "Trump Truth",
+    "created_at": "2026-06-05T15:26:06.000Z"
+  },
+  {
+    "id": "8459229f-b7be-4dab-a99c-2660a7103a33",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Strategy’s Saylor says Bitcoin should avoid choosing between ‘purity and adoption’ as BTC extends losses",
+    "summary": "1. Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four camps, saying that each serves a necessary role.",
+    "url": "https://www.theblock.co/post/403818/strategy-saylor-bitcoin-avoid-choosing-purity-adoption-btc-extends-losses?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-05T15:25:02.000Z"
+  },
+  {
     "id": "ea8738c1-719a-4c1b-ab57-3feccccaef21",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -428,105 +568,5 @@
     "url": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
     "author": "Akash Girimath",
     "created_at": "2026-06-05T10:41:59.000Z"
-  },
-  {
-    "id": "b1030460-bfc4-4028-9711-57002eee1503",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Largest Solana Treasury Moves $32M in SOL to Coinbase Prime While Sitting $1.13B Underwater",
-    "summary": "1. Forward Industries, the largest corporate holder of SOL, has moved 455,784 SOL worth about $31.87 million to Coinbase Prime, its first major transfer in a month, all while sitting roughly $1.13 billion underwater on the position.\n2. A $32 Million Transfer Reignites Sell-off Fears Forward Industries, the Nasdaq-listed firm that built the largest corporate SOL treasury, […]",
-    "url": "https://news.bitcoin.com/forward-industries-sol-coinbase-prime-underwater/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-05T10:30:22.000Z"
-  },
-  {
-    "id": "68098635-454c-4692-bb3c-7731d0be486a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
-    "summary": "1. The Hong Kong Monetary Authority announced the formation of an expert group to advance the development of tokenized bonds.",
-    "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-05T10:05:44.000Z"
-  },
-  {
-    "id": "111d3e45-3ceb-4ca2-a725-bfd3224665ec",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Crypto liquidations hit $1.22B in 24h, with $944M in longs and $273M in shorts liquidated across 255K traders$BTC  -$368M$ETH  -$295M$ZEC  -$108MTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#86b9e711",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-05T10:03:52.364Z"
-  },
-  {
-    "id": "fa6aab50-ded9-4136-b3af-daabfe7ea7cd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📉 Benjamin Cowen says Bitcoin likely will not reach new all-time highs in 2026, noting that midterm years are historically \"reset years\" in the market.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a07e552c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T09:54:17+00:00"
-  },
-  {
-    "id": "e64c92f9-8e4c-4e0c-8b09-8ee03e060417",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Upbit to temporarily suspend NEAR deposits and withdrawals on June 10",
-    "summary": "South Korean crypto exchange Upbit announced it will temporarily suspend deposits and withdrawals for Near Protocol (NEAR) at 0:00 a.m. UTC on June 10 due to a network upgrade.",
-    "url": "https://t.me/CoinnessGL#e10b0da0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T09:50:29+00:00"
-  },
-  {
-    "id": "f7430773-bd15-459c-acfe-f1d22eec68df",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BABY token surges 107-fold before retracing on listing news",
-    "summary": "The price of Babylon (BABY) temporarily touched $1.3 following news of its listing on the South Korean exchange Upbit, according to CoinNess Market Monitoring. On the Binance USDT futures market, the token surged from $0.012 to $1.3—a gain of approximately 10,733%—after Upbit announced trading support on its KRW market. The token has since retraced and is currently trading at $0.01724.",
-    "url": "https://t.me/CoinnessGL#0fe1bbc8",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T09:47:18+00:00"
-  },
-  {
-    "id": "96d90f9b-1d10-4c24-af20-da20f3b2fa72",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Cypherpunk Technology faces $7.75M unrealized loss on ZEC holdings",
-    "summary": "Nasdaq-listed Cypherpunk Technology (CYPH), a corporate acquirer of Zcash (ZEC), is currently facing an unrealized loss of approximately $7.75 million due to a sharp decline in the cryptocurrency's price, Foresight News reported. As of May 13, Cypherpunk held a total of 314,185 ZEC at an average purchase price of $337.86. The estimated loss is based on a current ZEC price of around $313.According to CoinMarketCap, ZEC is currently trading at $337.82, down 37.79%.",
-    "url": "https://t.me/CoinnessGL#043fec6b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T09:35:41+00:00"
-  },
-  {
-    "id": "2560bdcf-7151-40c8-89ad-c3c32c6d338d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Arthur Hayes Dumps His Entire ZEC Bag After Orchard Exploit, Prices Down Nearly 50%",
-    "summary": "1. Arthur Hayes has sold his entire ZEC position following the Zcash Orchard pool exploit, declaring that “the Holy Trinity is dead.” The high-profile exit has deepened a selloff that has knocked ZEC down nearly 47% over the past day.\n2. A High-Conviction Trade Unwinds BitMEX co-founder and one of crypto’s most-followed macro voices, Arthur Hayes told […]",
-    "url": "https://news.bitcoin.com/arthur-hayes-dumps-zec-orchard-exploit/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-05T09:30:41.000Z"
-  },
-  {
-    "id": "c59065ba-aa9a-4f85-88ef-6bb2e2cbc002",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale",
-    "summary": "1. Grayscale said Strategy's ability to accumulate more bitcoin is limited at the current STRC and MSTR share prices.",
-    "url": "https://www.theblock.co/post/403770/grayscale-other-buyers-must-step-in-for-bitcoins-price-to-find-a-sustainable-bottom-after-strategy-btc-sale?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-05T09:27:29.000Z"
-  },
-  {
-    "id": "43c12ed3-90ea-44f8-8067-25debef67a13",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Strategy CEO Phong Le says 80% of Strategy's critics are \"perpetual haters\" who just hate for attention, while a small few are worth listening to.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a617f92f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T09:19:21+00:00"
   }
 ]
