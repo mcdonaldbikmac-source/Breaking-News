@@ -1,532 +1,222 @@
 [
   {
-    "id": "19b42170-26b1-484a-80b2-7c6ebc5ce2ff",
+    "id": "506ddd71-3ddd-49d2-9304-9cc586ca6f47",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Zcash founder confirms a critical Orchard bug that could have created unlimited, undetectable counterfeit ZEC was live from May 2022 until it was patched June 1.",
+    "summary": "Due to the pool's privacy, there is no way to prove whether it was ever exploited. A proposed network upgrade adding a new shielded pool + turnstile accounting, to let anyone verify the integrity of the ZEC supply. $ZEC fell ~25% on the disclosure.The bug that was undetected for ~4 years was found using Anthropic's Opus 4.8, released just days earlier, as part of an AI-assisted security audit. A flaw the world's best cryptographers missed, surfaced by a white-hat using a new AI model.Some argue this is the structural tradeoff of all private money, not a ZEC-specific failure. As X user @ robustus put it, you can't have both full privacy and fully transparent supply auditability in one system. Transparent chains like $BTC expose any inflation bug in the raw data; private chains can't. Zcash's turnstile accounting is designed to limit exactly this.Developing story. Shielded Labs to publish the upgrade proposal next week. More as it comes.Twitter",
+    "url": "https://t.me/SolidIntelX#51af9d5f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-05T04:23:13.120Z"
+  },
+  {
+    "id": "bdb09c63-7f67-482e-9b73-b8e3aa96e7de",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Brian Armstrong on Dimon, Trump, and crypto’s future",
+    "summary": "1. Brian Armstrong on Dimon, Trump, and crypto’s future",
+    "url": "https://www.politico.com/video/2026/06/04/brian-armstrong-on-dimon-trump-and-cryptos-future-2088702",
+    "author": "Politico",
+    "created_at": "2026-06-05T03:59:00.000Z"
+  },
+  {
+    "id": "24442f1a-702c-46e3-a638-4dbbc8c68dcf",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ETH spot ETFs see $18.9M net inflow, ending 17-day outflow streak",
+    "summary": "U.S. Ethereum spot ETFs saw a net inflow of $18.87 million on June 4, marking the first such inflow after 17 consecutive trading days of net outflows, according to data compiled by Trader T.- BlackRock ETHA: +$19.26 million- BlackRock Staking ETHB: -$390,000",
+    "url": "https://t.me/CoinnessGL#7699096e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-05T03:53:55+00:00"
+  },
+  {
+    "id": "815611ad-8f38-4493-9aad-ea50116c97f3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Gravity Bridge hacker deposits another $2.1M in ETH to Tornado Cash",
+    "summary": "The hacker behind the Gravity Bridge exploit has deposited an additional 1,180 ETH, worth $2.06 million, into the crypto mixer Tornado Cash, CertiK reported. According to the blockchain security firm, this brings the total amount sent to Tornado Cash to 2,020 ETH, funneled through two externally owned accounts (EOAs). The funds are part of the 2,600 ETH, valued at $5.4 million at the time of the hack, stolen from the protocol. The remaining stolen assets have been distributed to multiple centralized exchanges (CEXs).",
+    "url": "https://t.me/CoinnessGL#51b21fc6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-05T03:53:08+00:00"
+  },
+  {
+    "id": "d563f5bc-26f6-4ce3-b28a-9786434dd1af",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Kalshi hires former Meta exec as Head of Communications",
+    "summary": "Prediction market platform Kalshi has appointed Dani Lever as its Head of Communications. Lever, who previously worked in the New York Governor's office and at Meta, announced the move on X.",
+    "url": "https://t.me/CoinnessGL#755161de",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-05T03:44:21+00:00"
+  },
+  {
+    "id": "d193841e-9539-446f-ac30-c869a10becbf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "JPMorgan, Citi and America’s Biggest Banks Plan Tokenized Deposit Network: Report",
+    "summary": "1. The largest U.S.\n2. banks are reportedly planning a joint tokenized deposit network set to launch in 2027, positioning regulated bank money directly against stablecoins.\n3. Banks Pool Resources Through The Clearing House According to a Wall Street Journal (WSJ) report, JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, and other major commercial banks are backing the […]",
+    "url": "https://news.bitcoin.com/jpmorgan-citi-and-americas-biggest-banks-plan-tokenized-deposit-network-report/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-05T03:30:42.000Z"
+  },
+  {
+    "id": "40a6e430-4266-437f-9a41-354613be70b2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
+    "summary": "1. The vulnerability was fixed within days, and findings suggest that actual exploitation of the bug is unlikely.",
+    "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-05T03:16:08.000Z"
+  },
+  {
+    "id": "90fe5f01-7b47-496d-bc85-9e84bc0ed369",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Democrats are furious after latest Platner revelations",
+    "summary": "1. A New York Times report with new allegations about the Democrat’s Nazi symbol tattoo and conduct with women has the party freaking out over its Maine Senate chances.",
+    "url": "https://www.politico.com/news/2026/06/04/platner-democrats-furious-new-york-times-report-00951496",
+    "author": "By Jessica Piper, Lisa Kashinsky and Nick Reisman",
+    "created_at": "2026-06-05T03:00:05.000Z"
+  },
+  {
+    "id": "ccb074c2-4502-4029-83d2-dfd1875890d5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+    "summary": "1. The initiative would enable tokenized deposits to move instantly and support around-the-clock settlement, the Wall Street Journal reported.",
+    "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-05T02:57:24.000Z"
+  },
+  {
+    "id": "0b172e1d-b53e-4a29-918e-bba889e01df3",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Ballroom is coming along fantastically well.\n2. It’s on time, and under budget (Unlike the Federal Reserve Building, where “Too Late” has done a terrible job of Cost and Time Control!), and at a much higher quality than I ever promised, including the DronePort, and ALL of the other many Military elements, which are all vital for National Security, that are being built throughout the whole integrated, cohesive Project.\n3. It is desperately needed, and will be very special!",
+    "url": "https://trumpstruth.org/statuses/39102",
+    "author": "Trump Truth",
+    "created_at": "2026-06-05T02:48:05.000Z"
+  },
+  {
+    "id": "a4193d5b-6616-4627-9a83-37e88cb65dab",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Texas Halts Alleged Crypto Pyramid Scheme After ‘Zero-Risk’ Millionaire Promises",
+    "summary": "1. Texas regulators targeted an alleged crypto investment and MLM scheme that promised millionaire status, passive income, and high monthly returns through recruitment and trading codes.\n2. The order also cites withdrawal fees, investor lockups, and claims of low-risk, AI-assisted trading.\n3. Texas Order Flags Crypto Returns, Recruitment, and Investor Lockups The Texas State Securities Board stated on […]",
+    "url": "https://news.bitcoin.com/texas-halts-alleged-crypto-pyramid-scheme-after-zero-risk-millionaire-promises/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-05T02:30:35.000Z"
+  },
+  {
+    "id": "705b1d2c-0123-4dfd-a9e2-70406314fc56",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Peter Brandt Warns Bitcoin May Drop Further as October Becomes Key Window",
+    "summary": "1. Bitcoin has reached Peter Brandt’s February downside target, but the veteran trader says BTC could still move lower before forming a tradable bottom.\n2. In an earlier outlook, he projected a potential $300,000 to $500,000 bitcoin peak in 2029.\n3. Peter Brandt Says Bitcoin May Not Find a Tradable Low Until October Bitcoin’s latest drop has returned […]",
+    "url": "https://news.bitcoin.com/peter-brandt-warns-bitcoin-may-drop-further-as-october-becomes-key-window/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-05T01:30:32.000Z"
+  },
+  {
+    "id": "40d38b66-8720-48d3-a0c3-648c5c790320",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Michael Saylor says Bitcoin’s drop reflects capital rotation into AI rather than fundamental weakness, adding that “volatility creates opportunity.”",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#88ab6690",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-05T00:34:15+00:00"
+  },
+  {
+    "id": "87c9f3fe-15f5-4403-a5bd-e8338ea325fe",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I’d like to thank our GREAT Senator, Lindsey Graham, for putting up THE SAVE AMERICA ACT for a Vote today.\n2. It states that:\n 1.\n3. ALL VOTERS MUST SHOW PHOTO I.D.",
+    "url": "https://trumpstruth.org/statuses/39101",
+    "author": "Trump Truth",
+    "created_at": "2026-06-05T00:21:06.000Z"
+  },
+  {
+    "id": "bf7cab40-6f70-4185-b378-14fb5177a0d4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+    "summary": "1. The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+    "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-06-05T00:06:47.000Z"
+  },
+  {
+    "id": "7e8bc540-586c-4584-8594-dbc26b05effb",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Visa and Brale are testing private stablecoin settlement on Canton Network, exploring whether institutions can use blockchain infrastructure while protecting sensitive transaction data.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ff0737ed",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-04T23:09:15+00:00"
+  },
+  {
+    "id": "3ff9bdd8-6ae0-4205-a340-aea9213e6d75",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Robinhood director Meyer Malka buys another $15.1M in $HOOD shares, bringing reported purchases to $31.1M over the past weekTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#5e89e7dc",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-04T22:25:16.775Z"
+    "created_at": "2026-06-04T23:00:54+00:00"
   },
   {
-    "id": "74ae6cce-ed4d-4ac6-b2d0-8d7a77421205",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "SpaceX sets IPO price at $135 per share",
-    "summary": "SpaceX has informed investment banks that its initial public offering (IPO) will be priced at $135 per share, a figure the company does not intend to change, according to sources.",
-    "url": "https://t.me/CoinnessGL#1675a89f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T21:55:18+00:00"
-  },
-  {
-    "id": "b55aa5db-3d5c-474a-999f-615a32c1b634",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Comptroller says only Democrats pressuring over crypto trust charter",
-    "summary": "1. US Comptroller of the Currency Jonathan Gould and New York Representative Gregory Meeks sparred over Donald Trump’s influence on regulators he has nominated as president at a Thursday oversight hearing.",
-    "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-04T21:54:37.000Z"
-  },
-  {
-    "id": "2dc2e000-5afb-4534-b008-dcca3b4652ed",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.163",
-    "summary": "1. ## What's changed\n\n- Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings — Claude Code refuses to start if its version is outside the allowed range and directs the user to an approved version\n- Added `/plugin list` command to list installed plugins, with `--enabled`/`--disabled` filters\n- Added a \"c to copy\" shortcut to `/btw` that copies the raw markdown answer to the clipboard, preserving formatting when pasted elsewhere\n- Hooks: Stop and SubagentStop hooks can now return `hookSpecificOutput.additionalContext` to give Claude feedback and keep the turn going without being labeled a hook error\n- Skills: added `\\$` escape syntax to include a literal `$` before a digit in command bodies\n- stdio MCP servers now receive the same `CLAUDE_CODE_SESSION_ID` as hooks/Bash on `--resume`\n- Fixed `claude -p` hanging forever after its final result when a backgrounded command never exits — background shells are now stopped ~5s after the result once stdin closes\n- Fixed `claude -p` failing with \"ANTHROPIC_API_KEY required\" on Bedrock/Vertex/Foundry when `CI=true` and no Anthropic API key is set\n- Fixed bash commands failing under bazel and EDR-protected Go workflows: `$TMPDIR` was overridden to `/tmp/claude-{uid}` for all commands instead of only sandboxed ones (regression in 2.1.154)\n- Fixed Bash commands failing on Windows with \"EEXIST: file already exists\" on the session-env directory when it has the read-only attribute or is inside OneDrive\n- Fixed org-managed permission rules not applying for the entire session when the managed settings fetch completed during startup on a fresh config directory\n- Fixed background sessions in `claude agents` losing their running background tasks when reattached after a Claude Code update\n- Fixed terminal misalignment and a multi-second hang when exiting the agent view by pressing Esc\n- Fixed clicking Stop on a background-task chip in the desktop app not clearing the chip when the underlying process was already gone\n- Fixed keyboard input becoming permanently unresponsive after a paste operation whose end marker is dropped by the terminal\n- Fixed hook `if: \"Bash(...)\"` conditions firing on every Bash command containing `$()` or `$VAR`; the pattern now matches against commands inside subshells and backticks too\n- Fixed deny rules on home-directory paths (e.g.\n2. `Read(~/Desktop/**)`) not blocking Bash commands that reference the path via `$HOME`\n- Fixed a stray \"(no content)\" line left in the transcript after closing panel dialogs like /mcp and /plugins\n- Background agent sessions now update to a new Claude Code version in the background, so opening a session after an update no longer waits on a cold restart\n- Clearer descriptions for built-in commands and skills in the / menu\n- The subscription-switch suggestion now shows in the startup announcement slot instead of a toast\n- `claude agents` dispatching from the state-grouped view now starts the session in the directory the agent view was opened from",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.163",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-04T21:52:51Z"
-  },
-  {
-    "id": "c2027ea8-2e68-43ac-b0e5-b421d67e0c09",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. A very big THANK YOU to the National Capital Planning Commission on the 8-1 approval of the Great Triumphal Arch to be built at the base of the Arlington Memorial Bridge, which has been waiting for this structure for over 200 years.\n2. When completed, it will be, without question, the Greatest Arch of them all!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39098",
-    "author": "Trump Truth",
-    "created_at": "2026-06-04T21:48:12.000Z"
-  },
-  {
-    "id": "e8f61c57-29d6-4e0b-8b50-09340ecace06",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. On Wednesday, June 24th, at 7 P.M., in magnificent Washington, D.C., now totally beautified, and one of the Safest Cities anywhere in the World, and in celebration of our Country’s 250 Year History, we will be bringing you, LIVE, the Greatest Rally, EVER!\n2. It will be special at every level — A Rally to end all Rallies!\n3. We don’t want singers with no talent, but big fees to put you to sleep, we’ve told them all to stay home.",
-    "url": "https://trumpstruth.org/statuses/39099",
-    "author": "Trump Truth",
-    "created_at": "2026-06-04T21:45:56.000Z"
-  },
-  {
-    "id": "42903914-5adb-4871-8fde-0de1b81a8acd",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
-    "summary": "1. This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
-    "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-04T21:44:09.000Z"
-  },
-  {
-    "id": "02de401e-b4f3-4ac9-be49-093fe61f4dba",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
-    "summary": "1. Anthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
-    "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-04T21:37:01.000Z"
-  },
-  {
-    "id": "46719e39-78b3-4119-ba74-04d128ca5c1f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Pred Opens to Public as $5M Beta Volume Fuels World Cup Sports Trading Push",
-    "summary": "1. Peer-to-peer decentralized sports trading exchange, Pred, has officially opened to public access to its platform.\n2. The public debut just a few days before the opening match of the 2026 FIFA World Cup.\n3. Beta Engagement and Performance Metrics Pred, a peer-to-peer sports trading exchange built on the Base blockchain network, opened public access on June 4 […]",
-    "url": "https://news.bitcoin.com/pred-opens-to-public-as-5m-beta-volume-fuels-world-cup-sports-trading-push/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-04T21:33:37.000Z"
-  },
-  {
-    "id": "f5d42ae1-5877-448c-bff2-25b04fefdec1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "summary": "1. On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry.\n2. Secure your spot today.",
-    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "author": "TechCrunch Events",
-    "created_at": "2026-06-04T21:30:00.000Z"
-  },
-  {
-    "id": "24cc7b71-2b2a-4b40-a46d-ae8023d1ac74",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⛏️ Bitdeer broke ground on a $155M Alberta site pairing a 101 MW gas plant with a 100 MW data center, designed for Bitcoin mining now and AI workloads later.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4f72ca01",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T21:14:24+00:00"
-  },
-  {
-    "id": "5ce0b63a-272a-495e-abd2-dd2b01e41116",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish\nBitcoin’s recent pullback is testing the institutional-adoption thesis, but Anthony Pompliano argues the decline reflects normal capital rotation and Bitcoin’s maturation into a mainstream financial asset.\n2. This post Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-as-pompliano-stays-bullish",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-04T21:12:41.000Z"
-  },
-  {
-    "id": "65834ccd-418f-4278-9864-52c209303855",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump open to meeting new Iranian leader if final deal is reached",
-    "summary": "U.S. President Donald Trump said on June 4 that he would not rule out a meeting with Iran's new Supreme Leader if a final agreement is reached with the country. He reiterated that the U.S. would never tolerate Iran possessing nuclear weapons and claimed to have previously struck and completely destroyed an Iranian nuclear facility. Trump also explained that he had considered and ultimately abandoned a plan to send U.S. troops to remove enriched uranium from an Iranian nuclear site. He said the plan was deemed too risky, as it would have required a one-to-two-week operation involving heavy equipment and airlift capabilities, and could have led to U.S. casualties in a prolonged ground mission.",
-    "url": "https://t.me/CoinnessGL#e191146c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T21:02:59+00:00"
-  },
-  {
-    "id": "bdbf86fa-ab21-4cf1-8c66-3b21cae837ab",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Polymarket Traders Put 62% Odds on Bitcoin Dropping Below $60K This June",
-    "summary": "1. Traders across multiple prediction markets are pricing a significant downside move for bitcoin well ahead of any recovery toward six figures.\n2. As of 3:30 p.m.\n3. EDT on June 4, 2026, bitcoin is trading at $63,826, down roughly 2.8% on the day.",
-    "url": "https://news.bitcoin.com/polymarket-traders-put-62-odds-on-bitcoin-dropping-below-60k-this-june/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-04T20:55:51.000Z"
-  },
-  {
-    "id": "68b84b0a-051f-40dd-9abc-e155913b2209",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
-    "summary": "1. On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies.\n2. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
-    "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
-    "author": "Isabelle Johannessen",
-    "created_at": "2026-06-04T20:55:38.000Z"
-  },
-  {
-    "id": "01d08e11-d224-4a0a-b71a-56acac707864",
+    "id": "f5b4f683-5510-44a3-ab05-f2074055fb1e",
     "source": "The Defiant",
     "type": "rss",
-    "title": "0x Opens Cross-Chain API to All Developers with 12 Bridge Partners on Day One",
-    "summary": "1. 0x Protocol has opened its Cross-Chain API to general availability with 12 bridge providers live from day one, including Circle, LayerZero, Stargate and Across — accessible through a single API integration.",
-    "url": "https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners",
+    "title": "Shielded Labs Proposes New Zcash Upgrade to Prove ZEC Supply After Orchard Bug",
+    "summary": "1. The Zcash developer said researcher Taylor Hornby used Anthropic's latest AI model to find a flaw that could have minted undetectable counterfeit ZEC inside the Orchard privacy pool.\n2. It wants a further network upgrade to prove the supply is sound, beyond the emergency fix activated June 3.",
+    "url": "https://thedefiant.io/news/blockchains/shielded-labs-proposes-new-zcash-upgrade-to-prove-zec-supply-after-orchard-bug",
     "author": "The Defiant Team",
-    "created_at": "2026-06-04T20:55:00.000Z"
+    "created_at": "2026-06-04T23:00:43.000Z"
   },
   {
-    "id": "539764ed-984f-4770-85d1-a8556d64fcc4",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
-    "summary": "1. Bryan Steil said he'll add language to the House congressional stock ban bill to cover prediction markets like Polymarket and Kalshi.",
-    "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
-    "author": "André Beganski",
-    "created_at": "2026-06-04T20:43:19.000Z"
-  },
-  {
-    "id": "c7037e7c-cbdf-4847-aedf-6fb3168398b7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Arthur Hayes says he dumped all his HYPE and NEAR, warning markets could peak between now and September as energy prices rise and major AI IPOs approach.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#13f51249",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T20:39:24+00:00"
-  },
-  {
-    "id": "11566bfd-74a9-456d-acb2-a71da97df885",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?",
-    "summary": "1. Bitcoin price collapsed as Strategy faced tighter liquidity conditions and paused its BTC buying.\n2. Is it time to jump ship, or buy the dip?",
-    "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-06-04T20:37:58.000Z"
-  },
-  {
-    "id": "cd96fb1e-b84a-4bde-942a-3679addf1a2f",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash\nBitcoin price plunged below the Bitcoin Rainbow Chart’s lowest “Basically a Fire Sale!” band for only the second time since the FTX collapse, while the Fear and Greed Index sank to 12.\n2. This post Bitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-fire-sale",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-04T20:28:54.000Z"
-  },
-  {
-    "id": "8bb6491c-d321-4304-9787-267ec6b553ad",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "White House advisor calls CLARITY Act pro-regulation",
-    "summary": "Patrick Witt, a member of the White House Digital Asset Advisory Committee, has described the CLARITY Act as being both pro-regulation and pro-law enforcement. Speaking at an industry event, Witt warned that if the U.S. does not set its own standards for digital asset regulation, it will be forced to adopt rules made by other countries, The Block reported. He added that recent concerns have been addressed through new provisions and asserted that the bill is not intended to hinder law enforcement. His comments follow recent criticism from some law enforcement agencies and Democratic lawmakers, who have argued the bill could weaken anti-money laundering (AML) regulations and make it more difficult to prosecute financial crimes.",
-    "url": "https://t.me/CoinnessGL#911e130e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T20:22:51+00:00"
-  },
-  {
-    "id": "b5f6e154-c7bd-4143-b2a9-0878893719a5",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
-    "summary": "1. Political activist Bill Browder, the teenager’s father, said his son was “the first high school student in the world to be sanctioned by an authoritarian regime” over a report on the ruble-pegged stablecoin A7A5.",
-    "url": "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-04T20:21:55.000Z"
-  },
-  {
-    "id": "0cf34f33-2457-48a5-9a92-01dd25aa056d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Solo Bitcoin Miners Keep Pocketing Full Block Rewards in 2026: Here’s How",
-    "summary": "1. Solo bitcoin miners running desktop-sized hardware are still finding full blocks in 2026, and the data from several active solo mining pools makes clear this is no longer a fluke.\n2. A Recent Solo Win Puts the Spotlight Back on Home Mining A solo miner hit a bitcoin block recently, collecting the full 3.125 BTC subsidy […]",
-    "url": "https://news.bitcoin.com/solo-bitcoin-miners-keep-pocketing-full-block-rewards-in-2026-heres-how/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-04T20:15:22.000Z"
-  },
-  {
-    "id": "43eeb526-1a07-4775-9cf9-0f9dd9da7c5f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto-based peptide black market exceeds $100M annually, says Chainalysis",
-    "summary": "Blockchain analytics firm Chainalysis reports that the black market for peptides, fueled by cryptocurrency payments, now exceeds $100 million in annual volume. According to the firm, the value of crypto flowing into this market surged by 159%, rising from $12 million in the fourth quarter of last year to $32 million in the first quarter of this year. This growth is driven by sellers using Bitcoin and stablecoins to circumvent restrictions from traditional banks and payment companies amid the rising \"Looksmaxxing\" trend, a social media phenomenon focused on improving one's appearance. Chainalysis notes that stablecoins, with their lower price volatility, are becoming an increasingly popular payment method.",
-    "url": "https://t.me/CoinnessGL#2aaccbcf",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T20:10:07+00:00"
-  },
-  {
-    "id": "02f738bd-623f-4762-9b0a-8c817d879154",
-    "source": "The Block",
-    "type": "rss",
-    "title": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill",
-    "summary": "1. The White House's top cryptocurrency adviser, Patrick Witt, called the Clarity Act a \"pro-enforcement bill,\" despite pushback.",
-    "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-04T20:08:40.000Z"
-  },
-  {
-    "id": "564ebbd5-29b1-4630-a29c-1ce2a8b8de37",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ A Michigan couple have closed on the first Fannie Mae-backed mortgage using Bitcoin as collateral.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d3556417",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T20:04:25+00:00"
-  },
-  {
-    "id": "f8d9d349-8985-4817-808e-526daa963948",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Wall Street wants MicroStrategy to fail due to BTC animosity, say experts",
-    "summary": "Nate Geraci, CEO of asset management firm Novadius Wealth Management, has commented that he has never seen traditional finance investors so actively wish for the failure of MicroStrategy (MSTR). In a post on X, Geraci suggested this could be the result of a combination of factors, including skepticism toward BTC, the company's financial strategy, the high profile of Michael Saylor, and regulatory compliance controversies. Bloomberg ETF analyst Eric Balchunas responded, arguing that the core reason is discontent with BTC, which he described as an asset that deeply antagonizes some within the traditional finance sector.",
-    "url": "https://t.me/CoinnessGL#324d12e5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T20:02:52+00:00"
-  },
-  {
-    "id": "ce687882-d617-4b5e-992c-81c564e54c59",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close mixed",
-    "summary": "The three major U.S. stock indices closed mixed today.- S&P 500: +0.4%- Nasdaq: -0.03%- Dow Jones: +1.7%",
-    "url": "https://t.me/CoinnessGL#5ae91592",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-04T20:02:02+00:00"
-  },
-  {
-    "id": "adc470bb-1db7-4443-b3e9-8174cd97b5da",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
-    "summary": "1. Demand for peptides fueled by the \"looksmaxxing\" trend has spawned a $100 million gray market paid for primarily with crypto.",
-    "url": "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-04T19:54:29.000Z"
-  },
-  {
-    "id": "d7d18abd-6c73-4eaf-a9c7-7e96a95c1ef1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
-    "summary": "1. US spot Bitcoin ETF ownership shifted during the market downturn as hedge funds exited positions, while banks and long-term allocators continued building exposure.",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-04T19:53:33.000Z"
-  },
-  {
-    "id": "2180fb10-f208-45cd-9514-a721612d2a90",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Schwab Strategist: Bitcoin’s $60,000 Mining Cost Could Mark the Cycle Bottom",
-    "summary": "1. Bitcoin Magazine\n\nSchwab Strategist: Bitcoin’s $60,000 Mining Cost Could Mark the Cycle Bottom\nBitcoin's recent crash may have found a durable bottom near $60,000 because that level roughly matches the production cost of the most efficient miners, creating an energy-based floor.\n2. This post Schwab Strategist: Bitcoin’s $60,000 Mining Cost Could Mark the Cycle Bottom first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/schwab-strategist-bitcoins-60000-mining",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-04T19:49:15.000Z"
-  },
-  {
-    "id": "f361e26d-ac4f-4753-aed9-7a2a105385ff",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
-    "summary": "1. The industry has been trying to make a case this week the Clarity Act provides law enforcement strong tools to combat illicit finance involving cryptocurrency.",
-    "url": "https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-04T19:41:14.000Z"
-  },
-  {
-    "id": "241f6613-4b21-44b8-97d7-88e91af6f506",
+    "id": "4116c8a6-efd4-4b40-a205-8a9d97e6404e",
     "source": "TechCrunch",
     "type": "rss",
-    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-    "summary": "1. Meta may have one found one way to slash its massive data center bill: tents.",
-    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-    "author": "Tim De Chant",
-    "created_at": "2026-06-04T19:33:09.000Z"
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "summary": "1. Anthropic has been growing at a breakneck pace.\n2. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025.\n3. That trajectory faces a real test, though.",
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "author": "Marina Temkin",
+    "created_at": "2026-06-04T22:43:26.000Z"
   },
   {
-    "id": "773d5cf5-5d6e-4b98-b7e4-eaead693268a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Goldman Sachs reportedly projects SpaceX’s AI revenue will grow 100x to $322 billion by 2030.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#33bc670b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T19:29:26+00:00"
-  },
-  {
-    "id": "f3b8621e-f1ba-4309-b920-2c6b8151091f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-    "summary": "1. Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-    "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-    "author": "Sarah Perez",
-    "created_at": "2026-06-04T19:20:58.000Z"
-  },
-  {
-    "id": "5604e96c-416c-4336-8fab-c9f2a129d8c5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "FG Nexus Dumps 36,025 ETH as Ethereum Treasury Losses Top $85M",
-    "summary": "1. FG Nexus has lost more than $85 million on its ethereum treasury strategy after buying ETH near last year’s highs and selling much of the position at lower prices.\n2. The losses highlight the pressure facing public companies that turned to ether as a reserve asset.\n3. FG Nexus’ $196M Ethereum Bet Backfires as Losses Surpass $85M […]",
-    "url": "https://news.bitcoin.com/fg-nexus-dumps-36025-eth-as-ethereum-treasury-losses-top-85m/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-04T19:15:00.000Z"
-  },
-  {
-    "id": "6a4224d1-97f8-41b7-899e-b7781cad9770",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Grayscale says Strategy may have limited ability to buy more Bitcoin at current prices after its BTC sale raised questions about its accumulation strategy.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#37de148d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T18:54:23+00:00"
-  },
-  {
-    "id": "2fb23a60-b1d8-4f40-aaf0-c8b8e7dc9572",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Google DeepMind CEO Says AGI Is Coming Fast: 'We Don't Have Long to Prepare'",
-    "summary": "1. The Nobel Prize-winning AI researcher says humanity is standing in the \"foothills of the singularity.\"",
-    "url": "https://decrypt.co/370080/google-deepmind-ceo-agi-coming",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-04T18:54:22.000Z"
-  },
-  {
-    "id": "3aec2f38-3b22-476d-b381-9533ba6b426f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
-    "summary": "1. Fusion startup Helion is racing to complete a power plant for Microsoft by 2028.\n2. A fresh infusion of cash should help with that.",
-    "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
-    "author": "Tim De Chant",
-    "created_at": "2026-06-04T18:54:08.000Z"
-  },
-  {
-    "id": "2f745384-139f-4dee-b728-0b031b7cf202",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. I believe we have the Most Dishonest Elections of any Country, anywhere in the World!\n2. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39095",
-    "author": "Trump Truth",
-    "created_at": "2026-06-04T18:52:33.000Z"
-  },
-  {
-    "id": "07b2cd6d-1fc2-4e33-b471-00247f7217c0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Coinbase to launch token-backed mortgage down payments this summer",
-    "summary": "1. A Coinbase-Better Home & Finance initiative will allow qualified borrowers to use Bitcoin and USDC as collateral for home loan down payments.",
-    "url": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-04T18:52:00.000Z"
-  },
-  {
-    "id": "f2be06c7-bf33-4113-bc71-adc6770d875c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Traders Dump Long Bets as $636M Gets Wiped Out in One-Day Rout",
-    "summary": "1. After a flash crash toward $61,000, bitcoin briefly rebounded to $64,600 before stabilizing just under $64,000.\n2. Despite trimming its losses, it remained down 3.2% daily, 14% weekly, and nearly 30% year-to-date in 2026.\n3. Volatility Grips Bitcoin After Flash Crash After plunging to $61,310 late Wednesday, bitcoin quickly reversed the losses, and by midnight it was […]",
-    "url": "https://news.bitcoin.com/bitcoin-traders-dump-long-bets-as-636m-gets-wiped-out-in-one-day-rout/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-04T18:41:53.000Z"
-  },
-  {
-    "id": "c2ffbf22-62df-44e2-a182-b920fe2d0807",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Privacy in 2026: A Practical Guide",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Privacy in 2026: A Practical Guide\nBitcoin remains pseudonymous by design, but real-world threats from exchanges and data leaks demand stronger protections.\n2. Experts highlight Sparrow Wallet, Bisq, and Boltz as key 2026 solutions for on-chain and off-chain privacy.\n3. This post Bitcoin Privacy in 2026: A Practical Guide first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/guides/bitcoin-privacy-in-2026-a-practical-guide",
-    "author": "Juan Galt",
-    "created_at": "2026-06-04T18:30:40.000Z"
-  },
-  {
-    "id": "f946cf56-5452-4d4c-aacc-bda0f296ee0e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "$3 Trillion AI IPO Wave Could Pull Capital From Bitcoin as Investors Chase New Market Giants",
-    "summary": "1. Bitcoin traded just above $63,000 on Thursday around 12 p.m.\n2. EDT, after shedding 17% over the past fortnight, as investors increasingly weigh the potential impact of a historic wave of artificial intelligence (AI) public offerings expected to hit markets over the coming months.\n3. 3 AI Mega-IPOs Could Redirect Billions At the center of the discussion […]",
-    "url": "https://news.bitcoin.com/3-trillion-ai-ipo-wave-could-pull-capital-from-bitcoin-as-investors-chase-new-market-giants/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-04T18:20:49.000Z"
-  },
-  {
-    "id": "069cfb1f-eb95-49bf-85e9-bbc8d5162100",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
-    "summary": "1. The regulator rejected claims he's doing President Trump's bidding during a congressional hearing that also addressed the GENIUS Act stablecoin push.",
-    "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-04T18:19:13.000Z"
-  },
-  {
-    "id": "5e73cd11-ce29-4514-86a3-386c60414e27",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
-    "summary": "1. Backed by economist Nouriel Roubini, a long-time anti-bitcoin advocate, and known as 'Dr.\n2. Doom,' the Atlas CEO, Reza Bundy, shot a short-term warning for bitcoin but stayed bullish in the long-term.",
-    "url": "https://www.coindesk.com/markets/2026/06/04/dr-doom-backed-atlas-capital-ceo-says-bitcoin-could-crash-70-before-reaching-usd500-000",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-04T18:15:52.000Z"
-  },
-  {
-    "id": "52f283e8-da2e-4eb1-8d5f-76e84144b963",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 The CFTC scrapped its \"no-deny\" settlement policy, following the SEC's move, letting defendants settle without admitting or denying wrongdoing.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#bc00e9ca",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T18:14:19+00:00"
-  },
-  {
-    "id": "2d0d13fa-efa3-4661-a7ba-f27a193bfda8",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%",
-    "summary": "1. With Bitcoin falling hard this week and down nearly 50% from peak.\n2. Strategy's Michael Saylor is pointing the finger at the AI boom.",
-    "url": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-04T18:06:15.000Z"
-  },
-  {
-    "id": "12be299d-b490-4a36-85ee-f77a2d69d255",
+    "id": "f83d9fc2-1656-4c19-bbce-483d3374a222",
     "source": "@WatcherGuru",
     "type": "telegram",
-    "title": "🇺🇸🇯🇵 US and Japan announce $1,000,000,000 partnership to advance AI, quantum computing, fusion energy, and biotechnology.@WatcherGuru",
+    "title": "JPMorgan, Citi and major US banks to launch new tokenized deposit system to compete with crypto.@WatcherGuru",
     "summary": "",
-    "url": "https://t.me/WatcherGuru#483c8379",
+    "url": "https://t.me/WatcherGuru#c534e0ce",
     "author": "@WatcherGuru",
-    "created_at": "2026-06-04T17:38:19+00:00"
+    "created_at": "2026-06-04T22:42:44+00:00"
   },
   {
-    "id": "1076a46c-56f7-440e-82cf-88885f56b706",
-    "source": "CoinTelegraph",
+    "id": "ff95c87a-a7d9-4c16-8258-4d0f51d15bac",
+    "source": "TechCrunch",
     "type": "rss",
-    "title": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
-    "summary": "1. Bitcoin continued \"incredible\" 2022 bear market repeat behavior as sellers kept control over BTC price rebound attempts.",
-    "url": "https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-04T17:30:15.000Z"
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "summary": "1. The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-06-04T22:29:50.000Z"
   },
   {
-    "id": "1f809565-974f-4f70-a46c-25027139b9cd",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield",
-    "summary": "1. The allocation comes from a mix of ether.fi's liquidity provider base and managed capital from its existing liquid vaults.",
-    "url": "https://www.theblock.co/post/403681/ether-fi-allocates-100-million-plume-rwa-vault-yield?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-06-04T17:20:03.000Z"
-  },
-  {
-    "id": "4ba31615-6246-4381-b2eb-80ad1b922377",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Chainalysis says ‘top-tier’ gray market peptide vendors turn to bitcoin and stablecoins",
-    "summary": "1. “To scale, the gray-market peptide trade adopted cryptocurrency as its backbone,” Chainalysis said in a report.",
-    "url": "https://www.theblock.co/post/403683/chainalysis-says-top-tier-gray-market-peptide-vendors-turn-to-bitcoin-and-stablecoins?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-04T17:08:46.000Z"
-  },
-  {
-    "id": "dcde785e-bfbf-41b0-a051-89070cba14cd",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": " ERC-3643: The Case for Permissioned Tokens for Insitutional Adoption",
-    "summary": "1. What if the blockchain token you hold doesn't actually give you ownership of the underlying asset?\n2. Dennis O'Connell of the ERC-3643 Association joins Converge to expose the hidden differences between tokenization standards — and why knowing which one you're buying matters more than most people",
-    "url": "https://thedefiant.io/converge/podcast/erc-3643-the-case-for-permissioned-tokens-for-insitutional-adoption",
-    "author": "Chris Storaker",
-    "created_at": "2026-06-04T16:51:18.000Z"
+    "id": "61fb38d6-3448-4d28-abbf-5d49d25ec540",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Travala launched an AI travel protocol on Base that uses gasless USDC transactions for agents booking travel.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#10264462",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-04T22:29:41+00:00"
   }
 ]
