@@ -1,5 +1,85 @@
 [
   {
+    "id": "9a98bdd9-f57d-4f96-9360-09ed81ee1676",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million",
+    "summary": "1. ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more than $116 million in 24-hour liquidations.",
+    "url": "https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-05T11:35:03.000Z"
+  },
+  {
+    "id": "311c9a97-13ff-40cd-93d3-b9204e8c3163",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
+    "summary": "1. Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
+    "url": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
+    "author": "Vismaya V",
+    "created_at": "2026-06-05T11:33:50.000Z"
+  },
+  {
+    "id": "9effed89-94ba-40fe-a09a-401097fe6e50",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Binance Research: Crypto Exchanges Could Funnel $5 Trillion of New Equity Capital Into Markets",
+    "summary": "1. Crypto exchanges could channel as much as $5 trillion in fresh equity capital into global markets over the next five years, according to Binance Research, which found nearly 93% of Binance’s stock-trading users come from emerging markets.\n2. Exchanges as the New Gateway to Stocks In much of the developing world, opening a conventional brokerage account […]",
+    "url": "https://news.bitcoin.com/binance-research-crypto-exchanges-equity-capital/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-05T11:30:04.000Z"
+  },
+  {
+    "id": "65dce21f-04ed-447c-997e-0d4c7345fdf0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Forward Industries moves $32M in SOL amid $1B paper loss",
+    "summary": "1. Forward Industries moved $31.9 million in SOL to Coinbase Prime as its Solana bet sits over 70% underwater, underscoring growing strain on corporate crypto treasuries.",
+    "url": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-05T10:59:50.000Z"
+  },
+  {
+    "id": "f64dd86a-9ba3-414c-8be6-89d1950686d3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korea police probe Polymarket users over illegal gambling claims: Report",
+    "summary": "1. South Korean police reportedly launched the country’s first illegal gambling probe into local Polymarket users amid election-betting scrutiny.",
+    "url": "https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-06-05T10:47:17.000Z"
+  },
+  {
+    "id": "b4297338-59f7-4d95-a4ed-843828746296",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’",
+    "summary": "1. An Orchard vulnerability that allowed undetectable counterfeiting of ZEC in its shielded pool has reignited debate over privacy coins.",
+    "url": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
+    "author": "Akash Girimath",
+    "created_at": "2026-06-05T10:41:59.000Z"
+  },
+  {
+    "id": "b1030460-bfc4-4028-9711-57002eee1503",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Largest Solana Treasury Moves $32M in SOL to Coinbase Prime While Sitting $1.13B Underwater",
+    "summary": "1. Forward Industries, the largest corporate holder of SOL, has moved 455,784 SOL worth about $31.87 million to Coinbase Prime, its first major transfer in a month, all while sitting roughly $1.13 billion underwater on the position.\n2. A $32 Million Transfer Reignites Sell-off Fears Forward Industries, the Nasdaq-listed firm that built the largest corporate SOL treasury, […]",
+    "url": "https://news.bitcoin.com/forward-industries-sol-coinbase-prime-underwater/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-05T10:30:22.000Z"
+  },
+  {
+    "id": "68098635-454c-4692-bb3c-7731d0be486a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
+    "summary": "1. The Hong Kong Monetary Authority announced the formation of an expert group to advance the development of tokenized bonds.",
+    "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-05T10:05:44.000Z"
+  },
+  {
     "id": "111d3e45-3ceb-4ca2-a725-bfd3224665ec",
     "source": "@SolidIntelX",
     "type": "telegram",
@@ -248,65 +328,5 @@
     "url": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Stephen Katte",
     "created_at": "2026-06-05T06:03:52.000Z"
-  },
-  {
-    "id": "8e0ddbb9-2363-440a-b970-7a55e77f38a1",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.165",
-    "summary": "1. ## What's changed\n\n- Bug fixes and reliability improvements",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.165",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-05T05:45:06Z"
-  },
-  {
-    "id": "8d4c1fa8-2d0c-4b0c-ab96-0dc131b10a46",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Spacecoin Lands Vietnam Partnership With $100M Annual Revenue Goal",
-    "summary": "1. Spacecoin has signed an exclusive agreement with DETI Technology to bring decentralized satellite telecoms to Vietnam.\n2. The partners are targeting at least $100 million in annual revenue once the project reaches commercial operation.\n3. Spacecoin Teams With DETI to Bring Satellite Telecoms and AI to Vietnam Spacecoin has signed an exclusive memorandum of understanding with Vietnam’s […]",
-    "url": "https://news.bitcoin.com/spacecoin-lands-vietnam-partnership-with-100m-annual-revenue-goal/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-05T05:30:13.000Z"
-  },
-  {
-    "id": "a40f5e50-a567-4d1b-b158-0e53878a3efd",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Mira Murati steps back into the spotlight, carefully",
-    "summary": "1. In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-    "author": "Connie Loizos",
-    "created_at": "2026-06-05T05:06:37.000Z"
-  },
-  {
-    "id": "9367db72-f8b8-437d-afbd-72072d8b8fbb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US Targets Brazil’s Pix: Trade Report Claims Instant Payment System Restricts American Commerce",
-    "summary": "1. The Trump Administration has proposed imposing 25% tariffs on Brazilian goods under Section 301 of the Trade Act of 1974.\n2. The investigation alleges that Brazil “has unfairly disadvantaged U.S.\n3. companies engaged in competing electronic payment services” by promoting Pix.",
-    "url": "https://news.bitcoin.com/us-targets-brazils-pix-trade-report-claims-instant-payment-system-restricts-american-commerce/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-05T04:30:17.000Z"
-  },
-  {
-    "id": "3b6bf168-b601-4d11-a45d-2e4f92c9b5db",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
-    "summary": "1. Senator Cynthia Lummis has led a group of lawmakers urging financial regulators for “fair capital treatment for on-balance sheet treatment of digital assets.”",
-    "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-05T04:26:57.000Z"
-  },
-  {
-    "id": "506ddd71-3ddd-49d2-9304-9cc586ca6f47",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Zcash founder confirms a critical Orchard bug that could have created unlimited, undetectable counterfeit ZEC was live from May 2022 until it was patched June 1.",
-    "summary": "Due to the pool's privacy, there is no way to prove whether it was ever exploited. A proposed network upgrade adding a new shielded pool + turnstile accounting, to let anyone verify the integrity of the ZEC supply. $ZEC fell ~25% on the disclosure.The bug that was undetected for ~4 years was found using Anthropic's Opus 4.8, released just days earlier, as part of an AI-assisted security audit. A flaw the world's best cryptographers missed, surfaced by a white-hat using a new AI model.Some argue this is the structural tradeoff of all private money, not a ZEC-specific failure. As X user @ robustus put it, you can't have both full privacy and fully transparent supply auditability in one system. Transparent chains like $BTC expose any inflation bug in the raw data; private chains can't. Zcash's turnstile accounting is designed to limit exactly this.Developing story. Shielded Labs to publish the upgrade proposal next week. More as it comes.Twitter",
-    "url": "https://t.me/SolidIntelX#51af9d5f",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-05T04:23:13.120Z"
   }
 ]
