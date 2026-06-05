@@ -1,5 +1,45 @@
 [
   {
+    "id": "8d4c1fa8-2d0c-4b0c-ab96-0dc131b10a46",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Spacecoin Lands Vietnam Partnership With $100M Annual Revenue Goal",
+    "summary": "1. Spacecoin has signed an exclusive agreement with DETI Technology to bring decentralized satellite telecoms to Vietnam.\n2. The partners are targeting at least $100 million in annual revenue once the project reaches commercial operation.\n3. Spacecoin Teams With DETI to Bring Satellite Telecoms and AI to Vietnam Spacecoin has signed an exclusive memorandum of understanding with Vietnam’s […]",
+    "url": "https://news.bitcoin.com/spacecoin-lands-vietnam-partnership-with-100m-annual-revenue-goal/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-05T05:30:13.000Z"
+  },
+  {
+    "id": "a40f5e50-a567-4d1b-b158-0e53878a3efd",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "summary": "1. In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "author": "Connie Loizos",
+    "created_at": "2026-06-05T05:06:37.000Z"
+  },
+  {
+    "id": "9367db72-f8b8-437d-afbd-72072d8b8fbb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "US Targets Brazil’s Pix: Trade Report Claims Instant Payment System Restricts American Commerce",
+    "summary": "1. The Trump Administration has proposed imposing 25% tariffs on Brazilian goods under Section 301 of the Trade Act of 1974.\n2. The investigation alleges that Brazil “has unfairly disadvantaged U.S.\n3. companies engaged in competing electronic payment services” by promoting Pix.",
+    "url": "https://news.bitcoin.com/us-targets-brazils-pix-trade-report-claims-instant-payment-system-restricts-american-commerce/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-05T04:30:17.000Z"
+  },
+  {
+    "id": "3b6bf168-b601-4d11-a45d-2e4f92c9b5db",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+    "summary": "1. Senator Cynthia Lummis has led a group of lawmakers urging financial regulators for “fair capital treatment for on-balance sheet treatment of digital assets.”",
+    "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-05T04:26:57.000Z"
+  },
+  {
     "id": "506ddd71-3ddd-49d2-9304-9cc586ca6f47",
     "source": "@SolidIntelX",
     "type": "telegram",
@@ -148,75 +188,5 @@
     "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
     "author": "Lucas Ropek",
     "created_at": "2026-06-05T00:06:47.000Z"
-  },
-  {
-    "id": "7e8bc540-586c-4584-8594-dbc26b05effb",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Visa and Brale are testing private stablecoin settlement on Canton Network, exploring whether institutions can use blockchain infrastructure while protecting sensitive transaction data.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ff0737ed",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T23:09:15+00:00"
-  },
-  {
-    "id": "3ff9bdd8-6ae0-4205-a340-aea9213e6d75",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Robinhood director Meyer Malka buys another $15.1M in $HOOD shares, bringing reported purchases to $31.1M over the past weekTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#5e89e7dc",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-04T23:00:54+00:00"
-  },
-  {
-    "id": "f5b4f683-5510-44a3-ab05-f2074055fb1e",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Shielded Labs Proposes New Zcash Upgrade to Prove ZEC Supply After Orchard Bug",
-    "summary": "1. The Zcash developer said researcher Taylor Hornby used Anthropic's latest AI model to find a flaw that could have minted undetectable counterfeit ZEC inside the Orchard privacy pool.\n2. It wants a further network upgrade to prove the supply is sound, beyond the emergency fix activated June 3.",
-    "url": "https://thedefiant.io/news/blockchains/shielded-labs-proposes-new-zcash-upgrade-to-prove-zec-supply-after-orchard-bug",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-04T23:00:43.000Z"
-  },
-  {
-    "id": "4116c8a6-efd4-4b40-a205-8a9d97e6404e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "summary": "1. Anthropic has been growing at a breakneck pace.\n2. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025.\n3. That trajectory faces a real test, though.",
-    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "author": "Marina Temkin",
-    "created_at": "2026-06-04T22:43:26.000Z"
-  },
-  {
-    "id": "f83d9fc2-1656-4c19-bbce-483d3374a222",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "JPMorgan, Citi and major US banks to launch new tokenized deposit system to compete with crypto.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c534e0ce",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-04T22:42:44+00:00"
-  },
-  {
-    "id": "ff95c87a-a7d9-4c16-8258-4d0f51d15bac",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "summary": "1. The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-06-04T22:29:50.000Z"
-  },
-  {
-    "id": "61fb38d6-3448-4d28-abbf-5d49d25ec540",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Travala launched an AI travel protocol on Base that uses gasless USDC transactions for agents booking travel.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#10264462",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-04T22:29:41+00:00"
   }
 ]
