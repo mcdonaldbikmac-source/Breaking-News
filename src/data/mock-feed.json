@@ -1,5 +1,185 @@
 [
   {
+    "id": "b2467df8-0251-4b42-961d-401d81984e2a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Slides Below $60K as Traders Trigger $1.57B Liquidation Wave Across Crypto",
+    "summary": "1. Bitcoin dropped below $60,000 amid a broader crypto market sell-off that erased $200 billion in total market value and triggered $1.57 billion in leveraged liquidations.\n2. Liquidations Pass the Billion-Dollar Mark Bitcoin plunged below $60,000 on Friday amid a market-wide sell-off that shaved approximately $200 billion from the crypto economy.\n3. According to Bitstamp data, the cryptocurrency […]",
+    "url": "https://news.bitcoin.com/bitcoin-slides-below-60k-as-traders-trigger-1-57b-liquidation-wave-across-crypto/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-05T18:34:10.000Z"
+  },
+  {
+    "id": "5ff7f502-b3e4-4288-ae9a-2aee484aa199",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?",
+    "summary": "1. The price of Zcash cratered following the disclosure of a serious vulnerability for the privacy coin.\n2. Can ZEC make a comeback anytime soon?",
+    "url": "https://decrypt.co/370184/zcash-crash-wiped-billions-market-cap-can-zec-recover",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-05T18:25:01.000Z"
+  },
+  {
+    "id": "5f8f32ab-0a46-43b2-8a8f-94d0635c446d",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
+    "summary": "1. The crypto tax bills—the first of their kind to be deliberated by congressional leadership—will be discussed at a House hearing on Tuesday.",
+    "url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
+    "author": "Sander Lutz",
+    "created_at": "2026-06-05T18:13:56.000Z"
+  },
+  {
+    "id": "37c57897-05fc-45f4-bf0b-936d9a5fd14c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
+    "summary": "1. After an AI model helped uncover a four-year-old flaw in Zcash, security researchers warn that similar bugs may be hiding across crypto and traditional financial systems.",
+    "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-05T18:02:33.000Z"
+  },
+  {
+    "id": "5e75c7c0-159c-4864-ae83-dde210810652",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend",
+    "summary": "1. BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.",
+    "url": "https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-05T17:57:29.000Z"
+  },
+  {
+    "id": "689500e1-060b-4782-9f5b-c6bc71ef8ebc",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "GM’s electric future depends on a new battery — and this building",
+    "summary": "1. GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned.\n2. This building is key to making that happen.",
+    "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+    "author": "Tim De Chant",
+    "created_at": "2026-06-05T17:44:18.000Z"
+  },
+  {
+    "id": "a8576df2-15cf-4122-a715-a198d08acabc",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+    "summary": "1. Lectric, which says the U.S.\n2. market is ripe for competition and choice, has launched three new brands in the past six months.",
+    "url": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-06-05T17:38:06.000Z"
+  },
+  {
+    "id": "a6462b89-8f23-4c26-b088-22ebbc3dd3b2",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The most interesting startups right now want to get you off your phone",
+    "summary": "1. While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.\n2. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences.\n3. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass.",
+    "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "author": "Theresa Loconsolo",
+    "created_at": "2026-06-05T17:17:06.000Z"
+  },
+  {
+    "id": "e6cecadc-5672-4c4e-a48d-72ef44040e75",
+    "source": "GitHub",
+    "type": "github",
+    "title": "base-org/node: v1.0.1",
+    "summary": "1. ## What's Changed\r\n\r\nPerforms a small fix to the `optimism_syncStatus` endpoint to fix `current_l1` to track the safe l1 head less `--l1-verifier-confs`.\n2. Previously, `current_l1` was equivalent to `head_l1` despite L1 verifier confs being configured which was unintended behavior.\n3. > [!NOTE]\r\n>\r\n> This is not a required upgrade.",
+    "url": "https://github.com/base/node/releases/tag/v1.0.1",
+    "author": "refcell",
+    "created_at": "2026-06-05T17:10:47Z"
+  },
+  {
+    "id": "04dcff68-186e-47fa-8525-b282281b8607",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Dragonfly GP Tom Schmidt Calls Nova Markets Startup 'Huge Scammers,' Slams VCs",
+    "summary": "1. A Dragonfly Capital general partner partially walked back the attack on named investors.\n2. The founder responded by calling Schmidt a former backer turned hostile critic.",
+    "url": "https://thedefiant.io/news/people/dragonfly-gp-tom-schmidt-calls-nova-markets-startup-huge-scammers-slams-vcs",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-05T17:04:10.000Z"
+  },
+  {
+    "id": "70aadcca-4e82-469a-962f-33421365a102",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto Biz: Nobody told Saylor ‘never sell’",
+    "summary": "1. Strategy’s Bitcoin sale challenged the “never sell” narrative, while JPMorgan attacked CLARITY and Capital B pursued a huge fundraising plan for BTC.",
+    "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-clarity-act-jpmorgan-capital-b-fundraising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-05T17:04:07.000Z"
+  },
+  {
+    "id": "c9ee467a-f3c7-4c03-a922-761d1d220a62",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "TRX Spot Listing Launches on Bitnomial, Supporting Regulated U.S. Access to TRON",
+    "summary": "1. PRESS RELEASE.\n2. Geneva, Switzerland — June 5, 2026 — TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), today announced the spot listing of TRX, the native utility token of the TRON network, on Bitnomial, a CFTC -regulated U.S.\n3. exchange and clearinghouse.",
+    "url": "https://news.bitcoin.com/trx-spot-listing-launches-on-bitnomial-supporting-regulated-u-s-access-to-tron/",
+    "author": "Media",
+    "created_at": "2026-06-05T17:00:54.000Z"
+  },
+  {
+    "id": "ba778a6c-4408-4409-89f6-8eeabc97cfde",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-05T16:55:50.000Z"
+  },
+  {
+    "id": "5027e6b8-f4dc-4ce9-947f-f8fa6fbfa82e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
+    "summary": "1. As cryptocurrency-related bills from regulating stablecoins to the market as a whole take center stage — now comes how to tax those assets.",
+    "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-05T16:55:40.000Z"
+  },
+  {
+    "id": "5c9154eb-5bca-4cf2-9015-e7f8fa87f5a2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
+    "summary": "1. The tokenization specialist behind BlackRock's BUIDL fund could begin trading on the NYSE as SEC approves merger registration.",
+    "url": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-05T16:46:28.000Z"
+  },
+  {
+    "id": "2ef488a5-cef9-472f-9b04-09be297c26d2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply",
+    "summary": "1. Shares of Cypherpunk Technologies plunged more than 40% following the disclosure of a critical bug that was recently patched in Zcash.",
+    "url": "https://www.theblock.co/post/403839/zcash-treasury-cypherpunk-remains-committed-accumulating-5-zec-supply?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-06-05T16:46:20.000Z"
+  },
+  {
+    "id": "34061133-e824-4123-a71b-e6a0da020785",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
+    "summary": "1. Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
+    "url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-06-05T16:44:44.000Z"
+  },
+  {
+    "id": "afc8c239-b504-4117-844c-5a8530714190",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Bitcoin Breaks 200-Week Moving Average for First Time Since 2022 as Jobs Report Reprices Fed Cuts",
+    "summary": "1. Bitcoin fell below its 200-week moving average dropping below $61,000 for the first time since the 2022 bear market, triggered by a blowout May payrolls report that repriced Fed rate-cut expectations and exposed a $1.2 billion options wall at $60,000.",
+    "url": "https://thedefiant.io/news/markets/bitcoin-200-week-moving-average-break-jobs-report-2026",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-05T16:42:20.000Z"
+  },
+  {
     "id": "43bb0513-fc14-4bbb-9c63-662c67be778e",
     "source": "TechCrunch",
     "type": "rss",
@@ -488,85 +668,5 @@
     "url": "https://t.me/SolidIntelX#819f2e88",
     "author": "@SolidIntelX",
     "created_at": "2026-06-05T12:38:20+00:00"
-  },
-  {
-    "id": "9db11565-c50e-4f4f-a654-25bca33692ad",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "U.S. employers added 172,000 jobs in May, topping the 85,000 forecastTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#bb0a1569",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-05T12:31:07+00:00"
-  },
-  {
-    "id": "012c56e5-c8a8-4f83-a221-69c9fbac39fc",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’",
-    "summary": "1. CME CEO Terry Duffy warned that U.S.-approved perpetual futures risk retail blowouts and excessive leverage exposure.",
-    "url": "https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-05T12:03:24.000Z"
-  },
-  {
-    "id": "9a98bdd9-f57d-4f96-9360-09ed81ee1676",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million",
-    "summary": "1. ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more than $116 million in 24-hour liquidations.",
-    "url": "https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-05T11:35:03.000Z"
-  },
-  {
-    "id": "311c9a97-13ff-40cd-93d3-b9204e8c3163",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
-    "summary": "1. Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
-    "url": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
-    "author": "Vismaya V",
-    "created_at": "2026-06-05T11:33:50.000Z"
-  },
-  {
-    "id": "9effed89-94ba-40fe-a09a-401097fe6e50",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Binance Research: Crypto Exchanges Could Funnel $5 Trillion of New Equity Capital Into Markets",
-    "summary": "1. Crypto exchanges could channel as much as $5 trillion in fresh equity capital into global markets over the next five years, according to Binance Research, which found nearly 93% of Binance’s stock-trading users come from emerging markets.\n2. Exchanges as the New Gateway to Stocks In much of the developing world, opening a conventional brokerage account […]",
-    "url": "https://news.bitcoin.com/binance-research-crypto-exchanges-equity-capital/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-05T11:30:04.000Z"
-  },
-  {
-    "id": "65dce21f-04ed-447c-997e-0d4c7345fdf0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Forward Industries moves $32M in SOL amid $1B paper loss",
-    "summary": "1. Forward Industries moved $31.9 million in SOL to Coinbase Prime as its Solana bet sits over 70% underwater, underscoring growing strain on corporate crypto treasuries.",
-    "url": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Christina Comben",
-    "created_at": "2026-06-05T10:59:50.000Z"
-  },
-  {
-    "id": "f64dd86a-9ba3-414c-8be6-89d1950686d3",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "South Korea police probe Polymarket users over illegal gambling claims: Report",
-    "summary": "1. South Korean police reportedly launched the country’s first illegal gambling probe into local Polymarket users amid election-betting scrutiny.",
-    "url": "https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-06-05T10:47:17.000Z"
-  },
-  {
-    "id": "b4297338-59f7-4d95-a4ed-843828746296",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’",
-    "summary": "1. An Orchard vulnerability that allowed undetectable counterfeiting of ZEC in its shielded pool has reignited debate over privacy coins.",
-    "url": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
-    "author": "Akash Girimath",
-    "created_at": "2026-06-05T10:41:59.000Z"
   }
 ]
