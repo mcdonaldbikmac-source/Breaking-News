@@ -1,5 +1,45 @@
 [
   {
+    "id": "87852766-5361-45c6-9377-9ceeccfa245d",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+    "summary": "1. IBM and two of its subsidiary companies were allegedly breached during the mid-2010s, which a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering up.",
+    "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-06-05T20:31:04.000Z"
+  },
+  {
+    "id": "7cbbe60d-a432-4bff-88dc-a13aa38d029d",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
+    "summary": "1. Fallout from a bug that enabled undetectable Zcash counterfeiting shows that privacy can sometimes present tradeoffs, experts say.",
+    "url": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
+    "author": "André Beganski",
+    "created_at": "2026-06-05T20:26:17.000Z"
+  },
+  {
+    "id": "2329f0ea-0bbd-4866-8ae7-d14831066836",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
+    "summary": "1. Strategy, Bitmine, and other major treasury firms have seen paper gains evaporate as crypto prices continue sliding.",
+    "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-05T20:24:27.000Z"
+  },
+  {
+    "id": "facb0dd2-6d7d-429f-a90c-0163d38c92f3",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
+    "summary": "1. Strategy shares tumbled alongside Bitcoin on Friday as the firm's flagship preferred stock also came under pressure.",
+    "url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
+    "author": "André Beganski",
+    "created_at": "2026-06-05T20:02:53.000Z"
+  },
+  {
     "id": "86cb97ea-3d8c-4fd9-950a-a51bb8bdf4ed",
     "source": "@WatcherGuru",
     "type": "telegram",
@@ -58,6 +98,16 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#e8aeced5",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-05T19:29:26+00:00"
+  },
+  {
+    "id": "bb442fee-3f5d-401c-95f4-6dce5df6d30f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? ",
+    "summary": "1. Bitcoin bears piled into short positions as BTC price slid to $60,000.\n2. Will the $2.6 billion in short leverage lead to an upside squeeze?",
+    "url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-06-05T19:28:53.000Z"
   },
   {
     "id": "59bb9629-2233-4ff6-98b8-bf823e2ef3f8",
@@ -340,6 +390,16 @@
     "created_at": "2026-06-05T16:42:20.000Z"
   },
   {
+    "id": "34eb39df-ede8-4025-bfa8-a0f220f936ff",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Major US Banks Including JPMorgan, Citi and BofA Plan Shared Tokenized Deposit Network",
+    "summary": "1. JPMorgan, Citi, Bank of America, Wells Fargo, and more than a dozen peers have announced a joint initiative to put commercial bank deposits onchain, operated by The Clearing House and targeting a first-half 2027 launch.",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/four-major-us-banks-and-the-clearing-house-plan-shared-tokenized-deposit-network",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-05T16:41:00.000Z"
+  },
+  {
     "id": "43bb0513-fc14-4bbb-9c63-662c67be778e",
     "source": "TechCrunch",
     "type": "rss",
@@ -618,85 +678,5 @@
     "url": "https://news.bitcoin.com/xrp-sell-off-hits-1-09-as-traders-face-fresh-downside-risk/",
     "author": "Kevin Helms",
     "created_at": "2026-06-05T14:39:56.000Z"
-  },
-  {
-    "id": "718c807a-3f3e-4789-b4eb-e44541a77270",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. With a great Jobs Report, like just announced, stocks should go up, not down.\n2. That’s the way it was for 200 years.\n3. Growth does not mean inflation!",
-    "url": "https://trumpstruth.org/statuses/39106",
-    "author": "Trump Truth",
-    "created_at": "2026-06-05T14:33:09.000Z"
-  },
-  {
-    "id": "4a6c4ac8-a937-4f30-b37b-58d7c3bd9281",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Tom Lee’s BitMine now faces a $10.16B unrealized loss on 5.42M $ETH as Ethereum trades near $1,600Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#e08146f1",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-05T14:33:05+00:00"
-  },
-  {
-    "id": "0b2b7e5a-c83b-45b5-bf71-c35b16ced9cd",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-    "summary": "1. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
-    "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-05T14:32:57.000Z"
-  },
-  {
-    "id": "9c1c5dc5-680c-4f54-98db-46a61924dda8",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "The Hyperinflation of 1971 at the Kindergarten",
-    "summary": "1. Bitcoin Magazine\n\nThe Hyperinflation of 1971 at the Kindergarten\nA kid’s lesson in hyperinflation and why Bitcoin cannot be debased like fiat.\n2. An excerpt from Bitcoin: The Honest Money.\n3. This post The Hyperinflation of 1971 at the Kindergarten first appeared on Bitcoin Magazine and is written by Alex v.",
-    "url": "https://bitcoinmagazine.com/bitcoin-books/the-hyperinflation-of-1971-at-the-kindergarten",
-    "author": "Alex v. Frankenberg",
-    "created_at": "2026-06-05T14:26:15.000Z"
-  },
-  {
-    "id": "71611017-cc67-4636-bc7d-eb40331c4788",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Tom Lee's 'Bitmine' $ETH investment is currently at a $10,000,000,000 unrealized loss.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c9f58d10",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-05T14:18:41+00:00"
-  },
-  {
-    "id": "e4e583f3-7e13-4129-895a-10c7000f6591",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$155,000,000 worth of crypto longs liquidated in the past 60 minutes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#37f98a84",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-05T14:10:37+00:00"
-  },
-  {
-    "id": "e08bfe7c-66dd-480c-a40d-56bc803089ec",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇭🇰 Hong Kong’s central bank formed an expert group with JPMorgan, HSBC, UBS and others to support the development of tokenized bonds.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#9a192814",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T14:09:14+00:00"
-  },
-  {
-    "id": "114a50f0-3666-40e4-ac61-9b1d6da97648",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock Ends Bitcoin ETF Selloff as IBIT Pulls in $48M After 13 Red Days",
-    "summary": "1. Crypto ETF flows turned more constructive on Thursday, June 4, as bitcoin and ether funds snapped long outflow streaks with fresh inflows.\n2. HYPE ETFs extended their own winning run, while XRP returned to positive territory, and solana saw only a minor exit.\n3. HYPE ETFs Extend Winning Streak to 16 Days With $12M in Fresh Inflows […]",
-    "url": "https://news.bitcoin.com/blackrock-ends-bitcoin-etf-selloff-as-ibit-pulls-in-48m-after-13-red-days/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-05T14:07:20.000Z"
   }
 ]
