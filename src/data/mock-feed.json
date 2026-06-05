@@ -20,6 +20,16 @@
     "created_at": "2026-06-05T21:47:56.000Z"
   },
   {
+    "id": "5fd070f1-ee01-4f52-8a1a-d2be4fa7adf0",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Pump.fun Launches GO Bounty Platform, Immediately Draws Backlash Over Extreme Listings",
+    "summary": "1. Pump.fun launched GO, an escrow-based bounty marketplace letting anyone post and complete tasks for SOL rewards, within hours a user posted a 690000 dollar suicide-linked listing the platform has yet to address.",
+    "url": "https://thedefiant.io/news/nfts-and-web3/pump-fun-launches-go-bounty-platform-backlash-extreme-listings",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-05T21:38:27.000Z"
+  },
+  {
     "id": "bd1bf7d0-7b8a-4b42-9d16-9de719c56f04",
     "source": "Politico",
     "type": "rss",
@@ -528,35 +538,5 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/four-major-us-banks-and-the-clearing-house-plan-shared-tokenized-deposit-network",
     "author": "The Defiant Team",
     "created_at": "2026-06-05T16:41:00.000Z"
-  },
-  {
-    "id": "43bb0513-fc14-4bbb-9c63-662c67be778e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Supabase doubles valuation to $10B in 8 months",
-    "summary": "1. Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
-    "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
-    "author": "Julie Bort",
-    "created_at": "2026-06-05T16:32:27.000Z"
-  },
-  {
-    "id": "a73c3146-718f-4706-8cfb-780c59463bfa",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase CEO Brian Armstrong: US-China Competition Is ‘the Best Thing to Happen to America Since the Cold War’",
-    "summary": "1. Coinbase CEO Brian Armstrong believes competition with China “might be the best thing to happen to America since the cold war,” arguing the rivalry will jolt a complacent U.S.\n2. back into excellence.\n3. A Bullish Take on Great-Power Rivalry Brian Armstrong, chief executive of the largest U.S.",
-    "url": "https://news.bitcoin.com/brian-armstrong-us-china-competition-crypto/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-05T16:30:57.000Z"
-  },
-  {
-    "id": "9e268063-c611-4b2d-8192-250d85a69191",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
-    "summary": "1. Securitize's SPAC merger is expected to close shortly after a CEPT shareholder vote, if approved, later this month.",
-    "url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-05T16:30:52.000Z"
   }
 ]
