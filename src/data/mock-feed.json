@@ -1,5 +1,125 @@
 [
   {
+    "id": "eccbd093-aae5-4c53-880e-3653899cf12e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘Unacceptable’: Argentina’s Probe Into Libra Token Frozen Over Lack of Tech Tools",
+    "summary": "1. At the request of Eduardo Taiano, the public prosecutor in charge of the case, the Specialized Cybercrime Prosecutor’s Office (UFECI) stressed that it lacked the tools necessary to complete a forensic on-chain probe focusing on relevant wallets active at the time of Libra’s launch.\n2. Probe On Libra Token Stalls On Lack Of Resources The ongoing […]",
+    "url": "https://news.bitcoin.com/unacceptable-argentinas-probe-into-libra-token-frozen-over-lack-of-tech-tools/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-06T03:30:35.000Z"
+  },
+  {
+    "id": "eaabcc4a-6410-405f-afe7-2b222c941dd4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
+    "summary": "1. Santiment data show active addresses at a four-month high and social dominance near a 2026 peak after Charles Hoskinson warned of a \"wave of failures\" in the ecosystem.",
+    "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-06T03:30:00.000Z"
+  },
+  {
+    "id": "3b745d5c-d24b-4ae2-a925-99bdb4789448",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Chilean authorities uncover $90M crypto laundering ring with bank insider",
+    "summary": "Prosecutors and police in Chile's southern metropolitan region have uncovered a cryptocurrency money laundering operation worth approximately $90 million, arresting around 20 individuals, Criptonoticias reported. The group is accused of converting illicit funds into cryptocurrency through exchanges and then transferring the money overseas. An account manager at Banco Santander is also reported to be involved in the scheme. Prosecutors described the case as one of the largest money laundering incidents in Chile in recent times.",
+    "url": "https://t.me/CoinnessGL#f3507bb1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-06T03:04:18+00:00"
+  },
+  {
+    "id": "87864f39-d0b3-4896-b306-ad7c15e88e61",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bhutan government moves 738 BTC worth $45M to new wallet",
+    "summary": "The Bhutanese government transferred a total of 738 BTC, worth approximately $45 million, to a newly created external wallet over about an hour, according to on-chain analytics firm Arkham. The government is known to have gradually sold 9,180 BTC over the past 11 months at an average selling price of around $98,067.",
+    "url": "https://t.me/CoinnessGL#caa6b006",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-06T02:51:34+00:00"
+  },
+  {
+    "id": "e73f8946-e884-4eff-b073-1cde7d407fc1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Hundreds of Millions in Bitcoin at Center of Violent Kidnapping Plot",
+    "summary": "1. A kidnapping and Lamborghini carjacking tied to a theft of hundreds of millions of dollars in bitcoin are now central to a federal criminal case, highlighting the real-world dangers that can emerge from high-stakes cryptocurrency disputes.\n2. A Bitcoin Theft Became the Focus of a Violent Federal Case The U.S.\n3. Department of Justice (DOJ) said this […]",
+    "url": "https://news.bitcoin.com/hundreds-of-millions-in-bitcoin-at-center-of-violent-kidnapping-plot/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-06T02:30:53.000Z"
+  },
+  {
+    "id": "cc0d9df3-39cf-41bd-8b1b-722479a5ba8d",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Sen. Brian Schatz offers first show of support for scandal-ridden Graham Platner",
+    "summary": "1. He hasn’t formally endorsed yet, but he is scheduled to appear at a virtual donor event Sunday.",
+    "url": "https://www.politico.com/news/2026/06/05/brian-schatz-graham-platner-maine-donors-00952600",
+    "author": "By Lisa Kashinsky",
+    "created_at": "2026-06-06T02:24:39.000Z"
+  },
+  {
+    "id": "684733f1-9688-47d1-aa93-459cdd6e4533",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Illinois passes 0.2% crypto transaction tax, awaits governor's signature",
+    "summary": "The U.S. state of Illinois has passed a budget for its 2027 fiscal year that includes a 0.2% privilege tax on cryptocurrency transactions, Cointelegraph reported. The tax is to be collected and remitted by registered digital asset brokers on a transactional basis. Under the new rules, which would take effect on Jan. 1, 2027, unregistered brokers could face up to five years in prison and fines. The provision, included in an amendment to the Digital Asset Privilege Tax Act, now awaits the signature of Governor J. B. Pritzker to become law. The media outlet added that the measure is projected to generate approximately $60 million in additional annual tax revenue for Illinois but has drawn strong opposition from the industry, which claims it was advanced without prior consultation.",
+    "url": "https://t.me/CoinnessGL#7aa10631",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-06T02:14:52+00:00"
+  },
+  {
+    "id": "4b6363e4-51a1-4c0f-9bed-437aa8b49f19",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.167",
+    "summary": "1. ## What's changed\n\n- Bug fixes and reliability improvements",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.167",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-06T01:33:35Z"
+  },
+  {
+    "id": "ea8177c4-8195-4c5d-9744-0996ab280356",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CLARITY Act Push Gains Momentum as Lawmakers Race to Lock in US Crypto Rules",
+    "summary": "1. The CLARITY Act push is gaining momentum as lawmakers seek federal rules for digital asset markets.\n2. The proposal has attracted support from congressional leaders, industry organizations, consumer-focused groups, national security veterans, and President Donald Trump.\n3. CLARITY Act Push Gains Momentum as Lawmakers Warn of Global Stakes Momentum behind the Digital Asset Market Clarity Act (CLARITY […]",
+    "url": "https://news.bitcoin.com/clarity-act-push-gains-momentum-as-lawmakers-race-to-lock-in-us-crypto-rules/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-06T01:30:08.000Z"
+  },
+  {
+    "id": "038bba61-5323-404e-af51-50991c667ea0",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I am pleased to announce the nomination of Judge James Crowell to the District of Columbia Court of Appeals!\n2. James is one of the best Judges on the D.C.\n3. Superior Court, and previously served as a Senior DOJ Official, and Chief of the Criminal Division in the Maryland U.S.",
+    "url": "https://trumpstruth.org/statuses/39125",
+    "author": "Trump Truth",
+    "created_at": "2026-06-06T01:17:02.000Z"
+  },
+  {
+    "id": "d40fa5ea-7460-4d20-ad1e-8a4ffd3d0d6b",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I am pleased to announce the nomination of Stuart Nash to the District of Columbia Court of Appeals!\n2. Stuart is currently a Partner at Holland & Knight LLP, and previously served as a Judge on the D.C.\n3. Superior Court.",
+    "url": "https://trumpstruth.org/statuses/39124",
+    "author": "Trump Truth",
+    "created_at": "2026-06-06T01:03:38.000Z"
+  },
+  {
+    "id": "ccabb072-f9d4-4d33-bd40-56c87c4f07ca",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.166",
+    "summary": "1. ## What's changed\n\n- Added `fallbackModel` setting to configure up to three fallback models tried in order when the primary model is overloaded or unavailable; `--fallback-model` now also applies to interactive sessions\n- Added glob pattern support in deny rule tool-name position (`\"*\"` denies all tools); allow rules reject non-MCP globs, and unknown tool names in deny rules warn at startup\n- Hardened cross-session messaging: messages relayed via `SendMessage` from other Claude sessions no longer carry user authority — receivers refuse relayed permission requests, and auto mode blocks them\n- `MAX_THINKING_TOKENS=0`, `--thinking disabled`, and the per-model thinking toggle now disable thinking on models that think by default via the Claude API (3P providers unchanged)\n- Claude Code now retries a turn once on the fallback model when the API rejects an unexpected non-retryable error; auth, rate-limit, request-size, and transport errors still surface immediately\n- `claude update` now announces the target version before downloading instead of going silent\n- `claude agents`: typing a URL into the list now filters to the session whose first prompt contained it\n- Fixed a recurring \"image could not be processed\" error and extra token usage when an unprocessable image was sent in a session\n- Fixed remote sessions becoming permanently stuck when a brief backend disruption occurred during worker registration at startup\n- Fixed flickering in JetBrains IDE terminals (IntelliJ, PyCharm, WebStorm, etc.) on 2026.1+ by enabling synchronized output\n- Fixed Shift+non-ASCII characters (e.g.\n2. Shift+ä → Ä) being dropped in terminals using the Kitty keyboard protocol (WezTerm, Ghostty, kitty)\n- Fixed PowerShell command validation occasionally hanging far past its time budget on Windows when a killed process's children held its output pipes\n- Fixed orphaned `claude --bg-pty-host` processes spinning at 100% CPU after the daemon dies while connected on macOS\n- Fixed voice mode requiring `/login` to clear a stale auth check after toggling `/voice`\n- Fixed managed settings with an invalid entry silently disabling enforcement of their remaining valid policies\n- Fixed managed-settings `allowedMcpServers`/`deniedMcpServers` predicates not matching when they use `${VAR}` references\n- Fixed background agent sessions that entered a git worktree crash-looping with \"No conversation found\" when reopened from `claude agents`\n- Fixed duplicated thinking text in the Ctrl+O transcript view while streaming\n- Fixed `/doctor` showing a contradictory failed \"Not inside a remote session\" check when run inside a remote session\n- Fixed the cursor sticking at the end of the first line when typing a multiline prompt in the `claude agents` dispatch and reply inputs\n- Fixed blank lines appearing between background agent rows in the task list on terminals without Unicode support",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.166",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-06T00:55:18Z"
+  },
+  {
     "id": "344dadb7-bb88-4748-bdf6-b6786ea930f3",
     "source": "Trump Truth",
     "type": "rss",
@@ -40,6 +160,16 @@
     "created_at": "2026-06-05T23:05:01.000Z"
   },
   {
+    "id": "f9146cbd-c97e-47cc-9f67-f8751d13358b",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Coinbase CEO Brian Armstrong says \"Bitcoin is going to do great…one of many cycles we've all been through.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#1e5fc80d",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-05T22:44:12+00:00"
+  },
+  {
     "id": "b138913f-d04f-4775-974d-b43072bca5f6",
     "source": "TechCrunch",
     "type": "rss",
@@ -68,325 +198,5 @@
     "url": "https://news.bitcoin.com/why-is-bitcoin-crashing-worst-week-of-2026-59100-low-and-more-than-half-of-all-btc-now-in-the-red/",
     "author": "Jamie Redman",
     "created_at": "2026-06-05T22:05:57.000Z"
-  },
-  {
-    "id": "43b66a74-7ba1-4a67-8f01-7904691ecf9c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Founders share VC horror stories, and some are naming names",
-    "summary": "1. A massive viral conversation sharing VC horror stories has taken place this week on X.\n2. Some are weird.\n3. Some are infuriating.",
-    "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
-    "author": "Julie Bort",
-    "created_at": "2026-06-05T21:47:56.000Z"
-  },
-  {
-    "id": "5fd070f1-ee01-4f52-8a1a-d2be4fa7adf0",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Pump.fun Launches GO Bounty Platform, Immediately Draws Backlash Over Extreme Listings",
-    "summary": "1. Pump.fun launched GO, an escrow-based bounty marketplace letting anyone post and complete tasks for SOL rewards, within hours a user posted a 690000 dollar suicide-linked listing the platform has yet to address.",
-    "url": "https://thedefiant.io/news/nfts-and-web3/pump-fun-launches-go-bounty-platform-backlash-extreme-listings",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-05T21:38:27.000Z"
-  },
-  {
-    "id": "bd1bf7d0-7b8a-4b42-9d16-9de719c56f04",
-    "source": "Politico",
-    "type": "rss",
-    "title": "‘This just isn’t good’: Democrats hold their breath on Platner",
-    "summary": "1. Some are praying that a significant protest vote emerges in Tuesday’s Democratic primary for Maine Senate seat.",
-    "url": "https://www.politico.com/news/2026/06/05/platner-democrats-maine-tuesday-primary-00952432",
-    "author": "By Andrew Howard, Jessica Piper, William Steakin and Lisa Kashinsky",
-    "created_at": "2026-06-05T21:30:00.000Z"
-  },
-  {
-    "id": "d7e5624a-9753-4e7b-aaf5-bb85f1ece87f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ The SEC has approved Securitize’s registration statement, setting it up for a shareholder vote on its SPAC merger with Cantor Equity Partners II and planned public listing.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3dfd349e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T21:19:36+00:00"
-  },
-  {
-    "id": "ee2c4cf0-663e-4d7c-ac31-8279e62f9be3",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Former President Joe Biden's son, Hunter Biden, says \"fiat is a sham, the banking class is corrupt.\"\"Decentralized digital currency and the blockchain are the inevitable future.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#915bcf7c",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-05T21:11:47+00:00"
-  },
-  {
-    "id": "745d5b2c-53db-455a-8652-1938d6c33d5c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ethereum Drags Altcoins Below $880B as 22% Weekly Slide Shakes Trader Confidence",
-    "summary": "1. A broad crypto sell-off on Friday dragged the total altcoin market capitalization down to $880 billion.\n2. Zcash was the hardest-hit major token, crashing over 40% to $264.80.\n3. Market Bloodbath Drags Altcoin Cap Below $1 Trillion The mayhem that characterized the cryptocurrency market on Friday saw several high-cap altcoins log double-digit losses, resulting in the aggregate […]",
-    "url": "https://news.bitcoin.com/ethereum-drags-altcoins-below-880b-as-22-weekly-slide-shakes-trader-confidence/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-05T21:05:47.000Z"
-  },
-  {
-    "id": "c3aad2f2-7641-40f8-bc7e-ee4698ada2fb",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Knicks fever hits the pols",
-    "summary": "1. Knicks fever hits the pols",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/05/knicks-fever-politicians-new-york-mamdani-hochul-fans-00952311",
-    "author": "By Jason Beeferman",
-    "created_at": "2026-06-05T21:01:29.000Z"
-  },
-  {
-    "id": "4bb5ef4d-c4ec-44ea-9d89-c2b306c27caa",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Amir Haleem Steps Down as CEO of Nova Labs as HNT Falls 99% From Peak",
-    "summary": "1. The Helium co-founder moves to chairman as Mario Di Dio takes the top job, days after Nova Labs sold its consumer mobile carrier to Andrew Yang's Noble Mobile.",
-    "url": "https://thedefiant.io/news/people/amir-haleem-steps-down-nova-labs-ceo-hnt-99-percent",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-05T21:00:00.000Z"
-  },
-  {
-    "id": "8b2722e6-1c66-4116-9c9c-ba6459940762",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Chainlink CCIP Draws $1.1 Billion in Value in One Week as Virtuals Join Migration Wave",
-    "summary": "1. Chainlink's CCIP drew over $1.1 billion in token value this week as Virtuals Protocol, Pleasing Market, and Zest Protocol joined a migration wave that has now moved nearly $5 billion in total value away from LayerZero since April's Kelp DAO exploit.",
-    "url": "https://thedefiant.io/news/defi/chainlink-ccip-draws-usd1-1-billion-in-value-in-one-week-as-virtuals-join-migration-wave",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-05T21:00:00.000Z"
-  },
-  {
-    "id": "5f291ed8-7994-4917-a5ea-c71f31368f66",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Travala lets AI agents book hotels with USDC on Base",
-    "summary": "1. Travala’s new protocol lets AI agents search and book hotels with USDC on Base, but travelers still approve the final payment.",
-    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Bryan O'Shea",
-    "created_at": "2026-06-05T20:55:27.000Z"
-  },
-  {
-    "id": "8172f158-fb7f-4d6e-a6d7-b805e473e662",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 The House Ways and Means Committee is circulating seven crypto tax bill drafts ahead of a June 9 hearing, covering de minimis transactions, stablecoins, and mining and staking proceeds.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3619b653",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T20:44:46+00:00"
-  },
-  {
-    "id": "967de852-258f-49f7-a729-6879d443f564",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
-    "summary": "1. Among the issues US lawmakers are expected to discuss in a digital asset taxation hearing are “de minimis” reporting exceptions for crypto transactions.",
-    "url": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-05T20:41:38.000Z"
-  },
-  {
-    "id": "87852766-5361-45c6-9377-9ceeccfa245d",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-    "summary": "1. IBM and two of its subsidiary companies were allegedly breached during the mid-2010s, which a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering up.",
-    "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-06-05T20:31:04.000Z"
-  },
-  {
-    "id": "7cbbe60d-a432-4bff-88dc-a13aa38d029d",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
-    "summary": "1. Fallout from a bug that enabled undetectable Zcash counterfeiting shows that privacy can sometimes present tradeoffs, experts say.",
-    "url": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
-    "author": "André Beganski",
-    "created_at": "2026-06-05T20:26:17.000Z"
-  },
-  {
-    "id": "2329f0ea-0bbd-4866-8ae7-d14831066836",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
-    "summary": "1. Strategy, Bitmine, and other major treasury firms have seen paper gains evaporate as crypto prices continue sliding.",
-    "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-05T20:24:27.000Z"
-  },
-  {
-    "id": "5401ae04-0634-4e6f-8449-aa2275f6c382",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC rises above $61,000",
-    "summary": "According to CoinNess market monitoring, BTC has risen above $61,000. BTC is trading at $61,011.66 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#e3b2fd81",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T20:15:48+00:00"
-  },
-  {
-    "id": "eb07e125-2120-41f9-82c8-5d804af1920e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC risen 1.55% in the past 5 minutes",
-    "summary": "BTC has risen by 1.55% in the past five minutes on the Binance USDT market. Currently, BTC is trading at $60,958.",
-    "url": "https://t.me/CoinnessGL#e15b96a8",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T20:09:48+00:00"
-  },
-  {
-    "id": "a0be7e0f-4e3d-4403-8fa5-972f5a85a34f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇻🇳 Spacecoin has signed a 3-year exclusive MOU with Vietnam's DETI Technology to deploy connectivity across the country.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#609258e8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T20:09:31+00:00"
-  },
-  {
-    "id": "facb0dd2-6d7d-429f-a90c-0163d38c92f3",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
-    "summary": "1. Strategy shares tumbled alongside Bitcoin on Friday as the firm's flagship preferred stock also came under pressure.",
-    "url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
-    "author": "André Beganski",
-    "created_at": "2026-06-05T20:02:53.000Z"
-  },
-  {
-    "id": "afc48cd3-1503-46fe-ac70-be6c8c3f886b",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 $1.75 trillion wiped out from the US stock market today.$130,000,000,000 wiped out from the crypto market cap.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1f5becb3",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-05T20:00:13+00:00"
-  },
-  {
-    "id": "ad58ce23-6eb8-4fd1-844f-d4f7d96768ac",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "summary": "1. Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m.\n2. Now’s not the time to wait any longer.\n3. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "author": "TechCrunch Events",
-    "created_at": "2026-06-05T20:00:00.000Z"
-  },
-  {
-    "id": "4096e901-1e16-4922-8b8c-fce0fbe3b816",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk's SpaceX signs $920,000,000 per month deal with Google to provide AI computing power.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#85acc871",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-05T19:38:29+00:00"
-  },
-  {
-    "id": "c073bf20-b9fe-4062-9477-f0702e6db4e9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Chile Busts $88 Million Crypto Laundering Ring Tied to the Sanctioned Tren de Aragua Cartel",
-    "summary": "1. An investigation that has been active since 2024 identified an 18-man money-laundering group that used several bank accounts, irregular companies, and cryptocurrency remittances to launder funds from the illegal activities of the Venezuelan Tren de Aragua group.\n2. Chile Shuts Down $88 Million Crypto Money Laundering Group Linked To Tren de Aragua A two-year investigation has […]",
-    "url": "https://news.bitcoin.com/chile-busts-88-million-crypto-laundering-ring-tied-to-the-sanctioned-tren-de-aragua-cartel/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-05T19:35:27.000Z"
-  },
-  {
-    "id": "816b30fc-97e0-4cca-b537-e494945d79ba",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ CME Group CEO Terry Duffy says newly approved crypto perpetual futures could be a \"disaster waiting to happen.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#aa0c3e5a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T19:29:28+00:00"
-  },
-  {
-    "id": "913a7eb9-3a5e-4baf-919c-c13da33f6b7b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 House Republicans are eyeing a summer vote to restrict lawmakers from trading prediction market contracts tied to elections or public policy.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e8aeced5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-05T19:29:26+00:00"
-  },
-  {
-    "id": "bb442fee-3f5d-401c-95f4-6dce5df6d30f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? ",
-    "summary": "1. Bitcoin bears piled into short positions as BTC price slid to $60,000.\n2. Will the $2.6 billion in short leverage lead to an upside squeeze?",
-    "url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-06-05T19:28:53.000Z"
-  },
-  {
-    "id": "59bb9629-2233-4ff6-98b8-bf823e2ef3f8",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
-    "summary": "1. Mati Greenspan, Michael Saylor and Jameson Lopp blamed the AI boom for draining capital from bitcoin.\n2. Meanwhile, Jack Mallers refrained from sharing an outlook but recommended buying the dip.",
-    "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-05T19:27:20.000Z"
-  },
-  {
-    "id": "7c675713-a39b-4725-8bd0-516d8563b325",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
-    "summary": "1. The company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
-    "url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-05T19:18:56.000Z"
-  },
-  {
-    "id": "176e5fb9-f60a-463a-bf50-85020aef58f6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "$135 million worth of futures liquidated in the past hour",
-    "summary": "Major exchanges have seen $135 million worth of futures liquidated in the past hour. In the past 24 hours, $1,682 million worth of futures have been liquidated.",
-    "url": "https://t.me/CoinnessGL#b33d32b0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T18:58:08+00:00"
-  },
-  {
-    "id": "e1108886-8861-423b-a672-b20251f0d680",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "summary": "1. The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
-    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-06-05T18:57:20.000Z"
-  },
-  {
-    "id": "48000ae3-204e-403e-b458-d1fad19b308d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bearish bets on Strategy surge, with net puts tripling calls",
-    "summary": "Hedge funds and short sellers are aggressively betting against Strategy (MSTR), targeting not only its stock but also its fixed-rate preferred stock bonds (STRC) with a barrage of put options, CNBC reported.The move follows a recent policy shift by the company, which had long vowed never to sell its Bitcoin holdings but has recently sold some of its BTC while pursuing an aggressive strategy of bond issuance and repurchases.On June 5, the trading volume of MSTR put options in the U.S. options market was more than double that of call options, with the volume of net purchased puts reaching three times that of calls. This level of activity is nearly three times the average daily trading volume over the past month.Of the $335 million in total option premiums traded that day, $250 million was concentrated in put options, which are bets on a price decline.",
-    "url": "https://t.me/CoinnessGL#72740dfd",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T18:40:53+00:00"
-  },
-  {
-    "id": "7cef1bf4-1583-4f0e-b3bd-1bb7277532d7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $60,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $60,000. BTC is trading at $59,987.5 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#5b16fb87",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-05T18:37:58+00:00"
   }
 ]
