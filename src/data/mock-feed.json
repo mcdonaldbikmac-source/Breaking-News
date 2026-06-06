@@ -1,5 +1,55 @@
 [
   {
+    "id": "88638d95-3503-4182-abc2-0e7f6eac63a7",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Rosneft CEO Igor Sechin says US energy companies are the main beneficiaries of the Strait of Hormuz closure.",
+    "summary": "Adds that Washington is trying to reshape global energy markets to suit US interests: REUTERS$CLTwitter",
+    "url": "https://t.me/SolidIntelX#bd924d3b",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-06T10:11:20+00:00"
+  },
+  {
+    "id": "c03919cb-6610-4174-9673-5168ff5e3fe5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": " Are retail traders selling their bitcoin to buy the SpaceX IPO?",
+    "summary": "1. Exchange flows and stablecoin movements through this week's sell-off show no wall of money leaving crypto for cash.\n2. Exchanges such as Robinhood and Coinbase will not publicly reporting their figures until July.",
+    "url": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-06T09:45:15.000Z"
+  },
+  {
+    "id": "f6453f0f-358a-4799-a140-891caa919835",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
+    "summary": "1. Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too.",
+    "url": "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-06T09:38:00.000Z"
+  },
+  {
+    "id": "ab8fa69f-41b6-414b-b23e-5df33fbf0474",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Etherfi and Plume Launch $100M RWA Vault Backed by Blackrock and Fidelity",
+    "summary": "1. Etherfi and Plume have launched a real-world asset vault to provide eligible users with access to institutional-grade yield via regulated infrastructure.\n2. The product begins with a $25 million cap and is part of a broader $100 million deployment into Plume’s RWA platform.\n3. Plume Powers New Etherfi Vault Connecting DeFi Users to Institutional Yield Etherfi and […]",
+    "url": "https://news.bitcoin.com/etherfi-and-plume-launch-100m-rwa-vault-backed-by-blackrock-and-fidelity/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-06T09:30:57.000Z"
+  },
+  {
+    "id": "ebdcb0ba-73ae-4a84-b0a6-17f65b12ec0d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale borrows $128M to buy 78K ETH at 3x leverage",
+    "summary": "According to on-chain analyst EmberCN, a whale investor borrowed $128 million over the past day to purchase 78,060 ETH at an average price of $1,645. Even as ETH fell to $1,505 today, the investor added another 28 million USDT to the position. The position is now at approximately three times leverage, with liquidation prices for the two loans at $1,356 and $1,280. EmberCN noted that the whale has continued to increase its ETH purchases amid growing market fear.",
+    "url": "https://t.me/CoinnessGL#f558f35e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-06T08:46:08+00:00"
+  },
+  {
     "id": "90bd9da2-c390-4c73-983b-c1faaaf4dfa6",
     "source": "CoinDesk",
     "type": "rss",
@@ -10,7 +60,17 @@
     "created_at": "2026-06-06T08:25:36.000Z"
   },
   {
-    "id": "1207c3ba-18c9-4c19-a86e-105710eb6717",
+    "id": "b23cdaab-b385-4b61-ae16-d5b77b09c536",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Strategy CEO Phong Le admits he initially wanted to put only 5-10% of the company's balance sheet into Bitcoin while Saylor pushed to “go all in,” conceding \"I was wrong\" and \"Mike was right.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#045d0781",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-06T08:24:38+00:00"
+  },
+  {
+    "id": "a3d52023-e86e-4a4a-b273-dfd0ce36b9ed",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Coinbase BTC premium negative for 19th straight day",
@@ -30,7 +90,7 @@
     "created_at": "2026-06-06T07:30:37.000Z"
   },
   {
-    "id": "1cbdcb0c-ed6c-47c4-87b6-04ee6ac5bdd7",
+    "id": "0f5e6097-fdac-401f-9155-b4b81424dfa3",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "BIT-linked whale faces over $84M in unrealized losses on ETH long",
@@ -68,45 +128,5 @@
     "url": "https://news.bitcoin.com/spectra-rolls-4-88m-into-new-xrp-yield-market-as-flare-keeps-liquidity-intact/",
     "author": "Terence Zimwara",
     "created_at": "2026-06-06T05:30:30.000Z"
-  },
-  {
-    "id": "eccbd093-aae5-4c53-880e-3653899cf12e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘Unacceptable’: Argentina’s Probe Into Libra Token Frozen Over Lack of Tech Tools",
-    "summary": "1. At the request of Eduardo Taiano, the public prosecutor in charge of the case, the Specialized Cybercrime Prosecutor’s Office (UFECI) stressed that it lacked the tools necessary to complete a forensic on-chain probe focusing on relevant wallets active at the time of Libra’s launch.\n2. Probe On Libra Token Stalls On Lack Of Resources The ongoing […]",
-    "url": "https://news.bitcoin.com/unacceptable-argentinas-probe-into-libra-token-frozen-over-lack-of-tech-tools/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-06T03:30:35.000Z"
-  },
-  {
-    "id": "eaabcc4a-6410-405f-afe7-2b222c941dd4",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
-    "summary": "1. Santiment data show active addresses at a four-month high and social dominance near a 2026 peak after Charles Hoskinson warned of a \"wave of failures\" in the ecosystem.",
-    "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-06T03:30:00.000Z"
-  },
-  {
-    "id": "258adfc4-631c-4237-b602-08c0c6ef90a8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Chilean authorities uncover $90M crypto laundering ring with bank insider",
-    "summary": "Prosecutors and police in Chile's southern metropolitan region have uncovered a cryptocurrency money laundering operation worth approximately $90 million, arresting around 20 individuals, Criptonoticias reported. The group is accused of converting illicit funds into cryptocurrency through exchanges and then transferring the money overseas. An account manager at Banco Santander is also reported to be involved in the scheme. Prosecutors described the case as one of the largest money laundering incidents in Chile in recent times.",
-    "url": "https://t.me/CoinnessGL#f3507bb1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-06T03:04:18+00:00"
-  },
-  {
-    "id": "8cd522f2-4e70-4115-869f-48ea95aed996",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bhutan government moves 738 BTC worth $45M to new wallet",
-    "summary": "The Bhutanese government transferred a total of 738 BTC, worth approximately $45 million, to a newly created external wallet over about an hour, according to on-chain analytics firm Arkham. The government is known to have gradually sold 9,180 BTC over the past 11 months at an average selling price of around $98,067.",
-    "url": "https://t.me/CoinnessGL#caa6b006",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-06T02:51:34+00:00"
   }
 ]
