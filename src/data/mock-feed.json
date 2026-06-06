@@ -1,5 +1,25 @@
 [
   {
+    "id": "9aa8bf86-b000-4b26-b83a-81668954c910",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+    "summary": "1. A week that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years.",
+    "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-06T19:58:54.000Z"
+  },
+  {
+    "id": "84418002-bb68-4399-8517-ba9bb4e414db",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
+    "summary": "1. Roughly 800,000 HYPE will return to the company's treasury for redeployment to \"more profitable\" strategies, per a Friday filing.",
+    "url": "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-06T19:40:36.000Z"
+  },
+  {
     "id": "10293157-7546-406e-a3eb-97b2ef67ecbb",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -258,45 +278,5 @@
     "url": "https://t.me/CoinnessGL#3ff279fc",
     "author": "@CoinnessGL",
     "created_at": "2026-06-06T14:25:28+00:00"
-  },
-  {
-    "id": "47e4e01c-0112-4422-b7b4-a357dc6e887f",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Nancy Mace knows her Epstein vote screwed her with Trump. She doesn’t care.",
-    "summary": "1. In her run for South Carolina governor she’s battling several controversies and headwinds — including the president endorsing her opponent.",
-    "url": "https://www.politico.com/news/2026/06/06/nancy-mace-primary-epstein-vote-trump-00952227",
-    "author": "By Alec Hernandez",
-    "created_at": "2026-06-06T14:00:00.000Z"
-  },
-  {
-    "id": "982d5f79-2582-462a-a455-d5f1973a8692",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Anonymous whale borrows $142M to buy ETH",
-    "summary": "An anonymous whale borrowed 142 million USDT from Aave over the past 30 hours and subsequently purchased 87,680 ETH, according to Lookonchain. The whale's health factor, an indicator of collateral soundness, has dropped to 1.16. The position is estimated to be at risk of liquidation if the price of ETH falls to $1,354.51.",
-    "url": "https://t.me/CoinnessGL#59f5e8c8",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-06T13:57:31+00:00"
-  },
-  {
-    "id": "72dbe216-fc2d-4fe6-adb0-a7e3cbda7d1d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Hype-Driven Rallies Unwind: NEAR and WLD Round-Trip as Zcash Rebounds 18% From Its 50% Drop",
-    "summary": "1. Two of the crypto market’s hottest recent rallies have fully unwound, with Near Protocol’s NEAR and the Worldcoin token WLD round-tripping to their pre-rally levels, even as Zcash’s ZEC rebounded roughly 18% in 24 hours following a near-50% crash.\n2. Zcash Whipsaws On an Orchard Pool Flaw The sharpest swing belonged to zcash given ZEC had […]",
-    "url": "https://news.bitcoin.com/zec-near-wld-round-trip-zcash-rebounds-18/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-06T13:50:51.000Z"
-  },
-  {
-    "id": "e7960866-4285-402a-898d-2edb57923f11",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Longling Capital deposits $15.7M in ETH to Binance",
-    "summary": "Chinese investment firm Longling Capital deposited 10,000 ETH, worth $15.68 million, to Binance approximately 10 minutes ago, AmberCN reported. Deposits to exchanges are often interpreted as a potential precursor to selling.",
-    "url": "https://t.me/CoinnessGL#7acf9d31",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-06T13:43:21+00:00"
   }
 ]
