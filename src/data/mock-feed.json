@@ -40,7 +40,7 @@
     "created_at": "2026-06-06T15:10:44.000Z"
   },
   {
-    "id": "4dd8d51d-874e-4439-911a-2b61b52cc35a",
+    "id": "6d382878-14e3-4314-8a41-bf4a070f9dc9",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "CoinNess Live Feed operating hours",
@@ -90,7 +90,7 @@
     "created_at": "2026-06-06T14:26:03.000Z"
   },
   {
-    "id": "95eb9869-a71d-4272-b174-cefeb9740ada",
+    "id": "395951d2-5e34-4215-8622-55e97a4af611",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "DRW builds dedicated trading desk for prediction markets",
@@ -110,7 +110,7 @@
     "created_at": "2026-06-06T14:00:00.000Z"
   },
   {
-    "id": "001e8082-982d-4741-98b7-839825261ae4",
+    "id": "00e5397b-33ab-40e0-aa04-1c79a6f45c51",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Anonymous whale borrows $142M to buy ETH",
@@ -160,6 +160,16 @@
     "created_at": "2026-06-06T13:30:00.000Z"
   },
   {
+    "id": "0d92251b-39b9-4b05-9635-98a296cac96f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⛏️ American Bitcoin is mining BTC at ~$40,000 a coin with 50%+ margins over the last two quarters as other miners leave and network difficulty drops, per parent company Hut 8's CEO.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2439c146",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-06T13:04:26+00:00"
+  },
+  {
     "id": "2e0b747a-98c4-4caa-a087-fa3d648686bf",
     "source": "CoinDesk",
     "type": "rss",
@@ -180,7 +190,7 @@
     "created_at": "2026-06-06T13:00:00.000Z"
   },
   {
-    "id": "ae3ee727-abd0-4424-93cd-3edd4d2dbd6e",
+    "id": "dce0faeb-aa29-47f3-adf2-76809877b23d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Michael Saylor says \"the AI buildout is absorbing capital.\"\"Bitcoin remains the premier asset long term.\"@WatcherGuru",
@@ -200,7 +210,7 @@
     "created_at": "2026-06-06T12:45:59.000Z"
   },
   {
-    "id": "34060de1-a7e5-427f-b7e4-3f31c33a1d0e",
+    "id": "fbc73991-b8f8-4ad5-803c-a217b167bad5",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📈 Benjamin Cowen says Bitcoin will eventually hit $1 million, but not until at least the 2040s, much later than most bulls expect.",
@@ -220,7 +230,7 @@
     "created_at": "2026-06-06T11:30:25.000Z"
   },
   {
-    "id": "fa96bc34-5cae-4e1b-99c1-e4fb11110dce",
+    "id": "c091d890-ec9e-46c2-a282-db837e4f1b42",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Strategy CEO Phong Le admits he initially wanted to put only 5-10% of the company's balance sheet into Bitcoin while Saylor pushed to “go all in,” conceding \"I was wrong\" and \"Mike was right.\"",
@@ -228,15 +238,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#045d0781",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-06T10:39:15+00:00"
-  },
-  {
-    "id": "e2efa861-9c4b-4c95-9690-52bee2e51810",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Rosneft CEO Igor Sechin says US energy companies are the main beneficiaries of the Strait of Hormuz closure.",
-    "summary": "Adds that Washington is trying to reshape global energy markets to suit US interests: REUTERS$CLTwitter",
-    "url": "https://t.me/SolidIntelX#bd924d3b",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-06T10:11:20+00:00"
   }
 ]
