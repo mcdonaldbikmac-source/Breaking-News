@@ -1,5 +1,95 @@
 [
   {
+    "id": "ad1aaa63-570d-4657-a3c3-cc172e922bf1",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Barack Hussein Obama Library, in 10 years, when fully matured!",
+    "url": "https://trumpstruth.org/statuses/39128",
+    "author": "Trump Truth",
+    "created_at": "2026-06-06T17:49:29.000Z"
+  },
+  {
+    "id": "095f0570-c776-4942-b80c-88fb0ef2d5e2",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. All work is complete!\n2. Great American Patriots, primarily from the Great State of Oklahoma, plus Doug Burgum, Secretary of the Interior, inspecting the very complex, but powerful, Dark Blue surface of the Reflecting Pool, prior to submerging it in CLEAN, BEAUTIFUL WATER.\n3. It was originally opened in 1922, but never functioned properly — now it does!",
+    "url": "https://trumpstruth.org/statuses/39129",
+    "author": "Trump Truth",
+    "created_at": "2026-06-06T17:48:56.000Z"
+  },
+  {
+    "id": "aba4b2f8-ca5d-4ecc-b5e6-2a6d377a0b7f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "summary": "1. Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-06T17:42:15.000Z"
+  },
+  {
+    "id": "d7b92b24-b8d0-401a-af07-5b01b9f543e1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259M DAI debt position",
+    "summary": "1. Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.",
+    "url": "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-06T17:21:19.000Z"
+  },
+  {
+    "id": "585af29d-e963-439a-bad2-0a8235db5181",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "South Korean Traders Push Bitcoin Into Its Deepest Discount Since 2021",
+    "summary": "1. As bitcoin slipped to a 2026 low of $59,100, market data reveals that BTC priced against the South Korean won has been changing hands at a discount.\n2. In fact, the Kimchi premium has vanished, and bitcoin has been trading below global market prices in South Korea for nearly a month.\n3. Nearly a Month of Discounts […]",
+    "url": "https://news.bitcoin.com/south-korean-traders-push-bitcoin-into-its-deepest-discount-since-2021/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-06T17:10:43.000Z"
+  },
+  {
+    "id": "1905ae02-84e2-448c-8474-663f7408a7d8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Goldman Sachs, Apex Group, and Archax Build Institutional Tokenized Real Estate Fund",
+    "summary": "1. Goldman Sachs has launched a blockchain-native tokenized real estate fund on its GS DAP platform, partnering with Apex Group, Archax, LRC Group, and Ownera to bring regulated onchain share issuance to European real estate investors.\n2. The fund, formally structured as the LRC Tokenized Real Estate Fund SCSp, SICAV-RAIF, is domiciled in Luxembourg and distributed across […]",
+    "url": "https://news.bitcoin.com/goldman-sachs-apex-group-and-archax-build-institutional-tokenized-real-estate-fund/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-06T16:30:13.000Z"
+  },
+  {
+    "id": "0220fb42-ada0-41b9-b637-77a00607fb55",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+    "summary": "1. Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.",
+    "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+    "author": "Tim Joslyn",
+    "created_at": "2026-06-06T16:30:00.000Z"
+  },
+  {
+    "id": "07423938-b847-43ab-9a07-fd26eb21a463",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "summary": "1. President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-06T16:17:21.000Z"
+  },
+  {
+    "id": "f60e64fe-4ef0-405d-b8ce-9be08265f6d7",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
+    "summary": "1. Bitcoin’s latest oversold RSI mirrors 2020 and February 2026 setups that preceded 50% and 30% rebounds, putting $70K back in focus.",
+    "url": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-06-06T16:06:54.000Z"
+  },
+  {
     "id": "ee2696e7-73bf-48b9-9e32-ca27297800a5",
     "source": "Decrypt",
     "type": "rss",
@@ -218,25 +308,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#f3beffe8",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-06T12:24:42+00:00"
-  },
-  {
-    "id": "581197a8-59b4-4336-ae68-2a537e0613e2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ed Craven Says Kick’s Partner Program Doesn’t Reward Gambling Streams",
-    "summary": "1. Kick co-founder Ed Craven told a gambling streamer that the platform’s Kick Partner Program does not reward viewership from Slots or Casino streams, urging him to broadcast other categories instead.\n2. The reply is a rare on-record acknowledgment from the Stake and Kick co-founder that the program excludes the gambling content the platform is known for.",
-    "url": "https://news.bitcoin.com/ed-craven-says-kicks-partner-program-doesnt-reward-gambling-streams/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-06-06T11:30:25.000Z"
-  },
-  {
-    "id": "c091d890-ec9e-46c2-a282-db837e4f1b42",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Strategy CEO Phong Le admits he initially wanted to put only 5-10% of the company's balance sheet into Bitcoin while Saylor pushed to “go all in,” conceding \"I was wrong\" and \"Mike was right.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#045d0781",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-06T10:39:15+00:00"
   }
 ]
