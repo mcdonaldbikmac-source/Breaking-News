@@ -1,5 +1,15 @@
 [
   {
+    "id": "cada5b2a-ee75-473d-98e8-0e99085269e5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Spectra Rolls $4.88M Into New XRP Yield Market as Flare Keeps Liquidity Intact",
+    "summary": "1. An XRP-denominated fixed-term yield market on the Flare Network recently completed a liquidity rollover with zero market interruption.\n2. Metavault Architecture Eliminates Operational Friction An XRP-denominated, fixed-term yield market on the Flare Network has successfully executed a seamless liquidity rollover without market interruption, representing a notable structural advance for decentralized fixed-term financial primitives.\n3. Overnight from June […]",
+    "url": "https://news.bitcoin.com/spectra-rolls-4-88m-into-new-xrp-yield-market-as-flare-keeps-liquidity-intact/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-06T05:30:30.000Z"
+  },
+  {
     "id": "eccbd093-aae5-4c53-880e-3653899cf12e",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -128,65 +138,5 @@
     "url": "https://trumpstruth.org/statuses/39122",
     "author": "Trump Truth",
     "created_at": "2026-06-06T00:25:21.000Z"
-  },
-  {
-    "id": "17131664-3db0-4f65-99c7-5e3477939c72",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Polymarket CMO Used Personal PayPal to Pay Influencers, POLITICO Reports",
-    "summary": "1. Polymarket’s chief marketing officer sent more than $2.5 million through a personal PayPal account to over 800 people in 14 months, including at least $350,000 to influencers who promoted the crypto prediction market on X without disclosing they were paid, POLITICO reports.\n2. $2.5 Million Through a Personal PayPal Account According to a POLITICO investigation published […]",
-    "url": "https://news.bitcoin.com/polymarket-cmo-used-personal-paypal-to-pay-influencers-politico-reports/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-06-06T00:05:42.000Z"
-  },
-  {
-    "id": "8bd3560f-0129-48a2-a591-593cec298aa5",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congressman Barry Moore, an America First Patriot, and friend, who has been with me from the very beginning (he was the first Elected Official in the Country to Endorse me!), is running for the United States Senate in Alabama, a place I love and WON BIG in 2016, 2020, and 2024, getting the highest vote in that great State’s history.\n2. A very successful Businessman, Civic Leader, and Highly Respected State Legislator prior to becoming a distinguished Congressman, Barry has dedicated his life to serving his Community.\n3. As your next Senator, Barry will continue to fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.",
-    "url": "https://trumpstruth.org/statuses/39120",
-    "author": "Trump Truth",
-    "created_at": "2026-06-05T23:38:49.000Z"
-  },
-  {
-    "id": "62fecf48-27ee-49ee-8f8b-e1ac67f58167",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "USDT Hits Near 100% Market Share in Key Latam Markets, New Oobit Report Reveals",
-    "summary": "1. A recent report by Oobit disclosed that in almost all Latam markets, most stablecoin transactions were completed using USDT, which acts as the de facto dollar proxy in the region.\n2. In addition, the company highlighted that the region’s use of stablecoins was akin to cash.\n3. Oobit Highlights Tether’s Domain Of Latam’s Stablecoin Markets USDT, in […]",
-    "url": "https://news.bitcoin.com/usdt-hits-near-100-market-share-in-key-latam-markets-new-oobit-report-reveals/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-05T23:05:01.000Z"
-  },
-  {
-    "id": "5b77c63c-af1c-4d55-934c-bba8fbb86406",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Coinbase CEO Brian Armstrong says \"Bitcoin is going to do great…one of many cycles we've all been through.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1e5fc80d",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-05T22:44:12+00:00"
-  },
-  {
-    "id": "b138913f-d04f-4775-974d-b43072bca5f6",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
-    "summary": "1. After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
-    "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-    "author": "Julie Bort",
-    "created_at": "2026-06-05T22:35:01.000Z"
-  },
-  {
-    "id": "b4df32d6-b977-47f7-8522-f39d79e6ceb9",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
-    "summary": "1. ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months.",
-    "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-06-05T22:18:29.000Z"
   }
 ]
