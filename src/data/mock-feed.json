@@ -1,6 +1,126 @@
 [
   {
-    "id": "88638d95-3503-4182-abc2-0e7f6eac63a7",
+    "id": "c9664f9d-6a40-40af-b9c6-604349fba4c9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Anonymous whale borrows $142M to buy ETH",
+    "summary": "An anonymous whale borrowed 142 million USDT from Aave over the past 30 hours and subsequently purchased 87,680 ETH, according to Lookonchain. The whale's health factor, an indicator of collateral soundness, has dropped to 1.16. The position is estimated to be at risk of liquidation if the price of ETH falls to $1,354.51.",
+    "url": "https://t.me/CoinnessGL#59f5e8c8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-06T13:57:31+00:00"
+  },
+  {
+    "id": "72dbe216-fc2d-4fe6-adb0-a7e3cbda7d1d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Hype-Driven Rallies Unwind: NEAR and WLD Round-Trip as Zcash Rebounds 18% From Its 50% Drop",
+    "summary": "1. Two of the crypto market’s hottest recent rallies have fully unwound, with Near Protocol’s NEAR and the Worldcoin token WLD round-tripping to their pre-rally levels, even as Zcash’s ZEC rebounded roughly 18% in 24 hours following a near-50% crash.\n2. Zcash Whipsaws On an Orchard Pool Flaw The sharpest swing belonged to zcash given ZEC had […]",
+    "url": "https://news.bitcoin.com/zec-near-wld-round-trip-zcash-rebounds-18/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-06T13:50:51.000Z"
+  },
+  {
+    "id": "e7960866-4285-402a-898d-2edb57923f11",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Longling Capital deposits $15.7M in ETH to Binance",
+    "summary": "Chinese investment firm Longling Capital deposited 10,000 ETH, worth $15.68 million, to Binance approximately 10 minutes ago, AmberCN reported. Deposits to exchanges are often interpreted as a potential precursor to selling.",
+    "url": "https://t.me/CoinnessGL#7acf9d31",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-06T13:43:21+00:00"
+  },
+  {
+    "id": "d23056a7-5325-4e64-bc6c-3aefe692c817",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "HTX delists WLFI, converts user USD1 balances to USDT",
+    "summary": "HTX has ceased trading services for World Liberty Financial (WLFI) and its stablecoin, USD1, according to Wu Blockchain. The move follows a decision by WLFI in May to freeze HTX-related on-chain addresses after the UK added the exchange to its sanctions list. HTX claimed the freeze was implemented without sufficient prior consultation or a clear legal basis, restricting some users' ability to trade their WLFI holdings. To protect its users, HTX suspended WLFI trading and halted USD1 deposits and withdrawals. The exchange also converted all USD1 balances on its platform to USDT and credited them to user accounts. HTX emphasized that the frozen addresses belong to regular users, not sanctioned individuals or the exchange itself, and has urged WLFI to lift the freeze.",
+    "url": "https://t.me/CoinnessGL#c89827c6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-06T13:35:14+00:00"
+  },
+  {
+    "id": "7992c621-6142-49ca-99ec-fac6ac8f3183",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
+    "summary": "1. The 1LwWt address received a legal notice from Salomon Brothers via Bitcoin's OP_RETURN field in July 2025 demanding the owner prove ownership by November 5, 2025.",
+    "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-06T13:30:00.000Z"
+  },
+  {
+    "id": "2e0b747a-98c4-4caa-a087-fa3d648686bf",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool",
+    "summary": "1. While rising volume on Polymarket and Kalshi is attracting quantitative firms to prediction markets, they aren't focusing on event outcomes; rather, they're exploiting market inefficiencies for profit.",
+    "url": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
+    "author": "Oliver Knight",
+    "created_at": "2026-06-06T13:00:00.000Z"
+  },
+  {
+    "id": "d01b9ece-66dc-4e7f-bc64-4f543c7153ec",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Michael Saylor’s rallying cry: Bitcoin needs four forces to win",
+    "summary": "1. The Strategy executive chairman argued that four distinct camps each play a vital role in bitcoin’s long-term success.",
+    "url": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
+    "author": "James Van Straten",
+    "created_at": "2026-06-06T13:00:00.000Z"
+  },
+  {
+    "id": "ae3ee727-abd0-4424-93cd-3edd4d2dbd6e",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor says \"the AI buildout is absorbing capital.\"\"Bitcoin remains the premier asset long term.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5ffb892c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-06T12:53:17+00:00"
+  },
+  {
+    "id": "5887137f-e05f-4d01-8886-e88575c754a3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "RSI Crashes to 16 as Bitcoin Consolidates Near $61,000 After $59.1K Low",
+    "summary": "1. Bitcoin clawed its way back from a sharp weekend sell-off after bears briefly dragged the price to $59,100, triggering a volatile 24-hour swing before buyers reclaimed ground and lifted the asset above $61,600.\n2. As of 8 a.m.\n3. EDT on June 6, 2026, over the last hour, bitcoin is changing hands between $60,800 to $61,000 on […]",
+    "url": "https://news.bitcoin.com/rsi-crashes-to-16-as-bitcoin-consolidates-near-61000-after-59-1k-low/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-06T12:45:59.000Z"
+  },
+  {
+    "id": "34060de1-a7e5-427f-b7e4-3f31c33a1d0e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Benjamin Cowen says Bitcoin will eventually hit $1 million, but not until at least the 2040s, much later than most bulls expect.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f3beffe8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-06T12:24:42+00:00"
+  },
+  {
+    "id": "581197a8-59b4-4336-ae68-2a537e0613e2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ed Craven Says Kick’s Partner Program Doesn’t Reward Gambling Streams",
+    "summary": "1. Kick co-founder Ed Craven told a gambling streamer that the platform’s Kick Partner Program does not reward viewership from Slots or Casino streams, urging him to broadcast other categories instead.\n2. The reply is a rare on-record acknowledgment from the Stake and Kick co-founder that the program excludes the gambling content the platform is known for.",
+    "url": "https://news.bitcoin.com/ed-craven-says-kicks-partner-program-doesnt-reward-gambling-streams/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-06-06T11:30:25.000Z"
+  },
+  {
+    "id": "fa96bc34-5cae-4e1b-99c1-e4fb11110dce",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Strategy CEO Phong Le admits he initially wanted to put only 5-10% of the company's balance sheet into Bitcoin while Saylor pushed to “go all in,” conceding \"I was wrong\" and \"Mike was right.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#045d0781",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-06T10:39:15+00:00"
+  },
+  {
+    "id": "e2efa861-9c4b-4c95-9690-52bee2e51810",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Rosneft CEO Igor Sechin says US energy companies are the main beneficiaries of the Strait of Hormuz closure.",
@@ -60,73 +180,13 @@
     "created_at": "2026-06-06T08:25:36.000Z"
   },
   {
-    "id": "b23cdaab-b385-4b61-ae16-d5b77b09c536",
+    "id": "a99278d5-1076-432f-940e-8b947daa0e06",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
-    "title": "💰 Strategy CEO Phong Le admits he initially wanted to put only 5-10% of the company's balance sheet into Bitcoin while Saylor pushed to “go all in,” conceding \"I was wrong\" and \"Mike was right.\"",
+    "title": "📈 Bitwise CIO Matt Hougan says Hyperliquid today is like ChatGPT when only the AI community was excited about it, and that ChatGPT 100x'd from there.",
     "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#045d0781",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bd4af85d",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-06T08:24:38+00:00"
-  },
-  {
-    "id": "a3d52023-e86e-4a4a-b273-dfd0ce36b9ed",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase BTC premium negative for 19th straight day",
-    "summary": "The Coinbase Bitcoin (BTC) Premium Index has remained negative for 19 consecutive days, according to data from Coinglass. The index currently stands at -0.0401%, a narrower negative margin than previously observed.This suggests an easing of selling pressure for BTC in the U.S. market. However, the sustained 19-day negative streak indicates that buying demand from U.S. investors has not yet fully recovered. Market analysts suggest that a shift into positive territory could signal a recovery in U.S. buying momentum, while a widening of the negative premium could point to further selling pressure.",
-    "url": "https://t.me/CoinnessGL#f81efa1e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-06T07:36:55+00:00"
-  },
-  {
-    "id": "861b0b31-e981-4c21-aac4-ab9ddc5a5844",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘Too Many Coincidences’: Polymarket Accuses Kalshi of Corporate Espionage",
-    "summary": "1. Polymarket has accused its archrival Kalshi of corporate espionage, alleging in a New York Post report that the federally regulated exchange serially copied its product launches and may be watching its SoHo offices.\n2. The crypto-native platform says it opened an internal probe and kept a dossier of suspicious incidents, and even tinted its windows.",
-    "url": "https://news.bitcoin.com/too-many-coincidences-polymarket-accuses-kalshi-of-corporate-espionage/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-06-06T07:30:37.000Z"
-  },
-  {
-    "id": "0f5e6097-fdac-401f-9155-b4b81424dfa3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BIT-linked whale faces over $84M in unrealized losses on ETH long",
-    "summary": "An address linked to BIT (formerly Matrixport) is facing over $84 million in unrealized losses on a 120,000 ETH long position as the price of ETH has fallen below $1,600, HyperInsight reported. The whale is reportedly using 15-20x leverage and has paid approximately $1.85 million in funding fees to date.",
-    "url": "https://t.me/CoinnessGL#d6e97d52",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-06T07:30:28+00:00"
-  },
-  {
-    "id": "ad3b55ff-8150-4a78-b426-57bbd6b4a718",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
-    "summary": "1. Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.",
-    "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-06T06:40:17.000Z"
-  },
-  {
-    "id": "c4ca3579-58b3-4205-aaeb-87d964666fb8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC perp long/short ratios on top 3 futures exchanges",
-    "summary": "BTC perp long/short ratios on top exchanges by open interestThe following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 50.11% long, 49.89% short- Binance: 48.58% long, 51.42% short- OKX: 47.93% long, 52.07% short- Bybit: 49.05% long, 50.95% short",
-    "url": "https://t.me/CoinnessGL#ac629a35",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-06T05:54:22+00:00"
-  },
-  {
-    "id": "cada5b2a-ee75-473d-98e8-0e99085269e5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Spectra Rolls $4.88M Into New XRP Yield Market as Flare Keeps Liquidity Intact",
-    "summary": "1. An XRP-denominated fixed-term yield market on the Flare Network recently completed a liquidity rollover with zero market interruption.\n2. Metavault Architecture Eliminates Operational Friction An XRP-denominated, fixed-term yield market on the Flare Network has successfully executed a seamless liquidity rollover without market interruption, representing a notable structural advance for decentralized fixed-term financial primitives.\n3. Overnight from June […]",
-    "url": "https://news.bitcoin.com/spectra-rolls-4-88m-into-new-xrp-yield-market-as-flare-keeps-liquidity-intact/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-06T05:30:30.000Z"
   }
 ]
