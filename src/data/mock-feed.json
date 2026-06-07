@@ -1,5 +1,95 @@
 [
   {
+    "id": "ad020c7e-69d6-4ddf-b9de-940e952f04e9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "$2 Million Per Vessel: Inside Iran’s Massive USDT Toll Operation in the Strait of Hormuz",
+    "summary": "1. Reports indicate that some of the payments could have been made in stablecoins, particularly Tether’s USDT, the largest stablecoin by market capitalization.\n2. OFAC has warned that maritime companies executing such payments might be affected by upcoming sanctions.\n3. Iran Claims Hormuz Toll Booth Yields up to $2 Million Per Ship, Some Payments Made Using […]",
+    "url": "https://news.bitcoin.com/2-million-per-vessel-inside-irans-massive-usdt-toll-operation-in-the-strait-of-hormuz/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-07T21:30:39.000Z"
+  },
+  {
+    "id": "ac22bb56-4d04-4978-9cd4-da4be652d992",
+    "source": "The Block",
+    "type": "rss",
+    "title": "NY judge stays lawsuit seeking ownership of nearly 40,000 bitcoin wallets, sets July hearing on proposed amicus brief",
+    "summary": "1. The brief, filed by attorney Ian R.\n2. Cohen, argues New York's lost-and-found statute cannot be used to claim \"lost\" assets controlled by private keys.",
+    "url": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-07T20:59:02.000Z"
+  },
+  {
+    "id": "8ffdb030-9739-4016-b299-44ce4a585150",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "What happens to Bitcoin if the Nasdaq falls further?",
+    "summary": "1. Bitcoin eyes a rally toward $92,630 as BTC defends key long-term support while the Nasdaq flashes deeper correction risks.",
+    "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-06-07T20:52:36.000Z"
+  },
+  {
+    "id": "50a337f0-7e68-4257-8400-2c02453798ab",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "100x Reversal? Strategy May Have Bought 3,200 BTC After Bitcoin Sale, Standard Chartered Says",
+    "summary": "1. Standard Chartered suspects Strategy could announce a large bitcoin buy on Monday, with estimates pointing to a buy of either 320 BTC or as much as 3,200 BTC.\n2. The outlook follows the company’s recent sale of 32 BTC and suggests a much larger accumulation could quickly shift attention back to institutional demand.\n3. Standard Chartered Sees […]",
+    "url": "https://news.bitcoin.com/100x-reversal-strategy-may-have-bought-3200-btc-after-bitcoin-sale-standard-chartered-says/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-07T20:30:11.000Z"
+  },
+  {
+    "id": "7548c6d1-7915-4269-a180-2178d49cf163",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "A quick review of the Ways and Means tax bills: State of Crypto ",
+    "summary": "1. The House Ways and Means Committee is gearing up for its big tax push.",
+    "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
+    "author": "Nikhilesh De",
+    "created_at": "2026-06-07T20:27:12.000Z"
+  },
+  {
+    "id": "f980fe81-29ca-4231-bdc8-e280c1c42af1",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "summary": "1. We're likely to see more price increases as the big AI companies plan to go public.",
+    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-07T20:26:13.000Z"
+  },
+  {
+    "id": "3ddb3d4e-ddf3-4770-8d45-3d55ef0dde43",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP HAS TOLD NETANYAHU NOT TO RESPOND TO IRAN'S BALLISTIC MISSILE ATTACK ON ISRAEL TONIGHTTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#c2ecafb1",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-07T20:08:15+00:00"
+  },
+  {
+    "id": "8c554f1f-2fdc-4a31-9609-fd47dffbdee7",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP SAYS ‘WOULD SAY DEAL WILL BE SIGNED ON MONDAY, TUESDAY OR WEDNESDAY AND NOW THIS TAKES PLACE’Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#a6de32d7",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-07T19:54:59+00:00"
+  },
+  {
+    "id": "dfee07ad-2b6c-4d8c-8821-a32b35a9c8c0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Strategy’s Saylor signals BTC buy as preferred dividend pay date vote looms",
+    "summary": "1. Strategy’s top execs took to social media on Sunday to tout its Bitcoin strategy while shareholders cast final votes on a proposal for twice-monthly preferred stock dividend payments.",
+    "url": "https://cointelegraph.com/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-07T19:45:17.000Z"
+  },
+  {
     "id": "f7ea0bc4-9e27-42ec-b598-daba20ab3bb3",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -40,7 +130,7 @@
     "created_at": "2026-06-07T17:56:22.000Z"
   },
   {
-    "id": "17701c68-c79c-484f-bdf2-8246415d1c42",
+    "id": "7917c17d-44eb-4126-8649-12051335bc05",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Elon Musk set to become world's first trillionaire when SpaceX IPO's on June 12th.@WatcherGuru",
@@ -108,125 +198,5 @@
     "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
     "author": "Omkar Godbole",
     "created_at": "2026-06-07T16:14:08.000Z"
-  },
-  {
-    "id": "29f7f174-65c1-42df-a545-e39a165e0894",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
-    "summary": "1. Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-06-07T16:05:00.000Z"
-  },
-  {
-    "id": "669c562e-3287-4d44-a55d-0ba7883a38ef",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says",
-    "summary": "1. Not one, but several overlapping headwinds are hitting the crypto market at once, weighing on bitcoin's price, the firm's head of research Greg Cipolaro said.",
-    "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-s-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a-role-nydig-says",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-07T16:00:00.000Z"
-  },
-  {
-    "id": "6a36cde3-f732-49b0-bc88-f64b94dcec0f",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
-    "summary": "1. Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
-    "url": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
-    "author": "André Beganski",
-    "created_at": "2026-06-07T15:48:14.000Z"
-  },
-  {
-    "id": "3ec41922-f62b-4359-860b-c85fc454d72b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘A Good Time to Add More Dots’: Saylor Sparks Bitcoin Buy Buzz After Strategy’s Rare BTC Sale",
-    "summary": "1. Michael Saylor renewed attention on Strategy’s bitcoin plans after the company’s rare 32 BTC sale sparked debate among investors.\n2. His latest post shifted focus back to Strategy’s 843,706 BTC reserve and the possibility of future acquisitions.\n3. Saylor’s Post Refocuses Traders After Strategy’s Rare Bitcoin Sale Michael Saylor, executive chairman of Strategy (Nasdaq: MSTR), has renewed […]",
-    "url": "https://news.bitcoin.com/a-good-time-to-add-more-dots-saylor-sparks-bitcoin-buy-buzz-after-strategys-rare-btc-sale/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-07T15:23:13.000Z"
-  },
-  {
-    "id": "578b7ff8-51c1-4c33-9db6-cfebedd9d8ec",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Michael Saylor hints at fresh bitcoin buy with ‘add more dots’ post as Strategy sits $11.7 billion underwater",
-    "summary": "1. The post lands a week after Strategy revealed its first bitcoin sale since 2022 and one day before voting closes on a STRC dividend amendment.",
-    "url": "https://www.theblock.co/post/403900/michael-saylor-signals-fresh-bitcoin-buy-with-add-more-dots-post-as-strategy-sits-11-7-billion-underwater?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-07T15:03:24.000Z"
-  },
-  {
-    "id": "e4acdd2d-763a-4aa8-8ec2-2575c790b9c8",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
-    "summary": "1. As Abra prepares for a Nasdaq debut, CEO Bill Barhydt is betting tokenized yield products and onchain lending will drive the next phase of crypto wealth management.",
-    "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
-    "author": "Will Canny",
-    "created_at": "2026-06-07T15:00:00.000Z"
-  },
-  {
-    "id": "28534100-dd3e-4a94-b631-2af8ecbb44f9",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iranian lawmaker Rezaei says Tehran will deliver a “painful” response to Israel’s strike on BeirutTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#ab7f7f72",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-07T14:46:00+00:00"
-  },
-  {
-    "id": "e7882aae-747d-4974-ba21-1b6181141af2",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS HE WILL PUT AN END ONCE AND FOR ALL TO THE IRANIAN THREAT, EITHER THROUGH NEGOTIATION OR I WILL DESTROY THEM COMPLETELY, AND THAT WILL BE EXTREMELY EASYTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#bfd1f12d",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-07T14:40:44+00:00"
-  },
-  {
-    "id": "a78b38db-fe24-4c7d-ab96-bff7bf9eb6c8",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
-    "summary": "1. Bitcoin realized losses remained below the $211 billion tally from 2022, leading to a prediction that the next bear-market bottom was not yet in.",
-    "url": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-07T14:29:19.000Z"
-  },
-  {
-    "id": "4ec70df2-2f6d-46f7-9575-e5c68cd87ddd",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Gold and Silver Bleed 23% and 44% Despite US-Iran War and Rising CPI",
-    "summary": "1. Gold and silver have shed a combined trillion dollars in market value from their January peaks, with gold trading near $4,331 per ounce and silver around $67.30 on June 5, even as a live geopolitical conflict and above-target inflation would traditionally push precious metals higher.\n2. How Far Prices Have Fallen Gold peaked at $5,608 per […]",
-    "url": "https://news.bitcoin.com/gold-and-silver-bleed-23-and-44-despite-us-iran-war-and-rising-cpi/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-07T14:25:24.000Z"
-  },
-  {
-    "id": "ee814d86-33c8-4382-94ea-1b5f02e0fe49",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks",
-    "summary": "1. The product is built on Payward's xStocks framework, the tokenized equities platform Kraken acquired through its purchase of Backed Finance in late 2025.",
-    "url": "https://www.theblock.co/post/403893/bybit-follows-kraken-in-offering-tokenized-spacex-ipo-access-via-xstocks?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-07T14:05:40.000Z"
-  },
-  {
-    "id": "ebaa3a4c-0de5-4d22-8cd6-bb1cc8529f7f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
-    "summary": "1. From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-    "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-07T14:00:00.000Z"
   }
 ]
