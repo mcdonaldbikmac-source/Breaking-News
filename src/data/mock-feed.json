@@ -1,232 +1,52 @@
 [
   {
-    "id": "9542de5c-34a8-48e3-a42f-9de87323c3e9",
+    "id": "94615ce8-5c54-41d0-8a36-55838aac512a",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Ethereum Co-Founder Joseph Lubin’s Wallet Stirs After 3 Years, Moving 80,001 ETH Worth $121.6M",
-    "summary": "1. A wallet linked to Ethereum co-founder Joseph Lubin transferred 80,001 ether, after more than three years of inactivity.\n2. The movement landed as ETH changed hands at a local low of $1,520 earlier this week.\n3. A Long-Dormant Wallet Wakes Up The wallet still holds 243,300 ETH worth roughly $370 million, and the 80,001 ETH that exited […]",
-    "url": "https://news.bitcoin.com/joseph-lubin-wallet-moves-80001-eth/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-06T21:30:55.000Z"
+    "title": "From $255M to $13.7B in 6 Quarters: Leopold Aschenbrenner’s Massive Bet on AI Infrastructure",
+    "summary": "1. Leopold Aschenbrenner just took Situational Awareness LP from $255M to $13.7B in only six quarters.\n2. His Q1 2026 filing dropped and one new move stands out as especially sharp.\n3. Full breakdown of what he’s doing with AI infrastructure stocks here 👇 The following guest post comes from BitcoinMiningStock.io, a public markets intelligence platform delivering data […]",
+    "url": "https://news.bitcoin.com/from-255m-to-13-7b-in-6-quarters-leopold-aschenbrenners-massive-bet-on-ai-infrastructure/",
+    "author": "Guest Author",
+    "created_at": "2026-06-07T04:10:33.000Z"
   },
   {
-    "id": "44ee4e32-ded4-41e0-94ed-6ff26ab1ccce",
-    "source": "The Block",
-    "type": "rss",
-    "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
-    "summary": "1. The move follows World Liberty Financial's apparent freeze of HTX-linked on-chain addresses, citing UK sanctions compliance, per HTX.",
-    "url": "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-06T21:03:25.000Z"
-  },
-  {
-    "id": "0d4cc43b-d285-42da-9012-d71bf5b41504",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
-    "summary": "1. Frontier AI models have evolved into bug-finding tools, uncovering vulnerabilities across the tech world—and now in crypto too.",
-    "url": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-06T20:56:43.000Z"
-  },
-  {
-    "id": "8b49053c-a312-4362-b5d7-6b4f37610cd0",
+    "id": "9f9b05b8-874e-4ae5-af2a-d763ee4f82fa",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Bhutan Offloads 738 Bitcoin Worth $44.88M as Sovereign Drawdown Meets a $60K BTC",
-    "summary": "1. The Royal Government of Bhutan has shifted another 738 bitcoin worth roughly $44.88 million on June 6, extending a months-long drawdown of the Himalayan kingdom’s state BTC reserves.\n2. A Repeated Pattern of State Transfers Government-linked wallets have moved bitcoin repeatedly through 2026, with all of the activity managed through Druk Holding and Investments (DHI), the […]",
-    "url": "https://news.bitcoin.com/bhutan-moves-738-btc-sovereign-drawdown/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-06T20:50:28.000Z"
+    "title": "Bank of Russia Confirms September Rollout for Digital Ruble, With Top Banks ‘Ready and Connected’",
+    "summary": "1. Alla Bakina, Director of the Bank of Russia’s National Payment System Department, highlighted that most private banks in Russia are ready to provide digital ruble services on September 1.\n2. The currency will integrate with the existing universal QR code payment system.\n3. Central Bank of Russia: Russian Banks Ready For Digital Ruble Launch While stablecoins have […]",
+    "url": "https://news.bitcoin.com/bank-of-russia-confirms-september-rollout-for-digital-ruble-with-top-banks-ready-and-connected/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-07T03:10:20.000Z"
   },
   {
-    "id": "289609ba-d38d-4e70-a7c2-86728689fcbe",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "summary": "1. Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-06T20:32:24.000Z"
-  },
-  {
-    "id": "fb66e93e-aea5-4c85-8782-aad830899f67",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. This will someday save Washington.\n2. Judge Leon has to get out of the way, and FAST.\n3. He is putting our Country in danger!",
-    "url": "https://trumpstruth.org/statuses/39130",
-    "author": "Trump Truth",
-    "created_at": "2026-06-06T20:24:17.000Z"
-  },
-  {
-    "id": "fddbee78-fb71-4e66-b082-7d8eed94333c",
+    "id": "8bc483ea-60f8-4be0-9432-ba8db92cd8a9",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Zcash to Worldcoin: ZachXBT Says Arthur Hayes Turned 4 Token Calls Into ‘Exit Liquidity’",
-    "summary": "1. Onchain investigator ZachXBT accused BitMEX co-founder Arthur Hayes of turning his own audience into “exit liquidity,” saying Hayes most recently promoted Worldcoin token (WLD) and then sold it shortly afterward, capping a roughly 15-day stretch in which he exited four publicly hyped positions.\n2. A Familiar Sequence of Hype and Exit ZachXBT leveled the charge in […]",
-    "url": "https://news.bitcoin.com/zachxbt-arthur-hayes-exit-liquidity-wld/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-06T20:10:51.000Z"
+    "title": "7RCC Brings Bitcoin and Carbon Markets Together in New ETF Launch",
+    "summary": "1. 7RCC Global has launched BTCK, an exchange-traded fund (ETF) that combines 80% bitcoin exposure with 20% regulated carbon credit futures.\n2. The fund gives investors a listed product that blends digital assets with environmental commodities.\n3. BTCK Debuts on NYSE Arca With 80% Bitcoin and 20% Carbon Credit Exposure 7RCC Global has brought one of the crypto […]",
+    "url": "https://news.bitcoin.com/7rcc-brings-bitcoin-and-carbon-markets-together-in-new-etf-launch/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-07T02:10:05.000Z"
   },
   {
-    "id": "9aa8bf86-b000-4b26-b83a-81668954c910",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-    "summary": "1. A week that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years.",
-    "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-06T19:58:54.000Z"
-  },
-  {
-    "id": "84418002-bb68-4399-8517-ba9bb4e414db",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
-    "summary": "1. Roughly 800,000 HYPE will return to the company's treasury for redeployment to \"more profitable\" strategies, per a Friday filing.",
-    "url": "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-06T19:40:36.000Z"
-  },
-  {
-    "id": "10293157-7546-406e-a3eb-97b2ef67ecbb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Michael Saylor Sees 4 Bitcoin Ideologies Testing BTC’s Future",
-    "summary": "1. Bitcoin’s next chapter may be shaped by four competing visions for how the network should grow.\n2. Strategy Executive Chairman Michael Saylor’s framework argues that decisions around adoption, innovation, and decentralization could influence BTC’s role in the global financial system.\n3. 4 Bitcoin Camps Put BTC’s Future Path Under New Scrutiny Strategy (Nasdaq: MSTR) Executive Chairman Michael […]",
-    "url": "https://news.bitcoin.com/michael-saylor-sees-4-bitcoin-ideologies-testing-btcs-future/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-06T19:30:48.000Z"
-  },
-  {
-    "id": "8625911e-ac14-4b35-bb38-c99541bc3670",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Zcash Bug Discovered, Binance Predictions Trillions in Tokenized Equity Inflows, and More – Week In Review",
-    "summary": "1. Forward Industries moved $32 million in SOL to Coinbase Prime, reviving fears that the largest corporate Solana holder could add fresh sell pressure while sitting deep underwater.\n2. Zcash then faced a double blow as developers patched a critical counterfeit-minting bug and Arthur Hayes exited his position, deepening the selloff.\n3. Meanwhile, major U.S.",
-    "url": "https://news.bitcoin.com/zcash-bug-discovered-binance-predictions-trillions-in-tokenized-equity-inflows-and-more-week-in-review/",
-    "author": "Alex Richardson",
-    "created_at": "2026-06-06T18:50:57.000Z"
-  },
-  {
-    "id": "70e2695f-39af-44ec-8559-404424f6c004",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "summary": "1. Apple's WWDC nears: Here's what you can look forward to.",
-    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-06-06T18:13:36.000Z"
-  },
-  {
-    "id": "57518f78-0695-4319-ae23-9b11a0f76623",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Risks $55K Slide as Analyst Doubles Down on $100K Target",
-    "summary": "1. Bitcoin is testing a critical support area as investors assess whether the $60,000 level can hold.\n2. A strategist said a break lower could bring $55,000 into focus, while maintaining support could help preserve the case for a $100,000 year-end target.\n3. Why Bitcoin’s Key Support Zone Could Define the Next Market Move Bitcoin could revisit $55,000 […]",
-    "url": "https://news.bitcoin.com/bitcoin-risks-55k-slide-as-analyst-doubles-down-on-100k-target/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-06T18:10:29.000Z"
-  },
-  {
-    "id": "f5d4c2cd-7b7f-4ac8-b4a5-31110cac512e",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
-    "summary": "1. Researchers say prompt injection attacks could manipulate AI coding agents to access sensitive credentials stored in software development pipelines.",
-    "url": "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-06T18:08:56.000Z"
-  },
-  {
-    "id": "ad1aaa63-570d-4657-a3c3-cc172e922bf1",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Barack Hussein Obama Library, in 10 years, when fully matured!",
-    "url": "https://trumpstruth.org/statuses/39128",
-    "author": "Trump Truth",
-    "created_at": "2026-06-06T17:49:29.000Z"
-  },
-  {
-    "id": "095f0570-c776-4942-b80c-88fb0ef2d5e2",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. All work is complete!\n2. Great American Patriots, primarily from the Great State of Oklahoma, plus Doug Burgum, Secretary of the Interior, inspecting the very complex, but powerful, Dark Blue surface of the Reflecting Pool, prior to submerging it in CLEAN, BEAUTIFUL WATER.\n3. It was originally opened in 1922, but never functioned properly — now it does!",
-    "url": "https://trumpstruth.org/statuses/39129",
-    "author": "Trump Truth",
-    "created_at": "2026-06-06T17:48:56.000Z"
-  },
-  {
-    "id": "aba4b2f8-ca5d-4ecc-b5e6-2a6d377a0b7f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "summary": "1. Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-06T17:42:15.000Z"
-  },
-  {
-    "id": "d7b92b24-b8d0-401a-af07-5b01b9f543e1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259M DAI debt position",
-    "summary": "1. Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.",
-    "url": "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-06T17:21:19.000Z"
-  },
-  {
-    "id": "585af29d-e963-439a-bad2-0a8235db5181",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "South Korean Traders Push Bitcoin Into Its Deepest Discount Since 2021",
-    "summary": "1. As bitcoin slipped to a 2026 low of $59,100, market data reveals that BTC priced against the South Korean won has been changing hands at a discount.\n2. In fact, the Kimchi premium has vanished, and bitcoin has been trading below global market prices in South Korea for nearly a month.\n3. Nearly a Month of Discounts […]",
-    "url": "https://news.bitcoin.com/south-korean-traders-push-bitcoin-into-its-deepest-discount-since-2021/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-06T17:10:43.000Z"
-  },
-  {
-    "id": "4a9f1024-597f-47a8-b7cf-b422ca9cd616",
-    "source": "@CoinMarketCapAnnouncements",
+    "id": "ea0f366a-b548-46ab-a153-3099c1b966ee",
+    "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "EXPLAINED: ⚡️ Hyperliquid has become one of crypto’s strongest performers,...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#78c4d321",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-06T16:44:29+00:00"
+    "title": "250 million USDC minted",
+    "summary": "Whale Alert reported that 250 million USDC has been minted at the USDC Treasury.",
+    "url": "https://t.me/CoinnessGL#b141093c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-07T00:18:15+00:00"
   },
   {
-    "id": "1905ae02-84e2-448c-8474-663f7408a7d8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Goldman Sachs, Apex Group, and Archax Build Institutional Tokenized Real Estate Fund",
-    "summary": "1. Goldman Sachs has launched a blockchain-native tokenized real estate fund on its GS DAP platform, partnering with Apex Group, Archax, LRC Group, and Ownera to bring regulated onchain share issuance to European real estate investors.\n2. The fund, formally structured as the LRC Tokenized Real Estate Fund SCSp, SICAV-RAIF, is domiciled in Luxembourg and distributed across […]",
-    "url": "https://news.bitcoin.com/goldman-sachs-apex-group-and-archax-build-institutional-tokenized-real-estate-fund/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-06T16:30:13.000Z"
-  },
-  {
-    "id": "0220fb42-ada0-41b9-b637-77a00607fb55",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-    "summary": "1. Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.",
-    "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
-    "author": "Tim Joslyn",
-    "created_at": "2026-06-06T16:30:00.000Z"
-  },
-  {
-    "id": "07423938-b847-43ab-9a07-fd26eb21a463",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The Trump administration might take an equity stake in OpenAI",
-    "summary": "1. President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-06T16:17:21.000Z"
+    "id": "396fafc4-e3de-4e56-ae38-b21926220d9b",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.168",
+    "summary": "1. ## What's changed\n\n- Bug fixes and reliability improvements",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.168",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-06T23:41:53Z"
   }
 ]
