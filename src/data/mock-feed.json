@@ -1,5 +1,35 @@
 [
   {
+    "id": "e4664dfe-22c4-4637-a019-ef5e40654846",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Hut 8 Prices $4.25B Notes to Build 352MW Texas AI Data Center",
+    "summary": "1. Hut 8 has priced $4.25 billion of senior secured notes to finance a large artificial intelligence (AI) data center project in Texas.\n2. The deal marks another major step in the company’s shift from bitcoin mining toward power-backed digital infrastructure.\n3. Hut 8 Raises $4.25B to Expand AI Infrastructure Beyond Bitcoin Mining Hut 8 has priced a […]",
+    "url": "https://news.bitcoin.com/hut-8-prices-4-25b-notes-to-build-352mw-texas-ai-data-center/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-07T07:10:03.000Z"
+  },
+  {
+    "id": "e684621b-57d2-4fbe-ac5e-78ee80a2856b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Travala Rolls out AI Concierge for 2.2M Hotels as Autonomous Travel Takes Shape",
+    "summary": "1. Travala has launched an agentic AI travel protocol allowing autonomous agents to book more than 2.2 million hotels with minimal human intervention.\n2. Incentives and the Rise of Agentic Commerce Travala on June 5 launched what it calls the world’s first agentic AI travel protocol, allowing autonomous software agents to search, book, and pay for more […]",
+    "url": "https://news.bitcoin.com/travala-rolls-out-ai-concierge-for-2-2m-hotels-as-autonomous-travel-takes-shape/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-07T06:10:22.000Z"
+  },
+  {
+    "id": "8696f289-90a0-40c6-8308-5cd874ba9e8f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "New Findings Reveal a Groundbreaking Creation That Redefines Our Understanding of Chance",
+    "summary": "1. ETH Zurich researchers led by Renato Renner built a “perfect die” by entangling two qubits linked through a 30-meter tunnel with microwave photons, then refining the output with a two-source extractor.\n2. The Nature-published experiment yields random numbers whose unpredictability is certified by physics, pointing to applications in cryptography and gaming that classical generators cannot match.",
+    "url": "https://news.bitcoin.com/new-findings-reveal-a-groundbreaking-creation-that-redefines-our-understanding-of-chance-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-07T05:10:14.000Z"
+  },
+  {
     "id": "94615ce8-5c54-41d0-8a36-55838aac512a",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -18,35 +48,5 @@
     "url": "https://news.bitcoin.com/bank-of-russia-confirms-september-rollout-for-digital-ruble-with-top-banks-ready-and-connected/",
     "author": "Sergio Goschenko",
     "created_at": "2026-06-07T03:10:20.000Z"
-  },
-  {
-    "id": "8bc483ea-60f8-4be0-9432-ba8db92cd8a9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "7RCC Brings Bitcoin and Carbon Markets Together in New ETF Launch",
-    "summary": "1. 7RCC Global has launched BTCK, an exchange-traded fund (ETF) that combines 80% bitcoin exposure with 20% regulated carbon credit futures.\n2. The fund gives investors a listed product that blends digital assets with environmental commodities.\n3. BTCK Debuts on NYSE Arca With 80% Bitcoin and 20% Carbon Credit Exposure 7RCC Global has brought one of the crypto […]",
-    "url": "https://news.bitcoin.com/7rcc-brings-bitcoin-and-carbon-markets-together-in-new-etf-launch/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-07T02:10:05.000Z"
-  },
-  {
-    "id": "ea0f366a-b548-46ab-a153-3099c1b966ee",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "250 million USDC minted",
-    "summary": "Whale Alert reported that 250 million USDC has been minted at the USDC Treasury.",
-    "url": "https://t.me/CoinnessGL#b141093c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-07T00:18:15+00:00"
-  },
-  {
-    "id": "396fafc4-e3de-4e56-ae38-b21926220d9b",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.168",
-    "summary": "1. ## What's changed\n\n- Bug fixes and reliability improvements",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.168",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-06T23:41:53Z"
   }
 ]
