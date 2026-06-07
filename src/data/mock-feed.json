@@ -1,5 +1,15 @@
 [
   {
+    "id": "d1aba7b5-f988-4840-ad7a-b9f912655ae7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin’s Stumble Looks Graceful Next to Zcash’s Faceplant — Week in Review",
+    "summary": "1. This editorial is from this week’s edition of the newsletter Week in Review, sent to subscribers on Friday.\n2. Subscribe to the newsletter to get this weekly editorial the second it’s finished.\n3. The newsletter also includes the biggest stories of the week with a comment on each story.",
+    "url": "https://news.bitcoin.com/bitcoins-stumble-looks-graceful-next-to-zcashs-faceplant-week-in-review/",
+    "author": "David Sencil",
+    "created_at": "2026-06-07T10:10:31.000Z"
+  },
+  {
     "id": "e4664dfe-22c4-4637-a019-ef5e40654846",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -28,25 +38,5 @@
     "url": "https://t.me/CoinnessGL#9dfa8be0",
     "author": "@CoinnessGL",
     "created_at": "2026-06-07T05:18:28+00:00"
-  },
-  {
-    "id": "8696f289-90a0-40c6-8308-5cd874ba9e8f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "New Findings Reveal a Groundbreaking Creation That Redefines Our Understanding of Chance",
-    "summary": "1. ETH Zurich researchers led by Renato Renner built a “perfect die” by entangling two qubits linked through a 30-meter tunnel with microwave photons, then refining the output with a two-source extractor.\n2. The Nature-published experiment yields random numbers whose unpredictability is certified by physics, pointing to applications in cryptography and gaming that classical generators cannot match.",
-    "url": "https://news.bitcoin.com/new-findings-reveal-a-groundbreaking-creation-that-redefines-our-understanding-of-chance-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-06-07T05:10:14.000Z"
-  },
-  {
-    "id": "94615ce8-5c54-41d0-8a36-55838aac512a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "From $255M to $13.7B in 6 Quarters: Leopold Aschenbrenner’s Massive Bet on AI Infrastructure",
-    "summary": "1. Leopold Aschenbrenner just took Situational Awareness LP from $255M to $13.7B in only six quarters.\n2. His Q1 2026 filing dropped and one new move stands out as especially sharp.\n3. Full breakdown of what he’s doing with AI infrastructure stocks here 👇 The following guest post comes from BitcoinMiningStock.io, a public markets intelligence platform delivering data […]",
-    "url": "https://news.bitcoin.com/from-255m-to-13-7b-in-6-quarters-leopold-aschenbrenners-massive-bet-on-ai-infrastructure/",
-    "author": "Guest Author",
-    "created_at": "2026-06-07T04:10:33.000Z"
   }
 ]
