@@ -20,6 +20,16 @@
     "created_at": "2026-06-07T06:10:22.000Z"
   },
   {
+    "id": "6bd94ab6-c29d-446d-8727-c57fc68bda81",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rises above $62,000",
+    "summary": "According to CoinNess market monitoring, BTC has risen above $62,000. BTC is trading at $62,092 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#9dfa8be0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-07T05:18:28+00:00"
+  },
+  {
     "id": "8696f289-90a0-40c6-8308-5cd874ba9e8f",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -38,15 +48,5 @@
     "url": "https://news.bitcoin.com/from-255m-to-13-7b-in-6-quarters-leopold-aschenbrenners-massive-bet-on-ai-infrastructure/",
     "author": "Guest Author",
     "created_at": "2026-06-07T04:10:33.000Z"
-  },
-  {
-    "id": "9f9b05b8-874e-4ae5-af2a-d763ee4f82fa",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bank of Russia Confirms September Rollout for Digital Ruble, With Top Banks ‘Ready and Connected’",
-    "summary": "1. Alla Bakina, Director of the Bank of Russia’s National Payment System Department, highlighted that most private banks in Russia are ready to provide digital ruble services on September 1.\n2. The currency will integrate with the existing universal QR code payment system.\n3. Central Bank of Russia: Russian Banks Ready For Digital Ruble Launch While stablecoins have […]",
-    "url": "https://news.bitcoin.com/bank-of-russia-confirms-september-rollout-for-digital-ruble-with-top-banks-ready-and-connected/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-07T03:10:20.000Z"
   }
 ]
