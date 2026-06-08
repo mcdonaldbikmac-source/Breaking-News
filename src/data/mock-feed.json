@@ -1,5 +1,75 @@
 [
   {
+    "id": "d59af189-7c03-4d22-a3a6-066425d34d3d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "BitMEX CEO Says Regulation Opens Doors but Liquidity Still Decides Winners",
+    "summary": "1. The violent liquidation event on Oct.\n2. 10, 2025, was less about price action and more of a diagnostic test exposing the systemic risks of crypto’s deep structural fragmentation across centralized, decentralized, and disjointed collateral systems.\n3. Systemic Risk and Market Fragmentation When crypto markets suffer violent liquidations, public attention centers on headline numbers—billions wiped from open […]",
+    "url": "https://news.bitcoin.com/bitmex-ceo-says-regulation-opens-doors-but-liquidity-still-decides-winners/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-08T03:30:45.000Z"
+  },
+  {
+    "id": "2df963e0-a1ad-4b26-a8ca-86ada1aac6a4",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%",
+    "summary": "1. Presto's Min Jung told The Block that KOSPI's crash may have had some impact on bitcoin's recovery, but not substantially.",
+    "url": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-08T03:07:41.000Z"
+  },
+  {
+    "id": "77dd76c6-6bbe-4810-9364-49913bb7ffc4",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Has anybody been watching the CROOKED Election going on in California.\n2. Two great Republican Candidates are being cheated, and so is America, which if the Dumocrats are able to fulfill their mission, great trouble and consternation will follow.\n3. Watch this “Election” closely!!!",
+    "url": "https://trumpstruth.org/statuses/39136",
+    "author": "Trump Truth",
+    "created_at": "2026-06-08T03:02:48.000Z"
+  },
+  {
+    "id": "f4de7c6e-f4c4-4830-9a6f-fe74dacdd505",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrump",
+    "url": "https://trumpstruth.org/statuses/39135",
+    "author": "Trump Truth",
+    "created_at": "2026-06-08T02:52:49.000Z"
+  },
+  {
+    "id": "7e60267d-394f-4e06-bc45-b247d6d86ea4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Grayscale Warns Strategy May Struggle to Keep Buying Bitcoin",
+    "summary": "1. Strategy’s bitcoin buying model is facing new scrutiny after Grayscale warned that current share prices could limit future accumulation.\n2. The concern followed a bitcoin sale, STRC dividend pressure, and questions over whether Strategy can keep funding purchases without stronger investor demand.\n3. Grayscale Flags Rising Risks to Strategy’s Bitcoin Accumulation Machine Strategy’s bitcoin strategy is facing […]",
+    "url": "https://news.bitcoin.com/grayscale-warns-strategy-may-struggle-to-keep-buying-bitcoin/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-08T02:30:58.000Z"
+  },
+  {
+    "id": "cde088de-b15e-41f8-8884-0c664d1d5180",
+    "source": "The Block",
+    "type": "rss",
+    "title": "What Is Crypto Market Structure? A Guide to How Crypto Markets Work",
+    "summary": "1. Crypto market structure refers to the framework of participants, platforms, rules, and infrastructure that comprise the digital asset markets.\n2. It includes crypto exchanges, brokers, custodians, market makers, token issuers, investors, and the regulators that oversee them.\n3. When lawmakers and analysts talk about “crypto market structure,” they are usually talking about who is allowed to do […]",
+    "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-06-08T02:05:08.000Z"
+  },
+  {
+    "id": "449c0049-99a5-44b4-b8ad-b33cc207c23f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "1,878 BTC Moves Onchain as Noah Doe’s Declaratory Judgment Bid Unravels",
+    "summary": "1. After a judge halted a default judgment Friday in the New York Supreme Court case Noah Doe v.\n2. John Does 1-39,069, several onchain wallets linked to the litigation have sprung into motion.\n3. On Sunday, Galaxy Research identified a wallet dormant since 2019 that transferred 1,878.5711 BTC, valued at $114.16 million, marking its first activity in […]",
+    "url": "https://news.bitcoin.com/1878-btc-moves-onchain-as-noah-does-declaratory-judgment-bid-unravels-37856/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-08T01:34:54.000Z"
+  },
+  {
     "id": "13f9456a-981c-4c1a-89a2-c3240d93adef",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -28,95 +98,5 @@
     "url": "https://news.bitcoin.com/expert-flags-bitcoins-first-hashrate-bear-market-as-network-sheds-145-eh-s/",
     "author": "Jamie Redman",
     "created_at": "2026-06-07T22:30:50.000Z"
-  },
-  {
-    "id": "ad020c7e-69d6-4ddf-b9de-940e952f04e9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "$2 Million Per Vessel: Inside Iran’s Massive USDT Toll Operation in the Strait of Hormuz",
-    "summary": "1. Reports indicate that some of the payments could have been made in stablecoins, particularly Tether’s USDT, the largest stablecoin by market capitalization.\n2. OFAC has warned that maritime companies executing such payments might be affected by upcoming sanctions.\n3. Iran Claims Hormuz Toll Booth Yields up to $2 Million Per Ship, Some Payments Made Using […]",
-    "url": "https://news.bitcoin.com/2-million-per-vessel-inside-irans-massive-usdt-toll-operation-in-the-strait-of-hormuz/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-07T21:30:39.000Z"
-  },
-  {
-    "id": "ac22bb56-4d04-4978-9cd4-da4be652d992",
-    "source": "The Block",
-    "type": "rss",
-    "title": "NY judge stays lawsuit seeking ownership of nearly 40,000 bitcoin wallets, sets July hearing on proposed amicus brief",
-    "summary": "1. The brief, filed by attorney Ian R.\n2. Cohen, argues New York's lost-and-found statute cannot be used to claim \"lost\" assets controlled by private keys.",
-    "url": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-07T20:59:02.000Z"
-  },
-  {
-    "id": "8ffdb030-9739-4016-b299-44ce4a585150",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "What happens to Bitcoin if the Nasdaq falls further?",
-    "summary": "1. Bitcoin eyes a rally toward $92,630 as BTC defends key long-term support while the Nasdaq flashes deeper correction risks.",
-    "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Yashu Gola",
-    "created_at": "2026-06-07T20:52:36.000Z"
-  },
-  {
-    "id": "50a337f0-7e68-4257-8400-2c02453798ab",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "100x Reversal? Strategy May Have Bought 3,200 BTC After Bitcoin Sale, Standard Chartered Says",
-    "summary": "1. Standard Chartered suspects Strategy could announce a large bitcoin buy on Monday, with estimates pointing to a buy of either 320 BTC or as much as 3,200 BTC.\n2. The outlook follows the company’s recent sale of 32 BTC and suggests a much larger accumulation could quickly shift attention back to institutional demand.\n3. Standard Chartered Sees […]",
-    "url": "https://news.bitcoin.com/100x-reversal-strategy-may-have-bought-3200-btc-after-bitcoin-sale-standard-chartered-says/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-07T20:30:11.000Z"
-  },
-  {
-    "id": "7548c6d1-7915-4269-a180-2178d49cf163",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "A quick review of the Ways and Means tax bills: State of Crypto ",
-    "summary": "1. The House Ways and Means Committee is gearing up for its big tax push.",
-    "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
-    "author": "Nikhilesh De",
-    "created_at": "2026-06-07T20:27:12.000Z"
-  },
-  {
-    "id": "f980fe81-29ca-4231-bdc8-e280c1c42af1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Is this the dawn of the Tokenpocalypse?",
-    "summary": "1. We're likely to see more price increases as the big AI companies plan to go public.",
-    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-07T20:26:13.000Z"
-  },
-  {
-    "id": "3ddb3d4e-ddf3-4770-8d45-3d55ef0dde43",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP HAS TOLD NETANYAHU NOT TO RESPOND TO IRAN'S BALLISTIC MISSILE ATTACK ON ISRAEL TONIGHTTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#c2ecafb1",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-07T20:08:15+00:00"
-  },
-  {
-    "id": "8c554f1f-2fdc-4a31-9609-fd47dffbdee7",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS ‘WOULD SAY DEAL WILL BE SIGNED ON MONDAY, TUESDAY OR WEDNESDAY AND NOW THIS TAKES PLACE’Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#a6de32d7",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-07T19:54:59+00:00"
-  },
-  {
-    "id": "dfee07ad-2b6c-4d8c-8821-a32b35a9c8c0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Strategy’s Saylor signals BTC buy as preferred dividend pay date vote looms",
-    "summary": "1. Strategy’s top execs took to social media on Sunday to tout its Bitcoin strategy while shareholders cast final votes on a proposal for twice-monthly preferred stock dividend payments.",
-    "url": "https://cointelegraph.com/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-07T19:45:17.000Z"
   }
 ]
