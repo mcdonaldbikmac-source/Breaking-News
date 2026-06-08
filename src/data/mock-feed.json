@@ -1,5 +1,55 @@
 [
   {
+    "id": "a3907147-50ea-4a35-92df-1c91e19ab0ec",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ethereum co-founder's 110K ETH move is to prevent liquidation, not a sale",
+    "summary": "A transfer of 110,000 ETH from a wallet belonging to Ethereum co-founder Joseph Lubin, the first such move in three years, was intended to defend against liquidation rather than for a sale, Crypto Briefing reported. The funds were deposited into a Sky Protocol (formerly MakerDAO) vault. Lubin has a total of 412,430 WETH locked as collateral across three Sky vaults. The protocol allows users to borrow the DAI stablecoin by depositing cryptocurrency as collateral.",
+    "url": "https://t.me/CoinnessGL#d02e173e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T04:47:01+00:00"
+  },
+  {
+    "id": "97b1274a-7656-4c27-811f-4c435291b92a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Netanyahu to convene small security meeting today",
+    "summary": "Israeli Prime Minister Netanyahu will convene a small security cabinet meeting at 8:00 a.m. UTC today, according to Al Arabiya TV.",
+    "url": "https://t.me/CoinnessGL#99a38e2b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T04:32:22+00:00"
+  },
+  {
+    "id": "d4527302-830c-4032-8348-9b9b81da384c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bank of Israel Buys $801 Million in Rare Market Intervention to Halt the Shekel’s Surge",
+    "summary": "1. The Bank of Israel purchased $801 million in May to stop the shekel from rising as the currency reached one of its strongest exchange rates against the U.S.\n2. Even so, the currency terminated May with its value rising by 4.6%.\n3. Israel’s Shekel Hits New Highs Even As Bank Of Israel Intervenes in FX Markets […]",
+    "url": "https://news.bitcoin.com/bank-of-israel-buys-801-million-in-rare-market-intervention-to-halt-the-shekels-surge/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-08T04:30:47.000Z"
+  },
+  {
+    "id": "54e5868d-9a1f-4b0c-a70b-16470ee1296d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "World Cup memecoin WORLDCUP surges 130% in two days",
+    "summary": "The Solana-based, World Cup-themed memecoin WORLDCUP has surged 130% over the past two days, BlockBeats reported. The coin began its rally over the weekend, with its market capitalization soaring to $9.5 million before settling at its current level of approximately $8.8 million. The World Cup is scheduled to kick off on June 12.",
+    "url": "https://t.me/CoinnessGL#35b010ea",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T04:28:54+00:00"
+  },
+  {
+    "id": "0115e86b-11aa-4904-ae1f-d824dfb9e170",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash",
+    "summary": "1. BTC has pulled back from overnight highs as escalating geopolitical tensions weigh over risk sentiment and send oil price higher.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-08T04:21:53.000Z"
+  },
+  {
     "id": "d59af189-7c03-4d22-a3a6-066425d34d3d",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +58,16 @@
     "url": "https://news.bitcoin.com/bitmex-ceo-says-regulation-opens-doors-but-liquidity-still-decides-winners/",
     "author": "Terence Zimwara",
     "created_at": "2026-06-08T03:30:45.000Z"
+  },
+  {
+    "id": "0589e87e-ce1a-4077-aea4-9cd463db25d2",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight",
+    "summary": "1. HTX said World Liberty froze its addresses and has responded by delisting and suspending the platform’s token.",
+    "url": "https://cointelegraph.com/news/justin-suns-htx-delists-trump-familys-usd1-amid-freeze-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-08T03:26:59.000Z"
   },
   {
     "id": "2df963e0-a1ad-4b26-a8ca-86ada1aac6a4",
@@ -80,6 +140,16 @@
     "created_at": "2026-06-08T00:30:27.000Z"
   },
   {
+    "id": "d2505167-8b44-453b-984a-4360cb548162",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇰🇷 South Korea's KOSPI stock market halted after 8.4% crash, triggering circuit breaker.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#15755fb6",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-08T00:11:46+00:00"
+  },
+  {
     "id": "85b1aac7-8da6-4a4d-9f80-dc17ddf1a04a",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -90,13 +160,13 @@
     "created_at": "2026-06-07T23:35:49.000Z"
   },
   {
-    "id": "e4e1a02e-1b10-428f-87f4-d103eb2dad71",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Expert Flags Bitcoin’s First Hashrate Bear Market as Network Sheds 145 EH/s",
-    "summary": "1. With bitcoin prices sliding to levels not witnessed since February, the network’s hashrate has undergone a steep contraction, with 145 exahash per second (EH/s) exiting the system since the close of May.\n2. Hashprice Falls 27% in 30 Days as Miner Revenue Tightens Bitcoin’s computational strength has retreated notably since May 28, 2026, when the network […]",
-    "url": "https://news.bitcoin.com/expert-flags-bitcoins-first-hashrate-bear-market-as-network-sheds-145-eh-s/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-07T22:30:50.000Z"
+    "id": "8d22fe3b-6886-47e0-ae01-b7282fbf0011",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP SAYS HE CALL THE SHOTS, NETANYAHU DOESN’TTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#5bff3064",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-07T22:55:03+00:00"
   }
 ]
