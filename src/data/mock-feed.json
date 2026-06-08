@@ -1,5 +1,25 @@
 [
   {
+    "id": "0e216c1d-af89-4d3e-8e55-1f5df9800559",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The Single Skill Warren Buffett Looks for in His Best Employees",
+    "summary": "1. Warren Buffett calls communication “extremely important” to maximizing potential, recalling how he pushed past public-speaking fears in his early 20s and urging constant improvement as he readied retirement in late 2025.\n2. Jeff Bezos likewise stresses rigorous writing, asking new hires for clear, structured memos with strong verbs and thematic paragraphs.\n3. Warren Buffett didn’t pad his […]",
+    "url": "https://news.bitcoin.com/the-single-skill-warren-buffett-looks-for-in-his-best-employees-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-08T05:30:39.000Z"
+  },
+  {
+    "id": "0ef178e0-e8f9-4849-a681-78caf5262331",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Major cryptocurrencies under pressure as oil jumps 3%",
+    "summary": "1. BTC, ETH, XRP and others pulled back from their overnight highs as Iran-Israel tensions and oil rally triggered risk aversion in Asian stocks.",
+    "url": "https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-08T05:08:06.000Z"
+  },
+  {
     "id": "a3907147-50ea-4a35-92df-1c91e19ab0ec",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -8,6 +28,16 @@
     "url": "https://t.me/CoinnessGL#d02e173e",
     "author": "@CoinnessGL",
     "created_at": "2026-06-08T04:47:01+00:00"
+  },
+  {
+    "id": "dce52561-1621-448f-bae0-4d1c487f23ea",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Tokenization firm Securitize clears key SEC hurdle for NYSE listing",
+    "summary": "1. The firm announced that the US securities regulator has declared its S-4 registration statement effective, bringing it closer to a SPAC merger with Cantor Equity Partners II.",
+    "url": "https://cointelegraph.com/news/securitize-gets-sec-nod-cantor-merger-nyse-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-08T04:34:47.000Z"
   },
   {
     "id": "97b1274a-7656-4c27-811f-4c435291b92a",
@@ -148,25 +178,5 @@
     "url": "https://t.me/WatcherGuru#15755fb6",
     "author": "@WatcherGuru",
     "created_at": "2026-06-08T00:11:46+00:00"
-  },
-  {
-    "id": "85b1aac7-8da6-4a4d-9f80-dc17ddf1a04a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "25 Lesser-Known Facts About Satoshi Nakamoto Drawn From Emails, Code, and Metadata",
-    "summary": "1. Researchers have spent more than 15 years picking apart Satoshi Nakamoto’s emails, code commits, and PDF metadata, and what they found rarely surfaces in mainstream coverage.\n2. Researchers have combed through white paper PDF metadata, source code commits, private emails, forum archives, and blockchain data to build a picture of Bitcoin’s creator that goes well beyond […]",
-    "url": "https://news.bitcoin.com/25-lesser-known-facts-about-satoshi-nakamoto-drawn-from-emails-code-and-metadata/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-07T23:35:49.000Z"
-  },
-  {
-    "id": "8d22fe3b-6886-47e0-ae01-b7282fbf0011",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS HE CALL THE SHOTS, NETANYAHU DOESN’TTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#5bff3064",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-07T22:55:03+00:00"
   }
 ]
