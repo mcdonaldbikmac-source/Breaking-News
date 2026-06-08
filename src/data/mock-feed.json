@@ -1,5 +1,325 @@
 [
   {
+    "id": "9c565e07-b09a-4ad4-acf8-4e14c233053d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "After Buying More Bitcoin Than It Sold, Strategy Wins Dividend Approval as Holdings Hit 845,256 BTC",
+    "summary": "1. Strategy secured approval to pay STRC dividends twice monthly as its bitcoin holdings climbed to 845,256 BTC.\n2. The move follows recent treasury activity and could reshape how income investors view the company’s preferred stock.\n3. Strategy’s STRC Shift Could Change How Investors Price Preferred Income After buying 1,550 BTC and selling 32 BTC one week earlier, […]",
+    "url": "https://news.bitcoin.com/after-buying-more-bitcoin-than-it-sold-strategy-wins-dividend-approval-as-holdings-hit-845256-btc/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-08T16:01:36.000Z"
+  },
+  {
+    "id": "30fa2d74-caee-477c-b782-5c807d6c5408",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "NotebookLM’s new update will help you build source repository from chat",
+    "summary": "1. Google is making Gemini 3.5 the default model in NotebookLM",
+    "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-06-08T16:00:00.000Z"
+  },
+  {
+    "id": "56d2cf4b-74b2-4d62-81e0-237d318dcba3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ledger CTO says EU MiCA compliance costs hinder Web3 innovation",
+    "summary": "The chief technology officer (CTO) of hardware wallet firm Ledger has argued that the significant costs required to comply with the European Union's Markets in Crypto-Assets (MiCA) regulation are hindering Web3 innovation. In an interview with CoinDesk, he stated that these compliance costs create a high financial barrier, stifling technological progress for early-stage companies. The CTO highlighted that startups struggle to afford expenses such as advisory services, operational overhead, legal and audit fees, insurance, and infrastructure development. He emphasized that this regulatory environment ultimately favors large financial institutions.",
+    "url": "https://t.me/CoinnessGL#6e40fbd0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T15:57:25+00:00"
+  },
+  {
+    "id": "90396d0b-45fe-4681-8d8b-e505836e4383",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Aave founder touts resilience after KelpDAO hack, but incident exposed system flaws: CoinDesk",
+    "summary": "While Aave founder Stani Kulechov touted the resilience of decentralized finance in the wake of the KelpDAO hack in April, the incident actually exposed serious flaws in the lending protocol's risk management system, CoinDesk reported. The outlet noted that the attacker used KelpDAO's LayerZero bridge to steal $292 million in cryptocurrency, triggering a bank run on Aave that saw $8.45 billion withdrawn over 48 hours. Although Aave subsequently overcame the crisis with a $300 million emergency bailout, Kulechov's claims of resilience appear limited. Aave plans to address these system risks with its upcoming V4 upgrade.",
+    "url": "https://t.me/CoinnessGL#3ee047ff",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T15:49:52+00:00"
+  },
+  {
+    "id": "9cea3c33-600b-4f54-afdf-b9f6260acda7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Amazon now lets you design custom merch using AI",
+    "summary": "1. A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+    "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "author": "Sarah Perez",
+    "created_at": "2026-06-08T15:49:12.000Z"
+  },
+  {
+    "id": "8540bcf8-d594-4871-a0e5-0f812c87506f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Strategy shareholders approve semi-monthly dividends for STRC preferred stock",
+    "summary": "1. \"Paying dividends on STRC twice a month is designed to stabilize price, dampen cyclicality, drive liquidity, and grow demand for STRC,\" Strategy's CEO said.",
+    "url": "https://www.theblock.co/post/404010/strategy-shareholders-approve-semi-monthly-dividends-strc-preferred-stock?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-06-08T15:41:38.000Z"
+  },
+  {
+    "id": "a4f1b6b8-52e6-49a4-9580-f7b9095bced0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Sam Bankman-Fried officially asks Trump for a presidential pardon",
+    "summary": "1. The fallen crypto mogul serving a 25-year sentence filed a clemency petition, betting on Donald Trump's history of crypto pardons even though the president had told him not to count on one.",
+    "url": "https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon",
+    "author": "Helene Braun",
+    "created_at": "2026-06-08T15:41:10.000Z"
+  },
+  {
+    "id": "c9bf2cf2-f49f-4dff-a3b2-22df860013ce",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation",
+    "summary": "1. Industry insiders warn that MiCA's steep financial barriers are choking early-stage innovation.",
+    "url": "https://www.coindesk.com/business/2026/06/08/europe-s-strict-new-crypto-rules-are-crushing-small-startups-ledger-cto-says",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-08T15:38:03.000Z"
+  },
+  {
+    "id": "683ec452-42fe-4569-bc3c-ec05e88d8fc7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order",
+    "summary": "1. The messaging giant announced that it disrupted a phishing campaign targeting its users with NSO’s spyware.",
+    "url": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-06-08T15:37:31.000Z"
+  },
+  {
+    "id": "692525c6-b14b-48cc-b03b-21397f1a6ec6",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Israel is holding fire on Iran for now but will respond \"with might\" if attacked again, Netanyahu saysTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#ef1faadd",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-08T15:27:00+00:00"
+  },
+  {
+    "id": "07d18df8-02ca-4eab-ae3a-992deecb8686",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Sam Bankman-Fried Files Formal Trump Pardon Request as FTT Jumps 50%",
+    "summary": "1. Sam Bankman-Fried, the convicted FTX co-founder serving a 25-year federal prison sentence, formally submitted a presidential pardon application to the U.S.\n2. Department of Justice’s Office of the Pardon Attorney on June 8, 2026.\n3. Breaking: Formal Petition Confirmed Bloomberg first reported the filing on Monday morning.",
+    "url": "https://news.bitcoin.com/sam-bankman-fried-files-formal-trump-pardon-request-as-ftt-jumps-50/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-08T15:24:48.000Z"
+  },
+  {
+    "id": "867fda4c-a4cb-4b74-8490-95c9adb4dfbb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Israel temporarily suspends attacks on Iran",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu has announced a temporary suspension of attacks on Iran. In an ongoing speech, he stated that Iran and Hezbollah are attempting to impose an unacceptable situation on Israel, but that Israel is currently exercising restraint. Netanyahu added that while Iran and Lebanon's Hezbollah are weaker than ever, the war against them is not yet over. He warned that if Iran makes another mistake, Israel will respond with overwhelming force.",
+    "url": "https://t.me/CoinnessGL#c6d802b9",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T15:22:10+00:00"
+  },
+  {
+    "id": "dd5b6108-a0fb-4da6-aa38-507fe0762da8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bernstein says Bitcoin’s store-of-value thesis remains intact despite $2.6B in 2026 ETF outflows, as treasury firms help offset redemptions.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a8649cd0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-08T15:19:28+00:00"
+  },
+  {
+    "id": "7629d003-c8d7-4487-84b7-0cfe2cff5cea",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum",
+    "summary": "1. Leading Ethereum treasury firm BitMine Immersion Technologies bought the dip, making its largest weekly ETH purchase so far this year.",
+    "url": "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum",
+    "author": "Andrew Hayward",
+    "created_at": "2026-06-08T15:18:37.000Z"
+  },
+  {
+    "id": "d8f04775-0507-402b-90ba-f376525f1f41",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
+    "summary": "1. The founder of the largest DeFi platform blamed \"third-party” entities for decentralized finance’s vulnerabilities, while independent data highlights severe gaps in Aave’s own risk architecture.",
+    "url": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-08T15:17:44.000Z"
+  },
+  {
+    "id": "60340607-4c09-4500-aae7-a33d30df784c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin ETFs Lose $1.72B in Second-Largest Weekly Outflow Since Launch",
+    "summary": "1. Crypto ETF flows stayed under pressure from June 1 to June 5, with bitcoin funds posting a fourth straight week of withdrawals and ether ETFs also ending firmly negative.\n2. The weakness was not uniform, however, as HYPE and XRP ETFs drew inflows while solana slipped back into redemptions.\n3. Bitcoin and Ether ETFs Lose $1.89B While […]",
+    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-1-72b-in-second-largest-weekly-outflow-since-launch/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-08T14:57:12.000Z"
+  },
+  {
+    "id": "6846b329-79da-43a2-ac81-c617f8524b8b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "CFTC scraps plan to share office space with the SEC and will extend its Washington lease for another five years Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#46efb17c",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-08T14:55:08+00:00"
+  },
+  {
+    "id": "31b7a5ae-c872-4640-83f6-a8d6ddcf3120",
+    "source": "The Block",
+    "type": "rss",
+    "title": "TON Strategy’s May staking haul tops 3.3 million TON as network upgrades take effect",
+    "summary": "1. TON Strategy made approximately $5.6 million in staking rewards for May and is staking nearly all of its over 227 million tokens.",
+    "url": "https://www.theblock.co/post/403992/ton-strategy-may-staking-3-3-million-network-upgrades-effect?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-08T14:48:41.000Z"
+  },
+  {
+    "id": "41369f09-26d5-4c9a-9332-d623d14c7787",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks",
+    "summary": "1. BlackRock’s IBIT accounted for most of the weekly Bitcoin ETF redemptions, while Fidelity and Grayscale funds also saw outflows.",
+    "url": "https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-06-08T14:46:26.000Z"
+  },
+  {
+    "id": "e7e582b8-6cae-4be8-81a5-b9b18ac2b213",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump",
+    "summary": "1. Sam Bankman-Fried is pressing ahead with his bid for a presidential pardon, even after President Trump said he has no plans to grant clemency.",
+    "url": "https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-08T14:45:34.000Z"
+  },
+  {
+    "id": "bf502fb4-8082-4591-ae2b-d0dd0ea58c38",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Zcash rebounded 42% after an emergency upgrade patched its Orchard vulnerability, while developers weighed a new shielded pool called Ironwood.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c97c41de",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-08T14:39:21+00:00"
+  },
+  {
+    "id": "b80ac3ba-d8ac-4602-ad30-5371cfb79846",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 US spot Bitcoin ETFs shed $1.72 billion last week, their second-worst weekly outflow on record, with BlackRock’s IBIT leading redemptions.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#89d6c39e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-08T14:34:32+00:00"
+  },
+  {
+    "id": "c7c4c409-0532-4c53-9705-33b10019cfa9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price eyes $90K as FTX-era BTC bullish divergence flashes again",
+    "summary": "1. Bitcoin flashes only its second weekly bullish divergence on record, a signal that previously preceded a 755% BTC price rally.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-90k-as-ftx-era-btc-bullish-divergence-flashes-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-06-08T14:30:28.000Z"
+  },
+  {
+    "id": "270db62d-b444-4778-b029-8be814dbae96",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 FTX Founder Sam Bankman-Fried applies for pardon from President Trump.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#338d3d40",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-08T14:28:37+00:00"
+  },
+  {
+    "id": "5dd5cb30-4d8b-4a26-8883-b826728ab9dd",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "FTX CO-FOUNDER BANKMAN-FRIED FORMALLY APPLIES FOR TRUMP PARDONTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#1e57a885",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-08T14:08:51+00:00"
+  },
+  {
+    "id": "c829ee04-604f-4e59-bfbb-78a890bffba0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korea police raid Bithumb over lawmaker hiring favoritism probe: report",
+    "summary": "1. South Korean lawmaker Kim Byung-gi faces probe over alleged nepotism tied to his son’s crypto jobs as police raid Bithumb's offices.",
+    "url": "https://cointelegraph.com/news/south-korea-police-raid-bithumb-over-lawmaker-hiring-favoritism-probe-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-08T14:02:36.000Z"
+  },
+  {
+    "id": "28f91762-0b2e-42cc-8229-5253be5352d6",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Strive Buys 32 Bitcoin at $63,900 Average, Bringing Total Holdings to 19,032 BTC",
+    "summary": "1. Bitcoin Magazine\n\nStrive Buys 32 Bitcoin at $63,900 Average, Bringing Total Holdings to 19,032 BTC\nStrive, Inc.\n2. (Nasdaq: ASST) disclosed Monday that it purchased 32 bitcoin between June 2 and June 7, 2026, at an average cost of approximately $63,911 per coin — inclusive of fees and expenses — for a total outlay of roughly $2.1 million, according to a Form 8-K filed with the U.S.\n3. Securities and Exchange Commission.",
+    "url": "https://bitcoinmagazine.com/news/strive-buys-32-bitcoin-at-63900-average",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-08T13:54:45.000Z"
+  },
+  {
+    "id": "3418e43b-2c99-45a5-a1df-5e0a85a82d0a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Congress to Discuss Crypto Tax Rules: What to Watch",
+    "summary": "1. The House Ways and Means committee will review draft crypto tax bills covering staking, mining, network fees, and reporting.",
+    "url": "https://decrypt.co/370310/congress-to-discuss-crypto-tax-rules-what-to-watch",
+    "author": "Vince Dioquino",
+    "created_at": "2026-06-08T13:52:16.000Z"
+  },
+  {
+    "id": "2a05e9fc-98e8-4a8f-a2e0-02f92479640a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Buys Bitcoin, Pads Cash Reserves Following Biggest Weekly Stock Drop Since 2022",
+    "summary": "1. Strategy’s stockpile was $10.7 billion underwater as of Monday morning after Bitcoin hit its lowest price since October 2024.s",
+    "url": "https://decrypt.co/370309/strategy-buys-bitcoin-pads-cash-reserves-biggest-weekly-drop-2022",
+    "author": "André Beganski",
+    "created_at": "2026-06-08T13:46:18.000Z"
+  },
+  {
+    "id": "73260039-21f5-49c8-8749-f09d02ffa3a3",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Nvidia CEO Jensen Huang says AI stocks are \"very cheap\" right now.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5e425b74",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-08T13:34:44+00:00"
+  },
+  {
+    "id": "533bc7ac-c8d1-4d17-8637-bb42fba9ad71",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Google $GOOGL and Nvidia $NVDA are considering Intel as a backup chip manufacturer.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#837e0a72",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-08T13:10:24+00:00"
+  },
+  {
+    "id": "a95c66ef-4056-48ee-be37-d75f30bcf74b",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Strategy (MSTR) Restarts Bitcoin Purchases After Selling, Buys 1,550 BTC for $101 Million",
+    "summary": "1. Bitcoin Magazine\n\nStrategy (MSTR) Restarts Bitcoin Purchases After Selling, Buys 1,550 BTC for $101 Million\nStrategy resumed its bitcoin accumulation strategy with a $101 million purchase of 1,550 BTC, rebuilding confidence after its first bitcoin sale in years and bringing its holdings to 845,256 BTC.\n2. This post Strategy (MSTR) Restarts Bitcoin Purchases After Selling, Buys 1,550 BTC for $101 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/strategy-restarts-bitcoin-purchases-1550",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-08T13:07:45.000Z"
+  },
+  {
     "id": "282a1fed-3cbb-4c16-81b5-69fc25d39970",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -108,305 +428,5 @@
     "url": "https://trumpstruth.org/statuses/39141",
     "author": "Trump Truth",
     "created_at": "2026-06-08T10:15:09.000Z"
-  },
-  {
-    "id": "e62f6ed3-e321-46f7-95be-b95b73bb3ca0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw",
-    "summary": "1. Ironwood would close the old Orchard pool to new activity and route funds through a turnstile before they enter a new shielded pool.",
-    "url": "https://cointelegraph.com/news/zcash-ironwood-shielded-pool-orchard-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-06-08T10:02:47.000Z"
-  },
-  {
-    "id": "0e8ebb6f-a571-4b0a-8d63-1ec988557401",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls",
-    "summary": "1. Gold falls into bear market territory, while a stronger U.S.\n2. dollar and rising rate expectations pressure risk assets.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/gold-slips-below-200-day-moving-average-offering-glimmer-of-hope-for-bitcoin-bulls",
-    "author": "James Van Straten",
-    "created_at": "2026-06-08T09:57:38.000Z"
-  },
-  {
-    "id": "b5a6ec52-a025-4365-82d0-187c25d62268",
-    "source": "Politico",
-    "type": "rss",
-    "title": "A political nerd’s guide to Britain’s by-election",
-    "summary": "1. By-elections — the British equivalent of a U.S.\n2. special election — are held when a member of Parliament resigns, dies or becomes enmeshed in tabloid scandal and are flung out of office by angry voters.",
-    "url": "https://www.politico.com/news/2026/06/08/political-nerd-guide-britain-by-elections-00952829",
-    "author": "By Jack Blanchard",
-    "created_at": "2026-06-08T09:56:00.000Z"
-  },
-  {
-    "id": "6ef5534c-c1fc-4324-8236-155ed1c20f4e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "U.S. inflation, European Central Bank rate decision: Crypto Week Ahead",
-    "summary": "1. Your look at what's coming in the week starting June 8.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/u-s-inflation-european-central-bank-rate-decision-crypto-week-ahead",
-    "author": "Jamie Crawley",
-    "created_at": "2026-06-08T09:46:21.000Z"
-  },
-  {
-    "id": "000d0713-5e77-4ddb-81c4-a588e0739549",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump calls for immediate end to Israel-Iran hostilities",
-    "summary": "U.S. President Donald Trump said Israel and Iran must immediately cease hostilities.",
-    "url": "https://t.me/CoinnessGL#a700a347",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-08T09:40:46+00:00"
-  },
-  {
-    "id": "5058a488-4cf3-4efc-a2ef-ecb867f6e180",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS ISRAEL AND IRAN MUST IMMEDIATELY STOP “SHOOTING.” Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#92b7d6dd",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-08T09:38:37+00:00"
-  },
-  {
-    "id": "038afb5b-698d-4eaa-acce-7aeb0ba09a0c",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Israel and Iran must immediately stop “shooting.” President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39140",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T09:36:39.000Z"
-  },
-  {
-    "id": "16c85345-8313-4c49-893f-ce0324b15cb7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ethereum OG Dumps $188M Near $2,040, Buys Back ETH 23% Cheaper",
-    "summary": "1. A long-dormant Ethereum investor sold about $188 million in ether and related tokens just before this month’s market crash, then began buying back at sharply lower prices, completing a textbook round trip.\n2. A Well-Timed Exit The investor who has been holding coins since the network’s early days sold 60,000 ETH worth about $117.25 million and […]",
-    "url": "https://news.bitcoin.com/ethereum-og-sells-188-million-before-crash-buys-back/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-08T09:30:09.000Z"
-  },
-  {
-    "id": "45c335e6-1883-4b80-853d-95df481b9d47",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "117 Partners CEO calls on Cardano Foundation to disclose use of 1,090 BTC",
-    "summary": "Thomas Braziel, CEO of crypto investment and advisory firm 117 Partners, has called for the Cardano (ADA) Foundation to disclose its use of Bitcoin (BTC). In a post on X, Braziel stated that after reviewing corporate registration documents and the official Cardano website, he found that the foundation's initial entity, the Manx Foundation, was established during its 2015 ICO with Cardano founder Charles Hoskinson serving as a director. This foundation appears to have received approximately 1,090 BTC. Braziel noted that since the foundation was dissolved in December 2025, it needs to release documents related to its governance and the use of the BTC. He clarified that he is not currently alleging any wrongdoing but is demanding a higher level of transparency.",
-    "url": "https://t.me/CoinnessGL#8eeadf47",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-08T09:26:06+00:00"
-  },
-  {
-    "id": "5baf1d50-bb8c-447f-a3a8-e030b25ca512",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Zcash developers propose upgrade to block counterfeit ZEC",
-    "summary": "Zcash (ZEC) developers have proposed a new shielded pool upgrade, named Ironwood, to bolster supply verification following a recently patched vulnerability in the Orchard privacy pool. According to Cointelegraph, developer ZODL and the Zcash Foundation plan to introduce a formal verification and independent audit system to Ironwood. The proposal outlines that the existing Orchard pool will halt new deposits and internal transactions, with funds being migrated to Ironwood through a verification process called a turnstile.",
-    "url": "https://t.me/CoinnessGL#c512c68e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-08T09:25:29+00:00"
-  },
-  {
-    "id": "97fbe63e-b4f0-4d28-819a-511d1854c3cc",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Strategy CEO Phong Le says the firm’s goal is to keep growing its Bitcoin holdings per share over time, even if occasional BTC sales are needed.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b3a1bef2",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T09:24:22+00:00"
-  },
-  {
-    "id": "510e3a0a-70d9-409d-9243-fff70404c844",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Glassnode co-founder Rafael Schultze-Kraft puts Bitcoin’s high-probability bottom range at $46,000–$54,000, with BTC below the median holder’s breakeven for the first time since Dec.",
-    "summary": "2022.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e19a0d00",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T09:24:20+00:00"
-  },
-  {
-    "id": "ebafb4d8-a122-4074-bfac-ff83e1cd713d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bitcoin and Ethereum faced their worst weekly losses since the FTX collapse, wiping $390B from the crypto market as $7B in leveraged positions were liquidated.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f98aa929",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T09:24:18+00:00"
-  },
-  {
-    "id": "e2c7af6f-a336-4b74-89d3-4dec21217ef0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025",
-    "summary": "1. The outflows were primarily driven by macroeconomic headlines, especially the stronger-than-expected U.S.\n2. jobs report, one analyst said.",
-    "url": "https://www.theblock.co/post/403936/bitcoin-etfs-weekly-outflows-largest-since-2025?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-08T09:17:58.000Z"
-  },
-  {
-    "id": "57ca7e1f-d093-4717-bca8-83e276bd7bc3",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Arthur Hayes says Hyperliquid’s fee-driven HYPE buyback model could face pressure as TradFi exchanges and major crypto venues move into the perp market.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#21e30f04",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T08:49:20+00:00"
-  },
-  {
-    "id": "324e037d-d8ca-49a7-8325-b5843d5d6ed6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin’s Bounce to $64,000 Wipes out $320 Million in Crypto Shorts in 15 Minutes",
-    "summary": "1. A sudden bitcoin rebound torched roughly $320 million worth of short positions across the crypto market in just 15 minutes, as bearish traders were caught offside by a fast reversal off the year’s lows.\n2. A 15-Minute Short Squeeze A little over $320,000,000 in shorts were liquidated from the crypto market in a single 15-minute window […]",
-    "url": "https://news.bitcoin.com/bitcoin-bounce-320-million-crypto-shorts-liquidated/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-08T08:30:29.000Z"
-  },
-  {
-    "id": "676d61ac-9c28-47dd-a079-d80f72d57a7c",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran says it remains in talks with the US through mediators despite the latest Israel-Iran attacksTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#957e8e5d",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-08T08:29:34+00:00"
-  },
-  {
-    "id": "e056ca52-1d39-4340-9283-6a0e10eba2be",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "CME is letting traders bet on bitcoin volatility, not price, and two firms have already placed bets",
-    "summary": "1. Monarq and DV Chain kick off trading in CME's bitcoin volatility index futures.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/cme-has-a-new-bitcoin-product-monarq-and-dv-chain-made-their-first-bet",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-08T08:19:30.000Z"
-  },
-  {
-    "id": "c826cb61-bff3-4bc7-814d-71dc12552cfb",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "IRAN SAYS IF HITS ON ENERGY ASSETS CONTINUE, REGIONAL ONES A TARGETTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#75b2f650",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-08T08:19:15+00:00"
-  },
-  {
-    "id": "42d0043f-a943-49d8-868b-3d42c76ed7ab",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 AI rotation, tech IPOs, quantum fears, and Strategy's BTC sale have all weighed on Bitcoin at once, with no single catalyst driving the drop, according to NYDIG.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e127ba8d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T08:14:39+00:00"
-  },
-  {
-    "id": "ca8888c0-2bba-452d-b838-efe09ef95e5c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Zcash bounces 45% as developers propose new 'Ironwood' upgrade",
-    "summary": "1. The plan would let anyone verify that no counterfeit coins are circulating, addressing the patched bug that triggered last week's crash.\n2. ZEC is still down about 22% on the week.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/zcash-bounces-45-as-developers-propose-new-ironwood-upgrade",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-08T08:10:57.000Z"
-  },
-  {
-    "id": "bbbe2cff-e254-41dd-8280-019a34c71fd8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 JPMorgan is turning cautious on crypto, warning Strategy’s cash reserves cover just 6.3 months of dividends and giving the CLARITY Act less than 50% odds of passing.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#1648aaab",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T07:24:09+00:00"
-  },
-  {
-    "id": "4911065e-bb71-4cec-a83f-9c680516c153",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Surges 5% to $64K, Settles Near $62.5K as Trump Says Netanyahu Must Accept Iran Deal",
-    "summary": "1. Bitcoin climbed roughly 5% to around $64,000 on Sunday after U.S.\n2. President Donald Trump said Israeli Prime Minister Benjamin Netanyahu will have “no choice” but to accept a U.S.-brokered deal with Iran.\n3. Trump Says the Deal Is ‘Almost Complete’ The rally followed remarks in which Trump framed the agreement as a near-certainty and signaled he […]",
-    "url": "https://news.bitcoin.com/bitcoin-surges-64k-trump-netanyahu-iran-deal/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-08T07:05:09.000Z"
-  },
-  {
-    "id": "e06155de-5fe7-4a9e-af43-12c2d5bd8d31",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch ",
-    "summary": "1. Maelstrom’s Arthur Hayes has been on a selling spree recently, offloading positions in HYPE, ZEC, NEAR and now WLD.",
-    "url": "https://cointelegraph.com/news/arthur-hayes-offloads-wld-days-after-maelstrom-touted-it-as-an-ai-ipo-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-08T07:02:30.000Z"
-  },
-  {
-    "id": "1aeffd48-5ed3-49a3-8cfc-077af5ab7b13",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Galaxy drops CLARITY Act odds to 60% as time is running out",
-    "summary": "1. Galaxy Digital says the Senate has a tight calendar ahead of the November elections, and the time needed to fix up and pass a key crypto bill is quickly fading.",
-    "url": "https://cointelegraph.com/news/galaxy-drops-clarity-act-passage-odds-to-60-percent-as-time-runs-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-08T07:01:15.000Z"
-  },
-  {
-    "id": "9a063e69-958c-45ef-a865-ac5602b48d83",
-    "source": "The Block",
-    "type": "rss",
-    "title": "ZEC rebounds 42% as ZODL founder details two-step emergency upgrade",
-    "summary": "1. Josh Swihart, founder of ZODL, provided details on how the Zcash team resolved a critical vulnerability in the Orchard shielded pool.",
-    "url": "https://www.theblock.co/post/403929/zec-rebounds-zodl-founder-details-response?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-08T06:52:09.000Z"
-  },
-  {
-    "id": "de356f85-0474-422f-a7dd-6f8138081b1f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "This Week in Crypto Law (May 30, 2026)",
-    "summary": "1. Law and Ledger is a news segment focusing on crypto legal news, brought to you by Kelman Law – A law firm focused on digital asset commerce.\n2. This Week in Crypto Law The opinion editorial below was written by Alex Forehand and Michael Handelsman for Kelman.Law.\n3. The final week of May illustrated a defining trend […]",
-    "url": "https://news.bitcoin.com/this-week-in-crypto-law-may-30-2026/",
-    "author": "Guest Author",
-    "created_at": "2026-06-08T06:30:41.000Z"
-  },
-  {
-    "id": "1a03fbbe-12e9-4343-ae79-a052611f36cb",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP steadies above $1.10 to bounce from four-month lows",
-    "summary": "1. XRP recovered from four-month lows on elevated volume, but the token remains trapped below key resistance levels even as ETF inflows and exchange outflows continue to build.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/xrp-steadies-above-usd1-10-as-oversold-bounce-meets-lingering-bearish-pressure",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-08T06:06:55.000Z"
-  },
-  {
-    "id": "ddd4d0b8-4fd1-4020-b3ac-f7138f2b2b89",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin pump to $63,700 triggers the most short liquidations since late April",
-    "summary": "1. Traders betting against bitcoin lost $504 million over 24 hours as it bounced from below $60,000, though a fresh Iran-Israel flare-up pulled prices back on Monday.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-08T05:53:22.000Z"
-  },
-  {
-    "id": "0e216c1d-af89-4d3e-8e55-1f5df9800559",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "The Single Skill Warren Buffett Looks for in His Best Employees",
-    "summary": "1. Warren Buffett calls communication “extremely important” to maximizing potential, recalling how he pushed past public-speaking fears in his early 20s and urging constant improvement as he readied retirement in late 2025.\n2. Jeff Bezos likewise stresses rigorous writing, asking new hires for clear, structured memos with strong verbs and thematic paragraphs.\n3. Warren Buffett didn’t pad his […]",
-    "url": "https://news.bitcoin.com/the-single-skill-warren-buffett-looks-for-in-his-best-employees-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-06-08T05:30:39.000Z"
   }
 ]
