@@ -1,5 +1,75 @@
 [
   {
+    "id": "4911065e-bb71-4cec-a83f-9c680516c153",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Surges 5% to $64K, Settles Near $62.5K as Trump Says Netanyahu Must Accept Iran Deal",
+    "summary": "1. Bitcoin climbed roughly 5% to around $64,000 on Sunday after U.S.\n2. President Donald Trump said Israeli Prime Minister Benjamin Netanyahu will have “no choice” but to accept a U.S.-brokered deal with Iran.\n3. Trump Says the Deal Is ‘Almost Complete’ The rally followed remarks in which Trump framed the agreement as a near-certainty and signaled he […]",
+    "url": "https://news.bitcoin.com/bitcoin-surges-64k-trump-netanyahu-iran-deal/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-08T07:05:09.000Z"
+  },
+  {
+    "id": "e06155de-5fe7-4a9e-af43-12c2d5bd8d31",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch ",
+    "summary": "1. Maelstrom’s Arthur Hayes has been on a selling spree recently, offloading positions in HYPE, ZEC, NEAR and now WLD.",
+    "url": "https://cointelegraph.com/news/arthur-hayes-offloads-wld-days-after-maelstrom-touted-it-as-an-ai-ipo-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-08T07:02:30.000Z"
+  },
+  {
+    "id": "1aeffd48-5ed3-49a3-8cfc-077af5ab7b13",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Galaxy drops CLARITY Act odds to 60% as time is running out",
+    "summary": "1. Galaxy Digital says the Senate has a tight calendar ahead of the November elections, and the time needed to fix up and pass a key crypto bill is quickly fading.",
+    "url": "https://cointelegraph.com/news/galaxy-drops-clarity-act-passage-odds-to-60-percent-as-time-runs-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-08T07:01:15.000Z"
+  },
+  {
+    "id": "9a063e69-958c-45ef-a865-ac5602b48d83",
+    "source": "The Block",
+    "type": "rss",
+    "title": "ZEC rebounds 42% as ZODL founder details two-step emergency upgrade",
+    "summary": "1. Josh Swihart, founder of ZODL, provided details on how the Zcash team resolved a critical vulnerability in the Orchard shielded pool.",
+    "url": "https://www.theblock.co/post/403929/zec-rebounds-zodl-founder-details-response?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-08T06:52:09.000Z"
+  },
+  {
+    "id": "de356f85-0474-422f-a7dd-6f8138081b1f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "This Week in Crypto Law (May 30, 2026)",
+    "summary": "1. Law and Ledger is a news segment focusing on crypto legal news, brought to you by Kelman Law – A law firm focused on digital asset commerce.\n2. This Week in Crypto Law The opinion editorial below was written by Alex Forehand and Michael Handelsman for Kelman.Law.\n3. The final week of May illustrated a defining trend […]",
+    "url": "https://news.bitcoin.com/this-week-in-crypto-law-may-30-2026/",
+    "author": "Guest Author",
+    "created_at": "2026-06-08T06:30:41.000Z"
+  },
+  {
+    "id": "1a03fbbe-12e9-4343-ae79-a052611f36cb",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP steadies above $1.10 to bounce from four-month lows",
+    "summary": "1. XRP recovered from four-month lows on elevated volume, but the token remains trapped below key resistance levels even as ETF inflows and exchange outflows continue to build.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/xrp-steadies-above-usd1-10-as-oversold-bounce-meets-lingering-bearish-pressure",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-08T06:06:55.000Z"
+  },
+  {
+    "id": "ddd4d0b8-4fd1-4020-b3ac-f7138f2b2b89",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin pump to $63,700 triggers the most short liquidations since late April",
+    "summary": "1. Traders betting against bitcoin lost $504 million over 24 hours as it bounced from below $60,000, though a fresh Iran-Israel flare-up pulled prices back on Monday.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-08T05:53:22.000Z"
+  },
+  {
     "id": "0e216c1d-af89-4d3e-8e55-1f5df9800559",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -148,35 +218,5 @@
     "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
     "author": "The Block Research",
     "created_at": "2026-06-08T02:05:08.000Z"
-  },
-  {
-    "id": "449c0049-99a5-44b4-b8ad-b33cc207c23f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "1,878 BTC Moves Onchain as Noah Doe’s Declaratory Judgment Bid Unravels",
-    "summary": "1. After a judge halted a default judgment Friday in the New York Supreme Court case Noah Doe v.\n2. John Does 1-39,069, several onchain wallets linked to the litigation have sprung into motion.\n3. On Sunday, Galaxy Research identified a wallet dormant since 2019 that transferred 1,878.5711 BTC, valued at $114.16 million, marking its first activity in […]",
-    "url": "https://news.bitcoin.com/1878-btc-moves-onchain-as-noah-does-declaratory-judgment-bid-unravels-37856/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-08T01:34:54.000Z"
-  },
-  {
-    "id": "13f9456a-981c-4c1a-89a2-c3240d93adef",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP Utility Moves Beyond Payments as XRPL Eyes Tokenized Stocks, Funds, Loans",
-    "summary": "1. Ripple CTO Emeritus David Schwartz said XRP utility is expanding as the XRP Ledger supports issued assets, tokenized real-world assets, and a growing range of financial products such as securities, funds, repos, and loans.\n2. ‘ XRP in a Minute’ Shows How XRPL Is Moving Beyond Basic Transfers Ripple published a new “ XRP in a […]",
-    "url": "https://news.bitcoin.com/xrp-utility-moves-beyond-payments-as-xrpl-eyes-tokenized-stocks-funds-loans/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-08T00:30:27.000Z"
-  },
-  {
-    "id": "d2505167-8b44-453b-984a-4360cb548162",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇰🇷 South Korea's KOSPI stock market halted after 8.4% crash, triggering circuit breaker.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#15755fb6",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-08T00:11:46+00:00"
   }
 ]
