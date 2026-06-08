@@ -1,5 +1,155 @@
 [
   {
+    "id": "6ef5534c-c1fc-4324-8236-155ed1c20f4e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. inflation, European Central Bank rate decision: Crypto Week Ahead",
+    "summary": "1. Your look at what's coming in the week starting June 8.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/u-s-inflation-european-central-bank-rate-decision-crypto-week-ahead",
+    "author": "Jamie Crawley",
+    "created_at": "2026-06-08T09:46:21.000Z"
+  },
+  {
+    "id": "000d0713-5e77-4ddb-81c4-a588e0739549",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump calls for immediate end to Israel-Iran hostilities",
+    "summary": "U.S. President Donald Trump said Israel and Iran must immediately cease hostilities.",
+    "url": "https://t.me/CoinnessGL#a700a347",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T09:40:46+00:00"
+  },
+  {
+    "id": "1e98b15e-bf81-4b33-a5dc-7f8f33b16cc0",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP SAYS ISRAEL AND IRAN MUST IMMEDIATELY STOP “SHOOTING.” Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#92b7d6dd",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-08T09:38:37+00:00"
+  },
+  {
+    "id": "16c85345-8313-4c49-893f-ce0324b15cb7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ethereum OG Dumps $188M Near $2,040, Buys Back ETH 23% Cheaper",
+    "summary": "1. A long-dormant Ethereum investor sold about $188 million in ether and related tokens just before this month’s market crash, then began buying back at sharply lower prices, completing a textbook round trip.\n2. A Well-Timed Exit The investor who has been holding coins since the network’s early days sold 60,000 ETH worth about $117.25 million and […]",
+    "url": "https://news.bitcoin.com/ethereum-og-sells-188-million-before-crash-buys-back/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-08T09:30:09.000Z"
+  },
+  {
+    "id": "45c335e6-1883-4b80-853d-95df481b9d47",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "117 Partners CEO calls on Cardano Foundation to disclose use of 1,090 BTC",
+    "summary": "Thomas Braziel, CEO of crypto investment and advisory firm 117 Partners, has called for the Cardano (ADA) Foundation to disclose its use of Bitcoin (BTC). In a post on X, Braziel stated that after reviewing corporate registration documents and the official Cardano website, he found that the foundation's initial entity, the Manx Foundation, was established during its 2015 ICO with Cardano founder Charles Hoskinson serving as a director. This foundation appears to have received approximately 1,090 BTC. Braziel noted that since the foundation was dissolved in December 2025, it needs to release documents related to its governance and the use of the BTC. He clarified that he is not currently alleging any wrongdoing but is demanding a higher level of transparency.",
+    "url": "https://t.me/CoinnessGL#8eeadf47",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T09:26:06+00:00"
+  },
+  {
+    "id": "5baf1d50-bb8c-447f-a3a8-e030b25ca512",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Zcash developers propose upgrade to block counterfeit ZEC",
+    "summary": "Zcash (ZEC) developers have proposed a new shielded pool upgrade, named Ironwood, to bolster supply verification following a recently patched vulnerability in the Orchard privacy pool. According to Cointelegraph, developer ZODL and the Zcash Foundation plan to introduce a formal verification and independent audit system to Ironwood. The proposal outlines that the existing Orchard pool will halt new deposits and internal transactions, with funds being migrated to Ironwood through a verification process called a turnstile.",
+    "url": "https://t.me/CoinnessGL#c512c68e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-08T09:25:29+00:00"
+  },
+  {
+    "id": "e2c7af6f-a336-4b74-89d3-4dec21217ef0",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025",
+    "summary": "1. The outflows were primarily driven by macroeconomic headlines, especially the stronger-than-expected U.S.\n2. jobs report, one analyst said.",
+    "url": "https://www.theblock.co/post/403936/bitcoin-etfs-weekly-outflows-largest-since-2025?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-08T09:17:58.000Z"
+  },
+  {
+    "id": "57ca7e1f-d093-4717-bca8-83e276bd7bc3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Arthur Hayes says Hyperliquid’s fee-driven HYPE buyback model could face pressure as TradFi exchanges and major crypto venues move into the perp market.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#21e30f04",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-08T08:49:20+00:00"
+  },
+  {
+    "id": "324e037d-d8ca-49a7-8325-b5843d5d6ed6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin’s Bounce to $64,000 Wipes out $320 Million in Crypto Shorts in 15 Minutes",
+    "summary": "1. A sudden bitcoin rebound torched roughly $320 million worth of short positions across the crypto market in just 15 minutes, as bearish traders were caught offside by a fast reversal off the year’s lows.\n2. A 15-Minute Short Squeeze A little over $320,000,000 in shorts were liquidated from the crypto market in a single 15-minute window […]",
+    "url": "https://news.bitcoin.com/bitcoin-bounce-320-million-crypto-shorts-liquidated/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-08T08:30:29.000Z"
+  },
+  {
+    "id": "3ed344a2-fecb-4594-9905-04ea082335ef",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Iran says it remains in talks with the US through mediators despite the latest Israel-Iran attacksTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#957e8e5d",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-08T08:29:34+00:00"
+  },
+  {
+    "id": "e056ca52-1d39-4340-9283-6a0e10eba2be",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "CME is letting traders bet on bitcoin volatility, not price, and two firms have already placed bets",
+    "summary": "1. Monarq and DV Chain kick off trading in CME's bitcoin volatility index futures.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/cme-has-a-new-bitcoin-product-monarq-and-dv-chain-made-their-first-bet",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-08T08:19:30.000Z"
+  },
+  {
+    "id": "c826cb61-bff3-4bc7-814d-71dc12552cfb",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "IRAN SAYS IF HITS ON ENERGY ASSETS CONTINUE, REGIONAL ONES A TARGETTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#75b2f650",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-08T08:19:15+00:00"
+  },
+  {
+    "id": "42d0043f-a943-49d8-868b-3d42c76ed7ab",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 AI rotation, tech IPOs, quantum fears, and Strategy's BTC sale have all weighed on Bitcoin at once, with no single catalyst driving the drop, according to NYDIG.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e127ba8d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-08T08:14:39+00:00"
+  },
+  {
+    "id": "ca8888c0-2bba-452d-b838-efe09ef95e5c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Zcash bounces 45% as developers propose new 'Ironwood' upgrade",
+    "summary": "1. The plan would let anyone verify that no counterfeit coins are circulating, addressing the patched bug that triggered last week's crash.\n2. ZEC is still down about 22% on the week.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/zcash-bounces-45-as-developers-propose-new-ironwood-upgrade",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-08T08:10:57.000Z"
+  },
+  {
+    "id": "bbbe2cff-e254-41dd-8280-019a34c71fd8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 JPMorgan is turning cautious on crypto, warning Strategy’s cash reserves cover just 6.3 months of dividends and giving the CLARITY Act less than 50% odds of passing.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1648aaab",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-08T07:24:09+00:00"
+  },
+  {
     "id": "4911065e-bb71-4cec-a83f-9c680516c153",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -148,75 +298,5 @@
     "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash",
     "author": "Omkar Godbole",
     "created_at": "2026-06-08T04:21:53.000Z"
-  },
-  {
-    "id": "d59af189-7c03-4d22-a3a6-066425d34d3d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "BitMEX CEO Says Regulation Opens Doors but Liquidity Still Decides Winners",
-    "summary": "1. The violent liquidation event on Oct.\n2. 10, 2025, was less about price action and more of a diagnostic test exposing the systemic risks of crypto’s deep structural fragmentation across centralized, decentralized, and disjointed collateral systems.\n3. Systemic Risk and Market Fragmentation When crypto markets suffer violent liquidations, public attention centers on headline numbers—billions wiped from open […]",
-    "url": "https://news.bitcoin.com/bitmex-ceo-says-regulation-opens-doors-but-liquidity-still-decides-winners/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-08T03:30:45.000Z"
-  },
-  {
-    "id": "0589e87e-ce1a-4077-aea4-9cd463db25d2",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Justin Sun’s HTX delists Trump family’s USD1 amid freeze fight",
-    "summary": "1. HTX said World Liberty froze its addresses and has responded by delisting and suspending the platform’s token.",
-    "url": "https://cointelegraph.com/news/justin-suns-htx-delists-trump-familys-usd1-amid-freeze-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-08T03:26:59.000Z"
-  },
-  {
-    "id": "2df963e0-a1ad-4b26-a8ca-86ada1aac6a4",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin reclaims $63,000 in ‘oversold relief rally’; South Korea’s KOSPI plunges 8%",
-    "summary": "1. Presto's Min Jung told The Block that KOSPI's crash may have had some impact on bitcoin's recovery, but not substantially.",
-    "url": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-08T03:07:41.000Z"
-  },
-  {
-    "id": "77dd76c6-6bbe-4810-9364-49913bb7ffc4",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Has anybody been watching the CROOKED Election going on in California.\n2. Two great Republican Candidates are being cheated, and so is America, which if the Dumocrats are able to fulfill their mission, great trouble and consternation will follow.\n3. Watch this “Election” closely!!!",
-    "url": "https://trumpstruth.org/statuses/39136",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T03:02:48.000Z"
-  },
-  {
-    "id": "f4de7c6e-f4c4-4830-9a6f-fe74dacdd505",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrump",
-    "url": "https://trumpstruth.org/statuses/39135",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T02:52:49.000Z"
-  },
-  {
-    "id": "7e60267d-394f-4e06-bc45-b247d6d86ea4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Grayscale Warns Strategy May Struggle to Keep Buying Bitcoin",
-    "summary": "1. Strategy’s bitcoin buying model is facing new scrutiny after Grayscale warned that current share prices could limit future accumulation.\n2. The concern followed a bitcoin sale, STRC dividend pressure, and questions over whether Strategy can keep funding purchases without stronger investor demand.\n3. Grayscale Flags Rising Risks to Strategy’s Bitcoin Accumulation Machine Strategy’s bitcoin strategy is facing […]",
-    "url": "https://news.bitcoin.com/grayscale-warns-strategy-may-struggle-to-keep-buying-bitcoin/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-08T02:30:58.000Z"
-  },
-  {
-    "id": "cde088de-b15e-41f8-8884-0c664d1d5180",
-    "source": "The Block",
-    "type": "rss",
-    "title": "What Is Crypto Market Structure? A Guide to How Crypto Markets Work",
-    "summary": "1. Crypto market structure refers to the framework of participants, platforms, rules, and infrastructure that comprise the digital asset markets.\n2. It includes crypto exchanges, brokers, custodians, market makers, token issuers, investors, and the regulators that oversee them.\n3. When lawmakers and analysts talk about “crypto market structure,” they are usually talking about who is allowed to do […]",
-    "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-06-08T02:05:08.000Z"
   }
 ]
