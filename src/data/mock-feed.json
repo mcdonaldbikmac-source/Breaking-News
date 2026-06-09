@@ -1,5 +1,65 @@
 [
   {
+    "id": "33daf3ac-ea6e-4ea3-89a6-f8c592908e65",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
+    "summary": "1. The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
+    "url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
+    "author": "Vismaya V",
+    "created_at": "2026-06-09T10:54:37.000Z"
+  },
+  {
+    "id": "bf647f86-0cfb-4bc6-8ed1-02e5ab91ad8a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Strategy's bitcoin purchase fails to stir BTC price",
+    "summary": "1. Bitcoin is little changed despite a new purchase by Strategy as risk-averse investors await U.S.\n2. inflation data and next week’s Fed meeting.",
+    "url": "https://www.coindesk.com/markets/2026/06/09/strategy-s-bitcoin-purchase-fails-to-stir-btc-price",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-09T10:37:56.000Z"
+  },
+  {
+    "id": "f60b435a-1293-4c28-87cc-e52f43d49b7a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Zodia Custody secures Luxembourg payment institution license to expand EU stablecoin services",
+    "summary": "1. Zodia Custody secured a Luxembourg payment licence from the CSSF, enabling regulated stablecoin custody and transfers across the EU.",
+    "url": "https://www.theblock.co/post/404086/zodia-custody-secures-luxembourg-payment-institution-license-to-expand-eu-stablecoin-services?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-06-09T10:36:52.000Z"
+  },
+  {
+    "id": "dbac77eb-ec49-4644-828e-ddc17ab06c17",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Humanity Protocol Loses $32M in Private Key Hack as ZachXBT Calls Incident ‘Possibly Staged’",
+    "summary": "1. Humanity Protocol’s H token has crashed nearly 90% after wallets tied to the project were drained of more than $32 million, a breach onchain investigator ZachXBT says may have been “possibly staged.” A Private Key Breach Turns Into a Firestorm The exploit hit Humanity Protocol, an identity-verification network, early on June 9.\n2. According to onchain […]",
+    "url": "https://news.bitcoin.com/humanity-protocol-exploit-zachxbt-staged/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-09T10:30:24.000Z"
+  },
+  {
+    "id": "d82e3e8c-2a98-4f6c-a8ae-950711634107",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market",
+    "summary": "1. Circle unveiled cirBTC, a token backed 1:1 by the world's largest cryptocurrency, to allow traders to use their bitcoin wealth in DeFi protocols.",
+    "url": "https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market",
+    "author": "Jamie Crawley",
+    "created_at": "2026-06-09T10:14:24.000Z"
+  },
+  {
+    "id": "c369734e-96fb-4bbd-bd95-7de245e86143",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘Stuck in distribution’: Bitcoin slips below $63,000 as analysts warn rallies are being sold, not bought",
+    "summary": "1. Bitcoin dropped below $63,000 as analysts warn of a distribution phase dominating accumulation appetite amid institutional outflows.",
+    "url": "https://www.theblock.co/post/404082/stuck-in-distribution-bitcoin-slips-below-63000-as-analysts-warn-rallies-are-being-sold-not-bought?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-09T10:13:19.000Z"
+  },
+  {
     "id": "60f64ade-3951-495c-8a6c-40802160b622",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -50,6 +110,16 @@
     "created_at": "2026-06-09T09:33:08+00:00"
   },
   {
+    "id": "c2039047-3255-46b7-9aba-dcc4fe341767",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Apple Sheds $230 Billion From Intraday Peak After Long-Awaited Siri AI Reveal Disappoints",
+    "summary": "1. Apple shares swung nearly 5% from their intraday high, erasing about $230 billion in market value, after the company’s long-awaited Siri AI overhaul drew a muted reaction from investors.\n2. A ‘Sell the News’ Moment for Apple’s AI Reset Apple used its Worldwide Developers Conference (WWDC) on June 8 to unveil its biggest artificial intelligence (AI) […]",
+    "url": "https://news.bitcoin.com/apple-siri-ai-wwdc-230-billion-selloff/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-09T09:30:10.000Z"
+  },
+  {
     "id": "f2185de0-3e62-4b03-a704-e1a2e885e9dc",
     "source": "@WatcherGuru",
     "type": "telegram",
@@ -68,6 +138,26 @@
     "url": "https://www.coindesk.com/markets/2026/06/09/usdt-s-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin",
     "author": "Omkar Godbole",
     "created_at": "2026-06-09T09:27:02.000Z"
+  },
+  {
+    "id": "7f78de02-e59a-45bc-8b4a-08a9337e0d55",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Lindsey Graham is spending big to ward off an ‘America First’ primary challenge",
+    "summary": "1. The senator is facing a well-funded challenge supported by some of President Donald Trump’s highest-profile MAGA defectors.",
+    "url": "https://www.politico.com/news/2026/06/09/lindsey-graham-primary-challenge-america-first-iran-00954007",
+    "author": "By Alec Hernandez",
+    "created_at": "2026-06-09T09:00:00.000Z"
+  },
+  {
+    "id": "141d6ec6-34ab-412b-adf3-d729d6baff53",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Some Maine Democrats are wavering on Graham Platner",
+    "summary": "1. The oysterman maintains a strong base of support, but his scandals have left a bad taste with some Democratic and independent voters.",
+    "url": "https://www.politico.com/news/2026/06/09/graham-platner-maine-voters-concerns-00953986",
+    "author": "By Jessica Piper",
+    "created_at": "2026-06-09T09:00:00.000Z"
   },
   {
     "id": "81f48c8e-16a1-4677-87fd-0106f8f5b7f0",
@@ -228,75 +318,5 @@
     "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
     "author": "Jagmeet Singh",
     "created_at": "2026-06-09T05:07:17.000Z"
-  },
-  {
-    "id": "0640468a-482d-43d4-ace1-ef915a69be0c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
-    "summary": "1. Jiang Zhuoer of BTC.TOP called the week's sell-off speculation overblown, arguing Strategy's small debt and the design of its preferred shares let it keep buying.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/chinese-mining-ceo-says-strategy-can-survive-a-usd30-000-bitcoin-without-selling",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-09T04:55:20.000Z"
-  },
-  {
-    "id": "ae8e94e5-1ea5-41ff-8037-b53c352f690e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack",
-    "summary": "1. The decentralized identity project said attackers compromised the keys of a foundation member and are dumping the stolen H tokens for ether.",
-    "url": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-09T04:54:48.000Z"
-  },
-  {
-    "id": "4c88d412-770b-458c-bc59-38f1a7e19e9a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "UK financial regulator floats allowing 10% crypto allocations for retail funds",
-    "summary": "1. The Financial Conduct Authority floated the idea of allowing limited exposure to crypto for retail-focused funds if it aligns with “disclosed investment objectives.”",
-    "url": "https://cointelegraph.com/news/uk-fca-floats-allowing-10-crypto-allocations-for-retail-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-09T04:40:43.000Z"
-  },
-  {
-    "id": "e9ee02c4-0fd5-4856-9fb7-1947863b7ac7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Switzerland Considers Historic Move to Constitutionally Cap Its Population at 10 Million",
-    "summary": "1. The unusual vote proposes capping legal immigration to put a population limit of 10 million in Switzerland before the year 2050.\n2. If approved, the right-wing-supported “sustainability measure” would make Switzerland the first nation to impose this limit.\n3. Switzerland To Vote On Population Cap Measure As immigration has become a relevant issue for European countries, governments […]",
-    "url": "https://news.bitcoin.com/switzerland-considers-historic-move-to-constitutionally-cap-its-population-at-10-million/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-09T04:30:52.000Z"
-  },
-  {
-    "id": "add89ec9-e660-4f95-a9db-858dcee2bf98",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Address linked to Framework Ventures receives $7.65M in H tokens",
-    "summary": "A newly created address has received 62.68 million H tokens, worth approximately $7.65 million, from BitGo amid the recent Humanity Protocol hack, according to Onchain Lens. The analytics firm suggested the receiving wallet is likely associated with venture capital firm Framework Ventures.",
-    "url": "https://t.me/CoinnessGL#af2e9016",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T04:07:20+00:00"
-  },
-  {
-    "id": "54b99bf9-7d79-4b3c-acbb-4ae121d9a814",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Sahara AI investigating sharp price drop, finds no security issues",
-    "summary": "The SaharaAI (SAHARA) team announced on X that it is investigating the cause of the token's recent sharp price volatility. The team stated it is aware of the unusual market movement and is monitoring the situation in real-time. It assured users that no security issues have been found with the token contract or its products. An internal investigation is currently underway to determine the cause of the price fluctuations, and the team plans to share its findings and more information soon. SAHARA is currently trading at $0.01527, down 60.19%, according to CoinMarketCap.",
-    "url": "https://t.me/CoinnessGL#24ffa486",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T04:06:13+00:00"
-  },
-  {
-    "id": "2c9a53c3-bf06-458a-b220-a12f8e5636b7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "ZachXBT suggests Humanity hack may have been staged",
-    "summary": "On-chain analyst ZachXBT has raised the possibility that the recent hack of Humanity (H) was staged. In a post on X, ZachXBT argued that it is unclear whether the incident was a simple hack or an issue related to a market maker (MM). He noted that the project's chart suggests the Humanity team may have collaborated with an active MM within a concentrated supply structure. ZachXBT also pointed out that the sell volume was handled exclusively on decentralized exchanges (DEXs) rather than centralized ones, making the team's explanation difficult to fully believe. Previously, Humanity CEO Terence Kwok had announced that approximately $20 million in damages occurred due to the leak of a private key belonging to a foundation official.",
-    "url": "https://t.me/CoinnessGL#f5c40def",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T03:59:47+00:00"
   }
 ]
