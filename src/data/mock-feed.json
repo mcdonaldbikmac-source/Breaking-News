@@ -1,5 +1,85 @@
 [
   {
+    "id": "60f64ade-3951-495c-8a6c-40802160b622",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Humanity Protocol exploit continues for 13 hours, token down 99.9%",
+    "summary": "The unauthorized minting and dumping of Humanity Protocol's H token, stemming from a private key leak, has now been ongoing for over 13 hours, according to EmberCN. The attacker is minting H tokens on the BSC chain and selling them to drain the liquidity pool. So far, 300 million H tokens have been minted, netting the attacker $34 million. As a result, liquidity in the H token pool on the BSC chain has fallen to just $13, and the token's price has crashed by 99.9%.",
+    "url": "https://t.me/CoinnessGL#171d4ade",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-09T09:55:40+00:00"
+  },
+  {
+    "id": "d808f2e6-a8aa-4cea-8cc3-160e5593b6a2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Japan’s SBI Shinsei Bank plans crypto rewards program for depositors this fall: Nikkei",
+    "summary": "1. The program is set to grant customers vouchers worth 20% of their deposit interest payments, redeemable for cryptocurrencies.",
+    "url": "https://www.theblock.co/post/404080/japan-sbi-shinsei-bank-plans-crypto-rewards-program?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-09T09:52:51.000Z"
+  },
+  {
+    "id": "e9833fe4-5c15-4c39-972a-87454668df8e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Tether dominance surges, but market cap falls for 3rd straight week",
+    "summary": "Tether's (USDT) market dominance surged 13.5% in a single day to 9% during last week's Bitcoin plunge, marking its largest daily increase since March 2025, CoinDesk reported. Despite this, the stablecoin's total market capitalization has fallen for three consecutive weeks. This trend suggests that rather than parking funds in stablecoins to await the next rally, investors may be cashing out of the cryptocurrency market entirely.",
+    "url": "https://t.me/CoinnessGL#bec5d3d2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-09T09:50:27+00:00"
+  },
+  {
+    "id": "1e3fede1-6f20-4f4c-a318-edb58af91eda",
+    "source": "The Block",
+    "type": "rss",
+    "title": "US Bitcoin ETFs log further outflows, though analyst sees signs of easing selling pressure",
+    "summary": "1. An analyst predicted that selling pressure in Bitcoin ETFs is starting to ease, pointing out that four funds saw net inflows for the day.",
+    "url": "https://www.theblock.co/post/404075/us-bitcoin-etfs-four-week-negative-streak?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-09T09:41:34.000Z"
+  },
+  {
+    "id": "7afbed6b-1d7d-4d11-82eb-25bfaf9f121b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto firms urge Congress to add developer protections to Clarity Act",
+    "summary": "A coalition of major cryptocurrency companies has sent a joint letter to the U.S. Congress urging the inclusion of developer protection provisions in the Clarity Act, Watcher.Guru reported. The signatories include a16z, Aave, 1inch, Block, BitGo, Aptos, Zcash, Solana, Galaxy, Ledger, Kraken, Uniswap, Coinbase, and Hyperliquid.",
+    "url": "https://t.me/CoinnessGL#6e13c679",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-09T09:33:08+00:00"
+  },
+  {
+    "id": "f2185de0-3e62-4b03-a704-e1a2e885e9dc",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Top crypto companies send joint letter urging Congress to include legal protections for developers in crypto Clarity Act.• a16z• Aave• 1inch• Block• BitGo• Aptos• Zcash• Solana• Galaxy• Ledger• Kraken• Uniswap• Coinbase• Hyperliquid• Many others@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d8b259ae",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-09T09:29:40+00:00"
+  },
+  {
+    "id": "feef6e35-32b7-487c-9fcc-47a1e5fd1252",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "USDT's flashing a golden cross and that may be bad news for bitcoin",
+    "summary": "1. USDT's dominance rate has flashed a golden crossover in a sign of caution for the broader crypto market.",
+    "url": "https://www.coindesk.com/markets/2026/06/09/usdt-s-flashing-a-golden-cross-and-that-may-be-bad-news-for-bitcoin",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-09T09:27:02.000Z"
+  },
+  {
+    "id": "81f48c8e-16a1-4677-87fd-0106f8f5b7f0",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+    "summary": "1. The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites.",
+    "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-06-09T09:00:00.000Z"
+  },
+  {
     "id": "f30f891b-9edb-4d16-92f2-8448288bdcbb",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +88,46 @@
     "url": "https://news.bitcoin.com/bitcoin-production-cost-miners-break-even/",
     "author": "Shiraz Jagati",
     "created_at": "2026-06-09T08:30:20.000Z"
+  },
+  {
+    "id": "204bf66c-2a38-48de-aad4-78cf8c2399d1",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "China considers $295B nationwide plan to build AI data centersTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#336f67b6",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-09T08:18:37+00:00"
+  },
+  {
+    "id": "5a033c2b-c6d9-41b9-b315-9eceb44f76d7",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Binance stock trading surpasses $400,000,000 in assets under management one week after launch.📰 Full Story@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#42c41f32",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-09T08:09:12+00:00"
+  },
+  {
+    "id": "1d1229f7-e67f-4004-851a-b5d08033dee9",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Coinbase and Cardless unveil credit card backed by stablecoins",
+    "summary": "1. The stablecoin-secured card is for situations where a credit card cannot be approved on an unsecured basis.",
+    "url": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
+    "author": "Ian Allison",
+    "created_at": "2026-06-09T08:04:59.000Z"
+  },
+  {
+    "id": "43c0f3d0-1927-49e6-b644-47e6a7a1246e",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Zcash developers finalize Ironwood upgrade rules, adding a new Orchard shielded pool and restricting legacy pool payments to reduce counterfeiting risk$ZEC Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#bdf1a3c0",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-09T07:49:29+00:00"
   },
   {
     "id": "f0533e76-d166-4213-85d5-d2d8008e9d56",
@@ -28,6 +148,16 @@
     "url": "https://www.theblock.co/post/404065/zcash-finalizes-ironwood-upgrade-plan?utm_source=rss&utm_medium=rss",
     "author": "Timmy Shen",
     "created_at": "2026-06-09T07:14:26.000Z"
+  },
+  {
+    "id": "79ffcf5a-e4a3-49c7-9c24-9efa42e23060",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Coinbase strategist John D'Agostino says institutions aren't panicking over Bitcoin's price dip and \"love it even more\" at lower prices.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a01e253a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-09T06:54:26+00:00"
   },
   {
     "id": "c444276f-fd69-48cc-9e7d-882e225b430f",
@@ -168,25 +298,5 @@
     "url": "https://t.me/CoinnessGL#f5c40def",
     "author": "@CoinnessGL",
     "created_at": "2026-06-09T03:59:47+00:00"
-  },
-  {
-    "id": "e3b44b9c-096d-4400-b959-c6a8f758a029",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Top 100 Bitcoin Treasuries Now Hold 1.26M BTC",
-    "summary": "1. Institutional bitcoin treasuries are expanding, with the top 100 holders controlling 1,258,090 BTC, led by Strategy’s massive 845,256 BTC position.\n2. Bitcoin Treasuries Are Turning Scarcity Into Strategy Institutional bitcoin accumulation has grown dramatically, with the top 100 holders now controlling 1,258,090 BTC as of June 8, 2026, according to a chart published on X by […]",
-    "url": "https://news.bitcoin.com/top-100-bitcoin-treasuries-now-hold-1-26m-btc/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-09T03:30:37.000Z"
-  },
-  {
-    "id": "d0e2b719-873c-4857-a7e7-6c1f4a0a57c4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Humanity Protocol token falls 85% amid $30M private key exploit",
-    "summary": "1. The compromise of private keys belonging to a member of the Humanity Foundation has reportedly resulted in the theft of at least $30 million worth of its native token.",
-    "url": "https://cointelegraph.com/news/humanity-h-token-tanks-85-following-30m-private-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-09T03:26:44.000Z"
   }
 ]
