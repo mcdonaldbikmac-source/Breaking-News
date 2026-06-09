@@ -1,5 +1,35 @@
 [
   {
+    "id": "16ea9334-c792-428a-9542-4f6fef034538",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense",
+    "summary": "1. Arca is blaming Strategy's sale of 32 BTC for last week's BTC crash, not AI capital rotation, as Strategy's Saylor claimed.",
+    "url": "https://www.coindesk.com/markets/2026/06/09/saylor-blamed-ai-for-bitcoin-crash-arca-has-one-word-for-that-nonsense",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-09T05:35:39.000Z"
+  },
+  {
+    "id": "d3fc6ae4-1ef9-426d-b86d-b4442326a69e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin steady above $63,000, BNB, SOL edge higher as AI stocks rebound ",
+    "summary": "1. Stocks recovered through SpaceX's oversubscribed IPO, an Nvidia and SK Hynix chip pact, and Apple's AI reboot, while crypto trailed.",
+    "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-09T05:17:13.000Z"
+  },
+  {
+    "id": "805da68c-b989-4906-abd8-594509d70e44",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+    "summary": "1. Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+    "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-09T05:07:17.000Z"
+  },
+  {
     "id": "0640468a-482d-43d4-ace1-ef915a69be0c",
     "source": "CoinDesk",
     "type": "rss",
@@ -18,6 +48,16 @@
     "url": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
     "author": "Shaurya Malwa",
     "created_at": "2026-06-09T04:54:48.000Z"
+  },
+  {
+    "id": "4c88d412-770b-458c-bc59-38f1a7e19e9a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "UK financial regulator floats allowing 10% crypto allocations for retail funds",
+    "summary": "1. The Financial Conduct Authority floated the idea of allowing limited exposure to crypto for retail-focused funds if it aligns with “disclosed investment objectives.”",
+    "url": "https://cointelegraph.com/news/uk-fca-floats-allowing-10-crypto-allocations-for-retail-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-09T04:40:43.000Z"
   },
   {
     "id": "e9ee02c4-0fd5-4856-9fb7-1947863b7ac7",
@@ -148,65 +188,5 @@
     "url": "https://www.theblock.co/post/404053/humanity-protocol-exploit?utm_source=rss&utm_medium=rss",
     "author": "Danny Park",
     "created_at": "2026-06-09T01:16:07.000Z"
-  },
-  {
-    "id": "ae6473f6-e4aa-4e69-b4f8-807732f750cd",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
-    "summary": "1. Sequoia is just one of the top firms that sells same equity at two different prices.",
-    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-    "author": "Marina Temkin",
-    "created_at": "2026-06-09T00:45:56.000Z"
-  },
-  {
-    "id": "6628d27d-e8ee-4027-8df7-33529b1a4be9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "OpenAI Files Draft S-1 at $852B Valuation as ChatGPT Hits 900M Weekly Users",
-    "summary": "1. OpenAI, the company behind ChatGPT, filed a confidential draft S-1 registration statement with the U.S.\n2. Securities and Exchange Commission (SEC) on Monday, positioning itself for a potential public offering that could rank among the largest in market history.\n3. OpenAI Confirms the Filing The company acknowledged the submission in a statement that circulated widely across social […]",
-    "url": "https://news.bitcoin.com/openai-files-draft-s-1-at-852b-valuation-as-chatgpt-hits-900m-weekly-users/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-09T00:30:39.000Z"
-  },
-  {
-    "id": "31ef4e27-71ec-4c5c-a039-4c24bc96d03d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Peter Schiff Calls Jamie Dimon’s Stablecoin Regulation Argument ‘Nonsense’",
-    "summary": "1. Peter Schiff pushed back against JPMorgan Chase CEO Jamie Dimon’s call for bank-style rules on crypto firms offering yield products.\n2. The debate centers on whether stablecoin issuers, which typically back tokens with reserves, should be regulated like federally insured banks that use deposits to make loans.\n3. Peter Schiff Says Bank Rules Do Not Fit Stablecoin […]",
-    "url": "https://news.bitcoin.com/peter-schiff-calls-jamie-dimons-stablecoin-regulation-argument-nonsense/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-08T23:30:47.000Z"
-  },
-  {
-    "id": "24c0d765-f89b-44fa-aa5e-39875e5fc4cf",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Early Voting is underway in the Great State of Georgia, where Highly Respected, and very popular Lieutenant Governor, Burt Jones, is running to be your next Governor.\n2. He is a fantastic person, and truly loves the people of Georgia, as do I!\n3. As the first member of the Georgia State Assembly to Endorse “DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39163",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T23:00:17.000Z"
-  },
-  {
-    "id": "d1d9b363-a155-4b92-84a7-52593606288a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to the Ohio State Senate for passing Senate Joint Resolution 10, which would require VOTER I.D.\n2. in Ohio Elections!\n3. Democrats fought hard against this, presumably so they can CHEAT.",
-    "url": "https://trumpstruth.org/statuses/39164",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T22:59:42.000Z"
-  },
-  {
-    "id": "e768a070-61b1-418f-862d-2c24f559c5a7",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
-    "summary": "1. Users are being paid to shave their heads, chug liquor and interview homeless people on camera, raising questions about whether Pump.fun's latest product rewards creativity or exploitation.",
-    "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-08T22:58:02.000Z"
   }
 ]
