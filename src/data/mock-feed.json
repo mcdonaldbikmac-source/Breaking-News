@@ -1,5 +1,65 @@
 [
   {
+    "id": "b3be8f31-9b71-4f8a-88ca-2225991fdde5",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "OpenAI confidentially files to go public in the US",
+    "summary": "1. OpenAI says it filed for an initial public offering in the US, but has not yet decided when it will launch.",
+    "url": "https://cointelegraph.com/news/openai-confidentially-files-to-go-public-in-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-09T02:02:33.000Z"
+  },
+  {
+    "id": "6aae3e3d-3238-446c-b1c9-7e6e04afc0af",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+    "summary": "1. Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-06-09T01:56:48.000Z"
+  },
+  {
+    "id": "1d182fe5-938a-4b51-82d8-d9882f29039f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Crypto Oversight in the Spotlight After Warren Questions Federal Regulation",
+    "summary": "1. Senator Elizabeth Warren pressed the CFTC over whether it can effectively police fast-growing crypto and prediction markets.\n2. Her letter cited staffing cuts, declining enforcement, and potential industry and political influence as risks to investors.\n3. Crypto Oversight in the Spotlight After Warren Questions Federal Regulation U.S.",
+    "url": "https://news.bitcoin.com/crypto-oversight-in-the-spotlight-after-warren-questions-federal-regulation/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-09T01:30:55.000Z"
+  },
+  {
+    "id": "bbecdf0d-06b1-48f5-9079-8eba396d7251",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Wallets linked to Humanity Protocol drained for over $32 million, token plunges 89%: onchain analyst",
+    "summary": "1. Out of the stolen amount, $23.7 million has been swapped for Ethereum, while around $7.9 million remains in H tokens.",
+    "url": "https://www.theblock.co/post/404053/humanity-protocol-exploit?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-09T01:16:07.000Z"
+  },
+  {
+    "id": "ae6473f6-e4aa-4e69-b4f8-807732f750cd",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
+    "summary": "1. Sequoia is just one of the top firms that sells same equity at two different prices.",
+    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "author": "Marina Temkin",
+    "created_at": "2026-06-09T00:45:56.000Z"
+  },
+  {
+    "id": "6628d27d-e8ee-4027-8df7-33529b1a4be9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "OpenAI Files Draft S-1 at $852B Valuation as ChatGPT Hits 900M Weekly Users",
+    "summary": "1. OpenAI, the company behind ChatGPT, filed a confidential draft S-1 registration statement with the U.S.\n2. Securities and Exchange Commission (SEC) on Monday, positioning itself for a potential public offering that could rank among the largest in market history.\n3. OpenAI Confirms the Filing The company acknowledged the submission in a statement that circulated widely across social […]",
+    "url": "https://news.bitcoin.com/openai-files-draft-s-1-at-852b-valuation-as-chatgpt-hits-900m-weekly-users/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-09T00:30:39.000Z"
+  },
+  {
     "id": "31ef4e27-71ec-4c5c-a039-4c24bc96d03d",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +68,26 @@
     "url": "https://news.bitcoin.com/peter-schiff-calls-jamie-dimons-stablecoin-regulation-argument-nonsense/",
     "author": "Kevin Helms",
     "created_at": "2026-06-08T23:30:47.000Z"
+  },
+  {
+    "id": "24c0d765-f89b-44fa-aa5e-39875e5fc4cf",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Early Voting is underway in the Great State of Georgia, where Highly Respected, and very popular Lieutenant Governor, Burt Jones, is running to be your next Governor.\n2. He is a fantastic person, and truly loves the people of Georgia, as do I!\n3. As the first member of the Georgia State Assembly to Endorse “DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39163",
+    "author": "Trump Truth",
+    "created_at": "2026-06-08T23:00:17.000Z"
+  },
+  {
+    "id": "d1d9b363-a155-4b92-84a7-52593606288a",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Congratulations to the Ohio State Senate for passing Senate Joint Resolution 10, which would require VOTER I.D.\n2. in Ohio Elections!\n3. Democrats fought hard against this, presumably so they can CHEAT.",
+    "url": "https://trumpstruth.org/statuses/39164",
+    "author": "Trump Truth",
+    "created_at": "2026-06-08T22:59:42.000Z"
   },
   {
     "id": "e768a070-61b1-418f-862d-2c24f559c5a7",
@@ -238,145 +318,5 @@
     "url": "https://www.theblock.co/post/404034/tokenized-equities-5-5-billion-market-cap-fueled-spacex-ipo-exchange-expansion?utm_source=rss&utm_medium=rss",
     "author": "Ivan Wu and Bryan Samsoedin",
     "created_at": "2026-06-08T20:18:53.000Z"
-  },
-  {
-    "id": "ec1db3ed-ab01-4a63-95bd-3dfb6ca454b9",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Apple $AAPL falls 4.95% after unveiling its biggest AI update, 'Siri AI.'$230 billion was wiped out from its market cap.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#e1cb3128",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-08T20:12:49+00:00"
-  },
-  {
-    "id": "a0f3e7a5-7c07-47a7-bf68-56c44550b6a9",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-    "summary": "1. Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
-    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-08T20:03:44.000Z"
-  },
-  {
-    "id": "01f94982-e938-414c-851e-cc074c9cec85",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Is 'Boring' AI-Hungry Retail Investors, But Bernstein Still Sees $150K This Year",
-    "summary": "1. Bitcoin is down about 50% from its peak, but Wall Street researchers argue the selloff reflects a maturing asset, not a dying one.",
-    "url": "https://decrypt.co/370434/bitcoin-boring-ai-hungry-retail-investors-bernstein-150k",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-08T19:46:06.000Z"
-  },
-  {
-    "id": "d19ca368-1d5c-4d28-b5c8-461d73377b1f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-    "summary": "1. Apple’s WWDC 2026 event kicked off this morning at 10 a.m.\n2. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos.\n3. This year’s event is particularly notable for a couple things.",
-    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "author": "Morgan Little, Aisha Malik",
-    "created_at": "2026-06-08T19:41:32.000Z"
-  },
-  {
-    "id": "50ddb590-2b46-4f16-8dbf-3022c37f13b5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Rebounds Above $64K as Derivatives Traders Trigger $282.5M Liquidations",
-    "summary": "1. Bitcoin successfully reclaimed the $64,000 threshold, reversing a brutal multi-day rout that had previously dragged it below $60,000.\n2. Bitcoin Reclaims $64,000 Amid Geopolitical Storm Bitcoin staged a resilient comeback, shrugging off a volley of escalating military exchanges between Israel and Iran to aggressively reclaim the $64,000 threshold.\n3. The cryptocurrency’s swift rebound offers a stark contrast […]",
-    "url": "https://news.bitcoin.com/bitcoin-rebounds-above-64k-as-derivatives-traders-trigger-282-5m-liquidations/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-08T19:25:39.000Z"
-  },
-  {
-    "id": "67092abb-3cc0-4f5e-87bc-15c4b02f7140",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Sui launched a public beta for confidential transfers on Devnet, keeping transaction amounts and balances private on-chain.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#9fc9acfb",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T19:24:16+00:00"
-  },
-  {
-    "id": "b93b1b64-1a46-45ef-9184-560cead22701",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "250 million USDC minted",
-    "summary": "Whale Alert reported that 250 million USDC has been minted at the USDC Treasury.",
-    "url": "https://t.me/CoinnessGL#b141093c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-08T19:22:33+00:00"
-  },
-  {
-    "id": "a1a14855-01c5-4111-ad8e-e6231510da4a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
-    "summary": "1. The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why",
-    "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-06-08T18:57:49.000Z"
-  },
-  {
-    "id": "5f390bc7-6ba3-48cf-aba2-ea4c06e166a1",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Galaxy Digital has cut its odds of the CLARITY Act passing in 2026 to 60%, citing a tight Senate calendar and dwindling time to fix and advance the bill ahead of November elections.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ffac7147",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T18:54:21+00:00"
-  },
-  {
-    "id": "288df3bd-460f-498a-a668-42b1f34ebf0b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Warsh Faces His First Test June 17 as Traders Hunt for Hidden Signals in the Fed’s Dot Plot",
-    "summary": "1. Traders on multiple prediction markets are pricing near-certainty that the Federal Reserve will hold interest rates unchanged at its June 16–17 meeting, even as a new Fed Chair steps into one of the most scrutinized policy seats in the world.\n2. Warsh Takes the Chair Kevin Warsh officially leads the Federal Open Market Committee (FOMC) for […]",
-    "url": "https://news.bitcoin.com/warsh-faces-his-first-test-june-17-as-traders-hunt-for-hidden-signals-in-the-feds-dot-plot/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-08T18:49:41.000Z"
-  },
-  {
-    "id": "4a69887e-7b86-4825-82cd-dd0ee013c77e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
-    "summary": "1. Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research",
-    "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
-    "author": "Aoyon Ashraf",
-    "created_at": "2026-06-08T18:41:04.000Z"
-  },
-  {
-    "id": "17481c4d-5431-49e5-8ea7-cd02330f7aef",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Holds Near $63,000 as Analysts Say Its Store-of-Value Thesis Remains Intact",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Holds Near $63,000 as Analysts Say Its Store-of-Value Thesis Remains Intact\nBitcoin remains under pressure from ETF outflows, AI-driven capital rotation, and corporate selling, but institutional analysts argue its long-term store-of-value thesis remains intact as large investors continue accumulating while retail sentiment weakens.\n2. This post Bitcoin Price Holds Near $63,000 as Analysts Say Its Store-of-Value Thesis Remains Intact first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-holds-near-63000-as-analysts",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-08T18:24:23.000Z"
-  },
-  {
-    "id": "553b8d96-32cf-425d-8456-e3352002c542",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Ripple CTO emeritus David Schwartz says XRP utility is expanding beyond payments as the XRP Ledger adds support for tokenized stocks, funds, repos, and loans.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#661f32ea",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T18:24:09+00:00"
-  },
-  {
-    "id": "a0965bd7-08f8-443b-bf11-7d82b5ff3532",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Senate Majority Leader John Thune should immediately fire the Parliamentarian, who treats Republicans, and everything that they stand for, horribly!\n2. She was put there by then Senate Majority Leader Harry Reid, and Barack Hussein Obama, need I say more?\n3. She is a nasty holdover from Mitch McConnell (A man who has proven to be very disloyal to John Thune!), who decided to keep her because he loved giving Trillions of Dollars to the Democrats, but for the Republicans, including the Wall, where I ended up having to go “around him” to build over 1,000 Miles, and close up our Open Border, he gave NOTHING!",
-    "url": "https://trumpstruth.org/statuses/39160",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T18:19:19.000Z"
   }
 ]
