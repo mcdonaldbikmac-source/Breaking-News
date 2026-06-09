@@ -1,5 +1,75 @@
 [
   {
+    "id": "f30f891b-9edb-4d16-92f2-8448288bdcbb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Near $63.5K Is Hovering at What It Costs to Mine BTC, Leaving Miners at Break-Even",
+    "summary": "1. Bitcoin is changing hands near $63,500, a level analyst Charles Edwards says lines up with the network’s average production cost, i.e.\n2. the threshold where the typical miner stops turning a profit.\n3. Miners Squeezed to the Break-Even Line The recent selloff has dragged bitcoin back to a price band that has historically marked long-term value.",
+    "url": "https://news.bitcoin.com/bitcoin-production-cost-miners-break-even/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-09T08:30:20.000Z"
+  },
+  {
+    "id": "f0533e76-d166-4213-85d5-d2d8008e9d56",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Kalshi Taps Sportradar for Official League Data and Integrity Tools in Prediction Markets",
+    "summary": "1. Kalshi has signed a multi-year global deal making sports-data company Sportradar its official data and integrity provider, giving the prediction market official league feeds and surveillance tools as it fights state efforts to brand its contracts illegal betting.\n2. Official data, and an integrity shield The agreement gives Kalshi official data and live odds across Major […]",
+    "url": "https://news.bitcoin.com/kalshi-taps-sportradar-for-official-league-data-and-integrity-tools-in-prediction-markets/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-06-09T07:30:51.000Z"
+  },
+  {
+    "id": "3156c7ce-af9f-4b2e-93c9-f04ea9aaf1a1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Zcash finalizes Ironwood upgrade plan, targets July activation",
+    "summary": "1. The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded.",
+    "url": "https://www.theblock.co/post/404065/zcash-finalizes-ironwood-upgrade-plan?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-09T07:14:26.000Z"
+  },
+  {
+    "id": "c444276f-fd69-48cc-9e7d-882e225b430f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Over 200 crypto firms push Senate to pass CLARITY Act",
+    "summary": "1. Crypto lobby groups representing hundreds of organizations urged Senate leaders in a letter to schedule a vote on a key crypto bill ahead of the midterms.",
+    "url": "https://cointelegraph.com/news/over-200-crypto-firms-push-senate-to-pass-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-09T06:43:36.000Z"
+  },
+  {
+    "id": "46ede8b7-de3a-42cb-ba73-8baa7c672bbc",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "AI agents with crypto could escape and become ‘unstoppable,’ experts warn",
+    "summary": "1. Autonomous AI and crypto could have “far-reaching consequences for users and the financial system,” IC3 researchers said.",
+    "url": "https://cointelegraph.com/news/autonomous-ai-agents-with-crypto-access-could-become-unstoppable-warn-experts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-09T06:41:52.000Z"
+  },
+  {
+    "id": "b3a2418d-deca-48eb-ab66-1cd450463121",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitget Launches Stocks 2.0 With 36 Tokenized US Stocks and ETFs Including Apple and Nvidia",
+    "summary": "1. Bitget has launched Stocks 2.0, an upgraded tokenized equity product designed to improve liquidity, transparency, and capital efficiency.\n2. The rollout includes 36 stock-linked assets tied to major U.S.\n3. equities and ETFs.",
+    "url": "https://news.bitcoin.com/bitget-launches-stocks-2-0-with-36-tokenized-us-stocks-and-etfs-including-apple-and-nvidia/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-09T06:30:37.000Z"
+  },
+  {
+    "id": "f95a2243-c44c-430c-b789-97c64aec6302",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin rebound highlights discount but $162M bid liquidity points to downside risk",
+    "summary": "1. Bitcoin's recovery highlights investors' belief that BTC is discounted, but weak futures market activity could slow the rebound.",
+    "url": "https://cointelegraph.com/markets/bitcoin-rallies-to-64k-but-162m-in-buy-orders-builds-below-price-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-06-09T06:15:15.000Z"
+  },
+  {
     "id": "16ea9334-c792-428a-9542-4f6fef034538",
     "source": "CoinDesk",
     "type": "rss",
@@ -118,75 +188,5 @@
     "url": "https://cointelegraph.com/news/humanity-h-token-tanks-85-following-30m-private-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Martin Young",
     "created_at": "2026-06-09T03:26:44.000Z"
-  },
-  {
-    "id": "bbda6637-5f8d-46ff-b660-dfe9a3f0b218",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Peter Schiff Poll: Bitcoiners Stand Firm Even if Bitcoin Crashes to $0",
-    "summary": "1. Peter Schiff’s bitcoin poll reignited debate after most respondents indicated that even a collapse to $0 would not prove his bearish case correct, while others pointed to thresholds between $20,000 and $1,000.\n2. Schiff also warned that technical weakness could drive BTC toward $25,000 to $27,000, raising scrutiny of Strategy Inc.’s exposure.\n3. Bitcoiners Reject Peter Schiff’s […]",
-    "url": "https://news.bitcoin.com/peter-schiff-poll-bitcoiners-stand-firm-even-if-bitcoin-crashes-to-0/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-09T02:30:03.000Z"
-  },
-  {
-    "id": "b3be8f31-9b71-4f8a-88ca-2225991fdde5",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "OpenAI confidentially files to go public in the US",
-    "summary": "1. OpenAI says it filed for an initial public offering in the US, but has not yet decided when it will launch.",
-    "url": "https://cointelegraph.com/news/openai-confidentially-files-to-go-public-in-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-09T02:02:33.000Z"
-  },
-  {
-    "id": "6aae3e3d-3238-446c-b1c9-7e6e04afc0af",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "summary": "1. Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
-    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-09T01:56:48.000Z"
-  },
-  {
-    "id": "c6cb18a6-3b71-4d3d-9968-97de46897d27",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Strategy shareholders approved a switch to semi-monthly STRC dividends, with CEO Phong Le saying the change is designed to stabilize price, dampen cyclicality, and drive liquidity.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d88be8d8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T01:44:15+00:00"
-  },
-  {
-    "id": "e795dd0c-7bcc-4795-a470-cc22e07b89c8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Yuga Labs says it rescued 68 NFTs, including 29 Bored Apes and 2 CryptoPunks, from a Flooring Protocol exploit.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d31584b1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T01:44:13+00:00"
-  },
-  {
-    "id": "1d182fe5-938a-4b51-82d8-d9882f29039f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto Oversight in the Spotlight After Warren Questions Federal Regulation",
-    "summary": "1. Senator Elizabeth Warren pressed the CFTC over whether it can effectively police fast-growing crypto and prediction markets.\n2. Her letter cited staffing cuts, declining enforcement, and potential industry and political influence as risks to investors.\n3. Crypto Oversight in the Spotlight After Warren Questions Federal Regulation U.S.",
-    "url": "https://news.bitcoin.com/crypto-oversight-in-the-spotlight-after-warren-questions-federal-regulation/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-09T01:30:55.000Z"
-  },
-  {
-    "id": "bbecdf0d-06b1-48f5-9079-8eba396d7251",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Wallets linked to Humanity Protocol drained for over $32 million, token plunges 89%: onchain analyst",
-    "summary": "1. Out of the stolen amount, $23.7 million has been swapped for Ethereum, while around $7.9 million remains in H tokens.",
-    "url": "https://www.theblock.co/post/404053/humanity-protocol-exploit?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-09T01:16:07.000Z"
   }
 ]
