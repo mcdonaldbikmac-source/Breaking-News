@@ -1,5 +1,35 @@
 [
   {
+    "id": "0640468a-482d-43d4-ace1-ef915a69be0c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
+    "summary": "1. Jiang Zhuoer of BTC.TOP called the week's sell-off speculation overblown, arguing Strategy's small debt and the design of its preferred shares let it keep buying.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/chinese-mining-ceo-says-strategy-can-survive-a-usd30-000-bitcoin-without-selling",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-09T04:55:20.000Z"
+  },
+  {
+    "id": "ae8e94e5-1ea5-41ff-8037-b53c352f690e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack",
+    "summary": "1. The decentralized identity project said attackers compromised the keys of a foundation member and are dumping the stolen H tokens for ether.",
+    "url": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-09T04:54:48.000Z"
+  },
+  {
+    "id": "e9ee02c4-0fd5-4856-9fb7-1947863b7ac7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Switzerland Considers Historic Move to Constitutionally Cap Its Population at 10 Million",
+    "summary": "1. The unusual vote proposes capping legal immigration to put a population limit of 10 million in Switzerland before the year 2050.\n2. If approved, the right-wing-supported “sustainability measure” would make Switzerland the first nation to impose this limit.\n3. Switzerland To Vote On Population Cap Measure As immigration has become a relevant issue for European countries, governments […]",
+    "url": "https://news.bitcoin.com/switzerland-considers-historic-move-to-constitutionally-cap-its-population-at-10-million/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-09T04:30:52.000Z"
+  },
+  {
     "id": "add89ec9-e660-4f95-a9db-858dcee2bf98",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -178,55 +208,5 @@
     "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze",
     "author": "Shaurya Malwa",
     "created_at": "2026-06-08T22:58:02.000Z"
-  },
-  {
-    "id": "0c926559-8956-4951-9179-cb506143e9f5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Mbappé Objects to France Stars’ Images Promoting Bookmaker Ahead of World Cup",
-    "summary": "1. Several France internationals, led by Kylian Mbappé, are unhappy that their images were used in a World Cup betting promotion for Betclic, an official partner of the French football federation, according to L’Équipe.\n2. A grievance aimed at the federation, not the bookmaker French national-team players, led by Kylian Mbappé, are unhappy about the use of […]",
-    "url": "https://news.bitcoin.com/mbappe-objects-to-france-stars-images-promoting-bookmaker-ahead-of-world-cup/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-06-08T22:45:53.000Z"
-  },
-  {
-    "id": "dc908f86-7d8c-4719-9e75-6d06e26e6a7e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-    "summary": "1. Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-06-08T22:41:45.000Z"
-  },
-  {
-    "id": "74a9d386-ac54-49cf-b44b-9b030c83015b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "summary": "1. The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled.\n2. One subtle example: the many AI demos of someone standing, phone in hand.",
-    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "author": "Julie Bort",
-    "created_at": "2026-06-08T22:39:57.000Z"
-  },
-  {
-    "id": "444b59a3-fba4-473c-b3c6-b5634cb732fb",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Morgan Stanley and Galaxy have launched a referral arrangement letting eligible clients lend BTC, ETH, or SOL and receive spot crypto ETP shares in return.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7a4029dc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-08T22:39:16+00:00"
-  },
-  {
-    "id": "53356250-a8a0-4a3f-8c1a-86a890fcf62d",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Trump confirms US-Iran talks to end the war remain active, with Lebanon and frozen assets still holding up a final dealTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#073cdad3",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-08T22:33:02+00:00"
   }
 ]
