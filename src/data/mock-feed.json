@@ -1,5 +1,35 @@
 [
   {
+    "id": "31ef4e27-71ec-4c5c-a039-4c24bc96d03d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Peter Schiff Calls Jamie Dimon’s Stablecoin Regulation Argument ‘Nonsense’",
+    "summary": "1. Peter Schiff pushed back against JPMorgan Chase CEO Jamie Dimon’s call for bank-style rules on crypto firms offering yield products.\n2. The debate centers on whether stablecoin issuers, which typically back tokens with reserves, should be regulated like federally insured banks that use deposits to make loans.\n3. Peter Schiff Says Bank Rules Do Not Fit Stablecoin […]",
+    "url": "https://news.bitcoin.com/peter-schiff-calls-jamie-dimons-stablecoin-regulation-argument-nonsense/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-08T23:30:47.000Z"
+  },
+  {
+    "id": "e768a070-61b1-418f-862d-2c24f559c5a7",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
+    "summary": "1. Users are being paid to shave their heads, chug liquor and interview homeless people on camera, raising questions about whether Pump.fun's latest product rewards creativity or exploitation.",
+    "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-08T22:58:02.000Z"
+  },
+  {
+    "id": "0c926559-8956-4951-9179-cb506143e9f5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Mbappé Objects to France Stars’ Images Promoting Bookmaker Ahead of World Cup",
+    "summary": "1. Several France internationals, led by Kylian Mbappé, are unhappy that their images were used in a World Cup betting promotion for Betclic, an official partner of the French football federation, according to L’Équipe.\n2. A grievance aimed at the federation, not the bookmaker French national-team players, led by Kylian Mbappé, are unhappy about the use of […]",
+    "url": "https://news.bitcoin.com/mbappe-objects-to-france-stars-images-promoting-bookmaker-ahead-of-world-cup/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-06-08T22:45:53.000Z"
+  },
+  {
     "id": "dc908f86-7d8c-4719-9e75-6d06e26e6a7e",
     "source": "TechCrunch",
     "type": "rss",
@@ -38,6 +68,16 @@
     "url": "https://decrypt.co/370467/openai-chagpt-chatbot-superapp",
     "author": "Jose Antonio Lanz",
     "created_at": "2026-06-08T22:00:57.000Z"
+  },
+  {
+    "id": "d2e26765-3025-465f-9b5b-3b75740e21c6",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.169",
+    "summary": "1. ## What's changed\n\n- Added `--safe-mode` flag (and `CLAUDE_CODE_SAFE_MODE`) to start Claude Code with all customizations (CLAUDE.md, plugins, skills, hooks, MCP servers) disabled for troubleshooting\n- Added `/cd` command to move a session to a new working directory without breaking the prompt cache mid-session\n- Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS` environment variable to hide bundled skills, workflows, and built-in slash commands from the model\n- Fixed Up/Down arrows jumping to command history past the wrapped rows of a long input line — they now move through each visual row first, and history recall enters at the near edge\n- Fixed enterprise managed MCP policies (`allowedMcpServers`/`deniedMcpServers`) not being enforced on reconnect, IDE-typed configs, `--mcp-config` servers during the first session after install, or before remote settings loaded; also fixed slow cold starts for orgs without remote settings\n- Fixed a ~30-50ms UI stall at the start of each turn for macOS users logged in with claude.ai credentials\n- Fixed `claude -p` being slow or appearing to hang on Windows while waiting for the slash-command/skill scan (regression in 2.1.161)\n- Fixed Remote Control getting stuck on \"reconnecting\" after resuming a session when an OAuth token refresh happened at the same time\n- Fixed Git Credential Manager's \"Connect to GitHub\" popup appearing on Windows at startup when background git commands ran without cached credentials\n- Fixed footer hints (e.g.\n2. \"esc to interrupt\") not showing for users with a custom statusline\n- Fixed stale permission and dialog prompts reappearing every time you reattached to a remote session whose worker had died while waiting on them\n- Fixed `claude agents --json` omitting blocked and just-dispatched background sessions; added `--all` to include completed sessions, plus new `id` and `state` fields\n- Fixed agents view leaving a stale/garbled frame after navigating back from an agent on WSL in Windows Terminal\n- Fixed background agents ignoring project-level settings `env` values (e.g.\n3. `ANTHROPIC_MODEL`) when dispatched onto a pre-warmed worker\n- Fixed MCPB plugin cache being spuriously invalidated on Windows, causing unnecessary re-extraction\n- Fixed plugin `.in_use` PID lock files accumulating without bound; stale markers from crashed sessions are now swept once per day\n- Fixed untrusted project settings being able to set OTEL client-certificate paths without trust confirmation\n- `/workflows` now opens immediately even while a turn is in progress\n- Improved `TaskCreate` reliability: malformed inputs are repaired automatically and validation errors for unloaded tools include the schema\n- Improved the error message shown when your organization has disabled API key authentication, with guidance based on where the active API key comes from\n- Reduced CPU usage while responses stream and during spinner animations\n- Restored a default 5-minute idle timeout on Vertex/Foundry so a stalled stream aborts instead of hanging indefinitely; set `API_FORCE_IDLE_TIMEOUT=0` to opt out\n- Remote-managed settings with an invalid entry now apply their remaining valid policies and surface the validation error, instead of silently dropping the whole payload\n- Background sessions now preserve `--ide`, `--chrome`, `--bare`, `--remote-control`, and other flags across retire→wake, and respawn state validation was hardened\n- Background sessions are now told that shared-checkout edits are blocked until they enter a worktree, avoiding a wasted rejected edit before `EnterWorktree`\n- The \"CLAUDE.md is too long\" warning threshold now scales with the model's context window\n- Auto-updater on Windows now stops retrying within a session once `claude.exe` is held by another process\n- Improved color contrast for skill tags in the slash-command menu\n- Promo credit claims for Apple/Google-billed subscribers without a payment method now explain where to add one\n- Added a tip suggesting `claude agents` when running multiple concurrent sessions",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.169",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-08T21:57:18Z"
   },
   {
     "id": "6d16309a-16a5-448d-8f09-522389a77a26",
@@ -338,125 +378,5 @@
     "url": "https://trumpstruth.org/statuses/39160",
     "author": "Trump Truth",
     "created_at": "2026-06-08T18:19:19.000Z"
-  },
-  {
-    "id": "a796020a-ad57-430c-9cf1-25b38afd7b06",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
-    "summary": "1. Record-low Bitcoin RSI readings and whale accumulation highlight a generational buying opportunity, even as analysts still expect BTC to fall below $60,000.",
-    "url": "https://cointelegraph.com/markets/best-thesis-for-bitcoin-accumulation-surfaces-despite-downside-risk-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-06-08T18:11:29.000Z"
-  },
-  {
-    "id": "6b8696bd-a9b9-45e2-b737-4a65accf2a87",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "FTX Founder Sam Bankman-Fried Has Formally Filed for a Pardon From President Trump",
-    "summary": "1. President Trump previously ruled out a pardon for Sam Bankman-Fried—but the FTX founder has applied for one anyway.",
-    "url": "https://decrypt.co/370424/ftx-founder-sam-bankman-fried-filed-pardon-president-trump",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-08T18:08:19.000Z"
-  },
-  {
-    "id": "de88983f-6f5c-458b-90a2-7e34b80e8a6b",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "We Asked 7 AI Agents to Predict the 2026 World Cup: Here's What They Said",
-    "summary": "1. Can AI help predict the winner of the 2026 World Cup?\n2. We put seven of the best models to the test.",
-    "url": "https://decrypt.co/370338/ai-agents-predict-2026-world-cup",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-08T18:04:40.000Z"
-  },
-  {
-    "id": "694ba46d-30b3-4f65-b0ea-a5371b0a30e6",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Judge rules President Trump's $100,000 H-1B visa fee is unlawful.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#bd49102c",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-08T18:03:49+00:00"
-  },
-  {
-    "id": "cbea9dcb-2b6b-4e0c-a4fc-1b41278d2a52",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Goldman Sachs withdraws forecast for Fed rate cut this year",
-    "summary": "Goldman Sachs has completely withdrawn its forecast for a Federal Reserve rate cut this year, citing stronger-than-expected U.S. employment data for May, Crypto Briefing reported. The bank has postponed its projection for the first rate cut to June 2027. The outlet added that such a prolonged high-interest-rate environment could shrink liquidity across financial markets, potentially putting downward pressure on risk assets, including cryptocurrencies and DeFi protocols.",
-    "url": "https://t.me/CoinnessGL#02054a50",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-08T17:59:09+00:00"
-  },
-  {
-    "id": "b234b997-d1e4-4342-a34e-41b8846f7ebc",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase strategist says institutions aren’t panicking about bitcoin, ‘love it even more’ at lower prices",
-    "summary": "1. Family offices and sovereign wealth funds continue accumulating bitcoin despite the recent selloff, according to Coinbase's John D'Agostino.",
-    "url": "https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-08T17:52:18.000Z"
-  },
-  {
-    "id": "34cdbcba-e066-444a-829f-aa6f98af252d",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Full Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates",
-    "summary": "1. Bitcoin Magazine\n\nFull Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates\nThe full text of H.R.\n2. 8957 reveals that the proposed Strategic Bitcoin Reserve would impose a 20-year lock-up on federally held bitcoin.\n3. This post Full Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/full-of-strategic-bitcoin-reserve-bill",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-08T17:42:40.000Z"
-  },
-  {
-    "id": "71837e25-3b41-4bbf-9e4f-97ebee93c9c1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Bank of America says investors should take profits, citing \"too many red flags\" in the stock market.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#069ede21",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-08T17:37:31+00:00"
-  },
-  {
-    "id": "ca2d7ef2-caa1-48d7-8877-3452051ef56a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congressman Russell Fry is an America First Patriot, who is doing an incredible job representing South Carolina’s 7th Congressional District!\n2. A MAGA Warrior, who has been with us from the very beginning, Russell is working hard to Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Support our Great Military/Veterans, and Protect our always under siege Second Amendment.\n3. Russell Fry has my Complete and Total Endorsement for Re-Election.",
-    "url": "https://trumpstruth.org/statuses/39151",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T17:19:46.000Z"
-  },
-  {
-    "id": "a8da3e2f-8749-440e-9e04-c9303d636782",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congressman William Timmons is doing a truly fantastic job representing the wonderful people of South Carolina’s 4th Congressional District!\n2. A Captain in the South Carolina Air National Guard, and former Criminal Prosecutor, William knows what it takes to ensure LAW AND ORDER, and strongly support our incredible Law Enforcement, Military, and Veterans.\n3. In Congress, he is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, and Protect our always under siege Second Amendment.",
-    "url": "https://trumpstruth.org/statuses/39152",
-    "author": "Trump Truth",
-    "created_at": "2026-06-08T17:19:27.000Z"
-  },
-  {
-    "id": "945a98f9-4e48-4c97-8948-69b9427aa3d7",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase",
-    "summary": "1. Meanwhile, Strive bought 32 bitcoin, the same number Strategy dumped last week.",
-    "url": "https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-08T17:04:38.000Z"
-  },
-  {
-    "id": "ef557c25-5d46-45be-9f23-0580bfa21883",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Sam Bankman-Fried Formally Seeks Presidential Pardon From Trump, Files Clemency Petition",
-    "summary": "1. Bitcoin Magazine\n\nSam Bankman-Fried Formally Seeks Presidential Pardon From Trump, Files Clemency Petition\nSam Bankman-Fried has formally petitioned for a presidential pardon from President Donald Trump, even as Trump has publicly indicated he does not intend to grant clemency to the convicted FTX founder.\n2. This post Sam Bankman-Fried Formally Seeks Presidential Pardon From Trump, Files Clemency Petition first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/sam-bankman-fried-formally-seeks-pardon",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-08T16:54:03.000Z"
   }
 ]
