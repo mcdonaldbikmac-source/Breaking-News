@@ -1,5 +1,105 @@
 [
   {
+    "id": "c7c9f4cc-9f94-4d4e-887b-a1106c87004c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Defillama Adds Pre-IPO Perps for OpenAI, SpaceX, and Anthropic as Onchain AI Bets Heat Up",
+    "summary": "1. Defillama has begun tracking pre-IPO perpetual futures for Anthropic, OpenAI, SpaceX, and Quantinuum, as onchain traders are racing to bet on the year’s biggest private companies before they go public.\n2. Onchain Markets for Companies That Aren’t Public Yet Crypto data aggregator Defillama said it has added new pre-IPO perpetual futures markets spanning four closely watched […]",
+    "url": "https://news.bitcoin.com/defillama-pre-ipo-perps-openai-spacex-anthropic/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-10T11:30:09.000Z"
+  },
+  {
+    "id": "0d9e988f-17df-485d-a0e4-7ea3abcf81d1",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "‘Intense Capitulation’ Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss",
+    "summary": "1. Millions of Bitcoin are underwater as experts say the 'scale of market reset' signals capitulation, but long-term opportunities remain.",
+    "url": "https://decrypt.co/370620/intense-capitulation-hits-crypto-as-8m-btc-bulk-of-eth-supply-sit-at-loss",
+    "author": "Akash Girimath",
+    "created_at": "2026-06-10T11:26:31.000Z"
+  },
+  {
+    "id": "a33e6889-da24-4b7a-8770-287738e72bf8",
+    "source": "GitHub",
+    "type": "github",
+    "title": "paradigmxyz/reth: Reth v2.3.0",
+    "summary": "1. ![image](\r\n\r\nReth v2.3.0 continues the Amsterdam / Block Access List rollout with expanded BAL validation, storage, networking, RPC, and payload-builder support.\n2. The release also adds SSZ proxy coverage for Engine API methods, ERE file support, `eth_pendingTransactions`, debug account-state RPC endpoints, `eth_baseFee`, and snapshot overwrite support for `reth download --force`.\n3. This release includes several payload, engine, trie, and transaction-pool performance improvements, including parallel execution work, BAL prewarming, faster proof and trie paths, cheaper transaction-pool insertion, and reduced payload-building overhead.",
+    "url": "https://github.com/paradigmxyz/reth/releases/tag/v2.3.0",
+    "author": "github-actions[bot]",
+    "created_at": "2026-06-10T11:24:23Z"
+  },
+  {
+    "id": "6cee82b0-08b2-496a-814a-08747a506112",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The inflation scenario that could send bitcoin tumbling below $60,000",
+    "summary": "1. Your day-ahead look for June 10, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/06/10/the-inflation-scenario-that-could-send-bitcoin-tumbling-below-usd60-000",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-10T11:20:23.000Z"
+  },
+  {
+    "id": "7b26b006-7b91-425e-9af0-37bcfd76ea36",
+    "source": "The Block",
+    "type": "rss",
+    "title": "More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33",
+    "summary": "1. Over half of bitcoin's circulating supply is now trading at a loss, a level typically only reached near major bear market bottoms, per K33.",
+    "url": "https://www.theblock.co/post/404229/more-than-half-bitcoin-supply-underwater-bottom-after-final-leg-lower-k33?utm_source=rss&utm_medium=rss",
+    "author": "James Hunt",
+    "created_at": "2026-06-10T11:15:24.000Z"
+  },
+  {
+    "id": "5059b467-46cb-495b-bf84-dc0f4ef73033",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets",
+    "summary": "1. Kalshi's new rules force traders to disclose their employers before trading high-risk markets flagged for insider trading or manipulation.",
+    "url": "https://decrypt.co/370618/kalshi-rolls-out-new-safeguards-after-insider-trading-concerns-hit-prediction-markets",
+    "author": "Vismaya V",
+    "created_at": "2026-06-10T11:05:37.000Z"
+  },
+  {
+    "id": "757a2b3b-eb99-4eef-a42f-5a9a2bcb037a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Hands-on Review by Bitcoin.com: Exploring the CoinRabbit Crypto Ecosystem",
+    "summary": "1. Long-term crypto holders rarely want to sell.\n2. Whether it is Bitcoin, Ethereum, XRP, or other major digital assets, many investors view their holdings as long-term capital rather than short-term trading inventory.\n3. The challenge, however, is that markets move, opportunities emerge, and liquidity is still necessary.",
+    "url": "https://news.bitcoin.com/hands-on-review-by-bitcoin-com-exploring-the-coinrabbit-crypto-ecosystem/",
+    "author": "Media",
+    "created_at": "2026-06-10T11:00:51.000Z"
+  },
+  {
+    "id": "4cebdc42-614e-4cea-9994-7583186b6f7b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Zcash, Hyperliquid tokens lead losses as traders bet against a bitcoin bounce",
+    "summary": "1. Crypto markets are under pressure ahead of key U.S.\n2. inflation data due later Wednesday.",
+    "url": "https://www.coindesk.com/markets/2026/06/10/zcash-hyperliquid-tokens-lead-losses-as-traders-bet-against-a-bitcoin-bounce",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-10T10:52:54.000Z"
+  },
+  {
+    "id": "f1b3a79c-e041-48f7-97d9-7d2757361ae8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "New York regulator proposes stablecoin rule to align with federal GENIUS Act, adds reserve limits",
+    "summary": "1. The NYDFS has proposed a GENIUS Act-aligned stablecoin rule adding reserve concentration caps and mandatory risk management programs.",
+    "url": "https://www.theblock.co/post/404223/new-york-regulator-proposes-stablecoin-rule-to-align-with-federal-genius-act-adds-reserve-limits?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-10T10:38:40.000Z"
+  },
+  {
+    "id": "b6957c04-b7e6-4ac1-a161-ed7d9a66fbd7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘De-Worsified, Not Diversified’: Robert Kiyosaki Warns Investors on a Hidden Risk",
+    "summary": "1. Robert Kiyosaki says most people who think they are diversified are actually “de-worsified,” holding a pile of assets that all sink together when markets turn.\n2. Word Play With a Warning Robert Kiyosaki, the author of the best-selling personal finance book “Rich Dad Poor Dad,” is recasting a familiar piece of investing advice.\n3. In a post […]",
+    "url": "https://news.bitcoin.com/kiyosaki-de-worsified-not-diversified-warning/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-10T10:30:24.000Z"
+  },
+  {
     "id": "5e4fb999-027c-41e8-a493-4626511ed93b",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -248,85 +348,5 @@
     "url": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Martin Young",
     "created_at": "2026-06-10T05:55:19.000Z"
-  },
-  {
-    "id": "8978253e-eb2f-4417-8f1b-af2c11361ed3",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live updates: What next for bitcoin as it faces headwinds from Fed rates to Claude's Mythos",
-    "summary": "1. Anthropic's IPO pipeline, not its new model, is what crypto traders should track.",
-    "url": "https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-10T05:47:56.000Z"
-  },
-  {
-    "id": "084bf830-afc5-4a2d-b33b-4a4c9eef8e75",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "NYC Hotel Prices Surge as One Back-of-House Role Heads Past $100,000 a Year",
-    "summary": "1. $61 an hour by 2034 is where union housekeeper pay is headed under a strike-averting deal that lifts wages 50% over eight years, putting full-time earnings at $100,000 to $110,000 by 2032.\n2. In a market where Manhattan rooms already average between $500 and $600 a night, rates are expected to climb another 50% to 60% […]",
-    "url": "https://news.bitcoin.com/nyc-hotel-prices-surge-as-one-back-of-house-role-heads-past-100000-a-year-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-06-10T05:30:24.000Z"
-  },
-  {
-    "id": "31b9fc17-23cf-4c2a-9fcc-4e95faf8688a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP drops 4.5% as heavy selling breaks another support level",
-    "summary": "1. XRP lost the $1.13 area on elevated volume, leaving traders focused on whether the latest selloff marks a final washout or the start of a deeper move toward $1.00.",
-    "url": "https://www.coindesk.com/markets/2026/06/10/xrp-drops-4-5-as-heavy-selling-breaks-another-support-level",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-10T05:24:42.000Z"
-  },
-  {
-    "id": "25a424ec-ac8a-43df-ae84-287a10b707e6",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin and gold fall together as a rate-hike bet hits every hedge",
-    "summary": "1. The relief rally that lifted crypto off last week's lows is unwinding alongside tech stocks and gold, with traders bracing for a US inflation print and a Warsh Fed that may stay hawkish.",
-    "url": "https://www.coindesk.com/markets/2026/06/10/bitcoin-and-gold-fall-together-as-a-rate-hike-bet-hits-every-hedge",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-10T05:22:06.000Z"
-  },
-  {
-    "id": "53d33453-7fed-4482-86b1-eba4c171846c",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The Democratic establishment begrudgingly moves to embrace Graham Platner",
-    "summary": "1. Democrats largely lined up behind their new Maine Senate nominee on Tuesday, while Republicans were quick to launch their attacks.",
-    "url": "https://www.politico.com/news/2026/06/10/democrats-line-up-graham-platner-maine-00955581",
-    "author": "By Jessica Piper, William Steakin and Samuel Benson",
-    "created_at": "2026-06-10T04:53:10.000Z"
-  },
-  {
-    "id": "a2c7a864-93ea-4a1a-ab47-c40c2ed6f7f6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Masspay Expands Circle Integration With USDC Payouts, Giving Firms New Treasury Options",
-    "summary": "1. Masspay has expanded its integration with Circle’s Managed Payments service to allow businesses to facilitate stablecoin payouts and treasury operations without the complexity of direct digital asset management.\n2. Abstracting Blockchain Complexity Global payouts platform Masspay has expanded its integration with Circle Payments Network’s Managed Payments service, enabling businesses to fund and make payments using stablecoins […]",
-    "url": "https://news.bitcoin.com/masspay-expands-circle-integration-with-usdc-payouts-giving-firms-new-treasury-options/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-10T04:30:56.000Z"
-  },
-  {
-    "id": "27466859-2500-48e4-97a4-0d180df3da64",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Kalshi requires traders to disclose employers to curb insider trading in sensitive markets",
-    "summary": "1. The prediction markets platform also introduced a risk-scoring system and whistleblower tools to ensure market integrity.",
-    "url": "https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-10T04:23:44.000Z"
-  },
-  {
-    "id": "c596b35d-4df7-4258-98c4-d4dadc820a7f",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Teresa Benitez-Thompson wins crowded Dem primary for Nevada House seat",
-    "summary": "1. Her victory has Democrats hopeful about flipping the district this cycle.",
-    "url": "https://www.politico.com/news/2026/06/10/benitez-thompson-wins-nevada-house-primary-00955586",
-    "author": "By Liz Crampton",
-    "created_at": "2026-06-10T04:19:54.000Z"
   }
 ]
