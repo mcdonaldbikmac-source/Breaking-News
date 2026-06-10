@@ -1,5 +1,75 @@
 [
   {
+    "id": "a8074364-4da4-4ca5-b3a5-90168fdecc37",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Nancy Mace loses GOP primary for South Carolina governor",
+    "summary": "1. The representative, who has a history of bucking and then cozying up to the president, failed to make the runoff Tuesday.",
+    "url": "https://www.politico.com/news/2026/06/09/mace-loses-south-carolina-governor-primary-00955489",
+    "author": "By Alec Hernandez",
+    "created_at": "2026-06-10T01:06:26.000Z"
+  },
+  {
+    "id": "0a7db1d2-e5e1-4723-a0c5-9c49d54240e3",
+    "source": "The Block",
+    "type": "rss",
+    "title": "House crypto tax hearing reveals divide over urgency in advancing legislation",
+    "summary": "1. A House committee hearing on the taxation of digital assets offered a glimpse into lawmakers' views, highlighting rifts in approaches.",
+    "url": "https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-10T00:31:22.000Z"
+  },
+  {
+    "id": "db65cb54-46fd-4d3b-aa25-75ccf3916d1d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Fees Collapse 91.5% as Network Demand Flashes Warning",
+    "summary": "1. XRP’s 90-day network fee average has plunged 91.5%, with Glassnode data pointing to a sharp drop in real transaction demand despite earlier price strength.\n2. The trend suggests network activity has weakened considerably since the speculative surge, raising questions about the sustainability of underlying usage.\n3. XRP’s Fee Collapse Raises Questions About Real Network Demand XRP’s on-chain […]",
+    "url": "https://news.bitcoin.com/xrp-fees-collapse-91-5-as-network-demand-flashes-warning/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-10T00:30:56.000Z"
+  },
+  {
+    "id": "b9a36d70-fe0f-4fb1-ba43-26b34c42f887",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "summary": "1. Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "author": "Lucas Ropek, Connie Loizos",
+    "created_at": "2026-06-10T00:26:10.000Z"
+  },
+  {
+    "id": "89d28d24-d95a-4c10-8332-a1dd7ffc9058",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase, Ripple Join 200+ Organizations Pressing Senate for CLARITY Act Floor Vote",
+    "summary": "1. Coinbase, Ripple, and more than 200 organizations are pushing Senate leaders to bring the CLARITY Act to a floor vote.\n2. Supporters say the bill would clarify crypto oversight, create registration paths, and keep more digital asset activity under U.S.\n3. Crypto Coalition Turns Senate Pressure Toward a Floor Vote Washington’s digital asset debate has moved […]",
+    "url": "https://news.bitcoin.com/coinbase-ripple-join-200-organizations-pressing-senate-for-clarity-act-floor-vote/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-09T23:35:10.000Z"
+  },
+  {
+    "id": "c10623c1-b9c0-4d6f-9224-ccfbde61aee3",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "summary": "1. Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "author": "Marina Temkin",
+    "created_at": "2026-06-09T23:17:51.000Z"
+  },
+  {
+    "id": "a283e76f-63d6-49ca-ab64-85bc44b8e92f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Metamask Launches Agent Wallet for AI-Driven DeFi Trading, Targets $236B AI Agent Market",
+    "summary": "1. Metamask has launched Agent Wallet, a self-custodial wallet that lets AI agents trade across DeFi while keeping users in control.\n2. The product adds mandatory transaction checks, user-set limits, and protection for eligible transactions.\n3. Metamask Covers Eligible Agent Wallet Transactions Up to $10,000 Metamask is moving into AI-driven finance with the launch of Metamask Agent Wallet, […]",
+    "url": "https://news.bitcoin.com/metamask-launches-agent-wallet-for-ai-driven-defi-trading-targets-236b-ai-agent-market/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-09T22:54:59.000Z"
+  },
+  {
     "id": "829a9747-1720-4df1-bded-b4f438476cdd",
     "source": "Trump Truth",
     "type": "rss",
@@ -318,205 +388,5 @@
     "url": "https://news.bitcoin.com/ethereum-sits-at-1644-10-months-after-its-4946-all-time-high-what-changed/",
     "author": "Jamie Redman",
     "created_at": "2026-06-09T19:16:12.000Z"
-  },
-  {
-    "id": "fa58287b-9174-410b-b9ff-e5fe05509073",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
-    "summary": "1. Researchers demonstrated an AI-powered worm that adapts to targets, generates attack strategies, and spreads across networks without cloud services.",
-    "url": "https://decrypt.co/370557/ai-malware-worm-adapts-targets-cybersecurity",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-09T19:03:05.000Z"
-  },
-  {
-    "id": "1b3be9af-f528-4266-82aa-158cc59ba4f4",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Can tech companies learn to love cheaper AI models? ",
-    "summary": "1. If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-    "author": "Russell Brandom",
-    "created_at": "2026-06-09T18:56:09.000Z"
-  },
-  {
-    "id": "23a772be-a807-49c9-8aee-1cd2408029c5",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Sen. Lummis: US must protect Bitcoin, crypto as symbols of financial freedom",
-    "summary": "U.S. Senator Cynthia Lummis stressed that Bitcoin and other cryptocurrencies are new instruments embodying financial freedom, adding that the United States must protect them.",
-    "url": "https://t.me/CoinnessGL#beed817f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T18:53:24+00:00"
-  },
-  {
-    "id": "32ee7443-880a-4d6a-9387-637188ec1457",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Circle Deploys cirBTC on Ethereum, Letting BTC Holders Tap DeFi Without Selling",
-    "summary": "1. Circle has launched cirBTC on Ethereum, allowing institutions and BTC holders to deploy bitcoin as collateral in decentralized finance ( DeFi) markets without selling their underlying position.\n2. What cirBTC Is Every cirBTC token is backed 1:1 by native bitcoin.\n3. The underlying BTC is held at a regulated Circle entity and kept separate from the company’s […]",
-    "url": "https://news.bitcoin.com/circle-deploys-cirbtc-on-ethereum-letting-btc-holders-tap-defi-without-selling/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-09T18:50:13.000Z"
-  },
-  {
-    "id": "75f31870-14dd-45eb-a7d9-cb65eafe7a37",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Zcash developers have finalized the Ironwood network upgrade plan, with activation now targeted for July.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3866b5ea",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T18:49:12+00:00"
-  },
-  {
-    "id": "bd2691e6-4851-4e46-833b-27f4f77fd31a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hyperliquid advocate and Paradigm urge US to revise proposed anti-money laundering rule",
-    "summary": "1. The Hyperliquid-backed lobby group and Paradigm seek to prevent rules that would limit decentralized stablecoin usage on public blockchains.",
-    "url": "https://www.theblock.co/post/404159/hyperliquid-advocate-paradigm-urge-us-revise-proposed-anti-money-laundering-rule?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-09T18:37:53.000Z"
-  },
-  {
-    "id": "0668ceae-eea7-4480-9ddb-2b52151193d6",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Peter Schiff called Jamie Dimon's push to regulate stablecoin issuers like banks \"nonsense,\" arguing stablecoin issuers hold 1:1 reserves and don't make risky loans under a fractional reserve system.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#fea74226",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T18:14:33+00:00"
-  },
-  {
-    "id": "56b30e83-ac0b-460b-b137-f19360eb32bc",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-    "summary": "1. Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
-    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "author": "Morgan Little, Aisha Malik",
-    "created_at": "2026-06-09T18:04:24.000Z"
-  },
-  {
-    "id": "dcee7c7e-4e4a-4b64-8735-83d83db6aa59",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Lubin-Labeled Wallet Adds 110,000 ETH to Sky Vaults Backing $259M DAI Debt",
-    "summary": "1. A genesis-block Ethereum wallet labeled \"Joseph Lubin?\" by Arkham Intelligence deposited 110,000 ETH into three Sky Finance vaults on Friday, shoring up collateral behind $259M in DAI debt as ETH fell sharply.\n2. Neither Lubin nor ConsenSys has made any public statement on ownership of the address.",
-    "url": "https://thedefiant.io/news/people/lubin-labeled-wallet-adds-110-000-eth-to-sky-vaults-backing-usd259m-dai-debt",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-09T18:00:00.000Z"
-  },
-  {
-    "id": "0dbcf880-a568-4545-b334-7f9eed5bd3ad",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Polymarket World Cup Winner Markets Cross $1.8B in Volume as France-Spain Group Stage Opens",
-    "summary": "1. Polymarket's 2026 FIFA World Cup prediction markets have accumulated more than $1.8 billion in cumulative trading volume as the tournament's group stage gets underway, with France and Spain trading as the narrowest co-favorites.",
-    "url": "https://thedefiant.io/news/defi/polymarket-world-cup-winner-markets-1-8b-volume-france-spain",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-09T17:59:37.000Z"
-  },
-  {
-    "id": "58011189-6dc4-4115-990a-128e7122c46a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise",
-    "summary": "1. Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated.",
-    "url": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-06-09T17:48:44.000Z"
-  },
-  {
-    "id": "026a622f-b37e-45db-840e-a0588810717f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Warren calls weakened CFTC a ‘recipe for disaster’ as Congress advances crypto legislation",
-    "summary": "1. Senator Warren requested records related to staff departures, prediction market oversight and internal communications on the Clarity Act.",
-    "url": "https://www.theblock.co/post/404147/warren-weakened-cftc-recipe-disaster-congress-advances-crypto-legislation?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-09T17:48:06.000Z"
-  },
-  {
-    "id": "59b92a1d-0302-4954-8f8b-23efe5b01e19",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Citrini Research Calls Hyperliquid a Compelling Investment, Citing Nearly Half of All Crypto Token Buybacks",
-    "summary": "1. Citrini Research, known for moving AI equities with its reports, published an analysis calling Hyperliquid compelling, citing the protocol's Assistance Fund directing more than 90% of fees to HYPE buybacks and its command of close to half of all crypto token buyback activity this year.",
-    "url": "https://thedefiant.io/news/markets/citrini-research-hyperliquid-compelling-investment-buybacks",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-09T17:45:00.000Z"
-  },
-  {
-    "id": "f4df5791-d1d6-48d8-8377-d81bcfa559d9",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios",
-    "summary": "1. Bitcoin Magazine\n\nTraditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios\nTradFi institutions are shedding their skepticism toward crypto, and the shift is accelerating in 2026.\n2. This post Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/traditional-finance-rushing-to-crypto",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-09T17:41:46.000Z"
-  },
-  {
-    "id": "75a42955-1c77-4ab7-8886-24688bc0deb7",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-    "summary": "1. Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
-    "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-09T17:40:08.000Z"
-  },
-  {
-    "id": "7ec0e288-eff3-49d9-8a32-eac8afe54b55",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "BBB refers prediction market Kalshi to state regulators over ad inquiry",
-    "summary": "1. A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices.",
-    "url": "https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-09T17:26:49.000Z"
-  },
-  {
-    "id": "f9336a11-ae08-4edf-9c1a-48eed0eb3908",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.170",
-    "summary": "1. ## What's changed\n\n- Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use.\n2. Fable’s capabilities exceed those of any model we’ve ever made generally available.\n3. Update to version 2.1.170 for access.",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-09T17:23:09Z"
-  },
-  {
-    "id": "a393199b-b032-497c-90b7-49167c70da45",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Anthropic officially releases its most powerful AI model \"Claude Fable\" based on Mythos.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d57e4716",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-09T17:08:26+00:00"
-  },
-  {
-    "id": "6a65a686-6e5b-4727-a002-3d5e8a480d2f",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA",
-    "summary": "1. Bitcoin Magazine\n\nNew Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA\nA new upcoming documentary, Bitcoin Season, explores how Bitcoin is gaining traction in professional basketball.\n2. This post New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-season-charts-bitcoins-in-the-nba",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-09T17:00:00.000Z"
-  },
-  {
-    "id": "3bfced79-cf69-460c-a017-7bfddfcb8b08",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US stock market crashes as S&P 500 and Nasdaq fall sharply.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#11aab908",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-09T16:48:52+00:00"
   }
 ]
