@@ -1,5 +1,155 @@
 [
   {
+    "id": "5e4fb999-027c-41e8-a493-4626511ed93b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bybit: BTC option IV at yearly low as traders hedge downside",
+    "summary": "Implied volatility (IV) for Bitcoin and Ethereum options is trading at its lowest level this year as traders move to hedge against geopolitical risks, Bybit said in its weekly options report.The report noted that ongoing geopolitical conflict between the U.S. and Iran has fueled inflation concerns and a sell-off in the global bond market, significantly dampening crypto market sentiment. BTC's implied volatility remains in the 30% range, a yearly low, suggesting that traders see a low probability of short-term price swings and are focused on defending against downside risk. Unlike the U.S. stock market, which is rising on AI optimism, the crypto market is showing a clear decoupling trend due to continuous capital outflows and macroeconomic pressure, the report added.",
+    "url": "https://t.me/CoinnessGL#71af8e87",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-10T10:09:50+00:00"
+  },
+  {
+    "id": "f05fd01a-b2b6-451b-96d3-104bf5e49f39",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot CVD chart for 10:00 a.m. UTC on June 10",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section displays a Volume Heatmap, while the bottom shows the Cumulative Volume Delta (CVD).- The Volume Heatmap tracks trading volume at specific price levels. The background brightens when the price lingers in a particular range or makes a significant move. These brighter areas can potentially act as support or resistance.- The Cumulative Volume Delta (CVD) indicator represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line tracks orders between $100 and $1,000, while the brown line indicates large orders between $1 million and $10 million.",
+    "url": "https://t.me/CoinnessGL#391f2951",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-10T10:00:23+00:00"
+  },
+  {
+    "id": "628f8c9b-6df4-491f-a899-77409e86d1ae",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Saylor calls Bitcoin 'hope for everyone'",
+    "summary": "Michael Saylor, founder of MicroStrategy (MSTR), stated via X that Bitcoin is hope for everyone and a tool for economic empowerment. He added that all good-faith attempts to strengthen the network should be welcomed. Meanwhile, a recent Fortune report noted that MicroStrategy's BTC accumulation model is being tested, suggesting that the possibility of consecutive BTC sales cannot be ruled out if the burden of its preferred stock dividends increases. more:",
+    "url": "https://t.me/CoinnessGL#119722ed",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-10T09:47:45+00:00"
+  },
+  {
+    "id": "75826d34-1f7d-4662-b92f-6043a2a961a9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
+    "summary": "1. The proposed measures would ban transactions on 11 crypto platforms and expand sanctions targeting networks accused of helping Russia evade restrictions.",
+    "url": "https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-06-10T09:46:01.000Z"
+  },
+  {
+    "id": "aac4ceb2-10af-4fac-a636-aa188c32d4f0",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "TODAY: 🇺🇸 BlackRock says it's watching today’s May CPI report for signals that...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0b474355",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-10T09:39:14+00:00"
+  },
+  {
+    "id": "6119f042-832e-40e6-8c7f-b7b4ba5aea3b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Slips Toward $1.10 as Ripple Taps RLUSD to Fund Safe Water for Millions",
+    "summary": "1. XRP is trading on shaky ground near $1.11 as a fresh selloff threatens to drag it under $1.10, even as Ripple puts its RLUSD stablecoin to work funding clean-water access for millions of people.\n2. A Price on Shaky Ground XRP has slipped into a precarious technical setup, breaking below a bullish trendline support at $1.1620 […]",
+    "url": "https://news.bitcoin.com/xrp-price-shaky-ripple-rlusd-safe-water/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-10T09:30:31.000Z"
+  },
+  {
+    "id": "4ff5e6da-d97a-495f-ae69-4c3b5b21bbca",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027",
+    "summary": "1. Megabanks MUFG Bank, Mizuho Bank and SMBC have formed a council to develop frameworks for jointly issuing a stablecoin in fiscal year 2026.",
+    "url": "https://decrypt.co/370615/japans-largest-banks-plan-joint-stablecoin-launch-by-march-2027",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-10T09:19:08.000Z"
+  },
+  {
+    "id": "49e2d475-f30b-43af-a5b5-7168492bd10c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitwise says Bitcoin may be acting as a \"canary in the coal mine,\" flashing an early warning signal for a broader market correction.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#10a4e97d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-10T09:09:18+00:00"
+  },
+  {
+    "id": "760ad395-da22-4bf9-9628-509617a570e4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Japan's three largest banks aim for joint stablecoin issue by March",
+    "summary": "1. MUFG, SMBC and Mizuho will establish a council to explore operational frameworks and prepare for the issuance of stablecoins.",
+    "url": "https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march",
+    "author": "Jamie Crawley",
+    "created_at": "2026-06-10T09:01:14.000Z"
+  },
+  {
+    "id": "1371a91e-f558-4206-bdbe-e7478faa596e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets",
+    "summary": "1. Botanix to wind down Bitcoin Layer 2 after four years, citing weak fee revenue and urging users to withdraw assets by July 9.",
+    "url": "https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-06-10T09:00:38.000Z"
+  },
+  {
+    "id": "c026678a-5bb5-4250-be7a-d553d706b377",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Waymo says it built a better benchmark for comparing robotaxis to humans",
+    "summary": "1. Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter.",
+    "url": "https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-06-10T09:00:00.000Z"
+  },
+  {
+    "id": "a3993f3e-a565-4207-8a9a-cba800e8a128",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Trades Near $61,300 After Worst Week Since FTX Collapse Wipes $390 Billion From Crypto",
+    "summary": "1. Bitcoin has recorded its worst weekly performance since the 2022 FTX collapse, sliding below $60,000 in a rout that erased roughly $390 billion in crypto market value.\n2. A Drawdown Not Seen Since 2022 Bitcoin closed out one of its ugliest stretches in years, dropping about 17.3% while ether fell roughly 22%, the largest weekly declines […]",
+    "url": "https://news.bitcoin.com/bitcoin-worst-week-since-ftx-collapse-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-10T08:30:31.000Z"
+  },
+  {
+    "id": "547d5972-8f8b-4e30-a8c1-d0ea32610b8d",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ More than 60 crypto founders and executives have urged Senate leaders to preserve developer protections in the CLARITY Act ahead of a possible floor vote this summer.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2034341e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-10T08:29:23+00:00"
+  },
+  {
+    "id": "81719398-9794-43cc-971b-a4e0c3edb254",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP market shows signs of capitulation as holders sell at loss",
+    "summary": "1. XRP holders are capitulating, according to data tracked by Glassnode.\n2. That suggests a bottom may be near.",
+    "url": "https://www.coindesk.com/markets/2026/06/10/xrp-market-shows-signs-of-capitulation-as-holders-sell-at-loss",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-10T08:24:48.000Z"
+  },
+  {
+    "id": "7458984a-0c58-4240-a322-9e3c4c8e3979",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Japan’s three megabanks to debut live stablecoin transactions by March 2027",
+    "summary": "1. MUFG Bank, Mizuho Bank, and SMBC have set up a council to examine operational frameworks and governance for the stablecoin issuance.",
+    "url": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-10T07:58:34.000Z"
+  },
+  {
     "id": "be70909b-ac3e-43dc-9ef5-0bb569054c74",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -10,6 +160,16 @@
     "created_at": "2026-06-10T07:30:47.000Z"
   },
   {
+    "id": "5a65faa0-2953-468f-baa4-8443a0ae6118",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
+    "summary": "1. Tech stocks and crypto are selling off in a “classic pre-mega-IPO liquidity squeeze,” say analysts.",
+    "url": "https://cointelegraph.com/news/spacex-ipo-nears-four-times-oversubscribed-squeezing-crypto-and-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-10T07:29:05.000Z"
+  },
+  {
     "id": "eb24edb4-6e67-4d80-a303-9b3802e6afc9",
     "source": "CoinDesk",
     "type": "rss",
@@ -18,6 +178,16 @@
     "url": "https://www.coindesk.com/markets/2026/06/10/spacex-s-most-active-pre-ipo-market-has-fallen-27-in-three-weeks",
     "author": "Shaurya Malwa",
     "created_at": "2026-06-10T07:18:44.000Z"
+  },
+  {
+    "id": "0ab250c2-6019-43fd-b087-69f5ccfea3a7",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "New York moves to align stablecoin rules with the GENIUS Act, bringing state oversight closer to the federal crypto frameworkTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#5bfa187b",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-10T07:13:57+00:00"
   },
   {
     "id": "da8c28c1-7884-4f15-b5ee-46008bf38201",
@@ -158,105 +328,5 @@
     "url": "https://www.politico.com/news/2026/06/10/benitez-thompson-wins-nevada-house-primary-00955586",
     "author": "By Liz Crampton",
     "created_at": "2026-06-10T04:19:54.000Z"
-  },
-  {
-    "id": "c1723ba8-3203-413f-8a29-4c43044ecd57",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
-    "summary": "1. Venture capitalist Simon Dedic said Anthropic’s latest AI models drop the cost and skill needed to find crypto exploits to “basically zero.”",
-    "url": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-10T04:04:52.000Z"
-  },
-  {
-    "id": "eee04c4f-7d67-4fed-97c7-161345f280bb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot ETH ETFs see first net outflow in 3 days",
-    "summary": "U.S. spot Ethereum ETFs recorded a total net outflow of $40.83 million (62.1 billion won) on June 9, marking a shift to outflows for the first time in three trading days, according to data from TradeT.- BlackRock's ETHA: -$8.47 million- BlackRock's Staking ETHB: +$20,000- Grayscale's ETHE: -$17.42 million- Grayscale's Mini ETH: -$14.96 million",
-    "url": "https://t.me/CoinnessGL#168df071",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T03:52:47+00:00"
-  },
-  {
-    "id": "4212c1da-f865-4eab-97a9-3f883f790c17",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "10x Research sees upside for Bitmine despite $10B ETH loss",
-    "summary": "According to a report from 10x Research, while Bitmine has an unrealized loss of approximately $10 billion on its ETH investments, its current stock price includes a potential upside that the market is overlooking. The report noted that Bitmine raised $19.2 billion through 50 separate stock issuances between July 2025 and June 2026 to purchase 5,543,872 ETH, an amount representing approximately 4.6% of the token's total circulating supply.However, with the price of ETH falling from an average purchase price of $3,526 to around $1,650, the value of the company's holdings has shrunk to approximately $9.1 billion. The losses were compounded by investors purchasing the stock at a significant premium to its Net Asset Value (NAV), estimated at a total of $4.6 billion. 10x Research concluded that with the stock price now significantly lower, the potential for a future recovery has become more important than the underlying asset value, suggesting Bitmine has entered a new phase.",
-    "url": "https://t.me/CoinnessGL#3a044afc",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T03:52:42+00:00"
-  },
-  {
-    "id": "970a1981-162c-4170-ac3a-d8b857c22990",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot Bitcoin ETFs see $77.4M net outflow",
-    "summary": "U.S. spot Bitcoin ETFs recorded a total net outflow of $77.44 million on June 9, according to data compiled by Trader T. This marks the third consecutive trading day of net outflows for the funds.- BlackRock's IBIT: -$61.64 million- Fidelity's FBTC: -$20.19 million- Grayscale's Mini BTC: +$4.39 million",
-    "url": "https://t.me/CoinnessGL#cc42ee84",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T03:46:48+00:00"
-  },
-  {
-    "id": "82b197f2-2b76-4237-8e28-11279f4a7e8b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
-    "summary": "1. The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
-    "url": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-06-10T03:35:07.000Z"
-  },
-  {
-    "id": "ef6f66d1-a19d-4632-9a0d-2dbe04e89ca4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Wintermute Warns Bitcoin Bottom Is Unclear With ETF Outflows Near $3B",
-    "summary": "1. Wintermute said bitcoin’s latest decline was driven mainly by U.S.\n2. institutional selling and ETF outflows, not Strategy’s small BTC sale.\n3. The firm warned that capital inflows have not returned, making it too early to call a market bottom.",
-    "url": "https://news.bitcoin.com/wintermute-warns-bitcoin-bottom-is-unclear-with-etf-outflows-near-3b/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-10T03:30:53.000Z"
-  },
-  {
-    "id": "2722c749-4472-4472-8f9f-de9a203e9c02",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Key senator presses to term limit parliamentarian, clear possible path for election law:",
-    "url": "https://trumpstruth.org/statuses/39189",
-    "author": "Trump Truth",
-    "created_at": "2026-06-10T03:23:47.000Z"
-  },
-  {
-    "id": "66dce172-8103-46f2-9d72-afceacb3f9f3",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. JD Vance refers evidence of Minnesota fraud, Walz inaction to DOJ for criminal inquiry:",
-    "url": "https://trumpstruth.org/statuses/39190",
-    "author": "Trump Truth",
-    "created_at": "2026-06-10T03:23:18.000Z"
-  },
-  {
-    "id": "1936d611-b4f2-49d6-8ba4-40f0f580bcd3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Can SpaceX IPO Deliver? Devere Says Real Test Comes After",
-    "summary": "1. SpaceX’s expected market debut could test whether public investors still have patience for massive private-market valuations.\n2. Devere Group says the real challenge will begin after the IPO, when investors start judging growth, spending, execution, and profitability quarter by quarter.\n3. SpaceX’s June Debut Could Test Public Demand for Historic IPO SpaceX’s long-awaited stock market debut is […]",
-    "url": "https://news.bitcoin.com/can-spacex-ipo-deliver-devere-says-real-test-comes-after/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-10T02:30:09.000Z"
-  },
-  {
-    "id": "3868ebbb-e3d3-41da-bf14-8d7551b44145",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Washington man gets 5 years for helping $100 million crypto money laundering scheme",
-    "summary": "1. Geoffrey K.\n2. Auyeung helped overseas fraudsters launder $100 million in scam proceeds through crypto and bank accounts, according to the DOJ.",
-    "url": "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-10T01:56:47.000Z"
   }
 ]
