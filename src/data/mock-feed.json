@@ -1,5 +1,35 @@
 [
   {
+    "id": "1936d611-b4f2-49d6-8ba4-40f0f580bcd3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Can SpaceX IPO Deliver? Devere Says Real Test Comes After",
+    "summary": "1. SpaceX’s expected market debut could test whether public investors still have patience for massive private-market valuations.\n2. Devere Group says the real challenge will begin after the IPO, when investors start judging growth, spending, execution, and profitability quarter by quarter.\n3. SpaceX’s June Debut Could Test Public Demand for Historic IPO SpaceX’s long-awaited stock market debut is […]",
+    "url": "https://news.bitcoin.com/can-spacex-ipo-deliver-devere-says-real-test-comes-after/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-10T02:30:09.000Z"
+  },
+  {
+    "id": "3868ebbb-e3d3-41da-bf14-8d7551b44145",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Washington man gets 5 years for helping $100 million crypto money laundering scheme",
+    "summary": "1. Geoffrey K.\n2. Auyeung helped overseas fraudsters launder $100 million in scam proceeds through crypto and bank accounts, according to the DOJ.",
+    "url": "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-10T01:56:47.000Z"
+  },
+  {
+    "id": "c8a44a2c-6d76-4741-8278-55f968118d4b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "61 Crypto Leaders Urge Senate to Pass CLARITY Act With Developer Protections",
+    "summary": "1. A coalition of 61 industry leaders, founders, and investors is urging Senate leaders to pass the CLARITY Act while preserving key developer protections.\n2. The push follows Senate Banking Committee approval of the Blockchain Regulatory Certainty Act (BRCA) that would clarify rules for developers and service providers.\n3. Developer Protections Move to Center of US Crypto Regulation […]",
+    "url": "https://news.bitcoin.com/61-crypto-leaders-urge-senate-to-pass-clarity-act-with-developer-protections/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-10T01:30:16.000Z"
+  },
+  {
     "id": "a8074364-4da4-4ca5-b3a5-90168fdecc37",
     "source": "Politico",
     "type": "rss",
@@ -158,235 +188,5 @@
     "url": "https://cointelegraph.com/markets/ether-risks-revisit-of-1000-if-this-support-level-breaks-amid-leverage-reset-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Biraajmaan Tamuly",
     "created_at": "2026-06-09T21:21:47.000Z"
-  },
-  {
-    "id": "88392a1f-6ee8-4768-9427-a3235262ba49",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 TradFi asset manager Janus Henderson has taken a strategic position in Ethena’s ENA token and plans to use USDe for treasury cash management and regulated investment products.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a21407f4",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T21:14:43+00:00"
-  },
-  {
-    "id": "0f4f5ea2-b6a3-418f-ace7-9621a9bf0a2c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US Democrats raise concerns over crypto tax reform",
-    "summary": "The U.S. House of Representatives has initiated discussions on a crypto tax bill aimed at easing the reporting burden for investors and users, but its passage is expected to require significant debate due to bipartisan disagreements. According to CoinDesk, the House Ways and Means Committee held a hearing today on a package of bills intended to create clearer taxation standards for crypto investment profits and simplify reporting procedures. During the hearing, Democratic members raised concerns about the proposed tax benefits and methods. Some key committee members had reportedly expressed opposition to the bill's contents even before the hearing. Committee Ranking Member Richard Neal stated that while he ultimately agrees with the objective, the timing is premature, adding that some members of both parties remain skeptical. more:",
-    "url": "https://t.me/CoinnessGL#f28f8992",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T21:14:16+00:00"
-  },
-  {
-    "id": "5e3b05e5-d837-4568-9fa1-417a35c61ccc",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Binance’s New US Stock-Trading Service Pulls in $400 Million in Its First Week",
-    "summary": "1. Binance’s freshly launched U.S.\n2. stock-trading service has amassed more than $400 million in assets under management just one week after going live, an early sign of demand as the exchange pushes toward tokenized equities.\n3. A Fast Start for Binance’s Equities Push Binance, the world’s largest cryptocurrency exchange by trading volume, confirmed that its new stock-trading […]",
-    "url": "https://news.bitcoin.com/binance-stock-trading-400-million-bstocks/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-09T21:10:40.000Z"
-  },
-  {
-    "id": "d5b23b54-24a9-47b5-9825-a420afb9e957",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
-    "summary": "1. The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel.",
-    "url": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-09T21:06:01.000Z"
-  },
-  {
-    "id": "51c992bb-9129-4e8a-96e7-c19a453a551f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "GM joins race to build batteries for AI data centers and the grid",
-    "summary": "1. GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
-    "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
-    "author": "Tim De Chant",
-    "created_at": "2026-06-09T21:00:00.000Z"
-  },
-  {
-    "id": "3b122d10-8885-4801-8d9c-fd112dad03b6",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Inside Mamdani aide’s private budget briefing for the DSA",
-    "summary": "1. Inside Mamdani aide’s private budget briefing for the DSA",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/09/inside-mamdani-aides-private-budget-briefing-for-the-dsa-00954884",
-    "author": "By Chris Sommerfeldt",
-    "created_at": "2026-06-09T20:56:39.000Z"
-  },
-  {
-    "id": "e5103a6c-f793-47b3-9e6f-9661c89f9d5d",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Hey, Siri, here’s what I actually want from AI",
-    "summary": "1. I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-06-09T20:50:17.000Z"
-  },
-  {
-    "id": "50bbea3d-67b3-41ed-aa11-586d51fbbe1e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase adds ARX, RE to listing roadmap",
-    "summary": "Coinbase announced the addition of ARX and RE to its listing roadmap.",
-    "url": "https://t.me/CoinnessGL#14578c42",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T20:46:29+00:00"
-  },
-  {
-    "id": "5c8d3299-431b-4174-9e09-657bfe118108",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ CZ says Bitcoin won’t be “dead” for long and urged traders not to panic.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c4fe189d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T20:39:22+00:00"
-  },
-  {
-    "id": "1c12d4e1-5a72-47f9-84ba-5eeb50528de2",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-    "summary": "1. Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-09T20:37:49.000Z"
-  },
-  {
-    "id": "1b64b83d-11b1-4b55-99ba-d01d8bf340e9",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots—Meta Calls It 'Regulatory Overreach'",
-    "summary": "1. The European Commission has issued interim measures forcing Meta to restore third-party AI access to the WhatsApp Business API within five days.",
-    "url": "https://decrypt.co/370580/eu-orders-meta-open-whatsapp-rival-ai-chatbots",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-09T20:36:20.000Z"
-  },
-  {
-    "id": "363a7c35-ec62-42cf-af9d-823c58e800f8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Anthropic Launches Claude Fable 5 at Half the Price of Mythos Preview — Benchmarks Top All Rivals",
-    "summary": "1. Anthropic launched Claude Fable 5 on Tuesday, releasing a Mythos-class artificial intelligence (AI) model for general use that tops rivals on coding, finance, and vision benchmarks while cutting pricing to less than half of what Claude Mythos Preview costs.\n2. What Claude Fable 5 Is Fable 5 is Anthropic’s most capable publicly available model.\n3. In Tuesday’s […]",
-    "url": "https://news.bitcoin.com/anthropic-launches-claude-fable-5-at-half-the-price-of-mythos-preview-benchmarks-top-all-rivals/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-09T20:27:28.000Z"
-  },
-  {
-    "id": "f02b7796-6733-44dd-964f-0c61b517c751",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum",
-    "summary": "1. The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.",
-    "url": "https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-09T20:26:11.000Z"
-  },
-  {
-    "id": "39ecc0a8-bcc2-4664-ab78-b8a17d49c941",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "December Trial Date Set for US Soldier Accused of Insider Trading on Polymarket",
-    "summary": "1. The insider trading case is the government's first to center on prediction markets.",
-    "url": "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
-    "author": "André Beganski",
-    "created_at": "2026-06-09T20:09:50.000Z"
-  },
-  {
-    "id": "c4655f9d-bf95-41e7-84ed-3273dc309323",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
-    "summary": "1. Kristin Smith urged the Senate to preserve developer protections in the CLARITY Act, arguing open-source builders should not be regulated as financial intermediaries.",
-    "url": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-09T20:05:52.000Z"
-  },
-  {
-    "id": "e210c4aa-7942-4fcd-bd45-dbeade030f66",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Starknet has launched STRK20, a ZK privacy framework that brings private transfers to ERC-20 tokens with built-in compliance tools.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e380d361",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T19:59:43+00:00"
-  },
-  {
-    "id": "e8dd575c-a267-4e2c-83b8-aecdd37ae3e1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Securitize CEO says stock tokens to drive RWA market to $5T",
-    "summary": "Carlos Domingo, CEO of real-world asset (RWA) tokenization firm Securitize, predicted that stock tokens and ETFs will be the key drivers in growing the RWA market to a multi-trillion dollar scale. According to CoinDesk, Domingo said during a panel discussion at ETHConf in New York that the global stock and ETF market is valued at approximately $150 trillion. He suggested that if just 2% to 3% of this moves on-chain, the market could approach $5 trillion. Domingo added that while the tokenization market is currently worth $30 billion, it could expand significantly through stock and ETF tokens. He also noted that while tokenized U.S. Treasurys have led RWA market growth over the past two years, stock tokens will be the new growth engine going forward.",
-    "url": "https://t.me/CoinnessGL#659d5702",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T19:56:26+00:00"
-  },
-  {
-    "id": "35945bdd-aad5-4a49-ad06-8c28f59fa70b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
-    "summary": "1. At a panel at ETHConf, Carlos Domingo argued that bringing stocks and exchange-traded funds onchain could unlock a market far larger than today's roughly $30 billion tokenized asset sector.",
-    "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-09T19:49:28.000Z"
-  },
-  {
-    "id": "c7be6ec7-926a-4e43-ae2e-683c8cf4397e",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "A Quantum Clock Is Ticking for Bitcoin and Crypto—Here's How Stellar Is Preparing",
-    "summary": "1. The Stellar Development Foundation unveiled a three-step roadmap to prepare the XLM network for the coming quantum computing threat.",
-    "url": "https://decrypt.co/370570/quantum-clock-ticking-bitcoin-crypto-how-stellar-preparing",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-09T19:49:05.000Z"
-  },
-  {
-    "id": "ef997538-d8de-4086-85f4-259d84c0ad68",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Reverses 24-Hour Rally as Glassnode Flags 8M BTC at a Loss",
-    "summary": "1. Amid escalating geopolitical tensions in the Middle East, bitcoin briefly dropped below $61,000 before rebounding to trade around $61,700—marking a 2.9% daily loss and wiping roughly $30 billion off its market capitalization.\n2. Bitcoin Dips Amid Geopolitical Tremors On Tuesday, bitcoin reversed gains made 24 hours earlier, dipping below the $61,000 threshold amid heightened geopolitical tensions […]",
-    "url": "https://news.bitcoin.com/bitcoin-reverses-24-hour-rally-as-glassnode-flags-8m-btc-at-a-loss/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-09T19:37:05.000Z"
-  },
-  {
-    "id": "df12ec10-6a21-4f3c-b8b4-017cc1535ca3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC rises above $62,000",
-    "summary": "According to CoinNess market monitoring, BTC has risen above $62,000. BTC is trading at $62,037.8 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#9dfa8be0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-09T19:32:18+00:00"
-  },
-  {
-    "id": "558f2255-858e-42c7-bd18-bc68675cc20a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Circle has launched cirBTC, a wrapped Bitcoin token on Ethereum.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#081f71b8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T19:24:42+00:00"
-  },
-  {
-    "id": "006b4860-2dab-422e-a653-11f22b1ff449",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ethereum Sits at $1,644 — 10 Months After Its $4,946 All-Time High, What Changed",
-    "summary": "1. Ethereum is trading near $1,644, roughly 67% below its all-time high of $4,946 set on Aug.\n2. 24, 2025, as a combination of macro pressure, persistent ETF outflows, and bitcoin’s rising dominance has pushed the second-largest cryptocurrency to its weakest relative position in years.\n3. ETH by the Numbers As of June 9, 2026, ETH’s 24-hour range […]",
-    "url": "https://news.bitcoin.com/ethereum-sits-at-1644-10-months-after-its-4946-all-time-high-what-changed/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-09T19:16:12.000Z"
   }
 ]
