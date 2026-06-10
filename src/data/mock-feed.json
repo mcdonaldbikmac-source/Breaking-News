@@ -1,5 +1,85 @@
 [
   {
+    "id": "be70909b-ac3e-43dc-9ef5-0bb569054c74",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tom Lee’s Bitmine Buys $123 Million More Ethereum as Treasury Tops 5.4 Million ETH",
+    "summary": "1. Bitmine Immersion Technologies has scooped up another 75,000 ether worth roughly $123 million, lifting the Tom Lee-chaired firm’s treasury past 5.4 million ETH and deeper into a multibillion-dollar bet on the network.\n2. A 75,000 ETH Buy in an Eight-Hour Window Bitmine Immersion Technologies (NYSE American: BMNR) acquired 75,000 ether on June 9 for about $123 […]",
+    "url": "https://news.bitcoin.com/bitmine-buys-123m-ethereum-treasury-5-4m-eth/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-10T07:30:47.000Z"
+  },
+  {
+    "id": "eb24edb4-6e67-4d80-a303-9b3802e6afc9",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "SpaceX's pre-IPO market on Hyperliquid has fallen 27% in three weeks",
+    "summary": "1. The SPCX perpetual still trades above SpaceX’s $135 offer price, but it has fallen sharply from its May highs as traders mark down the first-day premium.",
+    "url": "https://www.coindesk.com/markets/2026/06/10/spacex-s-most-active-pre-ipo-market-has-fallen-27-in-three-weeks",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-10T07:18:44.000Z"
+  },
+  {
+    "id": "da8c28c1-7884-4f15-b5ee-46008bf38201",
+    "source": "The Block",
+    "type": "rss",
+    "title": "EU proposes expanded sanctions on Russia-linked crypto platforms",
+    "summary": "1. The European Commission may introduce a full ban on crypto services from non-EU countries that host platforms helping Russia evade sanctions.",
+    "url": "https://www.theblock.co/post/404207/eu-proposes-russia-crypto-sanction?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-10T07:05:46.000Z"
+  },
+  {
+    "id": "7bf2ed71-db0e-472d-a171-970b1a2032bf",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Meta signs first AI data center deal in India with Reliance",
+    "summary": "1. The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-10T07:05:26.000Z"
+  },
+  {
+    "id": "22717c54-f6ca-4188-b51a-c6b852720af6",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Chainalysis, South Korean police link up to fight crypto crime",
+    "summary": "1. South Korea's national police has been battling crypto-enabled crimes from DPRK-state level threats to scams targeting retail investors.",
+    "url": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-06-10T07:03:20.000Z"
+  },
+  {
+    "id": "937be80e-7e9a-43b4-8a48-f9786eb0d507",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hyperliquid, Paradigm urge revision of GENIUS money laundering rule",
+    "summary": "1. The Hyperliquid Policy Center and Paradigm say the Treasury’s money laundering rules for the GENIUS Act are too onerous for stablecoin issuers.",
+    "url": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-10T06:40:53.000Z"
+  },
+  {
+    "id": "9c65e9e8-42dd-4ff2-bc2c-939569c1b4b5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Morpho Raises $175M at $2B Valuation as Paradigm and A16z Back DeFi Push",
+    "summary": "1. Morpho has raised $175 million in a funding round led by Paradigm, A16z Crypto, and Ribbit Capital.\n2. The DeFi lending protocol is now valued at about $2 billion as it expands from crypto-native markets into institutional finance.\n3. Morpho Targets Institutional Finance as TVL Hits $6.6B Morpho has raised $175 million in fresh funding, giving the […]",
+    "url": "https://news.bitcoin.com/morpho-raises-175m-at-2b-valuation-as-paradigm-and-a16z-back-defi-push/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-10T06:30:26.000Z"
+  },
+  {
+    "id": "77637509-87e4-4a3b-a3f8-2449ceaf4971",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
+    "summary": "1. “The same insider trade that improves the accuracy of the price today can reduce the participation that makes the price informative tomorrow,” said Balbinder Singh Gill.",
+    "url": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-10T05:55:19.000Z"
+  },
+  {
     "id": "8978253e-eb2f-4417-8f1b-af2c11361ed3",
     "source": "CoinDesk",
     "type": "rss",
@@ -178,65 +258,5 @@
     "url": "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss",
     "author": "Danny Park",
     "created_at": "2026-06-10T01:56:47.000Z"
-  },
-  {
-    "id": "c8a44a2c-6d76-4741-8278-55f968118d4b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "61 Crypto Leaders Urge Senate to Pass CLARITY Act With Developer Protections",
-    "summary": "1. A coalition of 61 industry leaders, founders, and investors is urging Senate leaders to pass the CLARITY Act while preserving key developer protections.\n2. The push follows Senate Banking Committee approval of the Blockchain Regulatory Certainty Act (BRCA) that would clarify rules for developers and service providers.\n3. Developer Protections Move to Center of US Crypto Regulation […]",
-    "url": "https://news.bitcoin.com/61-crypto-leaders-urge-senate-to-pass-clarity-act-with-developer-protections/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-10T01:30:16.000Z"
-  },
-  {
-    "id": "a8074364-4da4-4ca5-b3a5-90168fdecc37",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Nancy Mace loses GOP primary for South Carolina governor",
-    "summary": "1. The representative, who has a history of bucking and then cozying up to the president, failed to make the runoff Tuesday.",
-    "url": "https://www.politico.com/news/2026/06/09/mace-loses-south-carolina-governor-primary-00955489",
-    "author": "By Alec Hernandez",
-    "created_at": "2026-06-10T01:06:26.000Z"
-  },
-  {
-    "id": "0a7db1d2-e5e1-4723-a0c5-9c49d54240e3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "House crypto tax hearing reveals divide over urgency in advancing legislation",
-    "summary": "1. A House committee hearing on the taxation of digital assets offered a glimpse into lawmakers' views, highlighting rifts in approaches.",
-    "url": "https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-10T00:31:22.000Z"
-  },
-  {
-    "id": "db65cb54-46fd-4d3b-aa25-75ccf3916d1d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP Fees Collapse 91.5% as Network Demand Flashes Warning",
-    "summary": "1. XRP’s 90-day network fee average has plunged 91.5%, with Glassnode data pointing to a sharp drop in real transaction demand despite earlier price strength.\n2. The trend suggests network activity has weakened considerably since the speculative surge, raising questions about the sustainability of underlying usage.\n3. XRP’s Fee Collapse Raises Questions About Real Network Demand XRP’s on-chain […]",
-    "url": "https://news.bitcoin.com/xrp-fees-collapse-91-5-as-network-demand-flashes-warning/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-10T00:30:56.000Z"
-  },
-  {
-    "id": "b9a36d70-fe0f-4fb1-ba43-26b34c42f887",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Google just fired a warning shot in the AI subscription price wars",
-    "summary": "1. Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-    "author": "Lucas Ropek, Connie Loizos",
-    "created_at": "2026-06-10T00:26:10.000Z"
-  },
-  {
-    "id": "f6719f3d-c588-421a-972f-2ca605ec673d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ GSR has received FINRA approval to complete its broker-dealer acquisition, clearing a key regulatory hurdle as it pushes into regulated US securities.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#440d874a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T00:24:37+00:00"
   }
 ]
