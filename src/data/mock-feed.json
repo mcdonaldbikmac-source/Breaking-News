@@ -1,5 +1,385 @@
 [
   {
+    "id": "4af5c0d5-131b-4d23-bcd7-ac2cd999c36c",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Lava Network Signs Tokenization Pact for Planned 40,000-Unit Caribbean Project",
+    "summary": "1. The agreement with developer BHL Group is an early-stage memorandum of understanding, and the Alba Bay community is not slated to break ground until 2027",
+    "url": "https://thedefiant.io/news/tokens/lava-network-signs-tokenization-pact-for-planned-40-000-unit-caribbean-project",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-10T21:30:00.000Z"
+  },
+  {
+    "id": "edbeff7f-bb0f-41eb-8bd2-c086b1ca0cfc",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+    "summary": "1. Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
+    "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+    "author": "Sarah Perez",
+    "created_at": "2026-06-10T15:53:07.000Z"
+  },
+  {
+    "id": "86226c88-c889-4a52-b2c7-46521fe7c9c8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump says US will strike Iran hard, has authority to resume attacks",
+    "summary": "U.S. President Donald Trump announced that the United States will launch a powerful strike against Iran. He emphasized that the U.S. has the authority to resume attacks.",
+    "url": "https://t.me/CoinnessGL#c3664c8e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-10T15:49:43+00:00"
+  },
+  {
+    "id": "5e9141e9-3dd7-42f3-9fa2-42fbd56a9930",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Mastercard unveils payment infrastructure for AI agents, adds stablecoin support",
+    "summary": "Mastercard has unveiled a new infrastructure called Agent Pay for Machines (AP4M) to support autonomous payments between AI agents. According to The Block, the infrastructure is designed to support high-speed micropayments and always-on transactions between AI agents and devices using cards, bank accounts, and stablecoins. Over 30 companies have joined the project as initial partners, including Coinbase, OKX, Ripple, Solana, Polygon, and Aave.",
+    "url": "https://t.me/CoinnessGL#5599ec9f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-10T15:44:09+00:00"
+  },
+  {
+    "id": "500c04b4-a0a6-4ec9-ae9e-a7a9ed15bd3b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "summary": "1. Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "created_at": "2026-06-10T15:41:22.000Z"
+  },
+  {
+    "id": "3bfd5ff8-cd8f-482c-a887-adc15549d4c3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitmine withdraws $40.9M in ETH from BitGo",
+    "summary": "A wallet believed to belong to Bitmine withdrew 25,000 ETH ($40.93 million) from BitGo, according to Onchain Lens.",
+    "url": "https://t.me/CoinnessGL#1cafa3e0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-10T15:41:08+00:00"
+  },
+  {
+    "id": "462b05b1-5b29-4abe-b062-682b17f21f32",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Warren Buffett Indicator hits highest level ever, signaling the stock market is \"significantly overvalued.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#6a527f9e",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-10T15:40:58+00:00"
+  },
+  {
+    "id": "29fde681-4aff-4a1d-bf09-092cd231804e",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Sam Altman says he expects OpenAI to go public within the next yearTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#4e9cc99d",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-10T15:40:51+00:00"
+  },
+  {
+    "id": "5be4a0aa-ed75-404f-b3e7-0eedbadc3a1a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "SpaceX IPO Hits Nasdaq June 12 at $135 — Retail Investors Face Long Odds on Allocation",
+    "summary": "1. SpaceX is set to price its $75 billion IPO at $135 per share on June 11, with shares debuting on the Nasdaq under the ticker SPCX at 9:30 a.m.\n2. EDT on June 12.\n3. The offering would give the company a post-IPO market cap of roughly $1.75 trillion, placing it among the largest public listings in […]",
+    "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-10T15:40:40.000Z"
+  },
+  {
+    "id": "1b9af9ed-7204-4081-82b6-884f29983ab9",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Mastercard unveils Agent Pay for Machines to support autonomous AI transactions, including stablecoins",
+    "summary": "1. Mastercard's Agent Pay for Machines infrastructure will support high-volume, low-value payments by autonomous AI agents.",
+    "url": "https://www.theblock.co/post/404288/mastercard-agent-pay-machines-support-autonomous-ai-transactions-stablecoins?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-10T15:34:29.000Z"
+  },
+  {
+    "id": "da338e60-3e9e-471e-917c-159c0675b082",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 MUFG, Mizuho and SMBC plan to jointly issue a yen stablecoin through a trust structure, targeting live transactions by March 2027.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bb2ac10b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-10T15:29:21+00:00"
+  },
+  {
+    "id": "2ee2d21c-7ca4-4332-94e3-4040a13056b7",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says",
+    "summary": "1. Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.",
+    "url": "https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-10T15:22:54.000Z"
+  },
+  {
+    "id": "2f35df89-30be-4523-8098-33eb11080215",
+    "source": "The Block",
+    "type": "rss",
+    "title": "MegaETH-based MNX raises $6.4 million pre-seed at $40 million valuation to build AI-focused futures exchange",
+    "summary": "1. MNX, a decentralized futures exchange focused on the AI economy, has raised $6.4 million in a pre-seed funding round.",
+    "url": "https://www.theblock.co/post/404281/megaeth-mnx-pre-seed-funding-valuation-ai-focused-futures-exchange?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-06-10T15:22:54.000Z"
+  },
+  {
+    "id": "e0cb7c0b-dc64-4bbc-b55d-d6d849820e6c",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+    "summary": "1. While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life.",
+    "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+    "author": "TechCrunch Events",
+    "created_at": "2026-06-10T15:16:00.000Z"
+  },
+  {
+    "id": "5cdd2398-8225-4031-98dc-103abf2fb18c",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Just like they did on Border Funding, the Radical Left Dumocrats are trying to take our National Security hostage because of unrelated issues.\n2. They should stop playing politics with the safety of our Great Country.\n3. I have named William Pulte to be Acting Director of National Intelligence, who will take over on June 19th, and have asked him to execute the immediate and needed downsizing of the office, reverting staff to their home agencies.",
+    "url": "https://trumpstruth.org/statuses/39205",
+    "author": "Trump Truth",
+    "created_at": "2026-06-10T15:06:06.000Z"
+  },
+  {
+    "id": "1ffb1b6b-3aac-44a5-947a-d725f0ec8fbc",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Mastercard’s AI Payment Debut Brings Coinbase, Ripple and 30+ Partners Into Agent Commerce",
+    "summary": "1. Mastercard has launched Agent Pay for Machines, a new payment framework that allows AI agents to authorize, coordinate, and settle transactions across its global network.\n2. The launch includes more than 30 partners, including Coinbase, Ripple, Stripe, and Solana Foundation, as companies test commerce that operates continuously without traditional checkout processes.\n3. Mastercard Brings Agent Pay for […]",
+    "url": "https://news.bitcoin.com/mastercards-ai-payment-debut-brings-coinbase-ripple-and-30-partners-into-agent-commerce/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-10T15:04:54.000Z"
+  },
+  {
+    "id": "3c8b2453-6c3e-40f9-81e9-0e3d70466357",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs",
+    "summary": "1. TRM Labs said onchain gambling reached $51 billion in 2025, with repeat users and stablecoin flows helping the sector remain resilient during a broader crypto market pullback.",
+    "url": "https://cointelegraph.com/news/onchain-gambling-market-pullback-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-06-10T15:00:00.000Z"
+  },
+  {
+    "id": "f8a56712-3503-4bd6-b488-8175b9304d9a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "AI deepfake election ad in Minnesota raises transparency concerns",
+    "summary": "1. A deepfake campaign attack ad in the US state of Minnesota has raised questions around the ethics of using AI in political ads and the regulations surround AI use.",
+    "url": "https://cointelegraph.com/features/ai-deepfake-election-ad-in-minnesota-raises-transparency-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Aaron Wood",
+    "created_at": "2026-06-10T15:00:00.000Z"
+  },
+  {
+    "id": "10a8c65e-76ef-45c1-8679-78e4ab0f734e",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Fold Holdings Dumps $45M in Bitcoin to Wipe Out Debt, Stock Briefly Pumps Over 130%",
+    "summary": "1. Bitcoin Magazine\n\nFold Holdings Dumps $45M in Bitcoin to Wipe Out Debt, Stock Briefly Pumps Over 130%\nFold Holdings sold roughly $45 million worth of bitcoin to eliminate secured debt and fund growth initiatives, leaving the company with a debt-free secured balance sheet, a treasury of 1,492 BTC, and renewed focus on expanding its Bitcoin rewards and financial services products.\n2. This post Fold Holdings Dumps $45M in Bitcoin to Wipe Out Debt, Stock Briefly Pumps Over 130% first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/fold-holdings-dumps-45m-in-bitcoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-10T14:57:16.000Z"
+  },
+  {
+    "id": "fb5ed25a-37ee-4ead-8b2a-b4cb61976196",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Prediction markets need calibrated insider-trading enforcement, not blanket bans, to preserve both participation and price accuracy, according to Stevens researcher Balbinder Singh Gill.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1b049f5c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-10T14:54:10+00:00"
+  },
+  {
+    "id": "52a21a3e-4052-43e6-b93e-c15a18a82e1b",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump-backed candidate wins GOP primary to replace Nevada Rep. Mark Amodei",
+    "summary": "1. Retired Lt.\n2. David Flippo overcame carpetbagging accusations in Nevada’s lone Republican House district.",
+    "url": "https://www.politico.com/news/2026/06/10/flippo-wins-nevada-house-primary-00956027",
+    "author": "By Samuel Benson",
+    "created_at": "2026-06-10T14:48:57.000Z"
+  },
+  {
+    "id": "d5791f46-3c07-42e3-9a4b-78d737504db5",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High",
+    "summary": "1. The reading likely supports restrictive monetary policy.",
+    "url": "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high",
+    "author": "André Beganski",
+    "created_at": "2026-06-10T14:46:07.000Z"
+  },
+  {
+    "id": "6610e14f-febf-4243-9e0a-03c752f1544f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": " DeFi's Near-Death Moment | Mike Silagadze on Ether.fi, Security, and What Comes Next",
+    "summary": "1. How close did DeFi come to a real systemic collapse?\n2. In this episode, Camila Russo sits down with Mike Silagadze, co-founder and CEO of Ether.fi, to break down the Kelp exploit, the DeFi United rescue effort, and why Mike believes the default path could have been far worse if nobody had stepped in.",
+    "url": "https://thedefiant.io/podcasts-and-videos/podcast/defi-s-near-death-moment-or-mike-silagadze-on-ether-fi-security-and-what-comes-next",
+    "author": "Camila Russo",
+    "created_at": "2026-06-10T14:43:22.000Z"
+  },
+  {
+    "id": "58e6f7a0-6f42-4077-92f0-dbe3f7f2a6c7",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US government-linked FTX/Alameda seized funds wallet deposits 98,590 $LINK ($768K) to Coinbase PrimeTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#eeaf516e",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-10T14:38:57+00:00"
+  },
+  {
+    "id": "ddd39be6-2603-4b6c-8e75-868bc2ae64f4",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule",
+    "summary": "1. The groups say issuers, DeFi apps, and validators need clearer limits on who is responsible once stablecoins change hands.",
+    "url": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
+    "author": "Vince Dioquino",
+    "created_at": "2026-06-10T14:33:50.000Z"
+  },
+  {
+    "id": "cc963847-c256-4517-baef-2b7aa2428da3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs",
+    "summary": "1. Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breaking public offering, with retail brokers and crypto-native derivatives platforms racing to shape price discovery and access.",
+    "url": "https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-10T14:33:37.000Z"
+  },
+  {
+    "id": "28a5fd37-4ad8-477c-9233-be708e8c5b47",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CFTC Chairman Selig Backs Prediction Markets With New Case-by-Case Framework",
+    "summary": "1. Commodity Futures Trading Commission (CFTC) published a Notice of Proposed Rulemaking on Wednesday, laying out a structured, contract-by-contract review process for event contracts that may involve terrorism, war, gaming, or other restricted activities under federal law.\n2. The move replaces an approach that prior CFTC leadership had tried and failed to advance.\n3. In 2024, […]",
+    "url": "https://news.bitcoin.com/cftc-chairman-selig-backs-prediction-markets-with-new-case-by-case-framework/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-10T14:30:24.000Z"
+  },
+  {
+    "id": "e2d4ae3b-fab0-4686-8f86-db40ed4a0145",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt",
+    "summary": "1. Publicly traded Fold sold Bitcoin holdings to restructure its balance sheet, fueling a stock surge on Wednesday morning.",
+    "url": "https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-10T14:21:23.000Z"
+  },
+  {
+    "id": "de108259-dbb3-4a18-a954-9a50aaf64c6b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇷 Chainalysis signed an MoU with South Korea’s national police to strengthen crypto crime investigations.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e23cd23c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-10T14:19:47+00:00"
+  },
+  {
+    "id": "1c0c069f-671b-42d2-b2f0-b536b629e5d3",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Jim Cramer says Bitcoin and gold are \"bad money\" being liquidated for SpaceX's IPO.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#3384aa23",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-10T14:05:40+00:00"
+  },
+  {
+    "id": "c786a865-85f6-4656-a739-b72f7f9ab5b4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Prediction markets get first U.S. rule proposal as CFTC pursues contract reviews",
+    "summary": "1. The Commodity Futures Trading Commission opened a proposed rule for public comment that sets an approach to determine contracts in the \"public interest.\"",
+    "url": "https://www.coindesk.com/policy/2026/06/10/prediction-markets-get-first-u-s-rule-proposal-as-cftc-proposes-contract-reviews",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-06-10T13:58:41.000Z"
+  },
+  {
+    "id": "afcb1f84-ce42-4ad2-ba96-4738884fcd2b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Michael Saylor gets into public debate over claims that Strategy's latest share sale was dilutive",
+    "summary": "1. Strategy's BTC Yield fell from 13.0% to 12.8% following its latest bitcoin purchase, prompting a debate on X over whether the purchase was dilutive to shareholders.",
+    "url": "https://www.coindesk.com/markets/2026/06/10/michael-saylor-in-x-back-and-forth-over-claims-strategy-s-latest-share-sale-was-dilutive",
+    "author": "James Van Straten",
+    "created_at": "2026-06-10T13:56:41.000Z"
+  },
+  {
+    "id": "e8842859-42f5-4436-b318-4303fe9dd1ee",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Mastercard launches protocol for AI agents to pay each other automaticallyTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#73287f3b",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-10T13:54:18+00:00"
+  },
+  {
+    "id": "2c04d566-c19d-44a1-bc55-c37794b00207",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Humanity Protocol Traces $36M Hack to Single Malware-Infected Machine That Held Seven Keys",
+    "summary": "1. A forensic report from Humanity Protocol found a single malware-infected developer machine held backups of seven private keys, giving an attacker full control over both its Ethereum and BNB Smart Chain infrastructure.",
+    "url": "https://thedefiant.io/news/hacks/humanity-protocol-post-mortem-malware-developer-machine-seven-keys",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-10T13:45:00.000Z"
+  },
+  {
+    "id": "40f5b7e7-3164-4359-83e0-3def1347e537",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. CITI was ranked Number 1 in topping M&A Advisory Market by Value in Q1.\n2. Congratulations to Jane F and ALL of her great people.\n3. They’ve worked really hard!",
+    "url": "https://trumpstruth.org/statuses/39204",
+    "author": "Trump Truth",
+    "created_at": "2026-06-10T13:30:58.000Z"
+  },
+  {
+    "id": "9010cf15-1739-45dc-8822-3e1edd4d3809",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "CoinDesk 20 performance update: Index drops 1.4% as all constituents decline ",
+    "summary": "1. Bitcoin Cash (BCH) fell 4.1% and NEAR Protocol (NEAR) shed 4.3%, leading the index lower.",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/coindesk-20-performance-update-index-drops-1-4-as-all-constituents-decline",
+    "author": "CoinDesk Indices",
+    "created_at": "2026-06-10T13:23:13.000Z"
+  },
+  {
+    "id": "a8944d0e-fc0b-4cf3-967e-b0e51205e483",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. In a reversal, Mar-a-Lago helipad to remain past end of Trump's term:",
+    "url": "https://trumpstruth.org/statuses/39203",
+    "author": "Trump Truth",
+    "created_at": "2026-06-10T13:19:46.000Z"
+  },
+  {
+    "id": "b61fc843-28b6-4ba1-bfea-4ddf3aa5f1d9",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US inflation rises to 4.2%.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#a7660afe",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-10T12:30:17+00:00"
+  },
+  {
     "id": "c7c9f4cc-9f94-4d4e-887b-a1106c87004c",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -118,235 +498,5 @@
     "url": "https://t.me/CoinnessGL#391f2951",
     "author": "@CoinnessGL",
     "created_at": "2026-06-10T10:00:23+00:00"
-  },
-  {
-    "id": "628f8c9b-6df4-491f-a899-77409e86d1ae",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Saylor calls Bitcoin 'hope for everyone'",
-    "summary": "Michael Saylor, founder of MicroStrategy (MSTR), stated via X that Bitcoin is hope for everyone and a tool for economic empowerment. He added that all good-faith attempts to strengthen the network should be welcomed. Meanwhile, a recent Fortune report noted that MicroStrategy's BTC accumulation model is being tested, suggesting that the possibility of consecutive BTC sales cannot be ruled out if the burden of its preferred stock dividends increases. more:",
-    "url": "https://t.me/CoinnessGL#119722ed",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T09:47:45+00:00"
-  },
-  {
-    "id": "75826d34-1f7d-4662-b92f-6043a2a961a9",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
-    "summary": "1. The proposed measures would ban transactions on 11 crypto platforms and expand sanctions targeting networks accused of helping Russia evade restrictions.",
-    "url": "https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-06-10T09:46:01.000Z"
-  },
-  {
-    "id": "aac4ceb2-10af-4fac-a636-aa188c32d4f0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "TODAY: 🇺🇸 BlackRock says it's watching today’s May CPI report for signals that...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0b474355",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T09:39:14+00:00"
-  },
-  {
-    "id": "6119f042-832e-40e6-8c7f-b7b4ba5aea3b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP Slips Toward $1.10 as Ripple Taps RLUSD to Fund Safe Water for Millions",
-    "summary": "1. XRP is trading on shaky ground near $1.11 as a fresh selloff threatens to drag it under $1.10, even as Ripple puts its RLUSD stablecoin to work funding clean-water access for millions of people.\n2. A Price on Shaky Ground XRP has slipped into a precarious technical setup, breaking below a bullish trendline support at $1.1620 […]",
-    "url": "https://news.bitcoin.com/xrp-price-shaky-ripple-rlusd-safe-water/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-10T09:30:31.000Z"
-  },
-  {
-    "id": "4ff5e6da-d97a-495f-ae69-4c3b5b21bbca",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027",
-    "summary": "1. Megabanks MUFG Bank, Mizuho Bank and SMBC have formed a council to develop frameworks for jointly issuing a stablecoin in fiscal year 2026.",
-    "url": "https://decrypt.co/370615/japans-largest-banks-plan-joint-stablecoin-launch-by-march-2027",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-10T09:19:08.000Z"
-  },
-  {
-    "id": "49e2d475-f30b-43af-a5b5-7168492bd10c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bitwise says Bitcoin may be acting as a \"canary in the coal mine,\" flashing an early warning signal for a broader market correction.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#10a4e97d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T09:09:18+00:00"
-  },
-  {
-    "id": "760ad395-da22-4bf9-9628-509617a570e4",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Japan's three largest banks aim for joint stablecoin issue by March",
-    "summary": "1. MUFG, SMBC and Mizuho will establish a council to explore operational frameworks and prepare for the issuance of stablecoins.",
-    "url": "https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march",
-    "author": "Jamie Crawley",
-    "created_at": "2026-06-10T09:01:14.000Z"
-  },
-  {
-    "id": "1371a91e-f558-4206-bdbe-e7478faa596e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets",
-    "summary": "1. Botanix to wind down Bitcoin Layer 2 after four years, citing weak fee revenue and urging users to withdraw assets by July 9.",
-    "url": "https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-10T09:00:38.000Z"
-  },
-  {
-    "id": "c026678a-5bb5-4250-be7a-d553d706b377",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Waymo says it built a better benchmark for comparing robotaxis to humans",
-    "summary": "1. Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter.",
-    "url": "https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-06-10T09:00:00.000Z"
-  },
-  {
-    "id": "a3993f3e-a565-4207-8a9a-cba800e8a128",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Trades Near $61,300 After Worst Week Since FTX Collapse Wipes $390 Billion From Crypto",
-    "summary": "1. Bitcoin has recorded its worst weekly performance since the 2022 FTX collapse, sliding below $60,000 in a rout that erased roughly $390 billion in crypto market value.\n2. A Drawdown Not Seen Since 2022 Bitcoin closed out one of its ugliest stretches in years, dropping about 17.3% while ether fell roughly 22%, the largest weekly declines […]",
-    "url": "https://news.bitcoin.com/bitcoin-worst-week-since-ftx-collapse-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-10T08:30:31.000Z"
-  },
-  {
-    "id": "547d5972-8f8b-4e30-a8c1-d0ea32610b8d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ More than 60 crypto founders and executives have urged Senate leaders to preserve developer protections in the CLARITY Act ahead of a possible floor vote this summer.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2034341e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T08:29:23+00:00"
-  },
-  {
-    "id": "81719398-9794-43cc-971b-a4e0c3edb254",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP market shows signs of capitulation as holders sell at loss",
-    "summary": "1. XRP holders are capitulating, according to data tracked by Glassnode.\n2. That suggests a bottom may be near.",
-    "url": "https://www.coindesk.com/markets/2026/06/10/xrp-market-shows-signs-of-capitulation-as-holders-sell-at-loss",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-10T08:24:48.000Z"
-  },
-  {
-    "id": "7458984a-0c58-4240-a322-9e3c4c8e3979",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Japan’s three megabanks to debut live stablecoin transactions by March 2027",
-    "summary": "1. MUFG Bank, Mizuho Bank, and SMBC have set up a council to examine operational frameworks and governance for the stablecoin issuance.",
-    "url": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-10T07:58:34.000Z"
-  },
-  {
-    "id": "be70909b-ac3e-43dc-9ef5-0bb569054c74",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tom Lee’s Bitmine Buys $123 Million More Ethereum as Treasury Tops 5.4 Million ETH",
-    "summary": "1. Bitmine Immersion Technologies has scooped up another 75,000 ether worth roughly $123 million, lifting the Tom Lee-chaired firm’s treasury past 5.4 million ETH and deeper into a multibillion-dollar bet on the network.\n2. A 75,000 ETH Buy in an Eight-Hour Window Bitmine Immersion Technologies (NYSE American: BMNR) acquired 75,000 ether on June 9 for about $123 […]",
-    "url": "https://news.bitcoin.com/bitmine-buys-123m-ethereum-treasury-5-4m-eth/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-10T07:30:47.000Z"
-  },
-  {
-    "id": "5a65faa0-2953-468f-baa4-8443a0ae6118",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
-    "summary": "1. Tech stocks and crypto are selling off in a “classic pre-mega-IPO liquidity squeeze,” say analysts.",
-    "url": "https://cointelegraph.com/news/spacex-ipo-nears-four-times-oversubscribed-squeezing-crypto-and-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-10T07:29:05.000Z"
-  },
-  {
-    "id": "eb24edb4-6e67-4d80-a303-9b3802e6afc9",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "SpaceX's pre-IPO market on Hyperliquid has fallen 27% in three weeks",
-    "summary": "1. The SPCX perpetual still trades above SpaceX’s $135 offer price, but it has fallen sharply from its May highs as traders mark down the first-day premium.",
-    "url": "https://www.coindesk.com/markets/2026/06/10/spacex-s-most-active-pre-ipo-market-has-fallen-27-in-three-weeks",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-10T07:18:44.000Z"
-  },
-  {
-    "id": "0ab250c2-6019-43fd-b087-69f5ccfea3a7",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "New York moves to align stablecoin rules with the GENIUS Act, bringing state oversight closer to the federal crypto frameworkTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#5bfa187b",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-10T07:13:57+00:00"
-  },
-  {
-    "id": "da8c28c1-7884-4f15-b5ee-46008bf38201",
-    "source": "The Block",
-    "type": "rss",
-    "title": "EU proposes expanded sanctions on Russia-linked crypto platforms",
-    "summary": "1. The European Commission may introduce a full ban on crypto services from non-EU countries that host platforms helping Russia evade sanctions.",
-    "url": "https://www.theblock.co/post/404207/eu-proposes-russia-crypto-sanction?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-10T07:05:46.000Z"
-  },
-  {
-    "id": "7bf2ed71-db0e-472d-a171-970b1a2032bf",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Meta signs first AI data center deal in India with Reliance",
-    "summary": "1. The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-06-10T07:05:26.000Z"
-  },
-  {
-    "id": "22717c54-f6ca-4188-b51a-c6b852720af6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Chainalysis, South Korean police link up to fight crypto crime",
-    "summary": "1. South Korea's national police has been battling crypto-enabled crimes from DPRK-state level threats to scams targeting retail investors.",
-    "url": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-06-10T07:03:20.000Z"
-  },
-  {
-    "id": "937be80e-7e9a-43b4-8a48-f9786eb0d507",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Hyperliquid, Paradigm urge revision of GENIUS money laundering rule",
-    "summary": "1. The Hyperliquid Policy Center and Paradigm say the Treasury’s money laundering rules for the GENIUS Act are too onerous for stablecoin issuers.",
-    "url": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-10T06:40:53.000Z"
-  },
-  {
-    "id": "9c65e9e8-42dd-4ff2-bc2c-939569c1b4b5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Morpho Raises $175M at $2B Valuation as Paradigm and A16z Back DeFi Push",
-    "summary": "1. Morpho has raised $175 million in a funding round led by Paradigm, A16z Crypto, and Ribbit Capital.\n2. The DeFi lending protocol is now valued at about $2 billion as it expands from crypto-native markets into institutional finance.\n3. Morpho Targets Institutional Finance as TVL Hits $6.6B Morpho has raised $175 million in fresh funding, giving the […]",
-    "url": "https://news.bitcoin.com/morpho-raises-175m-at-2b-valuation-as-paradigm-and-a16z-back-defi-push/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-10T06:30:26.000Z"
-  },
-  {
-    "id": "77637509-87e4-4a3b-a3f8-2449ceaf4971",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
-    "summary": "1. “The same insider trade that improves the accuracy of the price today can reduce the participation that makes the price informative tomorrow,” said Balbinder Singh Gill.",
-    "url": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-10T05:55:19.000Z"
   }
 ]
