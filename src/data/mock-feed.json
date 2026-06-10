@@ -1,5 +1,95 @@
 [
   {
+    "id": "8978253e-eb2f-4417-8f1b-af2c11361ed3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live updates: What next for bitcoin as it faces headwinds from Fed rates to Claude's Mythos",
+    "summary": "1. Anthropic's IPO pipeline, not its new model, is what crypto traders should track.",
+    "url": "https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-10T05:47:56.000Z"
+  },
+  {
+    "id": "084bf830-afc5-4a2d-b33b-4a4c9eef8e75",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "NYC Hotel Prices Surge as One Back-of-House Role Heads Past $100,000 a Year",
+    "summary": "1. $61 an hour by 2034 is where union housekeeper pay is headed under a strike-averting deal that lifts wages 50% over eight years, putting full-time earnings at $100,000 to $110,000 by 2032.\n2. In a market where Manhattan rooms already average between $500 and $600 a night, rates are expected to climb another 50% to 60% […]",
+    "url": "https://news.bitcoin.com/nyc-hotel-prices-surge-as-one-back-of-house-role-heads-past-100000-a-year-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-10T05:30:24.000Z"
+  },
+  {
+    "id": "31b9fc17-23cf-4c2a-9fcc-4e95faf8688a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP drops 4.5% as heavy selling breaks another support level",
+    "summary": "1. XRP lost the $1.13 area on elevated volume, leaving traders focused on whether the latest selloff marks a final washout or the start of a deeper move toward $1.00.",
+    "url": "https://www.coindesk.com/markets/2026/06/10/xrp-drops-4-5-as-heavy-selling-breaks-another-support-level",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-10T05:24:42.000Z"
+  },
+  {
+    "id": "25a424ec-ac8a-43df-ae84-287a10b707e6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin and gold fall together as a rate-hike bet hits every hedge",
+    "summary": "1. The relief rally that lifted crypto off last week's lows is unwinding alongside tech stocks and gold, with traders bracing for a US inflation print and a Warsh Fed that may stay hawkish.",
+    "url": "https://www.coindesk.com/markets/2026/06/10/bitcoin-and-gold-fall-together-as-a-rate-hike-bet-hits-every-hedge",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-10T05:22:06.000Z"
+  },
+  {
+    "id": "53d33453-7fed-4482-86b1-eba4c171846c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The Democratic establishment begrudgingly moves to embrace Graham Platner",
+    "summary": "1. Democrats largely lined up behind their new Maine Senate nominee on Tuesday, while Republicans were quick to launch their attacks.",
+    "url": "https://www.politico.com/news/2026/06/10/democrats-line-up-graham-platner-maine-00955581",
+    "author": "By Jessica Piper, William Steakin and Samuel Benson",
+    "created_at": "2026-06-10T04:53:10.000Z"
+  },
+  {
+    "id": "a2c7a864-93ea-4a1a-ab47-c40c2ed6f7f6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Masspay Expands Circle Integration With USDC Payouts, Giving Firms New Treasury Options",
+    "summary": "1. Masspay has expanded its integration with Circle’s Managed Payments service to allow businesses to facilitate stablecoin payouts and treasury operations without the complexity of direct digital asset management.\n2. Abstracting Blockchain Complexity Global payouts platform Masspay has expanded its integration with Circle Payments Network’s Managed Payments service, enabling businesses to fund and make payments using stablecoins […]",
+    "url": "https://news.bitcoin.com/masspay-expands-circle-integration-with-usdc-payouts-giving-firms-new-treasury-options/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-10T04:30:56.000Z"
+  },
+  {
+    "id": "27466859-2500-48e4-97a4-0d180df3da64",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kalshi requires traders to disclose employers to curb insider trading in sensitive markets",
+    "summary": "1. The prediction markets platform also introduced a risk-scoring system and whistleblower tools to ensure market integrity.",
+    "url": "https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-10T04:23:44.000Z"
+  },
+  {
+    "id": "c596b35d-4df7-4258-98c4-d4dadc820a7f",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Teresa Benitez-Thompson wins crowded Dem primary for Nevada House seat",
+    "summary": "1. Her victory has Democrats hopeful about flipping the district this cycle.",
+    "url": "https://www.politico.com/news/2026/06/10/benitez-thompson-wins-nevada-house-primary-00955586",
+    "author": "By Liz Crampton",
+    "created_at": "2026-06-10T04:19:54.000Z"
+  },
+  {
+    "id": "c1723ba8-3203-413f-8a29-4c43044ecd57",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
+    "summary": "1. Venture capitalist Simon Dedic said Anthropic’s latest AI models drop the cost and skill needed to find crypto exploits to “basically zero.”",
+    "url": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-10T04:04:52.000Z"
+  },
+  {
     "id": "eee04c4f-7d67-4fed-97c7-161345f280bb",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -148,65 +238,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#440d874a",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-10T00:24:37+00:00"
-  },
-  {
-    "id": "89d28d24-d95a-4c10-8332-a1dd7ffc9058",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase, Ripple Join 200+ Organizations Pressing Senate for CLARITY Act Floor Vote",
-    "summary": "1. Coinbase, Ripple, and more than 200 organizations are pushing Senate leaders to bring the CLARITY Act to a floor vote.\n2. Supporters say the bill would clarify crypto oversight, create registration paths, and keep more digital asset activity under U.S.\n3. Crypto Coalition Turns Senate Pressure Toward a Floor Vote Washington’s digital asset debate has moved […]",
-    "url": "https://news.bitcoin.com/coinbase-ripple-join-200-organizations-pressing-senate-for-clarity-act-floor-vote/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-09T23:35:10.000Z"
-  },
-  {
-    "id": "c10623c1-b9c0-4d6f-9224-ccfbde61aee3",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "summary": "1. Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "author": "Marina Temkin",
-    "created_at": "2026-06-09T23:17:51.000Z"
-  },
-  {
-    "id": "87855552-bd1f-43dc-b1c8-1bb1ecc1cc00",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Morpho raised $175M in a round co-led by Paradigm, a16z crypto, and Ribbit Capital to build on-chain credit infrastructure for banks, asset managers, and pension funds.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c7b061fc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T22:59:18+00:00"
-  },
-  {
-    "id": "a3388a5f-5f38-4013-a1ad-b8ea56773c04",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Anthropic has launched Claude Fable 5 for general use and Claude Mythos 5 for select cybersecurity partners, with safeguards against misuse.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3ee84f36",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-09T22:59:16+00:00"
-  },
-  {
-    "id": "a283e76f-63d6-49ca-ab64-85bc44b8e92f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Metamask Launches Agent Wallet for AI-Driven DeFi Trading, Targets $236B AI Agent Market",
-    "summary": "1. Metamask has launched Agent Wallet, a self-custodial wallet that lets AI agents trade across DeFi while keeping users in control.\n2. The product adds mandatory transaction checks, user-set limits, and protection for eligible transactions.\n3. Metamask Covers Eligible Agent Wallet Transactions Up to $10,000 Metamask is moving into AI-driven finance with the launch of Metamask Agent Wallet, […]",
-    "url": "https://news.bitcoin.com/metamask-launches-agent-wallet-for-ai-driven-defi-trading-targets-236b-ai-agent-market/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-09T22:54:59.000Z"
-  },
-  {
-    "id": "3eb15ddd-ce0f-4c7c-a447-1740ded5a0c7",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk's SpaceX plans ​to begin testing AI data centers in space next year, Reuters reports.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#fb34a4c5",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-09T22:43:25+00:00"
   }
 ]
