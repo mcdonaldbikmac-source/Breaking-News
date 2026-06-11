@@ -1,5 +1,115 @@
 [
   {
+    "id": "820a983a-8f89-4fd6-820f-092f1b88383b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
+    "summary": "1. Two widely watched gauges show capitulation, but the analyst flagging them warns the slow grind comes next.",
+    "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-11T04:34:35.000Z"
+  },
+  {
+    "id": "b7e53c4b-5f3d-4b4d-be92-5677dfbd728c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Nigeria Senate Pushes Crypto Bill to Committee, Setting Up 4-Week Review Phase",
+    "summary": "1. The Nigerian Senate has advanced a major cryptocurrency regulation bill through a second reading, moving the country closer to its first comprehensive legal framework for digital assets.\n2. Legislative Progress and Next Steps Nigeria’s Senate on June 9 passed a cryptocurrency regulation bill through a second reading, moving Africa’s largest economy closer to establishing its first […]",
+    "url": "https://news.bitcoin.com/nigeria-senate-pushes-crypto-bill-to-committee-setting-up-4-week-review-phase/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-11T04:30:29.000Z"
+  },
+  {
+    "id": "bcea4dd3-03bb-4518-bdfd-7d49a55ae3e5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ETH could bottom at $700 based on historical Delta Price indicator",
+    "summary": "On-chain analyst Ali Martinez noted on X that the Delta Price indicator, which has accurately predicted past Ethereum (ETH) bottoms, is currently near the $700 level. Developed by crypto analytics firm Alphractal, the metric reflects the relationship between the average investor's entry price and miners' production costs, though its relevance for ETH has been debated since the network's transition to Proof-of-Stake (PoS). Martinez added that if history repeats, ETH could retest $700 before its next uptrend.",
+    "url": "https://t.me/CoinnessGL#95592f9b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-11T04:25:58+00:00"
+  },
+  {
+    "id": "88609912-a69e-429e-8e86-d00f9bcb191c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "SaharaAI says SAHARA crash was due to cascade liquidations, not team sales",
+    "summary": "The SaharaAI (SAHARA) team has reiterated that no team or investor holdings were sold during the token's recent sharp price drop. The team stated that allocated tokens for the team and investors remain untouched on-chain. They also confirmed that market makers Amber Group and Hering Global were operating normally during the crash, the token's smart contract showed no signs of an attack, and token custody remains under the foundation's control.Addressing community speculation, the team explained that on-chain transfers before the drop were scheduled to provide liquidity for a cross-chain bridge to the BNB Chain. They attributed the crash to a cascade of liquidations driven by futures selling pressure, noting that leveraged long positions had accumulated to an all-time high in the three weeks prior. The liquidation of these positions triggered further declines.On June 9, SAHARA crashed by approximately 46%, falling from around $0.03 to $0.013. Despite the team's explanation, SAHARA is trading at $0.01588, down 11.62% over the past 24 hours, according to CoinMarketCap.",
+    "url": "https://t.me/CoinnessGL#43392535",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-11T04:20:47+00:00"
+  },
+  {
+    "id": "fc5130a3-57dc-43f9-a3a6-586c8a8585c9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US should create legal basis to buy BTC, says Sen. Lummis",
+    "summary": "U.S. Senator Cynthia Lummis has urged the United States to establish a legal framework for accumulating Bitcoin at a national level. She argued that while other countries are secretly stockpiling the cryptocurrency, the U.S. should do so publicly and based on established law.",
+    "url": "https://t.me/CoinnessGL#53631181",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-11T04:19:56+00:00"
+  },
+  {
+    "id": "532a704c-5c51-4ff6-8bb4-73c6f9ded804",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "summary": "1. The decision comes as India emerges as the world’s largest GCC market.",
+    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-11T04:02:19.000Z"
+  },
+  {
+    "id": "741712e4-6b67-43e5-8145-dbcb400f8a9f",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Poll: Voter cynicism remains a potent threat to incumbents across the globe",
+    "summary": "1. New research from London-based Public First suggests many of the grievances that fueled the widespread anti-incumbent backlash in 2024 remain entrenched.",
+    "url": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
+    "author": "By Erin Doherty and Tim Ross",
+    "created_at": "2026-06-11T04:01:00.000Z"
+  },
+  {
+    "id": "21d51059-a09f-4236-be22-46afca0cc545",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "summary": "1. If you doubted his genius, doubt no more.",
+    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "author": "Connie Loizos",
+    "created_at": "2026-06-11T03:53:06.000Z"
+  },
+  {
+    "id": "9bcc81d1-9283-4df8-a293-dcbbfae404b3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Treasuries Are Ticking Time Bombs as Leverage Hits Record Rates, Warns Capriole’s Charles Edwards",
+    "summary": "1. Bitcoin treasury companies are piling on debt at record rates to fund their BTC buying, Capriole Investments founder Charles Edwards warned, reviving a year-old call that the model rests on unsustainable “fake yield.” A Year-Old Warning Resurfaces Bitcoin treasury companies are taking on debt at record rates to fund their bitcoin purchases, Capriole Investments founder […]",
+    "url": "https://news.bitcoin.com/charles-edwards-bitcoin-treasuries-levering-up-record-rates/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-11T03:30:58.000Z"
+  },
+  {
+    "id": "7f72a5af-f8f4-42fc-9189-e8b61dffd812",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Delaware, New Jersey advance bills banning crypto ATMs",
+    "summary": "1. Lawmakers in Delaware and New Jersey have advanced laws that would completely ban crypto ATMs, a measure that has only been enacted in three US states.",
+    "url": "https://cointelegraph.com/news/delaware-new-jersey-advance-bills-banning-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-11T03:18:43.000Z"
+  },
+  {
+    "id": "56cedfa9-3d2f-42ba-a42d-08eeed06db27",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Tom Lee’s Bitmine buys $41 million worth of ETH, continuing aggressive treasury expansion: onchain data",
+    "summary": "1. The firm continues to buy ETH at an accelerated pace despite a reported paper loss of nearly $10 billion on its holdings.",
+    "url": "https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-11T03:10:50.000Z"
+  },
+  {
     "id": "6d83ab3e-3b62-4cc6-aebf-9645d4386649",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -18,6 +128,16 @@
     "url": "https://news.bitcoin.com/tesla-spacex-merger-big-short-investor-steve-eisman-says-he-wouldnt-doubt-it/",
     "author": "Kevin Helms",
     "created_at": "2026-06-11T01:30:32.000Z"
+  },
+  {
+    "id": "45e0bfc6-b5a1-4267-86d1-2923933bcd5d",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. No other President has ever been more committed to both REBUILDING our Great Military and SAVING our Great Country — And NOW is the time to make it happen, for Generations to come.\n2. I am hereby calling on Republicans in Congress to IMMEDIATELY advance and pass the forthcoming $350 Billion Reconciliation Bill (Recon 3.0) — which, at the request of our Great Department of War — will include THE SAVE AMERICA ACT as well.\n3. No games, no delays, and no weak compromises!",
+    "url": "https://trumpstruth.org/statuses/39211",
+    "author": "Trump Truth",
+    "created_at": "2026-06-11T01:21:45.000Z"
   },
   {
     "id": "3227f3ed-b662-4edf-9859-e3d70b0ae26a",
@@ -50,6 +170,16 @@
     "created_at": "2026-06-11T00:00:00.000Z"
   },
   {
+    "id": "c0c918ee-aa08-4fd7-88ab-6bb61ea448e5",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Tether is leading a round of up to $1.4B in robotics firm Neura, with plans to integrate a crypto wallet directly into Neura's humanoid robots.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b0916baa",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-10T23:19:16+00:00"
+  },
+  {
     "id": "5b546acc-935a-4334-aa2d-399e52bea487",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -60,7 +190,7 @@
     "created_at": "2026-06-10T23:17:30.000Z"
   },
   {
-    "id": "4edfbd6e-6464-4532-bada-0b44d3104963",
+    "id": "a1bac7d4-1c19-42f7-b921-00623dcc63bb",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇮🇷🇺🇸 Iran announces full shut down of the Strait of Hormuz following US strikes.@WatcherGuru",
@@ -80,7 +210,7 @@
     "created_at": "2026-06-10T22:48:26+00:00"
   },
   {
-    "id": "7ee7c6ac-4b7b-417f-940f-b2728debd90a",
+    "id": "377f094a-6bc9-4ace-92e8-7b39a1f9781b",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Robinhood CEO Vlad Tenev says the platform won underwriter approval, letting retail traders buy IPO shares directly through its app.",
@@ -88,205 +218,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#fc5ade21",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-10T22:44:13+00:00"
-  },
-  {
-    "id": "90998a98-f699-49e9-b708-c320d7fe0f9a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "summary": "1. A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-06-10T22:31:19.000Z"
-  },
-  {
-    "id": "3a974fcf-fcfe-40a5-9bc5-afdd29d34783",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CME Group Launches Crypto Index Futures Tracking Bitcoin, Solana and XRP",
-    "summary": "1. CME Group has launched Nasdaq CME Crypto Index futures, giving investors a regulated way to trade and hedge broad exposure to major digital assets.\n2. The contracts settle against a Nasdaq-CME benchmark covering some of the largest and most actively traded cryptocurrencies.\n3. Nasdaq and CME Launch Crypto Index Futures Tied to 8 Leading Tokens CME Group […]",
-    "url": "https://news.bitcoin.com/cme-group-launches-crypto-index-futures-tracking-bitcoin-solana-and-xrp/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-10T22:30:16.000Z"
-  },
-  {
-    "id": "fea89d3f-1ec1-4841-b9c0-5716ad0293a4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CFTC proposes framework favoring sports event contracts over gambling",
-    "summary": "1. The proposed rules would preserve election markets and allow many sports-based prediction contracts while limiting bets that could encourage manipulation.",
-    "url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-10T22:30:00.000Z"
-  },
-  {
-    "id": "ca463466-3647-40be-861c-f3bf10fdcad3",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Why Andrew Yang is building instead of waiting for Washington",
-    "summary": "1. Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few.\n2. At the time, ideas like Universal Basic Income felt fringe.\n3. Now Dario Amodei, Sam Altman, and Bernie Sanders are all saying versions of the same thing.",
-    "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
-    "author": "Theresa Loconsolo",
-    "created_at": "2026-06-10T22:24:12.000Z"
-  },
-  {
-    "id": "580d3331-afbb-4fc3-98c0-fc31675f27e4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Nasdaq-listed Fold sold ~$45M in Bitcoin to wipe out all secured debt and free up $25M for growth, sending shares up 162% after the announcement.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#6f7dfaf4",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T22:09:13+00:00"
-  },
-  {
-    "id": "9e20ddd7-2663-45ac-8f62-53e3c4d29948",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free",
-    "summary": "1. DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely.\n2. It just doesn't run on most people's machines yet.",
-    "url": "https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-10T22:01:03.000Z"
-  },
-  {
-    "id": "3e86770f-544e-4ba8-a02c-b282a8a0c9b5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Noah Doe-Linked Bitcoin Awakens Again as Another 2011 Casascius Coin Cashes Out",
-    "summary": "1. Onchain records show yet another Casascius physical bitcoin has been redeemed, this time from an address originally created on Nov.\n2. The plot thickens, however, because the spend traces back to another dormant wallet tied to the sprawling New York Supreme Court case Noah Doe v.\n3. John Does 1–39,069, adding one more chapter to […]",
-    "url": "https://news.bitcoin.com/noah-doe-linked-bitcoin-awakens-again-as-another-2011-casascius-coin-cashes-out/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-10T21:50:17.000Z"
-  },
-  {
-    "id": "bcd62ba1-971d-42a3-b1b3-03c5690209cc",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC could form bottom near $53K, analyst says",
-    "summary": "On-chain analyst Julio Moreno suggested in a CryptoQuant contribution that Bitcoin's current Realized Price is $53,600, noting that historically, major bear market bottoms have formed below this level. Moreno stated that while the Realized Price does not guarantee a market bottom, a decline to that price range is possible given that demand conditions, such as spot ETF fund flows, remain weak. He added that the intensity of recent sell-offs is not yet sufficient compared to past bear market bottoms, with realized losses over the last month totaling only 187,000 BTC. \"Therefore, while the current moment can be interpreted as an undervalued period, it will take more time to confirm a bottom unless demand stabilizes and ETF fund flows improve,\" he concluded.",
-    "url": "https://t.me/CoinnessGL#0b0ef7f1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T21:45:45+00:00"
-  },
-  {
-    "id": "e886d2f6-7e12-4ac4-8238-00723f10ae2a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US CFTC proposes framework to allow sports prediction markets",
-    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has released a draft regulatory framework that would, in principle, permit prediction markets based on sporting events, Cointelegraph reported. According to the proposal, sports prediction contracts based on quantifiable outcomes—such as game results, win-loss records, or season performance—are considered not to be against the public interest as they can provide a price discovery function. However, the framework is unlikely to permit contracts tied to events that could increase the potential for manipulation, such as player injuries or referee decisions. The CFTC also clarified that election prediction contracts do not constitute \"Gaming\" under relevant federal law.",
-    "url": "https://t.me/CoinnessGL#8aaa9e3d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T21:39:25+00:00"
-  },
-  {
-    "id": "448a1d2b-39c2-46cf-a689-154410d4bfe1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-    "summary": "1. The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
-    "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-06-10T21:33:32.000Z"
-  },
-  {
-    "id": "613e470f-b468-4ad8-834e-d9aa854a6bdf",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI",
-    "summary": "1. In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.",
-    "url": "https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-10T21:31:33.000Z"
-  },
-  {
-    "id": "4af5c0d5-131b-4d23-bcd7-ac2cd999c36c",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Lava Network Signs Tokenization Pact for Planned 40,000-Unit Caribbean Project",
-    "summary": "1. The agreement with developer BHL Group is an early-stage memorandum of understanding, and the Alba Bay community is not slated to break ground until 2027",
-    "url": "https://thedefiant.io/news/tokens/lava-network-signs-tokenization-pact-for-planned-40-000-unit-caribbean-project",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-10T21:30:00.000Z"
-  },
-  {
-    "id": "ffc984b1-8bcd-4271-93ca-aeee1d2718fe",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US launches strikes on Iran, explosions reported  in Tehran and in the port city of SirikTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#26359d3e",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-10T21:27:15+00:00"
-  },
-  {
-    "id": "72286480-a424-4b5b-9475-02a0415103f6",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Prediction market Myriad will use Chainlink oracles to settle its 2026 FIFA World Cup markets, automating resolution and payouts after matches end.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#98bf048a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T21:26:42+00:00"
-  },
-  {
-    "id": "2ce07b63-845e-4460-92e9-a0346d2de340",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Some Senate Dems still won’t commit to Graham Platner",
-    "summary": "1. Even as progressives and party leaders rally around the Maine Democrat, senators like Catherine Cortez Masto and Mark Kelly are wary.",
-    "url": "https://www.politico.com/news/2026/06/10/graham-platner-senate-democrats-divided-00957515",
-    "author": "By Lisa Kashinsky, Jessica Piper, William Steakin, Andrew Howard and Calen Razor",
-    "created_at": "2026-06-10T21:18:51.000Z"
-  },
-  {
-    "id": "19d747d1-dc50-4097-bfa5-b7ccdac891bd",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Spain and France Split the Favorite Tag as World Cup Prediction Markets Cross $2B",
-    "summary": "1. Prediction market traders across Polymarket and Kalshi have committed more than $2 billion to the 2026 FIFA World Cup winner market ahead of Thursday’s opening kickoff, with Spain and France sharing the frontrunner position as the tournament launches across North America.\n2. Spain and France Lead the Board On Polymarket, as of 3:30 p.m.",
-    "url": "https://news.bitcoin.com/spain-and-france-split-the-favorite-tag-as-world-cup-prediction-markets-cross-2b/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-10T21:10:54.000Z"
-  },
-  {
-    "id": "5de3e1e4-94c6-46da-a9c4-99d4ed2cda06",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.172",
-    "summary": "1. ## What's changed\n\n- Sub-agents can now spawn their own sub-agents (up to 5 levels deep)\n- Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REGION` isn't set, matching AWS SDK precedence; `/status` shows where the region came from\n- Added a search bar when browsing a marketplace's plugins in `/plugin`\n- Added `model` attribute to the `claude_code.lines_of_code.count` OTEL metric\n- Fixed sessions using 1M context without usage credits getting permanently stuck — the session now automatically compacts back under the standard context limit\n- Fixed a repeating \"an image in the conversation could not be processed and was removed\" error when the conversation contained multiple images\n- Fixed the agents view keeping a session under Working with a busy spinner for up to 30 seconds after the worker replied\n- Fixed background agents potentially reading another directory's project settings (`.mcp.json` approvals, trust) when dispatched onto a pre-warmed worker\n- Fixed background-session attach failing with EAUTH for sessions started on an older version after the daemon auto-updated\n- Fixed a background sub-agent staying stuck as \"active\" in the agent panel after a nested agent it spawned was stopped\n- Fixed `/model` suggestions in the `claude agents` dispatch input rendering with a misleading slash prefix and showing models disabled for your org\n- Fixed `availableModels` restrictions not being applied to subagent model overrides, the agent dispatch model picker, and the advisor model\n- Fixed `availableModels` allowlists hiding the `/model` picker's Opus and Sonnet 1M rows when entries use version-specific IDs like `claude-opus-4-8`\n- Fixed the `/model` picker on Bedrock offering models the provider doesn't serve — selecting one silently switched the session model and lit the selection marker on multiple rows\n- Fixed model IDs getting a doubled 1M-context suffix (e.g.\n2. `[1M][1m]`) when `ANTHROPIC_DEFAULT_OPUS_MODEL` already includes one\n- Fixed `opusplan` model setting not shipping with 1M context in plan mode for entitled users; the `opusplan[1m]` workaround now also correctly switches to Opus in plan mode\n- Fixed `WebFetch(domain:*.example.com)` wildcard domain rules never matching subdomains in allow, deny, and ask position, and file permission rules with mid-pattern wildcards (e.g.\n3. `Read(secrets-*/config.json)`) being rejected at startup\n- Fixed up-arrow prompt history showing the main agent's prompts while a subagent's chat tab is open\n- Fixed memory recall not finding mounted team memory stores (`CLAUDE_MEMORY_STORES`) in remote sessions\n- Fixed workflow validation rejecting scripts whose prompt strings or comments merely mention `Date.now()`/`Math.random()`\n- Disable mouse tracking on Windows consoles that don't fully support it\n- Fixed the `/plugin` marketplace list losing its cursor after backing out of a long plugin list, and Esc from the plugin browser returning to the wrong tab\n- Improved performance in long conversations by removing redundant message normalization and avoiding full message-history transforms when streaming tool-use state is unchanged\n- Reduced idle CPU usage: `/goal` status chip no longer re-renders the terminal at 5 Hz while idle, and fewer UI re-renders while subagents run in parallel\n- Improved Claude in Chrome tool loading: browser tools now load in a single batched call instead of one per tool\n- Improved the non-interactive Usage Policy refusal message to suggest starting a new session or changing your model\n- `/code-review` now keeps the `ultra` option visible when you're not signed in to claude.ai, with an explanation that the cloud review requires a claude.ai account\n- Shortened the Remote Control footer indicator to \"/rc active\" and hid it on narrow terminals\n- Stopped promoting `/loop` in remote sessions, where pending loops don't keep the container alive\n- [VSCode] Fixed PowerShell tool calls rendering as raw JSON instead of a proper command display and permission dialog, and stripped ANSI escape codes from displayed shell output",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.172",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-10T20:44:15Z"
-  },
-  {
-    "id": "f7073e0c-f2bb-437c-8cc5-c41068ec1ce9",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?",
-    "summary": "1. Bitcoin miner profits recently fell to record lows, while Bitcoin struggles to hold the $60,000 floor.\n2. Should traders be worried?",
-    "url": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-06-10T20:42:55.000Z"
-  },
-  {
-    "id": "eb638c8d-adfb-418f-802b-bf0d55b9f7eb",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strategy (MSTR) CEO Says Bitcoin Sale Was About Market ‘Inoculation,’ Not a Retreat",
-    "summary": "1. Bitcoin Magazine\n\nStrategy (MSTR) CEO Says Bitcoin Sale Was About Market ‘Inoculation,’ Not a Retreat\nStrategy CEO Phong Le said the company's first Bitcoin sale since 2022 was a deliberate test meant to prove its operational flexibility and reassure investors that its processes work.\n2. This post Strategy (MSTR) CEO Says Bitcoin Sale Was About Market ‘Inoculation,’ Not a Retreat first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/strategy-mstr-ceo-says-bitcoin-sale",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-10T20:41:08.000Z"
-  },
-  {
-    "id": "202856d4-51de-45c4-8e61-2dc28f7e2df5",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Albany Democrats poised for biggest leadership shake-up in years",
-    "summary": "1. Albany Democrats poised for biggest leadership shake-up in years",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/10/albany-democrats-poised-for-biggest-leadership-shake-up-in-years-00957141",
-    "author": "By Bill Mahoney",
-    "created_at": "2026-06-10T20:37:46.000Z"
   }
 ]
