@@ -1,5 +1,235 @@
 [
   {
+    "id": "3ab0352a-7ee3-41ec-9e94-81ea1f5e2f6c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "DOJ charges two in $389 million AudiA6 crypto laundering case",
+    "summary": "1. DOJ charges two men over alleged AudiA6 crypto laundering service tied to more than $389 million in transactions.",
+    "url": "https://www.theblock.co/post/404433/doj-charges-two-389-million-audia6-crypto-laundering-case?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-06-11T14:07:21.000Z"
+  },
+  {
+    "id": "f4eb51e8-ea9c-4d38-a836-1186cdaee7a7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Institutional Giants Back $355M Canton Network Round as DTCC Treasury Deal Nears",
+    "summary": "1. Digital Asset, the company behind the Canton Network, raised $355 million in a new equity round led by Andreessen Horowitz’s A16z Crypto fund, which contributed $100 million, bringing together one of the most concentrated groups of institutional capital ever assembled behind a blockchain infrastructure play.\n2. Who Wrote the Check The round drew participation from Abu […]",
+    "url": "https://news.bitcoin.com/institutional-giants-back-355m-canton-network-round-as-dtcc-treasury-deal-nears/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-11T14:05:32.000Z"
+  },
+  {
+    "id": "41e5b5f6-783c-43cf-9c90-f61e3b8915b6",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+    "summary": "1. SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
+    "url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+    "author": "Tim De Chant",
+    "created_at": "2026-06-11T14:00:12.000Z"
+  },
+  {
+    "id": "1885aa5f-2eed-4d68-84a7-df20d818c2dc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
+    "summary": "1. The firms making that possible say eligible shares can also be converted back into tokens, creating a bridge between traditional brokerage accounts and blockchain-based markets.",
+    "url": "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-06-11T14:00:00.000Z"
+  },
+  {
+    "id": "e6bfc641-27d1-4e71-9ca3-54397426cb2c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Canton Network developer raises $355 million to bring Wall Street onchain",
+    "summary": "1. The investment comes as blockchains designed for big banks and institutions are having a moment, with Stripe's Tempo and Circle's Arc raising hundreds of millions of dollars.",
+    "url": "https://www.coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-11T13:50:13.000Z"
+  },
+  {
+    "id": "46726927-a6fa-42db-bc06-82c5cc232007",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Tether leads $1.4 billion funding round in German robotics company Neura",
+    "summary": "1. The investment is part of the stablecoin giant’s expansion into industries outside of crypto.",
+    "url": "https://www.coindesk.com/business/2026/06/11/tether-leads-usd1-4-billion-funding-round-in-german-robotics-company-neura",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-11T13:49:27.000Z"
+  },
+  {
+    "id": "b7cae581-0fef-4896-b9d5-ef397ca47dca",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure",
+    "summary": "1. Bitcoin mostly preserved a recent rebound despite the highest US PPI inflation since October 2022 and Iran closing the Strait of Hormuz oil route.",
+    "url": "https://cointelegraph.com/markets/bitcoin-tags-632k-as-btc-price-action-ignores-new-iran-hormuz-closure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-06-11T13:41:47.000Z"
+  },
+  {
+    "id": "a3986f89-3fe0-40d4-8a8b-9c002909b9f4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+    "summary": "1. South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers.",
+    "url": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-06-11T13:18:51.000Z"
+  },
+  {
+    "id": "add527e8-10e9-4f0c-aeb6-6b32277d7e6f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Traders Eye $64K Resistance as RSI Hangs at the Lowest Level Since November 2018",
+    "summary": "1. Bitcoin rebounded 2.3% on June 11, 2026, climbing from a session low of $60,914 to a high of $63,200, but technical indicators present a divided picture that traders are watching closely.\n2. Intraday Recovery Holds Above $62K The 24-hour gain brought bitcoin’s price to approximately $62,780 at the time of analysis, with a market capitalization near […]",
+    "url": "https://news.bitcoin.com/bitcoin-traders-eye-64k-resistance-as-rsi-hangs-at-the-lowest-level-since-november-2018/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-11T13:18:00.000Z"
+  },
+  {
+    "id": "80e7efe9-dcb9-4c2e-be74-7d84eeea364a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "The Incentive Dynamic Engine: io.net’s Shift to Sustainable Tokenomics",
+    "summary": "1. DePIN Needs a Tokenomics Reset  In recent years, DePINs have surged in prominence, offering a revolutionary model for scaling physical infrastructure through community-driven participation.\n2. By leveraging blockchain to coordinate resources like compute power and storage, these protocols promise a future where essential services are provided by a global collective rather than a handful of centralized […]",
+    "url": "https://www.theblock.co/post/402943/the-incentive-dynamic-engine-io-nets-shift-to-sustainable-tokenomics?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-06-11T13:14:52.000Z"
+  },
+  {
+    "id": "186fa15e-cd4a-4ad4-8fb6-7e4e1755f0ec",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Citi Rolls Out Tokenized Private-Company Shares for Wealth and Institutional Clients",
+    "summary": "1. Citigroup is making tokenized interests in private companies available to wealth-management and institutional clients on SIX Digital Exchange, the Wall Street Journal reported.\n2. The bank has already completed its first transaction and is in talks with additional private firms.",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/citi-rolls-out-tokenized-private-company-shares-wealth-institutional-clients",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-11T13:01:00.000Z"
+  },
+  {
+    "id": "873b0ecc-db87-42c8-99d6-0a6d8e069b83",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails",
+    "summary": "1. Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending a Wall Street‑backed funding run as banks ramp up pilots on its Canton Network blockchain.",
+    "url": "https://cointelegraph.com/news/digital-asset-355m-16z-wall-street-blockchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-11T12:59:11.000Z"
+  },
+  {
+    "id": "9264a905-d289-4924-b08e-fd5ff1ad7797",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hungary to reverse crypto trading crackdown after EU scrutiny",
+    "summary": "1. Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.",
+    "url": "https://cointelegraph.com/news/hungary-decriminalize-crypto-trading-prison-terms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-06-11T12:52:15.000Z"
+  },
+  {
+    "id": "7fe48280-a735-434d-ad31-edb3131f52f9",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Citigroup to offer tokenized shares of private companies for wealthy and institutional clients: WSJ",
+    "summary": "1. Citigroup is rolling out tokenized shares of private companies on blockchain for wealth and institutional clients.",
+    "url": "https://www.theblock.co/post/404422/citigroup-to-offer-tokenized-shares-of-private-companies-for-wealthy-and-institutional-clients-wsj?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-11T12:44:10.000Z"
+  },
+  {
+    "id": "791cc053-55bc-49b1-ade6-dc0184a21056",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race",
+    "summary": "1. Bitcoin Magazine\n\nPublic Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race\nPublic companies added a net 43,557 BTC worth $3.2 billion in May, led by Strategy’s continued accumulation.\n2. This post Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/public-companies-added-43557-bitcoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-11T12:37:50.000Z"
+  },
+  {
+    "id": "585afade-a31c-451c-8621-1f9a9cd8a925",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin ETFs Shed $2.1B in June So Far as Market Selloff Deepens",
+    "summary": "1. The pace of outflows from U.S.\n2. spot Bitcoin ETFs has “moderated,” with analysts assessing whether selling pressure is exhausting.",
+    "url": "https://decrypt.co/370749/bitcoin-etfs-shed-2-1b-in-june-so-far-as-market-selloff-deepens",
+    "author": "Akash Girimath",
+    "created_at": "2026-06-11T12:36:17.000Z"
+  },
+  {
+    "id": "7f1dcc5c-3ca8-455a-affd-27c758bb3c32",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Delaware and New Jersey Move to Ban Crypto ATMs Over Fraud Concerns",
+    "summary": "1. Delaware and New Jersey each advanced bills this week to ban cryptocurrency ATMs statewide, citing over $400 million in annual nationwide fraud losses and a scam pattern that disproportionately targets older residents.",
+    "url": "https://thedefiant.io/news/regulation/delaware-new-jersey-ban-crypto-atms-fraud",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-11T12:26:45.000Z"
+  },
+  {
+    "id": "ab32addb-aa25-4a60-aae6-2d9e4577618a",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The United States will be hitting Iran (Whose Navy, Air Force, Radar, Anti Aircraft, and all other forms of Defense, together with most of its offensive capability, are GONE!), VERY HARD TONIGHT.\n2. At some point in the not too distant  future, we will be taking Kharg Island, and other oil infrastructure points, and assume total control of their Oil and Gas Markets, much like we have with Venezuela, which is working out brilliantly for both Venezuela and the United States of America.\n3. Thank you for your attention to this matter!",
+    "url": "https://trumpstruth.org/statuses/39212",
+    "author": "Trump Truth",
+    "created_at": "2026-06-11T12:22:08.000Z"
+  },
+  {
+    "id": "e77c27fe-0463-4cdf-af2e-469e483b57c3",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Wall Street Piles Into Digital Asset as Canton Network Draws $355M Round Led by a16z",
+    "summary": "1. Digital Asset has closed a $355 million funding round led by a16z crypto, with HSBC, Apollo, CME, BNP Paribas, ADIA, ABN Amro, S&P Global, Tradeweb and more than 20 other institutional names joining as investors.",
+    "url": "https://thedefiant.io/news/blockchains/digital-asset-canton-network-355m-funding-a16z",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-11T12:20:00.000Z"
+  },
+  {
+    "id": "e43554e8-28b1-4c20-b05c-5ba1619aae72",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: Citadel Cautions Against the AI Trade Ahead of SpaceX IPO",
+    "summary": "1. Citadel says the AI boom may be running into a cost wall, and Tether just led a $1.4B round into humanoid robotics.",
+    "url": "https://decrypt.co/370746/morning-minute-citadel-cautions-against-the-ai-trade-ahead-of-spacex-ipo",
+    "author": "Tyler Warner",
+    "created_at": "2026-06-11T11:57:19.000Z"
+  },
+  {
+    "id": "40f26195-eb89-46a2-8688-38f5a52f7a87",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+    "summary": "1. The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
+    "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-11T11:48:55.000Z"
+  },
+  {
+    "id": "4a5be14e-20d6-4bc1-911d-86a5c3a193b7",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "IMF Urges Nepal Monitor Crypto as Usage Rises Despite Ban",
+    "summary": "1. The warning echoes the IMF's concerns over crypto adoption, including previous clashes with El Salvador over Bitcoin accumulation.",
+    "url": "https://decrypt.co/370738/imf-urges-nepal-monitor-crypto-as-usage-rises-despite-ban",
+    "author": "Vismaya V",
+    "created_at": "2026-06-11T11:33:30.000Z"
+  },
+  {
+    "id": "4f3c3bd9-8731-4ee8-8d53-d9cf5f3751ee",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "South African Reserve Bank Backs Payshap Over Digital Rand as Cassim Targets Real-Time Payments",
+    "summary": "1. The South African Reserve Bank has decided to pause the immediate implementation of a digital rand despite successfully testing its technical feasibility.\n2. Digital Rand Trials Reveal Privacy and Speed Tradeoffs The South African Reserve Bank (SARB) has no compelling need to immediately launch a digital version of its currency, a top official said, citing significant […]",
+    "url": "https://news.bitcoin.com/south-african-reserve-bank-backs-payshap-over-digital-rand-as-cassim-targets-real-time-payments/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-11T11:30:19.000Z"
+  },
+  {
     "id": "6cde35b9-2bc4-4b52-bf9c-78b8f4e5326d",
     "source": "CoinDesk",
     "type": "rss",
@@ -168,185 +398,5 @@
     "url": "https://t.me/SolidIntelX#fc59195d",
     "author": "@SolidIntelX",
     "created_at": "2026-06-11T08:45:32+00:00"
-  },
-  {
-    "id": "bc2ea1fd-86ce-4919-90b6-fd168a40cecd",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Singapore bank DBS to offer tokenized gold to retail customers",
-    "summary": "1. Each token is backed by one gram of physical gold held by DBS in a dedicated vault in Singapore.",
-    "url": "https://www.coindesk.com/business/2026/06/11/singapore-bank-dbs-to-offer-tokenized-gold-to-retail-customers",
-    "author": "Ian Allison",
-    "created_at": "2026-06-11T08:12:50.000Z"
-  },
-  {
-    "id": "530079f2-003f-4d7a-9f2d-1a51f42be154",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-11T07:55:49.000Z"
-  },
-  {
-    "id": "8ccb5641-e823-47a5-b0eb-7dca4c9efbb1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Figure to acquire Kiavi for $717 million to expand RWA tokenization network",
-    "summary": "1. Figure said moving Kiavi assets onchain could reduce costs while maintaining a capital-light, high-margin business model.",
-    "url": "https://www.theblock.co/post/404373/figure-kiavi-acquisition?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-11T07:45:27.000Z"
-  },
-  {
-    "id": "e49e7789-a844-4cc8-9938-14e3f335ba9c",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Japan moves to treat crypto more like stocks, pairing a planned 20% tax rate by 2028 with tougher market rules to draw more institutions into digital assetsTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#781a0f1a",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-11T07:35:29+00:00"
-  },
-  {
-    "id": "5b50d505-9850-433a-9a90-354e3d03d70a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Dragonfly’s Rob Hadick Says Stablecoins Could Grow 10x as Payments Adoption Expands",
-    "summary": "1. Stablecoins may have begun as a reserve-yield business.\n2. Still, Dragonfly’s Rob Hadick argues the next phase of value creation will come from distribution, compliance, payments, and the collapse of legacy financial infrastructure.\n3. Stablecoins and the Fall of Legacy Payments For years, the stablecoin market has been viewed through the lens of issuance.",
-    "url": "https://news.bitcoin.com/dragonflys-rob-hadick-says-stablecoins-could-grow-10x-as-payments-adoption-expands/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-11T07:30:02.000Z"
-  },
-  {
-    "id": "6c750f55-0854-4c33-af40-eb0fbfe17f06",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "TradFi advisors want stablecoins, tokenization over Bitcoin: Bitwise",
-    "summary": "1. Bitwise’s Matt Hougan says it was “pretty hard to engage with advisors on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
-    "url": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-11T07:01:31.000Z"
-  },
-  {
-    "id": "f7e83dac-8a9d-4fb0-ad27-9cbf21bbc76f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails",
-    "summary": "1. “Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.",
-    "url": "https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-11T07:00:53.000Z"
-  },
-  {
-    "id": "406423f5-003e-4126-bf10-b236f50058ad",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "200,000 Human Neurons Learned to Play Doom, Pointing to Low-Power Biological Computing",
-    "summary": "1. Cortical Labs connected 200,000 human neurons grown from blood-derived stem cells to its CL1 silicon interface, teaching the culture to navigate and shoot in Doom.\n2. By translating the game’s state into electrical patterns and reading neural spikes as commands, the system improved with training, pointing to low-power biological computing even as current neuron-chip setups last […]",
-    "url": "https://news.bitcoin.com/200000-human-neurons-learned-to-play-doom-pointing-to-low-power-biological-computing-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-06-11T06:30:28.000Z"
-  },
-  {
-    "id": "513a07e7-18ad-4067-9def-b0bbed9d1614",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Teen crypto scammer stole $13M to splurge on private jets, Lambo",
-    "summary": "1. Trenton Richard Johnston was arrested in March during a traffic stop for speeding, but investigators soon found he was involved in a wider fraud scheme.",
-    "url": "https://cointelegraph.com/news/teen-admits-to-scamming-13m-crypto-to-splurge-on-private-jets-lambo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-06-11T05:57:24.000Z"
-  },
-  {
-    "id": "5a6b0821-ac66-4058-9818-a2f39b973eb3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
-    "summary": "1. BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.",
-    "url": "https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-11T05:52:08.000Z"
-  },
-  {
-    "id": "07ebf32b-5d6d-4036-9b45-f31477d9edde",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live updates: Soft core inflation gave crypto a bounce, but only bitcoin held up on the week",
-    "summary": "1. May CPI ran hot on energy and cooler underneath, lifting majors on Thursday, though ether and the large alts are still down 6% to 8% over seven days.",
-    "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-11T05:45:57.000Z"
-  },
-  {
-    "id": "f58ae3aa-c535-4c99-8ff8-064faea99fe1",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.173",
-    "summary": "1. ## What's changed\n\n- Fixed Fable 5 model names with a `[1m]` suffix not being normalized — Fable 5 includes 1M context by default, so the suffix is now stripped automatically\n- Fixed a spurious \"sandbox dependencies missing\" startup warning on Windows when sandbox was enabled in settings",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.173",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-11T05:41:54Z"
-  },
-  {
-    "id": "09df8348-32d0-49a3-8966-73b15ad1ce10",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "ASK Group Taps Eric Schimdt-Backed Keeta to Tokenize Oil, Gold and Copper",
-    "summary": "1. The UAE-based investment group ASK Group and U.S.\n2. blockchain company Keeta have partnered to launch a public exchange where physical assets will be traded as fractional digital tokens.\n3. Gulf Commodities to Go Digital A United Arab Emirates investment group and Keeta, a U.S.",
-    "url": "https://news.bitcoin.com/ask-group-taps-eric-schimdt-backed-keeta-to-tokenize-oil-gold-and-copper/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-11T05:30:24.000Z"
-  },
-  {
-    "id": "1f6d5098-e108-4dd0-9714-f2ba3366d99c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
-    "summary": "1. ETF outflows have dominated the narrative but corporate bitcoin treasuries have gone quiet too, compounding the demand-side weakness.",
-    "url": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-11T05:16:18.000Z"
-  },
-  {
-    "id": "a8705e84-54ff-4bc7-89c6-c419b2c873cf",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC spot CVD chart as of 5:00 a.m. UTC, June 11",
-    "summary": "The Spot CVD chart is an order book analysis tool for the BTC/USDT spot pair. The upper section displays a Volume Heatmap, while the lower section shows the Cumulative Volume Delta (CVD).- The upper Volume Heatmap tracks trading volume at specific price levels. The background color brightens when the price remains in a certain range for an extended period or experiences a significant move. These brighter areas can indicate potential support or resistance levels.- The lower Cumulative Volume Delta (CVD) indicator represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. For example, the yellow line tracks orders between $100 and $1,000, while the brown line represents large orders from $1 million to $10 million.",
-    "url": "https://t.me/CoinnessGL#9ae6f7a3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T05:05:10+00:00"
-  },
-  {
-    "id": "c90725d8-da27-4291-8b79-3f71fd1584c2",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC nears 200-week MA, but bottom may require months of consolidation",
-    "summary": "While Bitcoin's price has dropped near its 200-week moving average, a level historically reached only late in bear markets, a firm bottom will likely be established only after capitulation selling is followed by months of consolidation, according to an analysis.Citing data from Checkonchain, CoinDesk reported that BTC has fallen to a key level watched by long-term holders and that its current valuation is in the bottom 10% of its historical range. This phenomenon was previously seen only during the deepest phases of past bear markets.Checkonchain noted that such indicators typically appear when most price-sensitive sellers have already disposed of their holdings. The firm suggested a bottom would be confirmed after an initial wave of capitulation selling, followed by a multi-month consolidation period that exhausts the remaining holders.Separately, Yves Renno, Head of Trading at Wirex, said that with fading expectations for the passage of the U.S. Clarity Act this year, the market is now focused on the Fed's FOMC meeting on June 16-17. He stated that depending on the tone of remarks from Fed Chairman Kevin Warsh, Bitcoin could either rebound to the $68,000-$72,000 range or fall below $60,000.",
-    "url": "https://t.me/CoinnessGL#761fbfe1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T04:54:19+00:00"
-  },
-  {
-    "id": "f4c5172f-2abb-4052-a2ef-23572420accb",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%",
-    "summary": "1. “We continue to view the current macro environment as a headwind for Bitcoin,” 10x Research’s Markus Thielen said.",
-    "url": "https://cointelegraph.com/news/pressure-on-bitcoin-and-gold-increases-as-us-inflation-tops-4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-11T04:51:52.000Z"
-  },
-  {
-    "id": "96cad73c-b3bc-4635-894f-e98cf50fc000",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP holds above $1.10 as ETF inflows rise, but traders remain cautious",
-    "summary": "1. XRP bounced from recent lows on a late volume surge, though the token continued to lag the broader crypto market as futures traders positioned around key support levels.",
-    "url": "https://www.coindesk.com/markets/2026/06/11/xrp-holds-above-usd1-10-as-etf-inflows-rise-but-traders-remain-cautious",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-11T04:50:46.000Z"
   }
 ]
