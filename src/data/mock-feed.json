@@ -1,5 +1,45 @@
 [
   {
+    "id": "a8705e84-54ff-4bc7-89c6-c419b2c873cf",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC spot CVD chart as of 5:00 a.m. UTC, June 11",
+    "summary": "The Spot CVD chart is an order book analysis tool for the BTC/USDT spot pair. The upper section displays a Volume Heatmap, while the lower section shows the Cumulative Volume Delta (CVD).- The upper Volume Heatmap tracks trading volume at specific price levels. The background color brightens when the price remains in a certain range for an extended period or experiences a significant move. These brighter areas can indicate potential support or resistance levels.- The lower Cumulative Volume Delta (CVD) indicator represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. For example, the yellow line tracks orders between $100 and $1,000, while the brown line represents large orders from $1 million to $10 million.",
+    "url": "https://t.me/CoinnessGL#9ae6f7a3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-11T05:05:10+00:00"
+  },
+  {
+    "id": "c90725d8-da27-4291-8b79-3f71fd1584c2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC nears 200-week MA, but bottom may require months of consolidation",
+    "summary": "While Bitcoin's price has dropped near its 200-week moving average, a level historically reached only late in bear markets, a firm bottom will likely be established only after capitulation selling is followed by months of consolidation, according to an analysis.Citing data from Checkonchain, CoinDesk reported that BTC has fallen to a key level watched by long-term holders and that its current valuation is in the bottom 10% of its historical range. This phenomenon was previously seen only during the deepest phases of past bear markets.Checkonchain noted that such indicators typically appear when most price-sensitive sellers have already disposed of their holdings. The firm suggested a bottom would be confirmed after an initial wave of capitulation selling, followed by a multi-month consolidation period that exhausts the remaining holders.Separately, Yves Renno, Head of Trading at Wirex, said that with fading expectations for the passage of the U.S. Clarity Act this year, the market is now focused on the Fed's FOMC meeting on June 16-17. He stated that depending on the tone of remarks from Fed Chairman Kevin Warsh, Bitcoin could either rebound to the $68,000-$72,000 range or fall below $60,000.",
+    "url": "https://t.me/CoinnessGL#761fbfe1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-11T04:54:19+00:00"
+  },
+  {
+    "id": "f4c5172f-2abb-4052-a2ef-23572420accb",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%",
+    "summary": "1. “We continue to view the current macro environment as a headwind for Bitcoin,” 10x Research’s Markus Thielen said.",
+    "url": "https://cointelegraph.com/news/pressure-on-bitcoin-and-gold-increases-as-us-inflation-tops-4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-11T04:51:52.000Z"
+  },
+  {
+    "id": "96cad73c-b3bc-4635-894f-e98cf50fc000",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP holds above $1.10 as ETF inflows rise, but traders remain cautious",
+    "summary": "1. XRP bounced from recent lows on a late volume surge, though the token continued to lag the broader crypto market as futures traders positioned around key support levels.",
+    "url": "https://www.coindesk.com/markets/2026/06/11/xrp-holds-above-usd1-10-as-etf-inflows-rise-but-traders-remain-cautious",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-11T04:50:46.000Z"
+  },
+  {
     "id": "820a983a-8f89-4fd6-820f-092f1b88383b",
     "source": "CoinDesk",
     "type": "rss",
@@ -20,7 +60,7 @@
     "created_at": "2026-06-11T04:30:29.000Z"
   },
   {
-    "id": "bcea4dd3-03bb-4518-bdfd-7d49a55ae3e5",
+    "id": "7e83dcef-91b4-48f2-ab80-493bdf32d3f1",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "ETH could bottom at $700 based on historical Delta Price indicator",
@@ -170,7 +210,7 @@
     "created_at": "2026-06-11T00:00:00.000Z"
   },
   {
-    "id": "c0c918ee-aa08-4fd7-88ab-6bb61ea448e5",
+    "id": "46148c00-f61a-4eb9-b2f8-290d108f5e75",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Tether is leading a round of up to $1.4B in robotics firm Neura, with plans to integrate a crypto wallet directly into Neura's humanoid robots.",
@@ -188,35 +228,5 @@
     "url": "https://news.bitcoin.com/is-bitcoin-cheap-yet-grayscale-flags-2-catalysts-that-could-decide-btcs-next-move/",
     "author": "Kevin Helms",
     "created_at": "2026-06-10T23:17:30.000Z"
-  },
-  {
-    "id": "a1bac7d4-1c19-42f7-b921-00623dcc63bb",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇮🇷🇺🇸 Iran announces full shut down of the Strait of Hormuz following US strikes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#4ec41e27",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-10T22:52:33+00:00"
-  },
-  {
-    "id": "24610b75-ec8e-4e89-9db6-17cf8fada40b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran's Supreme Joint Military Command closes Strait of Hormuz, bans all vessel traffic",
-    "summary": "Iran's Supreme Joint Military Command has announced the closure of the Strait of Hormuz, prohibiting all vessel traffic.",
-    "url": "https://t.me/CoinnessGL#80776165",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T22:48:26+00:00"
-  },
-  {
-    "id": "377f094a-6bc9-4ace-92e8-7b39a1f9781b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Robinhood CEO Vlad Tenev says the platform won underwriter approval, letting retail traders buy IPO shares directly through its app.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#fc5ade21",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T22:44:13+00:00"
   }
 ]
