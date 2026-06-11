@@ -1,5 +1,15 @@
 [
   {
+    "id": "3227f3ed-b662-4edf-9859-e3d70b0ae26a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRPL and RLUSD Take Center Stage as Ripple Joins Mastercard’s AI Payments Push",
+    "summary": "1. Ripple is participating in Mastercard’s Agent Pay for Machines effort, placing XRPL and RLUSD in a wider push to support AI-driven payments.\n2. Mastercard is working with more than 30 partners as autonomous transactions raise new demands for controls, permissioning, and settlement.\n3. Mastercard’s AI Payments Plan Puts Ripple’s Enterprise Role in Focus Ripple’s role in Mastercard’s […]",
+    "url": "https://news.bitcoin.com/xrpl-and-rlusd-take-center-stage-as-ripple-joins-mastercards-ai-payments-push/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-11T00:20:40.000Z"
+  },
+  {
     "id": "23e30273-c06d-4505-ab46-39def7ff07f8",
     "source": "OpenAI",
     "type": "rss",
@@ -8,6 +18,16 @@
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "author": "OpenAI",
     "created_at": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "id": "5b546acc-935a-4334-aa2d-399e52bea487",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Is Bitcoin Cheap Yet? Grayscale Flags 2 Catalysts That Could Decide BTC’s Next Move",
+    "summary": "1. Grayscale has weighed in on whether bitcoin is cheap after BTC’s recent decline below $60,000.\n2. The firm points investors to two key factors that could determine whether the market has found a bottom.\n3. Bitcoin Valuation Metrics Suggest BTC May Be Undervalued Bitcoin’s recent drop to a new cycle low below $60,000 has sparked a key […]",
+    "url": "https://news.bitcoin.com/is-bitcoin-cheap-yet-grayscale-flags-2-catalysts-that-could-decide-btcs-next-move/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-10T23:17:30.000Z"
   },
   {
     "id": "4edfbd6e-6464-4532-bada-0b44d3104963",
@@ -58,6 +78,16 @@
     "url": "https://news.bitcoin.com/cme-group-launches-crypto-index-futures-tracking-bitcoin-solana-and-xrp/",
     "author": "Emmanuel Musa",
     "created_at": "2026-06-10T22:30:16.000Z"
+  },
+  {
+    "id": "fea89d3f-1ec1-4841-b9c0-5716ad0293a4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "CFTC proposes framework favoring sports event contracts over gambling",
+    "summary": "1. The proposed rules would preserve election markets and allow many sports-based prediction contracts while limiting bets that could encourage manipulation.",
+    "url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-10T22:30:00.000Z"
   },
   {
     "id": "ca463466-3647-40be-861c-f3bf10fdcad3",
@@ -478,85 +508,5 @@
     "url": "https://cointelegraph.com/markets/can-bitcoin-avoid-another-sell-off-after-a-bank-of-japan-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Biraajmaan Tamuly",
     "created_at": "2026-06-10T18:41:15.000Z"
-  },
-  {
-    "id": "8e83ae30-c8e6-4905-8ae6-353c96964f97",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Mastercard has introduced Agent Pay for Machines, a payment service for AI agents backed by 30+ partners including Coinbase, OKX and Ripple.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#62de45be",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T18:34:19+00:00"
-  },
-  {
-    "id": "b417579b-48e0-48ce-9af7-e92b6d9b0273",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Privacy returns to focus as Ethereum developers explore new token standards ",
-    "summary": "1. In this week's edition of The Protocol Newsletter, we're looking at where privacy is headed in the Ethereum ecosystem.",
-    "url": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-10T18:14:58.000Z"
-  },
-  {
-    "id": "f9ff0ffd-4832-48f8-a5ad-7dfe74bbc5fc",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
-    "summary": "1. BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry's largest players.",
-    "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
-    "author": "Helene Braun",
-    "created_at": "2026-06-10T18:09:23.000Z"
-  },
-  {
-    "id": "b51f6753-f375-4d96-bed0-dff8bb3e13f4",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Coinbase-backed Stand With Crypto calls on members to campaign against banks blocking digital asset transactions",
-    "summary": "1. Stand With Crypto UK is telling its members to file formal complaints with high-street banks over sector-wide transfer bans.",
-    "url": "https://www.coindesk.com/business/2026/06/10/over-280-000-uk-crypto-holders-kick-off-campaign-against-banks-blocking-transactions",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-10T17:53:09.000Z"
-  },
-  {
-    "id": "c8354221-8f23-4883-a3ef-518a0530db75",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Last month, I directed our Great U.S.\n2. Military to execute a secret mission to support Oil Tankers and other Commercial Ships through the Straight of Hormuz.\n3. Today, I am pleased to announce that this effort has resulted in more than 100 MILLION Barrels of Oil making its way through the Straight, and into the Open Market.",
-    "url": "https://trumpstruth.org/statuses/39210",
-    "author": "Trump Truth",
-    "created_at": "2026-06-10T17:50:24.000Z"
-  },
-  {
-    "id": "b96ea27c-8ebf-4ddf-8a12-930bd9a26157",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle",
-    "summary": "1. Bitcoin Magazine\n\nMorgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle\nMorgan Stanley's Head of Digital Asset Strategy Amy Oldenburg says Bitcoin's biggest barrier to mainstream adoption is not product availability but investor and advisor education.\n2. This post Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-executive-education",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-10T17:46:39.000Z"
-  },
-  {
-    "id": "529a2b86-010b-40dc-8ea6-e5e0352adfd0",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to Colombian Presidential Candidate, “El Tigre (THE TIGER),” Abelardo de la Espriella, a Smart, Strong, and Tough Leader, on his decisive Victory in the first round of the Colombian Presidential Election!\n2. Abelardo fights tirelessly for, and loves, his Great Country and People, just like I do for the United States of America.\n3. As President, Abelardo will be tremendously successful in leading Colombia to Grow the Economy, Create Jobs, Promote Trade, Stop Illegal Immigration, Crack Down on Crime and Drugs, and Restore LAW AND ORDER!",
-    "url": "https://trumpstruth.org/statuses/39209",
-    "author": "Trump Truth",
-    "created_at": "2026-06-10T17:43:41.000Z"
-  },
-  {
-    "id": "6853c2fe-20f2-4002-b7df-02f2d5fec95d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to Nikol Pashinyan for his decisive victory in Armenia’s National Elections.\n2. I was very proud to have Endorsed him for Re-Election, and have no doubt that, with him as the Leader of the beautiful Country of Armenia, it will attain levels of Greatness and Success beyond everyone’s wildest expectations!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39208",
-    "author": "Trump Truth",
-    "created_at": "2026-06-10T17:28:31.000Z"
   }
 ]
