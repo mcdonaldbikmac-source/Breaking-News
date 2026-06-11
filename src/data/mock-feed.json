@@ -1,5 +1,65 @@
 [
   {
+    "id": "16486bf9-64d1-44bb-9f7c-2afd1243e017",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals",
+    "summary": "1. The iShares Bitcoin Premium Income ETF makes money by selling call options on BlackRock's own IBIT.",
+    "url": "https://www.coindesk.com/markets/2026/06/11/blackrock-s-income-paying-bitcoin-etf-nears-launch-at-a-fee-that-undercuts-rivals",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-11T08:59:29.000Z"
+  },
+  {
+    "id": "0648a090-3dc2-41be-af4a-2dffa0e62570",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Philippines' central bank says Binance and its local partner lack licenses to operate",
+    "summary": "1. Binance and its local partner do not hold the necessary license required to operate in the country, the Philippine central bank said, according to a local media report.",
+    "url": "https://www.coindesk.com/policy/2026/06/11/philippines-central-bank-says-binance-and-its-local-partner-lack-licenses-to-operate",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-11T08:49:47.000Z"
+  },
+  {
+    "id": "bc2ea1fd-86ce-4919-90b6-fd168a40cecd",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Singapore bank DBS to offer tokenized gold to retail customers",
+    "summary": "1. Each token is backed by one gram of physical gold held by DBS in a dedicated vault in Singapore.",
+    "url": "https://www.coindesk.com/business/2026/06/11/singapore-bank-dbs-to-offer-tokenized-gold-to-retail-customers",
+    "author": "Ian Allison",
+    "created_at": "2026-06-11T08:12:50.000Z"
+  },
+  {
+    "id": "530079f2-003f-4d7a-9f2d-1a51f42be154",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-11T07:55:49.000Z"
+  },
+  {
+    "id": "8ccb5641-e823-47a5-b0eb-7dca4c9efbb1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Figure to acquire Kiavi for $717 million to expand RWA tokenization network",
+    "summary": "1. Figure said moving Kiavi assets onchain could reduce costs while maintaining a capital-light, high-margin business model.",
+    "url": "https://www.theblock.co/post/404373/figure-kiavi-acquisition?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-11T07:45:27.000Z"
+  },
+  {
+    "id": "5b50d505-9850-433a-9a90-354e3d03d70a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Dragonfly’s Rob Hadick Says Stablecoins Could Grow 10x as Payments Adoption Expands",
+    "summary": "1. Stablecoins may have begun as a reserve-yield business.\n2. Still, Dragonfly’s Rob Hadick argues the next phase of value creation will come from distribution, compliance, payments, and the collapse of legacy financial infrastructure.\n3. Stablecoins and the Fall of Legacy Payments For years, the stablecoin market has been viewed through the lens of issuance.",
+    "url": "https://news.bitcoin.com/dragonflys-rob-hadick-says-stablecoins-could-grow-10x-as-payments-adoption-expands/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-11T07:30:02.000Z"
+  },
+  {
     "id": "6c750f55-0854-4c33-af40-eb0fbfe17f06",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -228,45 +288,5 @@
     "url": "https://cointelegraph.com/news/delaware-new-jersey-advance-bills-banning-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Jesse Coghlan",
     "created_at": "2026-06-11T03:18:43.000Z"
-  },
-  {
-    "id": "56cedfa9-3d2f-42ba-a42d-08eeed06db27",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Tom Lee’s Bitmine buys $41 million worth of ETH, continuing aggressive treasury expansion: onchain data",
-    "summary": "1. The firm continues to buy ETH at an accelerated pace despite a reported paper loss of nearly $10 billion on its holdings.",
-    "url": "https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-11T03:10:50.000Z"
-  },
-  {
-    "id": "6d83ab3e-3b62-4cc6-aebf-9645d4386649",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tim Draper Says Quantum Will Crack Banks Before Bitcoin",
-    "summary": "1. Tim Draper argued bitcoin faces less quantum risk than banks, comparing its security to Fort Knox.\n2. His comments shifted attention from blockchain vulnerabilities to legacy financial systems, as debate grows over quantum computing’s threat to modern cryptography.\n3. Tim Draper Revives Bitcoin Security Thesis as Quantum Fears Shift Toward Banks Venture capitalist and longtime bitcoin investor […]",
-    "url": "https://news.bitcoin.com/tim-draper-says-quantum-will-crack-banks-before-bitcoin/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-11T02:30:15.000Z"
-  },
-  {
-    "id": "ea7d5708-b69b-4d38-9b7f-f84dfc1aee29",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tesla–SpaceX Merger? ‘Big Short’ Investor Steve Eisman Says He Wouldn’t Doubt It",
-    "summary": "1. Big Short investor Steve Eisman said he would not be surprised by a Tesla-SpaceX deal, fueling speculation about Elon Musk’s next major move.\n2. The comments come as SpaceX IPO demand reportedly tops $250 billion.\n3. SpaceX IPO Demand Puts Tesla Deal Speculation Under Pressure SpaceX’s intense IPO demand has fueled investor interest in any potential deal […]",
-    "url": "https://news.bitcoin.com/tesla-spacex-merger-big-short-investor-steve-eisman-says-he-wouldnt-doubt-it/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-11T01:30:32.000Z"
-  },
-  {
-    "id": "45e0bfc6-b5a1-4267-86d1-2923933bcd5d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. No other President has ever been more committed to both REBUILDING our Great Military and SAVING our Great Country — And NOW is the time to make it happen, for Generations to come.\n2. I am hereby calling on Republicans in Congress to IMMEDIATELY advance and pass the forthcoming $350 Billion Reconciliation Bill (Recon 3.0) — which, at the request of our Great Department of War — will include THE SAVE AMERICA ACT as well.\n3. No games, no delays, and no weak compromises!",
-    "url": "https://trumpstruth.org/statuses/39211",
-    "author": "Trump Truth",
-    "created_at": "2026-06-11T01:21:45.000Z"
   }
 ]
