@@ -1,5 +1,95 @@
 [
   {
+    "id": "6c750f55-0854-4c33-af40-eb0fbfe17f06",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "TradFi advisors want stablecoins, tokenization over Bitcoin: Bitwise",
+    "summary": "1. Bitwise’s Matt Hougan says it was “pretty hard to engage with advisors on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
+    "url": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-11T07:01:31.000Z"
+  },
+  {
+    "id": "f7e83dac-8a9d-4fb0-ad27-9cbf21bbc76f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails",
+    "summary": "1. “Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.",
+    "url": "https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-11T07:00:53.000Z"
+  },
+  {
+    "id": "406423f5-003e-4126-bf10-b236f50058ad",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "200,000 Human Neurons Learned to Play Doom, Pointing to Low-Power Biological Computing",
+    "summary": "1. Cortical Labs connected 200,000 human neurons grown from blood-derived stem cells to its CL1 silicon interface, teaching the culture to navigate and shoot in Doom.\n2. By translating the game’s state into electrical patterns and reading neural spikes as commands, the system improved with training, pointing to low-power biological computing even as current neuron-chip setups last […]",
+    "url": "https://news.bitcoin.com/200000-human-neurons-learned-to-play-doom-pointing-to-low-power-biological-computing-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-11T06:30:28.000Z"
+  },
+  {
+    "id": "513a07e7-18ad-4067-9def-b0bbed9d1614",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Teen crypto scammer stole $13M to splurge on private jets, Lambo",
+    "summary": "1. Trenton Richard Johnston was arrested in March during a traffic stop for speeding, but investigators soon found he was involved in a wider fraud scheme.",
+    "url": "https://cointelegraph.com/news/teen-admits-to-scamming-13m-crypto-to-splurge-on-private-jets-lambo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-06-11T05:57:24.000Z"
+  },
+  {
+    "id": "5a6b0821-ac66-4058-9818-a2f39b973eb3",
+    "source": "The Block",
+    "type": "rss",
+    "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
+    "summary": "1. BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.",
+    "url": "https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-11T05:52:08.000Z"
+  },
+  {
+    "id": "07ebf32b-5d6d-4036-9b45-f31477d9edde",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live updates: Soft core inflation gave crypto a bounce, but only bitcoin held up on the week",
+    "summary": "1. May CPI ran hot on energy and cooler underneath, lifting majors on Thursday, though ether and the large alts are still down 6% to 8% over seven days.",
+    "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-11T05:45:57.000Z"
+  },
+  {
+    "id": "f58ae3aa-c535-4c99-8ff8-064faea99fe1",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.173",
+    "summary": "1. ## What's changed\n\n- Fixed Fable 5 model names with a `[1m]` suffix not being normalized — Fable 5 includes 1M context by default, so the suffix is now stripped automatically\n- Fixed a spurious \"sandbox dependencies missing\" startup warning on Windows when sandbox was enabled in settings",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.173",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-11T05:41:54Z"
+  },
+  {
+    "id": "09df8348-32d0-49a3-8966-73b15ad1ce10",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "ASK Group Taps Eric Schimdt-Backed Keeta to Tokenize Oil, Gold and Copper",
+    "summary": "1. The UAE-based investment group ASK Group and U.S.\n2. blockchain company Keeta have partnered to launch a public exchange where physical assets will be traded as fractional digital tokens.\n3. Gulf Commodities to Go Digital A United Arab Emirates investment group and Keeta, a U.S.",
+    "url": "https://news.bitcoin.com/ask-group-taps-eric-schimdt-backed-keeta-to-tokenize-oil-gold-and-copper/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-11T05:30:24.000Z"
+  },
+  {
+    "id": "1f6d5098-e108-4dd0-9714-f2ba3366d99c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
+    "summary": "1. ETF outflows have dominated the narrative but corporate bitcoin treasuries have gone quiet too, compounding the demand-side weakness.",
+    "url": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-11T05:16:18.000Z"
+  },
+  {
     "id": "a8705e84-54ff-4bc7-89c6-c419b2c873cf",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -178,55 +268,5 @@
     "url": "https://trumpstruth.org/statuses/39211",
     "author": "Trump Truth",
     "created_at": "2026-06-11T01:21:45.000Z"
-  },
-  {
-    "id": "3227f3ed-b662-4edf-9859-e3d70b0ae26a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRPL and RLUSD Take Center Stage as Ripple Joins Mastercard’s AI Payments Push",
-    "summary": "1. Ripple is participating in Mastercard’s Agent Pay for Machines effort, placing XRPL and RLUSD in a wider push to support AI-driven payments.\n2. Mastercard is working with more than 30 partners as autonomous transactions raise new demands for controls, permissioning, and settlement.\n3. Mastercard’s AI Payments Plan Puts Ripple’s Enterprise Role in Focus Ripple’s role in Mastercard’s […]",
-    "url": "https://news.bitcoin.com/xrpl-and-rlusd-take-center-stage-as-ripple-joins-mastercards-ai-payments-push/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-11T00:20:40.000Z"
-  },
-  {
-    "id": "a178c2c7-1dbe-435e-807b-eb32caaaaa33",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "XRP transaction demand falls 91.5% as traders focus on $0.65 support",
-    "summary": "1. XRP network activity and investor profitability fall to record lows, leading traders to focus on the $1 to $0.65 zone.",
-    "url": "https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-06-11T00:08:21.000Z"
-  },
-  {
-    "id": "23e30273-c06d-4505-ab46-39def7ff07f8",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "summary": "1. Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "author": "OpenAI",
-    "created_at": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "id": "46148c00-f61a-4eb9-b2f8-290d108f5e75",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Tether is leading a round of up to $1.4B in robotics firm Neura, with plans to integrate a crypto wallet directly into Neura's humanoid robots.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b0916baa",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T23:19:16+00:00"
-  },
-  {
-    "id": "5b546acc-935a-4334-aa2d-399e52bea487",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Is Bitcoin Cheap Yet? Grayscale Flags 2 Catalysts That Could Decide BTC’s Next Move",
-    "summary": "1. Grayscale has weighed in on whether bitcoin is cheap after BTC’s recent decline below $60,000.\n2. The firm points investors to two key factors that could determine whether the market has found a bottom.\n3. Bitcoin Valuation Metrics Suggest BTC May Be Undervalued Bitcoin’s recent drop to a new cycle low below $60,000 has sparked a key […]",
-    "url": "https://news.bitcoin.com/is-bitcoin-cheap-yet-grayscale-flags-2-catalysts-that-could-decide-btcs-next-move/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-10T23:17:30.000Z"
   }
 ]
