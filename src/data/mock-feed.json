@@ -1,5 +1,25 @@
 [
   {
+    "id": "6d83ab3e-3b62-4cc6-aebf-9645d4386649",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tim Draper Says Quantum Will Crack Banks Before Bitcoin",
+    "summary": "1. Tim Draper argued bitcoin faces less quantum risk than banks, comparing its security to Fort Knox.\n2. His comments shifted attention from blockchain vulnerabilities to legacy financial systems, as debate grows over quantum computing’s threat to modern cryptography.\n3. Tim Draper Revives Bitcoin Security Thesis as Quantum Fears Shift Toward Banks Venture capitalist and longtime bitcoin investor […]",
+    "url": "https://news.bitcoin.com/tim-draper-says-quantum-will-crack-banks-before-bitcoin/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-11T02:30:15.000Z"
+  },
+  {
+    "id": "ea7d5708-b69b-4d38-9b7f-f84dfc1aee29",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tesla–SpaceX Merger? ‘Big Short’ Investor Steve Eisman Says He Wouldn’t Doubt It",
+    "summary": "1. Big Short investor Steve Eisman said he would not be surprised by a Tesla-SpaceX deal, fueling speculation about Elon Musk’s next major move.\n2. The comments come as SpaceX IPO demand reportedly tops $250 billion.\n3. SpaceX IPO Demand Puts Tesla Deal Speculation Under Pressure SpaceX’s intense IPO demand has fueled investor interest in any potential deal […]",
+    "url": "https://news.bitcoin.com/tesla-spacex-merger-big-short-investor-steve-eisman-says-he-wouldnt-doubt-it/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-11T01:30:32.000Z"
+  },
+  {
     "id": "3227f3ed-b662-4edf-9859-e3d70b0ae26a",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +28,16 @@
     "url": "https://news.bitcoin.com/xrpl-and-rlusd-take-center-stage-as-ripple-joins-mastercards-ai-payments-push/",
     "author": "Kevin Helms",
     "created_at": "2026-06-11T00:20:40.000Z"
+  },
+  {
+    "id": "a178c2c7-1dbe-435e-807b-eb32caaaaa33",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "XRP transaction demand falls 91.5% as traders focus on $0.65 support",
+    "summary": "1. XRP network activity and investor profitability fall to record lows, leading traders to focus on the $1 to $0.65 zone.",
+    "url": "https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-06-11T00:08:21.000Z"
   },
   {
     "id": "23e30273-c06d-4505-ab46-39def7ff07f8",
@@ -258,255 +288,5 @@
     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/10/albany-democrats-poised-for-biggest-leadership-shake-up-in-years-00957141",
     "author": "By Bill Mahoney",
     "created_at": "2026-06-10T20:37:46.000Z"
-  },
-  {
-    "id": "cc1c2c35-6ce9-4d0c-a6c8-2a88d669e8b4",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Binance Stock Trading Draws 84% of First-Week Volume From Emerging Markets",
-    "summary": "1. Binance's direct stock-trading platform drew more than 80% of its first-week volume from emerging markets, with assets under management crossing $400 million within seven days.\n2. The 2% share of TradFi-referenced perpetuals volume positions the June 1 launch as a distribution play for underserved",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-stock-trading-first-week-emerging-markets",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-10T20:34:40.000Z"
-  },
-  {
-    "id": "0e7db950-3514-4f68-a2f9-7d7be2fc4755",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tether Leads $1.4B NEURA Robotics Round to Give Machines Built-In Crypto Wallets",
-    "summary": "1. Tether is leading one of the largest private investment rounds in humanoid robotics history, committing up to $1.4 billion to NEURA Robotics as part of a push to wire autonomous machines into the global financial system.\n2. A New Role for Stablecoins The deal, announced June 10, positions Tether as the primary financial and intelligence infrastructure […]",
-    "url": "https://news.bitcoin.com/tether-leads-1-4b-neura-robotics-round-to-give-machines-built-in-crypto-wallets/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-10T20:33:20.000Z"
-  },
-  {
-    "id": "9420c3b3-ff22-40d1-834d-47e29399f46a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Everyone wants a piece of Tesla’s battery business",
-    "summary": "1. Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
-    "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
-    "author": "Tim De Chant",
-    "created_at": "2026-06-10T20:21:25.000Z"
-  },
-  {
-    "id": "be4ff711-dbb1-4cbf-9584-e6d1bdc8e467",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
-    "summary": "1. Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.",
-    "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-10T20:19:35.000Z"
-  },
-  {
-    "id": "c82d354a-310f-48e4-a096-39bb84611595",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-    "summary": "1. Companies are burning through exorbitant sums of money to keep pace in the AI arms race.\n2. Debt is climbing.",
-    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-10T20:19:31.000Z"
-  },
-  {
-    "id": "47a76f43-22af-42b5-8442-f5374d252edb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Helius acquires Light Protocol following Solana investment pivot",
-    "summary": "Nasdaq-listed Helius Medical Technologies (HSDT), which recently announced a strategy to focus its investments on Solana (SOL), has acquired Light Protocol to enhance its on-chain privacy features, according to The Block. Helius stated that it plans to combine Light Protocol's cryptographic technology with its own infrastructure to build a Solana-based privacy protocol.",
-    "url": "https://t.me/CoinnessGL#9819a424",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T20:18:25+00:00"
-  },
-  {
-    "id": "879640d6-2e59-4d6d-aca8-2d7a4e5c16de",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump convenes Situation Room meeting to discuss new Iran strikes",
-    "summary": "According to Axios, President Trump convened a meeting in the White House Situation Room on the afternoon of June 10 to discuss the possibility of new military strikes against Iran.",
-    "url": "https://t.me/CoinnessGL#1427fe03",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T20:16:20+00:00"
-  },
-  {
-    "id": "956c9ad6-2ca9-4470-b95a-3e17fc054d7a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US Defense Secretary Hegseth warns Iran of 'strong strike' if deal fails",
-    "summary": "U.S. Secretary of Defense Pete Hegseth warned on June 10 that the U.S. military would launch a powerful strike against Iran if it does not agree to end its conflict with the United States, CNN reported. Speaking to troops at U.S. Central Command in Tampa, Florida, Hegseth stated that the president is fully focused on the outcome he wants for the American people and is already achieving significant results. He added that, as President Donald Trump said the same day, the U.S. will \"hit them hard\" if they do not agree to a deal. President Trump also mentioned on the same day that he would carry out additional attacks on Iran.",
-    "url": "https://t.me/CoinnessGL#4749ecca",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-10T20:02:26+00:00"
-  },
-  {
-    "id": "be5321a9-3845-42b6-b337-eb97b4f4f2af",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin takes back seat to stablecoins and tokenization among financial advisors: Bitwise CIO",
-    "summary": "1. Bitwise CIO Matt Hougan said financial advisors are now showing more interest in stablecoins and tokenization than bitcoin.",
-    "url": "https://www.theblock.co/post/404341/bitcoin-stablecoins-tokenization-bitwise-cio-financial-advisors?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-06-10T20:00:26.000Z"
-  },
-  {
-    "id": "95616b03-2c4b-44ec-bfd1-963c5430da56",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 $1.1 trillion wiped out from the US stock market today.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#db131a70",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-10T20:00:18+00:00"
-  },
-  {
-    "id": "9da067a0-a121-4b89-8193-d9656de4e036",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "summary": "1. Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "url": "https://openai.com/index/openai-on-oracle-cloud",
-    "author": "OpenAI",
-    "created_at": "2026-06-10T20:00:00.000Z"
-  },
-  {
-    "id": "e521cd5b-bec6-4fd2-9677-76f390fb4ea2",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
-    "summary": "1. North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
-    "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-10T19:57:04.000Z"
-  },
-  {
-    "id": "fe365b5b-ebc0-4211-838c-a593f2bff95d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-10T19:53:26.000Z"
-  },
-  {
-    "id": "19b3721e-4e28-4ecf-8e90-d4b7e4eb7a41",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Kalshi Reports 150+ Insider-Trading Investigations in Q1, Rolls Out Employer Checks for High-Risk Markets",
-    "summary": "1. Kalshi opened more than 150 insider-trading investigations in the first quarter of 2026, blocked over 100 potential insider trades, and referred at least 20 cases to law enforcement.\n2. The CFTC-regulated prediction market paired the numbers Tuesday with a new risk-scoring framework,",
-    "url": "https://thedefiant.io/news/regulation/kalshi-insider-trading-investigations-q1-employer-checks",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-10T19:50:18.000Z"
-  },
-  {
-    "id": "1f91ce66-1a97-4240-9042-0ef7a06b6721",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Benchmark has initiated coverage on Securitize with a $16 target, calling it \"poised to be a positive outlier\" as the RWA platform nears an NYSE listing.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0cd5c2b9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T19:44:48+00:00"
-  },
-  {
-    "id": "4f7db581-d11c-4120-8219-3f5762eb8fa4",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round",
-    "summary": "1. Stablecoin giant Tether led a massive Series C round for German robotics firm NEURA, which will embed crypto payment tools and edge AI.",
-    "url": "https://decrypt.co/370691/tether-nvidia-amazon-back-neura-robotics-1-4-billion-funding-round",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-10T19:30:32.000Z"
-  },
-  {
-    "id": "857b09cc-8490-4c98-aaee-30f48a5e8355",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Traders Watch Gold Crash 3.25% to $4,120 After May CPI Confirms 4.2% Inflation",
-    "summary": "1. Gold dropped $138.60 on Wednesday as a hotter-than-expected May consumer price index (CPI) print erased any safe-haven premium built on Iran escalation fears, sending the metal to its lowest level in months.\n2. Gold and Silver Prices on June 10 At 1:08 p.m.\n3. EDT, gold bid at $4,120.10 per ounce, down 3.25% on the day.",
-    "url": "https://news.bitcoin.com/traders-watch-gold-crash-3-25-to-4120-after-may-cpi-confirms-4-2-inflation/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-10T19:20:42.000Z"
-  },
-  {
-    "id": "60874fae-9b43-4bd8-8676-b07c596b21e2",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "The Internet Is Furious at Anthropic After Claude Fable 5 Release",
-    "summary": "1. Token burn, silent censorship, and a mandatory data grab—the biggest Claude release has become Anthropic's messiest.",
-    "url": "https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-10T19:17:27.000Z"
-  },
-  {
-    "id": "752f0136-6d86-4170-9e57-ddcc9923b9d3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Elon Musk’s SpaceX IPO could become bitcoin’s latest headwind",
-    "summary": "1. SpaceX setting aside up to 30% of IPO shares for retail investors could prompt investors to exit crypto assets like Bitcoin and Ethereum.",
-    "url": "https://www.theblock.co/post/404324/elon-musks-spacex-ipo-could-become-bitcoins-latest-headwind?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-10T19:10:39.000Z"
-  },
-  {
-    "id": "e2875880-2958-45dc-b435-38ede16f2df8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Ripple has launched an AI starter kit for the XRP Ledger, letting AI agents pay for digital services using XRP and RLUSD via the x402 protocol.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#34b54815",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-10T19:09:49+00:00"
-  },
-  {
-    "id": "1e2696d7-c2d6-4d50-b881-578cb9c6ae5c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$1.1 trillion wiped out of Gold's market cap today.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d3cc2444",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-10T19:01:05+00:00"
-  },
-  {
-    "id": "46b00d06-bf4c-45d5-9d19-3a0db00847d3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
-    "summary": "1. The acquisition comes amid a moment of consolidation in the crypto industry and during a resurgent interest in onchain privacy.",
-    "url": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-10T18:58:51.000Z"
-  },
-  {
-    "id": "f32b7d8e-b2d3-4d32-9d33-8eaa7a96daf1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "UK crypto advocates launch campaign against banks blocking exchange transfers",
-    "summary": "1. Stand With Crypto UK says banks are restricting access to regulated exchanges even as policymakers seek to position the country as a hub for digital asset innovation.",
-    "url": "https://cointelegraph.com/news/uk-crypto-advocates-launch-campaign-against-banks-blocking-exchange-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-06-10T18:55:00.000Z"
-  },
-  {
-    "id": "ccc802de-0026-47f9-95cd-c2366ec268e5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Reclaims $62K as Trump Strikes Iran, Leaving $94M in Trades Wiped Out",
-    "summary": "1. Bitcoin reclaimed the $62,000 threshold on Wednesday, recovering from an intraday drop to $60,679 and driving the overall crypto market valuation to $2.21 trillion.\n2. Middle East Conflict Escalates Following Helicopter Downing Bitcoin on Wednesday appeared to shrug off overnight military exchanges between U.S.\n3. and Iranian forces, reclaiming the $62,000 level just hours after briefly slipping […]",
-    "url": "https://news.bitcoin.com/bitcoin-reclaims-62k-as-trump-strikes-iran-leaving-94m-in-trades-wiped-out/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-10T18:50:56.000Z"
-  },
-  {
-    "id": "742d8db3-64e3-43ec-aeaa-1313bd38c234",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Pending Bank of Japan rate decision may impact Bitcoin price: Should traders prepare?",
-    "summary": "1. Bitcoin’s average price response to Bank of Japan rate hikes was a 22.5% sell-off.\n2. Will BOJ’s upcoming policy decision trigger another BTC price crash?",
-    "url": "https://cointelegraph.com/markets/can-bitcoin-avoid-another-sell-off-after-a-bank-of-japan-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-06-10T18:41:15.000Z"
   }
 ]
