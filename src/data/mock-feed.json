@@ -1,5 +1,85 @@
 [
   {
+    "id": "2348dac6-6b20-4e15-bdb5-b4317d52c88e",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Why Scott Pelley Doesn’t Matter:",
+    "url": "https://trumpstruth.org/statuses/39223",
+    "author": "Trump Truth",
+    "created_at": "2026-06-12T01:49:56.000Z"
+  },
+  {
+    "id": "b742e9d3-405f-4f58-b379-9c3ab267dac2",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. US attorney in California suspects voter fraud investigation will result in charges:",
+    "url": "https://trumpstruth.org/statuses/39224",
+    "author": "Trump Truth",
+    "created_at": "2026-06-12T01:49:39.000Z"
+  },
+  {
+    "id": "0d880b82-513c-43f0-99b8-7b83a5e72d28",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Congress passes immigration funding bill, delivering major win for Trump after Democrat antics:",
+    "url": "https://trumpstruth.org/statuses/39225",
+    "author": "Trump Truth",
+    "created_at": "2026-06-12T01:49:15.000Z"
+  },
+  {
+    "id": "4d9664c2-a8aa-4ed1-b4e0-e9d96fb48533",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "summary": "1. Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "author": "Anna Heim",
+    "created_at": "2026-06-12T01:48:07.000Z"
+  },
+  {
+    "id": "7e85d6ca-1265-44be-ac80-8189ea844b83",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Gets AI Agent Payment Support in Ripple’s XRPL AI Starter Kit as Executive Sees Billions Ahead",
+    "summary": "1. XRP is being positioned for AI-driven commerce as Ripple launches a developer toolkit that enables autonomous software to transact on the XRP Ledger.\n2. The XRPL AI Starter Kit adds support for XRP and RLUSD payments, while Ripple executives argue agent-to-agent transactions could eventually move billions in value.\n3. XRP Takes a Bigger AI Payments Role as […]",
+    "url": "https://news.bitcoin.com/xrp-gets-ai-agent-payment-support-in-ripples-xrpl-ai-starter-kit-as-executive-sees-billions-ahead/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-12T01:30:24.000Z"
+  },
+  {
+    "id": "094527c8-fd34-43d7-b391-68c4da1a2078",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.174",
+    "summary": "1. ## What's changed\n\n- Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll acceleration in fullscreen mode\n- Fixed the `/model` picker hiding the model family that Default resolves to — Opus now appears as its own row on Max/Team Premium/Enterprise plans, Sonnet on Pro/Team plans, and Opus on pay-as-you-go API accounts\n- Fixed `/model` picker showing a hardcoded Sonnet version label when `ANTHROPIC_DEFAULT_SONNET_MODEL` pins a different Sonnet\n- Fixed the \"Fable 5 is now consuming usage credits\" banner incorrectly showing for enterprise accounts with usage-based billing\n- Fixed Bedrock GovCloud regions (`us-gov-*`) deriving the wrong inference profile prefix (`global` instead of `us-gov`), causing 400 errors on derived model IDs\n- Fixed background sessions inheriting another session's `ANTHROPIC_*` provider env (gateway URL, custom headers, `/model` aliases) from the shell that started the background daemon\n- Fixed a 1-2 second pause when exiting Claude Code shortly after a shell command was interrupted or killed on macOS and Linux\n- Fixed git commit co-author attribution showing an incorrect model name for some models\n- Fixed the `/advisor` dialog pre-selecting a saved advisor model that is blocked by the `availableModels` allowlist\n- Fixed skill hot-reload re-sending the entire skill listing when a single skill changed; only changed skills are now re-announced\n- Fixed Workflow tool `agent()` subagents missing per-agent attribution headers\n- [VSCode] Added usage attribution to the Account & usage dialog (`/usage`) showing cache misses, long context, subagents, and per-skill/agent/plugin/MCP breakdowns over the last 24h or 7d\n- Fixed pre-warmed background workers failing with \"Could not resolve authentication method\" when claimed after sitting idle",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.174",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-12T01:16:36Z"
+  },
+  {
+    "id": "e0ed678f-d87f-4794-8c60-40bd86a5fe12",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "summary": "1. The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "author": "Marina Temkin",
+    "created_at": "2026-06-12T01:04:38.000Z"
+  },
+  {
+    "id": "f9b76e54-2d98-4fef-bdd8-a3489869c264",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Millions Recovered in Crypto as $100M Fraud Scheme Falls Apart",
+    "summary": "1. A federal fraud case led to major crypto seizures after prosecutors said nearly $100 million moved through bank accounts and exchanges.\n2. Authorities seized some $7.1 million from digital wallets tied to the scheme, while prosecutors separately seek $24,707,031 in restitution.\n3. Crypto Seizures Show How Fraud Proceeds Moved Through Digital Markets Millions of dollars in cryptocurrency […]",
+    "url": "https://news.bitcoin.com/millions-recovered-in-crypto-as-100m-fraud-scheme-falls-apart/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-12T00:30:02.000Z"
+  },
+  {
     "id": "3077e2c2-eaa5-4e4b-97c5-e9deeb6be0cb",
     "source": "The Defiant",
     "type": "rss",
@@ -328,185 +408,5 @@
     "url": "https://t.me/CoinnessGL#2d68cf17",
     "author": "@CoinnessGL",
     "created_at": "2026-06-11T20:19:37+00:00"
-  },
-  {
-    "id": "91fcb85f-fdd5-4737-86c6-09a05eefd980",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Americans secretly drove as much as $34 billion in offshore prediction market bets, new report claims",
-    "summary": "1. A new report from a boutique consulting firm claims that nearly a third of U.S.\n2. prediction market volume occurs on offshore platforms.",
-    "url": "https://www.theblock.co/post/404505/americans-secretly-drove-34-billion-offshore-prediction-market-bets-report-claims?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-11T20:15:54.000Z"
-  },
-  {
-    "id": "8752e016-55fc-4957-bfac-bcea15a87cad",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
-    "summary": "1. The company's fully diluted value will be about $1.8 trillion, with the stock set to open for trade on Friday on the Nasdaq.",
-    "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever",
-    "author": "Helene Braun",
-    "created_at": "2026-06-11T20:12:46.000Z"
-  },
-  {
-    "id": "dbb84855-20d1-4cb8-879e-86ee746cc784",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump says all on Iranian side have approved agreement",
-    "summary": "U.S. President Donald Trump said all parties on the Iranian side have approved an agreement.",
-    "url": "https://t.me/CoinnessGL#66c0016b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T20:05:52+00:00"
-  },
-  {
-    "id": "f6f61b72-34f3-4fe4-9601-fbde06e8cc92",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-    "summary": "1. After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-    "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-    "author": "Marina Temkin",
-    "created_at": "2026-06-11T19:58:01.000Z"
-  },
-  {
-    "id": "ebfb9bf9-ed46-44e2-b04c-c86331e19512",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump says US-Iran deal in final stages, could be signed this weekend",
-    "summary": "U.S. President Donald Trump announced on June 11 that a very good agreement has been reached with Iran regarding its nuclear program, adding that the relevant documents are in their final stages. He said the deal is expected to be finalized within days and could be signed in Europe this weekend, with Vice President JD Vance scheduled to attend the ceremony. Trump also noted that the Strait of Hormuz would be opened if Iran signs the agreement. Iran has not yet issued an official response.",
-    "url": "https://t.me/CoinnessGL#86f0c92a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T19:48:18+00:00"
-  },
-  {
-    "id": "814ab9c0-df8d-4812-ae15-3c03dd95660c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "JPMorgan’s Jamie Dimon Praises the Mexican Economy in High-Stakes Meeting With President Sheinbaum",
-    "summary": "1. After a recent meeting with Mexico’s President Claudia Sheinbaum at Mexico’s National Palace, Dimon stated that Mexico has a large opportunity to grow over the next 20 years, underscoring developments in energy, infrastructure and tech projects on Mexican soil.\n2. JPMorgan CEO Jamie Dimon Highlights Opportunities in Mexico’s Growing Economy JPMorgan Chairman and CEO Jamie Dimon […]",
-    "url": "https://news.bitcoin.com/jpmorgans-jamie-dimon-praises-the-mexican-economy-in-high-stakes-meeting-with-president-sheinbaum/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-11T19:45:00.000Z"
-  },
-  {
-    "id": "bff650c3-cf4d-4ac1-bc6d-2cd2681324e7",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Bitcoin Rises Above $63,000 as Trump Cancels Iran Strikes and Signals Peace Deal",
-    "summary": "1. Bitcoin climbed above $63,000 Thursday after President Trump announced via Truth Social that he was canceling scheduled U.S.\n2. military strikes against Iran and signaling that a multi-nation agreement was close, citing approvals from Israel, Saudi Arabia, the UAE, Qatar, Turkey, and other regional",
-    "url": "https://thedefiant.io/news/markets/bitcoin-rises-above-63000-trump-cancels-iran-strikes-peace-deal",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-11T19:45:00.000Z"
-  },
-  {
-    "id": "cf9b0b22-3342-478a-ac5f-c27fd7185549",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "DBS Bank to Offer Tokenized Physical Gold to Retail Customers in Singapore",
-    "summary": "1. Singapore largest bank will let retail customers buy, hold and trade tokenized gold backed by 1 gram of physical bullion stored in a DBS vault, launching via its digibank app in H2 2026.",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-bank-tokenized-physical-gold-retail-singapore",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-11T19:44:08.000Z"
-  },
-  {
-    "id": "c8583a50-7c1b-418e-9c10-20b25795f2ff",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Bluesky launches group chats, as company shifts focus to community features",
-    "summary": "1. Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
-    "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
-    "author": "Sarah Perez",
-    "created_at": "2026-06-11T19:41:05.000Z"
-  },
-  {
-    "id": "be024ad5-77c0-4d60-a99f-8d127aa1258b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?",
-    "summary": "1. ETH traders increased their long positions as Ether price traded near 2026 lows.\n2. Will ETH’s rebound eclipse the BTC recovery?",
-    "url": "https://cointelegraph.com/markets/ether-bulls-ramp-up-risk-above-16k-can-buyers-regain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Biraajmaan Tamuly",
-    "created_at": "2026-06-11T19:37:41.000Z"
-  },
-  {
-    "id": "a9ea8024-ce2f-44c3-887d-8a600207be80",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Coinbase Launches Tool That Lets AI Agents Trade Crypto and Make Payments for Users",
-    "summary": "1. Coinbase's new product allows AI agents to execute crypto trades, payments, and portfolio management tasks within user-defined limits.",
-    "url": "https://decrypt.co/370835/coinbase-tool-ai-agents-trade-crypto-make-payments",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-11T19:29:44.000Z"
-  },
-  {
-    "id": "84033fc3-ee8d-4454-836f-02ba03a7d23b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇯🇵 Japan’s Lower House has passed a bill to classify crypto assets as financial instruments, potentially lowering the top tax rate from 55% to 20%.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0957a63e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-11T19:24:12+00:00"
-  },
-  {
-    "id": "ed9fb732-5a54-4565-9114-26f92eba2f80",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Arbitrum token jumps 5% on news LG Electronics is building a new blockchain",
-    "summary": "1. LG’s new Arbitrum-based blockchain will serve as a platform for placing, buying, selling, and managing digital ads.",
-    "url": "https://www.theblock.co/post/404494/arbitrum-token-jumps-5-news-lg-electronics-building-new-blockchain?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-11T19:15:42.000Z"
-  },
-  {
-    "id": "b3906ae4-c7ea-4788-820b-afa652564ceb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "The Zero-Sum Game: Scott Bessent Threatens Unprecedented Economic Payback Against Iran",
-    "summary": "1. On social media, Bessent stated that any damages and expenses caused by Iranian attacks on the U.S.’s Gulf allies would be offset with funds extracted from Iranian accounts.\n2. Iranian officials claim there are over $100 billion in assets blocked due to U.S sanctions.\n3. Treasury Secretary Scott Bessent Warns Iran Will Deepen Its Financial Downfall With […]",
-    "url": "https://news.bitcoin.com/the-zero-sum-game-scott-bessent-threatens-unprecedented-economic-payback-against-iran/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-11T19:01:38.000Z"
-  },
-  {
-    "id": "c1146c44-816f-4d18-b2e7-4fc73670d1cd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Digital Asset has raised $355 million for its Canton Network blockchain, with backers including a16z, Citadel Securities, and HSBC.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0ea961fe",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-11T18:49:34+00:00"
-  },
-  {
-    "id": "d4ace111-3ce8-4008-91b9-4dde13da5e6b",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran has not yet approved any US agreement text, with talks still focused on final termsTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#4a3d6502",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-11T18:30:41+00:00"
-  },
-  {
-    "id": "80f245e0-d004-4817-8d53-2b52f34245ff",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Three signs that XRP price risks falling below $1 in June",
-    "summary": "1. XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe chart, both indicating a dip below $1 in the coming days.",
-    "url": "https://cointelegraph.com/markets/three-signs-that-xrp-price-risks-falling-below-1-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Yashu Gola",
-    "created_at": "2026-06-11T18:29:54.000Z"
-  },
-  {
-    "id": "874444d7-2193-4566-9eac-588598d6eec3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Report: Hungary Drops Criminal Penalties for Crypto After Orban’s 16-Year Rule Ends",
-    "summary": "1. Hungary’s new government revealed this week that it will fully decriminalize cryptocurrency trading and dismantle the punitive regulatory framework imposed under former Prime Minister Viktor Orban, removing jail sentences of up to eight years for ordinary users and providers, according to Bloomberg.\n2. A Sharp Reversal After One Election The Bloomberg report follows the April 12, […]",
-    "url": "https://news.bitcoin.com/report-hungary-drops-criminal-penalties-for-crypto-after-orbans-16-year-rule-ends/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-11T18:20:32.000Z"
   }
 ]
