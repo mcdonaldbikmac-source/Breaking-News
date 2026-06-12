@@ -1,5 +1,175 @@
 [
   {
+    "id": "6139c4e8-5937-4dea-bde2-7cd718a963ef",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
+    "summary": "1. The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
+    "url": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-12T10:24:40.000Z"
+  },
+  {
+    "id": "3bbd081d-2bc2-4fa9-9776-38e8cadd52fc",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
+    "summary": "1. The South Korean tech giant built a custom layer-2 network with Arbitrum for an advertising platform set to launch this year.",
+    "url": "https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-12T10:23:39.000Z"
+  },
+  {
+    "id": "2f1e1450-fa71-4a41-9a8d-9fb075f1272e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trust Wallet adds support for Binance's bStocks",
+    "summary": "Trust Wallet (TWT) announced on its official X account that it now supports Binance's stock tokenization service, bStocks.",
+    "url": "https://t.me/CoinnessGL#82889a02",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T10:09:58+00:00"
+  },
+  {
+    "id": "2ac5da1c-fd20-4852-9e40-f6e8c80c3733",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000",
+    "summary": "1. Bitwise's Dragosch sees up to 20% more bitcoin downside, with the long-term holder cost basis at $48,000 the \"max pain\" scenario.",
+    "url": "https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-06-12T10:02:30.000Z"
+  },
+  {
+    "id": "edcc179c-75db-4b38-8adb-7789fc5c2117",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Circle transfers $4.4B in USDC from HyperEVM to Coinbase",
+    "summary": "Circle, the issuer of the world's second-largest stablecoin USDC, transferred 4.397 billion USDC, worth approximately $4.4 billion, from HyperEVM to Coinbase about five hours ago, on-chain analysis platform Arkham (ARKM) reported. This marks the largest-ever single transfer of USDC.",
+    "url": "https://t.me/CoinnessGL#aac4067a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T10:00:13+00:00"
+  },
+  {
+    "id": "01f5b566-a178-4bd9-a91f-bbcf6c38dac0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans",
+    "summary": "1. The approximately $13.1 million acquisition gives Metaplanet a regulated securities platform to develop Bitcoin-linked investment products.",
+    "url": "https://www.coindesk.com/markets/2026/06/12/metaplanet-buys-siiibo-securities-to-accelerate-bitcoin-financial-ecosystem-plans",
+    "author": "James Van Straten",
+    "created_at": "2026-06-12T10:00:12.000Z"
+  },
+  {
+    "id": "a25eaea9-467d-42e7-b415-abd49aaf4934",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto scammers exploit World Cup ticket demand, TRM warns",
+    "summary": "1. FIFA and the FBI warned of ticket scams as TRM Labs identified World Cup-themed crypto fraud operations tied to multiple wallet addresses.",
+    "url": "https://cointelegraph.com/news/trm-world-cup-crypto-scams-fake-tickets-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-06-12T09:52:36.000Z"
+  },
+  {
+    "id": "a124fd2b-0f23-4f9a-8c46-07e638c0ca25",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products",
+    "summary": "1. Metaplanet CEO Simon Gerovich said the deal is expected to close in July, and the company plans to rename the business Metaplanet Securities.",
+    "url": "https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-12T09:39:38.000Z"
+  },
+  {
+    "id": "619bb1de-a50b-44f7-bb9f-5188365475df",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "SEC proposes scrapping the 20-year Order Protection Rule, which requires trades to go to the exchange offering the best price, potentially clearing a path for on-chain tokenized equitiesTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#56289e9e",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-12T09:39:31+00:00"
+  },
+  {
+    "id": "6d50059f-335e-41ab-952e-5131f3d36892",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Rumor suggests US may use USD1 stablecoin for $12B Iran asset payment",
+    "summary": "Following the release of details from a U.S.-Iran peace memorandum of understanding (MOU) by Iran's Mehr News Agency, a rumor is circulating on social media platforms, including X, regarding the unfreezing of $12 billion in Iranian assets. The payment, which represents half of a $24 billion total to be released before negotiations, could be made using USD1, a stablecoin from the DeFi project World Liberty Financial (WLFI), according to the rumor. The project is described as having close ties to President Donald Trump.The crypto news account Solid Intel added that officials are reportedly considering this possibility, with any transaction requiring approval through a governance vote by World Liberty Financial. The rumor has not been confirmed by the U.S. or Iranian governments, nor by World Liberty Financial.",
+    "url": "https://t.me/CoinnessGL#8df9db60",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T09:38:00+00:00"
+  },
+  {
+    "id": "bd6c1392-899a-45ac-84a4-8afb1e832abe",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘I Never Said the Company Could Not Sell Bitcoin’: Saylor Walks Back ‘Never Sell’ at BTC Prague",
+    "summary": "1. Strategy founder Michael Saylor told the BTC Prague conference he “never said the company could not sell bitcoin,” clarifying the firm may sell BTC when necessary after its first-ever sale rattled holders.\n2. ‘Never Sell’ Was Advice for Individuals Strategy Inc.\n3. (Nasdaq: MSTR) founder and chairman Michael Saylor told attendees at the BTC Prague conference on […]",
+    "url": "https://news.bitcoin.com/saylor-never-sell-bitcoin-btc-prague-strategy/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-12T09:30:17.000Z"
+  },
+  {
+    "id": "91b42c95-5a9b-4079-bf41-8a68c59dd803",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🚨 Immunefi CEO Mitchell Amador says frontier AI models have triggered a \"vulnerability apocalypse\" in crypto security, giving attackers a major edge that could take 3-4 years to reverse.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#afbec3a0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T09:14:41+00:00"
+  },
+  {
+    "id": "49c2b8b7-d039-484d-ba07-36d1e8ace3a0",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "The $12B payment of Iran’s frozen assets could be made in $USD1, the Trump-linked World Liberty Financial stablecoin.",
+    "summary": "All transactions expected to be approved through democratic votes by the World Liberty Financial forum, according to sources close to the matterTwitter",
+    "url": "https://t.me/SolidIntelX#ea31cb4d",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-12T09:11:55+00:00"
+  },
+  {
+    "id": "656574a2-e3ed-4089-bd4b-162618ea1cbf",
+    "source": "The Block",
+    "type": "rss",
+    "title": "AI buildout weighs on bitcoin demand but future gains could reverse trend, Relai CEO says",
+    "summary": "1. Julian Liniger, CEO of Relai, said the current bitcoin bear market is driven in part by liquidity absorbed by AI investments.",
+    "url": "https://www.theblock.co/post/404554/ai-buildout-weighs-on-bitcoin-demand-relai-ceo?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-12T09:00:55.000Z"
+  },
+  {
+    "id": "8d8e7dea-aa1c-4ab6-9586-935530ce0d77",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The nation’s cartoonists on the week in politics",
+    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
+    "url": "https://www.politico.com/gallery/2026/06/12/the-nations-cartoonists-on-the-week-in-politics-00960253",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-06-12T09:00:00.000Z"
+  },
+  {
+    "id": "39d5654e-705d-4e08-9ba1-22d9ce00cdbc",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Sygnum CIO Fabian Dori says exchange flows, stablecoin supply, and derivatives data don't support the theory that Bitcoin ETF outflows are being driven by investor rotation into the SpaceX IPO.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#03f2e617",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T08:59:20+00:00"
+  },
+  {
+    "id": "ee90c13e-ebd9-4c6a-9e4a-9ab0cdd03ef5",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Reported US-Iran framework would trade a 60-day regional ceasefire and phased sanctions/blockade relief for renewed nuclear talks:- 60-day ceasefire, including Lebanon- Hormuz to reopen without tolls, with pre-war shipping targeted within 30 days- US to lift naval blockade and waive Iran oil sanctions for 60 days- Iran to receive $24B in funds over the negotiation period- Iran pledges no nuclear weapon and discusses UN-supervised down-blending of enriched uranium- Missile program excluded from talksNo final text has been approved, with nuclear terms still the main sticking pointTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#bea80112",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-12T08:35:48+00:00"
+  },
+  {
     "id": "bc154c86-3bea-4e82-af1e-1cd75680e7a0",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -8,6 +178,16 @@
     "url": "https://news.bitcoin.com/xrp-sentiment-lowest-since-october-2025-santiment/",
     "author": "Shiraz Jagati",
     "created_at": "2026-06-12T08:30:49.000Z"
+  },
+  {
+    "id": "2b35cd30-2637-413d-84bf-d42c58a3d18b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Weekly Top Gainers 1️⃣ Audiera: +413.96% 2️⃣ Stargate Finance: +178.35% 3️⃣...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#689fad5a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T08:24:34+00:00"
   },
   {
     "id": "48f93608-c48d-4d0e-b16d-2cd4fcac4797",
@@ -38,6 +218,16 @@
     "url": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Martin Young",
     "created_at": "2026-06-12T07:12:06.000Z"
+  },
+  {
+    "id": "72e4a317-0b51-4b11-a5a6-c30540d81589",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
+    "summary": "1. An 8-A share registration filing, in this case for Nasdaq, is usually one of the last steps before an ETF goes live.",
+    "url": "https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-12T07:07:34.000Z"
   },
   {
     "id": "ebe3271b-c079-40d6-b7b5-5bf65f994d1c",
@@ -178,105 +368,5 @@
     "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
     "author": "Ivan Mehta",
     "created_at": "2026-06-12T04:30:00.000Z"
-  },
-  {
-    "id": "f5ba5d7d-62a2-459d-8bfc-7f33a7b417f2",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.175",
-    "summary": "1. ## What's changed\n\n- Added `enforceAvailableModels` managed setting — when enabled, the `availableModels` allowlist also constrains the Default model (a Default that would resolve to a disallowed model now falls back to the first allowed model), and user or project settings can no longer widen a managed `availableModels` list",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.175",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-12T04:23:51Z"
-  },
-  {
-    "id": "62a773f8-8b1d-459f-8630-3a751fffc95f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "LAB risen 4.41% in the past 5 minutes",
-    "summary": "LAB has risen by 4.41% in the past five minutes on the COINNESS market. Currently, LAB is trading at $10.19.",
-    "url": "https://t.me/CoinnessGL#3289d68f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-12T04:22:58+00:00"
-  },
-  {
-    "id": "41b63b91-db4b-46b3-ab19-319194746522",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Coinbase launches tool letting AI agents make payments and trade crypto",
-    "summary": "1. Coinbase for Agents will let users of the crypto exchange manage their holdings “without the constant manual oversight” and can autonomously perform a range of tasks.",
-    "url": "https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-12T04:19:03.000Z"
-  },
-  {
-    "id": "973ca3c3-d402-49e1-9a55-a3541071c7a1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Avalanche Treasury Co. falls 16% as it debuts on Nasdaq",
-    "summary": "1. The Avalanche Treasury holds about 15 million of the blockchain’s native token, AVAX, which is trading at a five-year low.",
-    "url": "https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-12T04:16:51.000Z"
-  },
-  {
-    "id": "d87c3f62-1337-42f3-b8d8-904e62d0562c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts",
-    "summary": "1. Galaxy's Thorn said this would remove barriers that prevented DeFi automated market makers from trading tokenized US equities at scale.",
-    "url": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-12T04:15:13.000Z"
-  },
-  {
-    "id": "6788e457-4658-4707-8984-84a9e3148c89",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot ETH ETFs see $15.9M net outflow",
-    "summary": "U.S. spot Ethereum ETFs recorded a net outflow of approximately $15.9 million, marking the third consecutive trading day of outflows, according to data from Farside Investors.The breakdown is as follows:- BlackRock (ETHA): +$8.6 million- Fidelity (FETH): -$20.5 million- Grayscale Mini ETH: -$4 million",
-    "url": "https://t.me/CoinnessGL#2919f0db",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-12T04:02:14+00:00"
-  },
-  {
-    "id": "febfaeb2-4e4c-4768-8a8c-e414630268eb",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The small-town voters deciding the UK’s future are demanding change, our focus group found",
-    "summary": "1. Residents are deeply frustrated with politics — and some would rather burn the system down than back Labour candidate Andy Burnham to challenge Prime Minister Keir Starmer.",
-    "url": "https://www.politico.com/news/2026/06/12/uk-makerfield-election-burnham-kenyon-issues-00959685",
-    "author": "By Tim Ross",
-    "created_at": "2026-06-12T04:01:00.000Z"
-  },
-  {
-    "id": "891b1fd6-fc15-4d88-8a95-66c1e13efb1e",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Lee Zeldin on rising gas prices, energy dominance and AI data centers",
-    "summary": "1. Lee Zeldin on rising gas prices, energy dominance and AI data centers",
-    "url": "https://www.politico.com/video/2026/06/11/lee-zeldin-on-rising-gas-prices-energy-dominance-and-ai-data-centers-2096933",
-    "author": "Politico",
-    "created_at": "2026-06-12T03:59:00.000Z"
-  },
-  {
-    "id": "040b7662-df67-453e-81cd-2e44a010fc8d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Avalanche Treasury (AVAT) closes down 38% on Nasdaq debut",
-    "summary": "Avalanche Treasury Co. (AVAT), a digital asset financial management platform within the Avalanche ecosystem, closed down 38.13% on its first day of trading on Nasdaq. According to data from Yahoo Finance, the stock opened at $2.99 and closed at $1.85 on June 11.",
-    "url": "https://t.me/CoinnessGL#d07cfca6",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-12T03:54:23+00:00"
-  },
-  {
-    "id": "2ebbdac7-a272-4cdf-b354-4e931a1a95a0",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple and Bitso Expand Stablecoin Settlement on XRP Ledger",
-    "summary": "1. Ripple and Bitso are expanding stablecoin settlement on the XRP Ledger, bringing MXNB and RLUSD into Ripple’s enterprise payments infrastructure.\n2. The effort focuses on the U.S.-Mexico corridor and aims to support regulated dollar-peso liquidity for institutions.\n3. XRP Ledger Deal Pushes Stablecoins Deeper Into US-Mexico Settlement Cross-border payments are becoming a major test case for regulated […]",
-    "url": "https://news.bitcoin.com/ripple-and-bitso-expand-stablecoin-settlement-on-xrp-ledger/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-12T03:30:53.000Z"
   }
 ]
