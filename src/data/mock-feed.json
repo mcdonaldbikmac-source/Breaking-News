@@ -1,5 +1,75 @@
 [
   {
+    "id": "3077e2c2-eaa5-4e4b-97c5-e9deeb6be0cb",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
+    "summary": "1. The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
+    "url": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-12T00:15:36.000Z"
+  },
+  {
+    "id": "cbe74791-c163-4bfe-914f-8d82870ff0cc",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Sara Baxter is a fantastic person, and highly qualified for many top political jobs but, on a somewhat selfish basis, I would rather have her stay on the Palm Beach County Commission (where so many important things are happening!), than run for Congress.\n2. Thank you Sara!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39222",
+    "author": "Trump Truth",
+    "created_at": "2026-06-12T00:11:42.000Z"
+  },
+  {
+    "id": "f91674e5-71b1-497b-a664-180cc00810dc",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO",
+    "summary": "1. Blockrise CEO Jos Lazet sees bitcoin-native institutions evolving into alternatives to banks, in an interview at BTC Prague.",
+    "url": "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-12T00:01:02.000Z"
+  },
+  {
+    "id": "85b66812-6b40-4678-b3c0-2c85062202ee",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Jamie Raskin, a Loser in Life, who worked endlessly during my First Term to impeach me, and failed miserably, wasting the Country’s money, time, and effort, will guaranteed be trying to do it again, despite one of the most successful Presidencies in History.\n2. The last one that went after me on Impeachment was a pathetic soul, Al Green, who just lost his race in a landslide to an unknown candidate but, in my opinion, one that had more talent than Raskin.\n3. He spent time on the Unselect Committee of Political Hacks and Thugs, and was rebuffed on that, just as he has been rebuffed on Impeachment, and many other things.",
+    "url": "https://trumpstruth.org/statuses/39221",
+    "author": "Trump Truth",
+    "created_at": "2026-06-11T23:50:06.000Z"
+  },
+  {
+    "id": "6cc950e1-3307-4a1d-82f7-fbf3e5a6801e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Eyes $2 as Binance Data Shows No Aggressive Whale Selling",
+    "summary": "1. XRP is trying to regain momentum toward $2 as Binance inflow data shows no fresh spike in large-holder deposits.\n2. Cryptoquant analysis found whale-sized transfers have eased after a 2025 peak, suggesting recent weakness may be tied more to liquidations and broader market pressure.\n3. Binance XRP Inflows Show Whale Selling Pressure May Be Easing XRP could […]",
+    "url": "https://news.bitcoin.com/xrp-eyes-2-as-binance-data-shows-no-aggressive-whale-selling/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-11T23:45:13.000Z"
+  },
+  {
+    "id": "3a2118a0-2795-4b4f-8a6f-7d193d2bd027",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Blackrock Files Final Pre-Launch Form for Bitcoin Covered-Call ETF, Analyst Gives 1-Week Window",
+    "summary": "1. Bloomberg Intelligence senior exchange-traded fund (ETF) analyst Eric Balchunas said on Thursday that Blackrock’s Ishares Bitcoin Premium Income ETF could be live on Nasdaq within a week after the firm filed a Form 8-A with the U.S.\n2. Securities and Exchange Commission (SEC).\n3. Balchunas Calls the Date “Blackrock filed an 8-A for the Bitcoin Premium Income […]",
+    "url": "https://news.bitcoin.com/blackrock-files-final-pre-launch-form-for-bitcoin-covered-call-etf-analyst-gives-1-week-window/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-11T23:05:34.000Z"
+  },
+  {
+    "id": "9d7daed1-2999-4002-b3bc-a7321c467d4d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+    "summary": "1. With $1.9 billion exiting the spot Bitcoin ETFs and tech stocks under pressure, BTC is failing as a hedge and at risk of falling below the $60,000 support.",
+    "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-06-11T22:58:52.000Z"
+  },
+  {
     "id": "c37a8bcd-57b5-48aa-b49c-8f402628252e",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -28,6 +98,16 @@
     "url": "https://t.me/CoinnessGL#d8768d9e",
     "author": "@CoinnessGL",
     "created_at": "2026-06-11T22:27:21+00:00"
+  },
+  {
+    "id": "34606ce9-3c4c-4d8b-8a8f-a657354719e8",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SpaceX Opens for Public Trading Friday With a Live Crypto Tokenized-Equity Stack Behind It",
+    "summary": "1. SpaceX begins trading on Nasdaq at 9:30 AM ET Friday under SPCX.\n2. The same morning, Ondo's SPCXon, Kraken's xStocks SPCXx, a Backpack Securities-issued SPCX token on Solana, and Hyperliquid's pre-IPO perpetual all settle into a single live tokenized-equity stack.",
+    "url": "https://thedefiant.io/news/markets/spacex-opens-for-public-trading-friday-with-a-live-crypto-tokenized-equity-stack",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-11T22:21:19.000Z"
   },
   {
     "id": "11f11eec-5b71-4abd-8926-ec7eea0aef17",
@@ -428,125 +508,5 @@
     "url": "https://news.bitcoin.com/report-hungary-drops-criminal-penalties-for-crypto-after-orbans-16-year-rule-ends/",
     "author": "Jamie Redman",
     "created_at": "2026-06-11T18:20:32.000Z"
-  },
-  {
-    "id": "5011b8ae-6fd1-4c3f-8525-56d09f26ed1d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 Singapore's DBS Bank will offer tokenized gold to retail customers in H2 2026, with each token backed by 1 gram of physical gold held in a vault.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a2979ce8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-11T18:14:44+00:00"
-  },
-  {
-    "id": "b49d0a13-3cbc-482a-ab09-364d2bf0143b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. I am pleased to announce the Nomination of very Highly Respected Jay Clayton, former Chairman of the Securities and Exchange Commission, the former Head of Sullivan & Cromwell, one of the most prominent and successful Law Firms anywhere in the World, and the current United States Attorney for the Southern District of New York, to be the next Director of National Intelligence and, importantly, to serve in my Cabinet.\n2. Few people anywhere in the Legal Community are respected at the level of Jay.\n3. I encourage the United States Senate to confirm Jay as soon as possible.",
-    "url": "https://trumpstruth.org/statuses/39219",
-    "author": "Trump Truth",
-    "created_at": "2026-06-11T18:00:34.000Z"
-  },
-  {
-    "id": "452e5974-d834-4935-a438-efc660faaae2",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Coinbase eyes World Cup boost as prediction markets surge: Bernstein",
-    "summary": "1. Bernstein says the 2026 FIFA World Cup could inject billions into prediction markets, with Coinbase and Robinhood positioned to capture a wave of new users.",
-    "url": "https://cointelegraph.com/news/coinbase-world-cup-prediction-market-boost-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-11T17:57:06.000Z"
-  },
-  {
-    "id": "87e79332-7479-483f-981b-fb8d59fd2a46",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web",
-    "summary": "1. Bitcoin Magazine\n\nU.S.\n2. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web\nFederal prosecutors charged two Eastern European nationals with operating AudiA6, a cryptocurrency mixing service and cybercrime platform that allegedly laundered nearly $400 million in bitcoin.\n3. This post U.S.",
-    "url": "https://bitcoinmagazine.com/news/u-s-charges-two-men-389-million-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-11T17:55:44.000Z"
-  },
-  {
-    "id": "6b6f6e79-462b-4d49-974d-8c0f2516f617",
-    "source": "The Block",
-    "type": "rss",
-    "title": "JPMorgan says debasement trade retreat has ‘accelerated’ for bitcoin",
-    "summary": "1. The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.",
-    "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-06-11T17:54:56.000Z"
-  },
-  {
-    "id": "69a5ad19-0608-42fc-ad3a-1620b476e7fa",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Coinbase now allows AI agents to trade crypto autonomously.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f0029f45",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-11T17:45:00+00:00"
-  },
-  {
-    "id": "0d84c039-a27e-4f32-b75a-42e9e37da39c",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Based on the fact that discussions with the Islamic Republic of Iran have been brought to the highest level of Iranian leadership and approved, I have, as President of the United States of America, cancelled the scheduled strikes and bombings against Iran this evening.\n2. Discussions and final points have been, in both concept and great detail, approved by all parties involved, including the United States, Israel, Saudi Arabia, UAE, Qatar, Turkey, Pakistan, Bahrain, Kuwait, Jordan, Egypt, and others.\n3. The Naval Blockade will remain in full force and effect until this Transaction is finalized — Time and place of the signing to be announced shortly.",
-    "url": "https://trumpstruth.org/statuses/39218",
-    "author": "Trump Truth",
-    "created_at": "2026-06-11T17:28:48.000Z"
-  },
-  {
-    "id": "39e32338-0b5e-4156-b3a7-c2b2f4f07ce7",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk's SpaceX projected to trade above $2 trillion valuation tomorrow.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d387cde0",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-11T17:24:19+00:00"
-  },
-  {
-    "id": "9459d207-2250-4c1b-bac6-e1b0c5dae178",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
-    "summary": "1. Bitcoin Magazine\n\nBitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network\nBitGo launched Lightning Earn, enabling institutional bitcoin holders to earn BTC-denominated fees by providing Lightning Network liquidity through an integration with Amboss Rails.\n2. This post BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitgo-launches-lightning-earn",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-11T17:09:53.000Z"
-  },
-  {
-    "id": "8bf0f3f1-463b-44d0-b729-bb3a1f80f428",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Exclusive: Cardano Foundation Recasts Itself as Active Adoption Driver as Hoskinson Pulls Back",
-    "summary": "1. The steward of the Cardano blockchain is seeding DeFi liquidity, backing an $80M venture fund and signing enterprise deals — a reversal of its hands-off posture that lands as onchain metrics fall and the network's founder feuds with it over governance.",
-    "url": "https://thedefiant.io/news/blockchains/exclusive-cardano-foundation-recasts-itself-as-active-adoption-driver-as-hoskinson-pulls-back",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-11T17:05:02.000Z"
-  },
-  {
-    "id": "efbc1297-e2ba-4553-a761-5013f503664e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
-    "summary": "1. \"Coinbase for Agents\" is a new platform that lets AI assistants like ChatGPT and Claude connect to users’ Coinbase accounts to trade crypto, access data and eventually make payments and purchases autonomously.",
-    "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-11T17:00:00.000Z"
-  },
-  {
-    "id": "b8fb32c2-b5f9-4eec-9bf5-f357a769836a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "A Biden ambassador reveals how the previous White House misread the border",
-    "summary": "1. Ken Salazar detailed his qualms with the Biden administration’s border plan — and how he wants to stop 2028 Democrats from repeating those mistakes.",
-    "url": "https://www.politico.com/news/2026/06/11/ken-salazar-biden-border-security-2028-00958607",
-    "author": "By Samuel Benson",
-    "created_at": "2026-06-11T17:00:00.000Z"
   }
 ]
