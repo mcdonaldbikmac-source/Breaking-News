@@ -1,5 +1,35 @@
 [
   {
+    "id": "cb1d9e1e-8a02-4d0f-8f3f-1d0b2b59dabc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
+    "summary": "1. Onchain data shows the bitcoin market price is only just above its realized price and demand is weakening, especially from ETFs.",
+    "url": "https://www.coindesk.com/markets/2026/06/12/while-bitcoin-holds-near-usd63-000-some-data-points-to-pain-ahead-for-bulls",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-12T10:41:24.000Z"
+  },
+  {
+    "id": "aaf38795-d80b-44c6-af03-9f6843d84bbd",
+    "source": "The Block",
+    "type": "rss",
+    "title": "There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder",
+    "summary": "1. Bitcoin Ekasi's Hermann Vivier emphasized that bitcoin's store-of-value narrative does not exist without usage as a medium of exchange.",
+    "url": "https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-12T10:30:53.000Z"
+  },
+  {
+    "id": "da76f67e-2b92-4ca5-83de-d21a097f4c5c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CFTC’s Mike Selig Vows to End Regulation by Enforcement as He Steers US Crypto Solo",
+    "summary": "1. Commodity Futures Trading Commission (CFTC) Chair Mike Selig said crypto markets have “for too long” operated under uncertainty, vowing clear rules over enforcement even as he becomes the agency’s only sitting commissioner.\n2. ‘Not Regulating by Enforcement’ Selig, confirmed to lead the CFTC in December 2025, used remarks this week to draw a hard line under […]",
+    "url": "https://news.bitcoin.com/cftc-mike-selig-end-regulation-by-enforcement/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-12T10:30:23.000Z"
+  },
+  {
     "id": "6139c4e8-5937-4dea-bde2-7cd718a963ef",
     "source": "The Defiant",
     "type": "rss",
@@ -328,45 +358,5 @@
     "url": "https://www.theblock.co/post/404523/avalanche-treasury-nasdaq-debut?utm_source=rss&utm_medium=rss",
     "author": "Timmy Shen",
     "created_at": "2026-06-12T05:14:10.000Z"
-  },
-  {
-    "id": "40cb9e23-9df2-4d6c-a368-093271c24c58",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "LG, Arbitrum launch blockchain-based bid for $679B ad market",
-    "summary": "1. LG is building a blockchain focused on buying and selling ads, joining a wave of companies launching their own blockchains in recent years.",
-    "url": "https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-06-12T04:32:04.000Z"
-  },
-  {
-    "id": "08f24b3b-d549-4f88-b630-07dba2b693b8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Brazil Introduces Bill 2946 to Turn Central Bank Crypto Rules Into Federal Law",
-    "summary": "1. Bill 2,946/2026, introduced by Federal Deputy Jonas Donizette, enshrines the VASP rules adopted by the Central Bank of Brazil in Resolution 519 and other resolutions as law, bringing stability and certainty to the Brazilian cryptocurrency market and its users.\n2. Bill Aims To Set Central Bank VASP Resolutions As Law Brazil is currently evolving its cryptocurrency […]",
-    "url": "https://news.bitcoin.com/brazil-introduces-bill-2946-to-turn-central-bank-crypto-rules-into-federal-law/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-12T04:30:03.000Z"
-  },
-  {
-    "id": "61306639-7bc9-436d-aff4-7c7744c75ebe",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-    "summary": "1. Avataar AI's distilled video model is priced at $0.005 for every second of generation",
-    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-06-12T04:30:00.000Z"
-  },
-  {
-    "id": "5e47ac8b-f5ec-4195-81b4-ed64928d1a64",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-    "summary": "1. Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
-    "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-06-12T04:30:00.000Z"
   }
 ]
