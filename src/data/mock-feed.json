@@ -1,5 +1,115 @@
 [
   {
+    "id": "08f24b3b-d549-4f88-b630-07dba2b693b8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Brazil Introduces Bill 2946 to Turn Central Bank Crypto Rules Into Federal Law",
+    "summary": "1. Bill 2,946/2026, introduced by Federal Deputy Jonas Donizette, enshrines the VASP rules adopted by the Central Bank of Brazil in Resolution 519 and other resolutions as law, bringing stability and certainty to the Brazilian cryptocurrency market and its users.\n2. Bill Aims To Set Central Bank VASP Resolutions As Law Brazil is currently evolving its cryptocurrency […]",
+    "url": "https://news.bitcoin.com/brazil-introduces-bill-2946-to-turn-central-bank-crypto-rules-into-federal-law/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-12T04:30:03.000Z"
+  },
+  {
+    "id": "5e47ac8b-f5ec-4195-81b4-ed64928d1a64",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+    "summary": "1. Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+    "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-06-12T04:30:00.000Z"
+  },
+  {
+    "id": "f5ba5d7d-62a2-459d-8bfc-7f33a7b417f2",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.175",
+    "summary": "1. ## What's changed\n\n- Added `enforceAvailableModels` managed setting — when enabled, the `availableModels` allowlist also constrains the Default model (a Default that would resolve to a disallowed model now falls back to the first allowed model), and user or project settings can no longer widen a managed `availableModels` list",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.175",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-12T04:23:51Z"
+  },
+  {
+    "id": "62a773f8-8b1d-459f-8630-3a751fffc95f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "LAB risen 4.41% in the past 5 minutes",
+    "summary": "LAB has risen by 4.41% in the past five minutes on the COINNESS market. Currently, LAB is trading at $10.19.",
+    "url": "https://t.me/CoinnessGL#3289d68f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T04:22:58+00:00"
+  },
+  {
+    "id": "d87c3f62-1337-42f3-b8d8-904e62d0562c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts",
+    "summary": "1. Galaxy's Thorn said this would remove barriers that prevented DeFi automated market makers from trading tokenized US equities at scale.",
+    "url": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-12T04:15:13.000Z"
+  },
+  {
+    "id": "6788e457-4658-4707-8984-84a9e3148c89",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot ETH ETFs see $15.9M net outflow",
+    "summary": "U.S. spot Ethereum ETFs recorded a net outflow of approximately $15.9 million, marking the third consecutive trading day of outflows, according to data from Farside Investors.The breakdown is as follows:- BlackRock (ETHA): +$8.6 million- Fidelity (FETH): -$20.5 million- Grayscale Mini ETH: -$4 million",
+    "url": "https://t.me/CoinnessGL#2919f0db",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T04:02:14+00:00"
+  },
+  {
+    "id": "febfaeb2-4e4c-4768-8a8c-e414630268eb",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The small-town voters deciding the UK’s future are demanding change, our focus group found",
+    "summary": "1. Residents are deeply frustrated with politics — and some would rather burn the system down than back Labour candidate Andy Burnham to challenge Prime Minister Keir Starmer.",
+    "url": "https://www.politico.com/news/2026/06/12/uk-makerfield-election-burnham-kenyon-issues-00959685",
+    "author": "By Tim Ross",
+    "created_at": "2026-06-12T04:01:00.000Z"
+  },
+  {
+    "id": "891b1fd6-fc15-4d88-8a95-66c1e13efb1e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Lee Zeldin on rising gas prices, energy dominance and AI data centers",
+    "summary": "1. Lee Zeldin on rising gas prices, energy dominance and AI data centers",
+    "url": "https://www.politico.com/video/2026/06/11/lee-zeldin-on-rising-gas-prices-energy-dominance-and-ai-data-centers-2096933",
+    "author": "Politico",
+    "created_at": "2026-06-12T03:59:00.000Z"
+  },
+  {
+    "id": "040b7662-df67-453e-81cd-2e44a010fc8d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Avalanche Treasury (AVAT) closes down 38% on Nasdaq debut",
+    "summary": "Avalanche Treasury Co. (AVAT), a digital asset financial management platform within the Avalanche ecosystem, closed down 38.13% on its first day of trading on Nasdaq. According to data from Yahoo Finance, the stock opened at $2.99 and closed at $1.85 on June 11.",
+    "url": "https://t.me/CoinnessGL#d07cfca6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T03:54:23+00:00"
+  },
+  {
+    "id": "2ebbdac7-a272-4cdf-b354-4e931a1a95a0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple and Bitso Expand Stablecoin Settlement on XRP Ledger",
+    "summary": "1. Ripple and Bitso are expanding stablecoin settlement on the XRP Ledger, bringing MXNB and RLUSD into Ripple’s enterprise payments infrastructure.\n2. The effort focuses on the U.S.-Mexico corridor and aims to support regulated dollar-peso liquidity for institutions.\n3. XRP Ledger Deal Pushes Stablecoins Deeper Into US-Mexico Settlement Cross-border payments are becoming a major test case for regulated […]",
+    "url": "https://news.bitcoin.com/ripple-and-bitso-expand-stablecoin-settlement-on-xrp-ledger/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-12T03:30:53.000Z"
+  },
+  {
+    "id": "d7373925-0c70-4aec-977c-5160161e1992",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase, MassPay Link 180-Country Network to Enterprise USDC Payouts",
+    "summary": "1. Coinbase and MassPay are connecting USDC settlement to a payout network spanning 180 countries, giving enterprises a simpler path for global disbursements.\n2. The integration supports dollar funding, USDC conversion, digital asset payouts, and local currency delivery through existing MassPay workflows.\n3. Stablecoin Payouts Enter Enterprise Payment Workflows Global payout infrastructure is shifting as Coinbase (Nasdaq: COIN) […]",
+    "url": "https://news.bitcoin.com/coinbase-masspay-link-180-country-network-to-enterprise-usdc-payouts/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-12T02:30:50.000Z"
+  },
+  {
     "id": "2348dac6-6b20-4e15-bdb5-b4317d52c88e",
     "source": "Trump Truth",
     "type": "rss",
@@ -38,6 +148,16 @@
     "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
     "author": "Anna Heim",
     "created_at": "2026-06-12T01:48:07.000Z"
+  },
+  {
+    "id": "b6e3fe44-54c4-44e0-b32c-8ccfd487f818",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Jack Mallers says Bitcoin is pricing a global liquidity crisis, calling it the only honest market signal as weak consumer sentiment clashes with record-high stocks.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a7865bca",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T01:39:34+00:00"
   },
   {
     "id": "7e85d6ca-1265-44be-ac80-8189ea844b83",
@@ -80,6 +200,16 @@
     "created_at": "2026-06-12T00:30:02.000Z"
   },
   {
+    "id": "0f1cc9c6-b43d-473d-b2b0-ae008433b020",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Michael Saylor says altcoins are losing their monetary premium as competition intensifies, with future value tied to actual utility rather than currency status.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#76d5dbb6",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T00:29:09+00:00"
+  },
+  {
     "id": "3077e2c2-eaa5-4e4b-97c5-e9deeb6be0cb",
     "source": "The Defiant",
     "type": "rss",
@@ -98,6 +228,16 @@
     "url": "https://trumpstruth.org/statuses/39222",
     "author": "Trump Truth",
     "created_at": "2026-06-12T00:11:42.000Z"
+  },
+  {
+    "id": "2d41e660-5cfa-4388-8b3c-582fcbe048e1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Pre-IPO Prediction Markets: When Small Bets Signal ConvictionThe smallest track:...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d365ade9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T00:09:32+00:00"
   },
   {
     "id": "f91674e5-71b1-497b-a664-180cc00810dc",
@@ -148,265 +288,5 @@
     "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Marcel Pechman",
     "created_at": "2026-06-11T22:58:52.000Z"
-  },
-  {
-    "id": "c37a8bcd-57b5-48aa-b49c-8f402628252e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Police crypto custody bid in South Korea draws criticism for favoring large exchanges",
-    "summary": "South Korea's National Police Agency has launched its fourth bid for a custodian to manage seized virtual assets, but small and medium-sized firms are reluctant to participate, Edaily reported. According to a notice on the country's Public Procurement Service KONEPS system, the agency recently opened bidding for its \"Seized Virtual Asset Storage and Management Project,\" with a deadline of June 24. The project's budget has been increased 3.2-fold to 267 million won from the previous 83 million won. However, critics argue that the bidding process is structured to favor large, won-denominated cryptocurrency exchanges. They point out that smaller custody providers find it difficult to meet stringent requirements, such as 100% full compensation and 24-hour real-time support, and that there are no bidding restrictions based on company size. more:",
-    "url": "https://t.me/CoinnessGL#d7a923bb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T22:38:17+00:00"
-  },
-  {
-    "id": "fcefd0b1-0644-4855-b0f5-3124d2bd44eb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right?",
-    "summary": "1. Sam Altman is weighing drastic token price cuts to fight Anthropic.\n2. The problem is DeepSeek already made that argument for him—and for free.",
-    "url": "https://decrypt.co/370854/openai-price-war-anthropic-deepseek-china",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-11T22:31:03.000Z"
-  },
-  {
-    "id": "ef9b8d72-adba-48de-94ea-5136c20bedf1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "X now supports 'Big Charts' for crypto, stocks in timeline",
-    "summary": "X (formerly Twitter) has added a \"Big Charts\" feature that allows users to view price charts for cryptocurrencies and stocks directly within their timelines, Watcher.Guru reported. The feature enables users to click on a crypto or stock ticker and see its price action and chart without being redirected to a separate page.",
-    "url": "https://t.me/CoinnessGL#d8768d9e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T22:27:21+00:00"
-  },
-  {
-    "id": "34606ce9-3c4c-4d8b-8a8f-a657354719e8",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SpaceX Opens for Public Trading Friday With a Live Crypto Tokenized-Equity Stack Behind It",
-    "summary": "1. SpaceX begins trading on Nasdaq at 9:30 AM ET Friday under SPCX.\n2. The same morning, Ondo's SPCXon, Kraken's xStocks SPCXx, a Backpack Securities-issued SPCX token on Solana, and Hyperliquid's pre-IPO perpetual all settle into a single live tokenized-equity stack.",
-    "url": "https://thedefiant.io/news/markets/spacex-opens-for-public-trading-friday-with-a-live-crypto-tokenized-equity-stack",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-11T22:21:19.000Z"
-  },
-  {
-    "id": "11f11eec-5b71-4abd-8926-ec7eea0aef17",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CFTC Says Sports Contracts Involve Gaming but Proposes to Allow Almost All of Them",
-    "summary": "1. The CFTC has proposed its first written framework for sports event contracts, formally defining sports markets as “gaming” – then writing definitions under which virtually everything currently traded on Kalshi and its rivals stays legal.\n2. Five banned categories, one legalized industry The Commodity Futures Trading Commission released the proposed rulemaking on Wednesday, June 10, opening […]",
-    "url": "https://news.bitcoin.com/cftc-says-sports-contracts-involve-gaming-but-proposes-to-allow-almost-all-of-them/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-06-11T22:10:47.000Z"
-  },
-  {
-    "id": "d79ee9be-281f-48d2-b43b-ca923b85cd14",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. These are the weapons we are seizing from Mexican Cartels.\n2. They are killing thousands of Americans each and every year!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39220",
-    "author": "Trump Truth",
-    "created_at": "2026-06-11T22:01:14.000Z"
-  },
-  {
-    "id": "7db7b3c4-ea5f-46ba-b74f-e4cc53f9db25",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase council says Bitcoin must start preparing for quantum threat",
-    "summary": "Coinbase's quantum computing advisory council has stated that blockchain networks, including Bitcoin (BTC) and Ethereum (ETH), must begin preparing now for the threat posed by quantum computers. The council analyzed that around seven million BTC could be vulnerable to future quantum attacks due to issues like public key exposure and address reuse. This figure includes assets presumed to belong to Satoshi Nakamoto and those that have remained dormant for extended periods, the council explained. It also noted that reaching an industry consensus on how to handle assets not migrated to quantum-safe addresses will be a major challenge. Coinbase emphasized that while current quantum computers are not yet capable of breaking Bitcoin's cryptography, proactive preparation is necessary because the timeline for such technological advancements is uncertain.",
-    "url": "https://t.me/CoinnessGL#ca35201f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T21:57:18+00:00"
-  },
-  {
-    "id": "a32cd7a3-947d-4515-8cac-5af3250a8d13",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
-    "summary": "1. Coinbase's quantum advisory council says crypto developers should begin post-quantum migration work now, warning that unresolved questions around abandoned and vulnerable coins could become one of Bitcoin's biggest battles.",
-    "url": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-11T21:50:06.000Z"
-  },
-  {
-    "id": "a0f1b87c-81d9-4c28-985e-ede81e4e0ecd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Coinbase launched \"Coinbase for Agents,\" a platform letting AI agents connect to users' accounts to trade crypto and make payments autonomously.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#60b192c9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-11T21:49:23+00:00"
-  },
-  {
-    "id": "f8474dae-e470-4d36-b0f8-f1ca626cf10c",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Solana Foundation Launches Frontier Traders, an Institutional Program for $500M+ Volume Firms",
-    "summary": "1. The Solana Foundation formalized Solana's institutional market-structure tier with Frontier Traders, requiring $500M in trailing 30-day DEX volume for VIP access, with the debut campaign running on SpaceX tokenized equity.",
-    "url": "https://thedefiant.io/news/blockchains/solana-foundation-frontier-traders-institutional-program-500m-volume",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-11T21:30:00.000Z"
-  },
-  {
-    "id": "46759ee0-832a-484f-b31f-7edfa303d331",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Citi launches blockchain marketplace for private companies shares: Report",
-    "summary": "1. The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.",
-    "url": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-11T21:24:56.000Z"
-  },
-  {
-    "id": "5d1f18ad-25a8-4fe8-ba48-f00e6a33e744",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tech Giant LG Electronics Taps Arbitrum to Automate Programmatic Ads via Custom L2 Blockchain",
-    "summary": "1. South Korean consumer electronics titan LG Electronics is developing a proprietary blockchain network aimed at transforming the digital advertising placement and sales industry.\n2. The Onchain Shift According to a report published by Fortune on June 11, 2026, the initiative leverages a shared, onchain database of advertising inventory and verified customer interaction records.\n3. Fortune’s Jack Kubinec […]",
-    "url": "https://news.bitcoin.com/tech-giant-lg-electronics-taps-arbitrum-to-automate-programmatic-ads-via-custom-l2-blockchain-37856/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-11T21:22:56.000Z"
-  },
-  {
-    "id": "5f84e2f0-99dd-4b0b-8990-aaeba8755cf2",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The Knicks are the (only) talk of the town",
-    "summary": "1. The Knicks are the (only) talk of the town",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/11/the-knicks-are-the-only-talk-of-the-town-00959617",
-    "author": "By Chris Sommerfeldt",
-    "created_at": "2026-06-11T21:15:01.000Z"
-  },
-  {
-    "id": "724c7cae-ec98-4a6e-ae65-bc35b400bb1f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ MassPay has partnered with Coinbase to expand stablecoin cross-border payouts, with Coinbase handling wallet infrastructure and custody while MassPay manages last-mile delivery and compliance.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#fb1d9b95",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-11T21:14:24+00:00"
-  },
-  {
-    "id": "bd570f6d-3ff8-4b15-9cc0-471b828f20d2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders",
-    "summary": "1. Bitsurance, insures clients' bitcoin against \"physical attacks\" like fire, water, robbery and the \"$5 Wrench Attack.\"",
-    "url": "https://www.theblock.co/post/404438/man-who-spent-1500-btc-graphics-card-now-helps-insure-bitcoin-holders?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-11T21:01:02.000Z"
-  },
-  {
-    "id": "0432cbcf-9911-4c5f-a9b9-e43e73d777ba",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence",
-    "summary": "1. Bitcoin Magazine\n\nBukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence\nWith no capital gains tax on Bitcoin, no wealth or inheritance taxes, and competitive incentives for tech businesses, the reform solidifies El Salvador’s status as a Bitcoin-friendly jurisdiction targeting entrepreneurs and families.\n2. This post Bukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/business/bukeles-reform-makes-el-salvador-a-top-tax-haven-0-on-foreign-income-and-bitcoin-gains-with-minimal-presence",
-    "author": "Juan Galt",
-    "created_at": "2026-06-11T20:59:13.000Z"
-  },
-  {
-    "id": "7b25969b-d1f0-4fb0-a7c7-c300b50372ad",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 $1.15 trillion added to the US stock market today.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#6eb3a07b",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-11T20:52:05+00:00"
-  },
-  {
-    "id": "88f8edaf-a211-4a26-943c-46bab5d25b30",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Ripple CEO Takes Aim at JPMorgan's Jamie Dimon Over Clarity Act Crypto Bill Criticism",
-    "summary": "1. Ripple's Brad Garlinghouse spoke out against JPMorgan CEO Jamie Dimon and his comments on the key piece of crypto legislation.",
-    "url": "https://decrypt.co/370840/ripple-ceo-takes-aim-jpmorgan-jamie-dimon-clarity-act-comments",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-11T20:44:14.000Z"
-  },
-  {
-    "id": "82d82e2c-25bf-4f68-93d2-e2b58bc22fc2",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Nakamoto sold approximately 600 Bitcoin for $48M in net proceeds to pay down $45M in debt, cutting annual financing costs by $4M.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3810c3d8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-11T20:39:42+00:00"
-  },
-  {
-    "id": "facbd9c2-6ed0-422f-909f-3725c353c209",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin and Ether ETFs Lose $249 Million While HYPE Funds Extend Inflow Run",
-    "summary": "1. Crypto ETF flows stayed uneven on Wednesday, June 10, as bitcoin funds recorded a fourth straight day of outflows and ether ETFs remained under pressure.\n2. HYPE and XRP products drew modest inflows, while solana ETFs saw no trading activity.\n3. HYPE ETFs Add $2.78 Million as Bitcoin Funds Extend 4-Day Outflow Streak The crypto exchange-traded fund […]",
-    "url": "https://news.bitcoin.com/bitcoin-and-ether-etfs-lose-249-million-while-hype-funds-extend-inflow-run/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-11T20:34:15.000Z"
-  },
-  {
-    "id": "d9abc283-fd7f-4ff6-acbd-b8973db08a4c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-    "summary": "1. Wits its official share pricing announcement, SpaceX's IPO has begun.",
-    "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-    "author": "Tim Fernholz, Marina Temkin",
-    "created_at": "2026-06-11T20:33:10.000Z"
-  },
-  {
-    "id": "e7776ee5-08ea-467d-ba0c-ef958878252d",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 CFTC Chair Mike Selig says \"for too long, crypto markets have operated under uncertainty.\"\"We're not regulating by enforcement and opaque rules.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#813cfcda",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-11T20:31:40+00:00"
-  },
-  {
-    "id": "c7296e19-3417-46a3-a052-826f73f3b510",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-    "summary": "1. The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign.\n2. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-    "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-06-11T20:27:25.000Z"
-  },
-  {
-    "id": "9d95faaf-4506-4fdf-a9f8-57a20f70dde6",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Microsoft President Asks Graduates to Stop Fearing AI and Start Adapting",
-    "summary": "1. Brad Smith published a 3,000-word essay urging empathy for graduates booing AI at commencements.\n2. The same week, Microsoft's CFO confirmed headcount will keep shrinking.",
-    "url": "https://decrypt.co/370843/microsoft-graduates-stop-fearing-ai-start-adapting",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-11T20:25:11.000Z"
-  },
-  {
-    "id": "9652db47-903f-4b57-a76d-62ff85e0396c",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Nasdaq-Listed Bitcoin Firm Nakamoto Sells BTC, Cuts Debt and Authorizes Share Buyback",
-    "summary": "1. Nakamoto, the Nasdaq-listed Bitcoin services and treasury firm, sold about $48 million worth of BTC and derivatives to help reduce debt.",
-    "url": "https://decrypt.co/370842/nasdaq-listed-bitcoin-firm-nakamoto-sells-btc-cuts-debt-share-buyback",
-    "author": "Andrew Hayward",
-    "created_at": "2026-06-11T20:19:46.000Z"
-  },
-  {
-    "id": "9d079c5d-1ab0-4171-a637-3eb6fad45135",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Grayscale named to Fortune's inaugural 'Crypto 100' list",
-    "summary": "Grayscale announced on X that it has been named to Fortune's inaugural \"Crypto 100\" list. The company added that it is honored to be recognized as one of the firms shaping the future of the digital asset industry.",
-    "url": "https://t.me/CoinnessGL#2d68cf17",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-11T20:19:37+00:00"
   }
 ]
