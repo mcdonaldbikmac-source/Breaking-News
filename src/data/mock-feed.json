@@ -1,5 +1,375 @@
 [
   {
+    "id": "c634ac51-e128-4c4c-8da2-ed99767ad8ef",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "summary": "1. TechCrunch has followed SpaceX's start, struggles, and successes from the early days.\n2. And we're here for what happens next too.\n3. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "author": "Kirsten Korosec, Russell Brandom",
+    "created_at": "2026-06-12T20:04:38.000Z"
+  },
+  {
+    "id": "fc8d1818-0548-4874-ac1c-31a8e58997c0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US stocks close higher",
+    "summary": "The three major U.S. stock indices closed higher today.- S&P 500: +0.50%- Nasdaq: +0.31%- Dow Jones: +0.70%",
+    "url": "https://t.me/CoinnessGL#f4d730ab",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T20:03:48+00:00"
+  },
+  {
+    "id": "a85bd707-6e9c-4110-a8c5-4176d66784ea",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Sen. Lummis: CLARITY Act offers certainty, protection, and integrity",
+    "summary": "Pro-cryptocurrency U.S. Senator Cynthia Lummis said the CLARITY Act will provide certainty for developers, protection for investors, and integrity for the cryptocurrency market, according to Cointelegraph.",
+    "url": "https://t.me/CoinnessGL#9553b6be",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T20:01:58+00:00"
+  },
+  {
+    "id": "c4e400fe-ac64-4b6f-9b40-3afdeb8bfdd5",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
+    "summary": "1. Bitcoin Magazine\n\nStandard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low\nStandard Chartered says crypto's cycle low is likely in, arguing that Bitcoin's drop to roughly $59,000 marked the bottom and that easing IPO-related selling pressure, improving macro conditions, and renewed institutional demand could pave the way toward its $100,000 year-end target.\n2. This post Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/markets/standard-chartered-calls-bitcoin-bottom",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-12T20:00:19.000Z"
+  },
+  {
+    "id": "17776127-3322-49d3-ad10-797c09fdf516",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "SurgeXRP Presale Accelerates Following XRP Upgrade News, 30% of Soft Cap Filled Before RWA Platform Debut",
+    "summary": "1. PRESS RELEASE.\n2. The XRP ecosystem is heating up once again as the latest XRP Ledger upgrade designed to improve network performance, scalability, and efficiency and investors are increasingly looking beyond XRP itself and toward the next generation of projects being built on XRPL.\n3. One project attracting significant attention is SurgeXRP.",
+    "url": "https://news.bitcoin.com/surgexrp-presale-accelerates-following-xrp-upgrade-news-30-of-soft-cap-filled-before-rwa-platform-debut/",
+    "author": "Media",
+    "created_at": "2026-06-12T20:00:01.000Z"
+  },
+  {
+    "id": "52a7835a-8b54-4dd4-9b22-bb8b00cf9557",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
+    "summary": "1. President Trump’s upcoming UFC fight will provide several crypto firms with an unprecedented opportunity for corporate branding.",
+    "url": "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
+    "author": "André Beganski",
+    "created_at": "2026-06-12T19:56:26.000Z"
+  },
+  {
+    "id": "123350cb-7e16-4262-abe4-3ce1c7fb8289",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump believes that we will win",
+    "summary": "1. Trump believes that we will win",
+    "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/donald-trump-usmnt-message-support-00960757",
+    "author": "By Gregory Svirnovskiy",
+    "created_at": "2026-06-12T19:51:49.000Z"
+  },
+  {
+    "id": "65b759ab-b16c-4f47-bdad-5ed5ff81bd10",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Metaplanet will acquire Siiibo Securities for about $13M, aiming to develop and distribute BTC-linked products in Japan.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d7e39514",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T19:49:21+00:00"
+  },
+  {
+    "id": "8c17fcc2-a3fa-469a-b2d9-78a9883f7772",
+    "source": "GitHub",
+    "type": "github",
+    "title": "base-org/node: v1.1.0",
+    "summary": "1. ## What Changed\r\n\r\n> [!IMPORTANT]\r\n> **Base Sepolia**: Operators must upgrade to this release by June 18 at 18:00:00 UTC for the Beryl hardfork.\n2. See [here]( for more information.\n3. > **Base Mainnet**: Operators running V1.0.0 or V1.0.1 must upgrade to this release to fix a potential node halt.",
+    "url": "https://github.com/base/node/releases/tag/v1.1.0",
+    "author": "danyalprout",
+    "created_at": "2026-06-12T19:31:43Z"
+  },
+  {
+    "id": "0b9895fa-4555-4c64-a684-4556922ce455",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Metaplanet to Launch Bitcoin Yield Products in Japan After $13 Million Siiibo Securities Deal",
+    "summary": "1. Metaplanet has agreed to acquire Siiibo Securities, a licensed Japanese Type I securities firm, as part of its Project Nova strategy.\n2. The deal gives the company a regulated distribution platform for bitcoin-linked yield products aimed at Japan’s large pool of cash-heavy household assets.\n3. Metaplanet Targets Japan’s $7.4 Trillion Cash Pile With Bitcoin-Linked Investments Metaplanet is […]",
+    "url": "https://news.bitcoin.com/metaplanet-to-launch-bitcoin-yield-products-in-japan-after-13-million-siiibo-securities-deal/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-12T19:30:34.000Z"
+  },
+  {
+    "id": "48c3f16f-ad65-4a58-99db-5e0fd4b17e43",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+    "summary": "1. A SpaceX-Tesla merger seems inevitable.",
+    "url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-06-12T19:28:31.000Z"
+  },
+  {
+    "id": "b0c4107e-78eb-4646-8f42-7f6cbc178379",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Hester Peirce Bids Farewell to the SEC After Nearly 30 Years",
+    "summary": "1. SEC Commissioner Hester Peirce delivered her farewell remarks Tuesday at the U.S.\n2. Chamber of Commerce Capital Markets Summit, closing a tenure defined by crypto-industry advocacy and dissent from the Gensler era.",
+    "url": "https://thedefiant.io/news/people/hester-peirce-farewell-remarks-sec-project-crypto",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-12T19:24:46.000Z"
+  },
+  {
+    "id": "d5bbccdb-6957-4175-b47d-ace8a82a326a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
+    "summary": "1. A new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.",
+    "url": "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-12T19:22:28.000Z"
+  },
+  {
+    "id": "ba34f542-daf4-4e38-a437-8b46073b0bc1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Binance launched bStocks on BNB Chain, tokenizing U.S.",
+    "summary": "equities like NVIDIA and Tesla as BEP-20 tokens tradable 24/7.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bc12338a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T19:14:20+00:00"
+  },
+  {
+    "id": "c3132d4f-9d30-4348-b8a6-0790d3a2fee0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Quantstamp links H token hack to North Korean actors",
+    "summary": "Security firm Quantstamp has released its investigation report on the Humanity (H) token security incident that occurred on June 8. According to the report, the hacker gained remote access to an executive's device through a phishing attack, stealing wallet data and private keys. This allowed them to upgrade the H token contract and move approximately 141.18 million tokens. The attackers also seized proxy administrator privileges on the BNB Smart Chain to mint additional H tokens. Quantstamp explained that the tools and certificate signing patterns found in the attack exhibit the typical characteristics of hacking linked to North Korea (DPRK).",
+    "url": "https://t.me/CoinnessGL#68fce0c2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-12T18:45:06+00:00"
+  },
+  {
+    "id": "835ccf24-2357-49e3-8c99-09b7954384a0",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Gensler Files Brief Arguing Sports Prediction Markets Fall Outside CFTC Swap Rules",
+    "summary": "1. Former CFTC and SEC chair Gary Gensler filed an amicus brief with the Sixth Circuit arguing that sports-event prediction markets are not swaps under Dodd-Frank, directly contradicting the CFTC's own position in the KalshiEX v.\n2. Ohio appeal.",
+    "url": "https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-12T18:42:25.000Z"
+  },
+  {
+    "id": "cd864cc6-e28f-492a-a21a-41cdbb68be89",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race",
+    "summary": "1. Bitcoin Magazine\n\nBlockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race\nBlockworks' acquisition of Messari for just over $10 million combines two major crypto data platforms.\n2. This post Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/blockworks-acquires-messari",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-12T18:41:15.000Z"
+  },
+  {
+    "id": "7091a6b7-6ca4-4cd7-bbeb-a6253a4e29d0",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
+    "summary": "1. Kimi Work lets an AI agent loose on your local files, your browser, and your schedule—without routing everything through the cloud.",
+    "url": "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-06-12T18:40:57.000Z"
+  },
+  {
+    "id": "3f4f50c3-3166-4714-95de-52d6c9508969",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ AVAX treasury firm Avalanche Treasury debuted on Nasdaq on Thursday under the ticker AVAT.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bf0d319b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-12T18:39:37+00:00"
+  },
+  {
+    "id": "3c1efa94-444b-4306-ab2c-90a105a33b9d",
+    "source": "Politico",
+    "type": "rss",
+    "title": "How I failed to make it to my first World Cup match",
+    "summary": "1. A wall of thunderstorms kiboshed a POLITICO reporter’s assignment to attend Canada vs.",
+    "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/world-cup-travel-delays-weather-00960722",
+    "author": "By Ry Rivard",
+    "created_at": "2026-06-12T18:37:19.000Z"
+  },
+  {
+    "id": "d35d0e1a-fbb0-4882-b8d2-6063a08a384b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Climbs to $64,349 After Trump Signals Iran Deal Despite Tehran Pushback",
+    "summary": "1. Bitcoin briefly breached $64,000 following U.S.\n2. President Donald Trump’s announcement of a tentative peace deal between Washington and Tehran.\n3. Bitcoin Eyed $64K Amid Geopolitical Whiplash On June 12, bitcoin breached the $64,000 mark as enthusiasm was sparked by U.S.",
+    "url": "https://news.bitcoin.com/bitcoin-climbs-to-64349-after-trump-signals-iran-deal-despite-tehran-pushback/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-12T18:37:02.000Z"
+  },
+  {
+    "id": "b192c08b-cd18-44c2-8031-33baae3917c1",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
+    "summary": "1. The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+    "url": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
+    "author": "Marina Temkin, Sean O'Kane",
+    "created_at": "2026-06-12T18:20:50.000Z"
+  },
+  {
+    "id": "e35d9737-3703-4479-b6b8-668b0c3f930c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst ",
+    "summary": "1. Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto selloff.",
+    "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-12T18:09:06.000Z"
+  },
+  {
+    "id": "a1b944a2-f310-4ee6-8ee4-ca869e08d115",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
+    "summary": "1. Gary Gensler is calling malarkey the claim that the CFTC has jurisdiction over prediction markets, specifically sports bets.",
+    "url": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-12T17:49:07.000Z"
+  },
+  {
+    "id": "7520026e-f636-4468-8208-30846721ccb6",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The Epic Story of How Trump Seized the World Cup",
+    "summary": "1. A decade of diplomatic maneuvering, global intrigue and trilateral deal-making — and how it all ended up in one president’s hands.",
+    "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/donald-trump-world-cup-fifa-00960640",
+    "author": "By Sophia Cai",
+    "created_at": "2026-06-12T17:34:00.000Z"
+  },
+  {
+    "id": "c039054d-819c-4872-a7e3-ff6c0b54fb5d",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Elon Musk SpaceX $SPCX surges 27% following IPO, surpassing $2.2 trillion market cap.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#0f92287c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-12T16:59:17+00:00"
+  },
+  {
+    "id": "c0c03b53-38d7-4827-b310-5a7df0de441a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Early Airbnb, DoorDash backer Y Combinator says Clarity Act could bring crypto to ‘every’ portfolio company",
+    "summary": "1. Also a backer of companies like Coinbase, OpenAI, Stripe, Reddit, OpenAI and Kalshi, Y Combinator wants to see Congress pass the CLARITY Act.",
+    "url": "https://www.theblock.co/post/404643/early-airbnb-doordash-backer-y-combinator-expects-crypto-to-be-used-by-every-one-of-its-portfolio-companies?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-06-12T16:51:35.000Z"
+  },
+  {
+    "id": "e6676818-d97b-4f74-bb8c-c4ed82702f4c",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "SpaceX $SPCX flips TSMC $TSM to become the 6th largest company in the world following IPO.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#91aaac9c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-12T16:49:02+00:00"
+  },
+  {
+    "id": "7511c8b9-92a9-4b81-9ab2-0de492de0ea0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
+    "summary": "1. A federal appeals court upheld the former FTX chief’s conviction, while his bid for clemency from President Donald Trump appears to face steep political odds.",
+    "url": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-12T16:39:16.000Z"
+  },
+  {
+    "id": "2d3bd27c-5da8-4ad8-8d6a-4fdce8f413f1",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, is a Great Star, has been from the very beginning, and only gets better!\n2. Julia is running for the United States Senate in Louisiana, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024.\n3. I know Julia well, have seen her tested at the highest and most difficult levels, and she is a TOTAL WINNER!",
+    "url": "https://trumpstruth.org/statuses/39231",
+    "author": "Trump Truth",
+    "created_at": "2026-06-12T16:30:57.000Z"
+  },
+  {
+    "id": "1d814bd1-dd6e-4d23-9039-2a649a546fba",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
+    "summary": "1. Bitcoin hit $64,000 as SpaceX launched a record-breaking IPO and US-Iran peace deal hopes continued to grow, but doubts over BTC price support remained.",
+    "url": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-06-12T16:17:33.000Z"
+  },
+  {
+    "id": "0483309d-3f36-4974-b7ba-028df677ea00",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bybit, Binance, Bitget cancel tokenized SpaceX IPO allocations after share shortage",
+    "summary": "1. All three providers are issuing full refunds and additional compensation to affected users.",
+    "url": "https://www.theblock.co/post/404644/bybit-binance-bitget-cancel-tokenized-spacex-ipo-allocations-share-shortage?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird and Daniel Kuhn",
+    "created_at": "2026-06-12T16:12:10.000Z"
+  },
+  {
+    "id": "fd5a45d0-2dfc-4353-babf-6ee55785adc0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto Biz: SpaceX fuels tokenization’s next boom",
+    "summary": "1. Tokenized RWAs surge despite crypto volatility, Kraken launches SpaceX IPO xStocks, prediction markets outpace onchain gambling and Sam Bankman-Fried seeks a Trump pardon.",
+    "url": "https://cointelegraph.com/news/tokenized-rwas-kraken-spacex-ipo-prediction-markets-sbf-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-12T16:07:08.000Z"
+  },
+  {
+    "id": "18d193b6-d425-4c63-b241-b3c5d65f4479",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
+    "summary": "1. VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
+    "url": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
+    "author": "AI Boost",
+    "created_at": "2026-06-12T16:05:31.000Z"
+  },
+  {
+    "id": "ca675a1a-a72a-4676-be0a-26277369d90a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Elon Musk's SpaceX soars 20% in blockbuster Nasdaq debut",
+    "summary": "1. The stock was trading above $160 in volatile action after last night's IPO at $135.",
+    "url": "https://www.coindesk.com/markets/2026/06/12/spacex-opens-at-usdtk-in-blockbuster-nasdaq-debut",
+    "author": "Helene Braun",
+    "created_at": "2026-06-12T15:55:42.000Z"
+  },
+  {
+    "id": "b48b20b7-cd52-4c9c-aace-33011a28af34",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Elon Musk's SpaceX $SPCX officially begins trading at $2 trillion market cap following IPO.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#a811d0bf",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-12T15:50:56+00:00"
+  },
+  {
+    "id": "1273d5ee-901d-4bed-9e7b-4130e838d4ef",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC",
+    "summary": "1. Bitcoin Magazine\n\nSpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC\nElon Musk's SpaceX is set to begin trading on the Nasdaq under the ticker SPCX on Friday, officially joining the ranks of public Bitcoin treasury companies with 18,712 BTC worth roughly $1.29 billion, making it the eighth-largest corporate holder of bitcoin.\n2. This post SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-12T15:45:20.000Z"
+  },
+  {
     "id": "a0e9135d-d392-4381-b456-da0cf32fe06f",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -70,7 +440,7 @@
     "created_at": "2026-06-12T14:59:19+00:00"
   },
   {
-    "id": "78119e2a-d608-4469-ab2e-356b6ddf04a0",
+    "id": "a8da1c64-79a0-4b27-b44e-44739bdbf715",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran Foreign Minister Araghchi says the Islamabad Memorandum of Understanding “has never been closer” Twitter",
@@ -118,385 +488,5 @@
     "url": "https://thedefiant.io/news/markets/monero-jumps-zachxbt-120m-usdt-laundering-tether-freeze",
     "author": "The Defiant Team",
     "created_at": "2026-06-12T14:22:22.000Z"
-  },
-  {
-    "id": "2a19b6ea-879f-487f-845d-d1f8d0915c15",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
-    "summary": "1. The onetime FTX CEO did not persuade a panel of judges that his trial was unfair, the appeals court panel ruled Friday.",
-    "url": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges",
-    "author": "Nikhilesh De",
-    "created_at": "2026-06-12T14:13:40.000Z"
-  },
-  {
-    "id": "bfe3dd5d-69db-4bca-955c-221d2930b130",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Watch: Thousands protest Mexican President Claudia Sheinbaum",
-    "summary": "1. Protesters marched toward the historic Azteca Stadium and began throwing cones, rocks and plant pots into the security perimeter as the match kicked off.",
-    "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/mexico-protests-claudia-sheinbaum-00960440",
-    "author": "By Sophia Cai",
-    "created_at": "2026-06-12T14:11:38.000Z"
-  },
-  {
-    "id": "c776d07c-6e8f-471f-b877-870552eb6fb2",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX IPO: Everything you need to know",
-    "summary": "1. TechCrunch has followed SpaceX's start, struggles, and successes from the early days.\n2. And we're here for what happens next too.\n3. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-    "author": "Kirsten Korosec, Russell Brandom",
-    "created_at": "2026-06-12T14:08:54.000Z"
-  },
-  {
-    "id": "517b5bf3-c0a8-4998-b95b-cfae23719818",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk rings Nasdaq opening bell.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#7d035109",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-12T14:08:34+00:00"
-  },
-  {
-    "id": "99956550-ccab-43a7-93fe-84f47b14da9e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
-    "summary": "1. Santiment's weighted sentiment gauge for XRP just hit its weakest reading since October 2025.\n2. The firm notes the token's strongest rebounds have tended to start when the crowd was this checked out.",
-    "url": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-12T14:08:03.000Z"
-  },
-  {
-    "id": "58b057b9-b8dc-4e88-9e76-12e0dcd0bac0",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount",
-    "summary": "1. Bitcoin Magazine\n\nStrategy Stock MSTR Offers Bitcoin Exposure At 18% Discount\nBuying $1 Of Bitcoin For $0.82?\n2. Why Strategy Stock MSTR Is Flashing Rare Buy Signals.\n3. This post Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount first appeared on Bitcoin Magazine and is written by Matt Crosby.",
-    "url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount",
-    "author": "Matt Crosby",
-    "created_at": "2026-06-12T13:51:40.000Z"
-  },
-  {
-    "id": "2b423260-de6f-4536-81aa-203e6422a70b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Appeals court rejects Sam Bankman-Fried’s bid for new trial in FTX fraud case",
-    "summary": "1. Sam Bankman-Fried lost his appeal to overturn his 25-year sentence after accusing the original court of not giving him a fair chance.",
-    "url": "https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-12T13:47:54.000Z"
-  },
-  {
-    "id": "f0359d55-2ab8-4782-8e18-35bd3a4793bf",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Department of War releases third batch of UFO and potential alien life files.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#0f271d4d",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-12T13:42:06+00:00"
-  },
-  {
-    "id": "b9d598f1-1b1b-47eb-8dd8-dbbf3cf48657",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The terms that Iran leaked out to the Fake News have NOTHING to do with the terms that were agreed to, in writing.\n2. What they said, including their weak and pathetic statement on having a deal, bears no relation to the truth.\n3. Very dishonorable people to deal with.",
-    "url": "https://trumpstruth.org/statuses/39226",
-    "author": "Trump Truth",
-    "created_at": "2026-06-12T13:40:42.000Z"
-  },
-  {
-    "id": "bab05651-68c5-48db-9b61-802432ad6fa9",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem",
-    "summary": "1. Bitcoin Magazine\n\nMetaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem\nMetaplanet is acquiring Siiibo Securities for 2.1 billion yen ($13.1 million), giving Japan's largest corporate Bitcoin holder a securities license and distribution platform to launch Bitcoin-linked investment products.\n2. This post Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/metaplanet-acquires-siiibo-securities",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-12T13:32:45.000Z"
-  },
-  {
-    "id": "8776656f-a4f8-4f98-bde0-e8b126eb53fc",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Bosnia beat Italy. Utica never recovered.",
-    "summary": "1. A refugee community in upstate New York gets ready to root for the home team.",
-    "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/bosnia-italy-utica-new-york-00960249",
-    "author": "By Paul Demko",
-    "created_at": "2026-06-12T13:29:38.000Z"
-  },
-  {
-    "id": "0fd55b7d-9f96-4ba0-a774-aefb134f2ba2",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Sam Bankman-Fried loses bid to overturn fraud conviction and 25-year prison sentence, Reuters reports.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#12bf541f",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-12T13:28:30+00:00"
-  },
-  {
-    "id": "a013f60d-0877-45fd-91d0-c74e40777d8c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
-    "summary": "1. Exodus partnered with Ondo on to launch tokenized trading of 200+ stocks and ETFs directly on the Solana blockchain.",
-    "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-12T13:26:25.000Z"
-  },
-  {
-    "id": "203c3744-de50-4684-9514-1f34406bb34d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
-    "summary": "1. Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period.",
-    "url": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-06-12T13:25:53.000Z"
-  },
-  {
-    "id": "0dbfa748-c5fc-4093-9278-ec6f9420886f",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "SAM BANKMAN-FRIED LOSES BID TO OVERTURN FRAUD CONVICTION, 25-YEAR PRISON SENTENCETwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#774450a8",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-12T13:15:59+00:00"
-  },
-  {
-    "id": "673d1966-5817-4b98-98ac-e9bba3e7215e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "May Exchange Volume: Spot versus DerivativesSpot: $659.6B, 15.5% of...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#95f8f667",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-12T13:14:18+00:00"
-  },
-  {
-    "id": "a2048016-1ac6-40dd-a44a-00579dcfb149",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Billionaire Tim Draper says quantum computing will \"crack the banks long before it touches the blockchain,\" arguing legacy bank infrastructure makes Bitcoin look like \"Fort Knox.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#17f91806",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-12T13:14:16+00:00"
-  },
-  {
-    "id": "01d4a332-e2fd-41aa-a45e-048ab6ebf3e1",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower",
-    "summary": "1. Cronos (CRO), down 1.4% from Thursday, was also an underperformer.",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower",
-    "author": "CoinDesk Indices",
-    "created_at": "2026-06-12T13:11:26.000Z"
-  },
-  {
-    "id": "ac08d36d-e2d5-4f80-afb9-8ef42c665e12",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Hyperliquid Whale Holds 81% Short Book and $2.7M Profit as HYPE Bet Pays off",
-    "summary": "1. A Hyperliquid trader dubbed a “perma-bear” is running an 81% short book with a $2.7 million all-time profit, led by a $13.57 million HYPE short up $539,000, per analytics firm Nansen.\n2. A Bear That Keeps Winning Onchain analytics firm Nansen said a Hyperliquid trader (referred to by the firm as a “Perps Perma-Bear“) is 81% […]",
-    "url": "https://news.bitcoin.com/hyperliquid-whale-holds-81-short-book-and-2-7m-profit-as-hype-bet-pays-off/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-12T13:03:38.000Z"
-  },
-  {
-    "id": "04c384d2-cb3b-45a5-a7d8-b958ff06a6b1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "KuCoin has not paid $2M award tied to delisted token dispute, investor says",
-    "summary": "1. A Seychelles court said KuCoin can’t treat unwithdrawn tokens as “abandoned,” and awarded a Swiss investor over $2 million.\n2. He says the exchange still hasn’t paid and plans to sue again.",
-    "url": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Christina Comben",
-    "created_at": "2026-06-12T13:03:23.000Z"
-  },
-  {
-    "id": "378c1971-71b4-4516-b80c-ad8213d8025d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana",
-    "summary": "1. STAC is one of Securitize’s in-house offerings that provides onchain access to institutional-grade, floating-rate structured credit.",
-    "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-12T13:00:00.000Z"
-  },
-  {
-    "id": "b566db44-d25b-4acf-b615-aab8b3fb72a1",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Israel is pushing to block the unfreezing of Iranian assets under the proposed ceasefire agreementTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#58f1754d",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-12T12:09:53+00:00"
-  },
-  {
-    "id": "885a7021-1370-4c8e-ab2d-e4ec6ad6e796",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Not another political World Cup",
-    "summary": "1. Headaches abound for FIFA as the biggest sporting event in the world kicks off in North America.",
-    "url": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/not-another-political-world-cup-00960302",
-    "author": "By Ali Walker",
-    "created_at": "2026-06-12T12:07:58.000Z"
-  },
-  {
-    "id": "9aec7bd0-8969-46c3-8017-006af7bd29ae",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-    "summary": "1. The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-    "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-12T11:43:32.000Z"
-  },
-  {
-    "id": "26f24de2-e1cb-43a7-adab-c17448a06c6e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Audiera: Why Agent Native Economies May Be the Next Evolution of Web3",
-    "summary": "1. PRESS RELEASE.\n2. Automation has been a fixture of Web3 long before AI agents became a mainstream topic.\n3. Bots were already trading, farming incentives, monitoring markets, and competing for rewards across blockchain networks — often becoming some of the most active participants in the ecosystem.",
-    "url": "https://news.bitcoin.com/audiera-why-agent-native-economies-may-be-the-next-evolution-of-web3/",
-    "author": "Media",
-    "created_at": "2026-06-12T11:30:51.000Z"
-  },
-  {
-    "id": "cb1d9e1e-8a02-4d0f-8f3f-1d0b2b59dabc",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
-    "summary": "1. Onchain data shows the bitcoin market price is only just above its realized price and demand is weakening, especially from ETFs.",
-    "url": "https://www.coindesk.com/markets/2026/06/12/while-bitcoin-holds-near-usd63-000-some-data-points-to-pain-ahead-for-bulls",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-12T10:41:24.000Z"
-  },
-  {
-    "id": "aaf38795-d80b-44c6-af03-9f6843d84bbd",
-    "source": "The Block",
-    "type": "rss",
-    "title": "There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder",
-    "summary": "1. Bitcoin Ekasi's Hermann Vivier emphasized that bitcoin's store-of-value narrative does not exist without usage as a medium of exchange.",
-    "url": "https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-12T10:30:53.000Z"
-  },
-  {
-    "id": "da76f67e-2b92-4ca5-83de-d21a097f4c5c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CFTC’s Mike Selig Vows to End Regulation by Enforcement as He Steers US Crypto Solo",
-    "summary": "1. Commodity Futures Trading Commission (CFTC) Chair Mike Selig said crypto markets have “for too long” operated under uncertainty, vowing clear rules over enforcement even as he becomes the agency’s only sitting commissioner.\n2. ‘Not Regulating by Enforcement’ Selig, confirmed to lead the CFTC in December 2025, used remarks this week to draw a hard line under […]",
-    "url": "https://news.bitcoin.com/cftc-mike-selig-end-regulation-by-enforcement/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-12T10:30:23.000Z"
-  },
-  {
-    "id": "6139c4e8-5937-4dea-bde2-7cd718a963ef",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
-    "summary": "1. The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-    "url": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-12T10:24:40.000Z"
-  },
-  {
-    "id": "3bbd081d-2bc2-4fa9-9776-38e8cadd52fc",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
-    "summary": "1. The South Korean tech giant built a custom layer-2 network with Arbitrum for an advertising platform set to launch this year.",
-    "url": "https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-12T10:23:39.000Z"
-  },
-  {
-    "id": "2f1e1450-fa71-4a41-9a8d-9fb075f1272e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trust Wallet adds support for Binance's bStocks",
-    "summary": "Trust Wallet (TWT) announced on its official X account that it now supports Binance's stock tokenization service, bStocks.",
-    "url": "https://t.me/CoinnessGL#82889a02",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-12T10:09:58+00:00"
-  },
-  {
-    "id": "2ac5da1c-fd20-4852-9e40-f6e8c80c3733",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000",
-    "summary": "1. Bitwise's Dragosch sees up to 20% more bitcoin downside, with the long-term holder cost basis at $48,000 the \"max pain\" scenario.",
-    "url": "https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-12T10:02:30.000Z"
-  },
-  {
-    "id": "edcc179c-75db-4b38-8adb-7789fc5c2117",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Circle transfers $4.4B in USDC from HyperEVM to Coinbase",
-    "summary": "Circle, the issuer of the world's second-largest stablecoin USDC, transferred 4.397 billion USDC, worth approximately $4.4 billion, from HyperEVM to Coinbase about five hours ago, on-chain analysis platform Arkham (ARKM) reported. This marks the largest-ever single transfer of USDC.",
-    "url": "https://t.me/CoinnessGL#aac4067a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-12T10:00:13+00:00"
-  },
-  {
-    "id": "01f5b566-a178-4bd9-a91f-bbcf6c38dac0",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans",
-    "summary": "1. The approximately $13.1 million acquisition gives Metaplanet a regulated securities platform to develop Bitcoin-linked investment products.",
-    "url": "https://www.coindesk.com/markets/2026/06/12/metaplanet-buys-siiibo-securities-to-accelerate-bitcoin-financial-ecosystem-plans",
-    "author": "James Van Straten",
-    "created_at": "2026-06-12T10:00:12.000Z"
-  },
-  {
-    "id": "a25eaea9-467d-42e7-b415-abd49aaf4934",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto scammers exploit World Cup ticket demand, TRM warns",
-    "summary": "1. FIFA and the FBI warned of ticket scams as TRM Labs identified World Cup-themed crypto fraud operations tied to multiple wallet addresses.",
-    "url": "https://cointelegraph.com/news/trm-world-cup-crypto-scams-fake-tickets-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-06-12T09:52:36.000Z"
-  },
-  {
-    "id": "a124fd2b-0f23-4f9a-8c46-07e638c0ca25",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products",
-    "summary": "1. Metaplanet CEO Simon Gerovich said the deal is expected to close in July, and the company plans to rename the business Metaplanet Securities.",
-    "url": "https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-12T09:39:38.000Z"
-  },
-  {
-    "id": "619bb1de-a50b-44f7-bb9f-5188365475df",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "SEC proposes scrapping the 20-year Order Protection Rule, which requires trades to go to the exchange offering the best price, potentially clearing a path for on-chain tokenized equitiesTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#56289e9e",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-12T09:39:31+00:00"
-  },
-  {
-    "id": "6d50059f-335e-41ab-952e-5131f3d36892",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Rumor suggests US may use USD1 stablecoin for $12B Iran asset payment",
-    "summary": "Following the release of details from a U.S.-Iran peace memorandum of understanding (MOU) by Iran's Mehr News Agency, a rumor is circulating on social media platforms, including X, regarding the unfreezing of $12 billion in Iranian assets. The payment, which represents half of a $24 billion total to be released before negotiations, could be made using USD1, a stablecoin from the DeFi project World Liberty Financial (WLFI), according to the rumor. The project is described as having close ties to President Donald Trump.The crypto news account Solid Intel added that officials are reportedly considering this possibility, with any transaction requiring approval through a governance vote by World Liberty Financial. The rumor has not been confirmed by the U.S. or Iranian governments, nor by World Liberty Financial.",
-    "url": "https://t.me/CoinnessGL#8df9db60",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-12T09:38:00+00:00"
   }
 ]
