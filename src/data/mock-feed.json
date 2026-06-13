@@ -1,5 +1,175 @@
 [
   {
+    "id": "e262ec0b-ca85-4ad7-8477-cd58210a49a5",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
+    "summary": "1. Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
+    "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-13T19:23:34.000Z"
+  },
+  {
+    "id": "6f1c68a1-7b3a-4bdc-98ad-851e97b762b0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Everyone Is Getting Hilariously Rich and You’re Not — Week In Review",
+    "summary": "1. This editorial is from this week’s edition of the newsletter Week in Review, sent to subscribers on Friday.\n2. Subscribe to the newsletter to get this weekly editorial the second it’s finished.\n3. The newsletter also includes the biggest stories of the week with a comment on each story.",
+    "url": "https://news.bitcoin.com/everyone-is-getting-hilariously-rich-and-youre-not-week-in-review/",
+    "author": "David Sencil",
+    "created_at": "2026-06-13T19:20:42.000Z"
+  },
+  {
+    "id": "041a45fb-0a62-4f06-944c-3c274a0cd057",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "summary": "1. Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-13T19:11:41.000Z"
+  },
+  {
+    "id": "3974093b-33bb-46fa-a714-22bbedd735e3",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I am pleased to announce my intent to appoint James M.\n2. McDonald as the United States Attorney for the Southern District of New York.\n3. A native of the Great State of Oklahoma, Jamie is a former Assistant U.S.",
+    "url": "https://trumpstruth.org/statuses/39243",
+    "author": "Trump Truth",
+    "created_at": "2026-06-13T18:58:22.000Z"
+  },
+  {
+    "id": "2e56d410-404b-4efd-a740-060ad49632c2",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Macron dreams of burnishing his legacy via French World Cup glory",
+    "summary": "1. France’s national team has flourished during the president’s tenure, but he’s struggled to turn sporting triumph into political gain.",
+    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/emmanuel-macron-kylian-mbappe-french-team-00961476",
+    "author": "By Victor Goury-Laffont",
+    "created_at": "2026-06-13T18:30:00.000Z"
+  },
+  {
+    "id": "cc6ebca0-8e20-47ab-8afb-16ea3483ded5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
+    "summary": "1. The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.",
+    "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-13T18:21:35.000Z"
+  },
+  {
+    "id": "986ccadb-7373-45c2-8331-bade0d7d21d5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "40x Claude Max Value Shows Why Heavy Crypto Coders Are Getting a Rare Deal",
+    "summary": "1. Semianalysis says top artificial intelligence (AI) subscriptions may hand heavy users thousands of dollars in hidden compute value, and that gap could give crypto-native AI networks a clearer opening.\n2. The June 2026 report tested consumer tiers from Anthropic and OpenAI by running long-horizon coding and agentic tasks until weekly limits were exhausted.\n3. The finding was […]",
+    "url": "https://news.bitcoin.com/40x-claude-max-value-shows-why-heavy-crypto-coders-are-getting-a-rare-deal/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-13T18:20:32.000Z"
+  },
+  {
+    "id": "6ecfc843-3449-4e24-b7e0-0746be09551b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+    "summary": "1. Anthropic’s new Claude Fable 5 puts powerful cyber tools behind safety filters.\n2. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the filters fail.",
+    "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-13T18:00:00.000Z"
+  },
+  {
+    "id": "ec382bce-da9d-4de5-b5b5-2ea2f35b85d5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Blackrock’s IBIT Leads $86 Million Bitcoin ETF Inflow as Ethereum Funds Extend Outflow Streak",
+    "summary": "1. Spot bitcoin exchange-traded funds (ETFs) drew $85.85 million in net inflows on Friday, with every one of the 12 tracked funds avoiding outflows, even as spot ethereum ETFs bled for a fourth straight day.\n2. Blackrock’s IBIT Leads Again The figures, based on data tracked by Sosovalue, show a clear split in institutional appetite between the […]",
+    "url": "https://news.bitcoin.com/bitcoin-etf-inflows-ethereum-outflows-june-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-13T17:20:18.000Z"
+  },
+  {
+    "id": "e72267d4-57dd-43c8-bd1a-2757d6b7b01e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Standard Chartered says \"winter is over,\" with Bitcoin's drop below $60,000 marking crypto's low point.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ff397da5",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-13T17:19:22+00:00"
+  },
+  {
+    "id": "d59b7741-c45e-4707-84f8-1bdeb807434e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
+    "summary": "1. The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model.\n2. Its first earnings cycles will test which version of corporate crypto survives a bear market.",
+    "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-13T17:00:16.000Z"
+  },
+  {
+    "id": "6271d00d-4797-42ec-9984-ba167f389616",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇮🇷 President Trump says peace deal with Iran is scheduled to be signed tomorrow and the Strait of Hormuz will be \"open to all.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#90f66eed",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-13T16:51:34+00:00"
+  },
+  {
+    "id": "dcd3bbdf-ced1-4b34-98d2-52ed143c516e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Iranian ambassador at World Cup: ‘Iran and the U.S. can be very good friends’",
+    "summary": "1. Tehran's top diplomat in Mexico says Iran's presence in the United States for the World Cup should be read as a gesture of goodwill amid talks to end the conflict.",
+    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/iran-ambassador-mexico-abolfazl-pasandideh-00961408",
+    "author": "By Sophia Cai",
+    "created_at": "2026-06-13T16:51:26.000Z"
+  },
+  {
+    "id": "dd2d74d0-dda9-44ae-ae53-351f6d57cb66",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+    "summary": "1. O’Connor argues that crypto’s clearest success story has scaled as money but not as capital.",
+    "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
+    "author": "John O’Connor",
+    "created_at": "2026-06-13T16:51:00.000Z"
+  },
+  {
+    "id": "1541056a-440a-48a1-8dc9-3389cdad949d",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "OpenAI faces investigation from state attorneys general",
+    "summary": "1. It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-13T16:47:18.000Z"
+  },
+  {
+    "id": "98938123-e3b8-42bc-b749-5a87f1d1966f",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump’s name purged from Kennedy Center",
+    "summary": "1. The removal marks the end of the president’s longtime effort to assert control over the institution, one of Washington’s most iconic landmarks.",
+    "url": "https://www.politico.com/news/2026/06/13/trumps-name-kennedy-center-00961458",
+    "author": "By Gregory Svirnovskiy",
+    "created_at": "2026-06-13T16:46:36.000Z"
+  },
+  {
+    "id": "cf1c03f0-be36-40fb-9325-92d002fe5612",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "SpaceX $SPCX beats Nvidia's record for largest stock market cap increase in a...",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#76624990",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-13T16:37:58+00:00"
+  },
+  {
     "id": "debc1b39-157d-4403-b469-1d8fd845d044",
     "source": "CoinDesk",
     "type": "rss",
@@ -40,7 +210,7 @@
     "created_at": "2026-06-13T16:00:00.000Z"
   },
   {
-    "id": "aaac7a48-3e81-41d9-97b3-8a6abdf09722",
+    "id": "eaba8ca9-d7dd-4ed9-9b32-2bd447c090de",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "EXPLAINED: 📊  What in the world has been going on with Bitcoin?",
@@ -90,7 +260,7 @@
     "created_at": "2026-06-13T15:20:21.000Z"
   },
   {
-    "id": "875f6420-0f32-42d3-b1a6-5459abfaad01",
+    "id": "1ffea95b-b81a-437b-a10a-ee12a287efe4",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "CoinNess Live Feed operating hours",
@@ -100,7 +270,7 @@
     "created_at": "2026-06-13T15:00:25+00:00"
   },
   {
-    "id": "46c1c293-4354-4132-8564-de0abc69ad89",
+    "id": "85c099ee-ad8b-4413-b7f5-2c63e9dac2e0",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡  Charles Hoskinson says crypto markets aren't reflecting a bear market but an \"existential crisis,\" with people asking if cryptocurrencies even matter anymore.",
@@ -110,7 +280,7 @@
     "created_at": "2026-06-13T14:59:08+00:00"
   },
   {
-    "id": "df36989c-30a2-467e-99ad-6122ed74124b",
+    "id": "d72f5827-f285-4401-a3af-288b8002e487",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Iran says any understanding with US is to continue dialogue, not a final deal",
@@ -140,7 +310,7 @@
     "created_at": "2026-06-13T14:45:43.000Z"
   },
   {
-    "id": "df07ead6-f209-4a7b-bc3e-db10c9f0ce26",
+    "id": "9f386452-3c32-4852-befe-9edf3d238ad3",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Trump shares post on potential 24-hour US-Iran peace deal",
@@ -198,145 +368,5 @@
     "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Zoltan Vardai",
     "created_at": "2026-06-13T13:58:24.000Z"
-  },
-  {
-    "id": "6e63bf45-723f-4110-bca3-bd215b5a247b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Binance Grabs 60% of SpaceX Derivatives Market With $5.6B in Daily Volume",
-    "summary": "1. Binance disclosed that it now controls more than 60% of all SpaceX derivatives trading across centralized and decentralized exchanges, the company said Friday, after recording over $5.6 billion in SPCXUSDT volume in a single 24-hour period.\n2. SpaceX Futures Rank Second Only to Bitcoin at Binance SpaceX perpetual futures are now Binance‘s second-largest traded product by […]",
-    "url": "https://news.bitcoin.com/binance-grabs-60-of-spacex-derivatives-market-with-5-6b-in-daily-volume/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-13T13:33:17.000Z"
-  },
-  {
-    "id": "76316810-c8fa-48c8-83eb-9f702ea743f4",
-    "source": "Politico",
-    "type": "rss",
-    "title": "It's hot. Maybe too hot.",
-    "summary": "1. The locations of several stadiums across the U.S.\n2. and Mexico, as well as the peak-summer timing of the World Cup, are expected to put players and fans at risk of overheating.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/heat-waves-humidity-00961300",
-    "author": "By Zia Weise",
-    "created_at": "2026-06-13T13:30:00.000Z"
-  },
-  {
-    "id": "c4b6e4fb-a384-43d4-9c32-9adfe9ac3517",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "LMAX CEO: Crypto needs to adopt TradFi collateral, settlement systems",
-    "summary": "David Mercer, CEO of LMAX Group, has argued that the cryptocurrency industry needs to adopt traditional finance (TradFi) collateral management and trade settlement systems for its next phase of growth. He pointed out that the current separation of traditional financial assets, digital assets, and stablecoins makes it difficult to use collateral efficiently. While acknowledging the benefits of blockchain's instant settlement and transparency, Mercer explained that the credit extension and collateral-based financial infrastructure that underpins global capital markets must also be established. Stating that building an efficient collateral infrastructure is more important than the price of Bitcoin, he predicted that the market will evolve toward integrating traditional finance and digital assets into a single financial ecosystem.",
-    "url": "https://t.me/CoinnessGL#e0a23403",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T13:14:02+00:00"
-  },
-  {
-    "id": "37dcf840-2e39-4b96-b54f-0b7654ce1819",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
-    "summary": "1. \"Thanks to you, 25% of the Mag8 now holds bitcoin on the balance sheet,\" Saylor wrote on X, congratulating Musk on SpaceX's historic IPO debut.",
-    "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-13T13:05:40.000Z"
-  },
-  {
-    "id": "bdcbd983-fb6e-46b3-843c-ad12849f1c4e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran Foreign Ministry says U.S. MOU will not be signed on June 14",
-    "summary": "Iranian Foreign Ministry spokesperson Baghaei stated on June 13 that the specific signing date for the Iran-U.S. Memorandum of Understanding (MOU) will not be June 14, according to Iranian media reports.",
-    "url": "https://t.me/CoinnessGL#ef1959f7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T13:01:19+00:00"
-  },
-  {
-    "id": "ead8b32e-ecd9-40a1-8f96-6c9f79bf2f93",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-    "summary": "1. A hobbyist network handed an autonomous agent a masterclass in why you don't give AI a credit card and a deadline.",
-    "url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-13T13:01:06.000Z"
-  },
-  {
-    "id": "8e44c1dc-8a93-4425-916c-918c258f2538",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto should adopt the best of centralization, says LMAX CEO ",
-    "summary": "1. As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues.",
-    "url": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
-    "author": "Will Canny",
-    "created_at": "2026-06-13T13:00:00.000Z"
-  },
-  {
-    "id": "809d569a-a21b-484a-adbc-1331754db660",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase: Gold and Silver Futures Now Trade 24/7 in the US",
-    "summary": "1. Coinbase CEO Brian Armstrong announced on June 13 that gold and silver futures are now trading around the clock in the United States on Coinbase, enabling precious metals onto the always-open rails built for crypto.\n2. A ‘World First’ for Metals Armstrong announced the change on June 13, telling followers the company was “setting a lot […]",
-    "url": "https://news.bitcoin.com/coinbase-24-7-gold-silver-futures-us/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-13T12:36:09.000Z"
-  },
-  {
-    "id": "2e5b35ee-bf97-4a83-b1ec-45c3206de5e8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Senate Banking Committee Chair Tim Scott says the digital asset industry will reach $30T in the next several years.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#37999381",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-13T12:29:26+00:00"
-  },
-  {
-    "id": "2bd4564b-0c36-4874-9d3c-4d78bc7b2db1",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Alternative World Cup rankings",
-    "summary": "1. We've been crunching the numbers to see how all 48 of this year’s World Cup participants rank in several other categories.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/gdp-europe-fifa-rankings-00961298",
-    "author": "By Paul Dallison",
-    "created_at": "2026-06-13T12:16:58.000Z"
-  },
-  {
-    "id": "1a6090bb-a013-4858-b622-64954cb6b828",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-    "summary": "1. Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
-    "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Christina Comben",
-    "created_at": "2026-06-13T11:52:41.000Z"
-  },
-  {
-    "id": "231cba37-d865-4222-9387-8daa8892d11e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Anthropic Disables Fable 5 and Mythos 5 Worldwide After US National Security Order",
-    "summary": "1. Anthropic said it abruptly disabled its two most capable artificial intelligence (AI) models, Fable 5 and Mythos 5, for all customers worldwide after the U.S.\n2. government ordered it to cut off access for any foreign national, citing national security.\n3. An Order Of Potential Major Repercussions The directive arrived on June 12 at 5:21 p.m.",
-    "url": "https://news.bitcoin.com/anthropic-fable-5-mythos-5-us-suspension/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-13T11:30:52.000Z"
-  },
-  {
-    "id": "ff713792-b9bf-47af-ad35-451295f91c3e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-    "summary": "1. Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
-    "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-13T11:00:00.000Z"
-  },
-  {
-    "id": "fd15974a-ab7a-4853-9162-99829ca696b2",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📉 Arthur Hayes says Bitcoin will end the year below $100,000.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#cdac3bf8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-13T10:54:06+00:00"
   }
 ]
