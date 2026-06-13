@@ -1,5 +1,65 @@
 [
   {
+    "id": "423da7f9-2625-49d7-8818-7e5810306f2c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "SpaceX IPO Puts 18,712 Bitcoin Treasury on Wall Street’s Radar",
+    "summary": "1. SpaceX’s historic IPO drew fresh attention to one of the largest bitcoin positions held by a public company.\n2. SEC filings show 18,712 BTC on the balance sheet with a fair value of $1.293 billion.\n3. Historic SpaceX IPO Spotlights One of America’s Boldest Bitcoin Treasuries Space Exploration Technologies Corp.",
+    "url": "https://news.bitcoin.com/spacex-ipo-puts-18712-bitcoin-treasury-on-wall-streets-radar/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-13T21:48:29.000Z"
+  },
+  {
+    "id": "c139980d-b4dc-4e81-8e4d-e541e1182328",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Anthropic’s Secret AI Model Mythos Audits Entire Zcash Protocol, Finds No New Bugs",
+    "summary": "1. Zcash founder Zooko Wilcox-O’Hearn publicly thanked Anthropic this week, confirming the artificial intelligence (AI) company ran a full security audit of the Zcash protocol using its restricted frontier model, Mythos, and found no additional critical vulnerabilities.\n2. Zooko Thanks Anthropic After Full Protocol Audit The statement came directly from Zooko, the online handle for Zooko Wilcox-O’Hearn, […]",
+    "url": "https://news.bitcoin.com/anthropics-secret-ai-model-mythos-audits-entire-zcash-protocol-finds-no-new-bugs-37856/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-13T21:05:33.000Z"
+  },
+  {
+    "id": "6d7c2edb-e14f-4340-8379-c3d06c4bea15",
+    "source": "Politico",
+    "type": "rss",
+    "title": "FIFA's encounter with North America's messy democracy",
+    "summary": "1. Gianni Infantino is the new century's unlikely Alexis de Tocqueville.",
+    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/fifa-discovers-democracy-00961398",
+    "author": "By Ry Rivard",
+    "created_at": "2026-06-13T20:51:51.000Z"
+  },
+  {
+    "id": "52410100-0709-41ca-bb41-54399cf2b24b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "summary": "1. Once again, AI proves to be an unreliable source of information about AI.",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-13T20:42:31.000Z"
+  },
+  {
+    "id": "3188f7da-4c8e-48be-be71-f1349f1a7cc3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Iran Denies Sunday Signing as Trump Declares Strait of Hormuz ‘Open to All’ Tomorrow",
+    "summary": "1. President Donald Trump declared Saturday that a landmark agreement with Iran will be signed on Sunday, June 14, with the Strait of Hormuz reopening to all shipping immediately afterward, but Iranian officials quickly disputed that timeline.\n2. What Trump Said Trump posted Saturday on Truth Social that his agreement with Iran represents the opposite of […]",
+    "url": "https://news.bitcoin.com/iran-denies-sunday-signing-as-trump-declares-strait-of-hormuz-open-to-all-tomorrow/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-13T20:20:03.000Z"
+  },
+  {
+    "id": "3a6bd27c-e2db-402b-99af-53961c26df87",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Venice and Morpheus tokens climb as US ban on Anthropic’s Fable 5 fuels ‘permissionless AI’ pitch",
+    "summary": "1. Venice founder Erik Voorhees and the official Morpheus account seized on the shutdown, casting it as proof of \"permissionless\" AI's use case.",
+    "url": "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-13T20:04:46.000Z"
+  },
+  {
     "id": "e262ec0b-ca85-4ad7-8477-cd58210a49a5",
     "source": "Decrypt",
     "type": "rss",
@@ -90,7 +150,7 @@
     "created_at": "2026-06-13T17:20:18.000Z"
   },
   {
-    "id": "e72267d4-57dd-43c8-bd1a-2757d6b7b01e",
+    "id": "0abaebee-5ac9-4479-ad92-a6e20b5f8d35",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Standard Chartered says \"winter is over,\" with Bitcoin's drop below $60,000 marking crypto's low point.",
@@ -110,7 +170,7 @@
     "created_at": "2026-06-13T17:00:16.000Z"
   },
   {
-    "id": "6271d00d-4797-42ec-9984-ba167f389616",
+    "id": "81485976-69e5-4886-83cd-872fda5bb71e",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 President Trump says peace deal with Iran is scheduled to be signed tomorrow and the Strait of Hormuz will be \"open to all.\"@WatcherGuru",
@@ -160,7 +220,7 @@
     "created_at": "2026-06-13T16:46:36.000Z"
   },
   {
-    "id": "cf1c03f0-be36-40fb-9325-92d002fe5612",
+    "id": "5ac3fbb3-00d0-4595-9af3-59aac37af76a",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "SpaceX $SPCX beats Nvidia's record for largest stock market cap increase in a...",
@@ -178,195 +238,5 @@
     "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
     "author": "James Van Straten",
     "created_at": "2026-06-13T16:16:54.000Z"
-  },
-  {
-    "id": "db2649d4-2b41-429b-b629-fda1ef184686",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
-    "summary": "1. Google alleges a Chinese network weaponized its Gemini AI to create phishing sites that stole millions of credit card numbers and targeted crypto investors.",
-    "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-13T16:01:04.000Z"
-  },
-  {
-    "id": "d036a6a4-bdd8-4189-8574-c6bd787b34ad",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-    "summary": "1. In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.",
-    "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-13T16:00:00.000Z"
-  },
-  {
-    "id": "c9511e89-2d08-42a8-a2da-524332d083a8",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
-    "summary": "1. I’ve struggled with insomnia since I was very young.\n2. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds.\n3. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at […]",
-    "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-06-13T16:00:00.000Z"
-  },
-  {
-    "id": "eaba8ca9-d7dd-4ed9-9b32-2bd447c090de",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "EXPLAINED: 📊  What in the world has been going on with Bitcoin?",
-    "summary": "People have been pinning its price decline on everything from ETF outflows and Strategy’s Bitcoin sale to AI capital rotation and the SpaceX IPO.But where is BTC sitting within its four-year cycle? And how will we know once the price has bottomed? Read on to find out. 👇",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d7795926",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-13T15:33:36+00:00"
-  },
-  {
-    "id": "c8b76d51-e7eb-40e1-b9d4-218305fb0342",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Europe's top sports official talks Panini stickers and World Cup picks",
-    "summary": "1. POLITICO caught up with European Sports Commissioner Glenn Micallef in Brussels last week to get his top tips for the World Cup.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/glenn-micallef-sports-commissioner-00961314",
-    "author": "By Ali Walker",
-    "created_at": "2026-06-13T15:30:00.000Z"
-  },
-  {
-    "id": "6d1a13eb-f1f3-4189-96a7-667c1573a590",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
-    "summary": "1. Tokenization is laying the groundwork for autonomous investing and real-time portfolio management, Ondo's new head of portfolio products John Hoffman said.",
-    "url": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-13T15:29:00.000Z"
-  },
-  {
-    "id": "12a6b2ff-2c27-4e94-981a-fd7b45b463f5",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
-    "summary": "1. BlackRock's IBIT led Friday's inflows at $57.7 million, with Fidelity's FBTC adding $18.0 million, while no fund reported a net outflow on the day.",
-    "url": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-13T15:25:20.000Z"
-  },
-  {
-    "id": "882020ec-2b9d-40d2-bf2f-0f892c6100b3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Saylor Says 25% of Mag8 Now Holds Bitcoin After Musk’s Historic SpaceX IPO",
-    "summary": "1. Michael Saylor congratulated Elon Musk after SpaceX’s historic IPO and said 25% of the Mag8 now holds bitcoin on corporate balance sheets.\n2. His comments underscored bitcoin’s expanding presence within the upper ranks of the technology sector as more major companies add BTC to their treasuries.\n3. SpaceX IPO Puts Saylor’s Mag8 Bitcoin View in Focus Michael […]",
-    "url": "https://news.bitcoin.com/saylor-says-25-of-mag8-now-holds-bitcoin-after-musks-historic-spacex-ipo/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-13T15:20:21.000Z"
-  },
-  {
-    "id": "1ffea95b-b81a-437b-a10a-ee12a287efe4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CoinNess Live Feed operating hours",
-    "summary": "We provide real-time cryptocurrency updates around the clock from 10:00 p.m. UTC on Sunday through 3:00 p.m. UTC on Saturday. Outside these hours, coverage is limited to critical market-moving developments.Note: Overseas economic news will continue to be provided through the CoinNess Live app and the CoinNess website.",
-    "url": "https://t.me/CoinnessGL#b5a72c17",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T15:00:25+00:00"
-  },
-  {
-    "id": "85c099ee-ad8b-4413-b7f5-2c63e9dac2e0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡  Charles Hoskinson says crypto markets aren't reflecting a bear market but an \"existential crisis,\" with people asking if cryptocurrencies even matter anymore.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f6aacd11",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-13T14:59:08+00:00"
-  },
-  {
-    "id": "d72f5827-f285-4401-a3af-288b8002e487",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran says any understanding with US is to continue dialogue, not a final deal",
-    "summary": "An Iranian Foreign Ministry spokesperson, Baghaei, stated today that any understanding reached with the U.S. is intended to continue dialogue between the two sides, not to serve as a final agreement. According to the Iranian Students' News Agency (ISNA), Baghaei emphasized during a press briefing that the release of frozen Iranian assets is an essential and non-negotiable component of any understanding. He explained that Iran's current priority is to end all conflicts and de-escalate regional tensions, adding that the specifics of the nuclear issue are not being discussed in depth at this stage. The spokesperson also asserted that the only path to regional security is the withdrawal of all foreign military forces from the area.Current agenda items also include a halt to U.S. hostile actions against Iranian vessels and matters concerning the Strait of Hormuz. Baghaei affirmed that Iran will proceed with negotiations and diplomacy with utmost caution, remaining vigilant based on past experiences, and is prepared to take countermeasures if the opposing party fails to fulfill its commitments.",
-    "url": "https://t.me/CoinnessGL#93f74567",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T14:51:20+00:00"
-  },
-  {
-    "id": "244a1399-d2cf-4a45-af73-46048c0aca75",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to Team USA on their Big Win, 4-1, over a very good Paraguay team.\n2. Keep it going!\n3. President DJT",
-    "url": "https://trumpstruth.org/statuses/39237",
-    "author": "Trump Truth",
-    "created_at": "2026-06-13T14:50:01.000Z"
-  },
-  {
-    "id": "9a0fe078-d387-479a-8ffd-cca1446488ef",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
-    "summary": "1. Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug.",
-    "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-06-13T14:45:43.000Z"
-  },
-  {
-    "id": "9f386452-3c32-4852-befe-9edf3d238ad3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump shares post on potential 24-hour US-Iran peace deal",
-    "summary": "U.S. President Donald Trump today shared a post on his social media platform, Truth Social, from the prime minister of Pakistan. The post mentioned the possibility of a peace agreement being reached between the United States and Iran within 24 hours.",
-    "url": "https://t.me/CoinnessGL#3f0f07a4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T14:37:17+00:00"
-  },
-  {
-    "id": "59d89913-7c93-4981-aaf2-20941841e360",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Visa chaos frustrates soccer fans",
-    "summary": "1. A growing number of international soccer fans say chaotic visa procedures are keeping them from attending World Cup matches in the United States.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/visa-chaos-00961310",
-    "author": "By Milena Wälde",
-    "created_at": "2026-06-13T14:30:00.000Z"
-  },
-  {
-    "id": "bc387e83-a589-44db-a58f-ff81f8b3e6b2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Fable 5 Shutdown: US Export Controls Force Anthropic Offline, Pre-IPO Speculators Bleed",
-    "summary": "1. government killed Anthropic’s most capable artificial intelligence (AI) models on June 12, 2026, and crypto markets betting on the company’s so-called private valuation immediately felt it.\n2. A Two-Stage Collapse in Four Days Anthropic released Claude Fable 5 on June 9, 2026, billing it as the most capable publicly available model in the company’s […]",
-    "url": "https://news.bitcoin.com/fable-5-shutdown-us-export-controls-force-anthropic-offline-pre-ipo-speculators-bleed/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-13T14:20:50.000Z"
-  },
-  {
-    "id": "914bd46a-8684-487c-952c-32cfcb078a5c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Kraken exec sees perpetual futures following spot ETF growth path",
-    "summary": "John Palmer, Head of Derivatives at Kraken, predicted that the U.S. market for perpetual futures will follow a growth trajectory similar to that of spot Bitcoin ETFs. He noted that with the launch of spot Bitcoin ETFs, retail and professional investors entered the market first, followed sequentially by institutional capital. Palmer expects a similar pattern for the initial launch of regulated perpetual futures products in the U.S., with professional traders and institutional investors leading the way, followed by broader participation from traditional finance entities like asset managers and investment advisory firms. Palmer assessed that perpetual futures, which lack an expiration date, have become the dominant product in the global crypto derivatives market due to their simpler structure compared to traditional futures, adding that the U.S. market is still in its early stages.",
-    "url": "https://t.me/CoinnessGL#51e548b1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T14:12:17+00:00"
-  },
-  {
-    "id": "586d1e1e-b99f-40e2-b830-8afc89c4b7f4",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Perpetual futures could become crypto's next ETF moment",
-    "summary": "1. John Palmer, head of derivatives at Kraken, said he expects sophisticated traders to lead adoption of newly approved U.S.\n2. perpetual futures, with broader institutional participation likely to follow over time.",
-    "url": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment",
-    "author": "Helene Braun",
-    "created_at": "2026-06-13T14:00:00.000Z"
-  },
-  {
-    "id": "3f466ea7-84d0-43d5-8238-61c36eec54c0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
-    "summary": "1. Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works.",
-    "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-06-13T13:58:24.000Z"
   }
 ]
