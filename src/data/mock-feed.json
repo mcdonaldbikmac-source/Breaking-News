@@ -1,5 +1,25 @@
 [
   {
+    "id": "59d89913-7c93-4981-aaf2-20941841e360",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Visa chaos frustrates soccer fans",
+    "summary": "1. A growing number of international soccer fans say chaotic visa procedures are keeping them from attending World Cup matches in the United States.",
+    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/visa-chaos-00961310",
+    "author": "By Milena Wälde",
+    "created_at": "2026-06-13T14:30:00.000Z"
+  },
+  {
+    "id": "bc387e83-a589-44db-a58f-ff81f8b3e6b2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Fable 5 Shutdown: US Export Controls Force Anthropic Offline, Pre-IPO Speculators Bleed",
+    "summary": "1. government killed Anthropic’s most capable artificial intelligence (AI) models on June 12, 2026, and crypto markets betting on the company’s so-called private valuation immediately felt it.\n2. A Two-Stage Collapse in Four Days Anthropic released Claude Fable 5 on June 9, 2026, billing it as the most capable publicly available model in the company’s […]",
+    "url": "https://news.bitcoin.com/fable-5-shutdown-us-export-controls-force-anthropic-offline-pre-ipo-speculators-bleed/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-13T14:20:50.000Z"
+  },
+  {
     "id": "914bd46a-8684-487c-952c-32cfcb078a5c",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -178,25 +198,5 @@
     "url": "https://t.me/CoinnessGL#8fb99c32",
     "author": "@CoinnessGL",
     "created_at": "2026-06-13T08:55:35+00:00"
-  },
-  {
-    "id": "aa3b65cc-6759-4447-bb9b-10fb45f49141",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Brad Garlinghouse says he's \"not going to connect an AI agent\" to his brokerage or checking account just yet, arguing that protections and structure need to come first.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0fe914f8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-13T08:24:23+00:00"
-  },
-  {
-    "id": "f9d5e6a7-9b3a-4492-878c-0942f647503b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance sees $38.73M USDT net inflow in past hour",
-    "summary": "According to CoinGlass, Binance has recorded a net inflow of approximately 38,733,200 USDT in the past hour. Stablecoin deposits to exchanges are generally interpreted as being for the purpose of purchasing cryptocurrencies.",
-    "url": "https://t.me/CoinnessGL#53c2dc00",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T08:18:44+00:00"
   }
 ]
