@@ -1,5 +1,155 @@
 [
   {
+    "id": "debc1b39-157d-4403-b469-1d8fd845d044",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
+    "summary": "1. Bitcoin traded above $64,000 on Saturday, supported by its strongest ETF inflows in a month and growing optimism around geopolitical developments.",
+    "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
+    "author": "James Van Straten",
+    "created_at": "2026-06-13T16:16:54.000Z"
+  },
+  {
+    "id": "db2649d4-2b41-429b-b629-fda1ef184686",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+    "summary": "1. Google alleges a Chinese network weaponized its Gemini AI to create phishing sites that stole millions of credit card numbers and targeted crypto investors.",
+    "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-13T16:01:04.000Z"
+  },
+  {
+    "id": "d036a6a4-bdd8-4189-8574-c6bd787b34ad",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
+    "summary": "1. In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.",
+    "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-06-13T16:00:00.000Z"
+  },
+  {
+    "id": "c9511e89-2d08-42a8-a2da-524332d083a8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+    "summary": "1. I’ve struggled with insomnia since I was very young.\n2. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds.\n3. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at […]",
+    "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+    "author": "Lauren Forristal",
+    "created_at": "2026-06-13T16:00:00.000Z"
+  },
+  {
+    "id": "aaac7a48-3e81-41d9-97b3-8a6abdf09722",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "EXPLAINED: 📊  What in the world has been going on with Bitcoin?",
+    "summary": "People have been pinning its price decline on everything from ETF outflows and Strategy’s Bitcoin sale to AI capital rotation and the SpaceX IPO.But where is BTC sitting within its four-year cycle? And how will we know once the price has bottomed? Read on to find out. 👇",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d7795926",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-13T15:33:36+00:00"
+  },
+  {
+    "id": "c8b76d51-e7eb-40e1-b9d4-218305fb0342",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Europe's top sports official talks Panini stickers and World Cup picks",
+    "summary": "1. POLITICO caught up with European Sports Commissioner Glenn Micallef in Brussels last week to get his top tips for the World Cup.",
+    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/glenn-micallef-sports-commissioner-00961314",
+    "author": "By Ali Walker",
+    "created_at": "2026-06-13T15:30:00.000Z"
+  },
+  {
+    "id": "6d1a13eb-f1f3-4189-96a7-667c1573a590",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
+    "summary": "1. Tokenization is laying the groundwork for autonomous investing and real-time portfolio management, Ondo's new head of portfolio products John Hoffman said.",
+    "url": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-13T15:29:00.000Z"
+  },
+  {
+    "id": "12a6b2ff-2c27-4e94-981a-fd7b45b463f5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
+    "summary": "1. BlackRock's IBIT led Friday's inflows at $57.7 million, with Fidelity's FBTC adding $18.0 million, while no fund reported a net outflow on the day.",
+    "url": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-13T15:25:20.000Z"
+  },
+  {
+    "id": "882020ec-2b9d-40d2-bf2f-0f892c6100b3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Saylor Says 25% of Mag8 Now Holds Bitcoin After Musk’s Historic SpaceX IPO",
+    "summary": "1. Michael Saylor congratulated Elon Musk after SpaceX’s historic IPO and said 25% of the Mag8 now holds bitcoin on corporate balance sheets.\n2. His comments underscored bitcoin’s expanding presence within the upper ranks of the technology sector as more major companies add BTC to their treasuries.\n3. SpaceX IPO Puts Saylor’s Mag8 Bitcoin View in Focus Michael […]",
+    "url": "https://news.bitcoin.com/saylor-says-25-of-mag8-now-holds-bitcoin-after-musks-historic-spacex-ipo/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-13T15:20:21.000Z"
+  },
+  {
+    "id": "875f6420-0f32-42d3-b1a6-5459abfaad01",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CoinNess Live Feed operating hours",
+    "summary": "We provide real-time cryptocurrency updates around the clock from 10:00 p.m. UTC on Sunday through 3:00 p.m. UTC on Saturday. Outside these hours, coverage is limited to critical market-moving developments.Note: Overseas economic news will continue to be provided through the CoinNess Live app and the CoinNess website.",
+    "url": "https://t.me/CoinnessGL#b5a72c17",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-13T15:00:25+00:00"
+  },
+  {
+    "id": "46c1c293-4354-4132-8564-de0abc69ad89",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡  Charles Hoskinson says crypto markets aren't reflecting a bear market but an \"existential crisis,\" with people asking if cryptocurrencies even matter anymore.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f6aacd11",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-13T14:59:08+00:00"
+  },
+  {
+    "id": "df36989c-30a2-467e-99ad-6122ed74124b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Iran says any understanding with US is to continue dialogue, not a final deal",
+    "summary": "An Iranian Foreign Ministry spokesperson, Baghaei, stated today that any understanding reached with the U.S. is intended to continue dialogue between the two sides, not to serve as a final agreement. According to the Iranian Students' News Agency (ISNA), Baghaei emphasized during a press briefing that the release of frozen Iranian assets is an essential and non-negotiable component of any understanding. He explained that Iran's current priority is to end all conflicts and de-escalate regional tensions, adding that the specifics of the nuclear issue are not being discussed in depth at this stage. The spokesperson also asserted that the only path to regional security is the withdrawal of all foreign military forces from the area.Current agenda items also include a halt to U.S. hostile actions against Iranian vessels and matters concerning the Strait of Hormuz. Baghaei affirmed that Iran will proceed with negotiations and diplomacy with utmost caution, remaining vigilant based on past experiences, and is prepared to take countermeasures if the opposing party fails to fulfill its commitments.",
+    "url": "https://t.me/CoinnessGL#93f74567",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-13T14:51:20+00:00"
+  },
+  {
+    "id": "244a1399-d2cf-4a45-af73-46048c0aca75",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Congratulations to Team USA on their Big Win, 4-1, over a very good Paraguay team.\n2. Keep it going!\n3. President DJT",
+    "url": "https://trumpstruth.org/statuses/39237",
+    "author": "Trump Truth",
+    "created_at": "2026-06-13T14:50:01.000Z"
+  },
+  {
+    "id": "9a0fe078-d387-479a-8ffd-cca1446488ef",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
+    "summary": "1. Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug.",
+    "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-06-13T14:45:43.000Z"
+  },
+  {
+    "id": "df07ead6-f209-4a7b-bc3e-db10c9f0ce26",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump shares post on potential 24-hour US-Iran peace deal",
+    "summary": "U.S. President Donald Trump today shared a post on his social media platform, Truth Social, from the prime minister of Pakistan. The post mentioned the possibility of a peace agreement being reached between the United States and Iran within 24 hours.",
+    "url": "https://t.me/CoinnessGL#3f0f07a4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-13T14:37:17+00:00"
+  },
+  {
     "id": "59d89913-7c93-4981-aaf2-20941841e360",
     "source": "Politico",
     "type": "rss",
@@ -188,15 +338,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#cdac3bf8",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-13T10:54:06+00:00"
-  },
-  {
-    "id": "04444df8-d006-471e-b20b-6eaa1cb4afc4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Anvil CEO says he lost everything after 5 years of betting on Cardano",
-    "summary": "Zack Soesbee, CEO of Cardano ecosystem development agency Anvil, said on X that he has lost virtually everything after investing his time, assets, and career into the Cardano ecosystem and ADA for the past five years. He stated that he and his co-founders operated their business for three years without salaries, minimizing costs to contribute to the ecosystem's growth. Meanwhile, he claimed, others were drawing comfortable salaries and misusing community and treasury funds. As a result, Soesbee noted, the price of ADA has fallen to the 10-cent range, and his company is unable to secure contracts within the Cardano ecosystem to stay afloat. He added that community business proposals they had prepared for months have not been approved. To save his house, Soesbee said he sold his ADA holdings at $0.16, a stake he had held for five years. \"I now feel like I was just one of the flock and don't know why I should continue developing in the Cardano ecosystem,\" he said, adding, \"I've lost everything except my wife, and now even she is growing displeased with me.\"",
-    "url": "https://t.me/CoinnessGL#8fb99c32",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-13T08:55:35+00:00"
   }
 ]
