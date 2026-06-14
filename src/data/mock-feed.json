@@ -1,6 +1,116 @@
 [
   {
-    "id": "7ccd8629-7d46-49c5-87c3-2a093ce021dc",
+    "id": "5fb28f42-cf68-4349-be41-bcb996d653f2",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Perceived corruption of World Cup countries",
+    "summary": "1. Here's the data breakdown on how World Cup competitors stack up, based on the Transparency International’s Corruption Perceptions Index.",
+    "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/corruption-index-haiti-norway-new-zealand-00961654",
+    "author": "By Paul Dallison",
+    "created_at": "2026-06-14T16:20:32.000Z"
+  },
+  {
+    "id": "0b637e5b-cb1a-4fab-a1d4-97abe097907a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+    "summary": "1. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-06-14T16:05:00.000Z"
+  },
+  {
+    "id": "4f6ecd55-573b-48fe-b401-5d701c271408",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Animoca Brands co-founder Yat Siu says crypto is like \"Trump's tenth child\" — loved but not the priority compared to China or Iran.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d052cf2e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-14T16:04:10+00:00"
+  },
+  {
+    "id": "d3e330f7-8a99-4dd9-98f7-49edf9ed3dfc",
+    "source": "Politico",
+    "type": "rss",
+    "title": "UK and US voters are highly cynical. They express it differently.",
+    "summary": "1. Here's what new analysis from Public First reveals about the ways British and American voters respond to their frustration with politicians.",
+    "url": "https://www.politico.com/news/2026/06/14/uk-us-trump-starmer-elections-00960828",
+    "author": "By Erin Doherty",
+    "created_at": "2026-06-14T16:00:00.000Z"
+  },
+  {
+    "id": "abd6c9cb-ab03-4469-a6e6-ea9e3792beb2",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Trump family crypto firm World Liberty Financial to fund UFC fighter bonuses at White House event today.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#1ff310a4",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-14T15:53:26+00:00"
+  },
+  {
+    "id": "1d184edf-df47-4757-9895-f0ea37172dc5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
+    "summary": "1. The deal puts USD1 branding inside the Octagon at an event held on the White House South Lawn, on President Trump's 80th birthday.",
+    "url": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-14T15:44:41.000Z"
+  },
+  {
+    "id": "9df157bb-63bf-4e88-b2bc-febe81982535",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "US Shuts Down Two Anthropic Models and Traders Move $2.87B Into Decentralized AI",
+    "summary": "1. With the U.S.\n2. government compelling Anthropic to pull its two most advanced intelligence models—Fable 5 and Mythos 5—from customers around the globe, crypto assets linked to decentralized artificial intelligence (AI) have enjoyed a banner week.\n3. Fresh data indicates that approximately $2.87 billion has poured into AI-focused crypto tokens over the past seven days, suggesting that […]",
+    "url": "https://news.bitcoin.com/us-shuts-down-two-anthropic-models-and-traders-move-2-87b-into-decentralized-ai/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-14T15:30:42.000Z"
+  },
+  {
+    "id": "dac2dfd1-12f6-48f6-a451-e35bef34eb4a",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Thank you Michael.\n2. The Dumocrats Weaponized Government at levels never seen before, and you survived it all.\n3. They should pay the ultimate price for what they have done!!!",
+    "url": "https://trumpstruth.org/statuses/39251",
+    "author": "Trump Truth",
+    "created_at": "2026-06-14T15:26:32.000Z"
+  },
+  {
+    "id": "ae7f5f9a-0924-40e4-8595-d4b5baa60f13",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+    "summary": "1. The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees.",
+    "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-06-14T15:00:00.000Z"
+  },
+  {
+    "id": "20c7aec7-191c-46c9-9585-ba658f938021",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. This morning’s attack on Beirut should not have happened, particularly on a special day when we are so close to a Peace Deal with Iran.\n2. Israel has the right to defend itself against threats, but the attack it was responding to was very small and meaningless, nobody was hurt, injured, or killed, and should not disrupt this important process.\n3. We are very close to a Deal that will bring peace to the region, including to Lebanon, and all sides should stand down.",
+    "url": "https://trumpstruth.org/statuses/39250",
+    "author": "Trump Truth",
+    "created_at": "2026-06-14T14:46:45.000Z"
+  },
+  {
+    "id": "7d6eff7c-960d-4d5e-9802-ceacad92842b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Anthony Pompliano says this is \"one of the best bear markets\" for Bitcoin, with bottom signals already firing at only a 50% drawdown rather than the usual 80%.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3e65ebe1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-14T14:34:39+00:00"
+  },
+  {
+    "id": "6b241aca-604c-4618-aa47-28289c034117",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "EXPLAINED: 📊 Is the Bitcoin bottom in?",
@@ -100,7 +210,7 @@
     "created_at": "2026-06-14T12:49:58.000Z"
   },
   {
-    "id": "29f6d641-3cd9-4e6e-bde2-e66fd30d4b2f",
+    "id": "dd8f44fb-3187-4129-b17c-1bb15eb07a85",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Michael Saylor hints at buying more Bitcoin.\"Still adding dots.\"@WatcherGuru",
@@ -168,45 +278,5 @@
     "url": "https://news.bitcoin.com/michael-saylors-pivot-blackrocks-new-etp-and-more-week-in-review/",
     "author": "Alex Richardson",
     "created_at": "2026-06-14T10:30:32.000Z"
-  },
-  {
-    "id": "d9781689-b27f-4efa-879a-d7dc2506abd1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
-    "summary": "1. Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound.",
-    "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-14T10:06:04.000Z"
-  },
-  {
-    "id": "28a4216b-f5fd-451a-9143-edb80b6dac15",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Charles Hoskinson says there's an \"inevitability\" that Cardano will surpass Bitcoin if people keep pushing and investing in the ecosystem.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#377c797c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-14T09:39:21+00:00"
-  },
-  {
-    "id": "af242795-feeb-4c4a-868b-8c0a8cfdeba1",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bank of China Survey Reveals 95% of Overseas Businesses Will Sustain or Increase Yuan Use",
-    "summary": "1. The survey shows that the Chinese government’s internationalization campaign of the yuan, pushed by President Xi himself, is working.\n2. The number of overseas businesses willing to hold yuan deposits grew to a five-year high, supported by the currency’s “relatively stable purchasing power.” Confidence in The Chinese Yuan Surges: 95% of Overseas Firms Expect to Increase […]",
-    "url": "https://news.bitcoin.com/bank-of-china-survey-reveals-95-of-overseas-businesses-will-sustain-or-increase-yuan-use/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-14T09:30:40.000Z"
-  },
-  {
-    "id": "87b0ae77-02ad-4d45-8dc6-666518aab272",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Mining Difficulty Set for Steep Drop as Hashrate Slides After Price Crash",
-    "summary": "1. Bitcoin’s mining difficulty is on track for the second-largest downward adjustment this year, offering a reprieve to miners after a sharp pullback in network hashrate followed bitcoin’s early June price crash.\n2. This article first appeared in The Energy Mag.\n3. The original article can be viewed here.",
-    "url": "https://news.bitcoin.com/bitcoin-mining-difficulty-set-for-steep-drop-as-hashrate-slides-after-price-crash/",
-    "author": "Guest Author",
-    "created_at": "2026-06-14T08:30:28.000Z"
   }
 ]
