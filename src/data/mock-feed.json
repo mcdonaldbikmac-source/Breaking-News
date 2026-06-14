@@ -1,5 +1,85 @@
 [
   {
+    "id": "28a4216b-f5fd-451a-9143-edb80b6dac15",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Charles Hoskinson says there's an \"inevitability\" that Cardano will surpass Bitcoin if people keep pushing and investing in the ecosystem.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#377c797c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-14T09:39:21+00:00"
+  },
+  {
+    "id": "af242795-feeb-4c4a-868b-8c0a8cfdeba1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bank of China Survey Reveals 95% of Overseas Businesses Will Sustain or Increase Yuan Use",
+    "summary": "1. The survey shows that the Chinese government’s internationalization campaign of the yuan, pushed by President Xi himself, is working.\n2. The number of overseas businesses willing to hold yuan deposits grew to a five-year high, supported by the currency’s “relatively stable purchasing power.” Confidence in The Chinese Yuan Surges: 95% of Overseas Firms Expect to Increase […]",
+    "url": "https://news.bitcoin.com/bank-of-china-survey-reveals-95-of-overseas-businesses-will-sustain-or-increase-yuan-use/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-14T09:30:40.000Z"
+  },
+  {
+    "id": "87b0ae77-02ad-4d45-8dc6-666518aab272",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Mining Difficulty Set for Steep Drop as Hashrate Slides After Price Crash",
+    "summary": "1. Bitcoin’s mining difficulty is on track for the second-largest downward adjustment this year, offering a reprieve to miners after a sharp pullback in network hashrate followed bitcoin’s early June price crash.\n2. This article first appeared in The Energy Mag.\n3. The original article can be viewed here.",
+    "url": "https://news.bitcoin.com/bitcoin-mining-difficulty-set-for-steep-drop-as-hashrate-slides-after-price-crash/",
+    "author": "Guest Author",
+    "created_at": "2026-06-14T08:30:28.000Z"
+  },
+  {
+    "id": "6ddbad90-fb0a-4be4-a0ec-f849a7f36cdd",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Ripple CEO Brad Garlinghouse says the company expects to end 2026 with a $1B revenue run rate, not including the XRP on its balance sheet.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e4f2bf83",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-14T07:34:26+00:00"
+  },
+  {
+    "id": "04ec81c7-bc46-46d8-aecf-1b7ff3b400db",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Rob Hadick Warns Tether and Circle Face Rising Pressure From New Stablecoins",
+    "summary": "1. Dragonfly General Partner Rob Hadick believes stablecoins are entering a new phase.\n2. While USDT and USDC remain dominant today, he argues that growing competition from banks, fintechs, and new issuers will eventually break the stablecoin duopoly and create a more diverse market built around specific use cases.\n3. Dragonfly’s Rob Hadick Says the USDT-USDC Duopoly Won’t […]",
+    "url": "https://news.bitcoin.com/rob-hadick-warns-tether-and-circle-face-rising-pressure-from-new-stablecoins/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-14T07:30:39.000Z"
+  },
+  {
+    "id": "53cf9c1d-aa58-4c86-8e0e-152deb91f1c5",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Ukraine is officially joining the European Union.All 27 EU member states backed advancing Ukraine’s accession process, marking a historic milestone in the country’s path toward full EU membership.The breakthrough came after Hungary, which had blocked progress for years, reversed its position and gave its approval.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#02ca0195",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-14T07:23:53+00:00"
+  },
+  {
+    "id": "0b76c7dd-0317-484b-b801-e5e2d3ebf3e3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-14T05:32:00.000Z"
+  },
+  {
+    "id": "83c08f96-5daa-423f-81f6-58f6dada05b7",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+    "summary": "1. Crypto analyst Michaël van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies.",
+    "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-14T05:07:31.000Z"
+  },
+  {
     "id": "84abf05f-b9e4-46c2-af88-00d1da43478f",
     "source": "Trump Truth",
     "type": "rss",
@@ -28,85 +108,5 @@
     "url": "https://trumpstruth.org/statuses/39247",
     "author": "Trump Truth",
     "created_at": "2026-06-14T04:29:33.000Z"
-  },
-  {
-    "id": "9af86cb6-f935-4644-b34f-62c1d3b8a27a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
-    "summary": "1. Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
-    "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-14T03:36:49.000Z"
-  },
-  {
-    "id": "9ea0616e-76ca-47e8-a1f6-e2c7ce39a656",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "$1.5 Trillion Transacted: Rain Report Reveals the Massive Scale of Latam’s Stablecoin Economy",
-    "summary": "1. The crypto card company stressed that these volumes result from a more conscious use of stablecoins, driven by concrete problem-solving rather than by speculative or purely transactional objectives, unlike those in other markets.\n2. Colombia and Bolivia are among the highest-growth markets.\n3. Rain Report Underscores Large Growth Of Crypto Cards In Latam Rain, a company that […]",
-    "url": "https://news.bitcoin.com/1-5-trillion-transacted-rain-report-reveals-the-massive-scale-of-latams-stablecoin-economy/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-14T03:30:53.000Z"
-  },
-  {
-    "id": "a2bee840-1ea3-407a-ac21-96484ad37456",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "summary": "1. Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-06-14T03:00:00.000Z"
-  },
-  {
-    "id": "00672214-0877-42a0-bd83-ee0162114659",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran will reopen the Strait of Hormuz without charging transit fees, Fox News citing US officialTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#1763a478",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-14T02:57:29+00:00"
-  },
-  {
-    "id": "4675e526-e75c-4aae-bb4c-e48c235d7337",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Binance Sees Pre-IPO Boom as $225B IPO Wave Drives Demand for On-Chain Access",
-    "summary": "1. Binance expects crypto pre-IPO markets to expand as U.S.\n2. IPO fundraising is projected to surpass $225 billion, putting 2026 on track for a record.\n3. Its analysis highlights growing demand for on-chain private-market exposure through derivatives, listed-equity products, and stablecoin-based settlement infrastructure.",
-    "url": "https://news.bitcoin.com/binance-sees-pre-ipo-boom-as-225b-ipo-wave-drives-demand-for-on-chain-access/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-14T02:30:59.000Z"
-  },
-  {
-    "id": "27225675-555e-44ce-910b-5e35eefa98fd",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Fan of the people",
-    "summary": "1. Juggling the Knicks and World Cup, New York City Mayor Zohran Mamdani is modeling a new version of lefty sports fandom.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/mamdani-fan-of-the-people-00961528",
-    "author": "By Calder McHugh",
-    "created_at": "2026-06-14T00:15:00.000Z"
-  },
-  {
-    "id": "7530ee38-77b5-45a6-99a8-924cc1d0b5db",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Top Democrats watch Brazil-Morocco match – together",
-    "summary": "1. Sherrill, Hochul and Mamdani sat together to take in the action.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/top-dems-watch-match-together-00961531",
-    "author": "By Ry Rivard",
-    "created_at": "2026-06-14T00:09:55.000Z"
-  },
-  {
-    "id": "f0204324-d1fc-4928-96d7-761cd559249b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-    "summary": "1. Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-    "author": "Kate Park",
-    "created_at": "2026-06-14T00:03:49.000Z"
   }
 ]
