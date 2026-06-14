@@ -1,242 +1,102 @@
 [
   {
-    "id": "423da7f9-2625-49d7-8818-7e5810306f2c",
+    "id": "307dd206-412b-4a58-9197-e22bee9561ac",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "SpaceX IPO Puts 18,712 Bitcoin Treasury on Wall Street’s Radar",
-    "summary": "1. SpaceX’s historic IPO drew fresh attention to one of the largest bitcoin positions held by a public company.\n2. SEC filings show 18,712 BTC on the balance sheet with a fair value of $1.293 billion.\n3. Historic SpaceX IPO Spotlights One of America’s Boldest Bitcoin Treasuries Space Exploration Technologies Corp.",
-    "url": "https://news.bitcoin.com/spacex-ipo-puts-18712-bitcoin-treasury-on-wall-streets-radar/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-13T21:48:29.000Z"
+    "title": "Pyth Network Targets Bloomberg’s $50 Billion Market-Data Empire",
+    "summary": "1. Pyth Network is pushing deeper into the more than $50 billion market for financial data, launching 24/7 index products across metals, oil, and U.S.\n2. equities as it positions its onchain price feeds against incumbents like Bloomberg.\n3. A $50 Billion Target The decentralized oracle network, software that delivers real-world prices onto blockchains, unveiled the new proprietary […]",
+    "url": "https://news.bitcoin.com/pyth-network-targets-bloombergs-50-billion-market-data-empire/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-14T04:30:41.000Z"
   },
   {
-    "id": "c139980d-b4dc-4e81-8e4d-e541e1182328",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Anthropic’s Secret AI Model Mythos Audits Entire Zcash Protocol, Finds No New Bugs",
-    "summary": "1. Zcash founder Zooko Wilcox-O’Hearn publicly thanked Anthropic this week, confirming the artificial intelligence (AI) company ran a full security audit of the Zcash protocol using its restricted frontier model, Mythos, and found no additional critical vulnerabilities.\n2. Zooko Thanks Anthropic After Full Protocol Audit The statement came directly from Zooko, the online handle for Zooko Wilcox-O’Hearn, […]",
-    "url": "https://news.bitcoin.com/anthropics-secret-ai-model-mythos-audits-entire-zcash-protocol-finds-no-new-bugs-37856/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-13T21:05:33.000Z"
-  },
-  {
-    "id": "6d7c2edb-e14f-4340-8379-c3d06c4bea15",
-    "source": "Politico",
-    "type": "rss",
-    "title": "FIFA's encounter with North America's messy democracy",
-    "summary": "1. Gianni Infantino is the new century's unlikely Alexis de Tocqueville.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/fifa-discovers-democracy-00961398",
-    "author": "By Ry Rivard",
-    "created_at": "2026-06-13T20:51:51.000Z"
-  },
-  {
-    "id": "52410100-0709-41ca-bb41-54399cf2b24b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "summary": "1. Once again, AI proves to be an unreliable source of information about AI.",
-    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-13T20:42:31.000Z"
-  },
-  {
-    "id": "3188f7da-4c8e-48be-be71-f1349f1a7cc3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Iran Denies Sunday Signing as Trump Declares Strait of Hormuz ‘Open to All’ Tomorrow",
-    "summary": "1. President Donald Trump declared Saturday that a landmark agreement with Iran will be signed on Sunday, June 14, with the Strait of Hormuz reopening to all shipping immediately afterward, but Iranian officials quickly disputed that timeline.\n2. What Trump Said Trump posted Saturday on Truth Social that his agreement with Iran represents the opposite of […]",
-    "url": "https://news.bitcoin.com/iran-denies-sunday-signing-as-trump-declares-strait-of-hormuz-open-to-all-tomorrow/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-13T20:20:03.000Z"
-  },
-  {
-    "id": "3a6bd27c-e2db-402b-99af-53961c26df87",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Venice and Morpheus tokens climb as US ban on Anthropic’s Fable 5 fuels ‘permissionless AI’ pitch",
-    "summary": "1. Venice founder Erik Voorhees and the official Morpheus account seized on the shutdown, casting it as proof of \"permissionless\" AI's use case.",
-    "url": "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-13T20:04:46.000Z"
-  },
-  {
-    "id": "e262ec0b-ca85-4ad7-8477-cd58210a49a5",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
-    "summary": "1. Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
-    "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-13T19:23:34.000Z"
-  },
-  {
-    "id": "6f1c68a1-7b3a-4bdc-98ad-851e97b762b0",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Everyone Is Getting Hilariously Rich and You’re Not — Week In Review",
-    "summary": "1. This editorial is from this week’s edition of the newsletter Week in Review, sent to subscribers on Friday.\n2. Subscribe to the newsletter to get this weekly editorial the second it’s finished.\n3. The newsletter also includes the biggest stories of the week with a comment on each story.",
-    "url": "https://news.bitcoin.com/everyone-is-getting-hilariously-rich-and-youre-not-week-in-review/",
-    "author": "David Sencil",
-    "created_at": "2026-06-13T19:20:42.000Z"
-  },
-  {
-    "id": "041a45fb-0a62-4f06-944c-3c274a0cd057",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "summary": "1. Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-13T19:11:41.000Z"
-  },
-  {
-    "id": "3974093b-33bb-46fa-a714-22bbedd735e3",
+    "id": "f7c2db38-8883-4f0f-b812-9c1790230188",
     "source": "Trump Truth",
     "type": "rss",
     "title": "New post from Donald Trump",
-    "summary": "1. I am pleased to announce my intent to appoint James M.\n2. McDonald as the United States Attorney for the Southern District of New York.\n3. A native of the Great State of Oklahoma, Jamie is a former Assistant U.S.",
-    "url": "https://trumpstruth.org/statuses/39243",
+    "summary": "1. Congratulations to Jim Dolan and the New York Knicks!!!\n2. What a year it has been but, even more so, what incredible playoff wins we have all witnessed, especially the last four - Maybe the greatest in the history of basketball.\n3. Also, tonight, a superstar was born.",
+    "url": "https://trumpstruth.org/statuses/39247",
     "author": "Trump Truth",
-    "created_at": "2026-06-13T18:58:22.000Z"
+    "created_at": "2026-06-14T04:29:33.000Z"
   },
   {
-    "id": "2e56d410-404b-4efd-a740-060ad49632c2",
-    "source": "Politico",
+    "id": "9af86cb6-f935-4644-b34f-62c1d3b8a27a",
+    "source": "CoinTelegraph",
     "type": "rss",
-    "title": "Macron dreams of burnishing his legacy via French World Cup glory",
-    "summary": "1. France’s national team has flourished during the president’s tenure, but he’s struggled to turn sporting triumph into political gain.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/emmanuel-macron-kylian-mbappe-french-team-00961476",
-    "author": "By Victor Goury-Laffont",
-    "created_at": "2026-06-13T18:30:00.000Z"
+    "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+    "summary": "1. Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
+    "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-14T03:36:49.000Z"
   },
   {
-    "id": "cc6ebca0-8e20-47ab-8afb-16ea3483ded5",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
-    "summary": "1. The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.",
-    "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-13T18:21:35.000Z"
-  },
-  {
-    "id": "986ccadb-7373-45c2-8331-bade0d7d21d5",
+    "id": "9ea0616e-76ca-47e8-a1f6-e2c7ce39a656",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "40x Claude Max Value Shows Why Heavy Crypto Coders Are Getting a Rare Deal",
-    "summary": "1. Semianalysis says top artificial intelligence (AI) subscriptions may hand heavy users thousands of dollars in hidden compute value, and that gap could give crypto-native AI networks a clearer opening.\n2. The June 2026 report tested consumer tiers from Anthropic and OpenAI by running long-horizon coding and agentic tasks until weekly limits were exhausted.\n3. The finding was […]",
-    "url": "https://news.bitcoin.com/40x-claude-max-value-shows-why-heavy-crypto-coders-are-getting-a-rare-deal/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-13T18:20:32.000Z"
+    "title": "$1.5 Trillion Transacted: Rain Report Reveals the Massive Scale of Latam’s Stablecoin Economy",
+    "summary": "1. The crypto card company stressed that these volumes result from a more conscious use of stablecoins, driven by concrete problem-solving rather than by speculative or purely transactional objectives, unlike those in other markets.\n2. Colombia and Bolivia are among the highest-growth markets.\n3. Rain Report Underscores Large Growth Of Crypto Cards In Latam Rain, a company that […]",
+    "url": "https://news.bitcoin.com/1-5-trillion-transacted-rain-report-reveals-the-massive-scale-of-latams-stablecoin-economy/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-14T03:30:53.000Z"
   },
   {
-    "id": "6ecfc843-3449-4e24-b7e0-0746be09551b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-    "summary": "1. Anthropic’s new Claude Fable 5 puts powerful cyber tools behind safety filters.\n2. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the filters fail.",
-    "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-13T18:00:00.000Z"
-  },
-  {
-    "id": "ec382bce-da9d-4de5-b5b5-2ea2f35b85d5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock’s IBIT Leads $86 Million Bitcoin ETF Inflow as Ethereum Funds Extend Outflow Streak",
-    "summary": "1. Spot bitcoin exchange-traded funds (ETFs) drew $85.85 million in net inflows on Friday, with every one of the 12 tracked funds avoiding outflows, even as spot ethereum ETFs bled for a fourth straight day.\n2. Blackrock’s IBIT Leads Again The figures, based on data tracked by Sosovalue, show a clear split in institutional appetite between the […]",
-    "url": "https://news.bitcoin.com/bitcoin-etf-inflows-ethereum-outflows-june-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-13T17:20:18.000Z"
-  },
-  {
-    "id": "0abaebee-5ac9-4479-ad92-a6e20b5f8d35",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Standard Chartered says \"winter is over,\" with Bitcoin's drop below $60,000 marking crypto's low point.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ff397da5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-13T17:19:22+00:00"
-  },
-  {
-    "id": "d59b7741-c45e-4707-84f8-1bdeb807434e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
-    "summary": "1. The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model.\n2. Its first earnings cycles will test which version of corporate crypto survives a bear market.",
-    "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-13T17:00:16.000Z"
-  },
-  {
-    "id": "81485976-69e5-4886-83cd-872fda5bb71e",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 President Trump says peace deal with Iran is scheduled to be signed tomorrow and the Strait of Hormuz will be \"open to all.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#90f66eed",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-13T16:51:34+00:00"
-  },
-  {
-    "id": "dcd3bbdf-ced1-4b34-98d2-52ed143c516e",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Iranian ambassador at World Cup: ‘Iran and the U.S. can be very good friends’",
-    "summary": "1. Tehran's top diplomat in Mexico says Iran's presence in the United States for the World Cup should be read as a gesture of goodwill amid talks to end the conflict.",
-    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/iran-ambassador-mexico-abolfazl-pasandideh-00961408",
-    "author": "By Sophia Cai",
-    "created_at": "2026-06-13T16:51:26.000Z"
-  },
-  {
-    "id": "dd2d74d0-dda9-44ae-ae53-351f6d57cb66",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-    "summary": "1. O’Connor argues that crypto’s clearest success story has scaled as money but not as capital.",
-    "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-    "author": "John O’Connor",
-    "created_at": "2026-06-13T16:51:00.000Z"
-  },
-  {
-    "id": "1541056a-440a-48a1-8dc9-3389cdad949d",
+    "id": "a2bee840-1ea3-407a-ac21-96484ad37456",
     "source": "TechCrunch",
     "type": "rss",
-    "title": "OpenAI faces investigation from state attorneys general",
-    "summary": "1. It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-13T16:47:18.000Z"
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "summary": "1. Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-14T03:00:00.000Z"
   },
   {
-    "id": "98938123-e3b8-42bc-b749-5a87f1d1966f",
+    "id": "00672214-0877-42a0-bd83-ee0162114659",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Iran will reopen the Strait of Hormuz without charging transit fees, Fox News citing US officialTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#1763a478",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-14T02:57:29+00:00"
+  },
+  {
+    "id": "4675e526-e75c-4aae-bb4c-e48c235d7337",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Binance Sees Pre-IPO Boom as $225B IPO Wave Drives Demand for On-Chain Access",
+    "summary": "1. Binance expects crypto pre-IPO markets to expand as U.S.\n2. IPO fundraising is projected to surpass $225 billion, putting 2026 on track for a record.\n3. Its analysis highlights growing demand for on-chain private-market exposure through derivatives, listed-equity products, and stablecoin-based settlement infrastructure.",
+    "url": "https://news.bitcoin.com/binance-sees-pre-ipo-boom-as-225b-ipo-wave-drives-demand-for-on-chain-access/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-14T02:30:59.000Z"
+  },
+  {
+    "id": "27225675-555e-44ce-910b-5e35eefa98fd",
     "source": "Politico",
     "type": "rss",
-    "title": "Trump’s name purged from Kennedy Center",
-    "summary": "1. The removal marks the end of the president’s longtime effort to assert control over the institution, one of Washington’s most iconic landmarks.",
-    "url": "https://www.politico.com/news/2026/06/13/trumps-name-kennedy-center-00961458",
-    "author": "By Gregory Svirnovskiy",
-    "created_at": "2026-06-13T16:46:36.000Z"
+    "title": "Fan of the people",
+    "summary": "1. Juggling the Knicks and World Cup, New York City Mayor Zohran Mamdani is modeling a new version of lefty sports fandom.",
+    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/mamdani-fan-of-the-people-00961528",
+    "author": "By Calder McHugh",
+    "created_at": "2026-06-14T00:15:00.000Z"
   },
   {
-    "id": "5ac3fbb3-00d0-4595-9af3-59aac37af76a",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "SpaceX $SPCX beats Nvidia's record for largest stock market cap increase in a...",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#76624990",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-13T16:37:58+00:00"
-  },
-  {
-    "id": "debc1b39-157d-4403-b469-1d8fd845d044",
-    "source": "CoinDesk",
+    "id": "7530ee38-77b5-45a6-99a8-924cc1d0b5db",
+    "source": "Politico",
     "type": "rss",
-    "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-    "summary": "1. Bitcoin traded above $64,000 on Saturday, supported by its strongest ETF inflows in a month and growing optimism around geopolitical developments.",
-    "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
-    "author": "James Van Straten",
-    "created_at": "2026-06-13T16:16:54.000Z"
+    "title": "Top Democrats watch Brazil-Morocco match – together",
+    "summary": "1. Sherrill, Hochul and Mamdani sat together to take in the action.",
+    "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/top-dems-watch-match-together-00961531",
+    "author": "By Ry Rivard",
+    "created_at": "2026-06-14T00:09:55.000Z"
+  },
+  {
+    "id": "f0204324-d1fc-4928-96d7-761cd559249b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "summary": "1. Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "author": "Kate Park",
+    "created_at": "2026-06-14T00:03:49.000Z"
   }
 ]
