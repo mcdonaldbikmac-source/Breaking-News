@@ -1,5 +1,125 @@
 [
   {
+    "id": "7ccd8629-7d46-49c5-87c3-2a093ce021dc",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "EXPLAINED: 📊 Is the Bitcoin bottom in?",
+    "summary": "Easing ETF selling, institutional buying, the SpaceX IPO, and falling oil prices might mark investors’ early return to crypto markets.What should we expect for the crypto market this week? Read on to find out. 👇",
+    "url": "https://t.me/CoinMarketCapAnnouncements#5c3700f8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-14T14:18:09+00:00"
+  },
+  {
+    "id": "6e0e22cb-1e6c-4fa4-b526-2fce15689cea",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Still Adding Dots: Saylor Puts Bitcoin Bulls on Strategy Buy Watch",
+    "summary": "1. Michael Saylor’s latest orange-dot chart renewed speculation about another Strategy bitcoin buy as the company’s holdings reached 845,256 BTC.\n2. The post followed a rare 32 BTC sale, a much larger 1,550 BTC purchase, and fresh attention on corporate bitcoin treasuries.\n3. Saylor’s Familiar Bitcoin Chart Revives Focus on Strategy’s Next Move Optimism around another Strategy Inc.",
+    "url": "https://news.bitcoin.com/still-adding-dots-saylor-puts-bitcoin-bulls-on-strategy-buy-watch/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-14T14:01:00.000Z"
+  },
+  {
+    "id": "17ca2365-e622-4190-9de4-f58240fc8b62",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+    "summary": "1. Former SEC lawyers say that using its power to grant tokenization \"innovation\" efforts an exemption from securities law isn't as strong as a full-fledged rule.",
+    "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-06-14T14:00:00.000Z"
+  },
+  {
+    "id": "d594baf8-b0dd-43d0-8ac3-a7e0176e9711",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Secretive super PAC funding is skyrocketing in primaries",
+    "summary": "1. A POLITICO analysis found more than $48 million has been spent on House and Senate primaries by super PACs that have not yet revealed their donors.",
+    "url": "https://www.politico.com/news/2026/06/14/super-pacs-campaign-finance-2026-primaries-00960808",
+    "author": "By Jessica Piper and Andrew Howard",
+    "created_at": "2026-06-14T14:00:00.000Z"
+  },
+  {
+    "id": "4c7f9e38-e640-4d32-8ff5-cc73bf67e96e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The government officials who can't wait to clean out stadium toilets",
+    "summary": "1. Los Angeles County's health department is collecting match-day wastewater to monitor for potential outbreaks.",
+    "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/sofi-stadium-wastewater-inglewood-00961576",
+    "author": "By Sasha Issenberg",
+    "created_at": "2026-06-14T14:00:00.000Z"
+  },
+  {
+    "id": "147b529f-129f-403e-b0e0-858e570acdb6",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+    "summary": "1. The new Sonos Play can act as a portable speaker inside and outside your home.",
+    "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-06-14T14:00:00.000Z"
+  },
+  {
+    "id": "92d775a0-35e8-44aa-88fc-8b43181dc8d4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+    "summary": "1. The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
+    "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-06-14T13:49:48.000Z"
+  },
+  {
+    "id": "94946bb4-296e-48b1-9f3d-9bce182a0f88",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
+    "summary": "1. Tokenized Pokémon card sales have skyrocketed over the past year, fueled by a wave of speculation and so-called gacha machines.",
+    "url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+    "author": "André Beganski",
+    "created_at": "2026-06-14T13:01:03.000Z"
+  },
+  {
+    "id": "16f133af-90a8-4e98-9e9e-a5c10c71d0e1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+    "summary": "1. Not all crypto exchange executives agree, but the data does not lie: centralized exchange trading volumes dropped more than 11% to $4.61 trillion, their lowest since late 2024.",
+    "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-14T13:00:00.000Z"
+  },
+  {
+    "id": "e626a6ea-c552-4647-8ab1-3ac4355e4e62",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The man who runs the town between the stadiums",
+    "summary": "1. Mayor Jim Ross doesn't need Dallas or Fort Worth.\n2. Arlington has three stadiums, roller coasters, and a parade of rowdy Dutch fans to manage.",
+    "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/arlington-texas-jim-ross-00961573",
+    "author": "By Mike Lee",
+    "created_at": "2026-06-14T12:49:58.000Z"
+  },
+  {
+    "id": "29f6d641-3cd9-4e6e-bde2-e66fd30d4b2f",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor hints at buying more Bitcoin.\"Still adding dots.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#bb5a0da3",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-14T12:49:01+00:00"
+  },
+  {
+    "id": "95a5633f-1450-4a70-adef-95c74aaf5146",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "BTC Momentum Turns Positive as Bitcoin Fights to Hold the $64,000 Zone",
+    "summary": "1. Bitcoin ( BTC) is trading at $64,549 per coin on June 14, 2026, at 8 a.m.\n2. Eastern time, holding above a critical demand zone while the daily chart carries a bearish technical rating and lower timeframes show the first signs of stabilization since the multi-week decline from early May highs near $82,969.\n3. Daily Chart: Corrective […]",
+    "url": "https://news.bitcoin.com/btc-momentum-turns-positive-as-bitcoin-fights-to-hold-the-64000-zone/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-14T12:30:09.000Z"
+  },
+  {
     "id": "83b9d79b-c171-4dc1-a9d0-6422615026cf",
     "source": "Politico",
     "type": "rss",
@@ -8,6 +128,16 @@
     "url": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/king-three-teams-netherlands-curacao-00961574",
     "author": "By Sonja Rijnen",
     "created_at": "2026-06-14T12:00:00.000Z"
+  },
+  {
+    "id": "34614628-826c-40cc-9d26-5061ffbb4e09",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Michael Saylor says his objective is to push 5%-10% of the world's $300T credit market, or $15T-$30T, into Bitcoin-backed credit instruments.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f14efe47",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-14T11:39:11+00:00"
   },
   {
     "id": "56cf459a-1270-4f0c-9f84-e9c8486b5053",
@@ -78,35 +208,5 @@
     "url": "https://news.bitcoin.com/bitcoin-mining-difficulty-set-for-steep-drop-as-hashrate-slides-after-price-crash/",
     "author": "Guest Author",
     "created_at": "2026-06-14T08:30:28.000Z"
-  },
-  {
-    "id": "6ddbad90-fb0a-4be4-a0ec-f849a7f36cdd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Ripple CEO Brad Garlinghouse says the company expects to end 2026 with a $1B revenue run rate, not including the XRP on its balance sheet.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e4f2bf83",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-14T07:34:26+00:00"
-  },
-  {
-    "id": "04ec81c7-bc46-46d8-aecf-1b7ff3b400db",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Rob Hadick Warns Tether and Circle Face Rising Pressure From New Stablecoins",
-    "summary": "1. Dragonfly General Partner Rob Hadick believes stablecoins are entering a new phase.\n2. While USDT and USDC remain dominant today, he argues that growing competition from banks, fintechs, and new issuers will eventually break the stablecoin duopoly and create a more diverse market built around specific use cases.\n3. Dragonfly’s Rob Hadick Says the USDT-USDC Duopoly Won’t […]",
-    "url": "https://news.bitcoin.com/rob-hadick-warns-tether-and-circle-face-rising-pressure-from-new-stablecoins/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-14T07:30:39.000Z"
-  },
-  {
-    "id": "53cf9c1d-aa58-4c86-8e0e-152deb91f1c5",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Ukraine is officially joining the European Union.All 27 EU member states backed advancing Ukraine’s accession process, marking a historic milestone in the country’s path toward full EU membership.The breakthrough came after Hungary, which had blocked progress for years, reversed its position and gave its approval.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#02ca0195",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-14T07:23:53+00:00"
   }
 ]
