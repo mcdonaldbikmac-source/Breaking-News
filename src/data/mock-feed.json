@@ -1,5 +1,35 @@
 [
   {
+    "id": "4bd67825-ad85-4531-978b-dadd58affb86",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Declares Iran Deal Done, Reopens Strait of Hormuz — Bitcoin Climbs Past $65K",
+    "summary": "1. President Donald Trump declared a deal with Iran complete on Sunday, immediately authorizing the toll-free reopening of the Strait of Hormuz and the removal of the U.S.\n2. naval blockade.\n3. Trump posted the announcement on Truth Social on June 14, 2026.",
+    "url": "https://news.bitcoin.com/trump-declares-iran-deal-done-reopens-strait-of-hormuz-bitcoin-climbs-past-65k/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-14T23:29:27.000Z"
+  },
+  {
+    "id": "1096c03a-ad83-4d7f-9341-4ce55278be18",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The End of SWIFT’s Monopoly? China Tees up Commercial Launch of Rival Digital Network",
+    "summary": "1. Mbridge, now under Chinese leadership, would be preparing a commercial rollout with a Hong Kong-based entity to promote the blockchain-based digital yuan as a cheaper and easier alternative to SWIFT.\n2. The platform has already settled over 470 billion yuan, nearly $69 billion.\n3. China Plans Mbridge Rollout To Push Digital Yuan China is taking major steps […]",
+    "url": "https://news.bitcoin.com/the-end-of-swifts-monopoly-china-tees-up-commercial-launch-of-rival-digital-network/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-14T22:30:11.000Z"
+  },
+  {
+    "id": "a9eed373-9bad-402a-8946-d64bda90e2af",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-14T22:19:35.000Z"
+  },
+  {
     "id": "f2409037-cc6c-4b4c-951e-49a3fe335dbb",
     "source": "TechCrunch",
     "type": "rss",
@@ -288,45 +318,5 @@
     "url": "https://trumpstruth.org/statuses/39254",
     "author": "Trump Truth",
     "created_at": "2026-06-14T18:20:06.000Z"
-  },
-  {
-    "id": "97d5f56f-2f85-40f2-952e-b025a96915b6",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Inside the Croatian government's World Cup event with John Malkovich and Luka Modrić",
-    "summary": "1. The Adriatic country uses the tournament to tell the world to come visit.",
-    "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/croatia-fifa-world-cup-2026-tourism-sector-john-malkovich-00961717",
-    "author": "By Ben Johansen",
-    "created_at": "2026-06-14T17:24:07.000Z"
-  },
-  {
-    "id": "975efa21-daf1-46f5-acbe-bb8334a4de0a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Congress Examines 8 Crypto Tax Proposals as $2T Market Faces Compliance Burden",
-    "summary": "1. House tax lawmakers reviewed eight digital asset tax proposals seeking clearer rules for crypto payments, mining, staking, donations, and compliance.\n2. The measures aim to reduce paperwork for digital asset users while establishing clearer tax treatment for key activities across the sector.\n3. House Tax Panel Reviews Eight Digital Asset Tax Proposals The House Ways and Means […]",
-    "url": "https://news.bitcoin.com/congress-examines-8-crypto-tax-proposals-as-2t-market-faces-compliance-burden/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-14T17:05:12.000Z"
-  },
-  {
-    "id": "6c3acb23-81e3-4570-b276-f1d3d31e2aeb",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "As AI companies race to go public, who else is along for the ride?",
-    "summary": "1. Startups are trying to \"ride that SpaceX IPO wave.\"",
-    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-14T16:38:09.000Z"
-  },
-  {
-    "id": "5fb28f42-cf68-4349-be41-bcb996d653f2",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Perceived corruption of World Cup countries",
-    "summary": "1. Here's the data breakdown on how World Cup competitors stack up, based on the Transparency International’s Corruption Perceptions Index.",
-    "url": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/corruption-index-haiti-norway-new-zealand-00961654",
-    "author": "By Paul Dallison",
-    "created_at": "2026-06-14T16:20:32.000Z"
   }
 ]
