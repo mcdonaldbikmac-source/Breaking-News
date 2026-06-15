@@ -1,5 +1,315 @@
 [
   {
+    "id": "7254f53d-e2dd-4909-a555-c0c737436264",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "50-Person Nostrum Team Gives IREN Europe Foothold as AI Cloud Demand Fuels Stock",
+    "summary": "1. IREN Limited completed its acquisition of Spain-based Nostrum Group on Monday, adding 490 megawatts of secured, grid-connected power as the bitcoin miner accelerates its expansion into AI cloud infrastructure.\n2. The deal marks IREN’s entry into Europe and gives the Nasdaq-listed company a Spanish platform for artificial intelligence data center development.\n3. Nostrum Group, formally Ingenostrum, S.L., […]",
+    "url": "https://news.bitcoin.com/50-person-nostrum-team-gives-iren-europe-foothold-as-ai-cloud-demand-fuels-stock/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-15T19:05:38.000Z"
+  },
+  {
+    "id": "40ab41e2-54df-4e10-9951-127556a77941",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Strategy's latest BTC buy lowers holdings per share, sparking dilution fears",
+    "summary": "Strategy's (MSTR) recent Bitcoin purchase has paradoxically led to a decrease in its BTC holdings per share, raising concerns about the dilution of shareholder value, CryptoSlate reported. Last week, the company issued 1.7 million common shares worth $209 million to fund the acquisition. It used $100 million to purchase 1,587 BTC, retaining the remaining cash to bring its total holdings to $1.1 billion. The new share issuance caused the amount of BTC held per share to fall from 13% on June 1 to 12.5% on June 15. As a result, some critics argue that shareholder value has been diluted. Strategy has countered this claim, stating that the increase in its cash reserves, combined with the potential for its stock to rise alongside BTC's price, has actually increased real shareholder value. Others have pointed out the irrationality of issuing more stock to buy BTC while the company's shares trade at a discount, at 0.8 times its net asset value minus debt.",
+    "url": "https://t.me/CoinnessGL#a197d966",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-15T18:58:13+00:00"
+  },
+  {
+    "id": "40b6ac05-e47c-4e51-81cd-6afcfb824af9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
+    "summary": "1. BitMine continued buying Ether through the market downturn, growing its stake to nearly 5% of the circulating supply while generating staking yield amid mounting ecosystem challenges.",
+    "url": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-15T18:55:11.000Z"
+  },
+  {
+    "id": "a6122bf1-872f-44c3-bc62-50227c26d597",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
+    "summary": "1. The offering follows Kraken's acquisition of Bitnomial and comes amid a broader push to bring crypto derivatives trading onshore.",
+    "url": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-06-15T18:53:15.000Z"
+  },
+  {
+    "id": "02b86b1c-de01-40c7-9cb4-8d697b26f602",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
+    "summary": "1. Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
+    "url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
+    "author": "André Beganski",
+    "created_at": "2026-06-15T18:37:57.000Z"
+  },
+  {
+    "id": "04f8c099-44bd-495a-b60a-cb6a6bc214f8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "summary": "1. Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "author": "Lauren Forristal",
+    "created_at": "2026-06-15T18:30:58.000Z"
+  },
+  {
+    "id": "81e404a4-abd2-4c4e-851e-1cb719e9cfb7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "summary": "1. TechCrunch has followed SpaceX's start, struggles, and successes from the early days.\n2. And we're here for what happens next too.\n3. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "author": "Kirsten Korosec, Russell Brandom",
+    "created_at": "2026-06-15T18:30:34.000Z"
+  },
+  {
+    "id": "1ee8b22c-d228-48c2-a434-08e9b0744c14",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "MiCA Deadline Looms: Up to 75% of EU Crypto Firms Risk Losing Their License on July 1",
+    "summary": "1. The European Union’s transition period under its landmark crypto framework ends July 1, after which an estimated three-quarters of regional crypto companies could be barred from serving EU customers without full authorization.\n2. A Hard Deadline for Europe’s Crypto Industry The transitional period under the EU’s Markets in Crypto-Assets (MiCA) regulation will officially expire on July […]",
+    "url": "https://news.bitcoin.com/mica-deadline-july-1-eu-crypto-license/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-15T18:30:12.000Z"
+  },
+  {
+    "id": "bbee1db0-2b43-427b-896d-af9112c1a17d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
+    "summary": "1. Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem.",
+    "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-15T18:14:07.000Z"
+  },
+  {
+    "id": "9fdaa0fc-6826-4e7b-b821-290aa54e67d8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
+    "summary": "1. Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL.",
+    "url": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-15T17:59:08.000Z"
+  },
+  {
+    "id": "ad97c162-2cb2-4b14-a004-e6927a6f35ed",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
+    "summary": "1. A class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.",
+    "url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-15T17:57:48.000Z"
+  },
+  {
+    "id": "84eafcf2-5d01-4732-839c-f41e9ad3c560",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Jumps Above $67,000 as US-Iran Deal Triggers $198M Short Liquidations",
+    "summary": "1. A geopolitical breakthrough between the U.S.\n2. and Iran has triggered a massive global market relief rally, headlined by bitcoin rebounding past $67,000 and a decline in crude oil prices.\n3. Diplomacy Defuses Strait of Hormuz Energy Crisis Bitcoin breached the $67,000 mark for the first time in nearly two weeks as global markets welcomed the announcement […]",
+    "url": "https://news.bitcoin.com/bitcoin-jumps-above-67000-as-us-iran-deal-triggers-198m-short-liquidations/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-15T17:52:16.000Z"
+  },
+  {
+    "id": "ff7364db-5727-4a14-bd5b-e796199a9211",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "These are the countries moving to ban social media for children",
+    "summary": "1. Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+    "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+    "author": "Aisha Malik",
+    "created_at": "2026-06-15T17:41:02.000Z"
+  },
+  {
+    "id": "2a4c5939-b4fe-431c-8eda-1f7e43eae680",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting",
+    "summary": "1. Forward Industries has been unsuccessful on all three recent attempts to combine with rival publicly traded Solana treasury firms.",
+    "url": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-15T17:30:29.000Z"
+  },
+  {
+    "id": "314bf800-455a-4fe2-94c7-a9a4508b0aee",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Elon Musk's SpaceX $SPCX rises another 14% today, surpassing $2.4 trillion market cap.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#bd46bdfd",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-15T17:14:45+00:00"
+  },
+  {
+    "id": "4f16ecf0-4538-4277-8084-61a82ba07379",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BofA praises TeraWulf's AI pivot in 'Bye Bye Bitcoin' report",
+    "summary": "In a report titled \"Bye Bye Bitcoin, Hello AI Data Center,\" Bank of America (BofA) offered a positive assessment of Bitcoin mining firm TeraWulf's (WULF) transition to AI data centers. Analyst Michael Funk described the shift as a wise move, citing growing demand for AI-supported facilities. BofA has initiated coverage of TeraWulf with a buy rating and a price target of $34.",
+    "url": "https://t.me/CoinnessGL#34650b88",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-15T17:04:26+00:00"
+  },
+  {
+    "id": "f127044e-695c-435f-be1a-b843f1a31fae",
+    "source": "The Block",
+    "type": "rss",
+    "title": "IREN enters Europe with acquisition of Spanish AI data center developer Nostrum",
+    "summary": "1. IREN now has AI infrastructure projects in the works across multiple continents as it expands beyond bitcoin mining.",
+    "url": "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-15T16:46:17.000Z"
+  },
+  {
+    "id": "34a124b5-93a1-45f4-a4f5-42f78fd14505",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot, derivatives volumes on major exchanges rose in May",
+    "summary": "According to a May 2026 exchange data report from Wu Blockchain, spot trading volume on major cryptocurrency exchanges increased by 0.1% month-over-month, while derivatives volume rose by 1.1%. Website traffic for these exchanges, however, saw a 0.26% decline.",
+    "url": "https://t.me/CoinnessGL#508f788e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-15T16:36:21+00:00"
+  },
+  {
+    "id": "c03c84e8-edd8-4521-8507-1d4cd1a950dc",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Paradigm Leads $9 Million Round in Latin American Stablecoin App El Dorado",
+    "summary": "1. Paradigm has led a roughly $9 million round in El Dorado, the stablecoin-powered payments app that has signed up more than a million users across Latin America.\n2. The bet extends the venture firm's push into dollar-rails for emerging markets.",
+    "url": "https://thedefiant.io/converge/cefi/paradigm-leads-9m-round-el-dorado-latam-stablecoin-app",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-15T16:36:00.000Z"
+  },
+  {
+    "id": "edc48aae-8eff-4723-a375-06f8ff5a31ab",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Standard Chartered Sets UNI 2030 Price Target at 40x Current Levels",
+    "summary": "1. Standard Chartered Global Research initiated coverage of Uniswap, with Geoff Kendrick framing the decentralized exchange as the trading hub for tokenized real-world assets and setting a $100 UNI price target for end-2030, roughly 40x current levels.",
+    "url": "https://thedefiant.io/news/defi/standard-chartered-sets-uni-2030-price-target-at-40x-current-levels",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-15T16:28:54.000Z"
+  },
+  {
+    "id": "c3f8d38b-249a-4a9b-a688-385ffdc8779c",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SIREN Token Crashes 95% in a Week After Whale Sells 670M Tokens for $64.8M",
+    "summary": "1. A single dominant wallet offloaded roughly 92% of SIREN's total supply across two days, collecting $64.8 million in Tether and gutting the BNB Chain AI token.",
+    "url": "https://thedefiant.io/news/markets/siren-token-crash-whale-dump-92-percent-supply-64-8m",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-15T16:23:50.000Z"
+  },
+  {
+    "id": "cf29adc5-0c34-4c5d-a42f-1925140f6af5",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure",
+    "summary": "1. Bitcoin Magazine\n\nBitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure\nCEO Mike Belshe’s firm, now operating as a federally chartered OCC trust bank, powers custody for major Bitcoin ETFs, stablecoins like World Liberty Financial’s USD1, and SoFiUSD, highlighting institutional adoption of regulated crypto infrastructure.\n2. This post BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "url": "https://bitcoinmagazine.com/business/bitgo-joins-fortune-500-with-16-2b-revenue-marking-milestone-for-regulated-bitcoin-custody",
+    "author": "Juan Galt",
+    "created_at": "2026-06-15T16:22:32.000Z"
+  },
+  {
+    "id": "e16f3d83-f9cb-47b5-875c-c2eabe2d6a73",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "These Bitcoin charts show how BTC price could hit $100K before October",
+    "summary": "1. Bitcoin’s double-bottom setup, weekly RSI divergence and whale flows put traders on alert as BTC tests a key breakout zone.",
+    "url": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yashu Gola",
+    "created_at": "2026-06-15T16:18:14.000Z"
+  },
+  {
+    "id": "9bfba699-dc4c-4abc-baf6-b37a1195d71d",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Kraken Launches CFTC-Regulated Bitcoin and Crypto Perpetual Futures for U.S. Traders",
+    "summary": "1. Bitcoin Magazine\n\nKraken Launches CFTC-Regulated Bitcoin and Crypto Perpetual Futures for U.S.\n2. Traders\nKraken has launched CFTC-regulated crypto perpetual futures for eligible U.S.\n3. traders through its newly acquired Bitnomial platform, bringing the world's most-traded crypto derivatives product under U.S.",
+    "url": "https://bitcoinmagazine.com/news/kraken-launches-cftc-regulated-bitcoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-15T16:17:38.000Z"
+  },
+  {
+    "id": "6dcb9ab7-2ac6-49d9-8cc6-245997a69eae",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP SAYS THE DEAL'S ALL SIGNED AND THE STRAIT OF HORMUZ IS ALL OPENEDTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#5c5adba2",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-15T16:09:03+00:00"
+  },
+  {
+    "id": "07cfe4ac-aa95-4e9d-b37c-8cb2a4b96eb1",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "$67,000 Bitcoin@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#9667048c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-15T15:49:25+00:00"
+  },
+  {
+    "id": "0862994a-2222-4391-b206-a40a0bcf8d09",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Strategy supporters rebut ‘death spiral’ fears as bitcoin price wobbles",
+    "summary": "1. \"The death-spiral story assumes that Strategy is one bad week from selling bitcoins, and it skips several steps to get there,\" said Benchmark.",
+    "url": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-06-15T15:43:51.000Z"
+  },
+  {
+    "id": "123d2c3c-4b07-4af9-8582-a80881867cc4",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Price Claws Back From the Brink as Iran Deal, Saylor, and Armstrong Signal a Turning Tide",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Claws Back From the Brink as Iran Deal, Saylor, and Armstrong Signal a Turning Tide\nBitcoin rebounded more than 11% from its June 5 low near $59,000 to around $66,500 as easing Middle East tensions and continued institutional accumulation from major corporate buyers helped restore confidence despite lingering skepticism about the bull market.\n2. This post Bitcoin Price Claws Back From the Brink as Iran Deal, Saylor, and Armstrong Signal a Turning Tide first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-claws-back-to-65000",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-15T15:02:59.000Z"
+  },
+  {
+    "id": "c5191364-6047-45d7-82eb-ac80d263b0eb",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "If America wants to lead in crypto, it must protect the people who build it",
+    "summary": "1. Despite the Clarity Act’s advancement toward the finish line, there’s one provision under threat for builders that can’t be overlooked, argues Smith.",
+    "url": "https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it",
+    "author": "Kristin Smith",
+    "created_at": "2026-06-15T14:25:00.000Z"
+  },
+  {
+    "id": "ba55a59b-85ff-4291-92db-1f11552f418e",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "The blockade of Iranian ports remains in effect until the Iran agreement is completed on June 19, warning affected ships not to cross without “explicit direction,” US military advisory saysTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#5ade3158",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-15T14:21:41+00:00"
+  },
+  {
+    "id": "3e9db146-9a0f-46b6-b8c7-a4446d49f093",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "‘Crypto spring’ is here, says one analyst after bitcoin's key signals turn bullish",
+    "summary": "1. Standard Chartered analyst Geoffrey Kendrick's bullish call comes as spot bitcoin exchange-traded fund inflows return, oil prices fall and Coinbase's CEO says bitcoin likely bottomed near $60,000.",
+    "url": "https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish",
+    "author": "Helene Braun",
+    "created_at": "2026-06-15T14:16:45.000Z"
+  },
+  {
     "id": "f62863be-f12d-4ce8-9134-ee3e84041d84",
     "source": "CoinDesk",
     "type": "rss",
@@ -48,315 +358,5 @@
     "url": "https://trumpstruth.org/statuses/39293",
     "author": "Trump Truth",
     "created_at": "2026-06-15T13:10:22.000Z"
-  },
-  {
-    "id": "1bb5eb73-675e-425c-9be6-6e231ebf4df9",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale",
-    "summary": "1. Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.",
-    "url": "https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-15T13:04:51.000Z"
-  },
-  {
-    "id": "e6bd44fc-29a9-4b86-800c-c6c9042ef2b4",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: Standard Chartered Says the Crypto Winter Is Over",
-    "summary": "1. The three crypto market overhangs of the Iran War, SpaceX IPO and ETF outflows appear to be lifting.\n2. But can they be trusted?",
-    "url": "https://decrypt.co/371127/morning-minute-standard-chartered-says-the-crypto-winter-is-over",
-    "author": "Tyler Warner",
-    "created_at": "2026-06-15T13:04:47.000Z"
-  },
-  {
-    "id": "b2f79cf6-9773-4f60-b052-55b682283d39",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Paradigm leads $9 million round in LatAm payments app El Dorado",
-    "summary": "1. El Dorado was founded in 2022 by Latin American immigrants with firsthand experience dealing with cross-border payments.",
-    "url": "https://www.theblock.co/post/404709/paradigm-leads-9-million-round-el-dorado?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-15T13:00:00.000Z"
-  },
-  {
-    "id": "36a0db1f-3585-4d67-9c4e-da9bb7deca00",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-    "summary": "1. NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-    "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-06-15T13:00:00.000Z"
-  },
-  {
-    "id": "ec514c73-b971-4267-ba05-3f7642d917b5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "SIREN Token Collapses as Whale Dumps 92% of Total Supply for $64.8 Million",
-    "summary": "1. The price of SIREN cratered more than 95% after a single whale offloaded about 670 million tokens (roughly 92% of the currency’s total supply) over two days, cashing out an estimated $64.8 million in stablecoins.\n2. One Wallet, a 95% Collapse A lone whale sold roughly 670 million SIREN, or about 92% of the token’s total […]",
-    "url": "https://news.bitcoin.com/siren-token-crash-whale-dump-92-percent/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-15T12:53:22.000Z"
-  },
-  {
-    "id": "ca4b0556-0219-45bf-b3c1-0228dc277649",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Kalshi develops AI agent to review prediction market contracts",
-    "summary": "Decentralized prediction market platform Kalshi has developed its own AI agent, Harrison, to automate internal tasks, Bloomberg reported. Harrison is responsible for reviewing millions of prediction market contracts traded on events ranging from elections and sports to award ceremonies, aiming to identify potential issues in advance. The agent also summarizes major news, analyzes competitor trends, proposes new market listings, and recommends policies for liquidity provider rewards.",
-    "url": "https://t.me/CoinnessGL#36ca596e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-15T12:29:22+00:00"
-  },
-  {
-    "id": "d7551380-29e9-4dc7-9c94-2570d71f96a4",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Strive buys 73 $BTC for $4.7M at an average price of $63,646 per BitcoinTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#1554f80f",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-15T12:22:13+00:00"
-  },
-  {
-    "id": "e5f92bfa-f5e7-438d-8966-f1c2e12196da",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Strive buys $4.7M in BTC",
-    "summary": "Strive, an asset manager and Bitcoin accumulation firm, announced it has purchased 73 BTC for $4.7 million. The company now holds a total of 19,105 BTC.",
-    "url": "https://t.me/CoinnessGL#0bcb1bf4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-15T12:19:38+00:00"
-  },
-  {
-    "id": "1609cb12-08ff-473b-b9f9-4fa48035a864",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Strategy Drops $100M on 1,587 Bitcoin as Reserve Climbs to 846,842 BTC",
-    "summary": "1. Strategy purchased 1,587 bitcoin for approximately $100 million at an average price of $63,024 per coin, the company disclosed Monday, pushing its total bitcoin reserve to 846,842 BTC.\n2. Michael Saylor, Strategy‘s executive chairman, announced the acquisition on X at 8:02 a.m.\n3. ET on June 15, 2026.",
-    "url": "https://news.bitcoin.com/strategy-drops-100m-on-1587-bitcoin-as-reserve-climbs-to-846842-btc/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-15T12:12:43.000Z"
-  },
-  {
-    "id": "63b098fc-4656-4405-a322-6255fb28127a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘Still adding dots’: Michael Saylor’s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC",
-    "summary": "1. Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap — worth around $56 billion.",
-    "url": "https://www.theblock.co/post/404728/still-adding-dots-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss",
-    "author": "James Hunt",
-    "created_at": "2026-06-15T12:06:46.000Z"
-  },
-  {
-    "id": "042fef34-b8b7-4b01-b84c-f5b3bf2ffbae",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Michael Saylor's Strategy acquires another 1,587 bitcoin for $100 million",
-    "summary": "1. The latest purchase was made at an average price of $63,024 per bitcoin.",
-    "url": "https://www.coindesk.com/markets/2026/06/15/strategy-deploys-usd100-million-from-usd-reserves-to-acquire-1-587-btc",
-    "author": "James Van Straten",
-    "created_at": "2026-06-15T12:06:39.000Z"
-  },
-  {
-    "id": "74f9d57f-6d40-4ad0-8d87-5417eedda45f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpTrump scores once-elusive peace deal with Iran, easing oil prices ahead of elections:",
-    "url": "https://trumpstruth.org/statuses/39270",
-    "author": "Trump Truth",
-    "created_at": "2026-06-15T12:03:59.000Z"
-  },
-  {
-    "id": "3f0d4c87-e5da-48cd-bd9e-e9cb617fc548",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpUnder the disastrous Open Border Policy of Crooked Joe Biden and his traitorous DHS Secretary Alejandro Mayorkas, TENS OF MILLIONS of criminals, including over 13,000 STONE-COLD MURDERERS, poured into our Country from Prisons and Jails, from Mental Institutions and Insane Asylums.\n2. Needless to say, they were NOT always the safest drivers!\n3. Car Insurance Premiums rose to RECORD HIGHS, forcing Law-abiding American Citizens to subsidize the \"free riding” Biden Illegals.",
-    "url": "https://trumpstruth.org/statuses/39271",
-    "author": "Trump Truth",
-    "created_at": "2026-06-15T12:03:55.000Z"
-  },
-  {
-    "id": "7a6a339e-121c-438a-ab3b-45d12d0eee8d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpOn July 4th, at The Lincoln Memorial and Washington Monument, in beautiful and safe Washington D.C., we are going to host the most spectacular TRUMP RALLY of them all, a “TRIBUTE TO AMERICA.” Starting at 7 P.M.\n2. EST, this HUGE Celebration will honor our Country's People, Spirit, Strength, Resolve, and Triumphs.\n3. With the backdrop of the Lincoln Memorial and surrounding the beautifully new Reflecting Pool, more than 300 Members of our strong and talented Military Bands, Orchestras, and Ceremonial Units, will perform Patriotic Melodies and American Classics, and my Playlist (We will have none of those people that put you to sleep and constantly complain!), as we celebrate our Country, and Rally into the next 250 years.",
-    "url": "https://trumpstruth.org/statuses/39272",
-    "author": "Trump Truth",
-    "created_at": "2026-06-15T12:03:52.000Z"
-  },
-  {
-    "id": "98f00839-fbc6-4bfd-aabe-3fc894205680",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "MicroStrategy purchases another 1,587 BTC",
-    "summary": "MicroStrategy announced via X that it purchased an additional 1,587 BTC last week.",
-    "url": "https://t.me/CoinnessGL#dcde2f92",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-15T12:03:06+00:00"
-  },
-  {
-    "id": "82613397-fa5c-49a5-80e9-90635518d449",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Saylor's Strategy buys 1,587 $BTC for $100M at an average price of $63,024 per BitcoinTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#383a3c8e",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-15T12:02:16+00:00"
-  },
-  {
-    "id": "3ec1b99c-46a6-478c-ba75-927a51fda954",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "A satellite just learned to find things on its own — here’s what that means",
-    "summary": "1. In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-    "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-06-15T12:00:00.000Z"
-  },
-  {
-    "id": "194dec01-05e5-414a-aa11-e762ccb8762e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Markets cheer U.S.-Iran Breakthrough though Middle East risks, Fed remain in focus",
-    "summary": "1. Your day-ahead look for June 15, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/06/15/markets-cheer-u-s-iran-breakthrough-though-middle-east-risks-fed-remain-in-focus",
-    "author": "James Van Straten",
-    "created_at": "2026-06-15T11:58:56.000Z"
-  },
-  {
-    "id": "e6440b5b-9a98-4d95-9b4c-80ac66407c7f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Michael Saylor's 'Strategy' buys 1,587 Bitcoin worth $105 million.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#62440214",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-15T11:58:28+00:00"
-  },
-  {
-    "id": "0f121b58-a580-41b3-bb59-693838e588b8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Cardano’s Hoskinson Says Disputed 1,096 Bitcoin Funded a 2016 Audit Amid $70 Million Mystery",
-    "summary": "1. Cardano co-founder Charles Hoskinson has said that 1,096 BTC, worth roughly $70 million today, held by an Isle of Man foundation was used to cover audit costs from the project’s 2016 crowdsale.\n2. Founder Addresses a Long-Running Mystery Charles Hoskinson, the co-founder of Cardano and chief executive of Input Output, has clarified the fate of 1,096 […]",
-    "url": "https://news.bitcoin.com/cardano-hoskinson-1096-btc-audit-dispute/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-15T11:30:07.000Z"
-  },
-  {
-    "id": "cc572bb5-975a-40c2-8c8b-98af5d8ad98b",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
-    "summary": "1. The Philippines' central bank has tightened crypto oversight with new rules governing how exchanges assess and monitor digital assets.",
-    "url": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins",
-    "author": "Vismaya V",
-    "created_at": "2026-06-15T11:27:19.000Z"
-  },
-  {
-    "id": "664f2ae6-88d2-47a1-b85e-2e8cfb2c9c1e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary",
-    "summary": "1. The peace deal reached over the weekend provided the stimulus many markets had been waiting for.\n2. Crypto traders, however, have learned to distrust this particular headline",
-    "url": "https://www.coindesk.com/markets/2026/06/15/u-s-iran-deal-lifts-equities-sends-oil-lower-while-crypto-stays-wary",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-15T11:19:01.000Z"
-  },
-  {
-    "id": "3c9bda6b-9d5e-482d-8dea-755e937627fd",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
-    "summary": "1. A crypto relief rally has “partially arrived” as Trump announces a deal with Iran, but prediction market traders remain unconvinced.",
-    "url": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical",
-    "author": "Akash Girimath",
-    "created_at": "2026-06-15T11:03:14.000Z"
-  },
-  {
-    "id": "6e78b4a9-27ae-4abb-a36c-6cedebf0a0a4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "$150 Million in Crypto Shorts Liquidated as Bitcoin Closes in on $66K",
-    "summary": "1. Roughly $150 million worth of short positions were wiped out across the crypto market after the U.S.\n2. and Iran agreed to a peace deal, as bitcoin seeks to claim the $66,000 threshold.\n3. Short Squeeze Follows Geopolitical De-escalation About $150 million in short positions were liquidated following the U.S.-Iran peace agreement.",
-    "url": "https://news.bitcoin.com/crypto-shorts-liquidated-bitcoin-65k-iran-deal/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-15T10:30:21.000Z"
-  },
-  {
-    "id": "1cada780-931f-4450-b94b-53211ef5aafe",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week",
-    "summary": "1. Bitcoin gained bullish short-term BTC price targets with $69,000 on the radar thanks to the US-Iran peace deal, due to be signed in the coming days.",
-    "url": "https://cointelegraph.com/markets/can-btc-rebound-to-69k-as-oil-price-plunges-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-15T10:14:39.000Z"
-  },
-  {
-    "id": "1bc6b360-7861-41a1-9ad3-d86f44bcd905",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Japan’s Bitbank cracks down on Polymarket-linked transfers",
-    "summary": "1. Japanese crypto exchange Bitbank warns users of possible account suspensions for Polymarket-linked transactions, citing Japan’s gambling laws.",
-    "url": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-06-15T10:05:29.000Z"
-  },
-  {
-    "id": "d37d7264-86bd-44f0-bc94-df98bd0e963d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bernstein says Robinhood could see ‘strong tailwinds’ as World Cup drives record prediction market volumes",
-    "summary": "1. Bernstein projects Robinhood’s prediction market revenue to increase from $150 million in 2025 to $586 million in 2026.",
-    "url": "https://www.theblock.co/post/404731/bernstein-robinhood-strong-tailwinds-world-cup-record-prediction-market-volumes?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-15T10:02:47.000Z"
-  },
-  {
-    "id": "1ba588fe-997a-407f-a181-e98b148cb4d8",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "IRAN TO ALLOW FREE HORMUZ TRANSIT FOR 60 DAYS UNDER PACT: ACCORDING TO FARSTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#5bcda775",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-15T09:13:54+00:00"
-  },
-  {
-    "id": "799f3a8e-9605-459e-9f30-57e9c0b02ec4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Buying pressure, not short squeeze, behind BTC rebound, says analyst",
-    "summary": "Bitcoin's rebound to the $60,000 level was the result of renewed buying pressure, not a short squeeze, according to on-chain analyst Axel Adler Jr. In a blog post, he explained that the taker buy/sell ratio has been above one for eight of the last 10 days, and funding rates have remained positive for 10 consecutive days. While selling pressure was dominant during the recent decline, Adler noted that the ratio has averaged 1.03 since June 6, signaling a resurgence in buying strength. He argued that a typical short squeeze would involve funding rates turning negative before a rebound, but rates stayed positive this time, indicating the market was not heavily skewed toward shorts. However, Adler cautioned that the positive funding rates mean long leverage is increasing. He stated that while a moderate positive rate is acceptable, a sharp rise without corresponding demand could make the market vulnerable again. For the rebound to be sustained, he concluded, buying pressure must continue without overheating funding rates.",
-    "url": "https://t.me/CoinnessGL#92de89ba",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-15T07:40:42+00:00"
-  },
-  {
-    "id": "8f82fa13-3b1a-4488-9418-9e3a22cbd6de",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "IREN’s $3.65B Financing: The Customer Is the Collateral",
-    "summary": "1. $IREN secured 96% of the $5.81bn GPU capex for its Microsoft contract at a low single-digit all-in financing cost.\n2. This was enabled by by the Microsoft lease itself and carries investment-grade credit rating.\n3. The following guest post comes from BitcoinMiningStock.io, a public markets intelligence platform delivering data on companies exposed to bitcoin mining, artificial intelligence, […]",
-    "url": "https://news.bitcoin.com/irens-3-65b-financing-the-customer-is-the-collateral/",
-    "author": "Guest Author",
-    "created_at": "2026-06-15T07:30:00.000Z"
-  },
-  {
-    "id": "b12204c3-bac3-468c-a0ea-3a04ab9475f9",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The AI layoff wave is becoming a powder keg",
-    "summary": "1. What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-    "author": "Connie Loizos",
-    "created_at": "2026-06-15T07:25:41.000Z"
   }
 ]
