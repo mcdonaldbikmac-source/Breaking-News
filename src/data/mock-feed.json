@@ -1,5 +1,105 @@
 [
   {
+    "id": "d1b347c1-d48d-4565-bf7c-52b90797c1c6",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: HYPE Soars to ATH as SPCX Takes Off",
+    "summary": "1. SPCX jumped 20%+ in after hours trading last night with all eyes on its Hyperliquid perp, leading to a 12% spike in HYPE.",
+    "url": "https://decrypt.co/371280/morning-minute-hype-soars-to-ath-as-spcx-takes-off",
+    "author": "Tyler Warner",
+    "created_at": "2026-06-16T12:03:38.000Z"
+  },
+  {
+    "id": "2a547b4d-7fc2-4926-8bd0-7ec5e7705aad",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "BlackRock Debuts BITA Bitcoin ETF, Trading Partial Upside for Double-Digit Yield",
+    "summary": "1. BlackRock launched an ETF that limits Bitcoin gains in exchange for double-digit payouts by selling call options on its holdings.",
+    "url": "https://decrypt.co/371246/blackrock-debuts-bita-bitcoin-etf-trading-upside-double-digit-yield",
+    "author": "André Beganski",
+    "created_at": "2026-06-16T12:01:04.000Z"
+  },
+  {
+    "id": "ac04f61b-bba5-40ed-9f8b-9d8bcc7a0fd7",
+    "source": "The Block",
+    "type": "rss",
+    "title": "BlackRock launches new Bitcoin ETF that generates income using a covered call strategy",
+    "summary": "1. BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.",
+    "url": "https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "8e4e950d-93ed-4ef4-bb06-c914515e8e25",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BlackRock's new bitcoin income fund offers cash flow alongside BTC exposure",
+    "summary": "1. After IBIT's $49 billion success, BlackRock says clients are increasingly seeking ways to earn income from long-term bitcoin holdings.",
+    "url": "https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure",
+    "author": "Helene Braun",
+    "created_at": "2026-06-16T12:00:00.000Z"
+  },
+  {
+    "id": "c99a507f-cfc7-4d8d-aa06-84146c63be75",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Mystery Polymarket trader turned $4 million into $9 million after Spain's shocking World Cup draw",
+    "summary": "1. A days-old account turned about $4 million into a $9 million profit betting against Spain, an anomaly trade that onchain sleuths are asking whether it was luck or inside information.",
+    "url": "https://www.coindesk.com/markets/2026/06/16/days-old-polymarket-account-scores-usd9-million-win-against-world-cup-favorite-spain",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-16T11:45:37.000Z"
+  },
+  {
+    "id": "3b078cc5-6e83-4a3d-a292-56340fd5d3ef",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "South Korea Charges 23 Over Crypto Laundering Tied to $11M Cambodian Scam Ring",
+    "summary": "1. South Korea has arrested dozens accused of moving $11.1 million in crypto for a Cambodia-based phishing group.",
+    "url": "https://decrypt.co/371277/south-korea-charges-23-over-crypto-laundering-tied-to-11m-cambodian-scam-ring",
+    "author": "Vismaya V",
+    "created_at": "2026-06-16T11:42:08.000Z"
+  },
+  {
+    "id": "ebb26c7f-2875-497e-b49a-f5645bdabfc8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Coinbase, AWS enable publishers on CloudFront and WAF to charge AI agents via x402 protocol",
+    "summary": "1. Coinbase and AWS are allowing publishers on CloudFront and WAF to charge AI agents for content via the x402 protocol.",
+    "url": "https://www.theblock.co/post/404877/coinbase-aws-enable-publishers-on-cloudfront-and-waf-to-charge-ai-agents-via-x402-protocol?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-16T11:40:01.000Z"
+  },
+  {
+    "id": "63c11db6-fbdf-448b-abea-d4c91bf407eb",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "India orders temporary ban on Telegram over exam fraud concerns",
+    "summary": "1. The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message editing feature.",
+    "url": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-16T11:33:35.000Z"
+  },
+  {
+    "id": "0df1bf32-4614-4557-9954-08efa7a96c87",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Spot HYPE ETFs Draw $153 Million in First Month as Volume Nears $900 Million",
+    "summary": "1. Spot HYPE exchange-traded funds (ETFs) have pulled in roughly $153 million in net inflows and nearly $900 million in cumulative trading volume in their first month, with the figures spanning three competing U.S.\n2. products launched within weeks of one another.\n3. A Strong Debut for a New Asset Class Three spot HYPE ETFs have attracted about […]",
+    "url": "https://news.bitcoin.com/spot-hype-etfs-153-million-first-month-volume/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-16T11:30:19.000Z"
+  },
+  {
+    "id": "0951782f-7070-48aa-9305-682af16b8d63",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
+    "summary": "1. Instead of heating metals, Foundation Alloy beats them into submission.\n2. The startup has raised $22 million to scale up production of its alloys.",
+    "url": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+    "author": "Tim De Chant",
+    "created_at": "2026-06-16T11:25:00.000Z"
+  },
+  {
     "id": "77ce8375-0317-483f-bb54-a983a37217ba",
     "source": "@WatcherGuru",
     "type": "telegram",
@@ -18,6 +118,16 @@
     "url": "https://t.me/CoinnessGL#2e790bc4",
     "author": "@CoinnessGL",
     "created_at": "2026-06-16T11:24:35+00:00"
+  },
+  {
+    "id": "505f9eed-9833-4064-9a06-57b6c123e00f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Solana treasury firms resist Forward Industries’ consolidation push",
+    "summary": "1. Two Solana treasury firms rejected acquisition proposals from Forward Industries, while a third offer expired without a response.",
+    "url": "https://cointelegraph.com/news/solana-treasury-firms-reject-forward-industries-offers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Ezra Reguerra",
+    "created_at": "2026-06-16T11:22:34.000Z"
   },
   {
     "id": "89a06d64-907f-4e36-9823-07eaa12097c6",
@@ -328,45 +438,5 @@
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "author": "Cointelegraph",
     "created_at": "2026-06-16T06:15:00.000Z"
-  },
-  {
-    "id": "b9875f47-010b-4cf4-907a-dbd3df59c03d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Tether Gold now has a dedicated options market on Bybit",
-    "summary": "1. These options, settled in USDT, let traders hedge risk, speculate on gold prices.",
-    "url": "https://www.coindesk.com/markets/2026/06/16/tether-gold-now-has-a-dedicated-options-market-on-bybit",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-16T05:52:44.000Z"
-  },
-  {
-    "id": "adcc3884-a250-45d3-ade3-b74e11bf7c92",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US government watchdog urges FDIC coordinate on crypto oversight",
-    "summary": "1. The US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”",
-    "url": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-16T05:42:22.000Z"
-  },
-  {
-    "id": "eb72ce52-e55e-43e5-b568-1b22bc1d4827",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live markets: Bitcoin ETFs bled cash Monday while every other crypto ETF gained",
-    "summary": "1. Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.",
-    "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-16T05:41:40.000Z"
-  },
-  {
-    "id": "49ff51b0-472c-4c4b-bd6d-da991e2359e9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Everyday Chores Filmed for Mere Pennies an Hour Are Helping to Refine AI Technology",
-    "summary": "1. To feed a wave of robot-training datasets, Indian workers like Nagireddy Sriramyachandra film everyday actions with head-mounted smartphones for about 250 rupees (roughly $2.40) an hour.\n2. Companies including Objectways and Bangalore-based Humyn Lab turn this egocentric footage into training labels as investors size a humanoid-robot market at about $38 billion by 2035.\n3. In Tamil Nadu, […]",
-    "url": "https://news.bitcoin.com/everyday-chores-filmed-for-mere-pennies-an-hour-are-helping-to-refine-ai-technology-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-06-16T05:30:40.000Z"
   }
 ]
