@@ -1,5 +1,55 @@
 [
   {
+    "id": "b9875f47-010b-4cf4-907a-dbd3df59c03d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Tether Gold now has a dedicated options market on Bybit",
+    "summary": "1. These options, settled in USDT, let traders hedge risk, speculate on gold prices.",
+    "url": "https://www.coindesk.com/markets/2026/06/16/tether-gold-now-has-a-dedicated-options-market-on-bybit",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-16T05:52:44.000Z"
+  },
+  {
+    "id": "adcc3884-a250-45d3-ade3-b74e11bf7c92",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US government watchdog urges FDIC coordinate on crypto oversight",
+    "summary": "1. The US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”",
+    "url": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-06-16T05:42:22.000Z"
+  },
+  {
+    "id": "eb72ce52-e55e-43e5-b568-1b22bc1d4827",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin ETFs bled cash Monday while every other crypto ETF gained",
+    "summary": "1. Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.",
+    "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-16T05:41:40.000Z"
+  },
+  {
+    "id": "49ff51b0-472c-4c4b-bd6d-da991e2359e9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Everyday Chores Filmed for Mere Pennies an Hour Are Helping to Refine AI Technology",
+    "summary": "1. To feed a wave of robot-training datasets, Indian workers like Nagireddy Sriramyachandra film everyday actions with head-mounted smartphones for about 250 rupees (roughly $2.40) an hour.\n2. Companies including Objectways and Bangalore-based Humyn Lab turn this egocentric footage into training labels as investors size a humanoid-robot market at about $38 billion by 2035.\n3. In Tamil Nadu, […]",
+    "url": "https://news.bitcoin.com/everyday-chores-filmed-for-mere-pennies-an-hour-are-helping-to-refine-ai-technology-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-16T05:30:40.000Z"
+  },
+  {
+    "id": "9f1e3788-d2ba-4fd1-986f-e50b270c2ed0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP gives back gains after 10% rally as traders take profit near $1.25",
+    "summary": "1. Asian demand and ETF inflows helped push XRP through $1.20, but the token struggled to hold its highs after running into fresh selling near a key resistance zone.",
+    "url": "https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-16T05:16:07.000Z"
+  },
+  {
     "id": "ad4f65c1-1fef-4c20-ba22-be1aebde4a88",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -38,6 +88,16 @@
     "url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Martin Young",
     "created_at": "2026-06-16T04:38:49.000Z"
+  },
+  {
+    "id": "99cbfa9c-df60-41f6-bd12-57b36a710470",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Albert Dadon Says SWIFT’s Russia Ban Exposed Why Neutral Financial Rails Can Fail",
+    "summary": "1. The 2022 disconnection of Russian banks shattered the illusion that SWIFT was a politically neutral financial rail.\n2. It exposed a critical flaw in global financial utilities: having a democratic board matters little if a centralized legal entity is forced to comply with local laws.\n3. The Geopolitical Fracture of Legacy Rails For decades, the global financial […]",
+    "url": "https://news.bitcoin.com/albert-dadon-says-swifts-russia-ban-exposed-why-neutral-financial-rails-can-fail/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-16T04:30:50.000Z"
   },
   {
     "id": "c2c74f6b-aa3f-4e6d-95e0-d8481803c8d7",
@@ -88,45 +148,5 @@
     "url": "https://news.bitcoin.com/uniswap-could-hit-100-standard-chartered-forecasts-uni-outperforming-btc-and-eth/",
     "author": "Kevin Helms",
     "created_at": "2026-06-16T01:30:35.000Z"
-  },
-  {
-    "id": "b5a5a50c-2fbc-4db2-b44a-88272e7d7a0f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Robert Kiyosaki Doubles Down on Bitcoin as He Says Gold Is Headed to $35K",
-    "summary": "1. Robert Kiyosaki renewed his support for bitcoin, gold, and other hard assets as he projected gold could reach $35,000 an ounce by 2035.\n2. The Rich Dad Poor Dad author said gold had climbed more than $100 in a single day to $4,300 an ounce, which he cited as evidence that the rally was still in […]",
-    "url": "https://news.bitcoin.com/robert-kiyosaki-doubles-down-on-bitcoin-as-he-says-gold-is-headed-to-35k/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-16T00:20:48.000Z"
-  },
-  {
-    "id": "3c36305e-3552-4bbb-aca4-22208b66b43b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-    "summary": "1. AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-    "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-15T23:51:44.000Z"
-  },
-  {
-    "id": "eec631c9-4d60-4d4d-bcfa-fd0701c1e769",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "3 Bullish Signals Are in: Bitcoin Now Faces Critical $83K Breakout Test",
-    "summary": "1. Three bullish signals have aligned for bitcoin, Standard Chartered said, while attention shifts to whether BTC can reclaim a key resistance area.\n2. Fresh Strategy buying, positive spot ETF flows, and falling oil prices underpinned the latest market assessment.\n3. Bitcoin Draws Fresh Support From 3 Bullish Signals Standard Chartered Global Head of Digital Assets Research Geoffrey […]",
-    "url": "https://news.bitcoin.com/3-bullish-signals-are-in-bitcoin-now-faces-critical-83k-breakout-test/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-15T23:20:05.000Z"
-  },
-  {
-    "id": "3c020d93-59e5-4a98-b4b2-a35ccc5d27e0",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Iran has agreed to never have a Nuclear Weapon!\n2. Also, the story that the U.S.\n3. is paying Iran 300 million Dollars is Fake News, put out by the Dumocrats!!!",
-    "url": "https://trumpstruth.org/statuses/39295",
-    "author": "Trump Truth",
-    "created_at": "2026-06-15T23:17:52.000Z"
   }
 ]
