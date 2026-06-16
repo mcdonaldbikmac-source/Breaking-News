@@ -1,5 +1,25 @@
 [
   {
+    "id": "18140d0f-ad4d-4330-a30c-ec16d61437ad",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Cathie Wood’s ARK Grabs 3.3M SpaceX Shares as Starlink Fuels Bull Case",
+    "summary": "1. Cathie Wood’s ARK Invest moved quickly into SpaceX after Elon Musk’s space company began trading, buying nearly 3.3 million shares for three exchange-traded funds (ETFs).\n2. The purchase added exposure to rockets, Starlink broadband, AI-linked infrastructure plans, and SpaceX’s 18,712 BTC treasury position.\n3. ARK Builds SpaceX Position Across Three ETFs After Nasdaq Debut Cathie Wood’s ARK […]",
+    "url": "https://news.bitcoin.com/cathie-woods-ark-grabs-3-3m-spacex-shares-as-starlink-fuels-bull-case/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-16T02:30:57.000Z"
+  },
+  {
+    "id": "d8ce25e6-9cbe-4cd8-9822-d36de61b6745",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Uniswap Could Hit $100: Standard Chartered Forecasts UNI Outperforming BTC and ETH",
+    "summary": "1. Standard Chartered began Uniswap coverage with a $100 UNI forecast, projecting the token could outpace BTC and ETH through the decade.\n2. The bank’s outlook centers on DeFi growth, tokenized assets, and a potential 40x rise from $2.50.\n3. Standard Chartered Initiates Coverage With $100 UNI Target Standard Chartered Bank’s Global Head of Digital Assets Research, Geoff […]",
+    "url": "https://news.bitcoin.com/uniswap-could-hit-100-standard-chartered-forecasts-uni-outperforming-btc-and-eth/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-16T01:30:35.000Z"
+  },
+  {
     "id": "b5a5a50c-2fbc-4db2-b44a-88272e7d7a0f",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -98,185 +118,5 @@
     "url": "https://t.me/CoinnessGL#774030ee",
     "author": "@CoinnessGL",
     "created_at": "2026-06-15T22:32:14+00:00"
-  },
-  {
-    "id": "a1bd5a02-ddd6-4b5c-81c9-84896c9cbc5c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bank of Ghana Orders Banks to Halt Crypto Dollar Wallets as Enforcement Risks Rise",
-    "summary": "1. The Bank of Ghana has issued a mandatory directive ordering all regulated financial institutions to immediately stop supporting unauthorized foreign currency digital wallets offered by cryptocurrency platforms.\n2. Breach of National Financial Laws The Bank of Ghana has issued a directive ordering regulated financial institutions to immediately halt operations that support unauthorized foreign currency wallet services […]",
-    "url": "https://news.bitcoin.com/bank-of-ghana-orders-banks-to-halt-crypto-dollar-wallets-as-enforcement-risks-rise/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-15T22:10:41.000Z"
-  },
-  {
-    "id": "7b73535b-8952-4bd2-8c63-b6feb18399f1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
-    "summary": "1. A spokesperson for the Democratic National Committee decried the move as “an opportunity to use the power of the presidency to make [Trump] and his family even richer.”",
-    "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-15T22:10:00.000Z"
-  },
-  {
-    "id": "3e1301f7-06fa-44c3-93d2-42083f4930d0",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "summary": "1. The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S.\n2. government interference.",
-    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-15T21:50:21.000Z"
-  },
-  {
-    "id": "624eb634-36fb-4dfd-8388-c046e152c7f2",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.178",
-    "summary": "1. ## What's changed\n\n- Added `Tool(param:value)` syntax for permission rules to match a tool's input parameters (with `*` wildcard), e.g.\n2. `Agent(model:opus)` to block Opus subagents\n- Skills in nested `.claude/skills` directories now load when working on files there; on a name clash, the nested skill appears as `:` so both stay available\n- Nested `.claude/` directories: the agent, workflow, and output-style closest to the working directory now wins when names collide; project-scope workflow saves now target the closest existing `.claude/workflows/`\n- Improved auto mode: subagent spawns are now evaluated by the classifier before launch, closing a gap where a subagent could request a blocked action without review\n- Improved `/doctor` with consistent flat tree layout across all sections, clearer section status icons, and highlighted command names\n- Improved the skill listing truncation warning to show how many skill descriptions are affected\n- Changed the workflow prompt keyword to use a purple shimmer highlight and trigger only on explicit phrases like \"run a workflow\" or \"workflow:\", not on any mention of the word\n- Improved Remote Control error messages: connection failures now show a persistent red \"/rc failed\" indicator in the footer, and the \"not yet enabled\" error now explains whether it's a gate, a check failure, stale entitlement, or org policy\n- `/bug` now requires a description before submitting, and no longer uses model-refusal text as the GitHub issue title\n- Fixed a crash (out-of-memory) when the CLI inherits a stale websocket/OAuth file-descriptor environment variable from a parent process\n- Fixed Claude in Chrome silently failing to connect when the OAuth token belongs to a different account than the Claude Code login\n- Fixed nested `.claude/skills` skills with directory-qualified names being blocked by permission prompts in non-interactive runs\n- Fixed several subagent issues: viewing a subagent's transcript now shows tool results and live progress, messages sent while it finishes its turn are no longer dropped, and backgrounding a running subagent (ctrl+b) no longer restarts it from scratch\n- Fixed `claude agents` workers failing with `401 Invalid bearer token` when the daemon was started from a shell with a custom API gateway via `ANTHROPIC_BASE_URL` and `ANTHROPIC_AUTH_TOKEN`\n- Fixed compaction not honoring `--fallback-model`: compaction now falls back to the configured fallback model chain on overload or model-availability errors\n- Fixed model requests continuing to fail with auth errors after credentials were refreshed outside the session, due to a stale cached request configuration\n- Fixed background sessions created with `/bg` or `←←` after a turn finished showing \"Working\" forever in the agents list\n- Fixed `CLAUDE_CODE_PLUGIN_KEEP_MARKETPLACE_ON_FAILURE=1` preventing fresh marketplace installs from cloning\n- Fixed MCP server-level specs (`mcp__server`, `mcp__server__*`, `mcp__*`) in subagent `disallowedTools` being silently ignored\n- Fixed vim mode undo: `u` now steps through NORMAL/VISUAL-mode commands one at a time instead of merging commands in quick succession into a single undo step\n- Fixed statusline links with custom URI schemes (e.g.\n3. `vscode://`) not opening when clicked in `claude agents`\n- [VSCode] Fixed pressing Esc to dismiss a CJK IME candidate window canceling the running Claude task",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.178",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-15T21:35:55Z"
-  },
-  {
-    "id": "28b7bccb-0be2-4c31-80a1-ad4af9b55808",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Spain’s CNMV Issues Urgent Warning Ahead of June 30 MiCA Crypto Deadline",
-    "summary": "1. The regulator stressed that, starting next July, VASPSs that had not received authorization to operate in the country will have to execute a plan to migrate their customers’ funds.\n2. They could also arrange with other approved VASPs to continue serving these customers after user approval.\n3. Spain’s CNMV Issues Statement On MiCA’s Upcoming Application On Monday, […]",
-    "url": "https://news.bitcoin.com/spains-cnmv-issues-urgent-warning-ahead-of-june-30-mica-crypto-deadline/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-15T21:30:42.000Z"
-  },
-  {
-    "id": "bc4ec75e-2d9f-4b1a-96f7-e4fc0c01d702",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
-    "summary": "1. Volume across the three products has been uneven, with BHYP and THYP accounting for the bulk of activity while HYPG continues to ramp.",
-    "url": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss",
-    "author": "Ivan Wu and Bryan Samsoedin",
-    "created_at": "2026-06-15T21:26:02.000Z"
-  },
-  {
-    "id": "f08a44f1-be5d-4fe8-8600-ead7d6f19862",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Battleground Iowa House race takes bizarre turn with alleged RFK Jr. intervention",
-    "summary": "1. Marco Battaglia, who hopes to run for GOP Rep.\n2. Zach Nunn’s seat, claims a bizarre pressure pressure campaign is mounting against him.",
-    "url": "https://www.politico.com/news/2026/06/15/iowa-battleground-rfk-zach-nunn-challenger-00962665",
-    "author": "By Samuel Benson",
-    "created_at": "2026-06-15T21:12:19.000Z"
-  },
-  {
-    "id": "2570f6a9-f96d-4ed1-aed7-52f997217a35",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
-    "summary": "1. A federal judge handed Elon Musk his second defeat against OpenAI after finding xAI failed to show OpenAI improperly obtained confidential info.",
-    "url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-15T21:05:00.000Z"
-  },
-  {
-    "id": "a128cfc6-e1ba-4aed-87d9-6abc8bdd814a",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
-    "summary": "1. Pudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.",
-    "url": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
-    "author": "Andrew Hayward",
-    "created_at": "2026-06-15T20:47:53.000Z"
-  },
-  {
-    "id": "ce8d2272-c98e-45c4-9f35-4efc787ac4cd",
-    "source": "The Block",
-    "type": "rss",
-    "title": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3’s biggest market",
-    "summary": "1. Stock-linked HIP-3 markets have generated more than $18.8 billion in volume so far this month, eclipsing crude oil and Brent perps combined.",
-    "url": "https://www.theblock.co/post/404804/spacex-ipo-1-4-billion-trading-frenzy-hyperliquid-spcx-perp-hip-3s-biggest-market?utm_source=rss&utm_medium=rss",
-    "author": "Ivan Wu and Bryan Samsoedin",
-    "created_at": "2026-06-15T20:31:48.000Z"
-  },
-  {
-    "id": "44bdbbed-b4b1-4108-9266-bff9abf50829",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 $1.1 trillion added to the US stock market today.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#8a68bf2d",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-15T20:27:25+00:00"
-  },
-  {
-    "id": "23a5b834-a2e2-461a-956c-0da6ae06049d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot",
-    "summary": "1. Nvidia’s planned bond sale reinforces booming AI infrastructure demand, strengthening the case for Bitcoin miners pivoting toward AI data centers.",
-    "url": "https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-15T20:15:43.000Z"
-  },
-  {
-    "id": "7cebb78d-2afb-4087-8184-2c06f05d1bc7",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "BlackRock to launch Bitcoin Premium Income ETF tomorrow.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#01573735",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-15T20:13:09+00:00"
-  },
-  {
-    "id": "7fb97ec5-784f-41b5-9e06-842febd2a0ce",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
-    "summary": "1. One trader lost $1 million betting Spain would win.\n2. Another bought \"No\" at 9¢ and walked away with $4.3 million.",
-    "url": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-15T20:06:36.000Z"
-  },
-  {
-    "id": "394badf0-05bb-46d7-8830-3984c813411c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin Policy UK CEO calls Michael Saylor’s STRC investment promotion ‘dishonest’",
-    "summary": "1. \"Saylor put out a video talking about his yield with STRC...it was making it out that there is no risk involved,\" says Ward.",
-    "url": "https://www.theblock.co/post/404785/bitcoin-policy-uk-ceo-calls-michael-saylors-strc-investment-promotion-dishonest?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-15T19:51:14.000Z"
-  },
-  {
-    "id": "a3962e34-2989-462f-8479-9a333e413577",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price and Crypto Stocks Surge as Iran Ceasefire, Strategy’s $100M Buy Collide With Fed Week",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price and Crypto Stocks Surge as Iran Ceasefire, Strategy’s $100M Buy Collide With Fed Week\nBitcoin price surged to a two-week high near $67,000 as an Iran ceasefire eased macro fears and Strategy’s $100 million Bitcoin purchase fueled crypto-stock gains.\n2. This post Bitcoin Price and Crypto Stocks Surge as Iran Ceasefire, Strategy’s $100M Buy Collide With Fed Week first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-and-crypto-stocks-surge",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-15T19:43:01.000Z"
-  },
-  {
-    "id": "2bc87af5-70c8-440c-a213-f712929500d5",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
-    "summary": "1. The CFTC staff appointment came amid the US Congress seeking to overhaul federal financial regulators’ roles over digital assets with the CLARITY Act.",
-    "url": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-15T19:41:24.000Z"
-  },
-  {
-    "id": "212d7c10-224f-4d5b-9316-7039b68f2385",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "👀 Top Crypto Fundraising Last Week1️⃣ Kiavi - $717.0M; Real Estate2️⃣ Canton...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a2b0148f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-15T19:40:33+00:00"
   }
 ]
