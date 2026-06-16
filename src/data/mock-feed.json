@@ -1,5 +1,75 @@
 [
   {
+    "id": "ad4f65c1-1fef-4c20-ba22-be1aebde4a88",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC/USDT spot CVD chart at 5:00 a.m. UTC on June 16",
+    "summary": "The spot Cumulative Volume Delta (CVD) chart provides an order book analysis for the BTC/USDT spot pair. The upper section shows the Volume Heatmap, while the lower section displays the CVD.- The Volume Heatmap tracks trading volume at specific price levels. The background color brightens when the price remains in a certain range for an extended period or experiences significant movement. These brighter areas may act as potential support or resistance levels.- The CVD indicator at the bottom represents buy and sell orders categorized by trade size. As buy orders increase, the corresponding colored line rises. The yellow line indicates orders between $100 and $1,000, while the brown line represents large orders ranging from $1 million to $10 million.",
+    "url": "https://t.me/CoinnessGL#46181548",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-16T05:02:55+00:00"
+  },
+  {
+    "id": "00cb92cc-b39b-485a-a5a1-089c89f5e400",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US GAO calls for inter-agency cooperation on crypto risks",
+    "summary": "The U.S. Government Accountability Office (GAO) has recommended that the Federal Deposit Insurance Corporation (FDIC) establish a cooperative framework for regulating cryptocurrencies and blockchain, Cointelegraph reported. In a letter sent to FDIC Chairman Travis Hill on June 8, the GAO stated that blockchain-based financial products and services have significantly increased and that blockchain technology has been added to its list of high-risk areas. The agency called for the FDIC and other regulators to create a coordination and cooperation mechanism to jointly identify risks and respond in a timely manner.",
+    "url": "https://t.me/CoinnessGL#717a2875",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-16T05:02:43+00:00"
+  },
+  {
+    "id": "151a80b2-36b3-4c36-a627-a69442a16977",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing",
+    "summary": "1. A US-Iran deal pulled oil lower and lifted stocks, but bitcoin's bounce is hesitant.\n2. ETF outflows just paused after a record run, and analysts say the market wants the deal signed before pricing it in.",
+    "url": "https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-16T04:48:31.000Z"
+  },
+  {
+    "id": "1c4e31c5-8b1d-42e3-9afd-63aba7995b60",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
+    "summary": "1. Grayscale says decentralized AI tokens gained after the US government ordered Anthropic to cut access to its latest AI models, showing user demand for alternatives to centralized AI.",
+    "url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-16T04:38:49.000Z"
+  },
+  {
+    "id": "c2c74f6b-aa3f-4e6d-95e0-d8481803c8d7",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
+    "summary": "1. The Bank of Japan raised its key interest rate by 25 basis points to 1%, the highest level since 1995.",
+    "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-16T04:30:41.000Z"
+  },
+  {
+    "id": "48df833e-8fea-497d-a998-7b14d78ba01e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitwise buys $5.2M in HYPE from FalconX",
+    "summary": "Bitwise, the issuer of the HYPE ETF, purchased 77,097 HYPE worth $5.18 million through FalconX about an hour ago, according to Lookonchain.",
+    "url": "https://t.me/CoinnessGL#46b4c723",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-16T04:16:21+00:00"
+  },
+  {
+    "id": "85463773-2951-4cf8-8be3-ee2c39e7c345",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "From Tencent to BYD: Gate Adds Massive Hong Kong Equity Portfolio for Crypto Investors",
+    "summary": "1. The Cayman Islands-based company stated that it will start listing stocks of companies present on the Hong Kong stock market, such as Tencent Holdings, HSBC Holdings, China Mobile, Xiaomi Corporation, Meituan, and BYD Company, becoming a global stock hub for crypto users.\n2. Gate Introduces Hong Kong Companies to Its Stock Portfolio Cryptocurrency exchanges are becoming […]",
+    "url": "https://news.bitcoin.com/from-tencent-to-byd-gate-adds-massive-hong-kong-equity-portfolio-for-crypto-investors/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-16T03:30:36.000Z"
+  },
+  {
     "id": "18140d0f-ad4d-4330-a30c-ec16d61437ad",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -58,65 +128,5 @@
     "url": "https://trumpstruth.org/statuses/39295",
     "author": "Trump Truth",
     "created_at": "2026-06-15T23:17:52.000Z"
-  },
-  {
-    "id": "23b4e653-9018-411d-b7b7-777cd2d367c1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CIA director says Iran will not accept US nuclear demands",
-    "summary": "CIA Director Ratcliffe has told President Trump and senior officials that Iran will not accept the nuclear concessions demanded by the U.S. in any final agreement, Axios reported, citing three sources. Ratcliffe's assessment is based on collected intelligence.He is not the only skeptic. According to two of the sources, Secretary of State Rubio and Secretary of Defense Hegseth also raised concerns about the deal in internal discussions. In contrast, Vice President Vance and envoys Witkoff and Kushner supported the agreement.Before the deal's announcement on June 14, President Trump and his aides held a series of high-level meetings to review intelligence. The information indicated that internal discussions among Iranian officials did not match the positions they had conveyed to mediators and the U.S. This led Ratcliffe and Rubio to conclude that Iran would not agree to the required nuclear measures, two sources said.",
-    "url": "https://t.me/CoinnessGL#9df9bda0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-15T22:52:41+00:00"
-  },
-  {
-    "id": "95ac3e4e-0b24-4e0a-ae90-acc709be6a24",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "If you had bought SpaceX's $SPCX IPO last Friday, you would have out performed...",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#85fa7f9e",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-15T22:49:20+00:00"
-  },
-  {
-    "id": "2bdff0d9-50ff-4746-b284-700a848a7982",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "UK think tank calls Saylor's STRC promotion dishonest for downplaying risks",
-    "summary": "Susie Ward, CEO of the UK-based think tank Bitcoin Policy UK, has criticized MicroStrategy founder Michael Saylor's promotion of the company's perpetual preferred stock (STRC), calling the approach dishonest for downplaying the associated risks. MicroStrategy issues the high-dividend STRC shares to raise capital for additional Bitcoin purchases.In an interview with The Block, Ward argued that a video from Saylor explaining STRC returns portrays the investment as if it were risk-free. She noted that the financing method involves multiple layers of financial engineering and that issuing new shares dilutes the equity of existing shareholders. Ward contended this practice is contrary to the principles that make Bitcoin attractive, such as its scarcity and limited supply, and is inconsistent with the asset's core philosophy.",
-    "url": "https://t.me/CoinnessGL#44f2b841",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-15T22:48:06+00:00"
-  },
-  {
-    "id": "c1f3c962-1a70-41bd-a8d3-f1ccfb4feba3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "VARA Pushes Dubai Crypto Firms to Track FATF Blacklists, Sharpening Risk Controls",
-    "summary": "1. A Dubai regulator is replacing baseline compliance with rigorous, data-driven frameworks.\n2. Virtual asset service providers must now use quantitative business data for real-time risk scoring instead of static tracking.\n3. New Framework Demands Quantitative Data The Dubai Virtual Assets Regulatory Authority (VARA) has published new guidance aimed at tightening financial crime defenses across the region’s booming […]",
-    "url": "https://news.bitcoin.com/vara-pushes-dubai-crypto-firms-to-track-fatf-blacklists-sharpening-risk-controls/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-15T22:45:49.000Z"
-  },
-  {
-    "id": "da1f2aa4-0b51-4034-85ef-0119c5d7d368",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-15T22:39:18.000Z"
-  },
-  {
-    "id": "30161979-4c42-41ab-a0c0-2584c87d60fb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Santiment: Worsening social media sentiment for AVAX may be a bullish sign",
-    "summary": "On-chain analytics firm Santiment has suggested that the growing negative sentiment surrounding the Layer 1 blockchain Avalanche (AVAX) on social media could be interpreted as a bullish signal. The firm explained that FUD (fear, uncertainty, and doubt) is spreading, centered on skepticism about Avalanche's ability to compete with other Layer 1 chains, concerns over its tokenomics, and a slowdown in developer activity. This has pushed social media sentiment toward AVAX to one of its most pessimistic levels this year. Santiment noted that, paradoxically, investment opportunities often arise when market sentiment reaches such extreme lows. The firm added that despite the negative sentiment, Avalanche maintains its partnerships with major institutions, involvement in government-related projects, and its unique Subnet architecture.",
-    "url": "https://t.me/CoinnessGL#774030ee",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-15T22:32:14+00:00"
   }
 ]
