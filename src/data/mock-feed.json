@@ -1,5 +1,65 @@
 [
   {
+    "id": "cce0fd30-0333-4e1c-b2d2-4f01600b8ae2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "South Korean police arrest 23 individuals in $11 million USDT laundering case: report",
+    "summary": "1. From February 2024 to April 2025, the group allegedly moved $11.1 million in illegal funds by purchasing USDT and trading on exchanges.",
+    "url": "https://www.theblock.co/post/404843/south-korea-usdt-laundering-arrest?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-16T08:02:42.000Z"
+  },
+  {
+    "id": "5452de99-9509-4988-8358-4554851a9aad",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Securitize Brings AAA CLO Fund to Solana as Ethena Commits $250 Million",
+    "summary": "1. Securitize has expanded its tokenized AAA CLO fund, STAC, to Solana, with Ethena Labs planning a $250 million allocation.\n2. The move adds one of the largest tokenized structured credit commitments yet to Solana’s growing real-world asset market.\n3. Ethena Backs Solana RWA Push With Investment in Securitize Fund Securitize is bringing its tokenized AAA CLO fund […]",
+    "url": "https://news.bitcoin.com/securitize-brings-aaa-clo-fund-to-solana-as-ethena-commits-250-million/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-16T07:30:38.000Z"
+  },
+  {
+    "id": "f924ee16-1700-4a15-a4a3-9fadaf28529c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-16T07:15:00.000Z"
+  },
+  {
+    "id": "a55ae191-9a43-48ca-b271-7948f41c33bd",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "summary": "1. Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+    "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "author": "Kate Park",
+    "created_at": "2026-06-16T06:59:00.000Z"
+  },
+  {
+    "id": "9b4ec899-223c-4253-95b8-1b01b6bd93f7",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin recovery rests on US-Iran deal as momentum remains weak",
+    "summary": "1. LVRG Research director Nick Ruck says Bitcoin could face a “volatile path” if a recently agreed peace deal between the US and Iran breaks down.",
+    "url": "https://cointelegraph.com/news/bitcoin-price-momentum-remains-weak-despite-reclaiming-67k-swissblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-06-16T06:46:43.000Z"
+  },
+  {
+    "id": "089aab75-cef8-4fc9-85b5-dce03ec2f23c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bybit and Plume Launch RWA Earn With Access to PIMCO Fixed Income Products",
+    "summary": "1. Plume has partnered with Bybit to bring institutional fixed income products to users through Bybit Earn.\n2. The new RWA Earn offering lets eligible users deploy idle stablecoins into tokenized products tied to PIMCO and CMB International strategies.\n3. Bybit Lets Users Deploy Stablecoins Into Tokenized Bond Products Plume has partnered with Bybit to launch institutional fixed […]",
+    "url": "https://news.bitcoin.com/bybit-and-plume-launch-rwa-earn-with-access-to-pimco-fixed-income-products/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-16T06:30:49.000Z"
+  },
+  {
     "id": "b9875f47-010b-4cf4-907a-dbd3df59c03d",
     "source": "CoinDesk",
     "type": "rss",
@@ -138,15 +198,5 @@
     "url": "https://news.bitcoin.com/cathie-woods-ark-grabs-3-3m-spacex-shares-as-starlink-fuels-bull-case/",
     "author": "Kevin Helms",
     "created_at": "2026-06-16T02:30:57.000Z"
-  },
-  {
-    "id": "d8ce25e6-9cbe-4cd8-9822-d36de61b6745",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Uniswap Could Hit $100: Standard Chartered Forecasts UNI Outperforming BTC and ETH",
-    "summary": "1. Standard Chartered began Uniswap coverage with a $100 UNI forecast, projecting the token could outpace BTC and ETH through the decade.\n2. The bank’s outlook centers on DeFi growth, tokenized assets, and a potential 40x rise from $2.50.\n3. Standard Chartered Initiates Coverage With $100 UNI Target Standard Chartered Bank’s Global Head of Digital Assets Research, Geoff […]",
-    "url": "https://news.bitcoin.com/uniswap-could-hit-100-standard-chartered-forecasts-uni-outperforming-btc-and-eth/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-16T01:30:35.000Z"
   }
 ]
