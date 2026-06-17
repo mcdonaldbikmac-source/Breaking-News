@@ -1,5 +1,55 @@
 [
   {
+    "id": "5d016e39-f681-44b5-95fb-9967fc0e52ae",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Senators urge Treasury ensure state authority in GENIUS application",
+    "summary": "1. A bipartisan group of US senators told the Treasury that its application of stablecoin laws should be done in a way that “preserves and promotes State participation.”",
+    "url": "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Jesse Coghlan",
+    "created_at": "2026-06-17T02:21:42.000Z"
+  },
+  {
+    "id": "9bce0757-9bcf-4f5f-a8a5-ade32778202e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Billionaire Rick Jackson defeats Trump-backed Burt Jones in Georgia governor race",
+    "summary": "1. Jackson spent over $100 million of his personal wealth to beat back the GOP establishment.",
+    "url": "https://www.politico.com/news/2026/06/16/jackson-wins-georgia-governor-runoff-00964631",
+    "author": "By Alec Hernandez",
+    "created_at": "2026-06-17T01:45:39.000Z"
+  },
+  {
+    "id": "55932630-d5f5-4f9c-9ebe-2e3f974f9404",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin’s Killer Use Case: Michael Saylor Explains How BTC Could Transform Global Finance",
+    "summary": "1. Michael Saylor says bitcoin’s “killer use case” is far bigger than payments, arguing that BTC could become the foundation for global money, credit, and capital markets.\n2. Saylor Says Bitcoin’s ‘Killer Use Case’ Goes Beyond Payments Strategy (Nasdaq: MSTR) Executive Chairman Michael Saylor said bitcoin’s “killer use case” extends beyond payments, outlining a vision for BTC’s […]",
+    "url": "https://news.bitcoin.com/bitcoins-killer-use-case-michael-saylor-explains-how-btc-could-transform-global-finance/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-17T01:30:44.000Z"
+  },
+  {
+    "id": "967a9743-7486-4afe-9470-b6b1d499f325",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Mike Collins wins Georgia GOP Senate runoff, setting up major clash with Jon Ossoff",
+    "summary": "1. Collins was boosted by a late-stage endorsement from President Donald Trump.",
+    "url": "https://www.politico.com/news/2026/06/16/collins-ossoff-georgia-senate-race-00964625",
+    "author": "By Erin Doherty",
+    "created_at": "2026-06-17T00:38:05.000Z"
+  },
+  {
+    "id": "ae1abcc9-cadb-4fac-af1c-c95dbff516ec",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Withdrawals Top 53% on Binance as Leveraged Bets Hit 2026 High",
+    "summary": "1. XRP withdrawals on Binance rose as traders shifted activity away from deposits, while leverage in the exchange’s derivatives market hit a yearly high.\n2. Cryptoquant-shared data showed withdrawal dominance at 53.2%, while Binance’s XRP leverage ratio reached its highest level of 2026.\n3. Binance XRP Withdrawals Climb Back Toward April Stress Zone XRP flows on Binance have […]",
+    "url": "https://news.bitcoin.com/xrp-withdrawals-top-53-on-binance-as-leveraged-bets-hit-2026-high/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-17T00:30:21.000Z"
+  },
+  {
     "id": "b8d9dcc6-8aa3-4c1f-b7fb-af6613c9fb18",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -18,6 +68,16 @@
     "url": "https://news.bitcoin.com/onchain-data-locks-in-satoshis-1-1m-btc-hoard-3-theories-on-why-it-never-moves/",
     "author": "Jamie Redman",
     "created_at": "2026-06-16T22:50:47.000Z"
+  },
+  {
+    "id": "7dd87779-bbd0-4077-86eb-49ca74e47204",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "summary": "1. Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "author": "Julie Bort",
+    "created_at": "2026-06-16T22:34:17.000Z"
   },
   {
     "id": "288efed4-8da8-4d65-938c-9a3888d7ed2b",
@@ -48,6 +108,16 @@
     "url": "https://news.bitcoin.com/uk-facing-crypto-casino-network-goes-dark-for-20-hours-as-slot-suppliers-exit/",
     "author": "Luci Kelemen",
     "created_at": "2026-06-16T22:20:59.000Z"
+  },
+  {
+    "id": "2b2b8973-029c-4ca2-aa3c-9abd1118add6",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+    "summary": "1. In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
+    "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-06-16T22:09:32.000Z"
   },
   {
     "id": "06fac148-72c6-427b-8ad0-7c95ac157d44",
@@ -178,185 +248,5 @@
     "url": "https://bitcoinmagazine.com/news/vaneck-bitcoin-miners-face-50b-funding-gap",
     "author": "Micah Zimmerman",
     "created_at": "2026-06-16T20:32:51.000Z"
-  },
-  {
-    "id": "b2eaf0f4-579f-47fa-8cfd-6afe579de0a8",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters",
-    "summary": "1. Binance said it believes it is compliant as a regulatory deadline in the European Union nears—and a report says it's likely to lose access.",
-    "url": "https://decrypt.co/371343/binance-rejected-eu-regulatory-license-reuters",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-16T20:25:52.000Z"
-  },
-  {
-    "id": "dd51fee9-f08d-4dce-8e2a-401becf03afa",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.179",
-    "summary": "1. ## What's changed\n\n- Fixed mid-stream connection drops: partial responses are now preserved instead of showing a raw error, and the spinner no longer gets stuck at \"running tool\"\n- Fixed mouse-wheel scrolling in WSL2 under Windows Terminal and VS Code (regression in 2.1.172)\n- Fixed a sandbox `denyRead`/`allowRead` glob over a large directory tree making the Bash tool description enormous and the session unusable on Linux\n- Fixed the feedback survey capturing a single-digit reply as a session rating immediately after a turn completes\n- Fixed the welcome screen stacking multiple promotional banners — at most one promo now shows per session\n- Fixed Ctrl+O not showing the subagent's transcript when viewing a subagent\n- Fixed clicking the prompt input not returning focus from the subagent/footer panel\n- Fixed remote session background tasks appearing stuck as \"still running\" between turns\n- Improved plugin loading performance in remote sessions",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.179",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-16T20:22:14Z"
-  },
-  {
-    "id": "a1005a56-0589-458f-89b2-5b60d85e2cab",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Hyperliquid, Uniswap and Worldcoin buck crypto slump as traders chase AI, DeFi trends",
-    "summary": "1. A handful of tokens continued their run while bitcoin and the rest of the crypto market stalled after the early week bounce.",
-    "url": "https://www.coindesk.com/markets/2026/06/16/hyperliquid-uniswap-and-worldcoin-buck-crypto-slump-as-traders-chase-ai-defi-trends",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-16T20:20:35.000Z"
-  },
-  {
-    "id": "1f4d614d-2af2-4512-b22f-c62acb0fc3f9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Stack’s Bowers Auctions Funded 0.5 Bitcoin Casascius Token From America’s 237th Birthday",
-    "summary": "1. Stack’s Bowers Galleries will auction a funded Casascius 0.5 BTC physical token minted on July 4, 2013, the 237th anniversary of the signing of the Declaration of Independence, as part of its June 2026 Showcase Auction on Thursday.\n2. What’s Being Sold According to the Stack’s Bowers Galleries announcement shared with Bitcoin.com News, the token is […]",
-    "url": "https://news.bitcoin.com/stacks-bowers-auctions-funded-0-5-bitcoin-casascius-token-from-americas-237th-birthday/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-16T20:15:33.000Z"
-  },
-  {
-    "id": "e33c7ea5-50a1-4ea7-99ed-2910a3e5a99c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "summary": "1. SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-06-16T20:11:00.000Z"
-  },
-  {
-    "id": "e1b71a65-e600-4948-9690-b04954e7731e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bipartisan senators push Treasury to uphold states’ authorities under the GENIUS Act",
-    "summary": "1. A group of bipartisan senators pressed the Treasury Department to preserve states' ability to regulate stablecoins.",
-    "url": "https://www.theblock.co/post/405018/bipartisan-senators-push-treasury-uphold-states-authorities-under-genius-act?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-16T20:07:23.000Z"
-  },
-  {
-    "id": "d623be15-9be0-4a27-841d-c9acce28339f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close lower",
-    "summary": "The three major U.S. stock indices closed lower today.- S&P 500: -0.57%- Nasdaq: -1.15%- Dow Jones: -0.64%",
-    "url": "https://t.me/CoinnessGL#d52afffb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-16T20:02:18+00:00"
-  },
-  {
-    "id": "f3f8cb86-f1e8-4fa0-b30a-44127e5d7db6",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast",
-    "summary": "1. Sensor Tower's State of AI 2026 report shows ChatGPT's audience share slipping below 50% for the first time, as Gemini's default-app advantage and Claude's Pentagon-fueled rally eat into OpenAI's lead.",
-    "url": "https://decrypt.co/371318/chatgpt-ai-market-share-claude-gemini-grok",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-16T19:59:59.000Z"
-  },
-  {
-    "id": "5ee26e02-fd0e-43d5-b7c5-609ad1fe5e5f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
-    "summary": "1. Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase.\n2. Will prices follow?",
-    "url": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Biraajmaan Tamuly",
-    "created_at": "2026-06-16T19:54:21.000Z"
-  },
-  {
-    "id": "da403b9c-0f21-4988-b811-7b6ea94b0f6a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase unveils stock, derivatives, and AI products in push to be comprehensive exchange",
-    "summary": "Coinbase has unveiled a diverse range of new products spanning stocks, derivatives, artificial intelligence (AI), and consumer finance as it aims to become a comprehensive trading platform. According to CoinDesk, the exchange announced plans to offer options trading for both cryptocurrencies and stocks. As part of its expanded equity services, users can now transfer stock portfolios from other brokerages and trade crypto, U.S. stocks, ETFs, and stock indices through Coinbase Advanced.The company is also expanding its derivatives business to include perpetual futures linked to specific theme baskets—such as AI, the defense industry, and Chinese stocks—as well as pre-IPO perpetual futures for private companies.Additionally, the exchange has launched Coinbase Advisor, one of the first AI-powered investment advisory tools registered with the U.S. SEC. The tool, which aims to provide portfolio recommendations, tax-loss harvesting, and market analysis, will initially be available to Coinbase One users in the United States. more:",
-    "url": "https://t.me/CoinnessGL#863b15c9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-16T19:47:44+00:00"
-  },
-  {
-    "id": "6b9f2c72-968a-43b7-a131-22568f6c25e4",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "FBI Says It Foiled Drone Attack Plot Targeting White House UFC Event",
-    "summary": "1. Federal prosecutors allege five men planned to use explosive-laden drones and sniper teams to take out \"high-value targets\" at the UFC event.",
-    "url": "https://decrypt.co/371339/fbi-foiled-drone-attack-plot-targeting-white-house-ufc-event",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-16T19:47:42.000Z"
-  },
-  {
-    "id": "0ff7239c-4753-44c3-ae44-ac9945696481",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
-    "summary": "1. Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 20 Alabama primary, and an additional $4.7 million before Tuesday’s runoffs.",
-    "url": "https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Turner Wright",
-    "created_at": "2026-06-16T19:45:47.000Z"
-  },
-  {
-    "id": "31a56616-9993-4825-a688-f40dca50ba05",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "BTC Holds Above $65,500 as Santiment Signals Bitcoin Could Gain From US-Iran MoU",
-    "summary": "1. Despite a positive global market response to a newly announced U.S.-Iran memorandum of understanding, bitcoin experienced high volatility and a 1.4% price decline, dropping to an intraday low of $65,301 before stabilizing near $65,919.\n2. Global Markets Diverge as Oil Slides Bitcoin traded down on Tuesday even as global markets continued to respond positively to the […]",
-    "url": "https://news.bitcoin.com/btc-holds-above-65500-as-santiment-signals-bitcoin-could-gain-from-us-iran-mou/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-16T19:43:03.000Z"
-  },
-  {
-    "id": "a41317ed-21b3-4922-970b-4ab7fd0979b7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Polish President Vetoes Crypto Bill for Third TimePolish President Karol...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#848e48e1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-16T19:40:50+00:00"
-  },
-  {
-    "id": "8bacf864-01c5-46b7-9c9a-6cd434deb51e",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Invite-Only Mita TechTalks 2026 to Unite Bitcoin, AI and Energy Leaders in Punta Mita",
-    "summary": "1. Bitcoin Magazine\n\nInvite-Only Mita TechTalks 2026 to Unite Bitcoin, AI and Energy Leaders in Punta Mita\nMita TechTalks 2026 will bring together Bitcoin, AI and energy leaders in Punta Mita, Mexico, for an invite-only summit focused on corporate Bitcoin adoption, AI-driven power demand and the growing competition for energy infrastructure.\n2. This post Invite-Only Mita TechTalks 2026 to Unite Bitcoin, AI and Energy Leaders in Punta Mita first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/invite-only-mita-techtalks-2026",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-16T19:15:46.000Z"
-  },
-  {
-    "id": "13c609e4-82c3-4428-8fbc-2b4df8a19f1f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase unveils ‘System Update’ unlocking an AI advisor, global unified liquidity, options trading and more",
-    "summary": "1. Coinbase's latest System Update includes a new AI-powered advisor and global unified liquidity between its U.S.\n2. and international platforms.",
-    "url": "https://www.theblock.co/post/405012/coinbase-unveils-system-update-unlocking-an-ai-advisor-global-unified-liquidity-options-trading-and-more?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-16T19:00:00.000Z"
-  },
-  {
-    "id": "116399f7-8fe1-4d64-b923-cc9e1c5cdf9f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇪🇺 Binance says it remains committed to European users and will continue operating legally following reports it could lose permission to serve the EU.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#6451b3f4",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-16T18:48:36+00:00"
-  },
-  {
-    "id": "99e0e57e-4945-46f5-917d-b15f3f697ee4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Garlinghouse Cautions on AI Agents in Financial AccountsBrad Garlinghouse says...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#aee2d950",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-16T18:30:25+00:00"
   }
 ]
