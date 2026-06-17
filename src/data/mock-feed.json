@@ -1,6 +1,46 @@
 [
   {
-    "id": "8ac44ee1-1479-4992-864d-80fe4a0e9b5c",
+    "id": "59d7333a-8f0a-4c50-bfb8-caf4b3c9a5e6",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 The Fed signaled possible rate hikes ahead, with nine officials now forecasting at least one increase by year-end.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4369203c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-17T22:40:06+00:00"
+  },
+  {
+    "id": "f4453409-bedd-49a0-a761-4e1180b7a9e0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Slowmist: A Single Missing Line of Code Drained $111,000 From the DIP Token",
+    "summary": "1. A coding flaw in the DIP token, an essential utility asset of the Etherisc ecosystem, let an attacker siphon roughly $111,098 in USD Coin (USDC), blockchain security firm Slowmist revealed.\n2. A Transfer That Ran Twice Slowmist flagged the incident in a threat intelligence alert, pinning the loss at 111,097.6 USDC.\n3. The firm said the DIP […]",
+    "url": "https://news.bitcoin.com/dip-token-exploit-slowmist-usdc/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-17T22:35:15.000Z"
+  },
+  {
+    "id": "5f4c04e6-4a09-4799-85f1-1799b2c35c60",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale addresses with over 1,000 BTC now hold 7.17M BTC",
+    "summary": "Whale addresses holding at least 1,000 BTC now hold a total of 7.17 million BTC, marking the first time their holdings have surpassed this level since March 14, according to on-chain analytics firm Santiment. This amount represents 35.82% of the current BTC supply. The number of addresses holding over 1,000 BTC stands at 2,044.",
+    "url": "https://t.me/CoinnessGL#0b2481ca",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-17T22:33:08+00:00"
+  },
+  {
+    "id": "d95e3d9f-e5f6-4e25-b567-60e0e2ae28cb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Base launches private transaction feature for enterprises",
+    "summary": "Coinbase's Layer 2 network, Base, has introduced a private transaction feature for enterprise users. The function is designed to protect transaction information necessary for corporate operations while maintaining the transparency and efficiency of blockchain infrastructure.",
+    "url": "https://t.me/CoinnessGL#fee03436",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-17T22:28:32+00:00"
+  },
+  {
+    "id": "4ee8f7bf-652c-43c4-9195-f33c5c84023b",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Michigan court rules sports prediction markets outside CFTC jurisdiction",
@@ -18,6 +58,16 @@
     "url": "https://t.me/CoinnessGL#3b470714",
     "author": "@CoinnessGL",
     "created_at": "2026-06-17T22:11:20+00:00"
+  },
+  {
+    "id": "1a273137-7c84-4c5d-b05b-b1b8b4d794cc",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.181",
+    "summary": "1. ## What's changed\n\n- Added `/config key=value` syntax to set any setting from the prompt (e.g.\n2. `/config thinking=false`) — works in interactive, `-p`, and Remote Control\n- Added `sandbox.allowAppleEvents` opt-in setting that lets sandboxed commands send Apple Events on macOS\n- Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable: point it at a marker file to suppress mobile push notifications while you're at the machine\n- Upgraded the bundled Bun runtime to 1.4\n- Improved streaming of long paragraphs: text now appears line-by-line instead of waiting for the first line break\n- Improved auto-retry: API connection drops mid-thinking now automatically retry instead of showing \"Connection closed while thinking\"\n- Improved the subagent panel: idle subagents auto-hide after 30s, the list caps at 5 rows with scroll hints, and keyboard hints now show in the footer\n- Improved the MCP OAuth browser page to match Claude Code's visual style and auto-close on success\n- Changed fullscreen mode URL opening to require Cmd+click (macOS) / Ctrl+click, matching native terminal behavior\n- Changed the `Improved N memories` line to no longer list individual files outside verbose mode\n- Fixed prompt caching not reading on custom `ANTHROPIC_BASE_URL` and on Foundry due to a per-request attestation token changing every turn\n- Fixed Write/Edit producing 0-byte or truncated files on network drives and cloud-synced folders\n- Fixed `open`, `osascript`, and browser-based auth flows failing with error -600 on macOS by adding the Apple Events entitlement\n- Fixed a startup regression (~120ms per launch in fresh environments, introduced in 2.1.169): the first prompt no longer waits for the managed-settings fetch when no MCP servers are configured\n- Fixed startup blocking with a blank terminal for up to 15 seconds when the account settings fetch is slow on a degraded network\n- Fixed startup crash (`TypeError: Cannot read properties of null`) when `.claude.json` contains corrupted null project entries\n- Fixed macOS TUI freezing at session start (Ctrl+C unresponsive) when Spotlight is busy reindexing\n- Fixed long-running idle sessions losing their history when another Claude Code process ran the 30-day transcript cleanup\n- Fixed foreground subagents spawning unbounded nested chains; they now respect the same 5-level depth limit as background subagents\n- Fixed `/recap` and conversation forks using the previous model immediately after a model switch\n- Fixed subagent \"Thinking\" duration showing the parent agent's elapsed time instead of the subagent's own\n- Fixed subagents blocked on a nested agent showing a ticking elapsed time instead of \"waiting\" in the agent panel\n- Fixed the API retry indicator (\"Retrying in 0s · attempt N/10\") staying on screen after the retry succeeded\n- Fixed AWS `awsCredentialExport` credentials with a short remaining lifetime causing credential refreshes every minute, and now accepts the JSON shape from `aws configure export-credentials`\n- Fixed `claude mcp get`/`list` showing `✓ Connected` when tools/list fails; they now show `!\n3. Connected · tools fetch failed` with the error detail\n- Fixed `/remote-control` leaving a stale \"connecting…\" line; it now confirms in the transcript once connected\n- Fixed ExitWorktree refusing to remove a clean worktree with \"Could not verify worktree state\" when bare `git` cannot be resolved on Windows\n- Fixed settings changes (such as `/effort` or `/model`) failing with ENOENT when `~/.claude/settings.json` is a relative symlink under a symlinked `~/.claude`\n- Fixed IDE selection line numbers in context reminders being off by one (IntelliJ and VS Code)\n- Fixed Ctrl+C in fullscreen after a native terminal selection (modifier+drag) overwriting the clipboard with the app's prior selection\n- Fixed Ctrl+V showing \"No image found in clipboard\" instead of pasting when the clipboard contains text\n- Fixed agent creation failing with \"EEXIST: file already exists\" when the agents directory already exists (Windows/OneDrive)\n- Fixed AskUserQuestion preview content being cut off at the dialog edge instead of word-wrapping\n- Fixed AskUserQuestion multi-select questions silently dropping a typed \"Other\" free-text answer when submitting\n- Fixed `/stats` \"Most active day\" and daily token chart dates showing one day early in UTC-negative timezones\n- Fixed `/copy` and copy-on-select on Linux not detecting a clipboard utility installed after Claude Code started\n- Fixed tab-indented code rendering with incorrect indentation in the Write (create-file) preview\n- Fixed user prompts queued mid-turn not showing a full-width background highlight in the transcript\n- Fixed the activity spinner's pulse dwelling on the wrong glyph size in Ghostty",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-17T22:07:41Z"
   },
   {
     "id": "b026a890-b5e4-43b8-8f73-a34d0e4b792b",
@@ -50,7 +100,7 @@
     "created_at": "2026-06-17T22:01:46.000Z"
   },
   {
-    "id": "9318ecdb-d019-47e1-b062-b43dd85bf59f",
+    "id": "2d961da5-14ff-487d-a627-eb55bd0ea9e5",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Hyperliquid's perpetual futures open interest has surpassed $10B, with $4B tied to equity-linked, commodity and pre-IPO markets via HIP-3, per Talos.",
@@ -100,7 +150,7 @@
     "created_at": "2026-06-17T21:25:59.000Z"
   },
   {
-    "id": "6466c50e-4a76-40bb-b9d4-6f7b8b5bd727",
+    "id": "30daff50-1b77-4081-b9c2-449b787d28ae",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "TEXT OF US-IRAN MOU HAS BEEN OFFICIALLY FINALIZED AND SIGNED BY BOTH SIDES, IRAN FOREIGN MINISTRY AND TWO US OFFICIALS CONFIRMS Twitter",
@@ -110,7 +160,7 @@
     "created_at": "2026-06-17T21:25:40+00:00"
   },
   {
-    "id": "8421fbd5-7188-416d-a87a-1bec5c6dd3ef",
+    "id": "c2fef0c7-7ea5-4284-8998-852f522badaf",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🏦 Moody’s Ratings has brought machine-readable credit ratings to Solana through Alphaledger, expanding its push to put ratings data on public blockchains.",
@@ -190,7 +240,7 @@
     "created_at": "2026-06-17T20:50:07+00:00"
   },
   {
-    "id": "9c0e9c9c-72f0-4ad1-848d-0431fb6b0c4f",
+    "id": "6e639e7b-b21b-4a96-897d-2d397ec475b5",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Binance Founder CZ says countries need to tokenize stocks and issue their own crypto stablecoins to allow worldwide buyers.@WatcherGuru",
@@ -240,7 +290,7 @@
     "created_at": "2026-06-17T20:23:05.000Z"
   },
   {
-    "id": "43e92e7f-1aa0-4ebf-a4bd-6af954a1d736",
+    "id": "aef45a7a-d671-4f89-a053-0041cb138417",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "GHALIBAF SAYS IRAN TO CHARGE FOR HORMUZ SERVICESTwitter",
@@ -460,7 +510,7 @@
     "created_at": "2026-06-17T19:00:07+00:00"
   },
   {
-    "id": "7a59ed8e-e935-4d69-9c69-dd7474eb826b",
+    "id": "45aeffca-44a9-4807-baac-3884c660db94",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Federal Reserve Chair Kevin Warsh says Fed officials are \"very open about changes.\"@WatcherGuru",
@@ -480,7 +530,7 @@
     "created_at": "2026-06-17T18:50:22.000Z"
   },
   {
-    "id": "d8b06e5a-363d-4904-8706-e4a4625ef02d",
+    "id": "58d832c2-c77a-4b4c-826c-d593d88a9773",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Fed Chair Kevin Warsh says the Federal Reserve has officially dropped forward guidance.@WatcherGuru",
@@ -490,7 +540,7 @@
     "created_at": "2026-06-17T18:45:02+00:00"
   },
   {
-    "id": "47fd5a4c-467c-4c3e-b4cb-97fecaae4c2c",
+    "id": "1704d2fa-7661-43c6-a6a4-320778de307c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Warsh says Federal Reserve policy statements will be shorter, fact-based, and avoid signaling future rate movesTwitter",
