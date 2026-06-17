@@ -1,5 +1,105 @@
 [
   {
+    "id": "b8d9dcc6-8aa3-4c1f-b7fb-af6613c9fb18",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin’s Next Phase Is Bigger Than Holding BTC: Saylor Outlines 5-Layer Stack",
+    "summary": "1. Michael Saylor says bitcoin’s evolution could extend far beyond corporate treasury strategies, outlining a five-layer financial framework built on BTC.\n2. Saylor Details How Bitcoin-Backed Markets Could Move Beyond Treasury Holdings Michael Saylor, executive chairman of Strategy (Nasdaq: MSTR), says bitcoin’s next phase is not limited to companies adding BTC to balance sheets.\n3. In a June […]",
+    "url": "https://news.bitcoin.com/bitcoins-next-phase-is-bigger-than-holding-btc-saylor-outlines-5-layer-stack/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-16T23:30:20.000Z"
+  },
+  {
+    "id": "7d380b47-8fe1-4d64-8853-3ca7177868c9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Onchain Data Locks In Satoshi’s 1.1M BTC Hoard — 3 Theories on Why It Never Moves",
+    "summary": "1. Over the years, blockchain forensic analysis has traced roughly 1.1 million bitcoin, currently worth nearly $73 billion, to Satoshi Nakamoto, the pseudonymous creator of Bitcoin, with the entire cache sitting untouched since 2010.\n2. What the Numbers Show The estimate places Satoshi‘s holdings at approximately 1.09 million to 1.1 million BTC, representing about 5.47% of bitcoin’s […]",
+    "url": "https://news.bitcoin.com/onchain-data-locks-in-satoshis-1-1m-btc-hoard-3-theories-on-why-it-never-moves/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-16T22:50:47.000Z"
+  },
+  {
+    "id": "288efed4-8da8-4d65-938c-9a3888d7ed2b",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
+    "summary": "1. The Chinese company is doubling down on its \"embodied AI\" bet.",
+    "url": "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-06-16T22:32:21.000Z"
+  },
+  {
+    "id": "1afd7bb7-8297-43a6-8417-a8c548719dce",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+    "summary": "1. Despite Bitcoin derivatives data highlight traders’ skepticism even though BTC briefly rallied above $67,000.\n2. Are bulls stepping into a trap?",
+    "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Marcel Pechman",
+    "created_at": "2026-06-16T22:28:40.000Z"
+  },
+  {
+    "id": "437c19ee-dff5-492f-a245-06f62bfc866d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "UK-Facing Crypto-Casino Network Goes Dark for 20 Hours as Slot Suppliers Exit",
+    "summary": "1. Mystake, one of the largest UK-facing crypto-casino networks blinked offline for roughly 20 hours last weekend after several B2B game studios pulled their slots from its sites.\n2. Crypto Rails Outlast the Game Suppliers Mystake, Goldenbet, Donbet, Velobet, Cosmobet, Freshbet and Rolletto – brands long linked to Curaçao operator Santeda International B.V.\n3. – went dark on […]",
+    "url": "https://news.bitcoin.com/uk-facing-crypto-casino-network-goes-dark-for-20-hours-as-slot-suppliers-exit/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-06-16T22:20:59.000Z"
+  },
+  {
+    "id": "06fac148-72c6-427b-8ad0-7c95ac157d44",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Collector Crypt Fees Jump 129% in a Week as Solflare Brings Card-Pack Trading Into the Wallet",
+    "summary": "1. Collector Crypt, the Solana-native platform for tokenized graded trading cards, posted a 129% week-over-week jump in fee revenue to $3.86 million as the Solflare wallet embedded its gacha card-pack mechanic for four million monthly active users.",
+    "url": "https://thedefiant.io/news/regulation/collector-crypt-fees-jump-129-in-a-week-as-solflare-brings-card-pack-trading-into-the-wallet",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-16T21:58:05.000Z"
+  },
+  {
+    "id": "afb0b8fe-93f8-4cf5-8a90-b5459cf91f17",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows",
+    "summary": "1. Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA.",
+    "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
+    "author": "James Van Straten",
+    "created_at": "2026-06-16T21:54:49.000Z"
+  },
+  {
+    "id": "f8ac5aef-5bf4-4a89-a5ba-ee7fa05b211f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "UNI Gains 22% in 24 Hours With $621M Volume, Extending Standard Chartered Bull Thesis",
+    "summary": "1. UNI climbed 22% in 24 hours to $3.28 on $621 million in trading volume Tuesday, the highest-percentile move in recent CoinGecko tracking, one day after Standard Chartered published a $100 long-term price target for the token.",
+    "url": "https://thedefiant.io/news/markets/uni-22-percent-24-hours-621m-volume-standard-chartered-bull-thesis",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-16T21:50:16.000Z"
+  },
+  {
+    "id": "b3c74dc6-e2a3-47b3-a2b9-07a8b10ca67d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Binance Could Face EU Exit as Reports Say Greek Regulator is Set to Reject MiCA License",
+    "summary": "1. Greece's Hellenic Capital Market Commission appears set to reject Binance's MiCA license application, putting the world's largest crypto exchange on course to lose EU client access on July 1.\n2. Binance disputes the account and says its application was considered compliant, promising an update before",
+    "url": "https://thedefiant.io/converge/regulation/binance-could-face-eu-exit-as-reports-say-greek-regulator-is-set-to-reject-mica-license",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-16T21:27:48.000Z"
+  },
+  {
+    "id": "4213d93d-f0cd-4cd2-b3bd-ddd89c42f902",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Cointelegraph",
+    "created_at": "2026-06-16T21:26:55.000Z"
+  },
+  {
     "id": "2132f162-6803-4f73-9bf5-16f05436c478",
     "source": "CoinDesk",
     "type": "rss",
@@ -258,325 +358,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#aee2d950",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-16T18:30:25+00:00"
-  },
-  {
-    "id": "c2f2f813-f6df-426c-9903-8a8e0805fdfe",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Pump.fun activity craters 80% in three months, dragging Solana fees lower as traders rotate into perps",
-    "summary": "1. The platform's fall from grace is best reflected in the PUMP token itself, which is down 40% in the last six months alone.",
-    "url": "https://www.theblock.co/post/404806/pump-fun-activity-craters-80-three-months-solana-fees-lower-traders-rotate-perps?utm_source=rss&utm_medium=rss",
-    "author": "Ivan Wu and Bryan Samsoedin",
-    "created_at": "2026-06-16T18:26:02.000Z"
-  },
-  {
-    "id": "6443eb13-8a8a-46e3-b3b4-d6b3c6e3d17b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-    "summary": "1. Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
-    "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-06-16T18:22:24.000Z"
-  },
-  {
-    "id": "0ae26081-f53d-4a10-98a7-f49366157daa",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
-    "summary": "1. A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World Cup match.",
-    "url": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-06-16T18:13:49.000Z"
-  },
-  {
-    "id": "37bd3321-f9ae-46e0-a588-0c46d195ac1a",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Cardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings",
-    "summary": "1. Bitcoin Magazine\n\nCardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings\nAt Consensus 2026, Cardone detailed how his firm acquired a 366-unit Boca Raton property for $235M and paired it with $100M in Bitcoin, generating tax benefits and aiming for 22-32% returns over decades.\n2. This post Cardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/business/cardone-capitals-bitcoin-reit-hybrid-targeting-22-32-returns-by-blending-cash-flowing-properties-and-btc-holdings",
-    "author": "Juan Galt",
-    "created_at": "2026-06-16T17:27:53.000Z"
-  },
-  {
-    "id": "936b0905-b56d-46da-a971-bdb3a5957a0e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Self-driving tech supplier Mobileye wants to be part of the robotaxi revolution — again",
-    "summary": "1. The Israeli tech company and Intel subsidiary said it will launch its own robotaxi service in a U.S.\n2. city in 2027.",
-    "url": "https://techcrunch.com/2026/06/16/self-driving-tech-supplier-mobileye-wants-to-be-part-of-the-robotaxi-revolution-again/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-06-16T17:06:52.000Z"
-  },
-  {
-    "id": "7aedd445-1140-4074-b8d7-e024d47d2087",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase Targets Investors With Tokenized Stocks Tied 1:1 to Real Shares",
-    "summary": "1. Coinbase announced on Tuesday that 1:1-backed tokenized U.S.\n2. stocks are coming to its platform onchain, with automatic dividends and no synthetic exposure.\n3. What Coinbase Is Offering The company posted on X Tuesday morning that users will be able to own actual tokenized shares of U.S.",
-    "url": "https://news.bitcoin.com/coinbase-targets-investors-with-tokenized-stocks-tied-11-to-real-shares/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-16T17:05:44.000Z"
-  },
-  {
-    "id": "ca266842-346c-49b3-8770-bc075ff8eca7",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "7 Ways Businesses Are Using Crypto Swap APIs",
-    "summary": "1. Real-world case studies show how the best crypto swap APIs help wallets, aggregators, and protocols improve onboarding and retention.",
-    "url": "https://decrypt.co/370811/7-ways-businesses-are-using-crypto-swap-apis",
-    "author": "Decrypt Staff",
-    "created_at": "2026-06-16T17:02:11.000Z"
-  },
-  {
-    "id": "b85e2d37-7955-4411-9c0c-548e221e8463",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Why US-regulated Bitcoin perpetuals could change crypto trading",
-    "summary": "1. US-regulated Bitcoin perpetual futures could give retail and institutional traders new ways to access crypto derivatives.",
-    "url": "https://cointelegraph.com/learn/us-regulated-bitcoin-perpetual-futures?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Dilip Kumar Patairya",
-    "created_at": "2026-06-16T17:00:00.000Z"
-  },
-  {
-    "id": "d9f57882-b76c-4f16-a633-975cead6024e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Snap finally debuts its long awaited AR glasses, Specs, and, oof, they aren’t cheap",
-    "summary": "1. After many years, Snap is finally launching its next consumer-focused smart glasses line.",
-    "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-16T17:00:00.000Z"
-  },
-  {
-    "id": "3ac739da-c824-4637-a6c9-878ded00a896",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Coinbase Teases 1:1-Backed Tokenized U.S. Stocks With On-Chain Dividends",
-    "summary": "1. Coinbase announced plans for what it calls the first tokenized U.S.\n2. stocks backed 1:1 by actual shares, with automatic on-chain dividend distribution.\n3. The exchange described the product as 'no derivatives, no IOUs,' a direct contrast to the synthetic equity structures currently dominating on-chain",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-teases-1-1-backed-tokenized-u-s-stocks-with-on-chain-dividends",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-16T16:52:37.000Z"
-  },
-  {
-    "id": "44c84e12-20ef-4b54-b545-f97aa330ce41",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin supply on exchanges drops to lowest level since 2020",
-    "summary": "The supply of Bitcoin on major cryptocurrency exchanges has fallen to its lowest level since 2020, according to analysis from crypto research firm AlphaFractal. The firm noted that as of June 15, the Bitcoin Exchange Flux Balance—an on-chain metric tracking the cumulative change in total BTC held across major exchanges—stood at approximately 2.56 million BTC, the lowest figure recorded since 2020. Over the past 12 months, this balance has decreased from three million BTC, indicating that about 440,000 BTC has left exchange wallets. AlphaFractal explained that a reduction in exchange supply typically suggests either accumulation by investors for long-term holding, who withdraw to private addresses, or structural transfers to vehicles like ETFs, institutional custody services, or over-the-counter (OTC) desks.",
-    "url": "https://t.me/CoinnessGL#c2e321f9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-16T16:51:47+00:00"
-  },
-  {
-    "id": "7c1cb425-b2cc-4571-9a1f-a067ab17e9e7",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "summary": "1. WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "author": "Sarah Perez",
-    "created_at": "2026-06-16T16:49:44.000Z"
-  },
-  {
-    "id": "a9bf38ba-d1c3-462d-bf53-10abaf5d3456",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US-Iran MoU Pushes Brent Below $80 as Traders Price In Strait of Hormuz Reopening",
-    "summary": "1. Global oil prices hit a two-month low on June 16, with Brent crude briefly dropping below $80 a barrel and WTI crude falling 4% to $77.43, driven by enthusiasm over a U.S.-Iran memorandum of understanding (MoU) to reopen the Strait of Hormuz.\n2. Severe Infrastructure Damage Hinders Recovery Oil price declines continued Tuesday, with Brent crude […]",
-    "url": "https://news.bitcoin.com/us-iran-mou-pushes-brent-below-80-as-traders-price-in-strait-of-hormuz-reopening/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-16T16:32:37.000Z"
-  },
-  {
-    "id": "792526dc-715b-4686-b46e-04dbf0d94643",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Sui co-founder outlines vision for public financial infrastructure",
-    "summary": "Adeniyi Abiodun, co-founder and Chief Product Officer of the layer-1 blockchain Sui (SUI), stated on X that he believes finance will become 100% digital within the next 10 years. He said that everything from pay stubs to government bonds will be digitized, and that Sui is being built as the infrastructure to support it all.Abiodun added that the goal is for the movement of money and value to become a public good, similar to sending a message, freely available to every person and machine worldwide. He described this as the future Sui is committed to building.He outlined the following key roadmap items for Sui:- Infrastructure for money movement: The goal is to build a \"public good\" that eliminates the redundancies of outdated financial rails and can be used by everyone globally as finance becomes fully digital over the next decade.- Transition to a hybrid ledger with 'address balances': This will establish a hybrid structure that combines the simplicity of an 'account model' for fungible balances with the parallel execution of an 'object model' for other assets. This is intended to enable 24/7, \"Zero\"-cost stablecoin transfers between wallets.- Support for confidential transfers: This feature, which is scheduled to be introduced on the mainnet soon, will encrypt balances and amounts on the public ledger. It will also include a 'selective disclosure' function for regulatory compliance, aiming to restore financial dignity for institutions and consumers.- Liquifying idle Bitcoin (Hashi Protocol): The 'Hashi' devnet has been launched, allowing Bitcoin to be used for loans and collateral on Sui without moving it from its existing custody, thereby avoiding tax implications and counterparty risk.- Launch of DeepBook Predict: A prediction market primitive that allows for custom contracts such as options, calls, puts, and spreads. It is currently running on the testnet and is scheduled for a mainnet launch soon.- Post-quantum migration: A full post-quantum migration is in progress. It is currently running on the testnet and is planned for mainnet implementation.",
-    "url": "https://t.me/CoinnessGL#ebf63f6b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-16T16:30:18+00:00"
-  },
-  {
-    "id": "df7c0396-bc27-4d7c-b143-9cd6f1c07a1a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Binance says it considers EU license compliant amid reports of potential rejection",
-    "summary": "1. Without specifically calling out a report on Binance’s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could “weaken liquidity” and present other potential risks.",
-    "url": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Turner Wright",
-    "created_at": "2026-06-16T16:24:39.000Z"
-  },
-  {
-    "id": "6693f0b9-b7b8-49ad-89e3-a352ccd6d0de",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk is now worth more than Bitcoin's entire market cap.Elon Musk: $1.4 trillionBitcoin: $1.3 trillion@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#de71fcc5",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-16T16:21:23+00:00"
-  },
-  {
-    "id": "ce4798f7-3e3c-4f4d-92fa-b169eee83c6b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show:",
-    "url": "https://trumpstruth.org/statuses/39298",
-    "author": "Trump Truth",
-    "created_at": "2026-06-16T16:12:24.000Z"
-  },
-  {
-    "id": "a52f8083-64a4-41e7-87e4-09252001cdae",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. FBI stopped alleged terror plot to attack UFC 250 event with drones and snipers, officials said:",
-    "url": "https://trumpstruth.org/statuses/39299",
-    "author": "Trump Truth",
-    "created_at": "2026-06-16T16:12:00.000Z"
-  },
-  {
-    "id": "b11e47f0-3559-493a-bfc2-f53e3d912d51",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ripple targets Africa’s remittance market with Flutterwave investment",
-    "summary": "1. Ripple’s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa’s largest fintechs as blockchain remittances gain traction.",
-    "url": "https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Sam Bourgi",
-    "created_at": "2026-06-16T16:11:58.000Z"
-  },
-  {
-    "id": "1c95c093-24c6-4008-b770-52d30bf79638",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase to list o1.exchange (O)",
-    "summary": "Coinbase announced it will list o1.exchange (O).",
-    "url": "https://t.me/CoinnessGL#4ebb4bcd",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-16T16:11:17+00:00"
-  },
-  {
-    "id": "6d20f510-f8af-49a6-968f-623925fe8d4f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Former Trump economist says Iran deal means big economic boom for US:",
-    "url": "https://trumpstruth.org/statuses/39296",
-    "author": "Trump Truth",
-    "created_at": "2026-06-16T16:06:57.000Z"
-  },
-  {
-    "id": "624dca85-bde0-4e56-9fbf-9b08b9d34adf",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase launching tokenized US stocks, backed 1:1, with holders able to receive dividends",
-    "summary": "1. Both rivals like Robinhood and Kraken and traditional financial institutions have shown an interest in offering tokenized shares.",
-    "url": "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-16T16:02:07.000Z"
-  },
-  {
-    "id": "be01dd3f-5719-43de-abbd-9dab81ef643a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Tim Scott Predicts $30T Digital Asset IndustrySenate Banking Committee Chair Tim...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#200e6ece",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-16T15:58:09+00:00"
-  },
-  {
-    "id": "eeb06981-a65f-4efa-999a-545b0fcea82c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitwise Buys Another 77,097 HYPE Worth $5.18 Million as ETF Buyback Strategy Ramps Up",
-    "summary": "1. Asset manager Bitwise scooped up another 77,097 HYPE worth about $5.18 million through prime broker FalconX, adding to a steady accumulation of Hyperliquid’s native token.\n2. Bitwise Keeps Stacking HYPE Bitwise bought 77,097 HYPE, valued at roughly $5.18 million, through FalconX on June 15, a move that seems to be in line with a broader pattern […]",
-    "url": "https://news.bitcoin.com/bitwise-buys-77097-hype-5-million-falconx/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-16T15:50:44.000Z"
-  },
-  {
-    "id": "9b6c8f37-b27b-4833-a384-38b46448c101",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iranian Foreign Minister Araghchi says the war with the United States is overTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#2b0a6633",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-16T15:44:48+00:00"
-  },
-  {
-    "id": "c50aa09f-c19d-48ab-be3a-6c88d759fd56",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
-    "summary": "1. The deal values Flutterwave at $3.2 billion, and will integrate Ripple's RLUSD and the XRP Ledger network to speed cross-border payments across Africa.",
-    "url": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-16T15:35:40.000Z"
-  },
-  {
-    "id": "df7f6b45-1c67-41eb-aebc-62e8d8b07fe8",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax'",
-    "summary": "1. Coinbase CEO Brian Armstrong called Monday for an overhaul of the U.S.\n2. accredited-investor framework, arguing that wealth-based gatekeeping concentrates private-market gains among the already wealthy.\n3. He proposed replacing the net worth and income test with a financial literacy exam, or removing",
-    "url": "https://thedefiant.io/news/regulation/coinbase-armstrong-accredited-investor-regressive-tax",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-16T15:30:00.000Z"
-  },
-  {
-    "id": "79ca57dc-a115-42e8-9320-9d595ea7b36c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "MANTRA to be acquired by Inveniam, backer that invested $20 million last year",
-    "summary": "1. The deal comes after MANTRA’s token suffered a major collapse in 2025 and then the company announced a restructure and layoffs.",
-    "url": "https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-16T15:27:34.000Z"
-  },
-  {
-    "id": "f83cc63c-b438-4adb-8861-2136afc3048f",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection",
-    "summary": "1. Bitcoin Magazine\n\nBinance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection\nBinance could reportedly be forced to exit the European Union as Greece is poised to reject its MiCA license application.\n2. This post Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/binance-faces-european-union-exit",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-16T15:26:24.000Z"
-  },
-  {
-    "id": "e16a407e-6d1f-4b91-b275-9b010438f425",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids",
-    "summary": "1. Solana DAT stocks are moving on Tuesday as the largest SOL DAT Forward works to keep its acquisition bids alive.",
-    "url": "https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-16T15:22:31.000Z"
-  },
-  {
-    "id": "4587e038-beeb-4e60-a5cd-a06da88357d2",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💡 CoinMarketCap | Sports Prediction Markets 💡Who wins the 2026 World Cup?",
-    "summary": "The market already has an opinion.On CMC you can follow the odds from Polymarket, Kalshi and PredictFun, all in one place.Right now France leads on all three:🔹 France ~17%🔹 Spain ~14%🔹 Portugal ~11%🔹 England ~10%Same favorites, slightly different prices. Compare the sources side by side and see where they line up.Follow the World Cup odds here 👇",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ebbc8270",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-16T15:20:38+00:00"
-  },
-  {
-    "id": "24507de8-b2d2-4b93-9db5-9cf44cedbb54",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Robinhood Trims Headcount by 10% Amid Crypto Revenue Crunch",
-    "summary": "1. Robinhood is letting go of 10% of its employees, attempting to streamline operations amid a downturn in crypto-related revenue.",
-    "url": "https://decrypt.co/371290/robinhood-trims-headcount-10-crypto-revenue-crunch",
-    "author": "André Beganski",
-    "created_at": "2026-06-16T15:17:03.000Z"
   }
 ]
