@@ -1,5 +1,25 @@
 [
   {
+    "id": "0bf1e2ea-40ed-4bc9-bd6f-415d0369c546",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Congratulations to Rick Jackson, who very successfully campaigned on being “TRUMP,” and won.\n2. He will be your next Governor of Georgia.\n3. Can’t wait!",
+    "url": "https://trumpstruth.org/statuses/39312",
+    "author": "Trump Truth",
+    "created_at": "2026-06-17T05:02:15.000Z"
+  },
+  {
+    "id": "d0e26e39-54aa-47c2-85b6-95c4141b7dbb",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: A bitcoin bottom signal flashed as holders absorbed 125,000 BTC in June",
+    "summary": "1. Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.",
+    "url": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-17T05:01:03.000Z"
+  },
+  {
     "id": "4cb36496-986f-4f13-88c6-99c084caf371",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -8,6 +28,16 @@
     "url": "https://t.me/CoinnessGL#a66887c5",
     "author": "@CoinnessGL",
     "created_at": "2026-06-17T04:50:31+00:00"
+  },
+  {
+    "id": "260fcdba-732e-440f-a378-fbaa0e2fc6ef",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Illinois governor approves crypto transaction tax despite industry uproar",
+    "summary": "1. “There is effectively no comparable state financial transaction tax on stocks, bonds or derivatives anywhere in the country,” said a16z general counsel Miles Jennings.",
+    "url": "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Martin Young",
+    "created_at": "2026-06-17T04:49:34.000Z"
   },
   {
     "id": "3ef7ca50-6b55-494c-895d-1a9db4241350",
