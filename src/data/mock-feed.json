@@ -1,5 +1,165 @@
 [
   {
+    "id": "a94b8b45-ed30-4ccb-81e6-d0b87a5e5582",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "U.S. Congressman Nick Begich Wants America to Stop Selling Its Bitcoin — And Start Treating It Like Gold",
+    "summary": "1. Bitcoin Magazine\n\nU.S.\n2. Congressman Nick Begich Wants America to Stop Selling Its Bitcoin — And Start Treating It Like Gold\nA first-term Alaska congressman and former tech entrepreneur argues the U.S.\n3. should stop selling seized Bitcoin, treat it as a strategic reserve asset, and approach AI with the same sober reckoning it applies to nuclear technology.",
+    "url": "https://bitcoinmagazine.com/news/nick-begich-selling-its-bitcoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-17T15:45:21.000Z"
+  },
+  {
+    "id": "6bdc2271-6ab1-49d7-a90f-a8d57a8b4fe1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US-listed Exodus bought BTC and SOL, sold ETH in May",
+    "summary": "Exodus, a U.S. publicly traded cryptocurrency wallet provider, announced that it purchased an additional 27 BTC last month, bringing its total holdings to 656 BTC. The company also acquired another 1,439 SOL, for a total of 20,673 SOL. In contrast, it sold 439 ETH, reducing its holdings to 1,433 ETH. Exodus processed $383 million in crypto transactions in May, an increase from the $347 million handled in the previous month. Its number of monthly active users (MAU) remained unchanged from the end of April at 1.5 million.",
+    "url": "https://t.me/CoinnessGL#1198b2a7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-17T15:42:17+00:00"
+  },
+  {
+    "id": "dde8ea91-5a2a-4135-b933-c0faf32a8834",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘Biggest spend of the cycle:’ Fairshake crypto PAC’s pick Barry Moore wins Alabama GOP Senate primary",
+    "summary": "1. Barry Moore clinched a win in Alabama after being bolstered by millions of dollars from the crypto industry.",
+    "url": "https://www.theblock.co/post/405125/biggest-spend-of-the-cycle-fairshake-crypto-pacs-pick-barry-moore-wins-alabama-gop-senate-primary?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-17T15:39:40.000Z"
+  },
+  {
+    "id": "652a3de6-7f98-4a63-8ec9-a404c99aa96a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud",
+    "summary": "1. A Miami-based man who went by the name “Bitcoin Rodney” pleaded guilty for his role in what prosecutors said was a massive global fraud.",
+    "url": "https://decrypt.co/371420/florida-man-bitcoin-rodney-pleads-guilty-1-8-billion-crypto-fraud",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-17T15:37:41.000Z"
+  },
+  {
+    "id": "b4d62d81-c3eb-4314-95d7-289ee8f228df",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+    "summary": "1. “People just really want to take back control of their time, their lives, their attention...\n2. They’re down for whatever helps them do that.”",
+    "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-06-17T15:24:41.000Z"
+  },
+  {
+    "id": "f4d755d2-b066-4a9c-a87f-798736e3fd90",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "RippleX engineer details XRPL security plan for quantum attacks",
+    "summary": "Ayo Akinyele, Chief Engineer at RippleX, has revealed a security upgrade strategy for the XRP Ledger (XRPL) designed to counter threats from artificial intelligence and quantum computing. RippleX is the developer community for the public blockchain project led by Ripple developers.Akinyele stated that the team cannot afford to be unprepared, noting that research with cryptographers has been underway since the 2024–2025 period. He explained that the team is implementing a hybrid signature method on the XRPL. This new architecture allows the blockchain to operate normally but will immediately switch to a protected cryptographic stack if a quantum attack is detected.",
+    "url": "https://t.me/CoinnessGL#09201546",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-17T15:20:08+00:00"
+  },
+  {
+    "id": "cace0ce2-65ab-4dca-8298-7008ce83f46f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US, Iran discuss moving MOU signing to June 18",
+    "summary": "The United States and Iran are discussing moving up their memorandum of understanding (MOU) signing ceremony to June 18 from the originally scheduled date of June 20, Axios reported, citing sources.",
+    "url": "https://t.me/CoinnessGL#07d4a5ea",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-17T15:19:32+00:00"
+  },
+  {
+    "id": "1e7de0fe-b10d-4566-878b-58f774819f3e",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US and Iran are discussing moving up the signing of their agreement to Wednesday, potentially reopening the Strait of Hormuz soonerTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#a46b509a",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-17T15:17:58+00:00"
+  },
+  {
+    "id": "9920c80b-7974-47d8-8fb4-0769a5d91617",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "A Second Nation Just Built a State Bitcoin Mining Pool — Oman’s Omanhash.om Redraws the Map",
+    "summary": "1. Oman has launched a mandatory national bitcoin mining pool, requiring every licensed cryptocurrency miner in the Sultanate to route its hashrate through a single state-backed platform.\n2. The Ministry of Transport, Communications and Information Technology (MTCIT) unveiled Omanhash.om on June 17, 2026.\n3. The pool is the official and sole legal pooling option for licensed mining companies […]",
+    "url": "https://news.bitcoin.com/a-second-nation-just-built-a-state-bitcoin-mining-pool-omans-omanhash-om-redraws-the-map/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-17T15:17:20.000Z"
+  },
+  {
+    "id": "ab3c5d79-b76a-48cc-9a55-56caf2a59e27",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
+    "summary": "1. The raise comes as stablecoin regulation advances globally and financial firms invest in infrastructure connecting blockchain payments with traditional banking systems.",
+    "url": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Cointelegraph",
+    "created_at": "2026-06-17T15:00:00.000Z"
+  },
+  {
+    "id": "76ab8b7e-18c8-4ea1-af6b-71ed9f7f3e59",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "summary": "1. If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+    "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-06-17T15:00:00.000Z"
+  },
+  {
+    "id": "16b81908-5b94-4ca2-8938-ae49fac9fd1c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "EarnOS launches anti-AI slop app, raises $6 million from 1kx, Circle and Coinbase",
+    "summary": "1. Ero app is designed to help brands verify human internet traffic, reduce wastes caused by bots, and reward \"authentic digital behavior,\" said EarnOS.",
+    "url": "https://www.theblock.co/post/405114/earnos-launches-anti-ai-slop-app-raises-6-million-1kx-circle-coinbase?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-06-17T14:57:16.000Z"
+  },
+  {
+    "id": "ff732d41-fd04-4854-97e6-5524cfd1cce5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BitGo stock surges on $50 million share buyback as value languishes 65% below IPO price",
+    "summary": "1. The buyback comes as newly public digital-asset firms face a tougher environment, with crypto markets lagging and investor attention shifting toward AI stocks.",
+    "url": "https://www.coindesk.com/markets/2026/06/17/bitgo-stock-surges-on-usd50-million-share-buyback-as-value-languishes-65-below-ipo-price",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-17T14:52:31.000Z"
+  },
+  {
+    "id": "14ff7b7d-b582-4cdd-a711-fc196ef4c271",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 House and Senate leaders have agreed on a housing bill that would bar the Fed from developing or issuing a CBDC through 2030.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f9b2c663",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-17T14:50:06+00:00"
+  },
+  {
+    "id": "23b293c0-cb0d-417f-84d4-ef4f7ae853c3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price sets $64.5K week-to-date low as Strategy selling worries return",
+    "summary": "1. Bitcoin circled $65,000 after downside BTC price pressure into the FOMC meeting as analysis warned over the impact of Strategy potentially selling more BTC in the future.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-sets-645k-week-to-date-low-as-strategy-selling-worries-return?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "William Suberg",
+    "created_at": "2026-06-17T14:49:02.000Z"
+  },
+  {
+    "id": "e464bb13-400d-477d-8068-de0be0d9f863",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "'Rapidly Evolving': Benchmark Analyst Bullish on Coinbase After Stocks, Options Moves",
+    "summary": "1. Benchmark-StoneX reiterated a $270 price target for COIN—60% higher than Coinbase’s current share price—following an array of product announcements.",
+    "url": "https://decrypt.co/371414/rapidly-evolving-benchmark-analyst-bullish-coinbase-stocks-options",
+    "author": "Andrew Hayward",
+    "created_at": "2026-06-17T14:47:53.000Z"
+  },
+  {
     "id": "150ac13f-0a32-493f-8757-a68ea181a62e",
     "source": "The Block",
     "type": "rss",
@@ -58,6 +218,26 @@
     "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
     "author": "Russell Brandom",
     "created_at": "2026-06-17T14:15:22.000Z"
+  },
+  {
+    "id": "615fe59e-1d93-4fbc-ac3b-76f8f4859a95",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 World Liberty Financial is nearing OCC approval for a federal trust bank charter that would let it issue and redeem USD1 directly, according to NOTUS.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#72c81be9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-17T14:15:06+00:00"
+  },
+  {
+    "id": "2452e53b-4731-4698-bcee-fc384fbacaca",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitgo Europe Gives Crypto Firms a MiCAR-Compliant Alternative Before July Deadline",
+    "summary": "1. Bitgo Europe GmbH is opening a regulated infrastructure path for European crypto businesses that face losing their operating licenses as legacy virtual asset service provider registration regimes expire under the European Union’s Markets in Crypto-Assets Regulation.\n2. MiCAR Is Replacing the Old System MiCAR has replaced fragmented national crypto registration regimes across the European Economic Area […]",
+    "url": "https://news.bitcoin.com/bitgo-europe-gives-crypto-firms-a-micar-compliant-alternative-before-july-deadline/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-17T14:14:51.000Z"
   },
   {
     "id": "de1c700b-ecc3-4fec-bccc-1f83f3fd9b9c",
@@ -160,7 +340,7 @@
     "created_at": "2026-06-17T13:40:20.000Z"
   },
   {
-    "id": "dd259467-f8f2-4c8c-b64e-7f9b64a0a071",
+    "id": "2a8ba170-04ee-481b-94b8-7c694d64fa26",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Strategy’s STRC fell to $91.79, 8.2% below its $100 par value, after recent BTC purchases raised investor concern, according to 10x Research.",
@@ -280,7 +460,7 @@
     "created_at": "2026-06-17T12:28:15.000Z"
   },
   {
-    "id": "61b0a771-3582-4ad9-b697-712195d9d9f4",
+    "id": "30a07501-d897-426e-8d0f-6455321b9132",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Trump-backed World Liberty Financial is reportedly close to securing an OCC trust charter, allowing direct issuance and redemption of its $USD1 stablecoinTwitter",
@@ -400,7 +580,7 @@
     "created_at": "2026-06-17T11:02:08.000Z"
   },
   {
-    "id": "056718ad-0bfc-494e-9b4d-9da1b81e4560",
+    "id": "5a5068d1-cba8-4fea-94de-271a2489f461",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Trump says the Iran MoU is not final and warns that “if I don’t like the agreement, we will go back to dropping bombs”Twitter",
@@ -528,75 +708,5 @@
     "url": "https://www.theblock.co/post/404992/zama-morpho-steakhouse-launch-first-confidential-defi-yield-vault-ethereum?utm_source=rss&utm_medium=rss",
     "author": "Naga Avan-Nomayo",
     "created_at": "2026-06-17T10:00:02.000Z"
-  },
-  {
-    "id": "3c7e390d-e146-492d-8f43-5ed79ffcfae3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Australia’s High Court backs regulator in Block Earner crypto yield case",
-    "summary": "1. Australia’s High Court unanimously ruled that Block Earner required a financial services licence, overturning a 2025 appeal decision.",
-    "url": "https://www.theblock.co/post/405048/australia-high-court-block-earner-crypto-yield-case?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-17T09:45:20.000Z"
-  },
-  {
-    "id": "b1286916-2799-42e5-8d4f-144b01dbdf06",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "House, Senate Strike Deal on Housing Bill With CBDC Ban Through 2030",
-    "summary": "1. A bicameral deal on the 21st Century ROAD to Housing Act revives a provision barring the Fed from issuing a digital dollar until 2030.",
-    "url": "https://decrypt.co/371390/house-senate-strike-deal-on-housing-bill-with-cbdc-ban-through-2030",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-17T09:34:43.000Z"
-  },
-  {
-    "id": "bf1b43d0-b57d-427c-b710-2bd0e8f48d40",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ethereum’s Glamsterdam Upgrade Enters Final Testing as Devs Target a 200 Million Gas Limit",
-    "summary": "1. Ethereum developers have moved the Glamsterdam upgrade into its final development phase, running multi-client test networks loaded with every change slated for what could become the network’s biggest overhaul since 2022.\n2. Final Stretch Before Mainnet Core developers have begun full-scale testing of a fork that bundles each Ethereum Improvement Proposal (EIP) earmarked for Glamsterdam.",
-    "url": "https://news.bitcoin.com/ethereum-glamsterdam-upgrade-final-testing/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-17T09:30:38.000Z"
-  },
-  {
-    "id": "e84e9662-946c-4227-a672-2f9be37f6391",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CryptoQuant eyes platform for stocks, RWA as crypto capital flows into traditional assets",
-    "summary": "Ki Young Ju, CEO of crypto on-chain analysis platform CryptoQuant, said on X that the company is considering building a dashboard and API for stocks, commodities, and other real-world assets (RWA) as crypto capital increasingly flows into these markets. He previously shared an analysis of Samsung Electronics' valuation metrics using a new menu feature on the platform.",
-    "url": "https://t.me/CoinnessGL#959acef5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-17T09:23:42+00:00"
-  },
-  {
-    "id": "85a275f6-cedd-440f-b18b-6ec1835cbecd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CoinNess Original: Strategy's risky pivot to STRC financing raises BTC sell-off risk",
-    "summary": "Strategy's approach to financing has become dangerously imbalanced compared to its past methods. The company now relies more heavily on STRC for funding, creating a scenario where a prolonged downturn or further decline in BTC's price could force it to sell its Bitcoin holdings. The primary concern is not the sale itself, but the potential chain reaction it could trigger.In this CoinNess Original, we examine:- The changes in Strategy's financing structure- The risks of its deepening reliance on STRC- Why a BTC sale is becoming increasingly likely- The potential market shock from a collapse of its narrative more:",
-    "url": "https://t.me/CoinnessGL#ba4c7289",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-17T09:11:46+00:00"
-  },
-  {
-    "id": "c7819338-5e68-4514-a2eb-2e51b9869239",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "BitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns",
-    "summary": "1. BitGo launches a MiCA-compliant crypto infrastructure platform in Europe as exchanges face pressure to meet July 1 licensing rules across the EU.",
-    "url": "https://cointelegraph.com/news/bitgo-mica-vasp-workaround-binance-license-uncertainty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Helen Partz",
-    "created_at": "2026-06-17T09:02:48.000Z"
-  },
-  {
-    "id": "155d8ec4-c4b1-4ce1-8b0b-dfa14eb4798b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $65,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $65,000. BTC is trading at $64,990.77 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#5314ecf7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-17T08:40:08+00:00"
   }
 ]
