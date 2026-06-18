@@ -1,6 +1,326 @@
 [
   {
-    "id": "f75b9858-6dd7-41fc-bdc5-0206596bdf29",
+    "id": "6194e49d-1ed8-4c69-a2fb-d40e9b55b694",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Bitcoin falls under $63,000@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#719aa268",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-18T15:40:25+00:00"
+  },
+  {
+    "id": "62b9aff8-32a0-4c63-bd52-0e477a160df2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC falls below $63,000",
+    "summary": "According to CoinNess market monitoring, BTC has fallen below $63,000. BTC is trading at $62,964.14 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#8a5f816f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T15:37:48+00:00"
+  },
+  {
+    "id": "ef0212dc-c914-40ab-b63a-2ea0a8e4bcca",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "2 Incorporated AI Agents Sign First Legal Deal That Executes Itself on Ethereum",
+    "summary": "1. Two artificial intelligence (AI) agents incorporated as legal entities negotiated, signed, and executed a binding contract that a court can read and a blockchain can run.\n2. [/key_takeaways] Key Takeaways: Clawbank and Shodai executed the first AI-to-AI Ricardian contract, binding legal prose to Ethereum code.\n3. Shodai’s smart contract paid out automatically when 1 milestone condition was […]",
+    "url": "https://news.bitcoin.com/2-incorporated-ai-agents-sign-first-legal-deal-that-executes-itself-on-ethereum/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-18T15:36:53.000Z"
+  },
+  {
+    "id": "a0262c13-410f-4535-90ca-ca0fdc53859f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin miners Bitdeer, CleanSpark and more report mixed May output as AI buildouts impact hashrate growth, treasury models",
+    "summary": "1. Bitdeer, BitFuFu, Canaan and CleanSpark posted May bitcoin production updates, with combined output of 1,859 BTC and diverging strategies.",
+    "url": "https://www.theblock.co/post/405268/bitcoin-miners-bitdeer-cleanspark-and-more-report-mixed-may-output-as-ai-buildouts-impact-hashrate-growth-treasury-models?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-18T15:36:02.000Z"
+  },
+  {
+    "id": "fa445757-0093-4b12-96ad-0e35f645a37b",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Jerome Powell Supports Fed's New Stablecoin Policies—But Chair Kevin Warsh Abstains",
+    "summary": "1. The proposed rulemaking establishes how U.S.\n2. crypto companies will have to screen stablecoin customers after the passage of the GENIUS Act.",
+    "url": "https://decrypt.co/371548/jerome-powell-supports-fed-stablecoin-policies-chair-kevin-warsh-abstains",
+    "author": "Sander Lutz",
+    "created_at": "2026-06-18T15:33:27.000Z"
+  },
+  {
+    "id": "7fad9b85-a37a-4c4b-a17a-43a5af3c7e61",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Federal Reserve Moves to Close Stablecoin Loopholes With New Customer ID Rules",
+    "summary": "1. Bitcoin Magazine\n\nFederal Reserve Moves to Close Stablecoin Loopholes With New Customer ID Rules\nThe Federal Reserve proposed requiring stablecoin issuers to verify customer identities before account opening or direct token redemption, extending bank-style anti-money laundering standards to stablecoins.\n2. This post Federal Reserve Moves to Close Stablecoin Loopholes With New Customer ID Rules first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/federal-reserve-moves-to-close-stablecoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-18T15:31:09.000Z"
+  },
+  {
+    "id": "fd902425-2eef-43f5-957a-60e9567a8194",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Hsiao-Wei Wang resigns from Ethereum Foundation board, executive role",
+    "summary": "Hsiao-Wei Wang has officially resigned from her positions as Co-Executive Director and board member of the Ethereum Foundation, Wu Blockchain reported. She emphasized that Ethereum's core strength lies in its permissionless, open infrastructure built by developers and contributors worldwide. Wang added that while her future plans are undecided, she will remain a member of the Ethereum community.",
+    "url": "https://t.me/CoinnessGL#57732e29",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T15:29:03+00:00"
+  },
+  {
+    "id": "c63ed4b9-4c9d-401a-be1e-66e18c7cd880",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Ethereum Foundation’s Hsiao-Wei Wang steps down as co-executive director and board memberTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#b3b96cde",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-18T15:23:35+00:00"
+  },
+  {
+    "id": "2c7cda44-a80d-47f3-85c6-5cd787ecfa47",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "summary": "1. General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos.\n2. The startup trains AI agents on spatial-temporal reasoning.",
+    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "author": "Rebecca Bellan",
+    "created_at": "2026-06-18T15:20:37.000Z"
+  },
+  {
+    "id": "10f6b057-f9bc-45c3-a077-b90f3959132d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "The DAO hack at 10: From $50 million exploit to a $130 million Ethereum security fund",
+    "summary": "1. Ten years ago, an attacker drained roughly 3.6 million ETH from The DAO, helping to spur the creation of the modern crypto security industry.",
+    "url": "https://www.theblock.co/post/405248/ethereum-130-million-security-fund-the-dao-hack-10-years?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-18T15:20:16.000Z"
+  },
+  {
+    "id": "8d984c5d-597c-44b8-9a53-9e210e9d6a50",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bybit lands on Singapore MAS Investor Alert List",
+    "summary": "1. Crypto exchange Bybit has been added to Singapore’s MAS Investor Alert List, which flags entities that may be mistakenly perceived as licensed or regulated.",
+    "url": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Sam Bourgi",
+    "created_at": "2026-06-18T15:14:27.000Z"
+  },
+  {
+    "id": "92c02a7e-0d6e-4d20-bad5-c12d67a13c0b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight ",
+    "summary": "1. Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+    "author": "Rebecca Bellan",
+    "created_at": "2026-06-18T15:13:21.000Z"
+  },
+  {
+    "id": "0edc34f5-d701-4dff-9b65-4c2b484ab1f0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "RWA project Renaiss secures $1.5M in funding",
+    "summary": "Renaiss, a BNB Chain-based liquidity infrastructure project for real-world asset (RWA) collectibles, has secured $1.5 million in funding, The Block reported. The round was led by YZi Labs, with participation from Gate Ventures, Hash Global, and others. The capital will be used to expand the Renaiss Vault Network, enter new collectible sectors, enhance product and ecosystem integration, improve capital efficiency, and grow its global operations.",
+    "url": "https://t.me/CoinnessGL#15584b2f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T15:13:18+00:00"
+  },
+  {
+    "id": "8f26bfa7-d8d3-489d-b78c-fa635900905a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ethereum Foundation co-Exec Director and board member Hsiao-Wei Wang steps down",
+    "summary": "1. Several high-ranking EF leaders have left, including the Protocol cluster leads and former co-executive director Tomasz Stańczak.",
+    "url": "https://www.theblock.co/post/405271/ethereum-foundation-co-exec-director-board-member-hsiao-wei-wang-steps-down?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-18T15:07:48.000Z"
+  },
+  {
+    "id": "857081d1-05d3-4408-9c07-7aa2419ddead",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Ark Invest bought roughly $18M of COIN and sold nearly $29M of HOOD as Coinbase traded lower and Robinhood rallied.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#92bf8c20",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-18T15:00:06+00:00"
+  },
+  {
+    "id": "3f696676-5959-43db-83f5-beb7a9f44699",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto for Advisors: Trading the bitcoin cycle",
+    "summary": "1. Bitcoin’s 4-year cycle makes DCA costly.\n2. Learn why a cycle-smart strategy is essential for advisors to better manage volatility and maximize client returns.",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
+    "author": "Markus Thielen",
+    "created_at": "2026-06-18T15:00:00.000Z"
+  },
+  {
+    "id": "69bd7d9d-0fdd-440a-888c-230952c7e7eb",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin to $145K by October? Why this 'crazy accurate' 4chan prediction is sketchy",
+    "summary": "1. A viral 4chan Bitcoin prediction appears to have nailed past BTC prices, but edited targets and impossible supply claims weaken its $145,000 call.",
+    "url": "https://cointelegraph.com/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Yashu Gola",
+    "created_at": "2026-06-18T14:46:56.000Z"
+  },
+  {
+    "id": "177f3ed6-6287-4a06-86c8-fbef9e9c8f5f",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "GTA 6 new in-game teaser.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#0cae804c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-18T14:39:19+00:00"
+  },
+  {
+    "id": "792985ff-fdc0-4eb6-a2bd-136d30dbb173",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CME’s Terrence Duffy Targets CFTC Perps Approval as Kalshi Volume Tops $3B",
+    "summary": "1. CME Group CEO Terrence Duffy announced plans to sue the Commodity Futures Trading Commission over its decision to allow prediction-market operator Kalshi to offer bitcoin perpetual futures.\n2. Perps Should Be Classified as Swaps, Says CME Boss CME Group CEO Terrence Duffy said June 17 he plans to sue the Commodity Futures Trading Commission (CFTC) over […]",
+    "url": "https://news.bitcoin.com/cmes-terrence-duffy-targets-cftc-perps-approval-as-kalshi-volume-tops-3b/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-18T14:30:17.000Z"
+  },
+  {
+    "id": "b9aec3af-5962-4485-8dfb-787d4d1f1633",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "What happens when ChatGPT becomes the front door to crypto",
+    "summary": "1. ChatGPT could become crypto’s new onboarding gateway, making Bitcoin and wallets easier to use while creating new trust risks.",
+    "url": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Dilip Kumar Patairya",
+    "created_at": "2026-06-18T14:30:00.000Z"
+  },
+  {
+    "id": "a3ff67eb-7388-4f7e-840e-77611b4f8c7b",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Ship traffic officially resumes in the Strait of Hormuz after US and Iran sign deal to end war.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#19bf46c6",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-18T14:27:15+00:00"
+  },
+  {
+    "id": "a73ce525-a016-47d0-a24c-e6a7f695ac42",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Tether is winding down its gold backed stablecoin aUSDT and Alloy platform, giving users until Sept 17 to redeem for XAUT.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#843eae7a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-18T14:25:06+00:00"
+  },
+  {
+    "id": "4529ee90-f58b-4e03-bdfd-9d0130df654d",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Strategy’s $STRC preferred stock loses its $100 peg, dropping to a record low near $85Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#43095043",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-18T14:08:34+00:00"
+  },
+  {
+    "id": "bf9b29aa-6715-4e89-b390-98a2243ed04b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Algorand unveils roadmap to achieve quantum resistance by 2028",
+    "summary": "1. The announcement reflects a crypto's growing recognition that adopting quantum-resistant cryptography could take years, requiring changes not only to user wallets but also to core protocol infrastructure.",
+    "url": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-06-18T14:00:00.000Z"
+  },
+  {
+    "id": "42a88648-80e2-4316-81a7-20254b440dcd",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Spotify’s reserved ticket sales to music superfans are now going live",
+    "summary": "1. Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.",
+    "url": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+    "author": "Sarah Perez",
+    "created_at": "2026-06-18T14:00:00.000Z"
+  },
+  {
+    "id": "f89c5dfa-b7e8-4b42-80c3-c503aa856c70",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS ARE ROARING, JOBS ARE AT RECORDS, AND PRICES ARE DROPPING (AFFORDABILITY!).\n2. OUR COUNTRY IS STRONG, SAFE, AND RESPECTED LIKE NEVER BEFORE.\n3. “YOU’RE WELCOME!” President DJT",
+    "url": "https://trumpstruth.org/statuses/39347",
+    "author": "Trump Truth",
+    "created_at": "2026-06-18T13:59:53.000Z"
+  },
+  {
+    "id": "5b43be06-94fe-4d1d-8653-26ccbb76b582",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
+    "summary": "1. Bitcoin Magazine\n\nCME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification\nCME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank.\n2. This post CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-18T13:50:00.000Z"
+  },
+  {
+    "id": "5b442dcb-bb37-47bb-9d20-d955bb417d54",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 Fidelity has launched a money market fund for stablecoin issuers under the GENIUS Act, following State Street's similar launch this week.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#fc3b59d0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-18T13:45:06+00:00"
+  },
+  {
+    "id": "d46f2673-6a52-4722-8b0b-dc69f69bff27",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Kenyan McDuffie concedes to Janeese Lewis George in DC mayoral primary",
+    "summary": "1. Lewis George, the 38-year-old democratic socialist, is all-but-certain to be the U.S.\n2. capital’s first new mayor in a dozen years.",
+    "url": "https://www.politico.com/news/2026/06/18/lewis-george-dc-mayor-primary-00966879",
+    "author": "By Irie Sentner",
+    "created_at": "2026-06-18T13:43:42.000Z"
+  },
+  {
+    "id": "e37cd2c9-1cf0-4522-b037-e4137072de64",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: Crypto Sinks After Hawkish FOMC",
+    "summary": "1. Bitcoin slid to $64k as rate hike odds soared after Kevin Warsh's first FOMC presser.\n2. But was it Warsh or Saylor truly driving the selloff?",
+    "url": "https://decrypt.co/371517/morning-minute-crypto-sinks-after-hawkish-fomc",
+    "author": "Tyler Warner",
+    "created_at": "2026-06-18T13:22:09.000Z"
+  },
+  {
+    "id": "0dac7342-bd03-4c65-bed6-7718aa85437b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
+    "summary": "1. Internet Computer (ICP) fell 4.1% and Sui (SUI) dropped 4%, leading the index lower from Wednesday.",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines",
+    "author": "CoinDesk Indices",
+    "created_at": "2026-06-18T13:13:44.000Z"
+  },
+  {
+    "id": "4f03e2c9-d068-4b5e-a3ca-6de415298039",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "IMF Warns Nigeria’s Stablecoin Boom Could Weaken Local Currency Demand",
+    "summary": "1. The IMF reports that Nigeria captured 60% of all stablecoin traffic in sub-Saharan Africa as users seek alternatives to traditional banking.\n2. IMF: Stablecoins Transform From Niche Market to Major Payment Route Nigerians are increasingly turning to U.S.\n3. dollar-pegged stablecoins to move money across borders as small businesses and households search for cheaper and faster alternatives […]",
+    "url": "https://news.bitcoin.com/imf-warns-nigerias-stablecoin-boom-could-weaken-local-currency-demand/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-18T13:07:32.000Z"
+  },
+  {
+    "id": "bcd9fcbc-63ba-4074-8510-76fee58211b3",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Strive’s Jeff Walton says the goal is to bring $200B in new capital into Bitcoin through credit markets, with more digital-credit issuers expectedTwitter",
@@ -308,155 +628,5 @@
     "url": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "author": "Ezra Reguerra",
     "created_at": "2026-06-18T09:45:51.000Z"
-  },
-  {
-    "id": "95883473-8108-497d-abe5-10a744071d64",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ QCP Capital says concerns that Strategy may need to sell more Bitcoin to fund dividend payments are preventing BTC from \"fully participating in the broader macro optimism.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#219faa26",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-18T09:40:06+00:00"
-  },
-  {
-    "id": "0591233c-0407-440e-9d6a-82346a1de797",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 President Trump says \"oil prices are tumbling down.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#9e3d52a5",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-18T09:34:57+00:00"
-  },
-  {
-    "id": "adae0d56-5096-4fe2-a399-2f90e4a47700",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘Bitcoin Rodney’ pleads guilty in $1.8 billion crypto fraud case",
-    "summary": "1. Rodney Burton pleaded guilty in federal court over his role in HyperFund, a $1.8 billion global cryptocurrency fraud scheme.",
-    "url": "https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-18T09:18:55.000Z"
-  },
-  {
-    "id": "9cc55038-7d48-4084-a3d7-ec002f63f67c",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "SpaceX is worth more than the entire crypto market$SPCX Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#e918c717",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-18T08:55:24+00:00"
-  },
-  {
-    "id": "859fcb53-2fc5-486a-b8c4-ceff24fe38a9",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. These fools, who think I haven’t been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are “tumbling” down, are either jealous, bad people, or stupid.\n2. MAKE AMERICA GREAT AGAIN!!!\n3. President DJT",
-    "url": "https://trumpstruth.org/statuses/39344",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T08:32:31.000Z"
-  },
-  {
-    "id": "f0469f96-0110-4011-9867-320194f4db17",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpTHE SAVE AMERICA ACT!\n2. ALL VOTERS MUST SHOW PHOTO I.D.\n3. (IDENTIFICATION!).",
-    "url": "https://trumpstruth.org/statuses/39338",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T08:28:42.000Z"
-  },
-  {
-    "id": "bd2f0731-381b-4c64-9cfe-41ac0d619c48",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Trump Says He Welcomes China, India Investment in Venezuela Oil:",
-    "url": "https://trumpstruth.org/statuses/39339",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T08:28:21.000Z"
-  },
-  {
-    "id": "44100a5d-03fc-424b-a8f2-0f2d23a7858b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin Rodney pleads guilty to role in $1.8B HyperFund crypto scheme",
-    "summary": "Rodney Burton, known as 'Bitcoin Rodney,' has pleaded guilty to conspiracy charges related to the $1.8 billion HyperFund crypto investment scheme, BeInCrypto reported. According to prosecutors, HyperFund sold memberships to investors with promises of daily returns between 0.5% and 1%. However, an investigation revealed that the crypto mining operation cited as the source of these returns did not exist. Burton faces a maximum of five years in prison, with his sentencing scheduled for July 23.",
-    "url": "https://t.me/CoinnessGL#4754dc20",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T08:24:48+00:00"
-  },
-  {
-    "id": "e85a66fe-0ad0-4576-af8c-5aad4b2f13f0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin holdings for addresses with over 1 BTC reach record high",
-    "summary": "The amount of Bitcoin held by addresses with at least one BTC has surpassed 16.8 million BTC, reaching an all-time high, according to on-chain analyst Darkfost. In a post on X, the analyst noted that this investor group has continued to accumulate BTC despite recent price declines, suggesting this could be a sign of Bitcoin's ongoing institutionalization. Darkfost added that on-chain data also shows holdings by retail investor groups are increasing again, indicating that both institutional and retail investors seem to view the current market as a suitable period for accumulation.",
-    "url": "https://t.me/CoinnessGL#c8493047",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T08:22:00+00:00"
-  },
-  {
-    "id": "0ceacf6e-fab6-4ecf-8f69-b8e595f0ff6e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇪 Estonian PM Kristen Michal approved a proposal to give AI agents government-issued IDs with \"limited, controllable and auditable authorizations\" for actions like booking flights, filing taxes, or making payments.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#51d79f7f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-18T08:20:07+00:00"
-  },
-  {
-    "id": "503e50d9-974f-4f22-a4f9-128b5fbae10f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale deposits 43K ETH to Binance, facing potential $11.4M loss",
-    "summary": "An anonymous whale has deposited 43,235 ETH to Binance and would realize a loss of $11.37 million if the assets are sold at current prices, Spot On Chain reported. The on-chain analytics firm added that sell-offs of this magnitude have historically tended to coincide with short-term market bottoms.",
-    "url": "https://t.me/CoinnessGL#0bcc75e0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T08:07:08+00:00"
-  },
-  {
-    "id": "51392b49-60ae-4db9-aae7-b88e757d420a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Tether winds down aUSDT stablecoin and Alloy platform to sharpen focus",
-    "summary": "1. Tether said it is winding down the 'Alloy by Tether' platform and discontinuing support for aUSDT, a stablecoin over-collateralized by XAUT.",
-    "url": "https://www.theblock.co/post/405190/tether-winds-down-ausdt?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-18T07:59:05.000Z"
-  },
-  {
-    "id": "31e2815f-37e2-4ed8-aa2e-ee714c903685",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tether Trims Bitdeer Stake After AI Push Lifts Bitcoin Mining Stock",
-    "summary": "1. Tether has started trimming its Bitdeer (NASDAQ: BTDR) stake after reloading on the bitcoin mining and AI data center operator’s stock during a February selloff, generating about $12.7 million in proceeds.\n2. This article first appeared in The Energy Mag.\n3. The original article can be viewed here.",
-    "url": "https://news.bitcoin.com/tether-trims-bitdeer-stake-after-ai-push-lifts-bitcoin-mining-stock/",
-    "author": "Guest Author",
-    "created_at": "2026-06-18T07:30:17.000Z"
-  },
-  {
-    "id": "06599786-023a-462e-b001-b14035aeb029",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The statue “Valor,” one of the Arts of War statues, is almost completely regilded by our Great Department of the Interior.",
-    "url": "https://trumpstruth.org/statuses/39337",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T07:17:41.000Z"
-  },
-  {
-    "id": "871a72ad-7899-40e0-a8dc-ce0784b3c642",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
-    "summary": "1. The bond market is sending a signal that complicates prospects of a near-term bitcoin bull run.",
-    "url": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-18T07:08:27.000Z"
   }
 ]
