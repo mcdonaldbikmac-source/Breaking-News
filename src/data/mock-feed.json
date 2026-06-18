@@ -1,5 +1,115 @@
 [
   {
+    "id": "0d1b730b-e6c3-49dd-8d34-c47cda7c0e77",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+    "summary": "1. Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
+    "url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-06-18T06:26:24.000Z"
+  },
+  {
+    "id": "ff2480ca-ffc7-4faa-9fda-106f94f57581",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ryan Salame’s wife to face charges over FTX-funded congressional run",
+    "summary": "1. A federal judge has denied a bid from Michelle Bond, the wife of former FTX executive Ryan Salame, to have campaign finance charges against her dismissed.",
+    "url": "https://cointelegraph.com/news/ryan-salames-wife-to-face-charges-over-ftx-funded-congressional-run?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Jesse Coghlan",
+    "created_at": "2026-06-18T06:17:01.000Z"
+  },
+  {
+    "id": "06a6ceea-60ad-4c2b-8c5d-2a29373f6e30",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC perp long/short ratios on top 3 futures exchanges",
+    "summary": "The following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 44.45% long, 55.55% short- Binance: 49.19% long, 50.81% short- OKX: 49.08% long, 50.92% short- Bybit: 49.27% long, 50.73% short",
+    "url": "https://t.me/CoinnessGL#ac629a35",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T06:13:12+00:00"
+  },
+  {
+    "id": "e4ec7979-781f-4cbe-8c29-b085ccc85840",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Anonymous whale deposits $74.7M in ETH to Binance",
+    "summary": "An anonymous whale address starting with 0x55C1 has deposited 43,235 ETH ($74.68 million) to Binance, according to Onchain Lens. Deposits to exchanges are typically interpreted as a move to sell. The address currently holds 43,562 ETH in staking, with an estimated unrealized loss of $12.7 million.",
+    "url": "https://t.me/CoinnessGL#02be37eb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T06:10:24+00:00"
+  },
+  {
+    "id": "b46b8f48-51f3-4c63-bb49-344dc7e81758",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Florida man pleads guilty for promoting $1.8B ‘HyperFund’ crypto fraud",
+    "summary": "1. Rodney “Bitcoin Rodney” Burton faces a maximum sentence of five years in federal prison for conspiracy to operate an unlicensed money transmitting business.",
+    "url": "https://cointelegraph.com/news/florida-man-pleads-guilty-to-18b-crypto-fraud-scheme?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Martin Young",
+    "created_at": "2026-06-18T06:06:20.000Z"
+  },
+  {
+    "id": "57c5f654-77da-4a83-bf90-376093fe49c9",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
+    "summary": "1. Total market value has held flat near $2.26 trillion since Tuesday, with the recovery losing momentum after the Fed killed rate-cut hopes and spot ETFs swung back to outflows.",
+    "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-18T06:02:19.000Z"
+  },
+  {
+    "id": "e10f5562-5986-4a7c-b83d-505d502876fe",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Strategy's STRC preferred stock hits a record low below par",
+    "summary": "1. The slide has paused the above-par share sales Strategy uses to fund bitcoin purchases, and it is the same stock whose dividends forced the company's first BTC sale this month.",
+    "url": "https://www.coindesk.com/markets/2026/06/18/strategy-s-strc-preferred-stock-hits-a-record-low-below-par",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-18T05:49:21.000Z"
+  },
+  {
+    "id": "9facf44c-4482-468a-af0c-e3f302bacb3f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Dorsey’s Block says new AI tool handles 15% of code work",
+    "summary": "1. Builderbot is the “missing layer between AI coding tools and how engineering actually works at scale,” said Brad Axen, head of AI capabilities at Block.",
+    "url": "https://cointelegraph.com/news/dorseys-block-says-new-ai-tool-handles-15-of-code-work?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Martin Young",
+    "created_at": "2026-06-18T05:38:34.000Z"
+  },
+  {
+    "id": "9c1fc599-517d-4e53-8be3-f0e7d3415f8f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Inveniam Capital Partners Pushes Mantra Acquisition After $20M Bet, Cementing RWA-AI Stack",
+    "summary": "1. Inveniam Capital Partners has agreed to fully acquire the blockchain project MANTRA and its affiliated entities, with the deal expected to close by June 30, 2026.\n2. Strategic Roots and the NVNM Chain Inveniam Capital Partners announced June 16 that it has reached an agreement to acquire the blockchain project MANTRA and its affiliated entities, consolidating […]",
+    "url": "https://news.bitcoin.com/inveniam-capital-partners-pushes-mantra-acquisition-after-20m-bet-cementing-rwa-ai-stack/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-18T05:30:17.000Z"
+  },
+  {
+    "id": "ea6158da-15d8-41e3-b63a-43d10836005a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US rep: House ready to pass CLARITY Act if Senate acts before August",
+    "summary": "U.S. Representative Dusty Johnson of South Dakota has stated that the House is prepared to quickly pass the CLARITY Act if the Senate acts on the bill before its August recess, according to Eleanor Terrett, host of Crypto in America.",
+    "url": "https://t.me/CoinnessGL#41e95fb7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T05:27:47+00:00"
+  },
+  {
+    "id": "1f72c8e3-3bc4-46d8-a424-16e66f1e974a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP slips 4% below $1.20 after breakout rally stalls near key resistance",
+    "summary": "1. Heavy selling pushed XRP back through a closely watched support level, though buyers stepped in above $1.17 to prevent a deeper pullback.",
+    "url": "https://www.coindesk.com/markets/2026/06/18/xrp-slips-4-below-usd1-20-after-breakout-rally-stalls-near-key-resistance",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-18T05:08:12.000Z"
+  },
+  {
     "id": "4477d2bf-9126-4002-85d0-214571503db9",
     "source": "Trump Truth",
     "type": "rss",
@@ -190,7 +300,7 @@
     "created_at": "2026-06-18T02:19:26+00:00"
   },
   {
-    "id": "5c0352d7-c9f0-43b4-9e04-2ebf507a2cb2",
+    "id": "bf9b6287-8096-4fbb-a8ee-9d67dd7c3ad4",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇴🇲 Oman launched a mandatory national Bitcoin mining pool, requiring all licensed operators to join.",
@@ -270,7 +380,7 @@
     "created_at": "2026-06-18T01:23:51.000Z"
   },
   {
-    "id": "88aed41f-22a7-402e-815e-f9aa8cdbe3b8",
+    "id": "75899b9f-799a-4b56-8048-80767502af64",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Data infrastructure firm Inveniam Capital Partners plans to acquire Mantra, expanding its push into RWA tokenization and AI infrastructure.",
@@ -280,7 +390,7 @@
     "created_at": "2026-06-18T00:50:06+00:00"
   },
   {
-    "id": "efadd6f1-688d-471c-b218-5deef57e4dcc",
+    "id": "4c9e8269-c63e-4014-9b67-5f5440f17c0d",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "CME GROUP TO SUE THE CFTC OVER ITS APPROVAL OF PERPETUAL FUTURES, CEO TERRENCE DUFFY SAYS, PER CNBCDuffy argues perpetual futures are legally swaps under Dodd-Frank, not ordinary futures and that CME holds exclusive licenses with the benchmark providers, so the products would have to route through CME regardless.",
@@ -308,105 +418,5 @@
     "url": "https://news.bitcoin.com/ripples-schwartz-highlights-xrp-use-cases-ahead-of-largest-ever-swell-event/",
     "author": "Kevin Helms",
     "created_at": "2026-06-18T00:30:01.000Z"
-  },
-  {
-    "id": "d7908fcf-ffc0-4e0b-b7a6-8ac23dbd3a2b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BitForex founder re-buys HYPE one day after selling",
-    "summary": "Garrett Jin, founder of the fraudulent cryptocurrency exchange BitForex, has repurchased HYPE just one day after selling his holdings, Onchain Lens reported. He currently holds 71,092 HYPE, worth $5.06 million, and has also set a TWAP order for additional purchases. Yesterday, he sold 184,102 HYPE for $13.54 million, realizing a profit of $2.83 million.",
-    "url": "https://t.me/CoinnessGL#6a1f045e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T00:24:29+00:00"
-  },
-  {
-    "id": "4a9c1619-119d-4f73-8bdc-b1a88c1d9cc9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance fails to get MiCA license in Greece, pins hopes on France",
-    "summary": "Binance has failed to obtain a Markets in Crypto-Assets (MiCA) license in Greece and is now pinning its last hopes on France, French crypto media outlet The Big Whale reported.\"Binance's French entity has held a Digital Asset Service Provider (DASP) registration since 2022 and is in discussions with the French Financial Markets Authority (AMF) about the possibility of applying for a MiCA license. An application has not yet been submitted,\" the outlet explained.Previously, Reuters reported, citing sources, that the Greek financial authority (HCMC) intended to reject Binance's MiCA application.\"France is now the only remaining channel for Binance to obtain a MiCA license, but the company is still under investigation for money laundering there,\" The Big Whale added. \"Whether it receives MiCA approval will be a critical factor for the continuation of Binance's European operations.\"",
-    "url": "https://t.me/CoinnessGL#ac4493ba",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T00:23:01+00:00"
-  },
-  {
-    "id": "266f2d77-d074-4fd1-a710-4d09a22cd8ca",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "OKX founder: Binance becoming regulated will weaken its competitive edge",
-    "summary": "In response to reports that Greek financial authorities may reject Binance's MiCA license application, OKX founder Star Xu commented on X that Binance entering the global regulatory fold would be one of the most positive developments for the crypto industry.He argued that while many believe a regulated Binance would threaten competitors, he disagrees. For the past decade, Xu explained, competition in the crypto space has largely depended on regulatory arbitrage, where firms with fewer constraints have an advantage over those heavily invested in licensing, compliance, and governance. If Binance becomes regulated, this advantage will gradually disappear, and competitiveness will instead be determined by factors like product, technology, execution, customer service, and trust.Xu added that the more regulators focus on governance, internal controls, and tangible results over marketing and social media influence, the more Binance's current strengths will diminish. more:",
-    "url": "https://t.me/CoinnessGL#add32115",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T00:19:33+00:00"
-  },
-  {
-    "id": "465c698b-ae90-4cf3-aec3-0fadf08d5738",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Byte Federal Announces Successful Launch of Custom-Built Integration Supporting BurraPay’s Historic Entry into America’s Regulated Market",
-    "summary": "1. PRESS RELEASE.\n2. VENICE, FLORIDA – June 17, 2026 – Byte Federal, Inc.\n3. is excited to announce the integration of our payment and exchange services with BurraPay, the first cryptocurrency payments processor to operate inside Nevada’s regulated gaming market.",
-    "url": "https://news.bitcoin.com/byte-federal-announces-successful-launch-of-custom-built-integration-supporting-burrapays-historic-entry-into-americas-regulated-market/",
-    "author": "Media",
-    "created_at": "2026-06-18T00:18:29.000Z"
-  },
-  {
-    "id": "41a4e2b4-7196-4884-91ad-9f9a1a049501",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Uniswap rallied after Standard Chartered set a $100 UNI price target for 2030, citing the protocol's DEX market share and untapped fee revenue as key catalysts.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f7643f46",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-18T00:00:07+00:00"
-  },
-  {
-    "id": "ce5c75c9-de96-45ec-9687-d323ce0fcfaf",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
-    "summary": "1. Markets wobbled after mixed comments from President Trump on the Iran peace deal and Fed Chair Kevin Warsh signaling a new direction from the Federal Reserve.",
-    "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Marcel Pechman",
-    "created_at": "2026-06-17T23:45:29.000Z"
-  },
-  {
-    "id": "70843eaa-bcb0-4c74-85c4-36e74cc9af28",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey",
-    "summary": "1. A new APA survey found that more than a third of psychologists have patients using AI as an additional mental health professional, even as clinicians warn that the technology can reinforce delusions.",
-    "url": "https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-17T23:36:08.000Z"
-  },
-  {
-    "id": "a3a01460-c2bc-426a-af5c-d069b9afe59f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Eyes $70K Breakout as 21Shares Sees Path Toward $100K by Q3",
-    "summary": "1. Bitcoin remains above a key support zone despite a Federal Reserve-driven pullback, while 21Shares sees a potential path to $100,000 by the end of Q3.\n2. The firm’s outlook depends on a decisive breakout above $70,000.\n3. 21Shares Says Bitcoin’s Upside Case Starts With a $70K Break Bitcoin could climb to $100,000 by the end of the […]",
-    "url": "https://news.bitcoin.com/bitcoin-eyes-70k-breakout-as-21shares-sees-path-toward-100k-by-q3/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-17T23:30:13.000Z"
-  },
-  {
-    "id": "58b88a54-c4ad-4b20-b3f7-ec21a3080fee",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-    "summary": "1. CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
-    "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-06-17T23:28:21.000Z"
-  },
-  {
-    "id": "f54e5965-c902-486d-ad03-825e5279d2da",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇺 BitGo Europe launched a MiCA-ready crypto-as-a-service platform, letting exchanges plug into regulated custody, KYC, and trading infrastructure ahead of the EU's July 1 licensing deadline.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f90dc303",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-17T23:15:06+00:00"
   }
 ]
