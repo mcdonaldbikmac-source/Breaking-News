@@ -1,5 +1,245 @@
 [
   {
+    "id": "f75b9858-6dd7-41fc-bdc5-0206596bdf29",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Strive’s Jeff Walton says the goal is to bring $200B in new capital into Bitcoin through credit markets, with more digital-credit issuers expectedTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#0fec642e",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-18T13:04:16+00:00"
+  },
+  {
+    "id": "8de2832f-a9cc-44d8-a5fa-b06a219fa323",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Adam Back: Bitcoin was a community effort, not Satoshi's solo work",
+    "summary": "Adam Back, a cryptographer and the CEO of Bitcoin infrastructure developer Blockstream, stated that Bitcoin (BTC) is not the sole creation of Satoshi Nakamoto but rather the collective research achievement of the cypherpunk community. He noted that the concept of a Proof-of-Work (PoW) based digital currency had been discussed before the Bitcoin whitepaper was published. Back explained that Satoshi implemented a working protocol by combining ideas from figures like Hal Finney and Nick Szabo, as well as his own Hashcash system developed in 1997. According to Back, Satoshi's greatest achievement was solving the double-spending problem and integrating these previously scattered ideas into a single network. Addressing recent attempts to uncover Nakamoto's identity, Back also reiterated his denial of claims that he is Satoshi and warned that excessive efforts to track the identities of industry figures could create security risks.",
+    "url": "https://t.me/CoinnessGL#65b37b35",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T13:02:29+00:00"
+  },
+  {
+    "id": "6320a13e-a516-4de3-89d7-f180c824e76c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Alchemy unveils Visa-powered virtual payment card for AI agents",
+    "summary": "1. AgentCard will default to Visa-issued tokens, but will support crypto and agent-native payment protocols when available.",
+    "url": "https://www.theblock.co/post/405224/alchemy-unveils-visa-powered-virtual-payment-card-for-ai-agents?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-18T13:00:00.000Z"
+  },
+  {
+    "id": "7b37090e-45e6-4f1c-9857-537ceb00d39f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Alchemy's AI-driven identity and payment service gains access to Visa network",
+    "summary": "1. The AgentCard integration with Visa Intelligent Commerce allows AI agents built on models from any provider, including OpenAI or Anthropic, to effect commercial transactions.",
+    "url": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
+    "author": "Ian Allison",
+    "created_at": "2026-06-18T13:00:00.000Z"
+  },
+  {
+    "id": "89617e70-9dc5-45ff-b303-a8d1cf23d5d5",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+    "summary": "1. Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.",
+    "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-06-18T13:00:00.000Z"
+  },
+  {
+    "id": "d0291964-03a5-48ed-ba77-b7f9fedcf766",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. While claiming to fight corruption, Newsom solicited $340M from special interests for allies:",
+    "url": "https://trumpstruth.org/statuses/39345",
+    "author": "Trump Truth",
+    "created_at": "2026-06-18T12:58:08.000Z"
+  },
+  {
+    "id": "748d4080-415d-40c8-93f6-c8d90cad3f3d",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Pope Leo commends US-Iran peace deal:",
+    "url": "https://trumpstruth.org/statuses/39346",
+    "author": "Trump Truth",
+    "created_at": "2026-06-18T12:57:28.000Z"
+  },
+  {
+    "id": "6d17df7a-a1cc-498d-9461-8e90b8730056",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Capital B shareholders approve up to $120B in financing capacity for Bitcoin strategy",
+    "summary": "1. Capital B shareholders approved up to $120 billion in financing capacity, including equity and credit instruments, to support the company's Bitcoin accumulation strategy.",
+    "url": "https://cointelegraph.com/news/capital-b-shareholders-approve-120b-capital?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Zoltan Vardai",
+    "created_at": "2026-06-18T12:46:47.000Z"
+  },
+  {
+    "id": "1f453bfe-0b39-4438-87f7-326ca23c108c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Glassnode: BTC outflows are slowing amid signs of on-chain recovery",
+    "summary": "Bitcoin network outflows are showing signs of slowing, The Block reported, citing analysis from Glassnode. According to the data, BTC's Realized Cap decreased by 1.45% over the past 90 days, but that decline slowed to just 0.18% in the last seven days. Market liquidity has also reportedly improved, with buy orders on the Binance spot order book now outnumbering sell orders. However, Glassnode noted that while on-chain indicators are showing signs of recovery, BTC is still trading approximately 15% below its on-chain fair value, or True Market Mean, of $77,200. The price is also below the average on-chain purchase price for short-term holders, which stands at $72,600.",
+    "url": "https://t.me/CoinnessGL#7aeff122",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T12:39:07+00:00"
+  },
+  {
+    "id": "a842488a-25cd-4835-90f9-48536b905b6c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ireland designates crypto as major financial crime threat, plans new rules",
+    "summary": "The Irish government has identified cryptocurrency as a major financial crime threat in its recently published \"National Risk Assessment\" report and plans to strengthen related regulations, Decrypt reported. The new plan to combat financial crime includes enhanced safeguards for crypto and digital finance. Specifically, new industry standards will be introduced that mandate identity verification and due diligence procedures for crypto to be recognized as a source of funds. Additionally, the Gambling Regulatory Authority of Ireland plans to establish criteria for thoroughly verifying the source of funds for companies handling cryptocurrencies by the second quarter of 2027.",
+    "url": "https://t.me/CoinnessGL#aa3e1a81",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-18T12:38:26+00:00"
+  },
+  {
+    "id": "2db69b60-2de3-4ba3-b5b2-0537b38ee5d8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 US gaming industry groups are urging the Senate to ban sports prediction markets as part of the CLARITY Act.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3db410e0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-18T12:35:06+00:00"
+  },
+  {
+    "id": "ff4f4a0d-38b7-4bc7-b32c-32115eb576b2",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Ireland Tightens Crypto Safeguards in New Financial Crime Action Plan",
+    "summary": "1. A new National Risk Assessment names crypto-asset misuse among Ireland's top threats, as a 30-point plan tightens checks on crypto funds.",
+    "url": "https://decrypt.co/371518/ireland-tightens-crypto-safeguards-in-new-financial-crime-action-plan",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-18T12:29:13.000Z"
+  },
+  {
+    "id": "5d2b86c6-e54c-46d3-8ac9-55f82b92de31",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
+    "summary": "1. Bitcoin holds near $64,000 as BTC ETFs post an $82.2 million net outflow, and Glassnode said improving liquidity may be forming a floor.",
+    "url": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-18T12:23:39.000Z"
+  },
+  {
+    "id": "1c5a337f-9ecb-405e-b8b9-c9b89d3f4269",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Sam Bankman-Fried reportedly told a fellow inmate he plans to launch a new token after prison, saying \"everyone’s gonna jump on it,\" per New York Magazine.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#21e55896",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-18T12:00:06+00:00"
+  },
+  {
+    "id": "da1ba8e8-25ed-48b3-85fa-5ac89b65a113",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+    "summary": "1. Forget stickers, GIFs, and emoji reactions.\n2. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+    "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+    "author": "Lauren Forristal",
+    "created_at": "2026-06-18T12:00:00.000Z"
+  },
+  {
+    "id": "3a2494bc-a276-4097-8918-5ca3be59736c",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+    "summary": "1. The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.",
+    "url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-06-18T11:59:11.000Z"
+  },
+  {
+    "id": "d1a12e3d-b4c8-4f86-85d1-ec92f96e0610",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Hive shares jumps 10% on $220m Canada sovereign AI infrastructure deal",
+    "summary": "1. GPU cloud contract with Bell and Cohere strengthens HIVE's shift from bitcoin mining to high performance AI computing.",
+    "url": "https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal",
+    "author": "James Van Straten",
+    "created_at": "2026-06-18T11:49:41.000Z"
+  },
+  {
+    "id": "5944fe61-83ff-4bbc-89f2-44b9052f0ef2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Stablecoin compliance startup Range raises $8.3 million from fintech and crypto VCs",
+    "summary": "1. \"Stablecoins and fiat are converging, and finance teams need one platform to run both safely and at scale,\" Range CEO Andres Monteoliva said.",
+    "url": "https://www.theblock.co/post/405205/stablecoin-compliance-startup-range-fintech-crypto-vcs-series-a?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-18T11:48:15.000Z"
+  },
+  {
+    "id": "bfde8039-baaa-47d4-9547-cf44ecb780d6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "The great rotation: Investors desert the Magnificent 7, crypto for AI bottlenecks",
+    "summary": "1. Capital is flowing out of the largest tech companies and bitcoin as investors pile into semiconductors, memory stocks and space-related opportunities.",
+    "url": "https://www.coindesk.com/markets/2026/06/18/the-great-rotation-investors-desert-the-magnificent-7-crypto-for-ai-bottlenecks",
+    "author": "James Van Straten",
+    "created_at": "2026-06-18T11:37:32.000Z"
+  },
+  {
+    "id": "6baaa04b-2635-48c8-86f4-8d2a6de3483c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "G7 calls for joint action on North Korean crypto theft, cybercrime",
+    "summary": "1. G7 leaders broadened their warning over North Korean crypto theft to include wider cybercrime as researchers link DPRK-affiliated actors to billions of dollars in stolen digital assets.",
+    "url": "https://cointelegraph.com/news/g7-north-korea-crypto-theft-cybercrime-warning?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Ezra Reguerra",
+    "created_at": "2026-06-18T11:33:29.000Z"
+  },
+  {
+    "id": "522e0a97-81f3-446e-8fd1-6a16d1b3f42b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin ETFs Lose $82M as Ark and Blackrock Reverse Prior Session Gains",
+    "summary": "1. Crypto ETF flows turned negative again on Wednesday, June 17, as bitcoin and ether funds reversed the prior session’s broad gains.\n2. Still, HYPE and solana ETFs attracted fresh capital, showing that modest demand remains alive beneath the market’s choppy headline flows.\n3. HYPE ETFs Add $2.1M as Bitcoin and Ether Funds Return to Outflows The crypto […]",
+    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-82m-as-ark-and-blackrock-reverse-prior-session-gains/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-18T11:32:18.000Z"
+  },
+  {
+    "id": "b22e3c64-682e-4a2a-887c-b6cb326c02a4",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇨🇳 China's central bank says stablecoins may play a bigger role in cross-border payments, calling for closer oversight and improved international regulatory coordination.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bfcf724b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-18T11:20:06+00:00"
+  },
+  {
+    "id": "408e4f24-08a9-4527-9b03-d0c5a3322b06",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO",
+    "summary": "1. Outgoing CME chief Terry Duffy says perpetual futures are actually swaps under Dodd-Frank, and that the exchange will file suit Thursday.",
+    "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-18T11:20:05.000Z"
+  },
+  {
+    "id": "b8836388-d86a-40de-8657-8ec9907a09f8",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Iranian President Pezeshkian publishes the Islamabad MoU, calling it a “historical document”The text says the US-Iran war ends on all fronts including Lebanon, the naval blockade ends within 30 days, and Hormuz shipping resumes without charges for 60 daysTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#8e2b5983",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-18T10:57:15+00:00"
+  },
+  {
     "id": "a1dcddac-b4dd-4918-b3db-5e0cf23cadba",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -80,7 +320,7 @@
     "created_at": "2026-06-18T09:40:06+00:00"
   },
   {
-    "id": "f4feff8c-b745-4305-8a7b-30206c45647a",
+    "id": "0591233c-0407-440e-9d6a-82346a1de797",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump says \"oil prices are tumbling down.\"@WatcherGuru",
@@ -100,7 +340,7 @@
     "created_at": "2026-06-18T09:18:55.000Z"
   },
   {
-    "id": "d356e482-28ae-4717-ab9d-3eae9b26bf58",
+    "id": "9cc55038-7d48-4084-a3d7-ec002f63f67c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "SpaceX is worth more than the entire crypto market$SPCX Twitter",
@@ -218,165 +458,5 @@
     "url": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
     "author": "Omkar Godbole",
     "created_at": "2026-06-18T07:08:27.000Z"
-  },
-  {
-    "id": "3c9f3bfb-d9be-4638-9ec5-00e016681fc5",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Ballroom is coming along fantastically well.\n2. It's on time, and under budget (Unlike the Federal Reserve Building, where \"Too Late\" has done a terrible job of Cost and Time Control!), and at a much higher quality than I ever promised, including the DronePort, and ALL of the other many Military elements, which are all vital for National Security, that are being built throughout the whole integrated, cohesive Project.\n3. It is desperately needed, and will be very special!",
-    "url": "https://trumpstruth.org/statuses/39336",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T06:51:03.000Z"
-  },
-  {
-    "id": "0807bc57-1bd1-42a3-b57d-c5e39f2053d3",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. State Representative Don Chapman is doing a terrific job representing the wonderful people of South Carolina's\n8th State House District!\n2. A Successful Architect and Businessman, before his service in the State House, Don is a Proven Leader who has dedicated his life to serving his Community.\n3. In the State House, he is working hard to Protect \"Palmetto State\" Values, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.",
-    "url": "https://trumpstruth.org/statuses/39335",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T06:44:48.000Z"
-  },
-  {
-    "id": "186bb4fd-4ab0-4a59-8915-c3e385408eb0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Kentucky files lawsuits against prediction market platforms Kalshi and Polymarket",
-    "summary": "1. The lawsuits claim prediction market platforms have been offering unlicensed sports gambling in the state while bypassing local regulations.",
-    "url": "https://www.theblock.co/post/405185/kentucky-lawsuit-kalshi-polymarket?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-18T06:37:46.000Z"
-  },
-  {
-    "id": "2e13ea35-152b-4c06-9c6c-f3bbe632f578",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ghana and the UK Use Blockchain to Recover $15.1M From Cross-Border Scam",
-    "summary": "1. Law enforcement agencies from Ghana and the United Kingdom recently collaborated to seize $15.1 million in cryptocurrency from a transnational investment scam.\n2. An E-Commerce Front for Organized Crime Law enforcement agencies in Ghana and the United Kingdom have seized approximately $15.1 million in cryptocurrency from a sophisticated transnational investment scam.\n3. According to a Chainalysis report, […]",
-    "url": "https://news.bitcoin.com/ghana-and-the-uk-use-blockchain-to-recover-15-1m-from-cross-border-scam/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-18T06:30:39.000Z"
-  },
-  {
-    "id": "0d1b730b-e6c3-49dd-8d34-c47cda7c0e77",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
-    "summary": "1. Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
-    "url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-06-18T06:26:24.000Z"
-  },
-  {
-    "id": "ff2480ca-ffc7-4faa-9fda-106f94f57581",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ryan Salame’s wife to face charges over FTX-funded congressional run",
-    "summary": "1. A federal judge has denied a bid from Michelle Bond, the wife of former FTX executive Ryan Salame, to have campaign finance charges against her dismissed.",
-    "url": "https://cointelegraph.com/news/ryan-salames-wife-to-face-charges-over-ftx-funded-congressional-run?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Jesse Coghlan",
-    "created_at": "2026-06-18T06:17:01.000Z"
-  },
-  {
-    "id": "06a6ceea-60ad-4c2b-8c5d-2a29373f6e30",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC perp long/short ratios on top 3 futures exchanges",
-    "summary": "The following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 44.45% long, 55.55% short- Binance: 49.19% long, 50.81% short- OKX: 49.08% long, 50.92% short- Bybit: 49.27% long, 50.73% short",
-    "url": "https://t.me/CoinnessGL#ac629a35",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T06:13:12+00:00"
-  },
-  {
-    "id": "e4ec7979-781f-4cbe-8c29-b085ccc85840",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Anonymous whale deposits $74.7M in ETH to Binance",
-    "summary": "An anonymous whale address starting with 0x55C1 has deposited 43,235 ETH ($74.68 million) to Binance, according to Onchain Lens. Deposits to exchanges are typically interpreted as a move to sell. The address currently holds 43,562 ETH in staking, with an estimated unrealized loss of $12.7 million.",
-    "url": "https://t.me/CoinnessGL#02be37eb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T06:10:24+00:00"
-  },
-  {
-    "id": "b46b8f48-51f3-4c63-bb49-344dc7e81758",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Florida man pleads guilty for promoting $1.8B ‘HyperFund’ crypto fraud",
-    "summary": "1. Rodney “Bitcoin Rodney” Burton faces a maximum sentence of five years in federal prison for conspiracy to operate an unlicensed money transmitting business.",
-    "url": "https://cointelegraph.com/news/florida-man-pleads-guilty-to-18b-crypto-fraud-scheme?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Martin Young",
-    "created_at": "2026-06-18T06:06:20.000Z"
-  },
-  {
-    "id": "57c5f654-77da-4a83-bf90-376093fe49c9",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live markets: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
-    "summary": "1. Total market value has held flat near $2.26 trillion since Tuesday, with the recovery losing momentum after the Fed killed rate-cut hopes and spot ETFs swung back to outflows.",
-    "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-18T06:02:19.000Z"
-  },
-  {
-    "id": "e1862912-640a-4b51-b938-1fe29f3c8f01",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Cointelegraph",
-    "created_at": "2026-06-18T06:00:00.000Z"
-  },
-  {
-    "id": "e10f5562-5986-4a7c-b83d-505d502876fe",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Strategy's STRC preferred stock hits a record low below par",
-    "summary": "1. The slide has paused the above-par share sales Strategy uses to fund bitcoin purchases, and it is the same stock whose dividends forced the company's first BTC sale this month.",
-    "url": "https://www.coindesk.com/markets/2026/06/18/strategy-s-strc-preferred-stock-hits-a-record-low-below-par",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-18T05:49:21.000Z"
-  },
-  {
-    "id": "9facf44c-4482-468a-af0c-e3f302bacb3f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Dorsey’s Block says new AI tool handles 15% of code work",
-    "summary": "1. Builderbot is the “missing layer between AI coding tools and how engineering actually works at scale,” said Brad Axen, head of AI capabilities at Block.",
-    "url": "https://cointelegraph.com/news/dorseys-block-says-new-ai-tool-handles-15-of-code-work?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Martin Young",
-    "created_at": "2026-06-18T05:38:34.000Z"
-  },
-  {
-    "id": "9c1fc599-517d-4e53-8be3-f0e7d3415f8f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Inveniam Capital Partners Pushes Mantra Acquisition After $20M Bet, Cementing RWA-AI Stack",
-    "summary": "1. Inveniam Capital Partners has agreed to fully acquire the blockchain project MANTRA and its affiliated entities, with the deal expected to close by June 30, 2026.\n2. Strategic Roots and the NVNM Chain Inveniam Capital Partners announced June 16 that it has reached an agreement to acquire the blockchain project MANTRA and its affiliated entities, consolidating […]",
-    "url": "https://news.bitcoin.com/inveniam-capital-partners-pushes-mantra-acquisition-after-20m-bet-cementing-rwa-ai-stack/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-18T05:30:17.000Z"
-  },
-  {
-    "id": "ea6158da-15d8-41e3-b63a-43d10836005a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US rep: House ready to pass CLARITY Act if Senate acts before August",
-    "summary": "U.S. Representative Dusty Johnson of South Dakota has stated that the House is prepared to quickly pass the CLARITY Act if the Senate acts on the bill before its August recess, according to Eleanor Terrett, host of Crypto in America.",
-    "url": "https://t.me/CoinnessGL#41e95fb7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T05:27:47+00:00"
-  },
-  {
-    "id": "1f72c8e3-3bc4-46d8-a424-16e66f1e974a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP slips 4% below $1.20 after breakout rally stalls near key resistance",
-    "summary": "1. Heavy selling pushed XRP back through a closely watched support level, though buyers stepped in above $1.17 to prevent a deeper pullback.",
-    "url": "https://www.coindesk.com/markets/2026/06/18/xrp-slips-4-below-usd1-20-after-breakout-rally-stalls-near-key-resistance",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-18T05:08:12.000Z"
   }
 ]
