@@ -1,6 +1,36 @@
 [
   {
-    "id": "158138f7-33a9-42df-8f33-ea5faab0e6d8",
+    "id": "4477d2bf-9126-4002-85d0-214571503db9",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Hostage: “President Trump is the greatest Commander-in-Chief ever.”",
+    "url": "https://trumpstruth.org/statuses/39334",
+    "author": "Trump Truth",
+    "created_at": "2026-06-18T04:31:19.000Z"
+  },
+  {
+    "id": "6f2f8d5a-64fd-4230-8957-9cdd6d9aacf5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Yield Basis Deposits Jump 120% in 2 Weeks as Investors Seek BTC Yield Without Selling",
+    "summary": "1. Yield Basis says deposits into its new Hybrid Vaults rose more than 120% in under two weeks, signaling demand for strategies that let investors earn yield while keeping crypto exposure.\n2. The protocol is targeting one of DeFi’s long-running problems: liquidity providers falling behind simple holders during sharp price moves.\n3. Michael Egorov Says Demand Is Rising […]",
+    "url": "https://news.bitcoin.com/yield-basis-deposits-jump-120-in-2-weeks-as-investors-seek-btc-yield-without-selling/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-18T04:30:15.000Z"
+  },
+  {
+    "id": "bc108e4d-8b16-4e2f-b7bc-a573fe2fcaf2",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Technology the World relies on was invented in America.\n2. We all remember “Intel Inside.” Stupid Presidents took our Economy for granted, and let Taiwan and others steal our Semiconductor Factories.\n3. They forgot to protect our Industries with TARIFFS.",
+    "url": "https://trumpstruth.org/statuses/39333",
+    "author": "Trump Truth",
+    "created_at": "2026-06-18T04:29:38.000Z"
+  },
+  {
+    "id": "8154e3bb-0cab-4592-89b2-df1cdd61af44",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Apparent $2.02M ETH outflow detected from Aztec",
@@ -10,7 +40,7 @@
     "created_at": "2026-06-18T04:23:11+00:00"
   },
   {
-    "id": "0d5608ce-7f42-4579-b6e3-68fcc7d887c7",
+    "id": "70f882e6-8619-4fee-a3a3-8a2f5d8ab267",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "AWS adds USDC payments for AI bot content access via x402",
@@ -20,7 +50,7 @@
     "created_at": "2026-06-18T04:12:45+00:00"
   },
   {
-    "id": "a7e6e6bd-bf6d-4443-94bd-1fccca159ba9",
+    "id": "e59433e2-0b78-4561-aa50-e4543d0b6c61",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Bitwise CIO says next bull run will be slower, less volatile",
@@ -160,7 +190,7 @@
     "created_at": "2026-06-18T02:19:26+00:00"
   },
   {
-    "id": "2b1f4481-1a66-42e1-8fd9-10bdc192d0bf",
+    "id": "5c0352d7-c9f0-43b4-9e04-2ebf507a2cb2",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇴🇲 Oman launched a mandatory national Bitcoin mining pool, requiring all licensed operators to join.",
@@ -240,7 +270,7 @@
     "created_at": "2026-06-18T01:23:51.000Z"
   },
   {
-    "id": "b2e10333-dbee-40f9-ba72-ae5a5ad5bc6a",
+    "id": "88aed41f-22a7-402e-815e-f9aa8cdbe3b8",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Data infrastructure firm Inveniam Capital Partners plans to acquire Mantra, expanding its push into RWA tokenization and AI infrastructure.",
@@ -250,7 +280,7 @@
     "created_at": "2026-06-18T00:50:06+00:00"
   },
   {
-    "id": "0491c8f0-1b9e-47f7-a39b-fa30a8f07841",
+    "id": "efadd6f1-688d-471c-b218-5deef57e4dcc",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "CME GROUP TO SUE THE CFTC OVER ITS APPROVAL OF PERPETUAL FUTURES, CEO TERRENCE DUFFY SAYS, PER CNBCDuffy argues perpetual futures are legally swaps under Dodd-Frank, not ordinary futures and that CME holds exclusive licenses with the benchmark providers, so the products would have to route through CME regardless.",
@@ -320,7 +350,7 @@
     "created_at": "2026-06-18T00:18:29.000Z"
   },
   {
-    "id": "7018326f-9e21-4988-bd2e-59020b9b5044",
+    "id": "41a4e2b4-7196-4884-91ad-9f9a1a049501",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📈 Uniswap rallied after Standard Chartered set a $100 UNI price target for 2030, citing the protocol's DEX market share and untapped fee revenue as key catalysts.",
@@ -378,45 +408,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#f90dc303",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-17T23:15:06+00:00"
-  },
-  {
-    "id": "66b6c9b7-6ad1-47a8-aaba-5796ec7096e4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 The Fed signaled possible rate hikes ahead, with nine officials now forecasting at least one increase by year-end.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4369203c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-17T22:40:06+00:00"
-  },
-  {
-    "id": "f4453409-bedd-49a0-a761-4e1180b7a9e0",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Slowmist: A Single Missing Line of Code Drained $111,000 From the DIP Token",
-    "summary": "1. A coding flaw in the DIP token, an essential utility asset of the Etherisc ecosystem, let an attacker siphon roughly $111,098 in USD Coin (USDC), blockchain security firm Slowmist revealed.\n2. A Transfer That Ran Twice Slowmist flagged the incident in a threat intelligence alert, pinning the loss at 111,097.6 USDC.\n3. The firm said the DIP […]",
-    "url": "https://news.bitcoin.com/dip-token-exploit-slowmist-usdc/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-17T22:35:15.000Z"
-  },
-  {
-    "id": "5f4c04e6-4a09-4799-85f1-1799b2c35c60",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale addresses with over 1,000 BTC now hold 7.17M BTC",
-    "summary": "Whale addresses holding at least 1,000 BTC now hold a total of 7.17 million BTC, marking the first time their holdings have surpassed this level since March 14, according to on-chain analytics firm Santiment. This amount represents 35.82% of the current BTC supply. The number of addresses holding over 1,000 BTC stands at 2,044.",
-    "url": "https://t.me/CoinnessGL#0b2481ca",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-17T22:33:08+00:00"
-  },
-  {
-    "id": "d95e3d9f-e5f6-4e25-b567-60e0e2ae28cb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Base launches private transaction feature for enterprises",
-    "summary": "Coinbase's Layer 2 network, Base, has introduced a private transaction feature for enterprise users. The function is designed to protect transaction information necessary for corporate operations while maintaining the transparency and efficiency of blockchain infrastructure.",
-    "url": "https://t.me/CoinnessGL#fee03436",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-17T22:28:32+00:00"
   }
 ]
