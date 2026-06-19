@@ -1,5 +1,135 @@
 [
   {
+    "id": "d2bf060d-1909-4415-9c0e-a5d2bb8e49b6",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Two legally incorporated AI agents have signed what's believed to be the first legal contract between non-human entities that automatically executes itself on Ethereum.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b8384535",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T09:10:06+00:00"
+  },
+  {
+    "id": "88cf5231-555a-4e22-a843-5a3f4f6c5e45",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "______ is the new way.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3683aac4",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T09:05:03+00:00"
+  },
+  {
+    "id": "b3ba9c61-dda1-46c5-86f0-6ca2d4f0e31d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to list RE for KRW, BTC, and USDT trading",
+    "summary": "South Korean crypto exchange Upbit announced it will list RE for trading against the Korean won (KRW), Bitcoin (BTC), and Tether (USDT) at 12:00 p.m. UTC on June 19.",
+    "url": "https://t.me/CoinnessGL#9b3432be",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T09:01:01+00:00"
+  },
+  {
+    "id": "128895cd-034c-4d13-85d9-3f5aa2ba627b",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The nation’s cartoonists on the week in politics",
+    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
+    "url": "https://www.politico.com/gallery/2026/06/19/the-nations-cartoonists-on-the-week-in-politics-00967867",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-06-19T09:00:00.000Z"
+  },
+  {
+    "id": "53bb7f27-1f9b-4001-93e8-cfee77cf77ae",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Robinhood prediction market trades hit all-time high in May",
+    "summary": "Robinhood's prediction market trading volume hit an all-time high of 3.9 billion trades in May, The Block reported. This represents a more than tenfold increase since September of last year.",
+    "url": "https://t.me/CoinnessGL#4325a296",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T08:59:24+00:00"
+  },
+  {
+    "id": "8355d83a-d1a8-46e5-9913-7616f81f5ae5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CryptoQuant CEO: BTC's biggest risk is boredom, not a crash",
+    "summary": "Ki Young Ju, CEO of CryptoQuant, argued that the greatest risk to Bitcoin is not a market crash but a prolonged period of sideways movement, stressing the need for a new narrative. He stated on X that while the market can endure sharp drops as long as there is faith in a future rally, a prolonged sideways trend erodes the narrative. He warned that if demand falls and the premium on MicroStrategy's (MSTR) stock shrinks, it would be difficult for the company to maintain its financing structure. Ki added that MicroStrategy founder Michael Saylor's real challenge is not buying more BTC, but giving the market a new reason to believe in it. He also noted that contrary to its \"digital gold\" narrative, Bitcoin has often behaved more like a tech stock. Ki concluded that while he still believes in BTC's long-term upward trend, a new focal point is needed to rally its supporters, some of whom have moved on to promoting other coins.",
+    "url": "https://t.me/CoinnessGL#cda70533",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T08:48:52+00:00"
+  },
+  {
+    "id": "0ac98d16-3e2a-4004-8c82-da52a71c47be",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
+    "summary": "1. The software intercepts shortcut files and directs them to install a worm that harvests private keys from the Windows clipboard and inserts its own destination wallet addresses when it detects a transfer.",
+    "url": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-19T08:48:14.000Z"
+  },
+  {
+    "id": "dab53aad-c219-4c36-b805-46abc799686b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Jefferies sees 30% upside in IREN, saying its AI cloud business is on track to outpace data center leasing as the company scales its infrastructure.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f2c7e7be",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T08:40:05+00:00"
+  },
+  {
+    "id": "a61983e6-d5ff-4b40-9246-8b69d22f8a12",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Illinois Governor JB Pritzker Greenlights Crypto Tax of 0.2% on Every Transfer Starting 2027",
+    "summary": "1. Illinois has enacted a 0.2% tax on digital asset transfers that will apply whether a trade ends in profit or loss, beginning Jan.\n2. Industry groups have branded the measure the most punitive crypto tax in the U.S.\n3. and are already pushing for a repeal.",
+    "url": "https://news.bitcoin.com/illinois-governor-jb-pritzker-greenlights-crypto-tax-of-0-2-on-every-transfer-starting-2027/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-19T08:30:27.000Z"
+  },
+  {
+    "id": "2c476355-3dd3-4776-8c7b-261d3640489e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Goldman Sachs cuts year-end gold target by $500, doubting rate cuts",
+    "summary": "1. Goldman Sachs revised its year-end forecast for gold to $4,900, indicating an increase from current levels, but less than previously expected.",
+    "url": "https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Felix Ng",
+    "created_at": "2026-06-19T08:05:37.000Z"
+  },
+  {
+    "id": "6ca9520d-4084-4b73-9294-c24c9cff7aa2",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+    "summary": "1. There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "author": "Connie Loizos",
+    "created_at": "2026-06-19T07:59:12.000Z"
+  },
+  {
+    "id": "a41a4953-6fb8-4dec-944e-0e0929f5610c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "$82.53 Intraday Low: How STRC’s Drop Tests Michael Saylor’s Bitcoin Credit Machine",
+    "summary": "1. STRC, Strategy Inc.’s variable-rate preferred stock built to hover near $100, instead flirted with the basement Thursday, printing a fresh intraday low near $82.53 before clawing back to close at $88.59.\n2. Why STRC’s Wild Session Matters to Bitcoin Treasury Bulls The move was not some polite tremor in the market’s teacup.\n3. STRC traded more than […]",
+    "url": "https://news.bitcoin.com/82-53-intraday-low-how-strcs-drop-tests-michael-saylors-bitcoin-credit-machine/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-19T07:20:24.000Z"
+  },
+  {
+    "id": "2b81e90f-95f0-43b1-8115-bda2ae85ba41",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin",
+    "summary": "1. AllUnity launches Swedish krona-backed stablecoin SEKAU with multi-chain support, expanding its stablecoin portfolio regulated under the EU’s MiCA framework.",
+    "url": "https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Helen Partz",
+    "created_at": "2026-06-19T07:00:00.000Z"
+  },
+  {
     "id": "2f2e4429-9866-40aa-a64e-298b698202b6",
     "source": "The Block",
     "type": "rss",
@@ -100,7 +230,7 @@
     "created_at": "2026-06-19T05:56:51.000Z"
   },
   {
-    "id": "84b8f689-62e0-489b-bbcf-cbbc2bde2fa2",
+    "id": "e8310bfd-dbad-4184-9130-89dbefa4c5fb",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US-Iran talks scheduled for today at Switzerland’s Bürgenstock resort have been CANCELED | per the Swiss Foreign Ministry VP JD Vance pulled out overnight after Iran’s delegation had already withdrawn over Israeli strikes in LebanonTwitter",
@@ -298,155 +428,5 @@
     "url": "https://news.bitcoin.com/australias-asic-wins-high-court-appeal-as-block-earner-yield-product-faces-fresh-penalty-fight/",
     "author": "Terence Zimwara",
     "created_at": "2026-06-19T03:20:52.000Z"
-  },
-  {
-    "id": "0249f1d8-395e-48e8-8b6d-ff2d2334b39d",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 US Department of War requests $80,000,000,000 to cover Iran war and other costs.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#ba2ac3ee",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-19T03:13:11+00:00"
-  },
-  {
-    "id": "a74afad9-a4bd-4add-8769-0beb6fbc59ff",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
-    "summary": "1. The disclosure of additional amendments typically reflects active communication with the SEC and progress in the launch process.",
-    "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-19T02:54:48.000Z"
-  },
-  {
-    "id": "5f620e40-c094-4c04-8bb7-f970a63b081b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Celsius’ Mashinsky gets permanent trading ban in CFTC settlement",
-    "summary": "1. The US commodities watchdog has settled with Celsius founder Alex Mashinsky, ending the agency’s first-ever case against a crypto lending platform.",
-    "url": "https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Jesse Coghlan",
-    "created_at": "2026-06-19T02:33:11.000Z"
-  },
-  {
-    "id": "07baa0db-bf2b-46af-ac2f-75a11b38edc1",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "⚠️ Microsoft warns of a new crypto-stealing malware active since February which swaps wallet addresses copied to users clipboard with the attacker’s, steals seed phrases, and uses Tor to stay hidden.",
-    "summary": "Spreading via infected USB drives | per MicrosoftTwitter",
-    "url": "https://t.me/SolidIntelX#1cdbf44e",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-19T02:29:00+00:00"
-  },
-  {
-    "id": "8bc7d5ea-83ce-461c-b27a-70ddaaba9118",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Upbit to list 9 new assets for BTC, USDT trading",
-    "summary": "South Korean crypto exchange Upbit announced that it will list PEAQ, LIT, KMNO, MORPHO, GRAM, LDO, PAXG, OSMO, and AMP for trading against BTC and USDT at 6:00 a.m. UTC on June 19.",
-    "url": "https://t.me/CoinnessGL#76003333",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-19T02:10:12+00:00"
-  },
-  {
-    "id": "a7f649b6-b0b6-4290-8bf0-bb3ee13a1f28",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Trades 15% Below Critical On-Chain Level After June Selloff",
-    "summary": "1. Bitcoin rebounded from a steep June decline, but Glassnode data shows the asset remains below key recovery levels.\n2. Recent buyers are still carrying unrealized losses, while capital flows have yet to turn positive.\n3. Bitcoin’s Rebound Leaves Recent Buyers Under Pressure Bitcoin has stabilized after a sharp selloff that coincided with rising geopolitical tensions and a […]",
-    "url": "https://news.bitcoin.com/bitcoin-trades-15-below-critical-on-chain-level-after-june-selloff/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-19T02:05:20.000Z"
-  },
-  {
-    "id": "7cae34ed-c6b8-465a-b629-115f22c44479",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
-    "summary": "1. The fund invests exclusively in eligible reserve assets permitted for stablecoin issuers under the GENIUS Act.",
-    "url": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-19T01:58:25.000Z"
-  },
-  {
-    "id": "e6f2f0de-12e5-4af6-bfbe-ad1c5a15f595",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Kalshi surpasses $2B in annual revenue, discusses IPO",
-    "summary": "Prediction market Kalshi has surpassed $2 billion in annual revenue and has begun discussions with several investment banks about a potential IPO, The Information reported. The revenue growth is attributed to increased betting on the outcomes of events like U.S. National Basketball Association (NBA) games and the World Cup. Kalshi is reportedly in informal talks with multiple financial institutions for IPO advisory services and is requiring any investment bank wishing to join its advisory team to integrate with the Kalshi platform's system.",
-    "url": "https://t.me/CoinnessGL#b0c889f0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-19T01:46:25+00:00"
-  },
-  {
-    "id": "0a973087-17cb-4e8c-996b-df2a0c7aab86",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC sell-off risk persists, altcoin momentum lacking",
-    "summary": "Bitcoin remains in a sell-off risk zone, while the altcoin market has entered a phase of suppressed momentum, according to an analysis by Altcoin Vector, Swissblock's altcoin-focused X account. The firm noted that both upward and downward momentum indicators are currently low. While there is no strong correction pressure across the market, there is also a lack of new catalysts for a rally. In such phases, altcoins often trade sideways, exhibit increased volatility, or continue a gradual decline. However, the analysis pointed out that historically, a period of suppressed momentum is often followed by a strong upward surge. This rebound typically occurs after Bitcoin's risk index exits the sell-off zone and selling pressure subsides. Until then, the upward momentum for altcoins is likely to remain limited.",
-    "url": "https://t.me/CoinnessGL#901f3be3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-19T01:46:24+00:00"
-  },
-  {
-    "id": "d51bdc10-a2b7-413d-8352-35e074050bf1",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Global trust in the news media just hit an all-time low of 37%.",
-    "summary": "For the first time, more people get their news from social platforms than any traditional outlet | Per Reuters Institute Digital News Report 2026Twitter",
-    "url": "https://t.me/SolidIntelX#5f8367bd",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-19T01:29:00+00:00"
-  },
-  {
-    "id": "88acb073-504b-4bc9-8acb-d2c74d65dd3f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Dumocrats are better at one thing than the Republicans — CHEATING.\n2. MAKE AMERICA GREAT AGAIN!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39356",
-    "author": "Trump Truth",
-    "created_at": "2026-06-19T01:26:55.000Z"
-  },
-  {
-    "id": "60159348-fae8-43b2-bb57-7c1f2d24d4e2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Leaders Signal Major Crypto Moment as Swell Hits 10-Year Milestone",
-    "summary": "1. Ripple Swell 2026 is drawing executive focus as the company prepares its largest conference around institutional crypto adoption and XRP Ledger growth.\n2. The New York event will combine Swell with XRPL Apex for the first time, bringing more than 1,500 expected attendees across finance, blockchain, and digital assets.\n3. Swell’s 10th Year Draws Executive Focus on […]",
-    "url": "https://news.bitcoin.com/ripple-leaders-signal-major-crypto-moment-as-swell-hits-10-year-milestone/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-19T01:25:28.000Z"
-  },
-  {
-    "id": "113d13cc-609d-4d1b-bc25-ae8c63073405",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.183",
-    "summary": "1. ## What's changed\n\n- Improved auto mode safety: destructive git commands (`git reset --hard`, `git checkout -- .`, `git clean -fd`, `git stash drop`) are now blocked when you didn't ask to discard local work, `git commit --amend` is blocked when the commit wasn't made by the agent this session, and `terraform destroy`/`pulumi destroy`/`cdk destroy` are blocked unless you asked for the specific stack\n- Added a warning when the requested model is deprecated or automatically updated to a newer model, shown on stderr in print mode (`-p`) and now also covering models set in agent frontmatter\n- Added `attribution.sessionUrl` setting to omit the claude.ai session link from commits and PRs in web and Remote Control sessions\n- Added `/config --help` to list all available shorthand keys for `/config key=value`\n- Changed `/config` toggle behavior: Enter and Space both change the selected setting, and Esc now saves and closes instead of reverting\n- Removed the startup \"setup issues\" line under the logo — run `/doctor` to see configuration issues or use `--debug`\n- Fixed `thinking.disabled.display: Extra inputs are not permitted` 400 errors on subagent spawns and session-title generation for affected configurations\n- Fixed WebSearch returning empty results in subagents\n- Fixed the terminal cursor being stranded above the prompt after navigating history in vim mode with the native cursor enabled\n- Fixed fullscreen TUI corruption (statusline mid-screen, duplicated spinner rows, merged text) in Windows Terminal under heavy nested-subagent load\n- Fixed turns silently completing with no visible output when the model returned only a thinking block; Claude now re-prompts once\n- Fixed user-level skills appearing multiple times in slash-command autocomplete when multiple plugins are enabled\n- Fixed MCP servers requiring authentication exposing auth-stub tools to the model in headless/SDK mode\n- Fixed tmux teammate panes failing to launch when the shell has slow rc-file initialization, and keystrokes typed during agent spawn leaking into the new tmux pane instead of the leader prompt\n- Fixed background tasks started by a teammate being killed when the teammate finishes a turn\n- Fixed scheduled task and webhook trigger deliveries being treated as keyboard input; they now classify as task notifications and can no longer approve a pending action or set the session title in auto mode\n- Fixed focus mode showing \"Ran N PostToolUse hooks\" timing lines under each response",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-19T01:20:50Z"
-  },
-  {
-    "id": "f2eedce2-8d54-4de5-b03f-fcd1676c946f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Kentucky is suing Kalshi and Polymarket, accusing them of operating \"illegal sportsbooks\" in the state without a gaming license.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f3bd3d42",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-19T01:05:06+00:00"
-  },
-  {
-    "id": "ec6026bf-556c-4ea2-a0f6-935c23e131b7",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
-    "summary": "1. Telegram argues India should block specific content, not an entire platform used by millions.",
-    "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-06-19T01:01:00.000Z"
   }
 ]
