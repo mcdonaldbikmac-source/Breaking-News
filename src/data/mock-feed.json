@@ -1,6 +1,16 @@
 [
   {
-    "id": "867aa8b0-0c9f-429c-af8c-3caae8f1ab67",
+    "id": "96bf95b1-ee18-4991-963c-5c33becdf9a1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin traders load up on bearish bets all the way down to $52,000 ",
+    "summary": "1. Bitcoin traders are scrambling to buy options bets that would pay off if the selloff deepens.",
+    "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-19T05:02:01.000Z"
+  },
+  {
+    "id": "e8e013a4-cf89-4cc7-995b-dac5197a8318",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "US Dollar Index surpasses 101, hitting highest level since May 2025",
@@ -30,7 +40,7 @@
     "created_at": "2026-06-19T04:40:28.000Z"
   },
   {
-    "id": "f98f6ad1-b27c-4b67-b16d-0663cd8bd62d",
+    "id": "12f831c0-384f-41e3-b2af-004a209b9745",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Anonymous whale deposits 2,500 BTC to OKX",
@@ -60,7 +70,7 @@
     "created_at": "2026-06-19T04:15:32.000Z"
   },
   {
-    "id": "079d1dbf-9a16-47e0-a14e-859de8cbbc16",
+    "id": "ce65ba85-6d16-4d78-8e64-b431898396e9",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Changpeng Zhao: Agentic AI will use crypto for payments",
@@ -110,7 +120,7 @@
     "created_at": "2026-06-19T03:20:52.000Z"
   },
   {
-    "id": "00d33795-a246-4524-8cc8-720706ee443a",
+    "id": "db3be1ed-6077-4548-91bc-3e8650859559",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 US Department of War requests $80,000,000,000 to cover Iran war and other costs.@WatcherGuru",
@@ -140,7 +150,7 @@
     "created_at": "2026-06-19T02:33:11.000Z"
   },
   {
-    "id": "04851c01-17d8-4c50-b01d-16784884b720",
+    "id": "f5230e89-e90b-4e76-9906-0ab93a395325",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "⚠️ Microsoft warns of a new crypto-stealing malware active since February which swaps wallet addresses copied to users clipboard with the attacker’s, steals seed phrases, and uses Tor to stay hidden.",
@@ -200,7 +210,7 @@
     "created_at": "2026-06-19T01:46:24+00:00"
   },
   {
-    "id": "dfbea097-1ae7-4080-95fb-5b30d54b4993",
+    "id": "ed62d8f4-3adf-45f7-8ef1-5c45c45e15d7",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Global trust in the news media just hit an all-time low of 37%.",
@@ -240,7 +250,7 @@
     "created_at": "2026-06-19T01:20:50Z"
   },
   {
-    "id": "798aecca-1c44-42fd-a5f3-29e15b1f948e",
+    "id": "8f4ef974-756a-45ff-bfc9-73cee0f14701",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Kentucky is suing Kalshi and Polymarket, accusing them of operating \"illegal sportsbooks\" in the state without a gaming license.",
@@ -280,7 +290,7 @@
     "created_at": "2026-06-19T00:45:22.000Z"
   },
   {
-    "id": "306f45f2-5797-481e-8d1d-b81cf78772d7",
+    "id": "f46a697c-e8d1-42ca-abd3-1055b5d5f140",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "The AI “tokenmaxxing” era is ending with companies including Uber, Meta and Amazon are capping employee AI usage as costs spiral | Uber set a $1,500/month per-employee limitTwitter",
@@ -300,7 +310,7 @@
     "created_at": "2026-06-19T00:26:39.000Z"
   },
   {
-    "id": "90986d49-2766-49fa-9450-0c259879c525",
+    "id": "677ce825-0815-4642-b3ea-ce4e285f5229",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ CME Group is suing the CFTC over the regulator's decision to approve perpetual futures, CEO Terry Duffy told CNBC.",
@@ -320,7 +330,7 @@
     "created_at": "2026-06-19T00:00:40Z"
   },
   {
-    "id": "f52d0ada-7153-485b-9dd8-248435029c43",
+    "id": "95a5d0cd-499e-4edf-9e45-ded638c615dd",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 A federal judge ruled Polymarket's sports prediction markets are not CFTC-regulated swaps, challenging the ongoing effort to federalize prediction market oversight.",
@@ -338,15 +348,5 @@
     "url": "https://t.me/SolidIntelX#0cd8d8e8",
     "author": "@SolidIntelX",
     "created_at": "2026-06-18T23:30:01+00:00"
-  },
-  {
-    "id": "fa7bbd4b-435c-441b-a5b1-cb0e3b9026ef",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections.\n2. Additionally, I won more votes than any Candidate in the State’s History!\n3. I LOVE Oklahoma, and Mike has my COMPLETE and TOTAL Endorsement for Governor!",
-    "url": "https://trumpstruth.org/statuses/39355",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T23:01:15.000Z"
   }
 ]
