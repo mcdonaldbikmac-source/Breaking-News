@@ -1,5 +1,205 @@
 [
   {
+    "id": "b2f83529-a6b9-4e8f-b65d-157d9623b0d3",
+    "source": "Politico",
+    "type": "rss",
+    "title": "In Canberra, disappointment",
+    "summary": "1. The Aussies’ lackluster performance left the home crowd subdued, but it still booed RFK Jr.",
+    "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/in-canberra-disappointment-00969054",
+    "author": "By Ryan Heath",
+    "created_at": "2026-06-19T22:00:00.000Z"
+  },
+  {
+    "id": "a1907915-0a0e-41d4-a414-ba90bee518c7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+    "summary": "1. Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season.\n2. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers.\n3. Go, which went public Tuesday, plans to use the ¥88.6 billion […]",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "author": "Kate Park",
+    "created_at": "2026-06-19T21:45:00.000Z"
+  },
+  {
+    "id": "a1d37bee-5984-473a-82d6-1bea802bda2c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The UK’s World Cup diplomatic mullet",
+    "summary": "1. British fans are soaking in the World Cup at Duke’s Grocery in Washington, D.C.",
+    "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/uk-scotland-england-party-fifa-world-cup-2026-00969052",
+    "author": "By Gregory Svirnovskiy",
+    "created_at": "2026-06-19T21:44:56.000Z"
+  },
+  {
+    "id": "d873b7b8-6fa6-41ad-998b-4b6a11544309",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Campaigns get in the game",
+    "summary": "1. Susan Collins and James Talarico ads are looking to capture a U.S.-Australia audience.",
+    "url": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/campaigns-get-in-the-game-00969030",
+    "author": "By Adam Wren",
+    "created_at": "2026-06-19T21:30:00.000Z"
+  },
+  {
+    "id": "0ac9f20d-5367-4557-94cc-d09f62cd6993",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Charles Schwab is working with Cboe Global Markets to roll out all-or-nothing options tied to the S&P 500, marking its first move into prediction markets, per WSJ.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9e01732b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T21:20:06+00:00"
+  },
+  {
+    "id": "1816c395-0f9c-4e49-917b-3b3970e5e663",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I love the Wonderful State of South Carolina for every reason in the book, including the fact that it is “loaded up” with truly GREAT people and Political Leaders.\n2. There are two Highly Respected Candidates running to be your next Governor in the June 23rd Republican Runoff Election, your current Lieutenant Governor, Pam Evette, and your current Attorney General, Alan Wilson.\n3. Both have had amazing careers, and have been with me from the beginning.",
+    "url": "https://trumpstruth.org/statuses/39383",
+    "author": "Trump Truth",
+    "created_at": "2026-06-19T21:15:16.000Z"
+  },
+  {
+    "id": "686f7a44-87a1-4181-99e4-769d1a4a4ba3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
+    "summary": "1. The offering from the financial services company will reportedly only include yes-or-no bets on whether the S&P 500 closes above or below a target price.",
+    "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Turner Wright",
+    "created_at": "2026-06-19T21:11:07.000Z"
+  },
+  {
+    "id": "7655cf73-0f53-4a35-9be6-9d98c0fc3a8b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Fidelity Debuts GENIUS Act Aligned Stablecoin Reserve Fund With 0.25% Fee",
+    "summary": "1. Fidelity has launched a government money market fund designed for stablecoin issuers managing reserve assets under the GENIUS Act.\n2. The product joins a growing wave of institutional funds built for the fast-expanding stablecoin market.\n3. Fidelity Expands Into Stablecoin Infrastructure With New Government Money Fund Fidelity Investments has launched a government money market fund aimed at […]",
+    "url": "https://news.bitcoin.com/fidelity-debuts-genius-act-aligned-stablecoin-reserve-fund-with-0-25-fee/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-19T21:10:54.000Z"
+  },
+  {
+    "id": "a66b0116-f9f6-4736-bea9-69ae946c683e",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+    "summary": "1. What’s the most cliche possible gift you can give a relative?\n2. A digital photo frame, displaying a rotating slideshow of family photos.\n3. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn’t even look digital.",
+    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-06-19T21:00:34.000Z"
+  },
+  {
+    "id": "45b08c75-52a1-429f-8bcf-b8018cc4c56f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Cointelegraph",
+    "created_at": "2026-06-19T21:00:00.000Z"
+  },
+  {
+    "id": "0d326a6d-61d4-4bf4-8cdd-2c6a8857002b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
+    "summary": "1. Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.",
+    "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Marcel Pechman",
+    "created_at": "2026-06-19T20:57:49.000Z"
+  },
+  {
+    "id": "e135d40b-5bea-4650-b1de-074300c17893",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Prediction market platform Kalshi is holding early IPO talks with investment banks after annualized revenue topped $2B, roughly triple its November figure, per The Information.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1849d60b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T20:55:06+00:00"
+  },
+  {
+    "id": "4fa04afc-0b67-4fb6-914a-e5d15d35d950",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US intelligence agencies have warned the Trump administration that Netanyahu is likely to take steps undermining Trump’s effort to reach a lasting peace deal with Iran, driven by Israeli pressure to keep fighting in Lebanon | per WaPoTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#67d4598f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-19T20:35:45+00:00"
+  },
+  {
+    "id": "39382358-80ba-4359-a516-c817d6f9fc98",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "WhiteBIT obtains MiCA license in Austria",
+    "summary": "Cryptocurrency exchange WhiteBIT has obtained a Markets in Crypto-Assets (MiCA) license in Austria ahead of the end of a temporary grace period on July 1, Cointelegraph reported. This move allows the exchange to launch its dedicated European platform, whitebit.eu.",
+    "url": "https://t.me/CoinnessGL#2ab87806",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T20:21:18+00:00"
+  },
+  {
+    "id": "14a4fa3c-66a9-4dcb-b6a2-82bbefff00fb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US CFTC chair considering rules for on-chain platforms like Hyperliquid",
+    "summary": "U.S. Commodity Futures Trading Commission (CFTC) Chairman Mike Selig said the agency is considering regulatory measures that would allow on-chain perpetual derivatives platforms, such as Hyperliquid, to operate in the United States. According to Wu Blockchain, Selig said regulators should look to the future rather than rigidly applying outdated exchange rules from 1934. He added the CFTC is actively developing regulations tailored for on-chain products, including those with Auto-Deleveraging (ADL) mechanisms.",
+    "url": "https://t.me/CoinnessGL#c985f75f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T20:14:08+00:00"
+  },
+  {
+    "id": "ab2a8f52-9f65-4cab-98dd-ea303fe949d6",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Bitcoin’s deficit-hedge case is getting a new test as the Pentagon seeks $80B for the Iran conflict and other costs, adding to fiscal pressure already weighing on bond markets, analysts say.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7b39ad74",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T20:10:07+00:00"
+  },
+  {
+    "id": "e407cd96-755f-4b33-84df-83711edf6ff3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Kalshi’s Messi-Fronted World Cup Push Meets a Nine-Nation European Warning",
+    "summary": "1. Nine European gambling regulators have pledged coordinated action against unlicensed prediction markets during the World Cup, warning sports bodies against partnerships just as Kalshi signs Argentina’s football federation and fronts Lionel Messi.\n2. A Coordinated Line as the World Cup Drives Betting The regulators of Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal, Spain, and Switzerland […]",
+    "url": "https://news.bitcoin.com/kalshis-messi-fronted-world-cup-push-meets-a-nine-nation-european-warning/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-06-19T20:05:14.000Z"
+  },
+  {
+    "id": "29a43a6a-71dd-4787-89e6-45fe4bfe6196",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ",
+    "summary": "1. Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.",
+    "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-19T20:02:32.000Z"
+  },
+  {
+    "id": "7936002b-184f-486b-a69c-47adc73bd79b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Trump says Chinese President Xi will visit the US in SeptemberTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#d7747c20",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-19T20:00:05+00:00"
+  },
+  {
+    "id": "9725627b-4753-4d6e-adad-95c490f628ac",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Tom Lee Says 'Zero Chance' of Ethereum Funding Crisis as Insider Warns of $30M Gap",
+    "summary": "1. The chairman of BitMine, the largest corporate holder of Ether, brushed off a former Ethereum Foundation contributor's warning that core development could run short of money within nine months.",
+    "url": "https://thedefiant.io/news/blockchains/tom-lee-says-zero-chance-of-ethereum-funding-crisis-as-insider-warns-of-usd30m-gap",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-19T19:56:05.000Z"
+  },
+  {
     "id": "d9eec0e3-e9a4-4e06-8bdd-121f2798ecd4",
     "source": "Politico",
     "type": "rss",
@@ -60,7 +260,7 @@
     "created_at": "2026-06-19T18:55:28.000Z"
   },
   {
-    "id": "79eadd4f-1ff3-4822-aa9c-ac6d35d304ac",
+    "id": "09a5a24b-0f73-4f65-9697-4f32d4793816",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Axelar Network suffers $4.7M loss in bridge hack",
@@ -258,195 +458,5 @@
     "url": "https://news.bitcoin.com/us-department-of-war-80-billion-iran-bitcoin/",
     "author": "Shiraz Jagati",
     "created_at": "2026-06-19T16:23:34.000Z"
-  },
-  {
-    "id": "3709c0ed-7d45-4f17-8a12-c4b37e598ab6",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "summary": "1. Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.\n2. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
-    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "author": "Theresa Loconsolo",
-    "created_at": "2026-06-19T16:08:17.000Z"
-  },
-  {
-    "id": "cf3cf13f-6bd0-4880-a855-cb9ebf0f61a0",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Prediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion ",
-    "summary": "1. Bitcoin Magazine\n\nPrediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion \nPrediction market giant Kalshi is exploring a potential IPO for 2027 or 2028 after annualized revenue surpassed $2 billion.\n2. This post Prediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion  first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/prediction-market-kalshi-eyes-ipo",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-19T15:41:13.000Z"
-  },
-  {
-    "id": "43c4e607-bb6f-447f-8c4b-e3740e19d701",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "K3 Capital-linked wallet withdraws $16.9M in ETH from Binance",
-    "summary": "A wallet associated with K3 Capital withdrew 10,000 ETH, worth approximately $16.92 million, from Binance two hours ago. The same wallet also withdrew 7,930 ETH early yesterday morning.",
-    "url": "https://t.me/CoinnessGL#73ed202e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-19T15:28:12+00:00"
-  },
-  {
-    "id": "b64c6853-dd2a-4c4d-8517-92b640166564",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "summary": "1. Reliance is weaving AI into telecom services used by more than 500 million people.",
-    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-06-19T15:23:28.000Z"
-  },
-  {
-    "id": "61109a0e-07a0-4ecc-b950-3600cc6bfcc4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto M&A deals surpass $9B in 2026 despite market downturn",
-    "summary": "The total value of mergers and acquisitions in the global cryptocurrency industry has surpassed approximately 13 trillion won (about $9 billion) so far this year. This trend is driven by intensifying competition among large crypto firms and Wall Street financial companies to secure infrastructure and layer services. The key themes in these M&A cases are payments and infrastructure, highlighting a growing focus on functional financial rail services. Major M&A deals include:- Bullish → Equiniti: $4.2 billion- Mastercard → BVNK: $1.8 billion- Figure → Kiavi: $717 million- IREN → Mirantis: $625 million- Payward → Reap: $600 million- Payward → Bitnomial: $550 million- Robinhood → WonderFi: $180 million- Fireblocks → TRES: $130 million- Coincheck → 3iQ: $112 million- MoonPay → Dflow: $100 million- MoonPay → Sodot: $100 million- Mirae Asset → Korbit: $92 million- eToro → ZenGo: $70 million- AiFi → BlockStreet: $43 million",
-    "url": "https://t.me/CoinnessGL#71accaf8",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-19T15:22:45+00:00"
-  },
-  {
-    "id": "83e79d16-334f-4ede-9d22-4cb51f913a97",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Morgan Stanley Sets 0.14% Fee on Amended Ethereum and Solana ETFs Filing",
-    "summary": "1. Morgan Stanley has filed fresh amendments for its proposed ethereum and solana ETFs, revealing 0.14% sponsor fees for both funds.\n2. The filings also show plans to stake part of the assets through Figment, Galaxy, and Coinbase Canada.\n3. Morgan Stanley Expands Crypto ETF Push With Low-Cost Ethereum and Solana Funds Morgan Stanley is moving closer to […]",
-    "url": "https://news.bitcoin.com/morgan-stanley-sets-0-14-fee-on-amended-ethereum-and-solana-etfs-filing/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-19T15:18:30.000Z"
-  },
-  {
-    "id": "31b68ba6-0ae7-4229-becb-c355a9992cde",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I love and WON BIG in 2016, 2020, and 2024!\n2. Lindsey has been a wonderful friend, and has always been there when I needed him.\n3. As the Chair of the Senate Budget Committee, Lindsey is fighting tirelessly to Grow the Economy, Lower Taxes, Cut Regulations, and Eliminate Government Waste.",
-    "url": "https://trumpstruth.org/statuses/39381",
-    "author": "Trump Truth",
-    "created_at": "2026-06-19T15:10:41.000Z"
-  },
-  {
-    "id": "7d745ebe-283e-4789-b1a7-170cbe946f58",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 FBI Director Kash Patel says the FBI will find crypto scammers and bring them to justice.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#bb34358d",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-19T15:07:53+00:00"
-  },
-  {
-    "id": "4123bb3d-cd56-44cb-b750-331bc17c026e",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Amazon Won't Release Sam Altman Film 'Artificial' Following $50 Billion OpenAI Investment",
-    "summary": "1. Amazon is pulling out of \"Artificial,\" a film about Sam Altman's brief ouster from OpenAI, not long after investing $50 billion in the firm.",
-    "url": "https://decrypt.co/371682/amazon-wont-release-sam-altman-film-50-billion-openai-investment",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-19T15:06:59.000Z"
-  },
-  {
-    "id": "87a14330-d2db-4145-863d-f9b1fd4ee6fa",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Andrew Tate loses nearly $86,000 longing and shorting Bitcoin",
-    "summary": "1. Andrew Tate’s Hyperliquid wallet shows over $803,800 in all-time perps losses after repeated crypto WLFI liquidations.",
-    "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Yashu Gola",
-    "created_at": "2026-06-19T15:05:10.000Z"
-  },
-  {
-    "id": "80c24628-672a-4d1c-8295-6477652c2e91",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Aave survived $8.45B in withdrawals, but risk questions remain",
-    "summary": "1. Aave handled $8.45 billion in withdrawals without freezing funds, but the episode raised fresh questions about hidden risks in DeFi lending.",
-    "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Dilip Kumar Patairya",
-    "created_at": "2026-06-19T15:00:00.000Z"
-  },
-  {
-    "id": "a1e46c01-ef1e-4a03-9305-d83717b97ccb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Anime Girls Could Steal Your Crypto as Wallpaper Malware Targets Steam Gamers",
-    "summary": "1. Researchers found malicious Wallpaper Engine downloads on Steam Workshop distributing infostealers, backdoors, and account-hijacking malware.",
-    "url": "https://decrypt.co/371632/anime-girls-steal-crypto-wallpaper-malware-targets-steam-gamers",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-19T14:39:56.000Z"
-  },
-  {
-    "id": "4f001af9-af45-4fdd-ad66-3de648470be8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ A new House bill would ban US lawmakers and their families from betting on prediction markets tied to government actions or political outcomes.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#1dc8180b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-19T14:35:06+00:00"
-  },
-  {
-    "id": "86eb13c0-3732-422d-86bc-77b3255b5861",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale sells all BTC bought over 7 months for $26.9M loss",
-    "summary": "According to on-chain analyst EmberCN, an anonymous whale investor has sold all the BTC acquired over the past seven months, realizing a loss of $26.9 million. The whale had purchased the BTC on Binance and OKX between last November and this February at an average price of $87,181. The investor deposited the entire holding into Binance today, finalizing the loss.",
-    "url": "https://t.me/CoinnessGL#abb98514",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-19T14:34:47+00:00"
-  },
-  {
-    "id": "a59ce088-df64-48c0-8896-e7922983cd52",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%",
-    "summary": "1. Bitcoin price action avoided volatility but failed to bounce from local lows after a hawkish Fed meeting and posturing over Strait of Hormuz control from Iran.",
-    "url": "https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "William Suberg",
-    "created_at": "2026-06-19T14:31:40.000Z"
-  },
-  {
-    "id": "d3c39e95-4635-43fe-ba09-47f5ed9a3dec",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Kevin Warsh Still Needs to Manage the Dollar, While Bitcoin Runs Automatically",
-    "summary": "1. Bitcoin Magazine\n\nKevin Warsh Still Needs to Manage the Dollar, While Bitcoin Runs Automatically\nWarsh’s hawkish first FOMC shows why the dollar still needs constant management — something Bitcoin’s fixed supply was built to avoid.\n2. This post Kevin Warsh Still Needs to Manage the Dollar, While Bitcoin Runs Automatically first appeared on Bitcoin Magazine and is written by Nick Ward.",
-    "url": "https://bitcoinmagazine.com/news/warsh-fed-exposes-bitcoin",
-    "author": "Nick Ward",
-    "created_at": "2026-06-19T14:21:52.000Z"
-  },
-  {
-    "id": "658ac319-210e-4e1a-9c9a-c2f84308bf1b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpWe didn’t meet out of desperation, Iran did.\n2. They are FINISHED!\n3. We’ll play out the 60 days.",
-    "url": "https://trumpstruth.org/statuses/39377",
-    "author": "Trump Truth",
-    "created_at": "2026-06-19T14:19:40.000Z"
-  },
-  {
-    "id": "6bd43a4d-7ca5-45be-851d-bdb9b77ef64c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin ETFs Lose $91 Million as Morgan Stanley’s MSBT Adds Fresh Capital",
-    "summary": "1. Crypto ETF flows remained subdued on Thursday, June 18, as bitcoin and ether funds posted another day of outflows ahead of the Juneteenth market closure.\n2. Solana and XRP ETFs attracted modest inflows, while HYPE products saw no trading activity.\n3. Bitwise Leads Solana and XRP Inflows as Bitcoin ETFs Extend Losses The market limped into the […]",
-    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-91-million-as-morgan-stanleys-msbt-adds-fresh-capital/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-19T14:04:17.000Z"
-  },
-  {
-    "id": "f4268891-58d2-43a9-9bbf-81198b8097e8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ 21Shares says Bitcoin could hit $100K by the end of Q3 if it breaks above $70K resistance, viewing BTC’s post-FOMC pullback as consolidation, not a trend change.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4c3d9f81",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-19T14:00:06+00:00"
   }
 ]
