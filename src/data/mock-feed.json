@@ -1,5 +1,205 @@
 [
   {
+    "id": "8bc7d5ea-83ce-461c-b27a-70ddaaba9118",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to list 9 new assets for BTC, USDT trading",
+    "summary": "South Korean crypto exchange Upbit announced that it will list PEAQ, LIT, KMNO, MORPHO, GRAM, LDO, PAXG, OSMO, and AMP for trading against BTC and USDT at 6:00 a.m. UTC on June 19.",
+    "url": "https://t.me/CoinnessGL#76003333",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T02:10:12+00:00"
+  },
+  {
+    "id": "a7f649b6-b0b6-4290-8bf0-bb3ee13a1f28",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Trades 15% Below Critical On-Chain Level After June Selloff",
+    "summary": "1. Bitcoin rebounded from a steep June decline, but Glassnode data shows the asset remains below key recovery levels.\n2. Recent buyers are still carrying unrealized losses, while capital flows have yet to turn positive.\n3. Bitcoin’s Rebound Leaves Recent Buyers Under Pressure Bitcoin has stabilized after a sharp selloff that coincided with rising geopolitical tensions and a […]",
+    "url": "https://news.bitcoin.com/bitcoin-trades-15-below-critical-on-chain-level-after-june-selloff/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-19T02:05:20.000Z"
+  },
+  {
+    "id": "7cae34ed-c6b8-465a-b629-115f22c44479",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
+    "summary": "1. The fund invests exclusively in eligible reserve assets permitted for stablecoin issuers under the GENIUS Act.",
+    "url": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-19T01:58:25.000Z"
+  },
+  {
+    "id": "e6f2f0de-12e5-4af6-bfbe-ad1c5a15f595",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Kalshi surpasses $2B in annual revenue, discusses IPO",
+    "summary": "Prediction market Kalshi has surpassed $2 billion in annual revenue and has begun discussions with several investment banks about a potential IPO, The Information reported. The revenue growth is attributed to increased betting on the outcomes of events like U.S. National Basketball Association (NBA) games and the World Cup. Kalshi is reportedly in informal talks with multiple financial institutions for IPO advisory services and is requiring any investment bank wishing to join its advisory team to integrate with the Kalshi platform's system.",
+    "url": "https://t.me/CoinnessGL#b0c889f0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T01:46:25+00:00"
+  },
+  {
+    "id": "0a973087-17cb-4e8c-996b-df2a0c7aab86",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC sell-off risk persists, altcoin momentum lacking",
+    "summary": "Bitcoin remains in a sell-off risk zone, while the altcoin market has entered a phase of suppressed momentum, according to an analysis by Altcoin Vector, Swissblock's altcoin-focused X account. The firm noted that both upward and downward momentum indicators are currently low. While there is no strong correction pressure across the market, there is also a lack of new catalysts for a rally. In such phases, altcoins often trade sideways, exhibit increased volatility, or continue a gradual decline. However, the analysis pointed out that historically, a period of suppressed momentum is often followed by a strong upward surge. This rebound typically occurs after Bitcoin's risk index exits the sell-off zone and selling pressure subsides. Until then, the upward momentum for altcoins is likely to remain limited.",
+    "url": "https://t.me/CoinnessGL#901f3be3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T01:46:24+00:00"
+  },
+  {
+    "id": "06677a7b-f520-47ca-816b-894fef6a3d14",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Global trust in the news media just hit an all-time low of 37%.",
+    "summary": "For the first time, more people get their news from social platforms than any traditional outlet | Per Reuters Institute Digital News Report 2026Twitter",
+    "url": "https://t.me/SolidIntelX#5f8367bd",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-19T01:29:00+00:00"
+  },
+  {
+    "id": "88acb073-504b-4bc9-8acb-d2c74d65dd3f",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Dumocrats are better at one thing than the Republicans — CHEATING.\n2. MAKE AMERICA GREAT AGAIN!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39356",
+    "author": "Trump Truth",
+    "created_at": "2026-06-19T01:26:55.000Z"
+  },
+  {
+    "id": "60159348-fae8-43b2-bb57-7c1f2d24d4e2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple Leaders Signal Major Crypto Moment as Swell Hits 10-Year Milestone",
+    "summary": "1. Ripple Swell 2026 is drawing executive focus as the company prepares its largest conference around institutional crypto adoption and XRP Ledger growth.\n2. The New York event will combine Swell with XRPL Apex for the first time, bringing more than 1,500 expected attendees across finance, blockchain, and digital assets.\n3. Swell’s 10th Year Draws Executive Focus on […]",
+    "url": "https://news.bitcoin.com/ripple-leaders-signal-major-crypto-moment-as-swell-hits-10-year-milestone/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-19T01:25:28.000Z"
+  },
+  {
+    "id": "113d13cc-609d-4d1b-bc25-ae8c63073405",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.183",
+    "summary": "1. ## What's changed\n\n- Improved auto mode safety: destructive git commands (`git reset --hard`, `git checkout -- .`, `git clean -fd`, `git stash drop`) are now blocked when you didn't ask to discard local work, `git commit --amend` is blocked when the commit wasn't made by the agent this session, and `terraform destroy`/`pulumi destroy`/`cdk destroy` are blocked unless you asked for the specific stack\n- Added a warning when the requested model is deprecated or automatically updated to a newer model, shown on stderr in print mode (`-p`) and now also covering models set in agent frontmatter\n- Added `attribution.sessionUrl` setting to omit the claude.ai session link from commits and PRs in web and Remote Control sessions\n- Added `/config --help` to list all available shorthand keys for `/config key=value`\n- Changed `/config` toggle behavior: Enter and Space both change the selected setting, and Esc now saves and closes instead of reverting\n- Removed the startup \"setup issues\" line under the logo — run `/doctor` to see configuration issues or use `--debug`\n- Fixed `thinking.disabled.display: Extra inputs are not permitted` 400 errors on subagent spawns and session-title generation for affected configurations\n- Fixed WebSearch returning empty results in subagents\n- Fixed the terminal cursor being stranded above the prompt after navigating history in vim mode with the native cursor enabled\n- Fixed fullscreen TUI corruption (statusline mid-screen, duplicated spinner rows, merged text) in Windows Terminal under heavy nested-subagent load\n- Fixed turns silently completing with no visible output when the model returned only a thinking block; Claude now re-prompts once\n- Fixed user-level skills appearing multiple times in slash-command autocomplete when multiple plugins are enabled\n- Fixed MCP servers requiring authentication exposing auth-stub tools to the model in headless/SDK mode\n- Fixed tmux teammate panes failing to launch when the shell has slow rc-file initialization, and keystrokes typed during agent spawn leaking into the new tmux pane instead of the leader prompt\n- Fixed background tasks started by a teammate being killed when the teammate finishes a turn\n- Fixed scheduled task and webhook trigger deliveries being treated as keyboard input; they now classify as task notifications and can no longer approve a pending action or set the session title in auto mode\n- Fixed focus mode showing \"Ran N PostToolUse hooks\" timing lines under each response",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-19T01:20:50Z"
+  },
+  {
+    "id": "ebcd61c7-1957-4d80-bccc-f01a08c3c537",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Kentucky is suing Kalshi and Polymarket, accusing them of operating \"illegal sportsbooks\" in the state without a gaming license.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f3bd3d42",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T01:05:06+00:00"
+  },
+  {
+    "id": "ec6026bf-556c-4ea2-a0f6-935c23e131b7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+    "summary": "1. Telegram argues India should block specific content, not an entire platform used by millions.",
+    "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-06-19T01:01:00.000Z"
+  },
+  {
+    "id": "da959db9-311d-4f17-ba31-46cbcdcdb334",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "summary": "1. DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "author": "Marina Temkin",
+    "created_at": "2026-06-19T00:51:11.000Z"
+  },
+  {
+    "id": "94cf1c31-368f-40b7-a211-53c33d4cdc16",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase CEO ‘as Bullish as Ever’ on Bitcoin, Expects Much Higher Prices by 2030",
+    "summary": "1. Coinbase CEO Brian Armstrong reiterated his long-term confidence in bitcoin, saying he remains long the asset and expects much higher prices by 2030.\n2. In comments shared alongside a video, Armstrong described bitcoin as “the new digital gold” and pointed to historical market cycles as part of his outlook.\n3. Brian Armstrong Reaffirms Bullish Bitcoin Outlook and […]",
+    "url": "https://news.bitcoin.com/coinbase-ceo-as-bullish-as-ever-on-bitcoin-expects-much-higher-prices-by-2030/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-19T00:45:22.000Z"
+  },
+  {
+    "id": "3b9d6b1f-167c-4dc8-8497-728001401840",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "The AI “tokenmaxxing” era is ending with companies including Uber, Meta and Amazon are capping employee AI usage as costs spiral | Uber set a $1,500/month per-employee limitTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#7e81ee5a",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-19T00:29:00+00:00"
+  },
+  {
+    "id": "7f2c954b-c1c5-4073-94ee-faf035516679",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ether analysts predict another ‘selling wave’ as ETH struggles to overcome $1.7K",
+    "summary": "1. Exchange inflows, slumping demand and a 31% drop in Ether futures open interest may signal that another wave of selling could hit ETH.",
+    "url": "https://cointelegraph.com/markets/ether-below-17k-gains-interest-as-analysts-warn-of-another-selling-wave?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Biraajmaan Tamuly",
+    "created_at": "2026-06-19T00:26:39.000Z"
+  },
+  {
+    "id": "806f7549-2604-478b-9c31-d460a8903c2b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ CME Group is suing the CFTC over the regulator's decision to approve perpetual futures, CEO Terry Duffy told CNBC.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f1fd7955",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T00:20:06+00:00"
+  },
+  {
+    "id": "13cb815a-3561-46da-a278-a1b75fc5259d",
+    "source": "GitHub",
+    "type": "github",
+    "title": "base-org/node: v1.1.1",
+    "summary": "1. ## What Changed\r\n\r\n> [!IMPORTANT]\r\n> **Base Mainnet**: Operators must upgrade to this release by June 25th at 18:00:00 UTC for the Beryl hardfork.\n2. See [here]( for more information.\n3. > **Base Sepolia**: Recommended upgrade to improve Flashblocks stability\r\n\r\n### base-reth-node\r\n- Beryl Support for Mainnet\r\n- Fix Flashblock processing where transactions relying on the BLOCKHASH could have different execution outcomes during Flashblocks and canonical processing.",
+    "url": "https://github.com/base/node/releases/tag/v1.1.1",
+    "author": "danyalprout",
+    "created_at": "2026-06-19T00:00:40Z"
+  },
+  {
+    "id": "885489c9-6437-453a-b0cb-a393dcd5337a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 A federal judge ruled Polymarket's sports prediction markets are not CFTC-regulated swaps, challenging the ongoing effort to federalize prediction market oversight.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8df3bffb",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-18T23:30:06+00:00"
+  },
+  {
+    "id": "489d9629-9461-48a9-b9ae-89bfd2fbade6",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Trump could delay weapons shipments or move toward a de facto arms embargo on Israel if Netanyahu refuses to withdraw forces from southern Lebanon, Israeli officials saying | per MaarivTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#0cd8d8e8",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-18T23:30:01+00:00"
+  },
+  {
+    "id": "fa7bbd4b-435c-441b-a5b1-cb0e3b9026ef",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections.\n2. Additionally, I won more votes than any Candidate in the State’s History!\n3. I LOVE Oklahoma, and Mike has my COMPLETE and TOTAL Endorsement for Governor!",
+    "url": "https://trumpstruth.org/statuses/39355",
+    "author": "Trump Truth",
+    "created_at": "2026-06-18T23:01:15.000Z"
+  },
+  {
     "id": "e56c93fa-baab-498a-964d-67ab65e3090c",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -218,325 +418,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#64e18291",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-18T20:25:06+00:00"
-  },
-  {
-    "id": "3ca277e2-be9c-427d-aac6-b070e24d1f9c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Illinois passes law to tax crypto transfers regardless of profit or loss, starting 2027.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#23da5cc0",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-18T20:22:29+00:00"
-  },
-  {
-    "id": "582dcfbe-01f4-401f-aeed-6e793a4709ae",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Alchemy and Visa Give AI Agents Payment Power With New Agentcard Platform",
-    "summary": "1. Alchemy has launched Agentcard with Visa Intelligent Commerce, giving AI agents a way to make purchases using trusted payment and identity tools.\n2. The product adds spend controls, dedicated credentials, and support for both card-based and emerging agent payment rails.\n3. AI Agents Move Beyond Chat Into Real-World Spending Alchemy is moving into agentic commerce with the […]",
-    "url": "https://news.bitcoin.com/alchemy-and-visa-give-ai-agents-payment-power-with-new-agentcard-platform/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-18T20:18:38.000Z"
-  },
-  {
-    "id": "12d35553-268a-4ecc-8434-1abb0dbd6f68",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Ethereum Foundation Exodus Continues as Co-Director Hsiao-Wei Wang Departs",
-    "summary": "1. Another key figure at the Ethereum Foundation is stepping away from her post, continuing a recent leadership exodus.",
-    "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-18T20:16:42.000Z"
-  },
-  {
-    "id": "a3af9eb7-eab1-4ef1-8935-098b5a118e16",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Wealthsimple launches Kalshi-powered prediction market app for Canadian investors ",
-    "summary": "1. The offering follows regulatory approval earlier this year and comes as prediction markets face legal challenges from regulators, exchanges and policymakers around the world.",
-    "url": "https://cointelegraph.com/news/wealthsimple-launches-kalshi-powered-prediction-market-app-for-canadian-investors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Nate Kostar",
-    "created_at": "2026-06-18T20:07:27.000Z"
-  },
-  {
-    "id": "4b2a0503-b31d-48e6-aa31-12c2a08d1625",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Sen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report",
-    "summary": "1. The American Perpetuals Exchange Corporation raised $30 million at a $300 million valuation, Fortune reported on Thursday.",
-    "url": "https://www.theblock.co/post/405334/sen-gillibrand-son-building-perps-exchange-dual-cftc-sec-oversight?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-18T20:06:11.000Z"
-  },
-  {
-    "id": "95877fa5-ba73-4117-bbbf-a941a85f36ea",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US lawmaker introduces bill to ban Congress from betting on politics",
-    "summary": "U.S. Representative Bryan Steil has introduced a bill that would prohibit members of Congress and their families from profiting from prediction markets on political outcomes. According to The Block, Steil explained that the American people have a right to know their representatives are not using inside information for unfair gain. He added that the legislation is crucial for restoring trust in elected officials, stating that lawmakers should be making policy, not wasting time predicting its results.",
-    "url": "https://t.me/CoinnessGL#55d6d77d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T20:04:30+00:00"
-  },
-  {
-    "id": "ac1f39cb-fda5-405b-9b67-9599973b57f8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close higher",
-    "summary": "The three major U.S. stock indices closed higher today.- S&P 500: +1.09%- Nasdaq: +1.91%- Dow Jones: +0.14%",
-    "url": "https://t.me/CoinnessGL#f4d730ab",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T20:01:53+00:00"
-  },
-  {
-    "id": "d42d33a3-0ef0-48e4-b603-623e4ed4c1a8",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
-    "summary": "1. OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-06-18T19:59:22.000Z"
-  },
-  {
-    "id": "6ce5883c-5602-4a0d-9d47-723dbe5dd124",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Rep. Steil introduces bill to block lawmakers from placing prediction markets bets on public policy issues",
-    "summary": "1. Bryan Steil introduced legislation aimed at preventing lawmakers and their families from profiting from bets on political outcomes.",
-    "url": "https://www.theblock.co/post/405331/rep-steil-introduces-bill-to-block-lawmakers-from-placing-prediction-markets-bets-on-public-policy-issues?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-18T19:55:02.000Z"
-  },
-  {
-    "id": "9e04f266-b62f-4833-bf7c-f852fe6b2478",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF",
-    "summary": "1. Bitcoin Magazine\n\nBlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF\nBlackRock's new BITA ETF uses a covered-call strategy on its spot Bitcoin ETF holdings to generate monthly income.\n2. This post BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/blackrock-executive-calls-bitcoin-too-big",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-18T19:53:25.000Z"
-  },
-  {
-    "id": "71e68b9b-fd2f-4e2f-9e01-389c03d93267",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
-    "summary": "1. TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch.\n2. Some of them commanded valuations of over $175 million, VCs said.",
-    "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-    "author": "Marina Temkin, Dominic-Madori Davis",
-    "created_at": "2026-06-18T19:52:19.000Z"
-  },
-  {
-    "id": "204379a1-fe0b-4839-ad58-26722492074a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ethereum Foundation leadership exodus continues with director’s departure",
-    "summary": "1. Hsiao-Wei Wang’s departure adds to a wave of Ethereum Foundation exits, fueling debate over governance, decentralization and the network’s future.",
-    "url": "https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Sam Bourgi",
-    "created_at": "2026-06-18T19:51:13.000Z"
-  },
-  {
-    "id": "2274693e-ba3d-4284-be5f-7f68da0c8208",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Ondo Finance Adds 173 Tokenized Stocks and ETFs, Taking Catalog Past 430 Assets Across Three Chains",
-    "summary": "1. Ondo Finance expanded Ondo Global Markets with 173 new tokenized stocks and ETFs on Tuesday, lifting the platform's total catalog past 430 assets on Ethereum, Solana, and BNB Chain.\n2. The batch brings AI, robotics, quantum, defense tech, critical materials, and data center energy names onchain",
-    "url": "https://thedefiant.io/converge/defi/ondo-finance-adds-173-tokenized-stocks-etfs-430-assets-three-chains",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-18T19:49:54.000Z"
-  },
-  {
-    "id": "4f32345a-a932-4874-adc6-7395405bf293",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Perplexity's AI Agent Now Has a Brain That Learns From Its Own Mistakes",
-    "summary": "1. Brain is a self-improving memory layer that tracks what Computer did, what worked, and what failed—then uses it overnight to make the next task faster and cheaper.",
-    "url": "https://decrypt.co/371584/perplexity-ai-agent-brain",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-18T19:47:21.000Z"
-  },
-  {
-    "id": "0c3e56ea-3736-4c84-be31-2f6636e8cc57",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 The Fed has proposed rules that would require certain stablecoin issuers to verify customer IDs under the GENIUS Act.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2724e6bf",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-18T19:45:06+00:00"
-  },
-  {
-    "id": "83be029f-b87e-4c44-8043-a288b6b27053",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US CFTC finalizes settlement with former Celsius CEO, banning him from trading",
-    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has settled its lawsuit against former Celsius CEO Alex Mashinsky, who is currently serving a 12-year prison sentence. According to The Block, the settlement, which was approved by a judge in the Southern District of New York on June 18, officially bans Mashinsky from all business activities related to the CFTC or trading under its oversight. While the regulator did not impose any new fines, the agreement adds a ban on business registration and trading.",
-    "url": "https://t.me/CoinnessGL#73553ac1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-18T19:44:18+00:00"
-  },
-  {
-    "id": "bd3739c3-b39c-4c6b-ae18-903eaa7692c6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Anvil Powers Promise Now, Pay Later Sponsorships at Blockchain Futurist Conference",
-    "summary": "1. PRESS RELEASE.\n2. Toronto, Canada, June 18, 2026 – Blockchain Futurist Conference has partnered with Anvil, the decentralized protocol enabling digital asset-backed credit, to introduce an easier way for companies to secure sponsorships in advance.\n3. Sponsoring a conference has always brought on a difficult choice, either commit early and hand over capital months in advance, or […]",
-    "url": "https://news.bitcoin.com/anvil-powers-promise-now-pay-later-sponsorships-at-blockchain-futurist-conference/",
-    "author": "Media",
-    "created_at": "2026-06-18T19:32:39.000Z"
-  },
-  {
-    "id": "672c279b-307e-4854-aaa7-08320a9921a8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Range Raises $8.3M as Institutions Push for Pre-Execution Stablecoin Risk Controls",
-    "summary": "1. Range, a Zug, Switzerland-based financial infrastructure company, closed an oversubscribed $8.3 million Series A on June 18, 2026, bringing its total funding to $11 million and positioning itself as a control layer for companies running stablecoin and fiat operations side by side.\n2. A Mixed Investor Base Signals Convergence The round drew traditional fintech capital alongside […]",
-    "url": "https://news.bitcoin.com/range-raises-8-3m-as-institutions-push-for-pre-execution-stablecoin-risk-controls/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-18T19:30:31.000Z"
-  },
-  {
-    "id": "0141cad5-5155-4297-8b9a-f9660f9e9455",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
-    "summary": "1. The CFTC said it has settled its case against former Celsius CEO Alexander Mashinsky, who is currently serving a 12-year prison sentence.",
-    "url": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-18T19:28:40.000Z"
-  },
-  {
-    "id": "0ac0f187-d998-4b57-8f73-69e80107c0df",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
-    "summary": "1. Alexander Mashinsky, the founder of failed crypto lender Celsius, had earlier been imprisoned for fraud and is now formally banned from CFTC registration.",
-    "url": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-18T19:26:55.000Z"
-  },
-  {
-    "id": "160ec5e3-5260-481c-a548-6d13eca90b5c",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Europe's Crypto Firms Face Squeeze as MiCA Transition Period End Looms",
-    "summary": "1. As the MiCA grace period closes, only a fraction of registered firms hold full licenses, setting up the prospect of a wave of consolidation.",
-    "url": "https://decrypt.co/371561/europes-crypto-firms-face-squeeze-mica-transition-period-end-looms",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-18T19:26:10.000Z"
-  },
-  {
-    "id": "d9c014ca-8483-4247-a083-d131ff8df489",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Backpack's Tokenized SpaceX Token on Solana Crosses 10,000 Holders, Nearly Double xStocks' SPCXx",
-    "summary": "1. Backpack's tokenized SpaceX share token has crossed 10,000 onchain holders on Solana, six days after listing alongside the company's Nasdaq debut.\n2. The milestone widens the holder gap with rival xStocks' SpaceX product and lands as Backpack chief executive Armani Ferrante stakes out a structural",
-    "url": "https://thedefiant.io/converge/defi/backpack-s-tokenized-spacex-token-on-solana-crosses-10-000-holders-nearly-double-xstocks-spcxx",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-18T19:19:47.000Z"
-  },
-  {
-    "id": "0f0f974f-f1ab-4be2-b712-23d0ce11c0e2",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Strategy's STRC Falls to Record Low, Squeezing a Bitcoin Funding Channel",
-    "summary": "1. The Stretch preferred fell to about $85 on Thursday, roughly 15% below the $100 it is engineered to hold, extending a record-low close and tightening one of the channels Strategy uses to fund its bitcoin buying.",
-    "url": "https://thedefiant.io/news/markets/strategy-s-strc-falls-to-record-low-squeezing-a-bitcoin-funding-channel",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-18T18:48:29.000Z"
-  },
-  {
-    "id": "c912e165-7c2c-4375-a2be-9884050d5ee1",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Anybody who doesn’t want to Terminate the Filibuster is a FOOL, a very stupid one, at that!\n2. The Dumocrats will end it within minutes of taking office, and then rapidly proceed to destroy our Country, adding 2 Radical Left States, 4 Dumocrat Senators, many Congressmen/women, their dream of 21 Supreme Court Justices (Not just 13, an unlucky number!), an impossible to beat number of Electoral College Votes (and that’s the Ballgame!), “Popular” Vote Landslides, and so much else.\n3. The Republican Party will never win another Election.",
-    "url": "https://trumpstruth.org/statuses/39353",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T18:24:04.000Z"
-  },
-  {
-    "id": "66072871-6d8b-41d5-b5b7-41eda240b8fd",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. It seems as though the Great State of Utah, which I won each time, and handily, is going to the All Mail In Ballot format of Colorado, and the rest, that always head LEFT, as soon as the move is made.\n2. We should stop Utah from doing this.\n3. All Mail In Ballots, dishonestly handled, are a big advantage for the Dumocrats, whose only Road to Victory, because their Policies are so insane, is CHEATING.",
-    "url": "https://trumpstruth.org/statuses/39352",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T18:09:20.000Z"
-  },
-  {
-    "id": "24bda7d1-19e7-4989-95bb-be24a4b730d7",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "STRC Is Junk Credit in a Bitcoin Costume, and Retail Is Holding $8.8 Billion of It",
-    "summary": "1. Bitcoin Magazine\n\nSTRC Is Junk Credit in a Bitcoin Costume, and Retail Is Holding $8.8 Billion of It\nThere is now $15 billion sitting in three securities being marketed to bitcoin holders as the safer, smarter way to access bitcoin exposure: Strategy’s preferred stack, STRC, and SATA.\n2. The pitch is identical across all three.\n3. Tax-favored.",
-    "url": "https://bitcoinmagazine.com/markets/strc-is-junk-credit-in-a-bitcoin-costume-and-retail-is-holding-8-8-billion-of-it",
-    "author": "Glenn Cameron",
-    "created_at": "2026-06-18T18:04:43.000Z"
-  },
-  {
-    "id": "117b8001-7850-4127-9c56-02aac7e7627f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The United States is committed to PEACE, and we encourage everyone in the Middle East Region to maintain their commitment to allowing our negotiations to beautifully unfold.\n2. The Markets are loving what is happening with Oil Prices way down, and Stocks way up.\n3. We expect a complete Ceasefire on all fronts, including Lebanon, Hezbollah, and Israel.",
-    "url": "https://trumpstruth.org/statuses/39351",
-    "author": "Trump Truth",
-    "created_at": "2026-06-18T18:01:06.000Z"
-  },
-  {
-    "id": "d6494c42-dff1-4a85-9325-42b3c644781b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Aster hit its highest price since January after pledging to funnel 99% of daily fees into an automated token buyback, with all purchased tokens distributed as rewards to veASTER holders.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e3e5b187",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-18T18:00:07+00:00"
-  },
-  {
-    "id": "bb77acd7-dfc2-4dc3-96ad-33496c338a39",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "BlackRock’s Jay Jacobs says Bitcoin can no longer be ignored, saying “You can't ignore it at this point.",
-    "summary": "It's a large enough asset. Bitcoin has utility.”Twitter",
-    "url": "https://t.me/SolidIntelX#53cf49a3",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-18T17:49:23+00:00"
-  },
-  {
-    "id": "e3b07eab-7d63-424a-bbf8-c452f539bb0a",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 US Military says blockade on the Strait of Hormuz has officially been lifted.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#2bb0e1e9",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-18T17:32:28+00:00"
-  },
-  {
-    "id": "029446bb-1618-4d10-b834-ca12a40f0ecf",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
-    "summary": "1. The Federal Reserve, Treasury and other regulators have issued a proposed rule that would set identification standards, and it's now open for public comments.",
-    "url": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-18T17:17:22.000Z"
-  },
-  {
-    "id": "4ce2772c-24aa-445a-af8e-986ed3f53cf7",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "summary": "1. OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "author": "OpenAI",
-    "created_at": "2026-06-18T17:00:00.000Z"
   }
 ]
