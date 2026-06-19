@@ -1,5 +1,65 @@
 [
   {
+    "id": "3addad3b-a32c-44e8-aac0-939ba3a054d4",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Texas Brothers Plead Guilty to $8M Armed Crypto Kidnapping",
+    "summary": "1. Isiah and Raymond Garcia held a Minnesota family at gunpoint for eight hours and forced the father to transfer over $8 million in crypto.",
+    "url": "https://decrypt.co/371665/texas-brothers-plead-guilty-to-8m-armed-crypto-kidnapping",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-19T11:14:40.000Z"
+  },
+  {
+    "id": "2131ed59-0b0c-4c1e-93dd-5cd5fc9e965f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Iran to require 48-hour advance notice for Strait of Hormuz passage",
+    "summary": "Iran's Persian Gulf Strait Management Bureau announced new regulations today for passage through the Strait of Hormuz, citing an Iran-U.S. Memorandum of Understanding (MOU) and directives from relevant authorities. Under the new rules, vessels must submit an application for passage at least 48 hours before arriving in the strait. The bureau stated that passage will be granted to vessels that submit an application and meet the required conditions.",
+    "url": "https://t.me/CoinnessGL#4c0f2610",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T11:11:58+00:00"
+  },
+  {
+    "id": "afdc4b73-bc79-4f14-9504-48d5a87e5115",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇮🇪 Ireland named crypto-asset misuse as a key financial-crime threat in a new National Risk Assessment.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#26ad8c2c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-19T11:00:06+00:00"
+  },
+  {
+    "id": "e3dca710-8f34-4ed3-8ffb-b05661b3f829",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot CVD chart for June 19 at 11:00 a.m. UTC",
+    "summary": "The Spot CVD chart analyzes the order book for the BTC/USDT spot pair. The top section shows the Volume Heatmap, and the bottom displays the Cumulative Volume Delta (CVD).- The Volume Heatmap tracks trading volume at specific price levels. The background brightens when the price lingers in a particular range or experiences significant movement. These brighter areas can indicate potential support and resistance zones.- The CVD indicator represents buy and sell orders categorized by trade size. As buy orders for a specific size increase, the corresponding colored line rises.- Yellow line: Orders between $100 and $1,000- Brown line: Large orders between $1 million and $10 million",
+    "url": "https://t.me/CoinnessGL#ced6a6ed",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T10:59:10+00:00"
+  },
+  {
+    "id": "5015dd0f-6d00-44b0-b7a9-ed317ed76f9f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Oman launches national Bitcoin mining pool",
+    "summary": "Oman's Ministry of Transport, Communications and Information Technology (MTCIT) has launched the country's first official national Bitcoin mining pool, Omanhash, in partnership with local blockchain firm Frontier Technologies, Wu Blockchain reported. Omanhash has been designated as the sole official mining pool for government-licensed mining companies, and all legal operators are required to connect their hashrate to it. The pool is expected to initially integrate and operate with a mining power of approximately 10 EH/s. Since 2022, the Omani government has invested over $700 million in building data centers and cryptocurrency mining infrastructure in an effort to become a digital hub in the Middle East.",
+    "url": "https://t.me/CoinnessGL#8bc59b2e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-19T10:50:54+00:00"
+  },
+  {
+    "id": "fd6e29e4-1357-414e-a6ad-272839cfceaf",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard",
+    "summary": "1. Base's Beryl upgrade introduces the B20 native token standard, cuts withdrawal delays to 5 days, and activates on mainnet June 25.",
+    "url": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-19T10:48:52.000Z"
+  },
+  {
     "id": "b9ec22a0-3c95-49c6-8b90-b58f9961d383",
     "source": "CoinDesk",
     "type": "rss",
@@ -18,6 +78,16 @@
     "url": "https://t.me/CoinnessGL#95ace281",
     "author": "@CoinnessGL",
     "created_at": "2026-06-19T10:45:19+00:00"
+  },
+  {
+    "id": "a155f2c8-1ea2-4dc7-9f5e-56b7d4b6190e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin tipped for Q3 'macro bottom' near $50K as major liquidity grab looms",
+    "summary": "1. Bitcoin market participants may be left in \"complete disbelief\" as the market reverses from a liquidity grab without another major leg lower, a trader predicted.",
+    "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-q3-macro-bottom-near-50k-as-major-liquidity-grab-looms?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "William Suberg",
+    "created_at": "2026-06-19T10:44:28.000Z"
   },
   {
     "id": "edc5e9b0-b540-48c7-a512-10827e5e23c1",
@@ -40,7 +110,7 @@
     "created_at": "2026-06-19T10:30:47.000Z"
   },
   {
-    "id": "4a41ac50-b6b7-4c57-8901-b0373527f74a",
+    "id": "926a207c-5082-4a61-a115-4342ee6486e1",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Capital B shareholders have approved up to $120B in financing capacity to fund the company's Bitcoin accumulation strategy.",
@@ -70,7 +140,7 @@
     "created_at": "2026-06-19T10:11:02.000Z"
   },
   {
-    "id": "68f4a43d-e3e3-4b7d-98b2-fee55a474cf9",
+    "id": "a0b62168-3f17-47bb-9b3b-52d0880ed6bc",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Honestly, just trust the process.",
@@ -100,7 +170,7 @@
     "created_at": "2026-06-19T10:01:20+00:00"
   },
   {
-    "id": "d6494f2f-d29d-4ad7-87da-5c7ab30a7c91",
+    "id": "0c3fc616-c03a-44c8-be49-631f804f6a94",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Franklin Templeton files for ETFs that would reinvest stock dividends into BitcoinTwitter",
@@ -390,7 +460,7 @@
     "created_at": "2026-06-19T05:56:51.000Z"
   },
   {
-    "id": "634a2a20-3f22-4282-a794-9d16dfec22be",
+    "id": "84571d44-e7b6-446f-a785-d7ca636999e2",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US-Iran talks scheduled for today at Switzerland’s Bürgenstock resort have been CANCELED | per the Swiss Foreign Ministry VP JD Vance pulled out overnight after Iran’s delegation had already withdrawn over Israeli strikes in LebanonTwitter",
@@ -418,85 +488,5 @@
     "url": "https://cointelegraph.com/news/microsoft-alerts-users-to-crypto-clipper-windows-malware?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "author": "Martin Young",
     "created_at": "2026-06-19T05:33:06.000Z"
-  },
-  {
-    "id": "fec2f0a0-4b3d-4233-a129-a0b217d7cab1",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "The AI Job Squeeze: How Artificial Intelligence Has Eliminated Over 126,000 Roles in the US",
-    "summary": "1. The Alliance for Secure AI Action has registered that, as of 10 June 2026, over 120k job positions have been replaced or made obsolete by AI technology in the U.S., as companies seek to streamline their processes and prepare for a more AI-centric future.\n2. The Alliance for Secure AI Action Calls For Action As AI […]",
-    "url": "https://news.bitcoin.com/the-ai-job-squeeze-how-artificial-intelligence-has-eliminated-over-126000-roles-in-the-us/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-19T05:20:02.000Z"
-  },
-  {
-    "id": "72c193e6-7476-4556-986c-9a858034941b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CFTC, SEC request public comment to clarify definition of ‘swaps’ amid CME lawsuit",
-    "summary": "1. CME Group sued the CFTC on Thursday over the agency's decision to classify perpetual futures as futures contracts rather than swaps.",
-    "url": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-19T05:15:08.000Z"
-  },
-  {
-    "id": "8273cc66-734f-486c-8cc5-633ffa9e4488",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP falls 3% after losing $1.15 support as breakout attempt fades",
-    "summary": "1. Heavy selling pushed XRP back below a key support zone, reinforcing a downtrend that has repeatedly stalled rallies near $1.25.",
-    "url": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-19T05:14:20.000Z"
-  },
-  {
-    "id": "fb95bf08-4d0b-4c56-94c9-a921be49c81c",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. UFC FREEDOM 250!",
-    "url": "https://trumpstruth.org/statuses/39359",
-    "author": "Trump Truth",
-    "created_at": "2026-06-19T05:07:08.000Z"
-  },
-  {
-    "id": "9a5da43d-5cb2-4e95-a457-eef72ecadc7c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
-    "summary": "1. About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.",
-    "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-19T05:04:22.000Z"
-  },
-  {
-    "id": "96bf95b1-ee18-4991-963c-5c33becdf9a1",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin traders load up on bearish bets all the way down to $52,000 ",
-    "summary": "1. Bitcoin traders are scrambling to buy options bets that would pay off if the selloff deepens.",
-    "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-19T05:02:01.000Z"
-  },
-  {
-    "id": "e8e013a4-cf89-4cc7-995b-dac5197a8318",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US Dollar Index surpasses 101, hitting highest level since May 2025",
-    "summary": "The U.S. Dollar Index (DXY) has surpassed the 101 mark, reaching its highest level since May 2025, according to CoinNess market data. The index measures the value of the U.S. dollar against a basket of six major world currencies. Bitcoin and the DXY tend to have an inverse correlation. Meanwhile, BTC is currently trading at $62,562, down 1.92%, according to CoinMarketCap.",
-    "url": "https://t.me/CoinnessGL#d07fca5d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-19T04:50:38+00:00"
-  },
-  {
-    "id": "048799fb-4f11-4d1b-bffb-0303feaec233",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades",
-    "summary": "1. Crypto dropped across the board on Friday in holiday-thinned trading, giving back the week's gains.\n2. With oil down 9% and the Iran deal signed, the question turns to whether this cycle gets an altseason at all.",
-    "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-19T04:49:20.000Z"
   }
 ]
