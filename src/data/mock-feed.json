@@ -1,5 +1,125 @@
 [
   {
+    "id": "8685b6e7-b269-4975-9508-486aac7ca67b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CoinNess Live Feed operating hours",
+    "summary": "We provide real-time cryptocurrency updates around the clock from 10:00 p.m. UTC on Sunday through 3:00 p.m. UTC on Saturday. Outside these hours, coverage is limited to critical market-moving developments.Note: Breaking international economic news will continue to be provided through the CoinNess Live app and our website.",
+    "url": "https://t.me/CoinnessGL#b5a72c17",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-20T15:03:30+00:00"
+  },
+  {
+    "id": "43ae4110-9224-4c28-9b02-313ae4efc2c3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "AI is making crypto security cheaper, faster and harder to ignore",
+    "summary": "1. As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions.",
+    "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-06-20T15:00:00.000Z"
+  },
+  {
+    "id": "31aa40d8-8e2d-4a65-9d14-7c2eac520fd4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Every new iOS 27 feature that’s worth knowing about",
+    "summary": "1. While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+    "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+    "author": "Lauren Forristal",
+    "created_at": "2026-06-20T15:00:00.000Z"
+  },
+  {
+    "id": "ce5bd4d9-540e-4f03-b2b0-27d58bb56747",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
+    "summary": "1. Activity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.",
+    "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-20T14:59:51.000Z"
+  },
+  {
+    "id": "c454670d-a477-4977-be71-f49d4c4345fc",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0 ",
+    "summary": "1. The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
+    "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Aaron Wood",
+    "created_at": "2026-06-20T14:57:41.000Z"
+  },
+  {
+    "id": "91ebfaf1-d7d1-4c3b-837f-1b67d1399aef",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. POLL: Which do you prefer, Dumocrat or Dumbocrat?\n2. In one case, you simply exchange the “e” for “u,” so simple and precise (Many people don’t know, or assume, that DUMB ends in “b”).\n3. In the other case, you spell out DUMB, but it seems to lose some of the identity to Democrats when done this way.",
+    "url": "https://trumpstruth.org/statuses/39399",
+    "author": "Trump Truth",
+    "created_at": "2026-06-20T14:52:06.000Z"
+  },
+  {
+    "id": "54063da3-3d2e-4f24-b1ff-59906c29f2ea",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Israel orders ceasefire in Lebanon",
+    "summary": "Israeli Prime Minister Netanyahu has ordered a ceasefire in Lebanon, according to Israeli media.",
+    "url": "https://t.me/CoinnessGL#5aa589c3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-20T14:50:19+00:00"
+  },
+  {
+    "id": "c94bbf2b-c4c2-4881-973f-7f07edf11aa0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "India raids Bengaluru firms over alleged $260M in crypto transfers",
+    "summary": "India's Directorate of Enforcement has raided several Bengaluru-based companies allegedly involved in cryptocurrency transfers worth over $260 million, Cointelegraph reported.",
+    "url": "https://t.me/CoinnessGL#b075fc8d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-20T14:49:40+00:00"
+  },
+  {
+    "id": "b8585d0c-40ef-4590-96bd-543b0f4535cd",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇮🇷 Iran's IRGC officially declares the Strait of Hormuz closed to all vessels, warns approaching ships face a \"security risk.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#693f7b14",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-20T14:36:34+00:00"
+  },
+  {
+    "id": "7daba6f7-6612-4f36-9341-890fa602041c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The Dutch diplomatic playbook in Texas",
+    "summary": "1. The Netherlands' sports minister is hoping the Netherlands' famous fan walks will leave behind a footprint.",
+    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/netherlands-diplomacy-mirjam-sterk-world-cup-2026-00969092",
+    "author": "By Mike Lee",
+    "created_at": "2026-06-20T14:30:00.000Z"
+  },
+  {
+    "id": "8404fcb8-2993-4a0c-860a-2b00304cfa46",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Report: Charles Schwab Targets Kalshi and Polymarket Territory With New Cboe Deal",
+    "summary": "1. Charles Schwab is moving into prediction markets, but only on its own terms.\n2. The brokerage Charles Schwab has reportedly partnered with Cboe Global Markets to offer binary-style options contracts tied to the S&P 500, according to a Wall Street Journal (WSJ) report citing “people familiar with the matter.” The contracts let customers wager on whether […]",
+    "url": "https://news.bitcoin.com/report-charles-schwab-targets-kalshi-and-polymarket-territory-with-new-cboe-deal/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-20T14:26:05.000Z"
+  },
+  {
+    "id": "730ccbcb-d9bf-41dc-b029-f6c1696bf5e7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "EXPLAINED: 🚀 What do Binance, Hyperliquid, Backpack, and Trust Wallet all have in common?",
+    "summary": "They're all betting that stocks belong on-chain. A tokenized SpaceX hit Solana the day it IPO'd, and one early flip could have beaten up to 6 years of holding ETH.Are stocks the new altcoins? Read on to learn more. 👇",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f681d79e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-20T14:20:04+00:00"
+  },
+  {
     "id": "e62d2d7b-ded2-4ecd-bd8d-a91bf0ea4491",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -80,7 +200,7 @@
     "created_at": "2026-06-20T12:26:40.000Z"
   },
   {
-    "id": "59acb4b3-0596-42e0-88d6-c523923bc242",
+    "id": "bad381a8-fb49-4baa-b10f-65c36ef5f62e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "EXPLAINED: 🏦 Wall Street seems to only be getting more and more bullish on...",
@@ -118,35 +238,5 @@
     "url": "https://news.bitcoin.com/gominings-kirill-solovev-says-bitcoin-mining-trades-at-a-discount-urges-new-payment-rails/",
     "author": "Terence Zimwara",
     "created_at": "2026-06-20T11:30:51.000Z"
-  },
-  {
-    "id": "d03e988d-35c8-4b3d-a05d-c2ca7f91ff0a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Tag the most unshakeable community!",
-    "summary": "💪",
-    "url": "https://t.me/CoinMarketCapAnnouncements#49250c11",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-20T09:05:04+00:00"
-  },
-  {
-    "id": "4281856a-76ec-42fe-9730-48c85b76b692",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "a16z Crypto: Prediction market weekly volume tops $10.8B, a new record",
-    "summary": "Weekly trading volume in prediction markets has surpassed $10.8 billion for the first time, according to a16z Crypto. The firm identified major global events such as the SpaceX IPO, a potential U.S.-Iran peace treaty, the NBA Finals, and the World Cup as key drivers of the surge.a16z Crypto noted that just a year ago, weekly volume was around $500 million and remained under $1 billion even during periods of high activity. Volume began to climb steadily last fall and stabilized in the $6 billion to $7 billion range this spring. The firm explained that the market's ability to exceed last year's peak levels, even during the current low-volatility week, demonstrates a structural and sustained increase in liquidity and participation.",
-    "url": "https://t.me/CoinnessGL#17c6fd3d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-20T08:51:15+00:00"
-  },
-  {
-    "id": "1e5682fa-1217-4958-935d-6aeff779f0c4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 CZ says he believes more than ever that \"crypto is not going away” and will only grow much bigger.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#84c61a67",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-20T08:20:06+00:00"
   }
 ]
