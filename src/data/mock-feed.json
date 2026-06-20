@@ -1,5 +1,115 @@
 [
   {
+    "id": "392d298c-a717-4d38-a4e0-6702358972e5",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Smallest team, biggest pitch",
+    "summary": "1. A 158,000-person nation just made the World Cup.\n2. Now it wants your investment.",
+    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/curacaos-off-field-pitch-investors-world-cup-00969103",
+    "author": "By Sonja Rijnen",
+    "created_at": "2026-06-20T22:15:00.000Z"
+  },
+  {
+    "id": "346d3d83-7f2b-4ee7-9779-6a52aba1ccfb",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
+    "summary": "1. Secret Network says about $770,000 of the stolen funds still sits in the attacker's Axelar wallet, and that Axelar declined its request to freeze it.",
+    "url": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-20T21:57:05.000Z"
+  },
+  {
+    "id": "7db749c9-8930-43f3-a05b-a429a1499a03",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘Stop Lawmakers From Predicting’: GOP Bill Targets Congress Betting on Kalshi and Polymarket",
+    "summary": "1. Republican Rep.\n2. Bryan Steil has introduced the Stop Lawmakers from Predicting Act, a bill that would bar House members, their spouses and their children from wagering on political and policy outcomes via prediction markets.\n3. A New Line Between Lawmaking and Betting Rep.",
+    "url": "https://news.bitcoin.com/steil-bill-ban-congress-prediction-markets-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-20T21:31:55.000Z"
+  },
+  {
+    "id": "5fb5c84e-c935-49c6-a3b6-0ddd0ecc37d4",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The United States Park Police have arrested multiple individuals for vandalizing our Nations magnificent Reflecting Poll.\n2. Who would do such a thing?\n3. These are very serious crimes having to do with the destruction of National Monuments.",
+    "url": "https://trumpstruth.org/statuses/39403",
+    "author": "Trump Truth",
+    "created_at": "2026-06-20T21:01:43.000Z"
+  },
+  {
+    "id": "b57a69cf-225c-46ba-a9c1-a7861753a619",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.185",
+    "summary": "1. ## What's changed\n\n- The stream-stall hint now reads \"Waiting for API response · will retry in …\" instead of \"No response from API · Retrying in …\", and triggers after 20s of silence instead of 10s",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.185",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-20T20:59:19Z"
+  },
+  {
+    "id": "3386330b-3843-4086-a6eb-59e8d97ecef6",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Elon Musk says the Treasury should \"send money directly to the people\" in an AI-dominated world.\"My prediction is that we will desperately be fighting deflation.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#65c10b6f",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-20T20:40:55+00:00"
+  },
+  {
+    "id": "8c25e504-eb25-4f35-98b0-fd839f548688",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "summary": "1. \"These are not your friends.\n2. These are not conscious beings.\n3. These are not sentient interlocutors.”",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-20T20:32:29.000Z"
+  },
+  {
+    "id": "70277f75-80dd-459f-927d-9850445289da",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Saylor’s STRC Faulters, Uniswap Gets a Boost, And More – Week In Review",
+    "summary": "1. This week’s crypto stories cut across market structure, adoption, sentiment, and policy.\n2. STRC’s sharp drop stress-tested Saylor’s bitcoin credit machine, UNI rallied on fresh long-term optimism, and Latin America extended its lead in stablecoin use for payments.\n3. Ethereum also came under fire from critics, calling it a lost-decade asset, while Illinois approved a new crypto […]",
+    "url": "https://news.bitcoin.com/saylors-strc-faulters-uniswap-gets-a-boost-and-more-week-in-review/",
+    "author": "Alex Richardson",
+    "created_at": "2026-06-20T20:30:38.000Z"
+  },
+  {
+    "id": "10a907b5-96f9-4cb8-bb14-c0854fb114fc",
+    "source": "Politico",
+    "type": "rss",
+    "title": "In the World Cup’s missing country, failure sparks bitter political battle",
+    "summary": "1. Giorgia Meloni’s government is keen to extend control over Italian football as fans mourn a third consecutive World Cup debacle.",
+    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/italy-football-crisis-political-battle-fifa-world-cup-2026-00969179",
+    "author": "By Gregorio Sorgi",
+    "created_at": "2026-06-20T20:15:00.000Z"
+  },
+  {
+    "id": "30dd7b17-df61-4bfb-ab30-234255e5d5af",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The happiest World Cup game",
+    "summary": "1. The happiest World Cup game",
+    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/happiest-countries-fifa-world-cup-2026-netherlands-sweden-00969093",
+    "author": "By Paul Dallison and Hanne Cokelaere",
+    "created_at": "2026-06-20T20:15:00.000Z"
+  },
+  {
+    "id": "d347a3d2-816c-4a3c-aff7-ef5393a8c4d7",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Former Olympian is arrested for allegedly vandalizing Reflecting Pool:",
+    "url": "https://trumpstruth.org/statuses/39402",
+    "author": "Trump Truth",
+    "created_at": "2026-06-20T20:14:58.000Z"
+  },
+  {
     "id": "fa43e72c-83e4-41eb-9ea9-45ddfa4a2286",
     "source": "TechCrunch",
     "type": "rss",
@@ -20,7 +130,7 @@
     "created_at": "2026-06-20T19:27:59.000Z"
   },
   {
-    "id": "78dcbacf-018e-43e1-9c20-7888a344eba7",
+    "id": "09411ffe-a8fd-4ff4-ac46-38aacabbc3e1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 President Trump says there will be no tolls in the Strait of Hormuz \"unless they are imposed by and for the United States of America.\"@WatcherGuru",
@@ -80,7 +190,7 @@
     "created_at": "2026-06-20T18:26:02.000Z"
   },
   {
-    "id": "7881c0ea-4148-49a7-b33a-92d5a45948f7",
+    "id": "2bdf50e2-2f81-4307-a0f7-7e395fb9c7ad",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 CryptoQuant’s Ki Young Ju says Strategy’s STRC is most vulnerable if Bitcoin goes sideways for years, warning that “Bitcoin boredom” could erode demand for the instrument.",
@@ -130,7 +240,7 @@
     "created_at": "2026-06-20T17:15:00.000Z"
   },
   {
-    "id": "b47afacf-1292-4ae3-949f-d3ae423b3655",
+    "id": "630bab94-a452-4ec2-81b6-2bc869104722",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "CMC Blue is my favorite 💙",
@@ -158,215 +268,5 @@
     "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
     "author": "Anthony Ha",
     "created_at": "2026-06-20T16:39:57.000Z"
-  },
-  {
-    "id": "01f585ad-3888-49e8-a3f1-cc5f29792db1",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The soccer-loving mayor who's ready to host the USA",
-    "summary": "1. San Francisco Mayor Daniel Lurie is looking ahead to the home team's first knockout match.",
-    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/us-headed-to-bay-area-00969099",
-    "author": "By Adam Wren",
-    "created_at": "2026-06-20T16:15:00.000Z"
-  },
-  {
-    "id": "06c435cb-3157-4c7d-8923-d5e7d55b59a6",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Ray Dalio says US stocks could deliver -5% to -10% real returns over the next 5-10 years, warns the market is dangerously concentrated in a handful of AI namesTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#fd1fd818",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-20T16:03:20+00:00"
-  },
-  {
-    "id": "588c11f5-c647-4beb-8c0d-2d5bbe428c87",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
-    "summary": "1. Sonic Labs said the three \"remain invested in Sonic's success\" but will no longer make business decisions for the Layer 1 network, formerly Fantom.",
-    "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-20T16:01:05.000Z"
-  },
-  {
-    "id": "7468ead9-f8b5-4cf6-9ef3-8e506834625d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. POLL: ICE has been abused by the Fake News Media at levels never seen before.\n2. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment.\n3. Much of this hostility is caused by the Dumocrats and the Fake News.",
-    "url": "https://trumpstruth.org/statuses/39400",
-    "author": "Trump Truth",
-    "created_at": "2026-06-20T15:58:34.000Z"
-  },
-  {
-    "id": "54db91a5-2e66-4ff4-8437-a32f83aba8f2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Iran Moves to Close the Strait of Hormuz as Tensions Erupt Over Broken Ceasefire Deal",
-    "summary": "1. The measure, announced by the Khatam al-Anbiya Central Headquarters, was taken in response to violations by the U.S.\n2. government of the memorandum of understanding signed to end the war.\n3. Nonetheless, reports indicate that no ground moves have been made to this end.",
-    "url": "https://news.bitcoin.com/iran-moves-to-close-the-strait-of-hormuz-as-tensions-erupt-over-broken-ceasefire-deal/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-20T15:47:44.000Z"
-  },
-  {
-    "id": "e4f622a9-e3a2-4422-ba82-7a69465f366e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "200 BTC Moves From Named Wallet as Two Lawyers Clash Over $293B ‘Noah Doe’ Bitcoin Case",
-    "summary": "1. A New York Supreme Court dispute involving 39,069 bitcoin wallet addresses took another turn this week after attorney Ian R.\n2. Cohen opposed an effort to lift a court-ordered stay, and new onchain data showed billions of dollars worth of bitcoin moving from addresses named in the lawsuit.\n3. The case, ABC Company, XYZ Company, and Noah […]",
-    "url": "https://news.bitcoin.com/200-btc-moves-from-named-wallet-as-two-lawyers-clash-over-293b-noah-doe-bitcoin-case/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-20T15:30:12.000Z"
-  },
-  {
-    "id": "e8bbac9a-9982-4cb9-bd5d-cb7f779760fb",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Why do Dutch fans wear orange?",
-    "summary": "1. The surprisingly American story of a country whose soccer colors differ from its government's.",
-    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/why-netherlands-dutch-soccer-fans-wear-orange-00969101",
-    "author": "By Sonja Rijnen",
-    "created_at": "2026-06-20T15:15:00.000Z"
-  },
-  {
-    "id": "a03721f5-a7ff-4ffb-88c7-0c724d7d7df6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CoinNess Live Feed operating hours",
-    "summary": "We provide real-time cryptocurrency updates around the clock from 10:00 p.m. UTC on Sunday through 3:00 p.m. UTC on Saturday. Outside these hours, coverage is limited to critical market-moving developments.Note: Breaking international economic news will continue to be provided through the CoinNess Live app and our website.",
-    "url": "https://t.me/CoinnessGL#b5a72c17",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-20T15:03:30+00:00"
-  },
-  {
-    "id": "43ae4110-9224-4c28-9b02-313ae4efc2c3",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "AI is making crypto security cheaper, faster and harder to ignore",
-    "summary": "1. As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions.",
-    "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-20T15:00:00.000Z"
-  },
-  {
-    "id": "31aa40d8-8e2d-4a65-9d14-7c2eac520fd4",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Every new iOS 27 feature that’s worth knowing about",
-    "summary": "1. While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
-    "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-06-20T15:00:00.000Z"
-  },
-  {
-    "id": "ce5bd4d9-540e-4f03-b2b0-27d58bb56747",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
-    "summary": "1. Activity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.",
-    "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-20T14:59:51.000Z"
-  },
-  {
-    "id": "c454670d-a477-4977-be71-f49d4c4345fc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0 ",
-    "summary": "1. The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
-    "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Aaron Wood",
-    "created_at": "2026-06-20T14:57:41.000Z"
-  },
-  {
-    "id": "91ebfaf1-d7d1-4c3b-837f-1b67d1399aef",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. POLL: Which do you prefer, Dumocrat or Dumbocrat?\n2. In one case, you simply exchange the “e” for “u,” so simple and precise (Many people don’t know, or assume, that DUMB ends in “b”).\n3. In the other case, you spell out DUMB, but it seems to lose some of the identity to Democrats when done this way.",
-    "url": "https://trumpstruth.org/statuses/39399",
-    "author": "Trump Truth",
-    "created_at": "2026-06-20T14:52:06.000Z"
-  },
-  {
-    "id": "051da420-dc92-47e8-91e1-eacbfe5810a6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Israel orders ceasefire in Lebanon",
-    "summary": "Israeli Prime Minister Netanyahu has ordered a ceasefire in Lebanon, according to Israeli media.",
-    "url": "https://t.me/CoinnessGL#5aa589c3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-20T14:50:19+00:00"
-  },
-  {
-    "id": "06aa17a4-3d9a-4a60-872a-3a796fd4c7b8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "India raids Bengaluru firms over alleged $260M in crypto transfers",
-    "summary": "India's Directorate of Enforcement has raided several Bengaluru-based companies allegedly involved in cryptocurrency transfers worth over $260 million, Cointelegraph reported.",
-    "url": "https://t.me/CoinnessGL#b075fc8d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-20T14:49:40+00:00"
-  },
-  {
-    "id": "f3848d4c-268f-4acb-a875-800aeb053e60",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇮🇷 Iran's IRGC officially declares the Strait of Hormuz closed to all vessels, warns approaching ships face a \"security risk.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#693f7b14",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-20T14:36:34+00:00"
-  },
-  {
-    "id": "7daba6f7-6612-4f36-9341-890fa602041c",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The Dutch diplomatic playbook in Texas",
-    "summary": "1. The Netherlands' sports minister is hoping the Netherlands' famous fan walks will leave behind a footprint.",
-    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/netherlands-diplomacy-mirjam-sterk-world-cup-2026-00969092",
-    "author": "By Mike Lee",
-    "created_at": "2026-06-20T14:30:00.000Z"
-  },
-  {
-    "id": "8404fcb8-2993-4a0c-860a-2b00304cfa46",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Report: Charles Schwab Targets Kalshi and Polymarket Territory With New Cboe Deal",
-    "summary": "1. Charles Schwab is moving into prediction markets, but only on its own terms.\n2. The brokerage Charles Schwab has reportedly partnered with Cboe Global Markets to offer binary-style options contracts tied to the S&P 500, according to a Wall Street Journal (WSJ) report citing “people familiar with the matter.” The contracts let customers wager on whether […]",
-    "url": "https://news.bitcoin.com/report-charles-schwab-targets-kalshi-and-polymarket-territory-with-new-cboe-deal/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-20T14:26:05.000Z"
-  },
-  {
-    "id": "ffb537f5-e687-4ff7-bb10-1d9f160dff7f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "EXPLAINED: 🚀 What do Binance, Hyperliquid, Backpack, and Trust Wallet all have in common?",
-    "summary": "They're all betting that stocks belong on-chain. A tokenized SpaceX hit Solana the day it IPO'd, and one early flip could have beaten up to 6 years of holding ETH.Are stocks the new altcoins? Read on to learn more. 👇",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f681d79e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-20T14:20:04+00:00"
-  },
-  {
-    "id": "e62d2d7b-ded2-4ecd-bd8d-a91bf0ea4491",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "PancakeSwap says smart contracts not at fault in hack",
-    "summary": "PancakeSwap, which suffered a $1.1 million loss from a hack on its OLPC/LABUBU pool, announced that an initial investigation has confirmed there are no issues with its smart contracts. The platform added that the investigation is ongoing and it will share more information as it becomes available.",
-    "url": "https://t.me/CoinnessGL#51f5c751",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-20T14:07:20+00:00"
-  },
-  {
-    "id": "e897b7d3-7651-41e7-9024-93a5f20deb62",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "UK Reform Party leader urges Bank of England to scrap CBDC plan",
-    "summary": "Nigel Farage, leader of the right-wing UK Reform Party, has privately urged the Bank of England to scrap its digital pound plan, Cointelegraph reported. Farage is known for his opposition to central bank digital currencies (CBDCs) while being a vocal supporter of stablecoins.",
-    "url": "https://t.me/CoinnessGL#37638283",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-20T13:49:58+00:00"
   }
 ]
