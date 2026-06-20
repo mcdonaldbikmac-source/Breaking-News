@@ -1,6 +1,76 @@
 [
   {
-    "id": "8685b6e7-b269-4975-9508-486aac7ca67b",
+    "id": "01f585ad-3888-49e8-a3f1-cc5f29792db1",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The soccer-loving mayor who's ready to host the USA",
+    "summary": "1. San Francisco Mayor Daniel Lurie is looking ahead to the home team's first knockout match.",
+    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/us-headed-to-bay-area-00969099",
+    "author": "By Adam Wren",
+    "created_at": "2026-06-20T16:15:00.000Z"
+  },
+  {
+    "id": "0478945f-3a7c-4f41-a50c-4cddbba4179b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Ray Dalio says US stocks could deliver -5% to -10% real returns over the next 5-10 years, warns the market is dangerously concentrated in a handful of AI namesTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#fd1fd818",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-20T16:03:20+00:00"
+  },
+  {
+    "id": "588c11f5-c647-4beb-8c0d-2d5bbe428c87",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
+    "summary": "1. Sonic Labs said the three \"remain invested in Sonic's success\" but will no longer make business decisions for the Layer 1 network, formerly Fantom.",
+    "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-20T16:01:05.000Z"
+  },
+  {
+    "id": "7468ead9-f8b5-4cf6-9ef3-8e506834625d",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. POLL: ICE has been abused by the Fake News Media at levels never seen before.\n2. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment.\n3. Much of this hostility is caused by the Dumocrats and the Fake News.",
+    "url": "https://trumpstruth.org/statuses/39400",
+    "author": "Trump Truth",
+    "created_at": "2026-06-20T15:58:34.000Z"
+  },
+  {
+    "id": "54db91a5-2e66-4ff4-8437-a32f83aba8f2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Iran Moves to Close the Strait of Hormuz as Tensions Erupt Over Broken Ceasefire Deal",
+    "summary": "1. The measure, announced by the Khatam al-Anbiya Central Headquarters, was taken in response to violations by the U.S.\n2. government of the memorandum of understanding signed to end the war.\n3. Nonetheless, reports indicate that no ground moves have been made to this end.",
+    "url": "https://news.bitcoin.com/iran-moves-to-close-the-strait-of-hormuz-as-tensions-erupt-over-broken-ceasefire-deal/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-20T15:47:44.000Z"
+  },
+  {
+    "id": "e4f622a9-e3a2-4422-ba82-7a69465f366e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "200 BTC Moves From Named Wallet as Two Lawyers Clash Over $293B ‘Noah Doe’ Bitcoin Case",
+    "summary": "1. A New York Supreme Court dispute involving 39,069 bitcoin wallet addresses took another turn this week after attorney Ian R.\n2. Cohen opposed an effort to lift a court-ordered stay, and new onchain data showed billions of dollars worth of bitcoin moving from addresses named in the lawsuit.\n3. The case, ABC Company, XYZ Company, and Noah […]",
+    "url": "https://news.bitcoin.com/200-btc-moves-from-named-wallet-as-two-lawyers-clash-over-293b-noah-doe-bitcoin-case/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-20T15:30:12.000Z"
+  },
+  {
+    "id": "e8bbac9a-9982-4cb9-bd5d-cb7f779760fb",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Why do Dutch fans wear orange?",
+    "summary": "1. The surprisingly American story of a country whose soccer colors differ from its government's.",
+    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/why-netherlands-dutch-soccer-fans-wear-orange-00969101",
+    "author": "By Sonja Rijnen",
+    "created_at": "2026-06-20T15:15:00.000Z"
+  },
+  {
+    "id": "04fe73e0-3d7d-48d0-b829-867722e9ae32",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "CoinNess Live Feed operating hours",
@@ -60,7 +130,7 @@
     "created_at": "2026-06-20T14:52:06.000Z"
   },
   {
-    "id": "54063da3-3d2e-4f24-b1ff-59906c29f2ea",
+    "id": "4b495c92-953f-4e9e-84dd-821ec4596e29",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Israel orders ceasefire in Lebanon",
@@ -70,7 +140,7 @@
     "created_at": "2026-06-20T14:50:19+00:00"
   },
   {
-    "id": "c94bbf2b-c4c2-4881-973f-7f07edf11aa0",
+    "id": "c4eb2dc4-7e1e-4dbe-b69d-5764b162c6e4",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "India raids Bengaluru firms over alleged $260M in crypto transfers",
@@ -80,7 +150,7 @@
     "created_at": "2026-06-20T14:49:40+00:00"
   },
   {
-    "id": "b8585d0c-40ef-4590-96bd-543b0f4535cd",
+    "id": "0964ddc6-b6d3-458b-8754-8bc5886a317d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇮🇷 Iran's IRGC officially declares the Strait of Hormuz closed to all vessels, warns approaching ships face a \"security risk.\"@WatcherGuru",
@@ -110,7 +180,7 @@
     "created_at": "2026-06-20T14:26:05.000Z"
   },
   {
-    "id": "730ccbcb-d9bf-41dc-b029-f6c1696bf5e7",
+    "id": "d074cb0c-346e-4281-a7b5-b25ea4d9c216",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "EXPLAINED: 🚀 What do Binance, Hyperliquid, Backpack, and Trust Wallet all have in common?",
@@ -200,7 +270,7 @@
     "created_at": "2026-06-20T12:26:40.000Z"
   },
   {
-    "id": "bad381a8-fb49-4baa-b10f-65c36ef5f62e",
+    "id": "9fc2f44a-8132-4a54-bb52-c66bd548066b",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "EXPLAINED: 🏦 Wall Street seems to only be getting more and more bullish on...",
