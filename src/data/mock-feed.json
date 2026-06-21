@@ -1,5 +1,105 @@
 [
   {
+    "id": "35c89fd8-689b-4a51-a8a8-f22be821b548",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Strategy CEO Phong Le says we'll go from 6 billion people to \"6 trillion agents\" making autonomous decisions for individuals, corporations, and nation-states, all transacting on crypto rails.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#37203d15",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-21T09:35:06+00:00"
+  },
+  {
+    "id": "75aed501-ceca-40e7-8ebb-1903fdef7d3a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "It's time to lock in.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3191b24b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-21T09:05:04+00:00"
+  },
+  {
+    "id": "cc39053c-2c20-4e97-85e4-6917ebfb156f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei ",
+    "summary": "1. A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
+    "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Ezra Reguerra",
+    "created_at": "2026-06-21T08:54:41.000Z"
+  },
+  {
+    "id": "509e7741-462a-407f-8f40-1841a90847bd",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Microsoft Warns of New USB-Based Malware Targeting Crypto Users",
+    "summary": "1. Microsoft has alerted about a malware that spreads through flash drives that use Windows shortcut files to infect devices.\n2. The so-called “clipper” malware searches for crypto addresses in the clipboard and substitutes them with other addresses controlled by attackers.\n3. Microsoft Alerts About Windows Malware That Changes Cryptocurrency Addresses The team behind Microsoft Defender, Windows’ embedded […]",
+    "url": "https://news.bitcoin.com/microsoft-warns-of-new-usb-based-malware-targeting-crypto-users/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-21T08:30:03.000Z"
+  },
+  {
+    "id": "2f60962d-9889-44e3-8211-c7987329c0c8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Strike CEO Jack Mallers says Bitcoin will reach $500K when central planners print money to bail out an inevitable coming liquidity crisis.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4324fd6d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-21T08:05:06+00:00"
+  },
+  {
+    "id": "2dd1f92e-1b3d-4c23-86f9-807eac83851e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+    "summary": "1. Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.",
+    "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-21T07:12:35.000Z"
+  },
+  {
+    "id": "67b9cbc8-c6fd-48fb-9d5a-65e1c354c49a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+    "summary": "1. Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000.\n2. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.",
+    "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-21T06:46:28.000Z"
+  },
+  {
+    "id": "55241250-66ee-43c4-8ed2-d371f6ffc46a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Hunting the Next Marvel? Jensen Huang Already Shared Clues on One Slide",
+    "summary": "1. Marvell $MRVL has gone from a sub-$100 stock to north of $300 since Jensen Huang called it “the next trillion-dollar company”, and now everyone’s hunting for his next hint.\n2. The most useful thing he left on stage was a map.\n3. The following guest post comes from Ziven.io, a public markets intelligence platform delivering data on […]",
+    "url": "https://news.bitcoin.com/hunting-the-next-marvel-jensen-huang-already-shared-clues-on-one-slide/",
+    "author": "Guest Author",
+    "created_at": "2026-06-21T06:30:06.000Z"
+  },
+  {
+    "id": "a35dbc2d-8c72-4c09-ac5b-81fc7d293085",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Iran-Linked Hackers Claim Control of US Security Drones Ahead of the World Cup Kickoff",
+    "summary": "1. A group identifying as Handala and linked to Iran claims it hijacked FBI surveillance drones guarding FIFA World Cup sites that opened June 11, tapping live video and data from facial and license-plate recognition systems.\n2. The FBI has curtailed drone flights over venues as the Justice Department warns of Iranian cyber activity and the State […]",
+    "url": "https://news.bitcoin.com/iran-linked-hackers-claim-control-of-us-security-drones-ahead-of-the-world-cup-kickoff-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-21T05:30:55.000Z"
+  },
+  {
+    "id": "8c4f23c5-0096-44b9-b86b-207747c40724",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇯🇵 Japan's National Business Corporate Pension Fund to allocate 1% of its assets to cryptocurrencies.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#f1b23618",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-21T05:21:46+00:00"
+  },
+  {
     "id": "2069dc51-79c1-4079-9622-c8ef4badbe01",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -28,65 +128,5 @@
     "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "author": "Cointelegraph",
     "created_at": "2026-06-21T04:30:00.000Z"
-  },
-  {
-    "id": "256b7b42-63b5-4a4e-b187-83bbac434214",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "G7 Calls for Global Push to Stop North Korea’s Crypto Theft Network",
-    "summary": "1. G7 leaders elevated North Korea’s crypto thefts as a global security concern, linking digital asset crime to international security and Indo-Pacific stability.\n2. The statement included one direct reference to cryptocurrency thefts, alongside warnings about nuclear and missile programs.\n3. G7 Flags North Korea Crypto Theft in Security Statement The leaders of Canada, France, Germany, Italy, Japan, […]",
-    "url": "https://news.bitcoin.com/g7-calls-for-global-push-to-stop-north-koreas-crypto-theft-network/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-21T03:30:33.000Z"
-  },
-  {
-    "id": "53e4a280-64e2-452b-bf21-89a93b433805",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Your Stablecoins Could Be Frozen Without Warning, Even If You Did Nothing Wrong",
-    "summary": "1. Crypto users can lose access to legitimate funds when stablecoin issuers and institutions freeze assets because enforcement measures are not always precise enough to distinguish illicit funds from lawful holdings, according to Jan Philipp Fritsche, co-founder of Bermuda.\n2. He explained that legitimate users can sometimes be caught up in actions intended to target criminal activity.",
-    "url": "https://news.bitcoin.com/your-stablecoins-could-be-frozen-without-warning-even-if-you-did-nothing-wrong/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-21T02:30:46.000Z"
-  },
-  {
-    "id": "e38a2544-64fb-4954-9862-92f40e71bcc3",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Great daughter.\n2. My\nHonor!!!\n3. President DJT",
-    "url": "https://trumpstruth.org/statuses/39408",
-    "author": "Trump Truth",
-    "created_at": "2026-06-21T01:55:54.000Z"
-  },
-  {
-    "id": "4f3f981e-2ce0-4592-a94a-8f00204d4a54",
-    "source": "Politico",
-    "type": "rss",
-    "title": "World Cup fuels ticketing reform demands",
-    "summary": "1. Advocacy groups urge Congress to get tough on scams.",
-    "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/world-cup-fuels-ticketing-reform-demands-00969201",
-    "author": "By Gregory Svirnovskiy and Jacob Wendler",
-    "created_at": "2026-06-21T00:46:57.000Z"
-  },
-  {
-    "id": "a2415d05-b5b6-44fd-b5b2-3049ae1a01d7",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Many additional people have been arrested having to do with the disgraceful Vandalism of our beautiful Reflecting Pool.\n2. It hasn’t looked or worked like this since 1922, when it was originally built, but even then, it leaked badly, and didn’t work.\n3. Ours worked perfectly, including the mirror like finish, perfectly reflecting the two Great Monuments, which it never had before!",
-    "url": "https://trumpstruth.org/statuses/39407",
-    "author": "Trump Truth",
-    "created_at": "2026-06-21T00:36:44.000Z"
-  },
-  {
-    "id": "47852516-c9f2-4d36-968d-f0fdd6c6b705",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
-    "summary": "1. Jaredfromsubway.eth was responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025.",
-    "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Cointelegraph",
-    "created_at": "2026-06-21T00:04:47.000Z"
   }
 ]
