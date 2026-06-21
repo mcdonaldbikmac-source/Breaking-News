@@ -1,6 +1,66 @@
 [
   {
-    "id": "155d7de2-e7e9-463e-b103-7e4836b57b13",
+    "id": "660956b7-f4bf-4775-aebb-e888608a58a5",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ BlackRock's Jay Jacobs says its spot Bitcoin ETF is pulling crypto-native investors into TradFi, calling the merger of crypto, DeFi, and traditional finance the \"Great Convergence.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#35ea86a4",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-21T14:20:06+00:00"
+  },
+  {
+    "id": "c7c2f0f4-2111-4e2b-8249-8c7004821f9d",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Keir Starmer will resign as Prime Minister of The United Kingdom.\n2. He failed badly on two very important subjects- IMMIGRATION AND ENERGY (OPEN NORTH SEA OIL!).\n3. I wish him well!",
+    "url": "https://trumpstruth.org/statuses/39413",
+    "author": "Trump Truth",
+    "created_at": "2026-06-21T13:59:13.000Z"
+  },
+  {
+    "id": "0496ab90-64ef-43c3-989e-c44611fc8134",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble.\n2. If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!!\n3. President  DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39412",
+    "author": "Trump Truth",
+    "created_at": "2026-06-21T13:30:14.000Z"
+  },
+  {
+    "id": "61fe34f5-ee6f-4ace-961a-144aacc3356c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Saylor’s ‘More Dots’ Post Hints at New Buy as Strategy’s Bitcoin Pile Nears 847K BTC",
+    "summary": "1. Michael Saylor’s latest orange-dot chart sparked fresh speculation that Strategy may have acquired additional bitcoin, drawing attention to the company’s massive 846,842 BTC treasury.\n2. Strategy’s Expansive Bitcoin Holdings Draw Renewed Attention Following Release of New Chart On June 21, Strategy Executive Chairman Michael Saylor shared his signature orange-dot chart on X, a graphic that has […]",
+    "url": "https://news.bitcoin.com/saylors-more-dots-post-hints-at-new-buy-as-strategys-bitcoin-pile-nears-847k-btc/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-21T13:24:11.000Z"
+  },
+  {
+    "id": "8b94f96f-da59-4390-a0b6-6016f1eb3761",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+    "summary": "1. New research outlines how chatbot behaviors, including personalization, mirroring, and excessive agreement, reinforce delusions.",
+    "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-21T13:01:03.000Z"
+  },
+  {
+    "id": "77c0b206-3e86-4118-9ba3-e4dfaf3696f4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "America Flexes While Crypto KOLs Sniff out a Bottom — Week in Review",
+    "summary": "1. This editorial is from this week’s edition of the newsletter Week in Review, sent to subscribers on Friday.\n2. Subscribe to the newsletter to get this weekly editorial the second it’s finished.\n3. The newsletter also includes the biggest stories of the week with a comment on each story.",
+    "url": "https://news.bitcoin.com/america-flexes-while-crypto-kols-sniff-out-a-bottom-week-in-review/",
+    "author": "David Sencil",
+    "created_at": "2026-06-21T13:00:41.000Z"
+  },
+  {
+    "id": "bae86b36-40a5-47e3-8979-81cb0109fae7",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Michael Saylor hints at buying more Bitcoin.\"Looks better with more dots.\"@WatcherGuru",
@@ -10,7 +70,7 @@
     "created_at": "2026-06-21T12:41:30+00:00"
   },
   {
-    "id": "c9ca545b-dad6-4bdb-9544-f2a0b0400f7b",
+    "id": "7df2c63a-71cc-40bd-9f72-03e016e40bfc",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Michael Saylor: Would you rather have Strategy buy 200,000 Bitcoin a year and sell 10,000, or buy no Bitcoin and sell no Bitcoin?",
@@ -20,7 +80,7 @@
     "created_at": "2026-06-21T12:35:06+00:00"
   },
   {
-    "id": "81170532-0fa8-4ddc-9dac-a1bc88d4afa6",
+    "id": "75349248-6a33-4e6e-a562-b24bc10cd11d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump says the US has the \"best economy ever\" with record jobs numbers and stock market.@WatcherGuru",
@@ -50,7 +110,7 @@
     "created_at": "2026-06-21T12:05:04+00:00"
   },
   {
-    "id": "608a6fce-25e7-4d64-a7fd-d9ececa7e110",
+    "id": "554cc9f1-3475-42c1-8f93-82678dca223b",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran’s President says the country will never give up its right to enrich uranium, hardening Tehran’s stance | per state mediaTwitter",
@@ -138,25 +198,5 @@
     "url": "https://news.bitcoin.com/microsoft-warns-of-new-usb-based-malware-targeting-crypto-users/",
     "author": "Sergio Goschenko",
     "created_at": "2026-06-21T08:30:03.000Z"
-  },
-  {
-    "id": "2f60962d-9889-44e3-8211-c7987329c0c8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Strike CEO Jack Mallers says Bitcoin will reach $500K when central planners print money to bail out an inevitable coming liquidity crisis.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4324fd6d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-21T08:05:06+00:00"
-  },
-  {
-    "id": "2dd1f92e-1b3d-4c23-86f9-807eac83851e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-    "summary": "1. Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.",
-    "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-21T07:12:35.000Z"
   }
 ]
