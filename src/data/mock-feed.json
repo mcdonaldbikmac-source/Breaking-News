@@ -1,6 +1,166 @@
 [
   {
-    "id": "660956b7-f4bf-4775-aebb-e888608a58a5",
+    "id": "afe4e2a3-28f8-485a-8315-af25446b45f4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+    "summary": "1. Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+    "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-21T16:35:00.000Z"
+  },
+  {
+    "id": "ab0e624e-ba07-4cbf-b5df-cd461e0ebf44",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Prediction Marketplace Kalshi Said to Be Exploring IPO Path in Informal Talks With Banks",
+    "summary": "1. Kalshi has opened informal talks with investment banks about a possible initial public offering, according to a report from The Information published this week.\n2. According to The Information report, the discussions are early stage.\n3. There is no S-1 filing, no banker selected and no public timeline.",
+    "url": "https://news.bitcoin.com/prediction-marketplace-kalshi-said-to-be-exploring-ipo-path-in-informal-talks-with-banks/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-21T16:30:34.000Z"
+  },
+  {
+    "id": "53023602-4d33-4b7b-869c-58d260aa3658",
+    "source": "Politico",
+    "type": "rss",
+    "title": "What does it cost to air-condition a World Cup?",
+    "summary": "1. Dallas is using the most power among U.S.\n2. stadiums, according to one analysis, but will benefit of Texas's low energy rates when the bill comes due.",
+    "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/world-cup-stadiums-electric-bill-comes-due-dallas-00969213",
+    "author": "By Mike Lee",
+    "created_at": "2026-06-21T16:30:00.000Z"
+  },
+  {
+    "id": "b52eaa6e-7d74-4b7d-a5c0-96e9c7671af3",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+    "summary": "1. Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-06-21T16:05:00.000Z"
+  },
+  {
+    "id": "2e55d8f0-5fed-49e1-9189-6e59345d70ad",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
+    "summary": "1. Both models trade word-by-word generation for parallel denoising.\n2. Only one of them does it without losing intelligence in the trade.",
+    "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-06-21T16:01:03.000Z"
+  },
+  {
+    "id": "4b452af4-890b-4247-8dd4-99abdc8a0ffc",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "The Iranian delegation reportedly refused to take part in a planned handshake and joint photo-op with the U.S.",
+    "summary": "delegation, followed by the Trump's \"you won't make it back home\" early threat Hours earlier, Trump told Fox’s Trey Yingst he warned Iran: “You close it and you won’t have a country” if they shut the Strait of Hormuz “you won’t even make it back to your f***ing country.” Developing.Twitter",
+    "url": "https://t.me/SolidIntelX#47353380",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-21T15:42:44+00:00"
+  },
+  {
+    "id": "04238994-58b4-4ce4-803c-62fafdd3f8fd",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "EXPLAINED: 📊 Bitcoin and Ethereum lost ground last week after the Fed appeared...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ca11f55c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-21T15:40:03+00:00"
+  },
+  {
+    "id": "9f9e1052-8c3c-4d84-9c72-a80641e698bc",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "97% Down — Andre Cronje Exits Sonic Labs Board as S Token Continues to Sink Lower",
+    "summary": "1. Andre Cronje, Michael Kong, and David Richardson resigned from the Sonic Labs board this week, handing control of the struggling layer-one (L1) project to a new executive team.\n2. The three founding board members built Sonic Labs, formerly the Fantom Foundation, from the ground up.\n3. Cronje served as chief technology officer and is known across DeFi […]",
+    "url": "https://news.bitcoin.com/97-down-andre-cronje-exits-sonic-labs-board-as-s-token-continues-to-sink-lower/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-21T15:30:53.000Z"
+  },
+  {
+    "id": "c6fb4099-f6a9-42b2-abac-cc2841701da3",
+    "source": "Politico",
+    "type": "rss",
+    "title": "What SoFi Stadium traffic is teaching LA politicians about the Olympics",
+    "summary": "1. Los Angeles is about to host its fourth match of the tournament, the most of any city thus far.\n2. Olympic organizers are taking notes.",
+    "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/sofi-stadium-traffic-world-cup-olympic-lessons-la-00969211",
+    "author": "By Daniel Miller",
+    "created_at": "2026-06-21T15:30:00.000Z"
+  },
+  {
+    "id": "f04e403f-150f-42ed-b912-ecc6caed3a9a",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Anthropic’s “Mythos” AI broke into almost all NSA classified systems in hours | per The EconomistThis was authorized red-team testing, Sen.",
+    "summary": "Mark Warner says NSA and Cyber Command chief Gen. Joshua Rudd told him directly.During the same week Trump ordered Anthropic to cut foreign access to Mythos. The company shut it down entirely instead. Anthropic’s now reportedly pushing back that the risk is overstated.Mythos has already pulled off a 32-step simulated network attack, a first for any AI.Twitter",
+    "url": "https://t.me/SolidIntelX#faff3722",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-21T15:28:35+00:00"
+  },
+  {
+    "id": "2becb0f6-e2fc-487c-84d8-a0d88a4e74ac",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "summary": "1. On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-21T15:28:17.000Z"
+  },
+  {
+    "id": "e4e074e9-0c8b-41da-9c67-3348e3d37c81",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+    "summary": "1. An X account using the bot's name claimed a $15 million loss and offered a $1 million bounty, but evidence shows it is a likely impersonator.",
+    "url": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-21T15:00:57.000Z"
+  },
+  {
+    "id": "c1d23259-a238-4356-a934-8503ba0ee0ad",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains",
+    "summary": "1. Bitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.",
+    "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "William Suberg",
+    "created_at": "2026-06-21T14:50:55.000Z"
+  },
+  {
+    "id": "81679b9a-672d-495d-91ff-ce7a798460c0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Threatens Iran Again as Hezbollah Attacks Put Ceasefire Deal at Risk",
+    "summary": "1. President Donald Trump threatened to strike Iran again on Sunday unless Tehran reins in Hezbollah and other proxy forces in Lebanon, just four days after signing a ceasefire deal meant to end the 2026 Iran war.\n2. Trump made the warning in a Truth Social post at 9:30 a.m.\n3. “Iran must immediately stop their highly […]",
+    "url": "https://news.bitcoin.com/trump-threatens-iran-again-as-hezbollah-attacks-put-ceasefire-deal-at-risk-37856/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-21T14:30:19.000Z"
+  },
+  {
+    "id": "fe2deae7-bd71-4984-8d2a-8777af33fa0c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Gallego tapped campaign cash for family travel, Super Bowl tickets, records show",
+    "summary": "1. Ruben Gallego (D-Ariz.) has deployed donor funds to cover travel for his family, child care and a trip to the Super Bowl, a POLITICO review of campaign finance records shows.",
+    "url": "https://www.politico.com/news/2026/06/21/gallego-campaign-donors-travel-00969326",
+    "author": "By Irie Sentner",
+    "created_at": "2026-06-21T14:30:00.000Z"
+  },
+  {
+    "id": "8261e188-c25a-4f49-a939-3e0434a28bea",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
+    "summary": "1. Bitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Yashu Gola",
+    "created_at": "2026-06-21T14:21:06.000Z"
+  },
+  {
+    "id": "885c7cfe-2863-44e7-b310-f3889e2fd3c4",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ BlackRock's Jay Jacobs says its spot Bitcoin ETF is pulling crypto-native investors into TradFi, calling the merger of crypto, DeFi, and traditional finance the \"Great Convergence.\"",
@@ -60,7 +220,7 @@
     "created_at": "2026-06-21T13:00:41.000Z"
   },
   {
-    "id": "bae86b36-40a5-47e3-8979-81cb0109fae7",
+    "id": "1f8b7f5c-6cbb-41cd-9e2c-3174b5e65f44",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Michael Saylor hints at buying more Bitcoin.\"Looks better with more dots.\"@WatcherGuru",
@@ -80,7 +240,7 @@
     "created_at": "2026-06-21T12:35:06+00:00"
   },
   {
-    "id": "75349248-6a33-4e6e-a562-b24bc10cd11d",
+    "id": "911043c7-494c-4f43-b7fe-ecd767d0742d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump says the US has the \"best economy ever\" with record jobs numbers and stock market.@WatcherGuru",
@@ -110,7 +270,7 @@
     "created_at": "2026-06-21T12:05:04+00:00"
   },
   {
-    "id": "554cc9f1-3475-42c1-8f93-82678dca223b",
+    "id": "c176a312-8f0b-49b8-ab34-e44cf32f49a9",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran’s President says the country will never give up its right to enrich uranium, hardening Tehran’s stance | per state mediaTwitter",
@@ -148,55 +308,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#253f64a7",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-21T11:20:07+00:00"
-  },
-  {
-    "id": "7a6e68e6-f9ea-43dc-9f13-82a875b56948",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?",
-    "summary": "1. STRC’s slide below par has emboldened critics, slowed Strategy’s Bitcoin buys and sparked debate over whether Michael Saylor’s BTC flywheel is still fine.",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Yashu Gola",
-    "created_at": "2026-06-21T10:15:57.000Z"
-  },
-  {
-    "id": "35c89fd8-689b-4a51-a8a8-f22be821b548",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Strategy CEO Phong Le says we'll go from 6 billion people to \"6 trillion agents\" making autonomous decisions for individuals, corporations, and nation-states, all transacting on crypto rails.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#37203d15",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-21T09:35:06+00:00"
-  },
-  {
-    "id": "75aed501-ceca-40e7-8ebb-1903fdef7d3a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "It's time to lock in.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3191b24b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-21T09:05:04+00:00"
-  },
-  {
-    "id": "cc39053c-2c20-4e97-85e4-6917ebfb156f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei ",
-    "summary": "1. A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
-    "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Ezra Reguerra",
-    "created_at": "2026-06-21T08:54:41.000Z"
-  },
-  {
-    "id": "509e7741-462a-407f-8f40-1841a90847bd",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Microsoft Warns of New USB-Based Malware Targeting Crypto Users",
-    "summary": "1. Microsoft has alerted about a malware that spreads through flash drives that use Windows shortcut files to infect devices.\n2. The so-called “clipper” malware searches for crypto addresses in the clipboard and substitutes them with other addresses controlled by attackers.\n3. Microsoft Alerts About Windows Malware That Changes Cryptocurrency Addresses The team behind Microsoft Defender, Windows’ embedded […]",
-    "url": "https://news.bitcoin.com/microsoft-warns-of-new-usb-based-malware-targeting-crypto-users/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-21T08:30:03.000Z"
   }
 ]
