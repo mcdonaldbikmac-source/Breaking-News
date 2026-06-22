@@ -1,5 +1,125 @@
 [
   {
+    "id": "5d1d106d-fe3c-4d5c-8a0f-840fd18b1bac",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Why Lummis Says the CLARITY Act Will End the ‘Absurdity’ Facing US Software Developers",
+    "summary": "1. Senator Cynthia Lummis is urging colleagues to pass the Digital Asset Market Clarity Act, arguing the bill would free software developers from the threat of prosecution for simply publishing code.\n2. Developers in the Crosshairs Lummis made her case via a statement shared on June 22, singling out the legal exposure faced by the people […]",
+    "url": "https://news.bitcoin.com/lummis-clarity-act-software-developers-code-legal/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-22T08:30:29.000Z"
+  },
+  {
+    "id": "5dd47458-9ce1-4542-85cf-bce28c6068cc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "$451.7M in BTC longs face liquidation at $62,968",
+    "summary": "According to data from Coinglass, an estimated $451.70 million in long positions on major centralized exchanges (CEX) will be liquidated if BTC drops to $62,968. A break above $64,911 would trigger the liquidation of $326.25 million in short positions.",
+    "url": "https://t.me/CoinnessGL#82449eb4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T08:28:14+00:00"
+  },
+  {
+    "id": "64a7f6e7-c2cd-4805-ae2c-d88469dc0f9e",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "US and Iran agree to a roadmap toward a final peace deal within 60 days after marathon talks in Switzerland, including a \"deconfliction cell\" to end the fighting in Lebanon | per CNBCTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#bbc3f086",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-22T08:18:46+00:00"
+  },
+  {
+    "id": "ce792648-7db2-4cef-b59d-13bceed874bd",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bank of England scraps stablecoin holding limits",
+    "summary": "The Bank of England (BOE) has eased its stablecoin regulations, Unfolded reported. The central bank has scrapped its previously considered holding limits for individuals and corporations. In its place, the BOE has set a total issuance cap for each stablecoin, initially at £40 billion ($54 billion). It has also reportedly relaxed some requirements for stablecoin reserve assets in response to industry feedback.",
+    "url": "https://t.me/CoinnessGL#6ca61947",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T08:01:18+00:00"
+  },
+  {
+    "id": "cb8f3d9b-c9c5-43c2-8974-a1a4c6dc5529",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Korea Exchange chair calls for progress on stablecoin adoption",
+    "summary": "Jeong Eun-bo, Chairman of the Korea Exchange, stated today that discussions on introducing stablecoins must progress to prevent South Korea from falling behind the global trend in decentralized finance, adding that he hopes to see various transactions using stablecoins introduced into the nation's capital market. According to the Maeil Business Newspaper, Jeong emphasized that it would be difficult to guarantee the capital market's long-term survival if the exchange fails to establish itself as a global premium market, attract liquidity from overseas investors, and adapt its role for the era of decentralized finance. more:",
+    "url": "https://t.me/CoinnessGL#7f2bec59",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T07:59:00+00:00"
+  },
+  {
+    "id": "f6c3b7bb-fec5-4077-ade2-6fa28d3412c2",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Bank of England to allow regulated UK stablecoins from 2027, with issuers required to keep 30% of reserves at the central bankTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#17427efb",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-22T07:58:25+00:00"
+  },
+  {
+    "id": "668e5bd4-07b9-4687-9d86-d27f2fc1d12f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 FBI Director Kash Patel vowed to bring \"pig butchering\" crypto scammers to justice, saying fraudsters have been \"scamming and taking advantage of the American people for too long.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#65821162",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-22T07:55:05+00:00"
+  },
+  {
+    "id": "1865d2aa-7e2b-4ae7-9254-95371a04f41b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week",
+    "summary": "1. Eased ETF selling and improving risk appetite are being offset by a firmer dollar and cautious institutional flows, leaving bitcoin range-bound, one analyst said.",
+    "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-22T07:34:05.000Z"
+  },
+  {
+    "id": "18549b2f-ab4d-4b6a-baab-865f728fff55",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Steadies Around $64,000 as US and Iran Agree on Roadmap to a Final Deal Within 60 Days",
+    "summary": "1. Mediators Qatar and Pakistan say the United States and Iran have agreed on a roadmap toward a final deal within 60 days, with technical talks beginning immediately.\n2. A 60-Day Window The two mediators said a high-level committee agreed on a roadmap toward reaching a final deal within 60 days, laying the groundwork for technical talks […]",
+    "url": "https://news.bitcoin.com/bitcoin-us-iran-roadmap-final-deal-60-days/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-22T07:30:08.000Z"
+  },
+  {
+    "id": "0df2629d-09a4-4ae5-94ff-3f9b59071d18",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitget enables direct US stock purchases using crypto",
+    "summary": "1. Bitget launched Stock+, enabling crypto-funded purchases of full and fractional US stocks through regulated brokers.",
+    "url": "https://www.theblock.co/post/405507/bitget-us-stock-purchases-crypto?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-06-22T07:06:15.000Z"
+  },
+  {
+    "id": "b071025b-5772-4019-9a9c-9a0957ce1669",
+    "source": "The Block",
+    "type": "rss",
+    "title": "How Does Tether Make Money? Understanding the Business Model Behind USDT",
+    "summary": "1. Tether primarily makes money by earning interest on the reserve assets that back USDT, the world’s largest stablecoin.\n2. When USDT is minted, Tether receives dollars or equivalent assets and invests most of those reserves in short-term U.S.\n3. Treasury bills and other low-risk instruments.",
+    "url": "https://www.theblock.co/learn/405498/how-does-tether-make-money?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-06-22T07:05:14.000Z"
+  },
+  {
+    "id": "bae6394c-a9df-44ef-8291-2dc7fadcf00f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "South Korea’s Toss Bank to test blockchain-based financial infrastructure on Solana",
+    "summary": "1. Toss Bank and Solana will work on a proof-of-concept for overseas remittances and payments involving stablecoins.",
+    "url": "https://www.theblock.co/post/405505/toss-solana-partnership?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-22T06:37:28.000Z"
+  },
+  {
     "id": "365a87de-607a-4122-b98a-669ddcc3cab9",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -240,7 +360,7 @@
     "created_at": "2026-06-22T03:30:51.000Z"
   },
   {
-    "id": "1b4568ee-863f-417e-a24d-916a2d0da11b",
+    "id": "30ed83a0-9312-4757-b347-61bfd2d10332",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Toss Bank is partnering with the Solana Foundation to test stablecoin-based global remittances, the first direct one-to-one deal between a South Korean internet-only bank and SolanaTwitter",
@@ -268,75 +388,5 @@
     "url": "https://news.bitcoin.com/franklin-templeton-files-new-bitcoin-drip-etfs-that-turn-stock-dividends-into-btc/",
     "author": "Kevin Helms",
     "created_at": "2026-06-22T02:40:21.000Z"
-  },
-  {
-    "id": "440bdd3f-0744-465a-a324-46cf1a8cd624",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Altura to phase out vault operations amid withdrawal rush",
-    "summary": "Ranveer Arora, CEO of the hyperEVM-based yield protocol Altura, has announced that the Altura Vault will be phased out. He stated on X that the decision was made after an unprecedented volume of withdrawal requests over the past 24 hours, during which the protocol immediately processed redemptions of more than 8.5 million USDT. Arora added that while some positions can be redeemed immediately, others will require more time. He explained that funds are being returned as the underlying positions are redeemed.",
-    "url": "https://t.me/CoinnessGL#ac780cef",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T02:03:47+00:00"
-  },
-  {
-    "id": "f2b7e5be-1f17-442e-9243-f788d43cddd6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst: Long-term BTC holders remain calm amid correction",
-    "summary": "Long-term Bitcoin holders are remaining calm amid the market correction that has heightened anxiety among short-term investors, according to on-chain analyst Darkfost. On X, he noted that a 2020 Glassnode study found that BTC held for over 155 days is significantly less likely to be moved. Darkfost pointed to the Cumulative Value Days Destroyed (CVDD) indicator, a key metric for tracking selling by long-term holders, which has fallen to around 0.3—a level historically seen during bear markets or major corrections. In contrast, when the CVDD surged past two and even four in March 2024, it was widely interpreted as a market top signal accompanied by active selling from this cohort. He assessed that long-term holders are currently maintaining their composure and are likely to wait for higher prices before taking profits, suggesting this may be the most prudent course of action at present.",
-    "url": "https://t.me/CoinnessGL#eef64020",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T01:44:10+00:00"
-  },
-  {
-    "id": "647ad4c4-2a2b-4e7f-9e41-560476cac9d7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Ethereum Foundation 'doesn't deserve help' amid funding criticism",
-    "summary": "The Ethereum Foundation (EF) is facing growing industry criticism over its financial and organizational management.Marc Zeller, founder of the Aave governance group Aave Chan Initiative (ACI), said on X that the EF could have been operated easily with common-sense budgeting. He argued the foundation should have used its reserves as collateral and funded valuable projects instead of things like \"52 clients that nobody uses or meetups in Lesotho.\" Zeller added that after the delayed transition to Proof-of-Stake (PoS), the EF could have staked its vast ETH holdings to operate indefinitely on the returns. \"If the EF hits a wall, it doesn't deserve help. Ethereum will be fine though,\" he concluded.Similarly, Keyring Network founder Alex McPharlane stressed that financial management and DeFi were \"taboo subjects\" at the EF, where those concerned about finances were seen as not focusing on the big picture. \"Now the funding shortage is a reality,\" he said. McPharlane noted that the EF holds between $500 million and $900 million in liquid assets, which should be sufficient to support a $20 million to $30 million annual budget, calling an inability to manage this \"incompetent.\"This follows a previous warning from Trent Van Epps, who formerly handled core development funding at the Ethereum Foundation. He had pointed out that the Ethereum core development sector could face a funding crisis within three to nine months. more:",
-    "url": "https://t.me/CoinnessGL#fde25760",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T01:43:40+00:00"
-  },
-  {
-    "id": "7602ede8-25d4-4a41-8855-e1737166cea9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Faces Institutional Demand Shortfall as Coinbase-Binance Gap Flashes Warning",
-    "summary": "1. Professional investors have yet to return to the bitcoin market in force, with a key measure of exchange pricing showing persistent caution among U.S.-based institutions.\n2. Analysts say the extended discount on Coinbase relative to Binance points to weak institutional demand, while retail participation continues to provide support for market activity.\n3. Institutional Buyers Stay on the […]",
-    "url": "https://news.bitcoin.com/bitcoin-faces-institutional-demand-shortfall-as-coinbase-binance-gap-flashes-warning/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-22T01:40:28.000Z"
-  },
-  {
-    "id": "747675e3-0c13-40c0-9fcc-23ca46e52ce6",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. He Won, BIG!",
-    "url": "https://trumpstruth.org/statuses/39421",
-    "author": "Trump Truth",
-    "created_at": "2026-06-22T01:01:56.000Z"
-  },
-  {
-    "id": "11dff01a-96b6-452d-aaa8-433aec2d5269",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Robert Kiyosaki Plans to Buy Bitcoin After Reversal as Gold Charts Signal ‘Massive’ Rise",
-    "summary": "1. Robert Kiyosaki says recent declines in gold, silver, bitcoin, and ethereum have not shaken his conviction.\n2. He is closely watching for a technical reversal before making his next move.\n3. Kiyosaki Is Watching Gold, Silver, Bitcoin, and Ethereum for Trend Reversal Rich Dad Poor Dad author Robert Kiyosaki said on June 20 that he is monitoring […]",
-    "url": "https://news.bitcoin.com/robert-kiyosaki-plans-to-buy-bitcoin-after-reversal-as-gold-charts-signal-massive-rise/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-22T00:40:08.000Z"
-  },
-  {
-    "id": "cda21110-a11c-4013-b8f1-b15ba165d66a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Failing New York Times is CORRUPT!",
-    "url": "https://trumpstruth.org/statuses/39420",
-    "author": "Trump Truth",
-    "created_at": "2026-06-22T00:36:13.000Z"
   }
 ]
