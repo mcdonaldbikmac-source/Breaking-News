@@ -1,5 +1,125 @@
 [
   {
+    "id": "365a87de-607a-4122-b98a-669ddcc3cab9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "That $100,000 Lottery Ticket in Indiana Came Down to One Printing Detail",
+    "summary": "1. The Indiana Lottery has suspended sales of its “Space Invaders Cash Invasion” scratch-off game after a ticket-printing error led some players to think they’d hit much larger prizes.\n2. Mike Fields said his ticket appeared to show a $100,000 win, but officials told him the payout was $20, with other players reporting similar discrepancies.",
+    "url": "https://news.bitcoin.com/that-100000-lottery-ticket-in-indiana-came-down-to-one-printing-detail-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-22T06:30:04.000Z"
+  },
+  {
+    "id": "61a381a3-8bac-4ca3-bdef-9de5b79b408f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitcoin Weekly Pick S2 kicks off with 5 analysts bullish, 2 bearish",
+    "summary": "Two of the seven technical analysts affiliated with CoinNess predicted a decline in Bitcoin's price this week, while five forecast a rise. The highest price target among the analysts is $67,300, and the lowest is $59,500.Note: Readers can vote for the forecast that aligns with their views via the provided link. A total of 100 voters will be randomly selected to receive a coffee coupon. more:",
+    "url": "https://t.me/CoinnessGL#57e4b6f0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T06:29:41+00:00"
+  },
+  {
+    "id": "d1de80dc-01b8-45ae-8fe5-fe1895ce0bba",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Won stablecoin usage may cap at 4.4% even if widely accepted, study finds",
+    "summary": "A new analysis suggests that even if nine out of ten merchants in South Korea were to accept a won-backed stablecoin, its usage rate would likely not exceed 4.4%. According to Money Today, the Korea Institute of Finance projected in a recent report that a 90% merchant acceptance rate would lead to an 18.5% adoption rate, where customers register and hold the stablecoin in a wallet. However, the actual usage rate for payments would be just 4.4%. This means that even with widespread availability, only about four out of every 100 customers would use the stablecoin for transactions. more:",
+    "url": "https://t.me/CoinnessGL#975eba71",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T06:27:18+00:00"
+  },
+  {
+    "id": "63a8109a-bd9c-4868-a581-afb5dc27c77e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why",
+    "summary": "1. A helpful feature of speeding up transactions has become redundant and a \"fingerprint\" for tracking.\n2. Developers now want to do away with it.",
+    "url": "https://www.coindesk.com/tech/2026/06/22/bitcoin-developers-want-to-fix-the-replace-this-transaction-with-a-higher-fee-button-here-s-why",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-22T06:19:13.000Z"
+  },
+  {
+    "id": "1a4ddc10-fd0a-46eb-af7f-5035320a7fd8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC perp long/short ratios on top exchanges",
+    "summary": "BTC perp long/short ratios on top exchanges by open interestThe following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 45.1% long, 54.9% short- Binance: 50.35% long, 49.65% short- OKX: 49.72% long, 50.28% short- Bybit: 50.41% long, 49.59% short",
+    "url": "https://t.me/CoinnessGL#5c652892",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T06:04:36+00:00"
+  },
+  {
+    "id": "96c6889c-1234-4151-9e2a-3fbc8a5cadec",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Cointelegraph",
+    "created_at": "2026-06-22T06:00:00.000Z"
+  },
+  {
+    "id": "e0d72630-ed59-40f7-b06a-aaf04f0ef243",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
+    "summary": "1. A new governance proposal would let validators redirect part of their staking income toward ecosystem funding, raising questions about coordination, incentives and who gets to decide where the money goes.",
+    "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-22T05:43:26.000Z"
+  },
+  {
+    "id": "79c545a6-923b-4cec-a0c1-9eb6b9959f25",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
+    "summary": "1. ETF analyst Eric Balchunas says Morgan Stanley’s plan to charge 0.14% fees on two upcoming crypto ETFs makes them “the cheapest in [the] US and world.”",
+    "url": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Jesse Coghlan",
+    "created_at": "2026-06-22T05:40:26.000Z"
+  },
+  {
+    "id": "a32126bb-a177-49ad-a5dd-8c0409227569",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Ethan Thornton is trying to do everything all at once",
+    "summary": "1. Mach's approach differs sharply from some of its peers.",
+    "url": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+    "author": "Connie Loizos",
+    "created_at": "2026-06-22T05:31:59.000Z"
+  },
+  {
+    "id": "193da499-9d4e-4d1b-8973-e66e1563b598",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Taiko urges users to withdraw as bridge exploit drains $1.7M",
+    "summary": "1. Taiko’s bridge and ERC20 Vault on Ethereum suffered a compromise in its chain state verification mechanism, allowing forged proofs and unauthorized withdrawals.",
+    "url": "https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Martin Young",
+    "created_at": "2026-06-22T05:31:18.000Z"
+  },
+  {
+    "id": "5e4ac41f-3b3f-4460-a8d7-6ca7e7c10e39",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP briefly loses $1.14 support before buyers drive sharp rebound",
+    "summary": "1. Heavy selling pushed XRP to its lowest level of the weekend session, but strong buying quickly erased most of the decline and returned the token to its recent trading range.",
+    "url": "https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-22T05:17:18.000Z"
+  },
+  {
+    "id": "143c7aa4-e4e3-491d-94e9-542d0b25a7b1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Japan’s corporate pension fund plans to allocate 1% of assets to crypto: reports",
+    "summary": "1. The National Business Corporate Pension Fund plans to allocate roughly 1% of its assets to crypto, according to Coinpost.",
+    "url": "https://www.theblock.co/post/405489/japan-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-22T05:15:08.000Z"
+  },
+  {
     "id": "62120b74-17a9-4a11-91a2-062eb2f5c853",
     "source": "The Block",
     "type": "rss",
@@ -120,7 +240,7 @@
     "created_at": "2026-06-22T03:30:51.000Z"
   },
   {
-    "id": "551bb176-0071-4761-b7d5-2756b146d2e0",
+    "id": "1b4568ee-863f-417e-a24d-916a2d0da11b",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Toss Bank is partnering with the Solana Foundation to test stablecoin-based global remittances, the first direct one-to-one deal between a South Korean internet-only bank and SolanaTwitter",
@@ -130,7 +250,7 @@
     "created_at": "2026-06-22T03:25:47+00:00"
   },
   {
-    "id": "cb9d53d7-a8c8-4a4e-9706-82df4269f3ed",
+    "id": "b8d7b207-e1ee-42f3-a394-a1c2856e84a8",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran’s FM Araghchi says the US has waived oil and petrochemical exports, lifted the naval blockade, released some frozen assets, and launched a reconstruction plan, with a 60-day roadmap to a final deal US officials haven’t confirmed the waivers or asset release and Araghchi calls a new “Lebanon deconfliction cell” the deal’s “first real test.” That test is already failing as Israel’s Defense Minister Katz says troops won’t leave Lebanon “regardless of any agreement,” and Ben-Gvir vows “not a single inch.” Iran says the roadmap doesn’t start until Israel fully withdraws.Twitter",
@@ -218,15 +338,5 @@
     "url": "https://trumpstruth.org/statuses/39420",
     "author": "Trump Truth",
     "created_at": "2026-06-22T00:36:13.000Z"
-  },
-  {
-    "id": "69c7d34a-313d-477c-a990-cc4d6bf26999",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ethereum Infrastructure Funding: Kleros Founder Proposes Protocol-Level Validator Redirect Rate",
-    "summary": "1. A proposal that seeks to implement a semi-voluntary redirect rate to subsidize the creation and operation of shared infrastructure by validators.\n2. If the majority of validators agree, the rate becomes mandatory for all, and they can choose which organization gets part or all of these funds.\n3. Controversial Redirect Rate Ethereum Infrastructure Funding Proposal Surges To […]",
-    "url": "https://news.bitcoin.com/ethereum-infrastructure-funding-kleros-founder-proposes-protocol-level-validator-redirect-rate/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-06-21T23:40:59.000Z"
   }
 ]
