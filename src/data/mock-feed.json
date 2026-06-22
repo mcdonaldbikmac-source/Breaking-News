@@ -1,5 +1,65 @@
 [
   {
+    "id": "62120b74-17a9-4a11-91a2-062eb2f5c853",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds",
+    "summary": "1. Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.",
+    "url": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-22T05:02:27.000Z"
+  },
+  {
+    "id": "1e962bf1-43f6-4d79-9f0b-ade1c3beb91f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit, Bithumb add TAIKO to delisting watchlist",
+    "summary": "South Korean crypto exchanges Upbit and Bithumb have added Taiko (TAIKO) to their delisting watchlists. The exchanges cited the potential for user harm following a security incident, such as a hack with an unresolved cause, on the asset's wallet or distributed ledger.",
+    "url": "https://t.me/CoinnessGL#405a004f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T05:01:35+00:00"
+  },
+  {
+    "id": "1a6470cd-53b0-4ae8-bb4b-27b9b3879bb0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
+    "summary": "1. sian stocks and tech climbed as the US and Iran agreed a roadmap to a final peace deal, sending oil below $80.\n2. Crypto stayed soft, with bitcoin down 2% on the week and the memecoins leading the losses.",
+    "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-22T04:58:49.000Z"
+  },
+  {
+    "id": "e3ed55d6-dd40-417a-8090-4e6ab7f1e492",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bank of Korea's CBDC to link with commercial bank account systems",
+    "summary": "The Bank of Korea's central bank digital currency (CBDC) experiment is advancing to a new stage that will connect it with commercial banks' actual account systems, the Electronic Times Internet reported. Participating banks are currently building the necessary infrastructure within a test environment designated by the BOK and based on Naver Cloud. This infrastructure includes electronic wallets for customers and merchants, a voucher system for executing treasury fund payments, digital currency management tools, and blockchain integration. The system will ultimately link to the banks' core account ledgers and smart banking services. more:",
+    "url": "https://t.me/CoinnessGL#519f8b6d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T04:53:36+00:00"
+  },
+  {
+    "id": "8a8e18d1-6334-42e9-af95-70c5768d4d62",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bank of Korea's deposit token project aims for commercialization, sparking concern among banks",
+    "summary": "The Bank of Korea is pursuing its deposit token project with the clear intention of full-scale commercialization, not just as a pilot program, Maeil Business Newspaper reported. The country's banking sector has expressed concerns, stating that subsequent phases, which include enabling peer-to-peer transfers and expanding use cases, would require procedures on par with launching an entirely new business and have requested a schedule adjustment. According to a document submitted by the Korea Federation of Banks to the office of People Power Party lawmaker Lee Heon-seung, the central bank and commercial banks are planning follow-up tests to build a foundation for the formal introduction and widespread use of the tokens, aiming for continuous operation without service interruption. more:",
+    "url": "https://t.me/CoinnessGL#0fb98f63",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T04:51:34+00:00"
+  },
+  {
+    "id": "06061d3e-dc5f-40ed-abec-da05103a3773",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Polygon Dominates Latam: How the Network Processed $309 Million in Stablecoins Last Month",
+    "summary": "1. Sandeep Nailwal, co-founder of the Polygon Foundation, stressed that the network managed over $300 million in stablecoins from emerging markets in May.\n2. He also highlighted that the growth of non-dollar stablecoins has reached 16x over the last 6 years, and that this was “just getting started.” Polygon Registers Around $309 Million In Latam Stablecoin Volumes […]",
+    "url": "https://news.bitcoin.com/polygon-dominates-latam-how-the-network-processed-309-million-in-stablecoins-last-month/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-22T04:40:15.000Z"
+  },
+  {
     "id": "17e59e40-88d5-48db-8952-2ca325e192a6",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -50,7 +110,17 @@
     "created_at": "2026-06-22T03:40:14.000Z"
   },
   {
-    "id": "56260929-3093-458b-96b3-cdd32261df99",
+    "id": "f4057887-2c1e-4c71-8e65-ce685169e29e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Altura winds down stablecoin vault after ‘unprecedented level’ of withdrawal requests",
+    "summary": "1. Altura's CEO said market speculation played a part, seemingly referring to contagion fears linked to the depegging of Main Street's msUSD.",
+    "url": "https://www.theblock.co/post/405477/altura-winds-down-stablecoin-vault?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-22T03:30:51.000Z"
+  },
+  {
+    "id": "551bb176-0071-4761-b7d5-2756b146d2e0",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Toss Bank is partnering with the Solana Foundation to test stablecoin-based global remittances, the first direct one-to-one deal between a South Korean internet-only bank and SolanaTwitter",
@@ -60,7 +130,7 @@
     "created_at": "2026-06-22T03:25:47+00:00"
   },
   {
-    "id": "7f71646d-8aee-4f5a-be11-738a4cbabbcc",
+    "id": "cb9d53d7-a8c8-4a4e-9706-82df4269f3ed",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran’s FM Araghchi says the US has waived oil and petrochemical exports, lifted the naval blockade, released some frozen assets, and launched a reconstruction plan, with a 60-day roadmap to a final deal US officials haven’t confirmed the waivers or asset release and Araghchi calls a new “Lebanon deconfliction cell” the deal’s “first real test.” That test is already failing as Israel’s Defense Minister Katz says troops won’t leave Lebanon “regardless of any agreement,” and Ben-Gvir vows “not a single inch.” Iran says the roadmap doesn’t start until Israel fully withdraws.Twitter",
@@ -158,25 +228,5 @@
     "url": "https://news.bitcoin.com/ethereum-infrastructure-funding-kleros-founder-proposes-protocol-level-validator-redirect-rate/",
     "author": "Sergio Goschenko",
     "created_at": "2026-06-21T23:40:59.000Z"
-  },
-  {
-    "id": "71fcbb42-096b-4ad3-900d-a75c541b1d48",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "summary": "1. Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "author": "OpenAI",
-    "created_at": "2026-06-21T23:00:00.000Z"
-  },
-  {
-    "id": "e12eb38b-c672-4294-992a-30ca965d87c2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
-    "summary": "1. The Journal reviewed more than 1,100 videos and found none of the roughly $1.9 million in bets shown in influencer-produced hype videos were real.",
-    "url": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-21T22:42:56.000Z"
   }
 ]
