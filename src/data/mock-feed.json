@@ -1,5 +1,335 @@
 [
   {
+    "id": "f18f3c69-4f75-4079-81fc-0f0b8bb303a2",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+    "summary": "1. The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+    "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-06-22T22:43:12.000Z"
+  },
+  {
+    "id": "883cf224-5a62-45ce-9378-5a09c248245b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Sen. Lummis: Regulatory uncertainty driving crypto developers out of US",
+    "summary": "Pro-crypto U.S. Senator Cynthia Lummis is urging Congress to pass the Clarity bill, arguing that regulatory uncertainty is driving cryptocurrency developers overseas. Lummis stated that the U.S. must establish a clear regulatory framework through the legislation to maintain its competitive edge in innovation.",
+    "url": "https://t.me/CoinnessGL#84d3a3d1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T22:36:25+00:00"
+  },
+  {
+    "id": "8d975d27-334f-42a9-ac02-049d748f7b5b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC falls below $64,000",
+    "summary": "According to CoinNess market monitoring, BTC has fallen below $64,000. BTC is trading at $63,918.79 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#89fa893b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T22:28:18+00:00"
+  },
+  {
+    "id": "97c3abdc-911b-489b-9e0f-6476f17caa6e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Allunity Launches SEKAU as First MiCA-Compliant Swedish Krona Stablecoin",
+    "summary": "1. Allunity has launched SEKAU, a Swedish krona-backed stablecoin issued as a regulated e-money token under MiCA.\n2. The token is backed 1:1 by segregated SEK reserves and will debut across five blockchain networks.\n3. Allunity Targets Institutional Payments With New Swedish Krona Stablecoin Allunity is expanding its European stablecoin lineup with the launch of SEKAU, a Swedish […]",
+    "url": "https://news.bitcoin.com/allunity-launches-sekau-as-first-mica-compliant-swedish-krona-stablecoin/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-22T22:25:51.000Z"
+  },
+  {
+    "id": "70d26cfe-fae9-40f7-b42a-543bbc18c691",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CME FedWatch shows 63.7% chance of Fed rate hold in July",
+    "summary": "Data from CME FedWatch indicates a 63.7% probability that the Federal Reserve will hold its benchmark interest rate steady at the July Federal Open Market Committee (FOMC) meeting, with a 36.3% chance of a 25 basis point (0.25 p.p.) hike. Looking ahead to the September meeting, the probability of a rate hold is 26.1%, while the chance of a cumulative 25 bp hike stands at 52.2%.",
+    "url": "https://t.me/CoinnessGL#08eb51b7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T22:24:58+00:00"
+  },
+  {
+    "id": "66efabb1-5831-47ef-be6b-45722baeedf9",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Morgan Stanley amended its Ethereum and Solana ETF filings to reveal 0.14% fees, which Bloomberg’s Eric Balchunas says would make them the cheapest ETFs in the world.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8afae08b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-22T22:20:21+00:00"
+  },
+  {
+    "id": "3c6302a1-a9ec-480a-9490-69039c48e162",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin funding rate hits 2-week high: Is $70K next?",
+    "summary": "1. Bitcoin’s funding rate and orderbook setup signal investor optimism, but ETF outflows and macro red flags could limit BTC’s short-term upside.",
+    "url": "https://cointelegraph.com/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Marcel Pechman",
+    "created_at": "2026-06-22T22:15:51.000Z"
+  },
+  {
+    "id": "f6826dfa-411e-4115-a277-a270dc9c590c",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Here is another example of a crazy pro-algae (likely paid) protestor.\n2. The sign says, “First they came for the algae…” which is in reference to a famous post-WW2 statement about Germans not speaking out against the Nazis: \n“…Then they came for the Jews, and I did not speak out—because I was not a Jew.\n3. Then they came for me—and there was no one left to speak for me.”",
+    "url": "https://trumpstruth.org/statuses/39454",
+    "author": "Trump Truth",
+    "created_at": "2026-06-22T22:04:09.000Z"
+  },
+  {
+    "id": "759586f5-435f-4742-94e8-b91a850e9a43",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Finland Convicts a Streamer of a Gambling Crime for Casino Promos",
+    "summary": "1. A Finnish court fined streamer “Pottukoira” about $2,700 for promoting offshore casinos to local viewers, and ruled that prosecutors did not need to show he was ever paid – a rare criminal conviction as regulators worldwide tighten on influencer gambling ads.\n2. A rare criminal hit on a gambling influencer A district court in North Savo, […]",
+    "url": "https://news.bitcoin.com/finland-convicts-a-streamer-of-a-gambling-crime-for-casino-promos/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-06-22T21:50:35.000Z"
+  },
+  {
+    "id": "40660f91-6562-47bb-9ee3-a039b0f1c659",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 CryptoQuant CEO Ki Young Ju says the BTC-to-altcoin rotation that once fueled alt seasons has \"basically disappeared,\" with BTC-pair altcoin volume collapsing to its lowest since 2021.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f7313614",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-22T21:45:22+00:00"
+  },
+  {
+    "id": "cf60d15b-28eb-42c3-8be3-ddef568f8461",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?",
+    "summary": "1. Bitcoin Magazine\n\nTrump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?\n2. Trump’s recent executive orders will accelerate the U.S.\n3. quantum computing and post-quantum encryption timelines.",
+    "url": "https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-22T21:35:38.000Z"
+  },
+  {
+    "id": "bc908ad9-0760-4b23-ad8e-a96acf58e785",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Leading South Korean Bank Toss Taps Solana to Test Cross-Border Remittances for 15 Million Customers",
+    "summary": "1. South Korea’s Toss Bank has signed a memorandum of understanding with the Solana Foundation to test blockchain-based remittance and settlement infrastructure.\n2. A First for a Korean Internet Bank Toss Bank, South Korea’s third-largest internet-only bank, said it signed the agreement in Seoul on June 19 and called it the “first direct strategic cooperation agreement between […]",
+    "url": "https://news.bitcoin.com/toss-bank-solana-foundation-remittances-stablecoin/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-22T21:20:40.000Z"
+  },
+  {
+    "id": "353d6bfb-1803-4f65-977a-803fdba5e38b",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts",
+    "summary": "1. The CFTC issued a request for comment on running standard futures around the clock and on perpetual contracts referencing physically delivered energy commodities such as crude oil, extending the perpetual-contract model from crypto into oil and gas derivatives.",
+    "url": "https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-22T21:15:37.000Z"
+  },
+  {
+    "id": "90c50faf-4f37-4565-b817-b2cfd0b725a6",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Grayscale research head Zach Pandl says Strategy faces \"a cash flow issue, not a crypto issue,\" with ~$1.5B in annual preferred dividends against just $477M in software revenue.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#74c36ce0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-22T21:10:21+00:00"
+  },
+  {
+    "id": "e7412a67-6fcc-429a-904a-beecce8cad01",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
+    "summary": "1. tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention.",
+    "url": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-22T21:08:50.000Z"
+  },
+  {
+    "id": "f05fe646-195f-46bd-b7df-0df4a0599065",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
+    "summary": "1. Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes.",
+    "url": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart",
+    "author": "AI Boost",
+    "created_at": "2026-06-22T20:58:40.000Z"
+  },
+  {
+    "id": "92f12a3b-3b3b-44c3-8b30-8c61e9f6477d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
+    "summary": "1. Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption.",
+    "url": "https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
+    "author": "AI Boost",
+    "created_at": "2026-06-22T20:53:39.000Z"
+  },
+  {
+    "id": "60da4229-18e4-4e88-bf4a-f5c63dce3a0d",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The AI world is getting ‘loopy’",
+    "summary": "1. The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "author": "Russell Brandom",
+    "created_at": "2026-06-22T20:53:11.000Z"
+  },
+  {
+    "id": "c509bbf1-37f9-4420-a89f-1bf298b69264",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says",
+    "summary": "1. The analysts underscored that Strategy's Stretch (STRC) can't technically lose its “peg.”",
+    "url": "https://decrypt.co/371814/strategy-bitcoin-strc-terra-luna-benchmark",
+    "author": "André Beganski",
+    "created_at": "2026-06-22T20:45:46.000Z"
+  },
+  {
+    "id": "8ff651a7-ccde-4f85-90f1-0bf2fcc139c2",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Micron $MU is now powering Anthropic, locking in a multi-year AI memory deal and buying into the company itselfFour parts: • A multi-year supply contract for HBM, DRAM and SSDs • Joint co-design of chip architecture for frontier AI • A strategic investment in Anthropic’s Series H round • Claude rolled out across Micron’s own engineering and manufacturingThey’re optimizing for “token economics” — the cost per unit of AI output.Straight from the Nvidia $NVDA playbook: lock in dedicated supply instead of buying commodity memory on the open market.Micron’s stock is up more than 10x in a year on AI memory demand.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#ae0941a3",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-22T20:40:30+00:00"
+  },
+  {
+    "id": "ea5b757b-5c8f-4bd5-ac67-72c7e392d72e",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.186",
+    "summary": "1. ## What's changed\n\n- Added `claude mcp login ` and `claude mcp logout ` to authenticate MCP servers from the CLI without opening the interactive `/mcp` menu, with `--no-browser` stdin redirect support for completing over SSH\n- Added status filtering (press `f`) to the `/workflows` agent detail view\n- Added a \"Skills\" section to the `/plugin` Installed tab\n- Added `teammateMode: \"iterm2\"` setting with a warning when auto mode cannot find the `it2` CLI\n- Added \"Claude Platform on AWS - refresh credentials\" option to `/login` when `awsAuthRefresh` is configured\n- `!` bash commands now trigger Claude to respond to the output automatically; set `\"respondToBashCommands\": false` in settings.json to keep the previous context-only behavior\n- Fixed streaming requests failing with \"Content block not found\" or JSON parse errors after the machine wakes from sleep\n- Fixed subagent transcript scroll position bleeding into the main transcript on exit\n- Fixed background task previews flashing raw tool names before the agent's plan loaded\n- Fixed Chrome tab-group isolation not applying when the in-product permissions gate is off for concurrent CLI sessions\n- Fixed background session recaps being duplicated; the agent's own end-of-turn summary now shows as the recap line\n- Fixed opening a background session from `claude agents` leaving the previous screen painted behind it\n- Fixed `Agent(type)` deny rules and `Agent(x,y)` allowed-types restrictions not being enforced for named subagent spawns\n- Fixed Esc and Ctrl+C not responding while background agents are still running after the main turn ends\n- Fixed misaligned option numbers in permission prompts when the option text overflows\n- Fixed pressing `x` on a finished subagent in the agent panel not dismissing it\n- Fixed a misleading \"MCP server disconnected\" notice for intentionally retired tools when resuming older sessions\n- Fixed `/plugin` Installed showing a \"more above\" indicator when already scrolled to the top\n- Fixed `~~strikethrough~~` showing literal tildes in assistant messages instead of rendering as strikethrough\n- Fixed `--tools` allowing feature-gated tools to slip through before flags loaded on a cold first launch\n- Fixed background job status in `claude agents` showing a stale \"needs input\" message after replying\n- Fixed a dark-theme flash when opening a background session from `claude agents` on a light terminal\n- Fixed mouse-selected text staying highlighted after deleting it in `claude agents`\n- Fixed session cost not showing for usage-based Enterprise and Team subscribers\n- Fixed agent teams: teammates spawned via tmux/pane backends now inherit the leader's `--effort` level\n- Fixed Workflow `agent({schema})` subagents looping forever on repeated schema validation failures instead of aborting after 5 attempts\n- Improved `claude mcp get` and `claude mcp remove` to suggest the closest configured server name on a typo and truncate long server lists\n- Improved memory: the agent is now reminded to compact its `MEMORY.md` index when nearing the size limit\n- Improved skill frontmatter: `display-name`, `default-enabled`, `fallback`, and `metadata.*` keys now accept kebab-case, snake_case, and camelCase\n- Improved malformed `SKILL.md` YAML frontmatter handling: loads the skill body with empty metadata instead of failing silently\n- Changed `CLAUDE_CODE_MAX_RETRIES` to cap at 15; for unattended sessions, use `CLAUDE_CODE_RETRY_WATCHDOG` instead\n- Changed background subagents to surface permission prompts in the main session instead of auto-denying; the dialog shows which agent is asking, and Esc denies just that tool\n- Changed `/review ` to use the same review engine as `/code-review medium`",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.186",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-22T20:37:34Z"
+  },
+  {
+    "id": "66f99ddc-dc6c-4714-8c9a-2c350a1ba35f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+    "summary": "1. Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
+    "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+    "author": "Tim De Chant",
+    "created_at": "2026-06-22T20:37:19.000Z"
+  },
+  {
+    "id": "b7879f0a-9b12-4786-a685-b0a9b94039db",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Franklin Templeton launches dedicated crypto division after closing 250 Digital acquisition",
+    "summary": "1. The new unit arrives amid rapid growth in tokenized assets, with Franklin Templeton's onchain product suite expanding from roughly $768 million to more than $2.5 billion over the past year.",
+    "url": "https://cointelegraph.com/news/franklin-templeton-launches-dedicated-crypto-division-after-completing-250-digital-acquisition?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Nate Kostar",
+    "created_at": "2026-06-22T20:36:53.000Z"
+  },
+  {
+    "id": "4ff58c6f-acac-4cc3-958d-5d9c3291b737",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans",
+    "summary": "1. Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode.\n2. A Snapshot vote is passing 100% in favor.\n3. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.",
+    "url": "https://thedefiant.io/news/defi/a16z-backed-goldfinch-finance-winds-down-after-originating-usd100m-in-loans",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-22T20:30:59.000Z"
+  },
+  {
+    "id": "5c8ae531-f620-47c3-8c47-0e8617b1d7f8",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Iran rejects Trump administration claims of new nuclear commitments | per CNNVance called inspector access “what we’re most excited about as Americans,” and Bessent said Iran committed to it in writing.",
+    "summary": "Iran’s Baghaei says cooperation continues only under existing rules set by its parliament with no new obligations, and the nuclear file wasn’t discussed in the 18 hours of talks. IRGC-linked Tasnim went further, calling the inspection claim “very damaging” and a breach of the MoU.The gap is the story: the US is selling a nuclear win at home while Iran tells its hardliners nothing changed.Developing.Twitter",
+    "url": "https://t.me/SolidIntelX#12b5a099",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-22T20:26:56+00:00"
+  },
+  {
+    "id": "b5619c18-4949-4eb6-a25c-9dd8fab7a213",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Solana treasury firm Solmate’s largest stakeholder sues board for self-dealing, fiduciary breaches",
+    "summary": "1. Board members Ron Sade and Keren Maimon personally bought about 2.298 million SLMT shares at $4.97, diluting shareholders ~20%.",
+    "url": "https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-22T20:17:43.000Z"
+  },
+  {
+    "id": "ba21a628-02d8-42aa-8034-f0209413531f",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
+    "summary": "1. Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
+    "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-22T20:12:31.000Z"
+  },
+  {
+    "id": "80118b1d-49ea-4906-9033-40b55828fe35",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams",
+    "summary": "1. Chainlink launched APAC Equities Streams on Monday, putting live pricing for large-cap Asian companies on-chain to power equity perps, prediction markets and structured products in Asian time zones.",
+    "url": "https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-22T20:05:30.000Z"
+  },
+  {
+    "id": "b524bbda-8c1d-465d-bf07-f84fc4a0d12e",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk",
+    "summary": "1. President Donald Trump signed two executive orders aimed at expanding U.S.\n2. quantum computing capabilities and speeding the transition to quantum-resistant encryption.",
+    "url": "https://decrypt.co/371807/trump-quantum-orders-accelerate-security-bitcoin-faces-risk",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-22T19:57:54.000Z"
+  },
+  {
+    "id": "a77354b9-9152-4907-b02f-d2dfa56294c5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth",
+    "summary": "1. Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.",
+    "url": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-06-22T19:39:22.000Z"
+  },
+  {
+    "id": "23b75972-27f9-4608-9522-b67588cdfb9d",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "JPMorgan CEO Jamie Dimon says \"we're in a bull market.\"\"It's like a little tsunami.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#be14046c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-22T19:27:53+00:00"
+  },
+  {
+    "id": "7d8fb0ce-188a-4788-8a72-09b7d9540f6b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "SPACEX $SPCX SHARES DOWN 13%, FALLING BELOW THEIR FIRST-DAY CLOSING IPO PRICETwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#ad7f3a86",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-22T19:26:39+00:00"
+  },
+  {
+    "id": "90ba727b-94c2-4bae-a863-ad8f4b70459a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "MoonPay expands into back-office financial operations with AI accounting startup Entendre acquisition",
+    "summary": "1. MoonPay has made at least four other acquisitions this year as it works to expand via MoonPay Trade and MoonPay Institutional.",
+    "url": "https://www.theblock.co/post/405704/moonpay-expands-back-office-financial-operations-ai-accounting-startup-entendre-acquisition?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-22T19:21:18.000Z"
+  },
+  {
     "id": "723ac31d-4e36-4ac7-9520-5c45232d85aa",
     "source": "Trump Truth",
     "type": "rss",
@@ -278,305 +608,5 @@
     "url": "https://cointelegraph.com/markets/bitcoin-holds-63k-as-three-market-signals-remain-supportive?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "author": "Biraajmaan Tamuly",
     "created_at": "2026-06-22T16:52:38.000Z"
-  },
-  {
-    "id": "8a696cfa-6b54-4ba6-8c34-a86239d1118c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Ethereum Foundation talent exodus sparks fresh debate over leadership",
-    "summary": "1. The Ethereum community is once again debating the future of the foundation after co-executive director Hsiao-Wei Wang announced she would step down.",
-    "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-22T16:39:41.000Z"
-  },
-  {
-    "id": "cf29216b-6866-4282-a189-57953bd7ba7c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "HIVE stock surges 25% as Ivy League researchers train neural networks on Paraguay GPUs",
-    "summary": "1. The research was submitted to NeurIPS, one of AI's leading academic conferences, to be held later this year.",
-    "url": "https://www.theblock.co/post/405637/hive-stock-surges-ivy-league-researchers-train-neural-networks-paraguay-gpus?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-22T16:32:59.000Z"
-  },
-  {
-    "id": "fd602470-c691-4e72-a0d7-59010c77e327",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
-    "summary": "1. The crypto sector's leading U.S.\n2. advocacy groups asked the U.S.\n3. House's tax committee to advance a bill to clarify treatment of assets from mining and staking.",
-    "url": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-22T15:56:13.000Z"
-  },
-  {
-    "id": "39038809-a073-4732-83e4-c78d4b7e11ef",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low",
-    "summary": "1. Bitcoin sought a breakout toward a potential BTC price target near $70,000 as Iran news sent oil toward its lowest levels since early March.",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "William Suberg",
-    "created_at": "2026-06-22T15:48:49.000Z"
-  },
-  {
-    "id": "6636b03e-36d1-49e8-9d8e-3675fd54ee1a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-    "summary": "1. The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
-    "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-22T15:00:00.000Z"
-  },
-  {
-    "id": "745b89c2-c45e-4e02-a873-97ab5867131b",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk's SpaceX $SPCX falls 10.5%, erasing over $250 billion from its market cap today.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1b7c92c2",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-22T14:53:34+00:00"
-  },
-  {
-    "id": "aecbd925-8a83-4aee-8b42-45310ab79ef4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "New wallet withdraws $163M in BTC from Binance",
-    "summary": "A new wallet has withdrawn 2,500 BTC, worth approximately $163 million, from Binance, Onchain Lens reported. Withdrawals from exchanges are typically interpreted as a sign of intent to hold.",
-    "url": "https://t.me/CoinnessGL#24ee44f1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T14:21:40+00:00"
-  },
-  {
-    "id": "89a3fcef-d818-4eeb-ace0-771b85d4fb86",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users",
-    "summary": "1. Bitcoin Magazine\n\nICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users\nA new ICE-OKX joint venture creates a regulated bridge between traditional finance and crypto, giving OKX's 120 million users access to ICE futures markets and NYSE tokenized equities.\n2. This post ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/ice-and-okx-form-crypto-to-connect-nyse",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-22T14:17:43.000Z"
-  },
-  {
-    "id": "588de316-a6d6-4ad5-ade5-e0870d67c2c3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Enso launches RWA platform, supports trading of over 500 tokenized assets",
-    "summary": "Blockchain development automation platform Enso has launched a real-world asset (RWA) tokenization platform, Cointelegraph reported. The platform supports the trading of more than 500 RWA tokens, including U.S. stocks, ETFs, U.S. Treasurys, commodities, and stablecoins. These include stocks of major U.S. tech companies such as Apple, Microsoft, Nvidia, Amazon, Meta, and SpaceX.",
-    "url": "https://t.me/CoinnessGL#756f9a35",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T14:17:05+00:00"
-  },
-  {
-    "id": "1411b5ff-ec67-402b-abf6-923233239624",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
-    "summary": "1. Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.",
-    "url": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
-    "author": "Aisha Malik",
-    "created_at": "2026-06-22T14:14:10.000Z"
-  },
-  {
-    "id": "b9cc71a8-9d56-422c-a50c-eee965c2b1b8",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Rises Above $65,000 as ETF Outflows Slow, Iran Deal and Fed Pull in Opposite Directions",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Rises Above $65,000 as ETF Outflows Slow, Iran Deal and Fed Pull in Opposite Directions\nBitcoin price climbed above $65,000 as easing ETF outflows and a U.S.-Iran peace deal provided support, while a hawkish Fed under Chair Kevin Warsh and rising rate-hike expectations continued to pressure risk assets.\n2. This post Bitcoin Price Rises Above $65,000 as ETF Outflows Slow, Iran Deal and Fed Pull in Opposite Directions first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-rises-above-65000-etf",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-22T14:11:30.000Z"
-  },
-  {
-    "id": "86bc54b9-3134-4a3b-9358-07ce3aba3674",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Former Fed Chair Alan Greenspan Dies at 100 After Shaping US Monetary Policy for 18 Years",
-    "summary": "1. Alan Greenspan has died at 100 after an 18-year tenure as Federal Reserve chairman.\n2. Bitcoin and the broader cryptocurrency sector were among the financial topics he weighed in on after leaving office, with the former Fed chief questioning the intrinsic value and long-term viability of digital assets.\n3. Central Bank Highlights Greenspan’s Long Influence on Monetary […]",
-    "url": "https://news.bitcoin.com/former-fed-chair-alan-greenspan-dies-at-100-after-shaping-us-monetary-policy-for-18-years/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-22T14:07:36.000Z"
-  },
-  {
-    "id": "8345bcde-533d-462d-b5a0-0004ea68a82a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Enso launches RWA app and trading for over 500 tokenized assets",
-    "summary": "1. Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors.",
-    "url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Zoltan Vardai",
-    "created_at": "2026-06-22T14:00:00.000Z"
-  },
-  {
-    "id": "2a11c0e6-58a1-4793-9610-1706aa72737a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-    "summary": "1. Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m.\n2. Designed for founders first on November 4 in Boston.\n3. Register here.",
-    "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-    "author": "TechCrunch Events",
-    "created_at": "2026-06-22T14:00:00.000Z"
-  },
-  {
-    "id": "a4470c7a-8403-450b-b546-f675df3d81d8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Early SHIB whale sells 3.8T tokens for $20.7M in past month",
-    "summary": "An early SHIB whale who purchased 103 trillion SHIB for 37.8 ETH (worth about $13,700 at the time) in 2020 has been selling off portions of their holdings, EmberCN reported, citing on-chain data. Over the past month, the investor has sold approximately 3.8 trillion SHIB for around $20.73 million.The investor, who once held 17.4% of the total SHIB supply, saw their holdings peak at a value of about $9.1 billion in 2021. Despite selling off small portions over the years, the whale still holds approximately 96.27 trillion SHIB. This remaining amount constitutes about 16.3% of the total supply and is currently valued at around $457 million.",
-    "url": "https://t.me/CoinnessGL#e571d80b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T13:54:06+00:00"
-  },
-  {
-    "id": "10d2af13-d95d-453d-9991-bcbd21d2131c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-    "summary": "1. The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy.",
-    "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-22T13:53:16.000Z"
-  },
-  {
-    "id": "e709022b-c71d-4980-92da-911ffea2125d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Cointelegraph",
-    "created_at": "2026-06-22T13:50:31.000Z"
-  },
-  {
-    "id": "13295eab-9a74-403e-9e76-05516f4b3950",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
-    "summary": "1. The company is also eliminating a production shift at its Arizona factory to align \"production plans with anticipated demand.\"",
-    "url": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-06-22T13:42:59.000Z"
-  },
-  {
-    "id": "133e13be-7f24-4a76-9b0f-16a165705ebf",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Social trading platform Fomo raises $75M, reaches $550M valuation",
-    "summary": "1. The Series B round values the social trading and token discovery platform at $550 million as crypto venture funding remains active in 2026.",
-    "url": "https://cointelegraph.com/news/fomo-raise-series-b-trading-app-550m-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Zoltan Vardai",
-    "created_at": "2026-06-22T13:42:45.000Z"
-  },
-  {
-    "id": "8fb0b32a-1286-4819-8fee-1d4376b5b798",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo",
-    "summary": "1. The goal is to enable OKX’s 120 million global users to access ICE futures and NYSE tokenized equities markets, the two U.S.\n2. companies announced.",
-    "url": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-22T13:40:27.000Z"
-  },
-  {
-    "id": "d95b1e18-ad43-4e58-9d86-e4b83189c7b2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Tom Lee says ‘best years for crypto remain ahead’ as Bitmine buys another 52,203 ETH",
-    "summary": "1. Bitmine added 52,203 ETH, lifting holdings to 5.67 million ETH as Tom Lee reiterated long-term crypto optimism outlook.",
-    "url": "https://www.theblock.co/post/405595/tom-lee-says-best-years-for-crypto-remain-ahead-as-bitmine-buys-another-52203-eth?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-22T13:31:50.000Z"
-  },
-  {
-    "id": "b7efcf32-08f4-4d65-8378-9d04e57b3d59",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "ICE Joins OKX in 50-50 Broker-Dealer Deal Targeting US Tokenized Equity Markets",
-    "summary": "1. Intercontinental Exchange, also known as ICE, the parent company of the New York Stock Exchange, and crypto platform OKX have announced a 50-50 joint venture designed to connect OKX’s 120 million global users to U.S.-regulated futures markets and tokenized equities.\n2. The two companies disclosed the deal Monday, describing the venture as infrastructure focused on tokenized […]",
-    "url": "https://news.bitcoin.com/ice-joins-okx-in-50-50-broker-dealer-deal-targeting-us-tokenized-equity-markets/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-22T13:31:23.000Z"
-  },
-  {
-    "id": "2d0fae2a-fb57-4a4c-b6fd-aba4d8190882",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 US issues 60-day general license authorizing the sale, production and delivery of Iranian oil.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f97ba348",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-22T13:30:56+00:00"
-  },
-  {
-    "id": "17831946-f271-4e02-bc50-ddc108f6ce34",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Of the MANY Statues and Fountains that we rebuilt, renovated, cleaned, and fixed, the only one that was Vandalized was the Reflecting Pool, which is being taken care of, ASAP!\n2. It has been given a 300 foot long gash, chemicals have been illegally placed in the water, and the beautiful new grass field has been destroyed with a gigantic 86 47 chemically carved into it (Probably inspired by Dirty Cop, James Comey!).\n3. Please remember that there is a 10 year prison sentence for the destruction, or even the attempted destruction, of such things - Which will be fully enforced!",
-    "url": "https://trumpstruth.org/statuses/39422",
-    "author": "Trump Truth",
-    "created_at": "2026-06-22T13:28:38.000Z"
-  },
-  {
-    "id": "489c94b5-15e5-4998-b3e5-7d0a39bf59f6",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Tokenized RWA market cap rises 40% to top $51 billion as industry races to define equity tokenization model: Bernstein",
-    "summary": "1. Tokenized RWA market cap tops $51 billion as equity tokenization grows 130% and firms race to define the winning business model.",
-    "url": "https://www.theblock.co/post/405578/tokenized-rwa-market-cap-rises-51-billion-industry-races-define-equity-tokenization-model-bernstein?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-22T13:27:52.000Z"
-  },
-  {
-    "id": "9294191f-1fc4-4019-a6f3-6e7af1af1132",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC",
-    "summary": "1. Bitcoin Magazine\n\nStrive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC\nStrive purchased 759 BTC for roughly $50 million last week, boosting its holdings to 19,864 BTC and outpacing Strategy's 520 BTC purchase as it accelerates its bitcoin accumulation strategy.\n2. This post Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/strive-asst-buys-759-bitcoin-for-50-mil",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-22T13:21:27.000Z"
-  },
-  {
-    "id": "8fcce56e-00a1-4ee0-8e30-d3eab1835d09",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is ‘not a stablecoin’",
-    "summary": "1. Benchmark said STRC's drop below $83 was a leverage flush, not a \"depeg,\" and reiterated its $570 target on Strategy.",
-    "url": "https://www.theblock.co/post/405581/benchmark-reiterates-570-target-on-strategy-after-strc-selloff-says-preferred-stock-is-not-a-stablecoin?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-22T13:12:10.000Z"
-  },
-  {
-    "id": "f09131ca-3aaa-4810-b943-e30bfffee6de",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
-    "summary": "1. The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.",
-    "url": "https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-22T13:04:44.000Z"
-  },
-  {
-    "id": "c45bcd96-61eb-4c88-b742-3ccd05afb49a",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Bank of America expects the Federal Reserve to raise interest rates three times in 2026.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#96f6498f",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-22T13:02:42+00:00"
-  },
-  {
-    "id": "1f1756e7-7985-4e81-adbc-afeddab95834",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Bitmine acquired another 52,203 ETH last week, bringing its total holdings to 5.67 million ETH.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#8629802c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-22T12:55:21+00:00"
   }
 ]
