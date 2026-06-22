@@ -1,5 +1,115 @@
 [
   {
+    "id": "440bdd3f-0744-465a-a324-46cf1a8cd624",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Altura to phase out vault operations amid withdrawal rush",
+    "summary": "Ranveer Arora, CEO of the hyperEVM-based yield protocol Altura, has announced that the Altura Vault will be phased out. He stated on X that the decision was made after an unprecedented volume of withdrawal requests over the past 24 hours, during which the protocol immediately processed redemptions of more than 8.5 million USDT. Arora added that while some positions can be redeemed immediately, others will require more time. He explained that funds are being returned as the underlying positions are redeemed.",
+    "url": "https://t.me/CoinnessGL#ac780cef",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T02:03:47+00:00"
+  },
+  {
+    "id": "f2b7e5be-1f17-442e-9243-f788d43cddd6",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analyst: Long-term BTC holders remain calm amid correction",
+    "summary": "Long-term Bitcoin holders are remaining calm amid the market correction that has heightened anxiety among short-term investors, according to on-chain analyst Darkfost. On X, he noted that a 2020 Glassnode study found that BTC held for over 155 days is significantly less likely to be moved. Darkfost pointed to the Cumulative Value Days Destroyed (CVDD) indicator, a key metric for tracking selling by long-term holders, which has fallen to around 0.3—a level historically seen during bear markets or major corrections. In contrast, when the CVDD surged past two and even four in March 2024, it was widely interpreted as a market top signal accompanied by active selling from this cohort. He assessed that long-term holders are currently maintaining their composure and are likely to wait for higher prices before taking profits, suggesting this may be the most prudent course of action at present.",
+    "url": "https://t.me/CoinnessGL#eef64020",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T01:44:10+00:00"
+  },
+  {
+    "id": "647ad4c4-2a2b-4e7f-9e41-560476cac9d7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ethereum Foundation 'doesn't deserve help' amid funding criticism",
+    "summary": "The Ethereum Foundation (EF) is facing growing industry criticism over its financial and organizational management.Marc Zeller, founder of the Aave governance group Aave Chan Initiative (ACI), said on X that the EF could have been operated easily with common-sense budgeting. He argued the foundation should have used its reserves as collateral and funded valuable projects instead of things like \"52 clients that nobody uses or meetups in Lesotho.\" Zeller added that after the delayed transition to Proof-of-Stake (PoS), the EF could have staked its vast ETH holdings to operate indefinitely on the returns. \"If the EF hits a wall, it doesn't deserve help. Ethereum will be fine though,\" he concluded.Similarly, Keyring Network founder Alex McPharlane stressed that financial management and DeFi were \"taboo subjects\" at the EF, where those concerned about finances were seen as not focusing on the big picture. \"Now the funding shortage is a reality,\" he said. McPharlane noted that the EF holds between $500 million and $900 million in liquid assets, which should be sufficient to support a $20 million to $30 million annual budget, calling an inability to manage this \"incompetent.\"This follows a previous warning from Trent Van Epps, who formerly handled core development funding at the Ethereum Foundation. He had pointed out that the Ethereum core development sector could face a funding crisis within three to nine months. more:",
+    "url": "https://t.me/CoinnessGL#fde25760",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T01:43:40+00:00"
+  },
+  {
+    "id": "7602ede8-25d4-4a41-8855-e1737166cea9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Faces Institutional Demand Shortfall as Coinbase-Binance Gap Flashes Warning",
+    "summary": "1. Professional investors have yet to return to the bitcoin market in force, with a key measure of exchange pricing showing persistent caution among U.S.-based institutions.\n2. Analysts say the extended discount on Coinbase relative to Binance points to weak institutional demand, while retail participation continues to provide support for market activity.\n3. Institutional Buyers Stay on the […]",
+    "url": "https://news.bitcoin.com/bitcoin-faces-institutional-demand-shortfall-as-coinbase-binance-gap-flashes-warning/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-22T01:40:28.000Z"
+  },
+  {
+    "id": "747675e3-0c13-40c0-9fcc-23ca46e52ce6",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. He Won, BIG!",
+    "url": "https://trumpstruth.org/statuses/39421",
+    "author": "Trump Truth",
+    "created_at": "2026-06-22T01:01:56.000Z"
+  },
+  {
+    "id": "11dff01a-96b6-452d-aaa8-433aec2d5269",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Robert Kiyosaki Plans to Buy Bitcoin After Reversal as Gold Charts Signal ‘Massive’ Rise",
+    "summary": "1. Robert Kiyosaki says recent declines in gold, silver, bitcoin, and ethereum have not shaken his conviction.\n2. He is closely watching for a technical reversal before making his next move.\n3. Kiyosaki Is Watching Gold, Silver, Bitcoin, and Ethereum for Trend Reversal Rich Dad Poor Dad author Robert Kiyosaki said on June 20 that he is monitoring […]",
+    "url": "https://news.bitcoin.com/robert-kiyosaki-plans-to-buy-bitcoin-after-reversal-as-gold-charts-signal-massive-rise/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-22T00:40:08.000Z"
+  },
+  {
+    "id": "cda21110-a11c-4013-b8f1-b15ba165d66a",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Failing New York Times is CORRUPT!",
+    "url": "https://trumpstruth.org/statuses/39420",
+    "author": "Trump Truth",
+    "created_at": "2026-06-22T00:36:13.000Z"
+  },
+  {
+    "id": "69c7d34a-313d-477c-a990-cc4d6bf26999",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ethereum Infrastructure Funding: Kleros Founder Proposes Protocol-Level Validator Redirect Rate",
+    "summary": "1. A proposal that seeks to implement a semi-voluntary redirect rate to subsidize the creation and operation of shared infrastructure by validators.\n2. If the majority of validators agree, the rate becomes mandatory for all, and they can choose which organization gets part or all of these funds.\n3. Controversial Redirect Rate Ethereum Infrastructure Funding Proposal Surges To […]",
+    "url": "https://news.bitcoin.com/ethereum-infrastructure-funding-kleros-founder-proposes-protocol-level-validator-redirect-rate/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-21T23:40:59.000Z"
+  },
+  {
+    "id": "71fcbb42-096b-4ad3-900d-a75c541b1d48",
+    "source": "OpenAI",
+    "type": "rss",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "summary": "1. Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "author": "OpenAI",
+    "created_at": "2026-06-21T23:00:00.000Z"
+  },
+  {
+    "id": "e12eb38b-c672-4294-992a-30ca965d87c2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
+    "summary": "1. The Journal reviewed more than 1,100 videos and found none of the roughly $1.9 million in bets shown in influencer-produced hype videos were real.",
+    "url": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-21T22:42:56.000Z"
+  },
+  {
+    "id": "113d71b6-4b75-4ab0-bcac-f5708c7e1c4f",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The way the Corrupt and Failing New York Times is covering stories on a very battered and beat up  Iran, through FAKE & MADE UP “FACTS” is, in my opinion, “TREASONOUS.” I will be adding all of their false and ridiculous reporting to my multi Billion Dollar lawsuit against them.\n2. They are Criminals!\n3. President DJT",
+    "url": "https://trumpstruth.org/statuses/39419",
+    "author": "Trump Truth",
+    "created_at": "2026-06-21T22:28:11.000Z"
+  },
+  {
     "id": "8b03ddba-7ad0-4f2b-94e2-dcaff4efb42a",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -68,135 +178,5 @@
     "url": "https://trumpstruth.org/statuses/39417",
     "author": "Trump Truth",
     "created_at": "2026-06-21T20:37:08.000Z"
-  },
-  {
-    "id": "bf045a9d-b789-4271-8f83-8c5137fd5e65",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei",
-    "summary": "1. The linked criminal group allegedly distributed a scam token under the name \"zksync.jp\" to deceive crypto users worldwide, with losses of over $1 million.",
-    "url": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-06-21T20:06:58.000Z"
-  },
-  {
-    "id": "bef47e0f-7b29-44fd-b760-d66920e97673",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. After spending Trillions of Dollars on NATO, Italy, and its Prime Minister, wouldn’t even think of becoming involved with the Islamic Republic of Iran and their very serious Nuclear Threat.\n2. For decades, we defend them but, when tested, they are not there to defend us, and the rest of the World.\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39414",
-    "author": "Trump Truth",
-    "created_at": "2026-06-21T19:39:24.000Z"
-  },
-  {
-    "id": "d6a79269-2b33-4b31-999d-857a81742dd2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Elon Musk Says Universal High Income Could Replace Government AI Ownership",
-    "summary": "1. Elon Musk says the U.S.\n2. Treasury should send money directly to citizens rather than have the government buy stakes in artificial intelligence (AI) companies.\n3. Musk Tells Treasury to Send Cash Directly as AI Reshapes U.S.",
-    "url": "https://news.bitcoin.com/elon-musk-says-universal-high-income-could-replace-government-ai-ownership/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-21T19:10:09.000Z"
-  },
-  {
-    "id": "836064e9-e778-45b7-b915-5629045582bb",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
-    "summary": "1. Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
-    "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-21T18:34:31.000Z"
-  },
-  {
-    "id": "adaa9e7a-a398-4d39-9f95-f8e6bdddaf20",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Are perps swaps? A quick look at that CME suit: State of Crypto ",
-    "summary": "1. CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S.\n2. perpetual futures product.",
-    "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
-    "author": "Nikhilesh De",
-    "created_at": "2026-06-21T18:30:00.000Z"
-  },
-  {
-    "id": "62ab347d-5598-46c9-a68d-e0e76d26ceb8",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Which members of the prospective ’28 field are hitting the pitch",
-    "summary": "1. Pennsylvania Gov.\n2. Josh Shapiro is leaning into the “once-in-a-lifetime” World Cup.",
-    "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/2028-presidential-contenders-2026-fifa-world-cup-josh-shapiro-00969392",
-    "author": "By Adam Wren",
-    "created_at": "2026-06-21T18:30:00.000Z"
-  },
-  {
-    "id": "441cde43-8802-4533-96f3-37e6a4a800c9",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The world came to play. Southeast Asia came to sell.",
-    "summary": "1. Our trade editor explores the FIFA gift shop — and finds Donald Trump's influence on every tag.",
-    "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/fifa-gift-shop-made-in-southeast-asia-trump-tariffs-00969216",
-    "author": "By Emily Cadei",
-    "created_at": "2026-06-21T18:30:00.000Z"
-  },
-  {
-    "id": "f31866ae-df59-49c4-84ad-3ade1fbd06cd",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iranian negotiators walk out of talks with the US in protest over President Trump's threats.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#4e1a7f75",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-21T17:57:48+00:00"
-  },
-  {
-    "id": "e76665a5-a8f7-4ed1-b054-0d4b216ee033",
-    "source": "Politico",
-    "type": "rss",
-    "title": "FIFA plays flag football against Iranian protesters",
-    "summary": "1. A California court says FIFA can ban a pre-revolutionary Iranian flag favored by Tehran's opponents.\n2. Actually keeping it out of stadiums is harder.",
-    "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/battle-iran-lion-sun-flag-fifa-ban-00969215",
-    "author": "By Sasha Issenberg and Daniel Miller",
-    "created_at": "2026-06-21T17:31:00.000Z"
-  },
-  {
-    "id": "f3033e68-d58b-420b-b6f8-707fe6cf0c80",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Japan’s National Business Corporate Pension Fund Plans 1% Crypto Bet to Hedge Dollar Decline",
-    "summary": "1. Japan’s National Business Corporate Pension Fund plans to put roughly 1% of its assets into cryptocurrency starting in fiscal year 2026, according to Nikkei reporting.\n2. The Nikkei Shimbun report says that the Okayama City-based fund manages about ¥21.3 billion, or roughly $136 million.\n3. It serves around 1,200 small and medium-sized enterprises and more than 20,000 […]",
-    "url": "https://news.bitcoin.com/japans-national-business-corporate-pension-fund-plans-1-crypto-bet-to-hedge-dollar-decline/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-21T17:30:54.000Z"
-  },
-  {
-    "id": "afe4e2a3-28f8-485a-8315-af25446b45f4",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-    "summary": "1. Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
-    "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
-    "author": "Anthony Ha",
-    "created_at": "2026-06-21T16:35:00.000Z"
-  },
-  {
-    "id": "ab0e624e-ba07-4cbf-b5df-cd461e0ebf44",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Prediction Marketplace Kalshi Said to Be Exploring IPO Path in Informal Talks With Banks",
-    "summary": "1. Kalshi has opened informal talks with investment banks about a possible initial public offering, according to a report from The Information published this week.\n2. According to The Information report, the discussions are early stage.\n3. There is no S-1 filing, no banker selected and no public timeline.",
-    "url": "https://news.bitcoin.com/prediction-marketplace-kalshi-said-to-be-exploring-ipo-path-in-informal-talks-with-banks/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-21T16:30:34.000Z"
-  },
-  {
-    "id": "53023602-4d33-4b7b-869c-58d260aa3658",
-    "source": "Politico",
-    "type": "rss",
-    "title": "What does it cost to air-condition a World Cup?",
-    "summary": "1. Dallas is using the most power among U.S.\n2. stadiums, according to one analysis, but will benefit of Texas's low energy rates when the bill comes due.",
-    "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/world-cup-stadiums-electric-bill-comes-due-dallas-00969213",
-    "author": "By Mike Lee",
-    "created_at": "2026-06-21T16:30:00.000Z"
   }
 ]
