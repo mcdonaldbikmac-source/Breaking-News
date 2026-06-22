@@ -1,5 +1,215 @@
 [
   {
+    "id": "832d3d9f-f82c-437f-9471-0964824be57f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Taiko Halts Withdrawals as Hackers Pull $1.7M Through Bridge Validation Flaw",
+    "summary": "1. Ethereum scaling solution Taiko confirmed that its bridge source-signal proof validation mechanism was compromised, allowing hackers to bypass protocols and drain an estimated $1.7 million from its ERC-20 vault.\n2. Technical Flaw Leads to $1.7 Million Loss Ethereum scaling solution Taiko confirmed June 22 that its chain state verification mechanism had been compromised.\n3. As a consequence, […]",
+    "url": "https://news.bitcoin.com/taiko-halts-withdrawals-as-hackers-pull-1-7m-through-bridge-validation-flaw/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-22T10:30:00.000Z"
+  },
+  {
+    "id": "2af35857-daad-4e07-bc31-cddbd96143c4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot BTC ETFs see 6th straight week of outflows as selling pressure wanes",
+    "summary": "U.S. spot Bitcoin (BTC) ETFs recorded $226.8 million in net outflows last week, marking their sixth consecutive week in the red, according to SoSoValue data. The cumulative net outflow over the past six weeks has reached $5.94 billion, the longest streak of weekly outflows since the products were launched. However, the weekly outflow volume has decreased from $1.72 billion in the first week of this month to $227 million last week.Jeff Ko, a senior analyst at CoinEx, suggested that the current trend indicates selling pressure is mostly exhausted rather than accelerating. He analyzed that a significant portion of the net outflows is due to the unwinding of interest rate basis trades and arbitrage positions, not a departure of spot demand.Meanwhile, Jeff Mei, COO of BTSE, suggested that investors appear to be shifting funds to AI-related stocks, reflecting high interest in the SpaceX IPO and the AI industry.",
+    "url": "https://t.me/CoinnessGL#5a00e49f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T10:27:32+00:00"
+  },
+  {
+    "id": "73bcec02-6d34-432f-b5b1-439e33cb4310",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
+    "summary": "1. Your look at what's coming in the week starting June 22.",
+    "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
+    "author": "Jamie Crawley",
+    "created_at": "2026-06-22T10:22:22.000Z"
+  },
+  {
+    "id": "bb545273-ad0c-4ac3-9487-a7a3291e8af8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
+    "summary": "1. US spot bitcoin ETFs saw $227 million in net outflows last week, extending the negative flow streak to six consecutive weeks.",
+    "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-22T10:20:57.000Z"
+  },
+  {
+    "id": "9aa27859-359a-4a08-86a0-0545a215c618",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week",
+    "summary": "1. Bitcoin faced a resurgent US dollar index and macro hurdles as it circled $64,000, but July seasonality could spark BTC price relief.",
+    "url": "https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "William Suberg",
+    "created_at": "2026-06-22T10:13:05.000Z"
+  },
+  {
+    "id": "c60c718c-7eb2-4b08-92c1-a738d5317bc6",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Iran, US begin technical negotiations in Switzerland",
+    "summary": "Iran and the U.S. have begun technical negotiations in Switzerland for a memorandum of understanding (MOU), Iranian Foreign Ministry spokesperson Baghaei confirmed today, according to a Xinhua News Agency report citing Iranian media.",
+    "url": "https://t.me/CoinnessGL#83887732",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T10:11:43+00:00"
+  },
+  {
+    "id": "7adc526a-89ed-4eb5-92a2-266dc290c4cb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "A Whale Just Opened $48 Million in Shorts Against Bitcoin, Solana and Ethereum",
+    "summary": "1. A freshly created wallet deposited 6.68 million USDC into Hyperliquid and opened 20x leveraged short positions against bitcoin, solana and ether worth a combined $48 million.\n2. Anatomy of the Bet Onchain analytics firm Lookonchain reported that the wallet, labeled 0xaeaa, moved 6.68 million USDC onto Hyperliquid before opening the shorts.\n3. The breakdown is heavily weighted […]",
+    "url": "https://news.bitcoin.com/hyperliquid-whale-48-million-short-btc-sol-eth/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-22T10:10:07.000Z"
+  },
+  {
+    "id": "5a27a98c-fe2b-4997-bb24-0e0e4e09c159",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Bank of Korea expands its CBDC pilot to test tokenized deposits for real-world useTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#d040d38f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-22T10:07:09+00:00"
+  },
+  {
+    "id": "9e221268-b04d-4160-9831-c4b9ab7aa58d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance Alpha to list ARX",
+    "summary": "Binance Alpha has announced the listing of Arcium (ARX).",
+    "url": "https://t.me/CoinnessGL#853af619",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-22T10:06:31+00:00"
+  },
+  {
+    "id": "74f4dcf7-6407-461e-9f74-0a8c5e852606",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "✅ strong community✅ +1B MCShill me.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a932f770",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-22T10:05:03+00:00"
+  },
+  {
+    "id": "176a029e-d5d0-4612-9606-cad853339235",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bank of Korea advances CBDC deposit token initiative to test real-world usage: report",
+    "summary": "1. South Korea's CBDC pilot project is entering its second phase, where deposit tokens will be integrated into existing banking systems.",
+    "url": "https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-22T10:02:46.000Z"
+  },
+  {
+    "id": "a2c1adf5-52ce-4f94-8410-35ad028a21c9",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitcoin network activity has hit its highest level since late 2024, driven by a surge in microtransactions, even as BTC trades well below its all-time high.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#cb722a24",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-22T09:55:06+00:00"
+  },
+  {
+    "id": "b0d1a40f-3e61-4d34-b58b-d20d90fcc379",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding",
+    "summary": "1. A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.",
+    "url": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-22T09:49:52.000Z"
+  },
+  {
+    "id": "540b06af-97e6-4b7c-bba4-9d606942cc2b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "FDIC: US Banks Post $80 Billion in Profit as Unrealized Losses Swell to $325 Billion",
+    "summary": "1. banks held $325.1 billion in unrealized losses on their investment securities at the end of the first quarter of 2026, according to the Federal Deposit Insurance Corporation.\n2. The figure rose for a second straight quarter even as the industry posted strong profits.\n3. A Growing Paper Loss The Federal Deposit Insurance Corporation (FDIC) said total […]",
+    "url": "https://news.bitcoin.com/fdic-us-banks-325-billion-unrealized-losses-q1-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-22T09:30:17.000Z"
+  },
+  {
+    "id": "65585d73-938f-4040-bd70-3b86d5aec231",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
+    "summary": "1. The Bank of England published draft rules for systemic stablecoins, easing reserve requirements and replacing holding limits with a temporary 40 billion pound issuance cap.",
+    "url": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Cointelegraph",
+    "created_at": "2026-06-22T09:27:06.000Z"
+  },
+  {
+    "id": "6a8e3c8a-0603-4111-96fc-b0b7ad51d00a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
+    "summary": "1. An attacker forged withdrawal proofs to drain about $1.7 million, the same type of flaw behind this year's biggest bridge hacks.\n2. Fast containment kept the damage small.",
+    "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-22T09:23:02.000Z"
+  },
+  {
+    "id": "20c411d8-9f2a-4c83-8496-bb2711a26132",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
+    "summary": "1. Doctor Profit, a widely followed crypto analyst, says bitcoin is forming a “bear flag” pattern.",
+    "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-22T09:19:24.000Z"
+  },
+  {
+    "id": "0aca70f1-abbd-4eff-9b19-3d44f5cf37d2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitcoin ETFs logged a record $6.35B in outflows over 30 trading days as BTC fell 17%.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2c70f513",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-22T09:15:05+00:00"
+  },
+  {
+    "id": "dc43a274-2046-4ce5-8a4b-113a9bf7f95f",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Poll: Americans draw a new line in the betting bonanza sweeping over Wall Street — politics.",
+    "summary": "1. A plurality of Americans believe betting on election outcomes should be illegal, The POLITICO Poll finds.",
+    "url": "https://www.politico.com/news/2026/06/22/poll-betting-markets-politics-00967298",
+    "author": "By Declan Harty",
+    "created_at": "2026-06-22T09:00:00.000Z"
+  },
+  {
+    "id": "78d2414d-8e03-44b9-8d0f-672babed5c87",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korea pushes Travel Rule expansion for smaller crypto transfers",
+    "summary": "1. South Korea’s FIU is calling for broader crypto transfer reporting rules during FATF talks, citing offshore risks and uneven global AML enforcement.",
+    "url": "https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Helen Partz",
+    "created_at": "2026-06-22T08:58:43.000Z"
+  },
+  {
+    "id": "98c88354-da15-4f54-b2e5-3a2983b93e4c",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "UK PM Keir Starmer resignsNominations to replace him open July 9, new leader in place by SeptemberStarmer says he'll ask Labour's NEC to set the timetable and will ensure an orderly handover.",
+    "summary": "He led Labour to a landslide in 2024 but faced months of pressure after disastrous local elections and rival Andy Burnham's by-election win.Twitter",
+    "url": "https://t.me/SolidIntelX#420c2bd1",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-22T08:40:01+00:00"
+  },
+  {
     "id": "5d1d106d-fe3c-4d5c-8a0f-840fd18b1bac",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -20,7 +230,7 @@
     "created_at": "2026-06-22T08:28:14+00:00"
   },
   {
-    "id": "64a7f6e7-c2cd-4805-ae2c-d88469dc0f9e",
+    "id": "2932d57c-d6d6-4f3f-acb2-bbb0cc424a47",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US and Iran agree to a roadmap toward a final peace deal within 60 days after marathon talks in Switzerland, including a \"deconfliction cell\" to end the fighting in Lebanon | per CNBCTwitter",
@@ -298,95 +508,5 @@
     "url": "https://news.bitcoin.com/polygon-dominates-latam-how-the-network-processed-309-million-in-stablecoins-last-month/",
     "author": "Sergio Goschenko",
     "created_at": "2026-06-22T04:40:15.000Z"
-  },
-  {
-    "id": "17e59e40-88d5-48db-8952-2ca325e192a6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Pro-crypto UK mayor emerges as potential next prime minister",
-    "summary": "With the possibility of resignation growing for UK Prime Minister and Labour Party leader Keir Starmer, Andy Burnham, the Mayor of Greater Manchester, is emerging as a potential successor. Burnham is known as a prominent pro-cryptocurrency figure within the party. The most likely scenario is that Starmer will remain in office until the party conference at the end of September before handing over the premiership to a new leader. Burnham is one of the few senior Labour politicians to have publicly supported digital assets, having once declared at a Web3 event his ambition to make Manchester the home of the Web3 revolution, just as it was for the Industrial Revolution.",
-    "url": "https://t.me/CoinnessGL#07d83320",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T04:24:56+00:00"
-  },
-  {
-    "id": "a875bd4c-a5e0-4328-b0cc-64b486d201c5",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "HashKey Cloud launches ETH staking program to support ecosystem",
-    "summary": "HashKey Cloud has announced the official launch of the EAG Contribution Pool, a program co-developed with the global non-profit cooperative organization Ethereum Application Guild (EAG).The EAG Contribution Pool is an ETH staking support program for participants in the Ethereum ecosystem and operates as a non-custodial DApp. Users can stake their ETH and voluntarily contribute a portion of the resulting rewards to the pool. These funds will be used to support the development of both EAG and the Ethereum native application ecosystem.",
-    "url": "https://t.me/CoinnessGL#a96e95a4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T04:14:06+00:00"
-  },
-  {
-    "id": "d4a85127-58d5-4e5d-9d4c-9c75d058f49c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "South Korean authorities rule out immediate virtual asset deregulation",
-    "summary": "South Korea's top financial and foreign exchange regulators have signaled their opposition to any immediate easing of virtual asset regulations, Edaily reported. The stance comes in response to a review by the country's Ministry of SMEs and Startups into rationalizing the current rules.On June 22, the Financial Services Commission (FSC), Ministry of Economy and Finance, and the Bank of Korea concluded after an internal review that it would be difficult to pursue the deregulation measures requested by the industry. The regulators noted that there has been no confirmed shift in policy toward deregulation and that many of the proposed changes would be impossible without amending existing laws. The review followed a meeting held on June 8 by the Ministry of SMEs and Startups with industry representatives.An FSC official stated that the agency is currently listening to the industry's opinions on sub-regulations rather than planning to ease them, adding that nothing has been confirmed. An official from the Ministry of Economy and Finance also said the ministry is not currently reviewing any deregulation related to virtual assets. more:",
-    "url": "https://t.me/CoinnessGL#79879b77",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T04:12:46+00:00"
-  },
-  {
-    "id": "8571221c-c60a-4619-a474-0f1a8363162f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug",
-    "summary": "1. An exploit of the Secret Network went undiscovered for a week as the hacker moved the loot into Ethereum and then to exchanges.",
-    "url": "https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Martin Young",
-    "created_at": "2026-06-22T03:49:49.000Z"
-  },
-  {
-    "id": "8071578c-3e00-4a25-88db-6ba748a93e33",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Base Activates Beryl Upgrade June 25 as B20 Token Standard Goes Live",
-    "summary": "1. Base, the Ethereum layer-two network backed by Coinbase, plans to activate its Beryl upgrade on mainnet this coming week on June 25, 2026, at 18:00 UTC.\n2. A New Native Token Standard The upgrade introduces B20, a new native token standard built directly into the node software rather than deployed as a smart contract.\n3. Base engineers […]",
-    "url": "https://news.bitcoin.com/base-activates-beryl-upgrade-june-25-as-b20-token-standard-goes-live/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-22T03:40:14.000Z"
-  },
-  {
-    "id": "f4057887-2c1e-4c71-8e65-ce685169e29e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Altura winds down stablecoin vault after ‘unprecedented level’ of withdrawal requests",
-    "summary": "1. Altura's CEO said market speculation played a part, seemingly referring to contagion fears linked to the depegging of Main Street's msUSD.",
-    "url": "https://www.theblock.co/post/405477/altura-winds-down-stablecoin-vault?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-06-22T03:30:51.000Z"
-  },
-  {
-    "id": "30ed83a0-9312-4757-b347-61bfd2d10332",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Toss Bank is partnering with the Solana Foundation to test stablecoin-based global remittances, the first direct one-to-one deal between a South Korean internet-only bank and SolanaTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#9a71db96",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-22T03:25:47+00:00"
-  },
-  {
-    "id": "b8d7b207-e1ee-42f3-a394-a1c2856e84a8",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran’s FM Araghchi says the US has waived oil and petrochemical exports, lifted the naval blockade, released some frozen assets, and launched a reconstruction plan, with a 60-day roadmap to a final deal US officials haven’t confirmed the waivers or asset release and Araghchi calls a new “Lebanon deconfliction cell” the deal’s “first real test.” That test is already failing as Israel’s Defense Minister Katz says troops won’t leave Lebanon “regardless of any agreement,” and Ben-Gvir vows “not a single inch.” Iran says the roadmap doesn’t start until Israel fully withdraws.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#5045d4da",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-22T02:50:58+00:00"
-  },
-  {
-    "id": "5e01c485-ee98-408f-840c-62bcd2547b70",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Franklin Templeton Files New Bitcoin DRIP ETFs That Turn Stock Dividends Into BTC",
-    "summary": "1. Franklin Templeton has proposed two ETFs that pair broad U.S.\n2. stock exposure with a rules-based bitcoin allocation tied to dividend reinvestment.\n3. Proposed ETFs Blend US Stocks With Systematic Bitcoin Exposure Franklin Templeton ETF Trust has amended its existing Securities and Exchange Commission (SEC) registration framework to add two proposed exchange-traded funds (ETFs) that would combine […]",
-    "url": "https://news.bitcoin.com/franklin-templeton-files-new-bitcoin-drip-etfs-that-turn-stock-dividends-into-btc/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-22T02:40:21.000Z"
   }
 ]
