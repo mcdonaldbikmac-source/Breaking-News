@@ -1,5 +1,365 @@
 [
   {
+    "id": "048ef172-3307-450e-a2be-7a6fdce828da",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
+    "summary": "1. The initiative follows bets on stablecoins and the metaverse.",
+    "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
+    "author": "André Beganski",
+    "created_at": "2026-06-23T20:13:35.000Z"
+  },
+  {
+    "id": "2cc34c14-70c1-4fc7-9d9f-17376635cf95",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase adds GROVE to listing roadmap",
+    "summary": "Coinbase announced the addition of GROVE to its listing roadmap.",
+    "url": "https://t.me/CoinnessGL#40cf3f72",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T20:13:31+00:00"
+  },
+  {
+    "id": "ea5bf3fb-f475-4645-adf1-213b3e77c1eb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US CFTC sues Kentucky over prediction market jurisdiction",
+    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has filed a lawsuit against the state of Kentucky over jurisdiction for prediction markets, The Block reported. The move follows a lawsuit filed by Kentucky last week against prediction market platforms Kalshi and Polymarket for allegedly offering unlicensed sports betting services. This makes Kentucky the ninth state to be sued by the CFTC. more:",
+    "url": "https://t.me/CoinnessGL#fedbfb92",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T20:10:08+00:00"
+  },
+  {
+    "id": "ead025d0-6f21-463d-8b08-ea8bb26874b1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Cointelegraph",
+    "created_at": "2026-06-23T20:07:02.000Z"
+  },
+  {
+    "id": "2b8cc16d-e19e-4690-9e7a-eb9385ed471d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Zuckerberg Orders Meta to Build Standalone Prediction Market App, Codenamed Arena",
+    "summary": "1. Mark Zuckerberg has directed a small Meta team to build a standalone prediction-market app called Arena, according to the New York Times.\n2. The move puts the world's largest social network on a direct collision course with crypto-native platforms like Polymarket and Kalshi.",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/zuckerberg-orders-meta-to-build-standalone-prediction-market-app-codenamed-arena",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T20:06:00.000Z"
+  },
+  {
+    "id": "584b4540-e196-4e54-91e8-e06aaea22ce9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US stocks close lower",
+    "summary": "The three major U.S. stock indices closed lower today.- S&P 500: -1.44%- Nasdaq: -2.21%- Dow Jones: -0.09%",
+    "url": "https://t.me/CoinnessGL#d52afffb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T20:03:17+00:00"
+  },
+  {
+    "id": "9aeaae42-c12e-4383-9126-da0deda247d3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Chainlink and Over 10 Korean lenders Push to Kill FX Delays With Real-Time Settlement",
+    "summary": "1. Chainlink, a coalition of Korean commercial banks, and a 37-member European bank consortium announced Project Pangea on June 23, a working group focused on replacing the global foreign exchange market’s existing T+2 settlement cycle with real-time, stablecoin-based T+0 settlement.\n2. What Project Pangea Is The initiative brings together three primary partners: Fairsquarelab, described as a first-mover […]",
+    "url": "https://news.bitcoin.com/chainlink-and-over-10-korean-lenders-push-to-kill-fx-delays-with-real-time-settlement/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-23T20:02:54.000Z"
+  },
+  {
+    "id": "cfe22096-95ea-4f45-b4e2-4670fe30d55d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Securitize Wraps Roubini's SEC-Registered ETF as Dubai VARA Digital Security",
+    "summary": "1. Securitize has been selected to tokenize economist Nouriel Roubini's Atlas America Fund into USAFi, a digital security issued under Dubai's VARA regulatory framework with BNY custody, designed for 24/7 institutional-grade collateral portability.",
+    "url": "https://thedefiant.io/converge/defi/securitize-wraps-roubini-sec-registered-etf-usafi-dubai-vara-digital-security",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T20:02:16.000Z"
+  },
+  {
+    "id": "f5a8b956-4bf8-4e50-9548-98db82453eb6",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 $1 trillion wiped out from the US stock market today.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#ff2be503",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-23T20:01:37+00:00"
+  },
+  {
+    "id": "1449dd50-723b-467d-9246-deb3cec7e87e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kentucky becomes latest state sued by CFTC over prediction markets",
+    "summary": "1. Kentucky has become the latest battleground in the fight over prediction markets as the CFTC asserts jurisdiction.",
+    "url": "https://www.theblock.co/post/405879/kentucky-becomes-latest-state-sued-by-cftc-over-prediction-markets?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-23T20:01:29.000Z"
+  },
+  {
+    "id": "aa6b43cf-7c20-46fa-bdd2-477084549afe",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "ENS DAO Delegates Call Foundation Proposal a Governance Attack as Johnson Self-Delegates",
+    "summary": "1. Multiple named delegates escalated opposition to the ENS Foundation empowerment temp check Monday, with Security Council member Brantly Millegan threatening a veto and ENS Labs founder Nick Johnson having self-delegated enough tokens to pass the proposal over their objections.",
+    "url": "https://thedefiant.io/news/defi/ens-dao-delegates-governance-attack-johnson-self-delegates",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T20:00:07.000Z"
+  },
+  {
+    "id": "7a012563-2b94-4aa3-9b97-fdb3db516d4b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "$1 trillion erased from stock market today as the dollar index $DXY hits a 13-month highTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#c871f6d3",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-23T19:53:38+00:00"
+  },
+  {
+    "id": "fde4eeb5-6e30-438b-84f1-99d56784b648",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto isn't the problem with the US economy, says senator",
+    "summary": "1. Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
+    "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Turner Wright",
+    "created_at": "2026-06-23T19:49:59.000Z"
+  },
+  {
+    "id": "556635d0-eee0-4847-9a96-16fb9e11cbe0",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+    "summary": "1. Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
+    "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+    "author": "Julie Bort",
+    "created_at": "2026-06-23T19:49:55.000Z"
+  },
+  {
+    "id": "aa09256e-6a2e-411f-abb3-ddfd5da1cc14",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "THE US SENATE VOTES TO HALT THE IRAN WAR UNLESS TRUMP GETS APPROVAL FROM CONGRESS Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#6e388082",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-23T19:44:59+00:00"
+  },
+  {
+    "id": "8bb26f0e-0100-420c-ab05-df7b82c0142e",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+    "summary": "1. It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
+    "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-06-23T19:43:56.000Z"
+  },
+  {
+    "id": "0de085de-5946-48ec-8493-c9c80776d386",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 Tether-backed Oobit has integrated Brazil’s PIX payment network, letting nearly 170 million users deposit reais into its app, hold USDT and spend through PIX.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#847afe01",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-23T19:40:22+00:00"
+  },
+  {
+    "id": "625b528d-2dfa-411f-bfe1-5b8b9d4ae6ca",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Traders Defend $62,000 Support as $171M Liquidation Wave Hits Top Crypto",
+    "summary": "1. Bitcoin dropped roughly 3.6% in 24 hours, hitting an intraday low of $61,860 before finding support just above $62,000.This slide dragged its market capitalization down to $1.25 trillion and wiped nearly 3% off the total crypto market cap.\n2. Market Capitalization and Support Levels Bitcoin reversed course Tuesday, shedding roughly $2,500 in 24 hours amid a […]",
+    "url": "https://news.bitcoin.com/bitcoin-traders-defend-62000-support-as-171m-liquidation-wave-hits-top-crypto/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-23T19:20:55.000Z"
+  },
+  {
+    "id": "8a5ce634-1fca-459e-afee-b1912a96bb06",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Binance says on-chain tokenized assets have grown 589% to $31 billion since 2025.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#e9c30c34",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-23T19:20:22+00:00"
+  },
+  {
+    "id": "eb7db9d5-1759-4f37-a380-a2bec259334f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+    "summary": "1. The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
+    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-06-23T19:19:44.000Z"
+  },
+  {
+    "id": "a77979be-bedf-4b5e-b82b-68a22e4b4dc8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
+    "summary": "1. OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom.",
+    "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Biraajmaan Tamuly",
+    "created_at": "2026-06-23T19:09:26.000Z"
+  },
+  {
+    "id": "789c84b2-a311-4f00-9d18-b6ca2f0f1759",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking",
+    "summary": "1. The Alliance to End Human Trafficking, which is supported by Catholic organizations, pushed back against the sweeping cryptocurrency bill.",
+    "url": "https://www.theblock.co/post/405868/clarity-act-new-opposition-catholic-leaders-weakened-safeguards-against-illicit-finance?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-23T19:01:45.000Z"
+  },
+  {
+    "id": "dde0d2ce-e803-48fb-9d1d-fc6f638f8a3f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Vitalik Buterin says the Ethereum Foundation will cut its budget by ~40% this year, the same day the EF confirmed a 20% headcount reduction.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#70c2d16e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-23T19:00:22+00:00"
+  },
+  {
+    "id": "5de5a753-8d43-4389-8a68-941deb899a21",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down",
+    "summary": "1. GPT-5.5-Cyber tops the CyberGym leaderboard as Anthropic's best models sit offline under a Trump administration export ban.",
+    "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-06-23T18:59:26.000Z"
+  },
+  {
+    "id": "41634bf5-2702-4a57-a428-78cb81dce528",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Congress Schedules CLARITY Act Hearing for July 17 in New York",
+    "summary": "1. Bitcoin Magazine\n\nCongress Schedules CLARITY Act Hearing for July 17 in New York\nCongress has scheduled a July 17 hearing in New York on the CLARITY Act as momentum builds for the crypto market structure bill.\n2. This post Congress Schedules CLARITY Act Hearing for July 17 in New York first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-23T18:55:38.000Z"
+  },
+  {
+    "id": "44e62030-a816-4ab8-801f-bcbccdd0be62",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Zcash Mining Exposure Comes to Wall Street as Fortitude Targets Nasdaq Listing",
+    "summary": "1. Fortitude Mining Holdings and Heartsciences have agreed to an all-stock business combination that would bring a DCG-owned zcash (ZEC) mining platform to the Nasdaq Capital Market under the proposed ticker TUDE.\n2. The transaction is expected to close in the second half of 2026, subject to customary closing conditions, including approval by Heartsciences shareholders.\n3. After closing, […]",
+    "url": "https://news.bitcoin.com/zcash-mining-exposure-comes-to-wall-street-as-fortitude-targets-nasdaq-listing/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-23T18:50:45.000Z"
+  },
+  {
+    "id": "4da50625-13dd-4bcf-a92c-bc470081d3e2",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
+    "summary": "1. A new benchmark designed to test strategic reasoning found an AI-controlled empire spent 50 turns developing nuclear weapons to stop a rival's cultural victory—only to lose the game anyway.",
+    "url": "https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-23T18:33:18.000Z"
+  },
+  {
+    "id": "a2ff523e-44b0-432e-8dbf-afa8e8fbe068",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "BTC & ETH ETFs Bleed $6B: 6 Straight Red Weeks🔴 11 May: -$1.29B 🔴 18 May:...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#52d7af59",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-23T18:20:20+00:00"
+  },
+  {
+    "id": "6c7a2336-3e1a-4d74-8a83-641da6376a8d",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Craig Raw Built One of Bitcoin’s Best Wallets for Free. Apple Might Kill It by June 30.",
+    "summary": "1. Bitcoin Magazine\n\nCraig Raw Built One of Bitcoin’s Best Wallets for Free.\n2. Apple Might Kill It by June 30.\n3. Apple may terminate Sparrow Wallet creator Craig Raw's developer account on June 30 after he submitted a warning app to combat fake Sparrow Wallet scams.",
+    "url": "https://bitcoinmagazine.com/news/craig-raw-apple-might-kill-it-by-june-30",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-23T18:12:53.000Z"
+  },
+  {
+    "id": "407fa3ae-aace-4225-a071-14ce0af8d3af",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bull Bitcoin Secures MiCA License in France, Preserving Full Self-Custody and Privacy Features",
+    "summary": "1. Bitcoin Magazine\n\nBull Bitcoin Secures MiCA License in France, Preserving Full Self-Custody and Privacy Features\nFounder Francis Pouliot announced the self-financed, three-year achievement, highlighting successful PASSI and DORA cybersecurity audits without outsourcing core infrastructure.\n2. This post Bull Bitcoin Secures MiCA License in France, Preserving Full Self-Custody and Privacy Features first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "url": "https://bitcoinmagazine.com/business/bull-bitcoin-secures-mica-license-in-france-preserving-full-self-custody-and-privacy-features",
+    "author": "Juan Galt",
+    "created_at": "2026-06-23T17:58:57.000Z"
+  },
+  {
+    "id": "ee73d59c-651e-4121-a80d-19b337444903",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT",
+    "summary": "1. The app would let users forecast future events using a points-based system rather than cash wagers, the report said, citing people familiar with the matter.",
+    "url": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
+    "author": "Helene Braun",
+    "created_at": "2026-06-23T17:54:32.000Z"
+  },
+  {
+    "id": "99193a08-298a-4ab3-9192-2d78f77b2f20",
+    "source": "The Block",
+    "type": "rss",
+    "title": "New York man sentenced for $1.4 million crypto fraud scheme using bogus influencer accounts",
+    "summary": "1. A New York man who posed as crypto influencers on Telegram and used false promises of staking rewards was sentenced to 15 months in prison.",
+    "url": "https://www.theblock.co/post/405850/new-york-man-sentenced-1-4-million-crypto-fraud-scheme-bogus-influencer-accounts?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-23T17:48:51.000Z"
+  },
+  {
+    "id": "38a9b7a5-2a6e-4c43-af0a-8de07acd66ea",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US House Committee schedules crypto Clarity Act hearing for July 17.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#7989670a",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-23T17:23:36+00:00"
+  },
+  {
+    "id": "39f6f3a4-6953-41b0-8a36-c13dc1633ab0",
+    "source": "OpenAI",
+    "type": "rss",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "summary": "1. GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.\n2. The breakthrough could support cancer and autoimmune research.",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "author": "OpenAI",
+    "created_at": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "id": "90f5e2fd-2781-4d26-825d-bd4d6ae8bafd",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BNY sees 'FOMO' driving asset managers into tokenized funds",
+    "summary": "1. Fund issuers are exploring blockchain-based ETFs amid fears of missing an early foothold in tokenized finance.",
+    "url": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
+    "author": "Helene Braun",
+    "created_at": "2026-06-23T16:34:34.000Z"
+  },
+  {
+    "id": "b568717c-7478-4dbf-a550-dcd93119a6ea",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
+    "summary": "1. The alliance, called Project Pangea, plans to use stablecoins to settle multimillion-dollar currency trades between Europe and South Korea in near real time.",
+    "url": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
+    "author": "Olivier Acuna",
+    "created_at": "2026-06-23T15:40:00.000Z"
+  },
+  {
     "id": "f16595d5-31ca-4f75-9d48-d92f5e32eb15",
     "source": "TechCrunch",
     "type": "rss",
@@ -158,225 +518,5 @@
     "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "author": "Dilip Kumar Patairya",
     "created_at": "2026-06-23T14:30:00.000Z"
-  },
-  {
-    "id": "05106209-fc9b-40d9-a6f9-14768dea5845",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Meta debuts new, cheaper smart glasses under its own brand",
-    "summary": "1. The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
-    "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
-    "author": "Aisha Malik",
-    "created_at": "2026-06-23T14:11:23.000Z"
-  },
-  {
-    "id": "43cd0226-dbfc-4889-be0d-6c354fcab8b4",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Ethereum Foundation fires 20% of its staff.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d88266ca",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-23T14:02:26+00:00"
-  },
-  {
-    "id": "57a383fa-9d6a-4705-a933-6c98c67ceb1f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
-    "summary": "1. Before we rush to tokenize U.S.\n2. equities, we need compliance systems that understand context, not just checkboxes.\n3. Investors like Michael Burry see the danger, so should the rest of us, urges Chamarajnagar.",
-    "url": "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief",
-    "author": "Dr. Ravishankar Chamarajnagar",
-    "created_at": "2026-06-23T14:01:44.000Z"
-  },
-  {
-    "id": "78005a02-69c1-4b6c-8e76-c0bd214b7f88",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Polygon co-founder Sandeep Nailwal says the network processed $309M in stablecoins from Latin American emerging markets in May, calling it \"just getting started.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#cc7196ca",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-23T14:00:22+00:00"
-  },
-  {
-    "id": "1b508f1c-8f27-4b6a-9dcc-25f79d26548d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
-    "summary": "1. Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.",
-    "url": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-23T13:47:07.000Z"
-  },
-  {
-    "id": "bef82ac5-24e1-443b-9132-913dc6cdbd2f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Visa and BCG Build on Allium as Startup Closes $40M Series B",
-    "summary": "1. Allium, a New York-based blockchain data infrastructure company, has closed a $40 million Series B funding round, bringing its total capital raised to roughly $61.5 million as institutional demand for onchain data accelerates.\n2. Fortune was the first to report the raise, announced June 23, 2026.\n3. Amplify Partners led the round, with Kleiner Perkins and Theory […]",
-    "url": "https://news.bitcoin.com/visa-and-bcg-build-on-allium-as-startup-closes-40m-series-b/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-23T13:46:59.000Z"
-  },
-  {
-    "id": "bd6fe73b-bb47-4a5c-80c1-6d53168a924a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ A new Ethereum proposal would let validators redirect up to 10% of their staking rewards to fund ecosystem projects, with contributions becoming mandatory if a majority signals support.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#aacfd183",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-23T13:45:20+00:00"
-  },
-  {
-    "id": "5c82761d-db6d-46c8-8974-405e9c3f61a1",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
-    "summary": "1. Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
-    "url": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-23T13:40:47.000Z"
-  },
-  {
-    "id": "d3481c2d-d696-4f0a-a4b5-ce83a65d643b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "OKX Europe chief says 80% of crypto exchanges won’t survive MiCA as deadline nears",
-    "summary": "1. OKX Europe CEO Ghoos said 80% of exchanges won't survive MiCA as ESMA forces unlicensed firms to cease EU operations by July 1.",
-    "url": "https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-06-23T13:31:14.000Z"
-  },
-  {
-    "id": "afa1ea0c-a1a5-4fbf-a80d-7b92206856c9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Strategy: The Capital Stack Meets a Falling Bitcoin Price",
-    "summary": "1. Below is a summarized version of The Block Research’s Strategy: The Capital Stack Meets a Falling Bitcoin Price report.\n2. The full PDF version of this report is accessible here.\n3. Strategy Inc., formerly MicroStrategy, faces the first real test of its Bitcoin-treasury model.",
-    "url": "https://www.theblock.co/post/405791/strategy-the-capital-stack-meets-a-falling-bitcoin-price?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-06-23T13:24:48.000Z"
-  },
-  {
-    "id": "9a15f037-c188-4eb2-ac79-97a0446e1356",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "THE ETHEREUM FOUNDATION ANNOUNCES CUTTING 20% OF ITS WORKFORCETwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#82e713b7",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-23T13:10:08+00:00"
-  },
-  {
-    "id": "95ef38ff-fe2d-47a3-a3d4-84d5ecb6eb78",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Sellers Control Volume as $62K Support Faces Its Biggest Test of June",
-    "summary": "1. Bitcoin (BTC) traded at $62,309 on June 23, 2026, at 8:30 a.m.\n2. Eastern time, holding near the lower edge of its 24-hour range as the full moving average stack flashed a strong bearish configuration and oscillators pointed to a market lacking directional conviction.\n3. 1-Hour Chart: Consolidation and Lower Highs Define Short-Term Structure On the 1-hour […]",
-    "url": "https://news.bitcoin.com/bitcoin-sellers-control-volume-as-62k-support-faces-its-biggest-test-of-june/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-23T12:51:24.000Z"
-  },
-  {
-    "id": "70eccba6-8a15-49be-a290-7554521a559a",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
-    "summary": "1. Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&D with ETHLabs.",
-    "url": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
-    "author": "Tyler Warner",
-    "created_at": "2026-06-23T12:23:09.000Z"
-  },
-  {
-    "id": "9d53e25e-63f1-4634-be15-3a13de5d8544",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 President Trump says \"19 million barrels of oil flowed out of the Strait of Hormuz yesterday, an all time record.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#5385b1ec",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-23T11:31:26+00:00"
-  },
-  {
-    "id": "c313506a-4d37-4e21-bb9e-b9c8791a534c",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Trump says Iran agreed to permanent nuclear inspections, while the US will keep the Strait of Hormuz open and lift the naval blockadeTrump also says any money or sanctions relief released to Iran will go into US-controlled escrow and be used only to buy food and medical supplies from the United States.",
-    "summary": "US ships will remain in place in case the blockade needs to return.Twitter",
-    "url": "https://t.me/SolidIntelX#4948e28f",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-23T11:24:06+00:00"
-  },
-  {
-    "id": "3538d423-e20a-451a-84ab-1994d3fe7ac8",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "The Pentagon is asking Congress for $80B to cover the cost of the US war on Iran, nearly triple the $29B it estimated just last month | per APNo formal White House request yet, but Hegseth's been working the Capitol and a deputy briefed senators last week.",
-    "summary": "It's running into a wall: lawmakers skeptical of Trump's Iran deal don't want to fund the war, with one Democrat saying he \"hasn't found anyone who wants to do this.\" Sits on top of a record $1.5T Pentagon budget ask. Senators warn the real price tag could go higher.Developing.Twitter",
-    "url": "https://t.me/SolidIntelX#c3a8fdd8",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-23T10:40:19+00:00"
-  },
-  {
-    "id": "2c35a0bf-a3b2-4344-b949-a3cdacac9c76",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
-    "summary": "1. A bipartisan housing bill the Senate passed 85-5 Monday would block a Fed digital dollar through 2030, and now heads to the House.",
-    "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-23T10:23:30.000Z"
-  },
-  {
-    "id": "3f12eddd-9223-4af8-897b-4537aed01b10",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇪🇺 Ripple receives preliminary MiCA approval to offer regulated crypto payment services across Europe.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#4d4c394b",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-23T10:13:27+00:00"
-  },
-  {
-    "id": "726db50e-4414-4cf7-bba5-48e7bf496696",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale dormant for 7 months deposits $3.3M in ETH to Binance",
-    "summary": "An anonymous whale, dormant for seven months, has deposited 2,010 ETH ($3.3 million) to Binance, Onchain Lens reported. The address currently holds 8,016 ETH ($13.24 million) and has previously withdrawn a total of 10,026 ETH. The total estimated loss is around $12.7 million.",
-    "url": "https://t.me/CoinnessGL#893c7ebd",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-23T09:51:46+00:00"
-  },
-  {
-    "id": "21c7d4a6-2b8f-4d46-a2f7-0e68bf7aba85",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Franklin Templeton closed its acquisition of 250 Digital and launched Franklin Crypto, a new division targeting institutional investors.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7d959fc2",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-23T09:45:21+00:00"
-  },
-  {
-    "id": "0a754d0b-df29-4151-a2f7-696228fea41d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin ETFs Lose $68M Despite Ark and Fidelity $121M Inflow",
-    "summary": "1. Crypto ETF flows started Monday, June 22, on a cautious note, with bitcoin and ether funds recording combined outflows of $134.56 million.\n2. XRP ETFs remained a bright spot with fresh inflows, while solana and HYPE products saw no trading activity.\n3. XRP ETFs Extend Winning Run With $5.3M Inflow as Bitcoin Funds Stay Weak The week […]",
-    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-68m-despite-ark-and-fidelity-121m-inflow/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-23T09:35:35.000Z"
-  },
-  {
-    "id": "6011e030-7d0f-44ec-8a9a-46eb2246266a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iranian ambassador says Strait of Hormuz fully open to merchant ships",
-    "summary": "Iran's ambassador to Geneva stated that the Strait of Hormuz is fully open to merchant ships and that large quantities of crude oil are currently being transported through the waterway, according to the state-run Iranian Students' News Agency (ISNA).",
-    "url": "https://t.me/CoinnessGL#82a8949f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-23T09:27:47+00:00"
   }
 ]
