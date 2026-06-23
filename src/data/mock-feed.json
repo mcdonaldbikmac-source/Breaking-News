@@ -1,5 +1,75 @@
 [
   {
+    "id": "7d76bf80-fa27-4cbb-b131-198b42724219",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US House committee to hold hearing on 'CLARITY Act' on July 17",
+    "summary": "The U.S. House Financial Services Committee is set to hold a special hearing on the CLARITY Act at 2:00 p.m. UTC on July 17. The hearing, titled \"Building the Future of Finance: Innovation Unleashed by the CLARITY Act,\" will take place in New York.",
+    "url": "https://t.me/CoinnessGL#03bbd233",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T04:24:28+00:00"
+  },
+  {
+    "id": "b1452b64-133b-4ef2-afaa-339999821d85",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BIT: Macro factors, not AI stock boom, driving BTC correction",
+    "summary": "The recent correction in Bitcoin is due to macroeconomic factors, not a rotation of capital into AI-related stocks, BIT (formerly Matrixport) argued in a new report. The firm suggested that the temporary decoupling between Bitcoin and the U.S. Software ETF (IGV) could be attributed to short covering, noting that the IGV has since experienced another significant decline. While the two assets have different business structures, they are both sensitive to the same macroeconomic variables, including the liquidity environment, interest rate outlook, and investor sentiment, the report explained. BIT added that both markets have shown weakness since last October, as the Fed has maintained a more hawkish stance.",
+    "url": "https://t.me/CoinnessGL#89b306d8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T04:23:17+00:00"
+  },
+  {
+    "id": "086e84ad-4d6a-49b7-9164-1171b0405acf",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump signs executive orders setting 2031 deadline for post-quantum migration",
+    "summary": "1. One order mandated that all federal high-value assets and systems transition to Post-Quantum Cryptography by the end of 2031.",
+    "url": "https://www.theblock.co/post/405737/trump-executive-orders-quantum-computing?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-23T04:21:46.000Z"
+  },
+  {
+    "id": "05ea5903-eb9f-425c-8014-691f0efe2903",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. At least 39 people injured, 4 dead, in Chicago weekend shootings.\n2. Governor Pritzker, I, as President, can fix this, FAST and Permanently.\n3. D.C., Memphis, New Orleans, all down to record lows, and quickly!",
+    "url": "https://trumpstruth.org/statuses/39464",
+    "author": "Trump Truth",
+    "created_at": "2026-06-23T04:14:37.000Z"
+  },
+  {
+    "id": "2ade0850-dd39-41ef-becd-a31e6d74a7bb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto market to remain range-bound, QCP Capital predicts",
+    "summary": "The cryptocurrency market is expected to continue its range-bound trading for the time being, according to crypto trading firm QCP Capital. The firm noted that BTC briefly surpassed $65,000 yesterday, buoyed by positive news such as MicroStrategy's additional purchases and increased cash reserves. Broader risk-asset markets, including U.S. stocks, are currently experiencing mixed results and rotational trading. However, QCP Capital stated it is uncertain whether the crypto market will benefit from these capital flows. Persistent macroeconomic uncertainties, such as the standoff between the U.S. and Iran, market concerns over MicroStrategy's issuance of STRC perpetual preferred stock, and the hawkish stance of new Fed Chairman Kevin Warsh, are weighing on investor sentiment. For Bitcoin to break out of its tedious range-bound trading and rally, it will likely require a combination of macroeconomic tailwinds and a catalyst from within the crypto market itself, the firm analyzed.",
+    "url": "https://t.me/CoinnessGL#569248fb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T04:11:11+00:00"
+  },
+  {
+    "id": "f0e50ac8-6826-4815-acc3-4f5292164c11",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "MoneyGram Becomes Solana Validator, Joins Institutional Developer Platform",
+    "summary": "1. MoneyGram has launched an active validator node on Solana and joined its institutional developer platform, making Solana the payments giant’s third blockchain validator commitment alongside Tempo and Midnight.\n2. The move deepens a blockchain infrastructure push that began with Stellar remittances in",
+    "url": "https://thedefiant.io/converge/blockchains/moneygram-becomes-solana-validator-joins-institutional-developer-platform",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T04:06:26.000Z"
+  },
+  {
+    "id": "f30ec923-0f49-4427-bf38-5a700b7bb960",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SoFi's Bank-Issued Stablecoin Hits $150M as Bullish Becomes First CEX to List It",
+    "summary": "1. SoFiUSD, the first stablecoin issued by a US national bank, crossed $150 million in circulating supply on Tuesday as Bullish became the first centralized exchange to list the token.",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-bank-stablecoin-sofiusd-hits-150m-bullish-first-cex-listing",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T04:06:19.000Z"
+  },
+  {
     "id": "cb2df6db-7609-4fd7-bd3e-cfd83e6c73eb",
     "source": "Trump Truth",
     "type": "rss",
@@ -20,7 +90,7 @@
     "created_at": "2026-06-23T03:57:36+00:00"
   },
   {
-    "id": "39b8710b-effd-4536-923f-2e8512f7e44a",
+    "id": "32a155b6-a7c8-43c9-babc-6d9cf28d7b76",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇬🇧 The Bank of England dropped its proposed per-user stablecoin holding limits, replacing them with a temporary £40B issuance cap.",
@@ -110,7 +180,7 @@
     "created_at": "2026-06-23T02:30:41.000Z"
   },
   {
-    "id": "9db915f8-2dfb-414e-bfaf-7c43849093a0",
+    "id": "9c171d87-a071-450b-86a0-d5d6339c00c3",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇰🇷 South Korea's FIU called on FATF to extend the crypto Travel Rule to smaller transfers, pushing for tighter AML standards.",
@@ -120,7 +190,7 @@
     "created_at": "2026-06-23T02:30:21+00:00"
   },
   {
-    "id": "e51c79cf-0c7f-4404-a338-88141391c22c",
+    "id": "ba84ab08-eeae-4bd1-ab3e-387ccd8a1ec1",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US Senate passes bill banning the Federal Reserve from creating a Central Bank Digital Currency (CBDC)Twitter",
@@ -210,7 +280,7 @@
     "created_at": "2026-06-23T01:27:55.000Z"
   },
   {
-    "id": "9243165a-fba0-4c2a-9f13-dd394ed33604",
+    "id": "3c27cb69-54da-48ac-bbb1-4d60a8ad088a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Anchorage Digital has launched a platform it says will let banks issue and manage tokenized deposits on blockchain rails without replacing their core banking systems.",
@@ -270,7 +340,7 @@
     "created_at": "2026-06-23T00:20:22+00:00"
   },
   {
-    "id": "dc45b7ec-8433-4811-8e54-c07c7e83cd58",
+    "id": "ac020968-0088-4c71-9fca-9388b8cb1dd3",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 US Senate passes bill to ban the Federal Reserve from creating a Central Bank Digital Currency (CBDC).@WatcherGuru",
@@ -358,55 +428,5 @@
     "url": "https://t.me/CoinnessGL#84d3a3d1",
     "author": "@CoinnessGL",
     "created_at": "2026-06-22T22:36:25+00:00"
-  },
-  {
-    "id": "8d975d27-334f-42a9-ac02-049d748f7b5b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $64,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $64,000. BTC is trading at $63,918.79 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#89fa893b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T22:28:18+00:00"
-  },
-  {
-    "id": "97c3abdc-911b-489b-9e0f-6476f17caa6e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Allunity Launches SEKAU as First MiCA-Compliant Swedish Krona Stablecoin",
-    "summary": "1. Allunity has launched SEKAU, a Swedish krona-backed stablecoin issued as a regulated e-money token under MiCA.\n2. The token is backed 1:1 by segregated SEK reserves and will debut across five blockchain networks.\n3. Allunity Targets Institutional Payments With New Swedish Krona Stablecoin Allunity is expanding its European stablecoin lineup with the launch of SEKAU, a Swedish […]",
-    "url": "https://news.bitcoin.com/allunity-launches-sekau-as-first-mica-compliant-swedish-krona-stablecoin/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-22T22:25:51.000Z"
-  },
-  {
-    "id": "70d26cfe-fae9-40f7-b42a-543bbc18c691",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CME FedWatch shows 63.7% chance of Fed rate hold in July",
-    "summary": "Data from CME FedWatch indicates a 63.7% probability that the Federal Reserve will hold its benchmark interest rate steady at the July Federal Open Market Committee (FOMC) meeting, with a 36.3% chance of a 25 basis point (0.25 p.p.) hike. Looking ahead to the September meeting, the probability of a rate hold is 26.1%, while the chance of a cumulative 25 bp hike stands at 52.2%.",
-    "url": "https://t.me/CoinnessGL#08eb51b7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T22:24:58+00:00"
-  },
-  {
-    "id": "66efabb1-5831-47ef-be6b-45722baeedf9",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Morgan Stanley amended its Ethereum and Solana ETF filings to reveal 0.14% fees, which Bloomberg’s Eric Balchunas says would make them the cheapest ETFs in the world.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#8afae08b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-22T22:20:21+00:00"
-  },
-  {
-    "id": "3c6302a1-a9ec-480a-9490-69039c48e162",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin funding rate hits 2-week high: Is $70K next?",
-    "summary": "1. Bitcoin’s funding rate and orderbook setup signal investor optimism, but ETF outflows and macro red flags could limit BTC’s short-term upside.",
-    "url": "https://cointelegraph.com/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Marcel Pechman",
-    "created_at": "2026-06-22T22:15:51.000Z"
   }
 ]
