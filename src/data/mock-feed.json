@@ -1,5 +1,135 @@
 [
   {
+    "id": "6f499fe6-acef-4450-b55a-3fabd61ad597",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP drifts toward $1.10 support as traders await break from three-week range",
+    "summary": "1. Weak volume and fading momentum kept XRP pinned near the bottom of its recent range, with the $1.05-$1.10 area emerging as the market's key line in the sand.",
+    "url": "https://www.coindesk.com/markets/2026/06/23/xrp-drifts-toward-usd1-10-support-as-traders-await-break-from-three-week-range",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-23T06:27:10.000Z"
+  },
+  {
+    "id": "85c2c319-a4f7-4be8-bff0-9af77f38e20e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "$165 million worth of futures liquidated in the past hour",
+    "summary": "Major exchanges have seen $165 million worth of futures liquidated in the past hour. In the past 24 hours, $515 million worth of futures have been liquidated.",
+    "url": "https://t.me/CoinnessGL#c40c9ec2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T06:27:08+00:00"
+  },
+  {
+    "id": "09412f31-862d-4972-86bd-e8e0a2f7cb3f",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Bitcoin falls under $63,000Over $150,000,000 longs liquidated from the crypto market in the past 15 minutes.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#53634665",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-23T06:26:00+00:00"
+  },
+  {
+    "id": "946ee85e-5233-4dd3-845a-55a19ec69b1b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "SpaceX’s $600 billion plunge erased nearly half of bitcoin’s market cap in three days.",
+    "summary": "1. The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale.\n2. Bitcoin, absorbing the same backdrop, fell less than 1%.",
+    "url": "https://www.coindesk.com/markets/2026/06/23/spacex-s-usd600-billion-dive-erased-nearly-half-a-bitcoin-market-cap-in-three-days",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-23T06:23:36.000Z"
+  },
+  {
+    "id": "81d94a7d-89a5-4578-b2ec-a8ab34c8c202",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC falls below $63,000",
+    "summary": "According to CoinNess market monitoring, BTC has fallen below $63,000. BTC is trading at $62,941.34 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#8a5f816f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T06:20:28+00:00"
+  },
+  {
+    "id": "cd802296-7b94-4562-a740-3dba6f07eed5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "South Korean official calls for discussion on regulating perpetual futures",
+    "summary": "A South Korean financial official has stated that a discussion is needed on how to regulate perpetual futures amid growing interest in the digital asset market, The Herald Business reported. Speaking at a recent event at the Seoul Southern District Court, Shim Won-tae, an administrative officer at the Financial Services Commission's Virtual Asset Division, described perpetual futures as an \"area that needs discussion.\" He explained that while standard futures require intermediate settlement, perpetual futures use a separate mechanism called a \"funding rate\" to enable trading without an expiration date. Shim noted that a debate is necessary on whether to classify and regulate these instruments as traditional derivatives. more:",
+    "url": "https://t.me/CoinnessGL#f633d105",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T06:16:47+00:00"
+  },
+  {
+    "id": "f76fb6a7-b09c-4291-ba81-7dca9867fc97",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Cointelegraph",
+    "created_at": "2026-06-23T06:00:00.000Z"
+  },
+  {
+    "id": "f21293c8-aa59-4caa-b3b9-6e5d3f8522af",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US Senate passes housing bill with CBDC ban until 2030",
+    "summary": "1. The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
+    "url": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Martin Young",
+    "created_at": "2026-06-23T05:58:20.000Z"
+  },
+  {
+    "id": "be549909-d081-4585-bae6-a0442a82333f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "US Senate passes housing supply bill featuring CBDC ban in 85-5 vote",
+    "summary": "1. The housing supply bill seeks to ban the issuance of a CBDC or any similar digital asset until the end of 2030.",
+    "url": "https://www.theblock.co/post/405746/us-senate-passes-housing-cbdc-bill?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-23T05:57:02.000Z"
+  },
+  {
+    "id": "daf2462d-e522-4d6e-abe6-ab5cfc0896ad",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Google Earth’s Hidden Flight Simulator Is Now Playable in Web Browsers",
+    "summary": "1. Google has brought Google Earth’s long-hidden flight simulator to the web, making it playable at earth.google.com with no installation required.\n2. Launched June 12, 2026, the experimental mode lets users pilot a fighter jet over the platform’s 3D satellite imagery.\n3. The feature originally appeared as a keyboard-shortcut easter egg in the 2007 desktop app.",
+    "url": "https://news.bitcoin.com/google-earths-hidden-flight-simulator-is-now-playable-in-web-browsers-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-06-23T05:30:39.000Z"
+  },
+  {
+    "id": "e1e0d67a-7959-49a3-9067-db4800c556b3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin slips toward $63,000 as a tech selloff drags risk assets lower",
+    "summary": "1. A rotation out of this year's best AI and chip stocks sank Asian markets, with South Korea's Kospi down 6%, and crypto fell with them.\n2. Bitcoin is down more than 3% on the week.",
+    "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-slips-toward-usd63-000-as-a-tech-selloff-drags-risk-assets-lower",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-23T05:24:57.000Z"
+  },
+  {
+    "id": "0e8508da-9253-4b9e-9dce-bca703642d9a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto lobby urges Congress pass staking and mining tax bill as is",
+    "summary": "1. A trio of crypto lobby groups says a bill allowing staking and mining rewards to be taxed when they’re sold should be passed without further amendments.",
+    "url": "https://cointelegraph.com/news/crypto-lobby-urges-congress-pass-staking-mining-tax-bill-without-changes?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Jesse Coghlan",
+    "created_at": "2026-06-23T05:01:13.000Z"
+  },
+  {
+    "id": "94817469-b138-4ad8-a04b-d05a1dca6200",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Safaricom Teams With Chainalysis as AI Hunts Payments Linked to Illegal Wildlife Trade",
+    "summary": "1. Safaricom, along with major technology and cryptocurrency companies, including Chainalysis, has joined Prince William’s United for Wildlife taskforce to combat the $23 billion illegal wildlife trade.\n2. Squeezing the Financial Flows Kenyan telecom giant Safaricom has joined forces with a coalition of international technology, payments, and cryptocurrency firms to dismantle the financial networks driving the illegal […]",
+    "url": "https://news.bitcoin.com/safaricom-teams-with-chainalysis-as-ai-hunts-payments-linked-to-illegal-wildlife-trade/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-06-23T04:30:37.000Z"
+  },
+  {
     "id": "7d76bf80-fa27-4cbb-b131-198b42724219",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -90,7 +220,7 @@
     "created_at": "2026-06-23T03:57:36+00:00"
   },
   {
-    "id": "32a155b6-a7c8-43c9-babc-6d9cf28d7b76",
+    "id": "1a63241c-7ac3-4a94-91b2-bb87dbe79690",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇬🇧 The Bank of England dropped its proposed per-user stablecoin holding limits, replacing them with a temporary £40B issuance cap.",
@@ -180,7 +310,7 @@
     "created_at": "2026-06-23T02:30:41.000Z"
   },
   {
-    "id": "9c171d87-a071-450b-86a0-d5d6339c00c3",
+    "id": "34bdcb01-ca47-416d-b97c-449aa155a1bf",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇰🇷 South Korea's FIU called on FATF to extend the crypto Travel Rule to smaller transfers, pushing for tighter AML standards.",
@@ -190,7 +320,7 @@
     "created_at": "2026-06-23T02:30:21+00:00"
   },
   {
-    "id": "ba84ab08-eeae-4bd1-ab3e-387ccd8a1ec1",
+    "id": "e10337c8-f507-46a4-b63f-8f3bc7a8368c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US Senate passes bill banning the Federal Reserve from creating a Central Bank Digital Currency (CBDC)Twitter",
@@ -280,7 +410,7 @@
     "created_at": "2026-06-23T01:27:55.000Z"
   },
   {
-    "id": "3c27cb69-54da-48ac-bbb1-4d60a8ad088a",
+    "id": "8ceac2f6-99be-450b-a216-89a91959fe29",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Anchorage Digital has launched a platform it says will let banks issue and manage tokenized deposits on blockchain rails without replacing their core banking systems.",
@@ -328,105 +458,5 @@
     "url": "https://news.bitcoin.com/bitcoins-19-5-open-interest-drop-points-to-healthier-btc-market/",
     "author": "Kevin Helms",
     "created_at": "2026-06-23T00:40:49.000Z"
-  },
-  {
-    "id": "74dbd767-d137-4cc2-8477-08e811bc8645",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Social trading app Fomo raised $75M in a Series B led by Index Ventures, valuing the platform at $550M, just a year after launching.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b9bdaabe",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-23T00:20:22+00:00"
-  },
-  {
-    "id": "ac020968-0088-4c71-9fca-9388b8cb1dd3",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US Senate passes bill to ban the Federal Reserve from creating a Central Bank Digital Currency (CBDC).@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#3ee5859c",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-23T00:19:20+00:00"
-  },
-  {
-    "id": "defc1b94-02b8-4e53-bc15-371885624ec2",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "summary": "1. OpenAI is attempting to tackle the security issues of the open source software community.",
-    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-23T00:11:31.000Z"
-  },
-  {
-    "id": "40910d5d-94f5-4dff-81f9-8a59741604e1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "TurboFlow, aiming to be the ‘Kalshi of APAC,’ raises $6 million seed led by Pantera Capital",
-    "summary": "1. The platform offers prediction markets and perpetual futures and aims to be a localized alternative to Kalshi and Polymarket for Asian users.",
-    "url": "https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-06-23T00:00:02.000Z"
-  },
-  {
-    "id": "370c6579-964b-41f3-a361-a8f8fb1c045e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "OpenAI and Anthropic Pre-IPO Trading: Coinbase Launches Exposure to 2 AI Giants Still Private",
-    "summary": "1. Coinbase has launched pre-IPO perpetual futures linked to OpenAI and Anthropic, giving eligible non-U.S.\n2. traders a new way to track the valuations of two prominent private AI firms.\n3. The contracts are settled in USDC and are designed to transition toward equity-linked pricing if IPO terms and share-count data become available.",
-    "url": "https://news.bitcoin.com/openai-and-anthropic-pre-ipo-trading-coinbase-launches-exposure-to-2-ai-giants-still-private/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-22T23:40:15.000Z"
-  },
-  {
-    "id": "7b52d4cf-35fd-4b8b-9499-0673d585943b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ British investment firm Baillie Gifford launched a tokenized fixed-income fund on Ethereum and Solana, with BNY providing tokenization and wallet infrastructure.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ebc45bc7",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-22T23:30:22+00:00"
-  },
-  {
-    "id": "ad9c9cca-0fe6-4592-a91e-be169d6d600c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
-    "summary": "1. The idea of a U.S.\n2. central bank digital currency — though little more than a research topic at the Federal Reserve — may be getting formally blocked.",
-    "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-06-22T23:01:15.000Z"
-  },
-  {
-    "id": "c669d0c6-7766-40f1-943f-6926c5e28616",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-    "summary": "1. Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
-    "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
-    "author": "Connie Loizos",
-    "created_at": "2026-06-22T22:59:57.000Z"
-  },
-  {
-    "id": "f18f3c69-4f75-4079-81fc-0f0b8bb303a2",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
-    "summary": "1. The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
-    "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-06-22T22:43:12.000Z"
-  },
-  {
-    "id": "883cf224-5a62-45ce-9378-5a09c248245b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Sen. Lummis: Regulatory uncertainty driving crypto developers out of US",
-    "summary": "Pro-crypto U.S. Senator Cynthia Lummis is urging Congress to pass the Clarity bill, arguing that regulatory uncertainty is driving cryptocurrency developers overseas. Lummis stated that the U.S. must establish a clear regulatory framework through the legislation to maintain its competitive edge in innovation.",
-    "url": "https://t.me/CoinnessGL#84d3a3d1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-22T22:36:25+00:00"
   }
 ]
