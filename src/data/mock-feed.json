@@ -1,5 +1,245 @@
 [
   {
+    "id": "b87ac8f2-8c8c-4b00-833f-b61238e2c9b8",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
+    "summary": "1. The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
+    "url": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T22:19:27.000Z"
+  },
+  {
+    "id": "25cbe1c1-43de-4e46-8327-27f3f8bd87dc",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: Portugal really worked on their set pieces",
+    "summary": "1. Portugal really worked on their set pieces",
+    "url": "https://warpcast.com/rish/0xb794d08b",
+    "author": "rish",
+    "created_at": "2026-06-23T22:12:04.000Z"
+  },
+  {
+    "id": "1305c2d0-ad36-42d1-9782-7bf09a0d0d98",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Senate to release crypto tax legislation as early as fall 2026.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#6c83b1c5",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-23T22:01:48+00:00"
+  },
+  {
+    "id": "d34fe3f4-3917-4333-ae50-5f4440c20eb9",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
+    "summary": "1. Someone fine-tuned Fable 5's reasoning style into a local Qwen model.\n2. Then someone else removed its conscience.",
+    "url": "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-06-23T22:01:12.000Z"
+  },
+  {
+    "id": "5700e201-38b8-4c06-a255-373b52882b57",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 The House Financial Services Committee has scheduled a hearing on the CLARITY Act for July 17 in New York.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3daaea8b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-23T22:00:22+00:00"
+  },
+  {
+    "id": "9ff04e85-f0d0-490d-b0c8-6d03428bec31",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+    "summary": "1. Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester.",
+    "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Aaron Wood",
+    "created_at": "2026-06-23T22:00:00.000Z"
+  },
+  {
+    "id": "fe4a93b3-8b02-406b-8b7f-355835b01d66",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
+    "summary": "1. The economist known as \"Dr.\n2. Doom\" is supporting a tokenized security backed by a Nasdaq-listed ETF he oversees, designed to protect wealth in global crises.",
+    "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-23T21:54:10.000Z"
+  },
+  {
+    "id": "3163faa0-a566-4036-b5f6-e3db3272114e",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Superhuman acquires AI detection startup GPTZero",
+    "summary": "1. Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+    "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+    "author": "Julie Bort",
+    "created_at": "2026-06-23T21:48:23.000Z"
+  },
+  {
+    "id": "0c4ae715-438d-456e-9418-b7b4ef8bb341",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Senate Democrats urge Republicans to hold hearings on Trump family crypto ties to Abu Dhabi royalty",
+    "summary": "1. Top Democrats are calling for congressional hearings into President Donald Trump’s family crypto venture and Abu Dhabi royalty.",
+    "url": "https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-23T21:44:33.000Z"
+  },
+  {
+    "id": "97233dea-68bd-404c-9d9d-10e52e2997cf",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Isn’t it strange, the Dumocrats are running a man in Texas who looks virtually identical to Alfred E.\n2. Neuman, of MAD Magazine fame and, in Georgia, they’re running someone who looks like a twin to the Late, Great, Pee-wee Herman.\n3. With these two horrible Political Candidates, I don’t know if there’s a genetic tree, but it certainly is close!",
+    "url": "https://trumpstruth.org/statuses/39478",
+    "author": "Trump Truth",
+    "created_at": "2026-06-23T21:41:29.000Z"
+  },
+  {
+    "id": "dfc7004c-dcff-4a28-8e15-44e9f9707ef9",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Nearly 100 Catholic Leaders Oppose CLARITY Act Over Trafficking Safeguard Provisions",
+    "summary": "1. Close to 100 Catholic bishops and church leaders have sent a letter to Senate leadership opposing the CLARITY Act, arguing that a provision shielding non-custodial developers from money-transmitter rules would weaken federal safeguards against human trafficking and other financial crimes.",
+    "url": "https://thedefiant.io/news/regulation/catholic-leaders-oppose-clarity-act-trafficking-safeguards",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T21:38:28.000Z"
+  },
+  {
+    "id": "2b405eca-e194-4595-9a71-84c3020f6bee",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Trump White House Negotiating CLARITY Act Ethics Deal With Senate Democrats",
+    "summary": "1. A Trump White House official is negotiating an ethics compromise on the CLARITY Act with Senate Democrats, the last major sticking point before a floor vote, as Senator Cynthia Lummis says the US is finally close to getting digital asset legislation right.",
+    "url": "https://thedefiant.io/news/regulation/trump-white-house-clarity-act-ethics-deal-senate-democrats",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-23T21:38:25.000Z"
+  },
+  {
+    "id": "9b511323-2d04-47cd-8255-22047791c976",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Google $GOOGL added to the Dow Jones Industrial Average, replacing Verizon $VZ.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#46bc8114",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-23T21:35:32+00:00"
+  },
+  {
+    "id": "c5883836-76a1-4766-81ec-5a9322a7ffd1",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready",
+    "summary": "1. Industry leaders welcomed President Trump's quantum executive orders, while researchers said the accelerated timelines reflect growing urgency around post-quantum security and cryptocurrency infrastructure.",
+    "url": "https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-23T21:31:03.000Z"
+  },
+  {
+    "id": "62ff89a2-acdd-4816-953e-36a84bb4c4c4",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Crypto’s Clarity Act Has a New Enemy: Catholic Leaders",
+    "summary": "1. A group of 82 Catholic leaders warned a key provision of the crypto bill, protecting software developers from prosecution, could enable human trafficking.",
+    "url": "https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders",
+    "author": "Sander Lutz",
+    "created_at": "2026-06-23T21:10:54.000Z"
+  },
+  {
+    "id": "f5c3792c-b031-49e5-8629-cca576410548",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.187",
+    "summary": "1. ## What's changed\n\n- Added `sandbox.credentials` setting to block sandboxed commands from reading credential files and secret environment variables\n- Added org-configured model restrictions to the model picker, `--model`, `/model`, and `ANTHROPIC_MODEL`, with a \"restricted by your organization's settings\" message when a restricted model is selected\n- Added mouse click support to select menus (permission prompts, `/model`, `/config`, etc.) in fullscreen mode\n- Fixed `--resume` failing with \"No conversation found\" when the original `-p` run produced no model turns\n- Fixed `--json-schema` and workflow `agent({schema})` structured output: the model can no longer re-call `StructuredOutput` indefinitely after a successful call, and follow-up turns now reliably return structured output\n- Fixed remote MCP tool calls that hang with no response for 5 minutes — they now abort with an error instead of blocking indefinitely (override with `CLAUDE_CODE_MCP_TOOL_IDLE_TIMEOUT`)\n- Fixed Claude Code Remote sessions taking ~2.7s longer to start after the agent proxy CA system-trust install was added\n- Fixed pasted Korean/CJK text turning into mojibake in terminals that deliver paste as per-byte extended-key events\n- Fixed `/update` over Remote Control hanging when a startup trust dialog would have shown\n- Fixed background jobs in the agents view getting stuck in \"working\" indefinitely when the agent ended a turn without producing structured output\n- Fixed channel connections dropping after navigating to the agents view and back, and after `/bg`, `/tui`, or `/update`\n- Fixed agent stop notifications not correctly attributing who stopped the agent, and improved wording (\"finished\"/\"stopped\" instead of \"came to rest\")\n- Fixed subagent depth tracking: resumed subagents now restore their original spawn depth, and forked subagents now count toward the depth cap\n- Fixed leaked agent worktree registrations: locked `.git/worktrees/` entries from killed agents are now cleaned up automatically\n- Fixed Cmd+click not opening URLs in fullscreen mode in Ghostty on macOS\n- Fixed `claude --help` not listing the `--bg`/`--background` flag\n- Fixed Esc, Ctrl-C, and Ctrl-D not working while `/share` is uploading\n- Improved `/install-github-app`: GitHub Actions workflow setup is now optional — you can install just the GitHub App and skip the workflow/secret steps\n- Improved `/btw` with ←/→ arrow navigation to step through earlier answers\n- Improved `/plugin` to surface plugins you haven't used recently so you can clean them up\n- [VSCode] Fixed extension becoming unresponsive when resuming a large session",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.187",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-23T21:03:48Z"
+  },
+  {
+    "id": "5e1eaf55-2011-4240-8f69-f712fa9a1fc2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump's quantum computing order may be bullish for Bitcoin, says analyst",
+    "summary": "An executive order signed by President Donald Trump to accelerate the development of advanced quantum computers and prepare for related security threats could be a positive development for Bitcoin, according to an analysis cited by The Block.Alex Pruden, CEO of quantum resistance firm Project Eleven, explained that while blockchain was not directly mentioned, the move could positively influence the transition to quantum-secure technology. He noted that the executive order applies to federal government systems and contractors but is significant for setting a regulatory direction. For Bitcoin, Pruden stated that the real issue is the specific path to adopting post-quantum cryptography (PQC) signature schemes, highlighting the need to focus on proposals like BIP-360, which aims to introduce a wallet format resistant to quantum computing attacks and enable voluntary migration. more:",
+    "url": "https://t.me/CoinnessGL#6ab90a58",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T21:02:02+00:00"
+  },
+  {
+    "id": "a91c94a6-8436-4d5d-8930-3ffdc11350f7",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Mark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
+    "summary": "1. The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps allowing users to place wagers using a points system rather than money.",
+    "url": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Turner Wright",
+    "created_at": "2026-06-23T21:01:32.000Z"
+  },
+  {
+    "id": "d638ecb9-1ab9-4020-822b-10f0f2abdc89",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ethereum Users Jump 86% as Tokenized Assets Reach $203 Billion",
+    "summary": "1. Ethereum’s first-quarter data showed a clear split: user activity reached record highs while fees and market value fell.\n2. The report points to a network scaling aggressively as tokenized assets, stablecoins, and institutional finance continue to build on its base layer.\n3. Ethereum Holders Reach 293 Million Despite 30% Drop in Market Value Ethereum began 2026 with […]",
+    "url": "https://news.bitcoin.com/ethereum-users-jump-86-as-tokenized-assets-reach-203-billion/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-06-23T20:50:57.000Z"
+  },
+  {
+    "id": "5a1bae5e-8069-4b63-bc72-f8492427389b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Mark Zuckerberg has directed Meta staff to build a prediction markets app called Arena to rival Polymarket and Kalshi, the NYT reports.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#cc1d6bae",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-23T20:50:23+00:00"
+  },
+  {
+    "id": "e646e6cd-3477-42d6-b743-61d1f9cbfea3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Odds of December Fed rate hike surge to 77%",
+    "summary": "The probability of a December interest rate hike by the U.S. Federal Reserve has surged to 77% from 24% a month ago, Cointelegraph reported, citing data from crypto market maker Wintermute.",
+    "url": "https://t.me/CoinnessGL#aa551872",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-23T20:43:24+00:00"
+  },
+  {
+    "id": "39b3f67b-cd93-4925-ad16-131331d623d3",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump directing ‘government dollars and time’ to quantum security could be a boon for bitcoin",
+    "summary": "1. Millions of bitcoins with exposed public addresses may be at risk to quantum computers, Project Eleven previously said.",
+    "url": "https://www.theblock.co/post/405893/trump-directing-government-dollars-time-quantum-security-could-boon-bitcoin?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-23T20:34:06.000Z"
+  },
+  {
+    "id": "d991d35c-0cb0-4c07-9f6f-12bc58c80a91",
+    "source": "The Block",
+    "type": "rss",
+    "title": "CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves",
+    "summary": "1. Michael Saylor's Strategy should pause bitcoin purchases and focus on rebuilding its cash reserves, said CryptoQuant.",
+    "url": "https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-06-23T20:23:16.000Z"
+  },
+  {
+    "id": "c2833bd3-3045-49a1-9b01-3407c116167c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 Chainlink has joined a group of European and South Korean banks with over $10T in assets to test real-time stablecoin settlement for FX trades across a $150B trade corridor.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ac3143a8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-23T20:15:21+00:00"
+  },
+  {
     "id": "048ef172-3307-450e-a2be-7a6fdce828da",
     "source": "Decrypt",
     "type": "rss",
@@ -10,7 +250,7 @@
     "created_at": "2026-06-23T20:13:35.000Z"
   },
   {
-    "id": "2cc34c14-70c1-4fc7-9d9f-17376635cf95",
+    "id": "9568c033-e4a3-4d3f-899f-b9dc7777711b",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Coinbase adds GROVE to listing roadmap",
@@ -80,7 +320,7 @@
     "created_at": "2026-06-23T20:02:16.000Z"
   },
   {
-    "id": "f5a8b956-4bf8-4e50-9548-98db82453eb6",
+    "id": "c0911acc-a610-45dd-9ac3-a4089332e74d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 $1 trillion wiped out from the US stock market today.@WatcherGuru",
@@ -108,6 +348,16 @@
     "url": "https://thedefiant.io/news/defi/ens-dao-delegates-governance-attack-johnson-self-delegates",
     "author": "The Defiant Team",
     "created_at": "2026-06-23T20:00:07.000Z"
+  },
+  {
+    "id": "9ba37340-d3ce-4dad-babf-1721210b20c6",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "$1 trillion erased from stock market today as the dollar index $DXY hits a 13-month highGlobal tech selloff slams chipmakers as fears grow the AI rally has run too hot, Nasdaq closes down 2%, Nvidia falls 4%, memory names drop 10%+The drop started in Asia with South Korea’s Kospi crashed 10%, triggering circuit breakers twice, with SK Hynix and Samsung both down 12%.",
+    "summary": "Then it crossed the ocean with Micron, SanDisk and Arm all off 10%Money rotated into defensives like Walmart and J&J. The fear is the AI winners aren’t expensive, they’re “crowded,” and hyperscaler spending may be peaking. All eyes on Micron’s earnings Wednesday, the test of whether the chip supercycle holds.Twitter",
+    "url": "https://t.me/SolidIntelX#a033db87",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-23T19:53:38+00:00"
   },
   {
     "id": "7a012563-2b94-4aa3-9b97-fdb3db516d4b",
@@ -140,7 +390,7 @@
     "created_at": "2026-06-23T19:49:55.000Z"
   },
   {
-    "id": "aa09256e-6a2e-411f-abb3-ddfd5da1cc14",
+    "id": "3affea59-2c72-424e-b8e1-cfb0f42e06b4",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "THE US SENATE VOTES TO HALT THE IRAN WAR UNLESS TRUMP GETS APPROVAL FROM CONGRESS Twitter",
@@ -300,6 +550,16 @@
     "created_at": "2026-06-23T17:58:57.000Z"
   },
   {
+    "id": "8dab52c6-afd3-4f59-b09a-663d3492738f",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: sometimes a token in your wallet shows an absurd value, like millions of dollars...",
+    "summary": "1. sometimes a token in your wallet shows an absurd value, like millions of dollars.\n2. unfortunately it's not real, just annoying.\n3. most farcaster wallets are full of dead tokens with no liquidity from the old tipping days.",
+    "url": "https://warpcast.com/farcaster/0x42b578c8",
+    "author": "Farcaster",
+    "created_at": "2026-06-23T17:57:24.000Z"
+  },
+  {
     "id": "ee73d59c-651e-4121-a80d-19b337444903",
     "source": "CoinDesk",
     "type": "rss",
@@ -330,6 +590,16 @@
     "created_at": "2026-06-23T17:23:36+00:00"
   },
   {
+    "id": "0f057ea4-8aaa-403f-a103-9c487e45f47f",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: some hard hitters on here",
+    "summary": "1. some hard hitters on here",
+    "url": "https://warpcast.com/rish/0x34e2c505",
+    "author": "rish",
+    "created_at": "2026-06-23T17:00:45.000Z"
+  },
+  {
     "id": "39f6f3a4-6953-41b0-8a36-c13dc1633ab0",
     "source": "OpenAI",
     "type": "rss",
@@ -348,175 +618,5 @@
     "url": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
     "author": "Helene Braun",
     "created_at": "2026-06-23T16:34:34.000Z"
-  },
-  {
-    "id": "b568717c-7478-4dbf-a550-dcd93119a6ea",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
-    "summary": "1. The alliance, called Project Pangea, plans to use stablecoins to settle multimillion-dollar currency trades between Europe and South Korea in near real time.",
-    "url": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-23T15:40:00.000Z"
-  },
-  {
-    "id": "f16595d5-31ca-4f75-9d48-d92f5e32eb15",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
-    "summary": "1. This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
-    "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-06-23T15:12:37.000Z"
-  },
-  {
-    "id": "0a46abd8-275f-4a90-aedb-bd0805ca0186",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Wallet linked to a16z withdraws $21.2M in ETH from Binance",
-    "summary": "According to Onchain Lens, a wallet believed to be linked to leading Silicon Valley venture capital firm Andreessen Horowitz (a16z) has withdrawn 12,780 ETH, worth approximately $21.22 million, from Binance. Withdrawals from exchanges are typically interpreted as a move to hold the assets.",
-    "url": "https://t.me/CoinnessGL#c5006e25",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-23T15:11:45+00:00"
-  },
-  {
-    "id": "6bf231e0-8cb6-455c-b16c-e3b09ba46b4c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
-    "summary": "1. HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts a braiding assistant for professional stylists.",
-    "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
-    "author": "Dominic-Madori Davis",
-    "created_at": "2026-06-23T15:09:38.000Z"
-  },
-  {
-    "id": "20d0edb9-da3b-461b-834e-0db5f7b8e5ae",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Ethereum Foundation Cuts 20% of Staff in Sweeping Reorganization",
-    "summary": "1. The nonprofit is eliminating 54 roles and reorganizing around five core divisions focused on Ethereum’s protocol, users, community and institutional adoption.",
-    "url": "https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-of-staff-in-sweeping-reorganization",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-23T15:05:40.000Z"
-  },
-  {
-    "id": "4cc124e7-7dc0-4b74-9ad0-9cff8bbcd230",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BlackRock says Bitcoin's role in portfolios is evolving, suggests 1-2% allocation",
-    "summary": "BlackRock has assessed that Bitcoin (BTC) can be used as a diversification tool within investment portfolios. On a dedicated platform, the asset manager stated that BTC's role is evolving and that it can be considered a \"complementary diversifier.\" BlackRock further explained that, in general, even a small allocation of 1-2% can contribute to improving portfolio returns while maintaining an appropriate level of risk.",
-    "url": "https://t.me/CoinnessGL#50864368",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-23T15:00:53+00:00"
-  },
-  {
-    "id": "26a95e8f-18b1-4bc9-8b33-ed089d75ccb2",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Vitalik Buterin: Ethereum Foundation budget cut by 40% this year",
-    "summary": "Ethereum founder Vitalik Buterin announced that the Ethereum Foundation (EF) has cut its budget by approximately 40% this year as it transitions toward becoming a long-term, endowment-based organization.Buterin said on X that while the foundation previously spent about 15% of its remaining funds annually, it aims to reduce this to around 5% after 2030.He described the budget cut as a decision involving real sacrifice, not just a move for efficiency, adding that the organization has lost some of its important capabilities. Despite the cuts, Buterin emphasized that the EF will continue to advance its Ethereum Strawmap roadmap, which includes consensus, proof systems, privacy, account models, and other core infrastructure. He noted this work will constitute Ethereum's third generation, following the initial Ethereum and The Merge.The news follows a previous announcement that the Ethereum Foundation had completed a reorganization, reducing its workforce by 54 people, or about 20% of its staff. more:",
-    "url": "https://t.me/CoinnessGL#a29f80e5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-23T15:00:21+00:00"
-  },
-  {
-    "id": "4c2b91de-da2f-4167-8e0e-9d2330ad4064",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset",
-    "summary": "1. The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang.\n2. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.",
-    "url": "https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-23T15:00:00.000Z"
-  },
-  {
-    "id": "10841833-7e90-473c-a2a4-1181198afd84",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT:  pictures were taken this morning!",
-    "url": "https://trumpstruth.org/statuses/39470",
-    "author": "Trump Truth",
-    "created_at": "2026-06-23T14:58:14.000Z"
-  },
-  {
-    "id": "80049641-aa7f-4a60-84e7-0ca68d162728",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Six people have been arrested, and seven people have been cited, for the damage they did to our Country’s now beautiful Reflecting Pool.\n2. The 350 foot gash, made by a very sharp knife or razors, is actually numerous slashes over a very long 350 foot length.\n3. It was purposefully and criminally done, and somebody had to work very hard, probably in the dark of night, to create such a condition.",
-    "url": "https://trumpstruth.org/statuses/39472",
-    "author": "Trump Truth",
-    "created_at": "2026-06-23T14:56:44.000Z"
-  },
-  {
-    "id": "be0488ba-83f7-41de-9d2e-f11c6512674e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank ",
-    "summary": "1. Bitcoin's slump to its lowest level since late 2024 reflects a hawkish Federal Reserve, exchange-traded fund outflows and a shift of capital into AI, the bank said.",
-    "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
-    "author": "Will Canny",
-    "created_at": "2026-06-23T14:54:17.000Z"
-  },
-  {
-    "id": "4e507f77-09fa-4b73-8eab-20cae1f7c39f",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Nakamoto Inc. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin",
-    "summary": "1. Bitcoin Magazine\n\nNakamoto Inc.\n2. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin\nNakamoto has completed its transformation into a pure-play Bitcoin company, shutting its final healthcare clinic and ending all remaining ties to its healthcare business.\n3. This post Nakamoto Inc.",
-    "url": "https://bitcoinmagazine.com/news/nakamoto-completes-full-pivot-to-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-23T14:40:06.000Z"
-  },
-  {
-    "id": "50cc4416-017e-484e-a45b-84b3a1909503",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ethereum Foundation Restructures With 5 Clusters After Cutting 20% of Workforce",
-    "summary": "1. The Ethereum Foundation (EF) announced Tuesday it is cutting 54 employees, roughly 20% of its workforce, as part of a months-long reorganization designed to sharpen its focus on what it calls the critical work only the EF can do.\n2. Leaner Structure, Narrower Focus The foundation published a formal post from EF management outlining the new […]",
-    "url": "https://news.bitcoin.com/ethereum-foundation-restructures-with-5-clusters-after-cutting-20-of-workforce/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-23T14:38:58.000Z"
-  },
-  {
-    "id": "7e547a42-17e3-4ce7-8aba-2728e435f548",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
-    "summary": "1. SpaceX’s $600 billion wipeout rattles tech markets, putting Bitcoin’s $60,000 support at risk as traders brace for a deeper BTC selloff.",
-    "url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Yashu Gola",
-    "created_at": "2026-06-23T14:38:32.000Z"
-  },
-  {
-    "id": "075695c1-b361-4849-8994-cb3d0b349755",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 EMA Capital's Lawrence Lepard says Bitcoin could reach $1M as years of mounting debt concerns build.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d33d2512",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-23T14:35:22+00:00"
-  },
-  {
-    "id": "fb457f77-019e-4b0b-9e39-b20901f8e89d",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein\nBitcoin Suisse secured a MiCAR license in Liechtenstein, enabling the crypto financial services firm to expand regulated operations across the European Union under a unified regulatory framework.\n2. This post Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-23T14:31:29.000Z"
-  },
-  {
-    "id": "56fbdf15-e06e-426a-a5da-93dcea828fab",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Why tokenized SpaceX shares broke before retail investors could buy them ",
-    "summary": "1. Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead.\n2. What went wrong?",
-    "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Dilip Kumar Patairya",
-    "created_at": "2026-06-23T14:30:00.000Z"
   }
 ]
