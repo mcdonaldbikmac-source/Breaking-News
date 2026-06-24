@@ -1,5 +1,285 @@
 [
   {
+    "id": "204b4f3a-82e1-4317-892a-44844cfb8786",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: protocol developer updates\n\n> degen adding a snapchain validator: adds geographi...",
+    "summary": "1. protocol developer updates\n\n> degen adding a snapchain validator: adds geographic diversity - mentioned as a priority during previous dev call (thanks @jacek for volunteering \n\n> FIP to add non snapchain validators \n\nall validator operators will also be added to snapchain github repo with write access",
+    "url": "https://warpcast.com/rish/0x02e458fa",
+    "author": "rish",
+    "created_at": "2026-06-24T22:21:12.000Z"
+  },
+  {
+    "id": "87f8fe3f-2fcb-4092-a9bd-c4689e7a7a11",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 DWF Labs says $31B+ in RWAs are onchain but under 10% is active in DeFi, with most capital sitting idle in wallets.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#816f8825",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-24T22:20:21+00:00"
+  },
+  {
+    "id": "20c29a45-72c2-49db-a648-75f5906c96bc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase selects Luxembourg as its EU hub under MiCA",
+    "summary": "Coinbase has officially chosen Luxembourg as its European hub under the EU's Markets in Crypto-Assets (MiCA) regulation, Cointelegraph reported. From this base, the company plans to offer cryptocurrency services to clients throughout the EU.",
+    "url": "https://t.me/CoinnessGL#11f5ea29",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-24T22:08:56+00:00"
+  },
+  {
+    "id": "7ca7c4fe-1644-4375-a363-26f868815026",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "HYPE down 22% from record highs: Will spot demand revive the uptrend?",
+    "summary": "1. HYPE price drops near a key support zone where fading selling pressure collides with shrinking futures market activity.\n2. Will the altcoin resume its uptrend above $60?",
+    "url": "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Biraajmaan Tamuly",
+    "created_at": "2026-06-24T22:08:25.000Z"
+  },
+  {
+    "id": "86200425-959c-44c8-8386-f1be06116eec",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.191",
+    "summary": "1. ## What's changed\n\n- Added `/rewind` support for resuming a conversation from before `/clear` was run\n- Fixed scroll position jumping to the bottom while reading earlier output during a streaming response\n- Fixed background agents resurrecting after being stopped — stopping an agent from the tasks panel is now permanent\n- Fixed `/voice` showing a generic \"not available\" message when disabled by an organization's policy — it now explains the restriction\n- Fixed `/login` URL opening truncated in Windows Terminal when it wraps across lines\n- Fixed Cmd+click on links in fullscreen mode for Ghostty over ssh/tmux\n- Fixed `claude agents` sending builtin slash commands like `/usage` to background sessions as prompt text instead of showing a hint\n- Fixed `claude agents` job rows showing full filesystem paths for pasted images instead of the `[Image #N]` placeholder\n- Fixed hooks with comma-separated matchers (e.g.\n2. `\"Bash,PowerShell\"`) silently never firing\n- Fixed `/permissions` Recently-denied tab: approving a denial now persists on close instead of being silently discarded\n- Fixed the agent panel jumping by one row when scrolling the roster past the overflow cap\n- Fixed the welcome splash art overflowing the default 80×24 macOS Terminal window\n- Fixed managed settings: `forceRemoteSettingsRefresh` now takes effect when set via MDM or file policy, and the fetch sends `Cache-Control: no-cache` to prevent proxies from serving stale responses\n- Improved sandbox network permission dialog: hosts you allow with \"Yes\" are now remembered for the rest of the session instead of re-prompting on every connection\n- Improved MCP server reliability: capability discovery (`tools/list`, `prompts/list`, `resources/list`) now retries transient network errors with short backoff\n- Improved MCP OAuth: discovery and token requests now retry once after transient network errors, and headless environments skip the browser popup and go straight to the paste-the-URL prompt\n- Improved MCP error messages: HTTP 404 errors now show the URL and point to your MCP config\n- Improved vim mode prompt-history search (NORMAL `/`) to hint how to reach slash commands\n- Reduced CPU usage during streaming responses by ~37% by coalescing text updates to 100ms\n- Reduced long-session memory growth from terminal output cache",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.191",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-24T21:58:12Z"
+  },
+  {
+    "id": "4fc50421-9fe4-4b9b-baf9-36720a0461ac",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "summary": "1. While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "author": "Marina Temkin",
+    "created_at": "2026-06-24T21:56:41.000Z"
+  },
+  {
+    "id": "7b3657f2-fe62-49d3-a712-02b6d29ef235",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "14 AI Models Including Claude, ChatGPT and Grok Predict Bitcoin’s Price Outlook",
+    "summary": "1. The price of bitcoin is down 40% over the last year and has spent the past week trading between $62,171 and $65,994.\n2. In one of our periodic AI prediction experiments, we asked leading artificial intelligence (AI) chatbots to scan the market, weigh the pressure points and forecast where bitcoin could be headed next.\n3. Bitcoin prices […]",
+    "url": "https://news.bitcoin.com/14-ai-models-including-claude-chatgpt-and-grok-predict-bitcoins-price-outlook/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-24T21:56:02.000Z"
+  },
+  {
+    "id": "f21b1133-8685-45ff-9f2f-864a8bdaf436",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇷 South Korea's crypto delegation met with the SEC's crypto task force this week to discuss stablecoins, tokenized securities, and cross-border rules.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1b6270de",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-24T21:45:22+00:00"
+  },
+  {
+    "id": "31644997-7826-4163-82c7-a78f9be9bce2",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "summary": "1. Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "author": "Amanda Silberling, Lucas Ropek",
+    "created_at": "2026-06-24T21:42:07.000Z"
+  },
+  {
+    "id": "a6aee319-9118-4e7e-bcee-90d0cf0bf477",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
+    "summary": "1. An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too.",
+    "url": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
+    "author": "Ivan Wu and Bryan Samsoedin",
+    "created_at": "2026-06-24T21:41:02.000Z"
+  },
+  {
+    "id": "ab7bd20d-9a9d-4645-a068-e37a505ea988",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
+    "summary": "1. Illinois is set to institute a new tax on prediction markets next week that would take 15% of gross receipts from sports-related wagers.",
+    "url": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets",
+    "author": "Sander Lutz",
+    "created_at": "2026-06-24T21:37:45.000Z"
+  },
+  {
+    "id": "e78db952-cb26-472d-8f69-dcf0c4cb609b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The memory chip crunch is paying off for this US company",
+    "summary": "1. Revenue quadrupled to $41.45 billion compared with the same period a year ago.\n2. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+    "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-06-24T21:30:55.000Z"
+  },
+  {
+    "id": "d842bb04-56ce-4c0e-909e-3487c2475d41",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Bitcoin Slips Under $60,000 as Tech Rout, Hawkish Fed Hit Crypto",
+    "summary": "1. Ether falls harder than Bitcoin in a market-wide risk-off move, while Aave bucks the selloff on V4 and Grayscale tailwinds; total DeFi value drops to about $69 billion",
+    "url": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd60-000-as-tech-rout-hawkish-fed-hit-crypto",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-24T21:20:09.000Z"
+  },
+  {
+    "id": "3417a151-0e47-4683-9f91-bc38da9b4280",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: we want onboarding new people to Farcaster to be better!\n\nif you've onboarded or...",
+    "summary": "1. we want onboarding new people to Farcaster to be better!\n2. if you've onboarded or onboarded someone else recently: what was the hardest part, what caused friction, and what would you change first?\n3. the more specific, the more useful.",
+    "url": "https://warpcast.com/farcaster/0x76c892e2",
+    "author": "Farcaster",
+    "created_at": "2026-06-24T21:13:22.000Z"
+  },
+  {
+    "id": "cd5e680d-b4ca-4f42-8686-a047b06eaac8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚽ Kraken parent Payward led a $20M Series A in Onyx Odds, a sports prediction markets app, with plans to integrate crypto trading into the platform.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b2cdbd6a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-24T21:10:23+00:00"
+  },
+  {
+    "id": "4c287667-1fda-4270-b3e7-f7b9bd5fa78e",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Ethlabs Will Overlap with the Ethereum Foundation and Draw Its 'Densest Talent,' Funders Say",
+    "summary": "1. Sharplink, Bitmine and Joe Lubin are backing Ethlabs as the Ethereum Foundation cuts its budget 40%, but no one will say how much money is behind the new lab",
+    "url": "https://thedefiant.io/news/blockchains/new-ethereum-non-profit-ethlabs-is-set-to-overlap-with-ef-and-draw-densest-talent",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-24T21:09:55.000Z"
+  },
+  {
+    "id": "c0e80137-7d55-42a3-a7c2-9173c2509938",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
+    "summary": "1. A Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges.",
+    "url": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Turner Wright",
+    "created_at": "2026-06-24T21:07:03.000Z"
+  },
+  {
+    "id": "d216b884-114f-40e3-8895-1a086db5cbee",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Senate Could Unveil Crypto Tax Bill by Fall 2026 as CLARITY Act Push Continues, GOP Senator Daines Says",
+    "summary": "1. Senate lawmakers could release cryptocurrency tax legislation as early as this fall, Sen.\n2. Steve Daines (R-Mont.) said, with the Montana Republican stating that a framework is already in place and broadly aligned with a parallel House effort.\n3. A Framework Already in Place Senate lawmakers working on cryptocurrency tax rules may be ready to act “sooner […]",
+    "url": "https://news.bitcoin.com/senate-crypto-tax-bill-fall-2026-daines/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-24T21:04:58.000Z"
+  },
+  {
+    "id": "2308ef86-ec2e-4b83-abb1-53a8db8d20f3",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "The Next GameStop? Meme Stock Traders Make Biggie-Size Bet on Wendy's",
+    "summary": "1. Shares in fast-food chain Wendy's might be the next hot meme stock for retail investors hungry for a cause.",
+    "url": "https://decrypt.co/372023/next-gamestop-meme-stock-traders-biggie-size-bet-wendys",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-24T21:02:57.000Z"
+  },
+  {
+    "id": "2a3f3b70-6eaf-4c77-9e29-e2b48617db4b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
+    "summary": "1. Bitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment.",
+    "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Marcel Pechman",
+    "created_at": "2026-06-24T20:58:28.000Z"
+  },
+  {
+    "id": "1a6c833c-7a27-42c7-9967-eb231830576b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Samson Mow: BTC's fundamental value is unchanged, hyperbitcoinization inevitable",
+    "summary": "Amid Bitcoin's recent dip below and recovery from the $60,000 level, Jan3 CEO Samson Mow stated that the cryptocurrency's fundamental value has not changed at all. On X, he described Bitcoin as a neutral, permissionless, bearer asset and the best hope for the future. Mow emphasized that with the continued issuance of fiat currency, hyperbitcoinization—a phenomenon where Bitcoin becomes the mainstream currency as traditional markets weaken—is inevitable.",
+    "url": "https://t.me/CoinnessGL#5ef748a2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-24T20:52:20+00:00"
+  },
+  {
+    "id": "bb16ec81-4e6f-4521-907e-eb39ee39875f",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
+    "summary": "1. Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
+    "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
+    "author": "André Beganski",
+    "created_at": "2026-06-24T20:50:14.000Z"
+  },
+  {
+    "id": "30b82582-aac6-44f2-b8d4-af07809c8d3a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rises above $61,000",
+    "summary": "According to CoinNess market monitoring, BTC has risen above $61,000. BTC is trading at $61,009.48 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#e3b2fd81",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-24T20:49:08+00:00"
+  },
+  {
+    "id": "31a38b45-88d8-49a3-8b2a-50c6cb00938c",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: excited to be onboarding Degen as an additional validator node!\nhttps://farcaste...",
+    "summary": "1. excited to be onboarding Degen as an additional validator node!",
+    "url": "https://warpcast.com/farcaster/0xad4fe643",
+    "author": "Farcaster",
+    "created_at": "2026-06-24T20:22:07.000Z"
+  },
+  {
+    "id": "08af5da0-7584-430f-88ca-c753d9dd6382",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Micron $MU surges 10%+ after hours on a strong earnings beat, adding roughly $120B in market cap since the reportTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#8c52cf8d",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-24T20:18:41+00:00"
+  },
+  {
+    "id": "b3ac0232-32c2-499c-8c2f-91028d964598",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Scarcity on Binance Drops to 3-Month Low as Supply Concerns Grow",
+    "summary": "1. XRP supply on Binance has expanded, with the XRP Binance Scarcity Index dropping to around 0.34, its lowest level in more than three months, pointing to a noticeable rise in available tokens on the exchange.\n2. XRP Availability on Binance Expands While Price Remains Under Pressure At 3:05 p.m.\n3. EDT on June 24, XRP is trading […]",
+    "url": "https://news.bitcoin.com/xrp-scarcity-on-binance-drops-to-3-month-low-as-supply-concerns-grow/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-24T20:05:15.000Z"
+  },
+  {
+    "id": "10e2b798-bf3d-488f-93fd-76fa1d7f72f6",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Micron $MU reports $41.5 billion in revenue for Q2 2026, beating expectations.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d02c9ed1",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-24T20:05:10+00:00"
+  },
+  {
+    "id": "d866a044-144e-4630-9a8a-cb05d01f70ea",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Pump.fun Parent Baton Corporation Recruiting CLO at Up to $5M Base Salary",
+    "summary": "1. Baton Corporation, the development company behind memecoin launchpad Pump.fun, is seeking a Chief Legal Officer at a base salary of $1M to $5M, a compensation band that puts the hire among the best-paid legal executives in crypto.",
+    "url": "https://thedefiant.io/news/people/pump-fun-baton-corporation-clo-chief-legal-officer-salary",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-24T19:57:55.000Z"
+  },
+  {
     "id": "faff2aed-7136-4013-8bb8-116c36d7672a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
@@ -150,7 +430,7 @@
     "created_at": "2026-06-24T18:55:06.000Z"
   },
   {
-    "id": "e63c9e61-121c-478c-877d-dc22e48a9d10",
+    "id": "28c04d0c-4e0d-454a-a002-4f0854e61452",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Bitcoin is now down 35% this year.@WatcherGuru",
@@ -290,7 +570,7 @@
     "created_at": "2026-06-24T17:32:31.000Z"
   },
   {
-    "id": "83f28b6d-d920-4ffd-aa19-a8f18533c8d3",
+    "id": "c2a594b7-197b-4143-b673-227e7cf74294",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "80% chance Bitcoin falls under $55,000@WatcherGuru",
@@ -458,375 +738,5 @@
     "url": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
     "author": "Sean O'Kane",
     "created_at": "2026-06-24T16:39:08.000Z"
-  },
-  {
-    "id": "bfaf0847-d245-436a-aaa5-b3c0fc057d81",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
-    "summary": "1. A $525 million Bitcoin buy wall intersects with a major liquidation zone, creating a key battleground between $60,500 and $65,000.",
-    "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Biraajmaan Tamuly",
-    "created_at": "2026-06-24T16:21:52.000Z"
-  },
-  {
-    "id": "b469594b-25e1-4df9-bbd0-a7cf26b39e9e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 21Shares forecasts Bitcoin reaching $100,000 by year end.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#71127a8d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-24T16:20:21+00:00"
-  },
-  {
-    "id": "aca78f5e-ea1a-48a8-8d42-342482a5cdfa",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "summary": "1. Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-06-24T16:15:00.000Z"
-  },
-  {
-    "id": "c8632993-5c84-4df3-bf93-441e4a9d901d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid",
-    "summary": "1. The world's largest crypto exchange only has one week to secure a license in legally operate in the European Union.",
-    "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-24T16:12:29.000Z"
-  },
-  {
-    "id": "17eae462-6652-4ebd-8e6d-1e809396705d",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
-    "summary": "1. Following a series of setbacks for South Korea, a delegation from one of Asia's most active crypto markets met with the SEC's task force.",
-    "url": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
-    "author": "André Beganski",
-    "created_at": "2026-06-24T16:11:15.000Z"
-  },
-  {
-    "id": "e08b3d98-2454-47e8-8aac-3bbe892c4e6d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock’s IBIT Loses $182 Million as Bitcoin ETF Outflows Reach $114 Million",
-    "summary": "1. Crypto ETF flows stayed under pressure on Tuesday, June 23, as bitcoin funds lost $113.78 million and ether ETFs saw $82.35 million in outflows.\n2. HYPE and Solana products attracted modest inflows, while XRP ETFs saw no trading activity.\n3. Fidelity’s FETH Draws $15.7 Million but Ether ETFs Still Post $82 Million Outflow The market’s patience with […]",
-    "url": "https://news.bitcoin.com/blackrocks-ibit-loses-182-million-as-bitcoin-etf-outflows-reach-114-million/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-24T16:05:59.000Z"
-  },
-  {
-    "id": "d441c74c-e8f5-4f59-ba4c-a111a1373b4e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin falls to $60,000 as AI trade continues to draw investor interest and capital",
-    "summary": "1. South Korean memory chip giant on Wednesday filed to raise nearly $30 billion in a U.S.",
-    "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
-    "author": "Helene Braun",
-    "created_at": "2026-06-24T16:01:02.000Z"
-  },
-  {
-    "id": "f90344a2-e09b-42e3-9b5e-450755d5b9e7",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
-    "summary": "1. In this week's Crypto Long & Short, Nonco’s Caue Teixeri makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets.\n2. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced selling peaked near $68,000, days before bitcoin actually bottomed.",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-    "author": "Caue Teixeira",
-    "created_at": "2026-06-24T16:00:00.000Z"
-  },
-  {
-    "id": "7d1a4b3b-0062-41e7-9e92-9ab307123524",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Law Enforcement, Catholic Groups Send Letters to U.S. Government Warning CLARITY Act Would Create Crypto Crime Loopholes",
-    "summary": "1. Bitcoin Magazine\n\nLaw Enforcement, Catholic Groups Send Letters to U.S.\n2. Government Warning CLARITY Act Would Create Crypto Crime Loopholes\nLaw enforcement groups and Catholic leaders warned that the CLARITY Act’s Section 604 could create regulatory and AML loopholes by exempting certain crypto developers and infrastructure providers from money transmitter rules.\n3. This post Law Enforcement, Catholic Groups Send Letters to U.S.",
-    "url": "https://bitcoinmagazine.com/news/law-enforcement-catholic-group-clarity-act",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-24T15:59:07.000Z"
-  },
-  {
-    "id": "2deb9333-5502-4afc-a32d-4b6bcc99c70c",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.190",
-    "summary": "1. ## What's changed\n\n- Bug fixes and reliability improvements",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.190",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-24T15:53:56Z"
-  },
-  {
-    "id": "86c2464e-bf69-4e17-bc58-ac08436b6556",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
-    "summary": "1. A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
-    "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Sam Bourgi",
-    "created_at": "2026-06-24T15:49:54.000Z"
-  },
-  {
-    "id": "52941c15-0979-496f-9c61-27bdc9392e77",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Binance withdraws Greece-filed MiCA application",
-    "summary": "1. Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc.",
-    "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Ezra Reguerra",
-    "created_at": "2026-06-24T15:47:05.000Z"
-  },
-  {
-    "id": "6ec879a0-8891-4e65-9521-7a0048717f3f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
-    "summary": "1. SecondFi was hit by three separate attacks exploiting a flaw in its wallet generation software.\n2. A further 129 million ADA was secured by the team before attackers could reach it.",
-    "url": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
-    "author": "Oliver Knight",
-    "created_at": "2026-06-24T15:45:42.000Z"
-  },
-  {
-    "id": "9718c58e-dffa-4b1a-b423-af6faf777f3e",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip",
-    "summary": "1. Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.",
-    "url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-24T15:42:31.000Z"
-  },
-  {
-    "id": "4e2d5c01-4249-42f6-b82b-a2af412d560a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
-    "url": "https://trumpstruth.org/statuses/39515",
-    "author": "Trump Truth",
-    "created_at": "2026-06-24T15:18:30.000Z"
-  },
-  {
-    "id": "12d87d83-8ad1-4408-b3bb-c157c5d0db42",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Faces $55K Stress Test as 10x Research Cites Several Bearish Signals",
-    "summary": "1. Crypto research firm 10x Research says bitcoin could fall to the mid-$50,000s before this cycle’s bottom forms, with founder Markus Thielen identifying late August through October 2026 as the most likely window for a durable low.\n2. Where Bitcoin Stands Now Bitcoin traded below $61,000 on June 24, roughly 51% below its October 2025 all-time high […]",
-    "url": "https://news.bitcoin.com/bitcoin-faces-55k-stress-test-as-10x-research-cites-several-bearish-signals/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-24T15:15:35.000Z"
-  },
-  {
-    "id": "8d9e12f1-0983-4a4f-981e-f22478ee2d6e",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
-    "summary": "1. The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
-    "url": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-24T14:45:50.000Z"
-  },
-  {
-    "id": "618ae294-be87-4aa6-bd87-450a9f8d8acb",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Trump says he will not sign the recently passed housing bill, which includes a CBDC ban, until the SAVE America Act is passed.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#409fb86c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-24T14:45:19+00:00"
-  },
-  {
-    "id": "07940ee3-1c06-41f5-96c4-da5586fceaf9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime",
-    "summary": "1. Kalshi is taking the state of Illinois to court over its new law that establishes a regulatory regime for prediction markets.",
-    "url": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-24T14:41:19.000Z"
-  },
-  {
-    "id": "c0a1d83f-7cbb-4828-af80-eda8a51ffda0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Standard Chartered sees ‘generational wealth’ in potential Aave recovery, predicts 50x upside by 2030",
-    "summary": "1. Standard Chartered says Aave could reach $3,500 by end of 2030, a 50x gain based on a DeFi asset growth forecast and post-KelpDAO recovery.",
-    "url": "https://www.theblock.co/post/405996/standard-chartered-generational-wealth-potential-aave-recovery-predicts-50x-upside-2030?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-24T14:37:51.000Z"
-  },
-  {
-    "id": "e02e75a3-e1e8-4d74-9500-04c61b49b988",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
-    "summary": "1. Bitcoin fell to a two-week low price Wednesday as Strategy shares dove below the $100 mark for the first time since March 2024.",
-    "url": "https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k",
-    "author": "Andrew Hayward",
-    "created_at": "2026-06-24T14:31:29.000Z"
-  },
-  {
-    "id": "fa60398c-dce4-4d1b-854c-47eba7d1c9fd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Dunamu says PICA coin payment list is unverified",
-    "summary": "Dunamu, the operator of South Korean crypto exchange Upbit, has responded to allegations of bribery for listing the PICA coin, which were raised by Lee Hee-jin, a figure known as the \"Cheongdam-dong stock millionaire,\" TechM reported. Regarding a \"PICA coin provision and sale history\" and an \"unofficial 10 million coin payment list\" reportedly created by Lee, Dunamu dismissed the documents, stating they were created by Lee's side and that the facts have not been proven. The company emphasized that the documents were unilaterally created by Lee and are not accompanied by objective evidence. Dunamu reiterated that no employee has ever received money or other benefits for the purpose of providing listing support. more:",
-    "url": "https://t.me/CoinnessGL#1534c2af",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-24T14:30:38+00:00"
-  },
-  {
-    "id": "f000bb16-a545-4167-a9d6-cd5804c5e478",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Nearly 100 Catholic leaders wrote to Senate leaders opposing the CLARITY Act, warning its Section 604 safe harbor for non-custodial developers could hinder law enforcement efforts against trafficking.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#48484db3",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-24T14:30:22+00:00"
-  },
-  {
-    "id": "57fba6c4-da11-4ee6-b151-9f18ef3657e1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "How memecoin marketing moved from online speculation to real-world risk",
-    "summary": "1. From alcohol dares to head-shaving challenges, memecoin campaigns are turning engagement into exploitation.",
-    "url": "https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Dilip Kumar Patairya",
-    "created_at": "2026-06-24T14:30:00.000Z"
-  },
-  {
-    "id": "6ca538a7-a135-4bc7-8ac9-09473d67bd56",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Today’s Housing News Conference and Signing is hereby cancelled until such time as we pass the desperately needed SAVE AMERICA ACT, which I consider to be a National Emergency.\n2. Thank you for your attention to this matter!\n3. President DJT",
-    "url": "https://trumpstruth.org/statuses/39514",
-    "author": "Trump Truth",
-    "created_at": "2026-06-24T14:26:20.000Z"
-  },
-  {
-    "id": "10889f9d-548d-4a93-b34f-400b456ae9ee",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $61,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $61,000. BTC is trading at $60,958.28 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#207d061a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-24T14:19:28+00:00"
-  },
-  {
-    "id": "7cd9334d-d3e4-4d12-b473-ca92ee23d30d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. MY REAL POLL NUMBERS ARE THE HIGHEST THEY HAVE EVER BEEN.\n2. THANK YOU!!!\n3. President DJT",
-    "url": "https://trumpstruth.org/statuses/39512",
-    "author": "Trump Truth",
-    "created_at": "2026-06-24T14:17:21.000Z"
-  },
-  {
-    "id": "55e92c9e-dff8-46d3-8973-d1e5f933c59e",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Mayor Mamdani pulled through 3 solid Communists, and has received loud and universal applause from the Fake News Media.\n2. Congratulations Mr.\n3. I went 16-0 last night, helping to elect wonderful American Patriots, and the Media doesn’t say a word.",
-    "url": "https://trumpstruth.org/statuses/39513",
-    "author": "Trump Truth",
-    "created_at": "2026-06-24T14:15:43.000Z"
-  },
-  {
-    "id": "508f0021-e5b0-47e7-8369-f3cc19bd1247",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin ETP annual inflows turn negative for first time since late 2023",
-    "summary": "The annual cumulative fund flow for global Bitcoin investment products (ETPs and ETFs) has turned negative for the first time since November 2023, signaling potential capitulation from institutional investors, The Block reported.Vetle Lunde, a senior researcher at crypto research and brokerage firm K33, stated that the one-year cumulative nominal fund flow for all global Bitcoin investment products, including spot and futures ETFs, stood at -1,176 BTC as of June 18. This is the first time the annual cumulative flow has turned negative since Nov. 4, 2023.Total assets held by global Bitcoin ETPs now amount to 1,466,029 BTC, a decrease of 127,774 BTC, or about 8%, from the all-time high. K33 described this as the largest outflow it has ever tracked, both in relative percentage and nominal terms, adding that the ETP outflows since mid-May have been unprecedented in their depth and scale.However, the firm also noted a pattern from the 2022 bear market, where Bitcoin bottomed and rebounded just weeks after the annual inflow first turned negative, leaving open the possibility that the market is currently in an oversold phase.\"While the sell-off has calmed and leveraged positions have been cleared from the system, there are no signs of new buyers entering,\" K33 warned. The market is in a fragile equilibrium with no conviction from either buyers or sellers, which could lead to sharp volatility if institutional sentiment shifts decisively in one direction.",
-    "url": "https://t.me/CoinnessGL#d45a0a22",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-24T14:15:40+00:00"
-  },
-  {
-    "id": "7fa31d7e-6a48-4d46-b530-30e96581ae63",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strategy (MSTR) Stock Falls Below $100 for First Time Since March 2024",
-    "summary": "1. Bitcoin Magazine\n\nStrategy (MSTR) Stock Falls Below $100 for First Time Since March 2024\nStrategy (MSTR) shares fell below $100 for the first time since March 2024 as Bitcoin's drop to around $61,000 left the company sitting on more than $11 billion in unrealized losses.\n2. This post Strategy (MSTR) Stock Falls Below $100 for First Time Since March 2024 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/strategy-mstr-stock-falls-below-100",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-24T14:14:42.000Z"
-  },
-  {
-    "id": "d1f31cf7-f251-4908-a697-b0441c680ad5",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
-    "summary": "1. DeFi TVL fell 39% in 2026 as a broader market downturn and fallout from major exploits, including the Kelp DAO hack, weighed on the sector.",
-    "url": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Zoltan Vardai",
-    "created_at": "2026-06-24T14:14:39.000Z"
-  },
-  {
-    "id": "16636e73-0eb8-4a46-a452-46792fadf8fa",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Crashes Toward $61,000 as Bloodbath Engulfs Crypto Stocks",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Crashes Toward $61,000 as Bloodbath Engulfs Crypto Stocks\nBitcoin price has fallen to around $61,500—down more than 50% from its October 2025 peak—dragging crypto-related stocks even lower in the broader market sell-off.\n2. This post Bitcoin Price Crashes Toward $61,000 as Bloodbath Engulfs Crypto Stocks first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slides-toward-61000",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-24T14:09:00.000Z"
-  },
-  {
-    "id": "26939fe0-5b04-414b-9a48-47548352bcb5",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin ETP outflows push rolling one-year flows negative for first time since 2023: K33",
-    "summary": "1. Bitcoin ETP holdings are down 8% from their peak, the largest drawdown on record, according to Head of Research Vetle Lunde.",
-    "url": "https://www.theblock.co/post/405989/bitcoin-etp-outflows-push-rolling-one-year-flows-negative-first-time-since-2023-k33?utm_source=rss&utm_medium=rss",
-    "author": "James Hunt",
-    "created_at": "2026-06-24T14:04:30.000Z"
-  },
-  {
-    "id": "6c3a85b8-9513-446a-aa5c-91e23b93eb08",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "A16z-Linked Wallet Pulls 25,560 ETH Worth $42.6 Million Off Binance, Onchain Data Shows",
-    "summary": "1. A wallet linked to venture capital giant Andreessen Horowitz (a16z) withdrew 25,560 ether (ETH), worth about $42.62 million, from Binance, a move that landed as ether trades at $1,672.\n2. Tracking the Withdrawal The transfer flagged by onchain tracker Lookonchain, said a wallet linked to a16z pulled 25,560 ETH, valued at roughly $42.62 million, off Binance, […]",
-    "url": "https://news.bitcoin.com/a16z-eth-withdrawal-binance-42-million-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-24T14:02:04.000Z"
-  },
-  {
-    "id": "00c0d309-949f-4260-9b8a-4e258549f79d",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "If you want to cut your screen time, just get a Brick",
-    "summary": "1. After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
-    "url": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-06-24T14:01:35.000Z"
-  },
-  {
-    "id": "88563338-f1aa-4f79-8c76-25ecaf321060",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-    "summary": "1. You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m.\n2. Register here.",
-    "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "author": "TechCrunch Events",
-    "created_at": "2026-06-24T14:00:00.000Z"
-  },
-  {
-    "id": "07ebd0fa-8f22-42ad-b85c-9ff02f2b7e30",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
-    "summary": "1. New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
-    "url": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-    "author": "Dominic-Madori Davis",
-    "created_at": "2026-06-24T13:58:14.000Z"
   }
 ]
