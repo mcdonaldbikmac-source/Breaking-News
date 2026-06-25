@@ -1,13 +1,253 @@
 [
   {
-    "id": "cf78d0ca-7418-4fba-b69a-4d25ab60fdde",
+    "id": "ebdd4d73-c7a6-40b1-9760-efa5dba4a0c7",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "This channel delivers thanks to readers like youA simple Boost helps us grow and...",
     "summary": "",
     "url": "https://t.me/SolidIntelX#53035c2d",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-25T20:11:20.041Z"
+    "created_at": "2026-06-25T22:25:23.749Z"
+  },
+  {
+    "id": "b096417b-79c9-41ee-b6b6-a2e193efc606",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Aave founder denies rumor of discounted token sale to Kraken",
+    "summary": "Aave founder Stani Kulechov has refuted rumors that the project is selling its tokens to Kraken at a 70% discount amid speculation about a potential acquisition. The statement follows a CoinDesk report that Kraken was in negotiations to acquire an approximately 15% stake in Aave for $385 million. While Kulechov acknowledged that discussions with an external institution had taken place, he asserted that the rumor of a discounted sale was false. He also unveiled plans to introduce Aavenomics 3.0, which will automate up to $50 million in annual token buybacks. more:",
+    "url": "https://t.me/CoinnessGL#e34da2bf",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-25T22:20:11+00:00"
+  },
+  {
+    "id": "6359d254-7f9f-4f80-9e78-425832c45018",
+    "source": "Politico",
+    "type": "rss",
+    "title": "How much longer can Donald Trump go missing from the World Cup?",
+    "summary": "1. The person who shaped the tournament in his image has been invisible since it started.",
+    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/donald-trump-world-cup-absence-00975569",
+    "author": "By Ali Walker and Sophia Cai",
+    "created_at": "2026-06-25T22:15:00.000Z"
+  },
+  {
+    "id": "f94bb917-8466-4428-b093-78e1bb803890",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US lawmakers feel growing urgency to pass CLARITY Act",
+    "summary": "U.S. Republican lawmakers are feeling a renewed sense of urgency to pass the CLARITY Act, according to Eleanor Terrett, host of the crypto policy outlet CryptoInAmerica. She attributed this to mounting political pressure following a debate over a housing bill and the approaching deadline. Terrett explained that when senators return from recess on July 13, they will have only 20 working days to pass the bill in the Senate and send it back to the House before the August recess. However, she noted that several key issues, including ethics provisions in the bill, remain unresolved.Separately, Kristin Smith, head of the Solana Policy Institute, reported that active discussions are underway among the Senate, the White House, and crypto industry stakeholders, with key negotiators meeting daily. Prominent pro-crypto Senator Cynthia Lummis has previously stated her goal is to have the Senate pass the CLARITY Act in July. more:",
+    "url": "https://t.me/CoinnessGL#5d1be7a8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-25T22:06:14+00:00"
+  },
+  {
+    "id": "d57e9556-666b-4d4f-b564-007bcf266210",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+    "summary": "1. YouTube Shorts is getting a makeover.",
+    "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-06-25T22:02:12.000Z"
+  },
+  {
+    "id": "55d946e0-8e2f-4a23-8c55-d80314a04e43",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: heads up for anyone on mobile.\n\nwe just shipped a fix that removes \"Sign in with...",
+    "summary": "1. heads up for anyone on mobile.\n2. we just shipped a fix that removes \"Sign in with email\" on mobile.\n3. a recent bug logged some people out, and signing back in with email is a session-only login.",
+    "url": "https://warpcast.com/farcaster/0x72860dda",
+    "author": "Farcaster",
+    "created_at": "2026-06-25T21:55:00.000Z"
+  },
+  {
+    "id": "738ae74d-84de-48ca-aa0a-31fe218f4bfe",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.193",
+    "summary": "1. ## What's changed\n\n- Added `autoMode.classifyAllShell` setting to route all Bash/PowerShell commands through the auto-mode classifier instead of only arbitrary-code-execution patterns\n- Added auto-mode denial reasons to the transcript, the denial toast, and `/permissions` recent denials\n- Added `claude_code.assistant_response` OpenTelemetry log event containing the model's response text.\n2. Redacted unless `OTEL_LOG_ASSISTANT_RESPONSES=1`; when that var is unset it follows `OTEL_LOG_USER_PROMPTS`, so deployments that already log prompt content will start receiving response content on upgrade — set `OTEL_LOG_ASSISTANT_RESPONSES=0` to keep prompts-only.\n3. - Added live file path autocomplete to bash mode (`!`)\n- Added a startup notice when MCP servers need authentication, pointing at `/mcp`\n- Added automatic memory-pressure reaping for idle background shell commands (disable with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1`)\n- Fixed `/model` and other client-data-gated UI showing stale/empty state immediately after `/login`\n- Fixed backgrounding (←←) spuriously cancelling with \"N background tasks would be abandoned\" when all running tasks carry over to the new session\n- Fixed pinned background agents being re-prompted to \"Continue from where you left off\" after every auto-update\n- Fixed backgrounding the main turn spawning a phantom \"general-purpose (resumed)\" subagent that re-ran the main conversation\n- Fixed agent panel hiding sibling agents when viewing a subagent\n- Improved background agents: the launch result no longer instructs Claude to \"end your response\" — it keeps working on other tasks while the agent runs\n- Improved MCP `headersHelper` auth: the helper now re-runs and reconnects automatically when a tool call returns 401/403\n- Improved plugin auto-rename: marketplace `renames` maps are now followed automatically, updating your settings to the new name\n- Improved `/add-dir` message when the directory is already a working directory",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-25T21:45:57Z"
+  },
+  {
+    "id": "ad03f8eb-2212-4240-bdf5-6d36e5773c24",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Meloni allies fail to take over Italian soccer",
+    "summary": "1. Giovanni Malagò has a bulging in-tray as he takes over the troubled Italian soccer association.",
+    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/italy-giorgia-meloni-football-failure-fifa-world-cup-2026-00977002",
+    "author": "By Gregorio Sorgi",
+    "created_at": "2026-06-25T21:45:00.000Z"
+  },
+  {
+    "id": "cbcd4e16-a60c-4cc1-adc9-384f24547cee",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Aave founder Stani Kulechov says AAVE isn’t for sale ‘at a 70% discount’ following report of Payward bid",
+    "summary": "1. The Aave Will Win proposal redirected 100% of protocol and Aave-branded product revenue to the DAO and AAVE token holders.",
+    "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-25T21:34:09.000Z"
+  },
+  {
+    "id": "543f003f-49a1-452b-94c2-2af128f98a27",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Vinny Lingham Predicted Saylor Would Hurt Bitcoin More Than FTX. Now He’s Explaining Why",
+    "summary": "1. Vinny Lingham, co-founder of Praxos Capital, told Unchained’s Laura Shin that Strategy’s financial structure is now unraveling in a way he predicted 18 months ago, and that the company may be approaching the point where every available move makes its position worse.\n2. Lingham Called It Early The co-founder of Praxos Capital, Vinny Lingham, once known […]",
+    "url": "https://news.bitcoin.com/vinny-lingham-predicted-saylor-would-hurt-bitcoin-more-than-ftx-now-hes-explaining-why/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-25T21:30:15.000Z"
+  },
+  {
+    "id": "e73fe420-c1da-427d-934a-d436a27bdcb5",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Aave's Kulechov Disputes Report, Says Firm Won't Sell AAVE at '70%' Discount",
+    "summary": "1. The founder said all Aave protocol and GHO revenue flows to the AAVE token and that the brand and software belong to holders, responding to a report that Kraken is in talks to buy a 15% stake at a $385 million valuation.",
+    "url": "https://thedefiant.io/news/defi/aave-s-kulechov-disputes-report-says-firm-won-t-sell-aave-at-70-discount",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-25T21:20:47.000Z"
+  },
+  {
+    "id": "f12e6e6d-a84e-4174-8bd0-d764ebea8d2d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ethena infrastructure firm StablecoinX to list on Nasdaq under ticker USDE",
+    "summary": "StablecoinX, an Ethena infrastructure firm, announced that it will begin trading on Nasdaq starting today, June 26, under the ticker USDE. The company was listed through a merger with the special purpose acquisition company (SPAC) TGLY. StablecoinX holds approximately three billion ENA, representing 20% of the total supply and valued at $275 million.",
+    "url": "https://t.me/CoinnessGL#14d308a0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-25T21:20:27+00:00"
+  },
+  {
+    "id": "fb6275a9-7ae0-45d8-89f7-1dad8244a04f",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
+    "summary": "1. Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
+    "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-25T21:13:37.000Z"
+  },
+  {
+    "id": "67d62d07-4772-419f-910f-32d90cdfe11a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
+    "summary": "1. Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns.",
+    "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Marcel Pechman",
+    "created_at": "2026-06-25T21:02:50.000Z"
+  },
+  {
+    "id": "a3fdb5fa-4247-425b-931b-541d424183cc",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
+    "summary": "1. Hackers infiltrated Polymarket’s website via a compromised third-party vendor, the company said, swiping millions in crypto from users.",
+    "url": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
+    "author": "Sander Lutz",
+    "created_at": "2026-06-25T21:02:40.000Z"
+  },
+  {
+    "id": "873f406d-6e84-4baf-99f6-fabf2d388531",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Spot the Pol!",
+    "summary": "1. Study the photograph carefully.\n2. Only the politician is missing.\n3. Guess who it is.",
+    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/spot-the-pol-mayor-fairmount-park-00976803",
+    "author": "By POLITICO",
+    "created_at": "2026-06-25T20:57:42.000Z"
+  },
+  {
+    "id": "9ce4bc84-84a2-43c7-b9a9-e7980445fcfb",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bitcoin fell to $58,000 on Thursday, its lowest since September 2024, after US PCE inflation hit a 3-year high of 4.1% and crypto liquidations topped $1B.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0d200f31",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-25T20:50:21+00:00"
+  },
+  {
+    "id": "ca85767d-1457-4baf-a38f-a0878f82b9aa",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
+    "summary": "1. The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year.",
+    "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-25T20:47:24.000Z"
+  },
+  {
+    "id": "40a6a613-a116-4c5b-b83a-0d2df46f2629",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US tells OpenAI to limit GPT 5.6 release while the government reviews it, The Information reports.CEO Sam Altman: \"we've made clear to the US government that this is not our preferred long term model.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#f4013db9",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-25T20:43:55+00:00"
+  },
+  {
+    "id": "bbff3f45-b8f9-4de5-bd12-6de520edf8a9",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. House Republicans should unify, and stop voting down “Rules” or, threatening to do so.\n2. Giving power to the Radical Left Dumocrats in the House to control what goes up for a Vote will make our outcomes worse, not better.\n3. No more grandstanding, please!",
+    "url": "https://trumpstruth.org/statuses/39528",
+    "author": "Trump Truth",
+    "created_at": "2026-06-25T20:41:15.000Z"
+  },
+  {
+    "id": "da4e5a4b-d924-4a60-9d1f-bdf83cfd16bb",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
+    "summary": "1. A sweeping cryptocurrency bill faces a narrowing path to passage as pressure grows on the Senate to take up the legislation next month.",
+    "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-06-25T20:37:37.000Z"
+  },
+  {
+    "id": "7bcc410a-7c35-46ae-85df-88df3c5ff445",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Jeremy Grantham Says SpaceX Defines AI Bubble Peak and Dismisses Bitcoin as ‘Unnecessary Nonsense’",
+    "summary": "1. Jeremy Grantham, the billionaire investor who predicted both the dot-com crash and the 2007 housing collapse, says the artificial intelligence (AI) market is the biggest investment bubble in American history and warns that a 70% decline in high-flying AI stocks would not be unexpected.\n2. Jeremy Grantham, co-founder of Boston-based institutional investment firm GMO, made the […]",
+    "url": "https://news.bitcoin.com/jeremy-grantham-says-spacex-defines-ai-bubble-peak-and-dismisses-bitcoin-as-unnecessary-nonsense/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-25T20:30:25.000Z"
+  },
+  {
+    "id": "9c19fe39-ae95-4a76-8e02-fd480f01fdba",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "summary": "1. Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "author": "Marina Temkin",
+    "created_at": "2026-06-25T20:19:25.000Z"
+  },
+  {
+    "id": "00c2de8d-78d5-441c-bf61-89d291570c85",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
+    "summary": "1. The fund will invest primarily in U.S.\n2. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.",
+    "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-25T20:11:28.000Z"
+  },
+  {
+    "id": "5f6629db-c588-4edd-80a8-8b732ab9a8fe",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
+    "summary": "1. Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.",
+    "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Nate Kostar",
+    "created_at": "2026-06-25T20:10:41.000Z"
   },
   {
     "id": "32525838-5c7e-41b6-9583-ec179f9a19c4",
@@ -200,7 +440,7 @@
     "created_at": "2026-06-25T18:46:08.000Z"
   },
   {
-    "id": "37608d6a-7652-42a7-8333-a01468a15141",
+    "id": "71f5e3ce-707c-4dee-9601-a4c6f0ec77ec",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "53% of all Bitcoin $BTC in circulation is now held at an unrealized loss.@WatcherGuru",
@@ -270,7 +510,7 @@
     "created_at": "2026-06-25T17:54:13.000Z"
   },
   {
-    "id": "caad9b6d-6b1d-4970-af05-c96353788f68",
+    "id": "90ee7ef2-febf-486f-842b-13ca028a4ddf",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran proposes charging service fees for ships using the Strait of Hormuz, with revenue shared among Gulf countries | per WSJIran estimates the fees could generate around $40B annuallyTwitter",
@@ -340,7 +580,7 @@
     "created_at": "2026-06-25T17:10:34.000Z"
   },
   {
-    "id": "3b765847-bc46-419a-98dc-9948b8e04763",
+    "id": "445ef00c-0d3a-48c8-a0d0-6e4104d7ccd1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Coinbase's 'Base' blockchain has been down for over an hour.@WatcherGuru",
@@ -468,215 +708,5 @@
     "url": "https://news.bitcoin.com/former-fidelity-executive-says-south-korean-indexs-10-crash-pulled-btc-below-60000/",
     "author": "Terence Zimwara",
     "created_at": "2026-06-25T16:30:12.000Z"
-  },
-  {
-    "id": "89f39b69-cb9a-4cd2-9123-ea7dac2fd7a0",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
-    "summary": "1. Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.",
-    "url": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-25T16:24:03.000Z"
-  },
-  {
-    "id": "8188343a-64de-41d5-8218-43d7fe140543",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Perception Exits Beta With Four Digital Asset Integrations",
-    "summary": "1. Bitcoin Magazine\n\nPerception Exits Beta With Four Digital Asset Integrations\nPerception exited beta and launched its digital asset narrative intelligence platform with integrations from BitGo, Swan, Relai, and Bitcoin Well, providing AI-driven market insights from over 1,000 curated industry sources.\n2. This post Perception Exits Beta With Four Digital Asset Integrations first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/perception-exits-beta-with-digital-asset",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-25T16:17:35.000Z"
-  },
-  {
-    "id": "d07ec383-ea1f-4dc1-a9b2-bd2280edc956",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
-    "summary": "1. BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.",
-    "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
-    "author": "Aoyon Ashraf",
-    "created_at": "2026-06-25T16:05:06.000Z"
-  },
-  {
-    "id": "bb7f983a-042d-47ae-9302-ffea1b0a6df2",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Magic Internet Money Falls 50% Below Peg as Abracadabra Declares Emergency",
-    "summary": "1. Abracadabra.money declared emergency measures after its MIM stablecoin fell roughly 50% below its $1 peg, triggering interest rate hikes across all Cauldrons, a halt to Curve bribes, and a suspension of direct incentives.",
-    "url": "https://thedefiant.io/news/defi/abracadabra-mim-depeg-emergency-measures-2026",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-25T16:02:13.000Z"
-  },
-  {
-    "id": "7b92f1db-718a-4b81-8f19-f023912691ed",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "A live look at the crypto market this year@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#709dae16",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-25T15:54:19+00:00"
-  },
-  {
-    "id": "014c5ca3-c6d0-40a3-acec-a5322adfce52",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Spark, Uniswap, and Sky Launch $150M Liquidity Migration to Build Shared Stablecoin FX Layer",
-    "summary": "1. Spark, Uniswap, and Sky are launching shared stablecoin liquidity infrastructure, beginning with a $150 million USDS migration to Uniswap v4 pools designed to serve a multi-issuer stablecoin economy.",
-    "url": "https://thedefiant.io/news/defi/spark-uniswap-sky-150m-usds-uniswap-v4-stablecoin-fx-layer",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-25T15:52:02.000Z"
-  },
-  {
-    "id": "511195ca-ac32-4eae-a87e-4ff1f28bd25b",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Strategy's STRC Preferred Stock Hits Record Lows as Leverage Cascade Deepens",
-    "summary": "1. Strategy's Series A perpetual preferred stock has fallen to record lows around $73-78, down roughly 25% from its $100 par value in two weeks, as a leverage-driven selloff accelerates despite the company's bitcoin balance sheet staying intact.",
-    "url": "https://thedefiant.io/news/markets/strategy-strc-record-low-leverage-cascade-june-2026",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-25T15:49:11.000Z"
-  },
-  {
-    "id": "d711191d-eb45-45bf-bb36-8bf7fd9ca473",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Crashes to $58,035, Wiping $40 Billion From Crypto Ecosystem in 24 Hours",
-    "summary": "1. The price of bitcoin reached a consequential low on Thursday, falling to its weakest level of 2026 when it touched $58,035 on Bitstamp at 9:55 a.m.\n2. Eastern time.\n3. Over the past 24 hours, $40 billion has vanished from the total crypto market capitalization, leaving it precariously close to slipping beneath the $2 trillion threshold.",
-    "url": "https://news.bitcoin.com/bitcoin-crashes-to-58035-wiping-40-billion-from-crypto-ecosystem-in-24-hours/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-25T15:41:48.000Z"
-  },
-  {
-    "id": "01296ec1-ac92-4918-a392-41f280f39857",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitplanet Signs Agreement with Antalpha to Launch Bitcoin Mining Operations",
-    "summary": "1. Bitcoin Magazine\n\nBitplanet Signs Agreement with Antalpha to Launch Bitcoin Mining Operations\nBitplanet signed an MOU with Antalpha to enter the Bitcoin mining space.\n2. This post Bitplanet Signs Agreement with Antalpha to Launch Bitcoin Mining Operations first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/bitplanet-signs-agreement-with-antalpha",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-25T15:39:18.000Z"
-  },
-  {
-    "id": "a4342a30-5ae6-43bf-ac25-b56da475ff62",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Michael Saylor's 'Strategy' currently has a $14,000,000,000 unrealized loss on its Bitcoin investment.Tom Lee's 'Bitmine' currently has a $10,500,000,000 unrealized loss on its $ETH investment.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#6f1581dd",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-25T15:19:58+00:00"
-  },
-  {
-    "id": "e403b1ab-7059-4376-ac7a-9ca0afe7d62b",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Strategy's $STRC preferred stock falls to a record low of $75, while $MSTR shares drop below $90Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#9aa5dde7",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-25T14:49:37+00:00"
-  },
-  {
-    "id": "34c7c3f5-c071-412e-979b-7f5e9ae087cc",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin likely to fall another 30% to $44,000 by year-end, prominent BTC miner says",
-    "summary": "1. An early miner says Strategy's stock mNAV has fallen to 0.72, near the level that marked the last cycle's turn, and that bitcoin historically bottoms about six months after that signal.",
-    "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-can-fall-another-30-to-usd44-000-prominent-btc-miner-says",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-25T14:39:55.000Z"
-  },
-  {
-    "id": "97a99f86-61fd-49cf-933d-1ff980ded803",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BitForex founder faces $21.1M loss on BTC long position",
-    "summary": "Garrett Jin, founder of the fraudulent cryptocurrency exchange BitForex, is currently facing an unrealized loss of $21.12 million on a 5x leveraged long position of 1,268.33 BTC, according to data from ai_9684xtpa. The position's average entry price is $76,117, with a liquidation price of $16,962. The account noted that due to the very low liquidation price, there appears to be virtually no risk of liquidation.",
-    "url": "https://t.me/CoinnessGL#93f2b831",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T14:37:48+00:00"
-  },
-  {
-    "id": "b895d212-bed7-43f6-8f0c-7525ab515d20",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "70,000 US Law Enforcement Professionals Call for Changes to CLARITY Act",
-    "summary": "1. More than 70,000 U.S.\n2. law enforcement professionals have urged federal officials to revise provisions of the CLARITY Act, warning that broad exemptions could weaken oversight, accountability, and investigative tools used to combat criminal activity involving digital assets.\n3. National Coalition Raises Concerns Over Investigative Limits in CLARITY Act A coalition representing more than 70,000 U.S.",
-    "url": "https://news.bitcoin.com/70000-us-law-enforcement-professionals-call-for-changes-to-clarity-act/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-25T14:37:32.000Z"
-  },
-  {
-    "id": "75288eff-189b-4827-bbda-16310b230122",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘Stablecoin’ Google searches down 54% as supply growth stalls after 2025 boom",
-    "summary": "1. The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.",
-    "url": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss",
-    "author": "Ivan Wu and Bryan Samsoedin",
-    "created_at": "2026-06-25T14:36:03.000Z"
-  },
-  {
-    "id": "bee95876-4eff-4527-8131-1c04f7b87117",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC risen 1.67% in the past 5 minutes",
-    "summary": "BTC has risen by 1.67% in the past five minutes on the Binance USDT market. Currently, BTC is trading at $60,348.78.",
-    "url": "https://t.me/CoinnessGL#4c3d1490",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T14:33:38+00:00"
-  },
-  {
-    "id": "49b253c8-6cca-4ef7-9eeb-b9e6cfdf3ae7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC rises above $60,000",
-    "summary": "According to CoinNess market monitoring, BTC has risen above $60,000. BTC is trading at $60,139.14 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#b57da5d1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T14:33:28+00:00"
-  },
-  {
-    "id": "a4179514-7ce2-42cc-8352-493530dc399b",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template\nDMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner—not the pool—to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining.\n2. This post Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-25T14:32:37.000Z"
-  },
-  {
-    "id": "0c3bfdfd-f244-4528-a5e0-c3763e5a826d",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Flash Crashes from $61,000 to $58,000 as Market Waits For Support",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Flash Crashes from $61,000 to $58,000 as Market Waits For Support\nBitcoin price plunged from $61,000 to $58,000 in a sharp sell-off this morning.\n2. This post Bitcoin Price Flash Crashes from $61,000 to $58,000 as Market Waits For Support first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-from-61000-to-58000",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-25T14:27:34.000Z"
-  },
-  {
-    "id": "310db914-ca49-41a1-a524-63242b76f033",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "SBI Holdings Agrees to Acquire Japanese Crypto Exchange Bitbank in $288.6 Million Deal",
-    "summary": "1. Bitcoin Magazine\n\nSBI Holdings Agrees to Acquire Japanese Crypto Exchange Bitbank in $288.6 Million Deal\nSBI Holdings will acquire Japanese crypto exchange Bitbank for 46.7 billion yen ($288.6 million), creating Japan’s largest regulated crypto exchange group.\n2. This post SBI Holdings Agrees to Acquire Japanese Crypto Exchange Bitbank in $288.6 Million Deal first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/sbi-holdings-agrees-to-acquire-bitbank",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-25T14:22:29.000Z"
-  },
-  {
-    "id": "6d0dda73-3ee0-43ac-96df-75daed108924",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Bitcoin falls under $59,000.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f4637944",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-25T14:19:41+00:00"
   }
 ]
