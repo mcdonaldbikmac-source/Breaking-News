@@ -1,5 +1,95 @@
 [
   {
+    "id": "44fdd4de-183e-49af-a812-863418b16313",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale loses $14.1M in four liquidations on ETH long position",
+    "summary": "An anonymous whale address starting with 0x1cb0b lost $14.11 million after being liquidated four consecutive times on an Ethereum (ETH) long position on Hyperliquid (HYPE), Hyperinsight reported. The address began opening the position yesterday at an average entry price of $1,661 and was immediately at a loss. When ETH briefly fell below $1,600, the position was forcibly liquidated four times, resulting in a total loss of 8,734 ETH. The address now holds less than $150,000 in stablecoins.",
+    "url": "https://t.me/CoinnessGL#f8d87c5f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-25T02:43:07+00:00"
+  },
+  {
+    "id": "9495af44-45d5-4f34-a85e-8ebacf3d8ad4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BAT ICO whale sells $20.6M in ETH after 6-year dormancy",
+    "summary": "A whale address that profited approximately $237.7 million from the 2017 Basic Attention Token (BAT) initial coin offering (ICO) has become active after six years of dormancy to sell Ethereum (ETH), EmberCN reported. Over the past two days, the address sold 12,586 ETH for $20.59 million at an average price of $1,636. The whale initially invested 17,789 ETH in the BAT ICO in May 2017, receiving about 113.8 million BAT. Over the next two and a half years, the investor sold the BAT at an average price of $0.245, realizing a profit of around $237.7 million. The whale later used some of the proceeds to repurchase 27,586 ETH and currently holds 15,000 ETH, valued at $24.29 million.",
+    "url": "https://t.me/CoinnessGL#893757e0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-25T02:42:55+00:00"
+  },
+  {
+    "id": "839d1154-7119-40dc-864c-421e002cf78e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Shinhan Bank joins European banks in 'Pangea' stablecoin project",
+    "summary": "Shinhan Bank announced on June 25 its participation in Project Pangea, a joint initiative with the European banking sector to test cross-border remittances using stablecoins backed by their respective national currencies. According to Digital Daily, the project aims to research and verify methods for sending and settling funds between South Korea and Europe using won- and euro-based stablecoins. Other participants include South Korean banks, Kybalion—a European banking entity promoting a euro-based stablecoin—SWIFT, Chainlink, and Fairsquare Lab. more:",
+    "url": "https://t.me/CoinnessGL#22614f49",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-25T02:38:57+00:00"
+  },
+  {
+    "id": "2f87759c-2a50-4d29-aa22-4c34ed70878d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "MiCA Deadline Hits July 1 as Unlicensed Crypto Platforms Face EU Shutdown Risk",
+    "summary": "1. Crypto firms serving clients across the European Economic Area face shutdown risk if they fail to secure authorization under the Markets in Crypto-Assets Regulation (MiCA) before enforcement begins.\n2. Regulators have ruled out extensions, leaving more than 1,200 previously registered firms with limited time to comply as only a small number have obtained full approval.",
+    "url": "https://news.bitcoin.com/mica-deadline-hits-july-1-as-unlicensed-crypto-platforms-face-eu-shutdown-risk/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-25T02:30:29.000Z"
+  },
+  {
+    "id": "6b878c2d-8e59-4dc7-a5fc-cca7166bd1e2",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT",
+    "summary": "1. Kalshi is reportedly in talks to raise new capital at a $40 billion valuation, reflecting growing investor confidence in regulated prediction markets.",
+    "url": "https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Felix Ng",
+    "created_at": "2026-06-25T02:23:39.000Z"
+  },
+  {
+    "id": "697a2cbc-2f03-408f-8ad7-4bf7b149e546",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kalshi in talks to raise funds at $40 billion valuation: FT",
+    "summary": "1. Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.",
+    "url": "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-25T02:12:17.000Z"
+  },
+  {
+    "id": "2dc790ac-4937-4899-9f31-b2bd2af808c2",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇮🇷🇺🇸 Iran moved $3.84 billion through CoinEx crypto exchange to bypass US sanctions, WSJ reports.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#70f7a794",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-25T01:49:28+00:00"
+  },
+  {
+    "id": "1c6cc1a8-8386-4049-a3ad-a6a3bfbfe3d1",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Cassie Heart: We think Farcaster should be free to join, without the excessive onboarding proc...",
+    "summary": "1. We think Farcaster should be free to join, without the excessive onboarding process that forces people to use crypto directly in order to even participate.\n2. Crypto is a technology, no different than databases, queues, caches, or logging infrastructure.\n3. Weirdly, this industry has had a strange fetish for making that technology the focus rather than an implementation detail.",
+    "url": "https://warpcast.com/cassie/0x45af8ef5",
+    "author": "Cassie Heart",
+    "created_at": "2026-06-25T01:30:45.000Z"
+  },
+  {
+    "id": "52942486-51de-4d3b-8d93-38d50bf56cfd",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Robert Kiyosaki Calls Gold Price Drop ‘Great News,’ Plans to Buy More",
+    "summary": "1. Gold’s recent pullback has strengthened Robert Kiyosaki’s wait-for-confirmation approach, with the investor monitoring technical charts before making new purchases.\n2. Peter Schiff, meanwhile, argued that gold’s drop reflects market expectations about interest rates that may not be enough to contain inflation.\n3. Gold Pullback Reinforces Kiyosaki’s Buying Strategy Robert Kiyosaki framed gold’s latest decline as a potential […]",
+    "url": "https://news.bitcoin.com/robert-kiyosaki-calls-gold-price-drop-great-news-plans-to-buy-more/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-25T01:30:22.000Z"
+  },
+  {
     "id": "c03b320f-742f-4382-8c77-6c8c949d4c04",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -30,7 +120,7 @@
     "created_at": "2026-06-25T00:36:28+00:00"
   },
   {
-    "id": "da136849-bd28-406a-8388-a1cb50ca24a3",
+    "id": "1ee9071f-2af7-4c65-b2c9-67014289f96f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Polymarket's Soccer category topped $2B in volume during the first 10 days of the World Cup, a 300% increase over the prior 10-day period, per The Block.",
@@ -60,7 +150,7 @@
     "created_at": "2026-06-25T00:08:36.000Z"
   },
   {
-    "id": "8bac424e-025b-4f4e-ab00-64003c96b69e",
+    "id": "48aa11b2-0ff2-40ab-b1be-e861668819fc",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Bitcoin OG investors have slowed selling to the lowest level since November 2024, per CryptoQuant.",
@@ -100,7 +190,7 @@
     "created_at": "2026-06-24T23:01:56.000Z"
   },
   {
-    "id": "4cf4349a-31be-49b4-bd03-51dee656e9cb",
+    "id": "923b2408-292c-4d8f-a2dc-a34fcddec1bd",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Wintermute says a Fed leaning toward tightening is \"the opposite of what gets those funnels flowing\" for crypto, as rate hike odds increase.",
@@ -348,205 +438,5 @@
     "url": "https://t.me/CoinnessGL#e3b2fd81",
     "author": "@CoinnessGL",
     "created_at": "2026-06-24T20:49:08+00:00"
-  },
-  {
-    "id": "31a38b45-88d8-49a3-8b2a-50c6cb00938c",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: excited to be onboarding Degen as an additional validator node!\nhttps://farcaste...",
-    "summary": "1. excited to be onboarding Degen as an additional validator node!",
-    "url": "https://warpcast.com/farcaster/0xad4fe643",
-    "author": "Farcaster",
-    "created_at": "2026-06-24T20:22:07.000Z"
-  },
-  {
-    "id": "b862d514-b227-4f65-85c0-d7f52fe69ff7",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Micron $MU surges 10%+ after hours on a strong earnings beat, adding roughly $120B in market cap since the reportTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#8c52cf8d",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-24T20:18:41+00:00"
-  },
-  {
-    "id": "b3ac0232-32c2-499c-8c2f-91028d964598",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP Scarcity on Binance Drops to 3-Month Low as Supply Concerns Grow",
-    "summary": "1. XRP supply on Binance has expanded, with the XRP Binance Scarcity Index dropping to around 0.34, its lowest level in more than three months, pointing to a noticeable rise in available tokens on the exchange.\n2. XRP Availability on Binance Expands While Price Remains Under Pressure At 3:05 p.m.\n3. EDT on June 24, XRP is trading […]",
-    "url": "https://news.bitcoin.com/xrp-scarcity-on-binance-drops-to-3-month-low-as-supply-concerns-grow/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-24T20:05:15.000Z"
-  },
-  {
-    "id": "614470ad-4915-4365-9920-8832a1d80790",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Micron $MU reports $41.5 billion in revenue for Q2 2026, beating expectations.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d02c9ed1",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-24T20:05:10+00:00"
-  },
-  {
-    "id": "d866a044-144e-4630-9a8a-cb05d01f70ea",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Pump.fun Parent Baton Corporation Recruiting CLO at Up to $5M Base Salary",
-    "summary": "1. Baton Corporation, the development company behind memecoin launchpad Pump.fun, is seeking a Chief Legal Officer at a base salary of $1M to $5M, a compensation band that puts the hire among the best-paid legal executives in crypto.",
-    "url": "https://thedefiant.io/news/people/pump-fun-baton-corporation-clo-chief-legal-officer-salary",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-24T19:57:55.000Z"
-  },
-  {
-    "id": "faff2aed-7136-4013-8bb8-116c36d7672a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇰🇷 South Korea's FSC has folded token securities into a sweeping capital market modernization push, pairing it with faster settlement and extended trading hours.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d08574e8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-24T19:55:22+00:00"
-  },
-  {
-    "id": "13e1a797-3e6d-4f43-a467-bf9f1d9d298c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Kalshi sues Illinois officials over new prediction market law",
-    "summary": "Prediction market platform Kalshi has filed a lawsuit against officials in the state of Illinois regarding new regulations. According to Cointelegraph, Kalshi alleges that Illinois Governor JB Pritzker, Attorney General Kwame Raoul, and officials from the state's gaming commission have illegally infringed upon the authority of the U.S. Commodity Futures Trading Commission (CFTC). The company argues that a recently enacted state law, Senate Bill 3019, conflicts with federal law. The bill requires sports prediction platforms to obtain a state license and introduces a 0.2% Privilege Tax on cryptocurrency transactions. Kalshi emphasized that it would suffer irreparable harm if the law takes effect as scheduled on July 1. more:",
-    "url": "https://t.me/CoinnessGL#137dca35",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-24T19:55:09+00:00"
-  },
-  {
-    "id": "d6988a03-7e92-497b-b400-b692820c0773",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
-    "summary": "1. In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.",
-    "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-24T19:52:39.000Z"
-  },
-  {
-    "id": "8f99ae9c-525d-4d3f-84c1-981402dc5778",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "A16z-Linked Wallet Pulls 25,560 ETH From Binance in Apparent Accumulation Move",
-    "summary": "1. A wallet attributed to venture firm a16z withdrew $42.62M worth of ETH from Binance on Tuesday, per onchain intelligence tracker Lookonchain, as ETH trades near 30-day lows.",
-    "url": "https://thedefiant.io/news/markets/a16z-linked-wallet-pulls-25560-eth-binance-accumulation",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-24T19:50:37.000Z"
-  },
-  {
-    "id": "015e211e-d11c-452d-aae1-b659536cd98c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-    "summary": "1. The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report.",
-    "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
-    "author": "Helene Braun",
-    "created_at": "2026-06-24T19:48:23.000Z"
-  },
-  {
-    "id": "0307408f-c08c-42ae-843d-6d39512ee950",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Barstool Sports founder says BTC seems likely to fall to zero",
-    "summary": "Dave Portnoy, founder of the online sports betting site Barstool Sports, challenged cryptocurrency proponents on his X account. He called on those who believe Bitcoin and crypto will reach $1 million and represent the future to explain why skeptics, who argue that Bitcoin is a scam destined to become worthless, are wrong. He added that for now, it seems to him that Bitcoin's value will fall to zero.",
-    "url": "https://t.me/CoinnessGL#b6695f4e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-24T19:42:07+00:00"
-  },
-  {
-    "id": "d14dd3a0-4b00-4494-bcd4-9593e93530ec",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Kalshi sues Illinois officials over prediction markets restrictions",
-    "summary": "1. The prediction markets company claimed that it would be “irreparably harmed” when an Illinois law signed as part of a budget package goes in effect on July 1.",
-    "url": "https://cointelegraph.com/news/kalshi-lawsuit-illinois-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Turner Wright",
-    "created_at": "2026-06-24T19:34:48.000Z"
-  },
-  {
-    "id": "b3c874d6-0bbb-4008-8f1d-747f632b1b22",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fintech firms",
-    "summary": "1. As the Fed considers granting firms access to \"skinny\" accounts, lawmakers debated how much access those companies should have.",
-    "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-24T19:30:55.000Z"
-  },
-  {
-    "id": "d0307637-5618-496a-a8a7-1125fcbdeb30",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Here’s why Slate changed the battery in its cheap EV truck",
-    "summary": "1. While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for years.",
-    "url": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
-    "author": "Tim De Chant",
-    "created_at": "2026-06-24T19:27:56.000Z"
-  },
-  {
-    "id": "79c89deb-caef-4715-9d8d-f1b744a41bf2",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
-    "summary": "1. A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
-    "url": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-06-24T19:25:30.000Z"
-  },
-  {
-    "id": "d72f2ca9-667d-43b5-8dca-b62f5b10c8dc",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ StarkWare launched Private KYC on Starknet, letting users prove attributes like age or credentials via zero-knowledge proofs.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7ad647fc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-24T19:20:21+00:00"
-  },
-  {
-    "id": "59a70e72-5c28-4941-9cc4-44fe8347c26c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "5 Market Signals Reveal How AI Stocks, Oil and Bitcoin Shook Wall Street",
-    "summary": "1. Markets split sharply on Wednesday as lower oil prices eased inflation fears, but pressure on technology stocks, crypto assets and precious metals kept investors focused on risk.\n2. By midday June 24, the Dow Jones Industrial Average traded near 51,828, up about 163 points, while the S&P 500 slipped 0.11% to roughly 7,357.\n3. The Nasdaq Composite […]",
-    "url": "https://news.bitcoin.com/5-market-signals-reveal-how-ai-stocks-oil-and-bitcoin-shook-wall-street-37856/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-24T19:18:39.000Z"
-  },
-  {
-    "id": "afbec48e-3ef4-42ba-b467-e75d5c41e7bb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Kalshi in talks to raise funds at $40B valuation",
-    "summary": "Decentralized prediction market platform Kalshi is in talks to raise funds at a valuation of $40 billion, Unfolded reported, citing the Financial Times (FT).",
-    "url": "https://t.me/CoinnessGL#e37d2245",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-24T19:07:24+00:00"
-  },
-  {
-    "id": "2fc30e68-7292-46c5-9425-61e67340b866",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Researcher Throws Cold Water on Microsoft Quantum Claims",
-    "summary": "1. A physicist's formal critique argues Microsoft has not demonstrated the topological qubit behind its Majorana 2 quantum chip.",
-    "url": "https://decrypt.co/371998/microsoft-topological-qubit-quantum-claims-challenge",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-24T19:07:12.000Z"
-  },
-  {
-    "id": "5b1ea6dc-faf3-4b21-9537-4b2339e6b565",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Strategy Stock Falls Below $100 for First Time in Two Years as Analysts Pick Apart Its Bitcoin Bet",
-    "summary": "1. The break below $100 puts MSTR at a discount to its roughly $50 billion in Bitcoin and shifts the question from how much more Bitcoin Strategy can buy to which slice of its capital stack — the common stock, the preferreds, the debt or the coins themselves — is still worth owning, according to",
-    "url": "https://thedefiant.io/news/markets/strategy-stock-falls-below-usd100-for-first-time-in-two-years-as-analysts-pick-apart-its-bitcoin",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-24T18:55:06.000Z"
   }
 ]
