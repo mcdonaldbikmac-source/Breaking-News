@@ -1,13 +1,183 @@
 [
   {
-    "id": "ebdd4d73-c7a6-40b1-9760-efa5dba4a0c7",
+    "id": "8ce6e08f-93a0-4d8c-8741-62175d5e678c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "This channel delivers thanks to readers like youA simple Boost helps us grow and...",
     "summary": "",
     "url": "https://t.me/SolidIntelX#53035c2d",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-25T22:25:23.749Z"
+    "created_at": "2026-06-26T03:19:35.736Z"
+  },
+  {
+    "id": "f9dc2f21-6e89-44fc-bcaa-a1ade50e39ec",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "KOSPI circuit breaker triggered",
+    "summary": "The KOSPI has triggered a circuit breaker following a sharp decline in the index.",
+    "url": "https://t.me/CoinnessGL#70b8d4dd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T03:11:16+00:00"
+  },
+  {
+    "id": "45fedcbf-359e-4d33-bc95-74d56199d713",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitcoin miners seen as demand response tool amid AI power crunch: Bloomberg",
+    "summary": "The role of Bitcoin miners is being re-evaluated for their ability to instantly cut power usage amid rising electricity demand from AI data centers, Bloomberg reported. Unlike AI data centers that run around the clock and struggle to reduce their load during demand surges, Bitcoin miners can be powered down in milliseconds without losing work, making them a viable demand response tool for grid operators. In this context, Ethan Vera, COO of crypto mining services firm Luxor Technologies, said that AI data centers generate hundreds of gigawatts of fixed power demand in the U.S. He added that while most AI data centers would incur significant losses if they were to halt LLM training and inference, BTC miners can organically reduce their power consumption without interrupting their work.",
+    "url": "https://t.me/CoinnessGL#29c0bfae",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T03:09:39+00:00"
+  },
+  {
+    "id": "e5fb9f0c-904e-4741-ad26-8a3f4ee29fc2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "CoinMarketCap Announcements pinned a photo",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a50ea68e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-26T03:07:41+00:00"
+  },
+  {
+    "id": "56844210-8f4e-431f-9697-54e7a77de3e9",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Who's who from the Trump administration",
+    "summary": "1. Who's who from the Trump administration",
+    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/zeldin-driscoll-grenell-00977701",
+    "author": "By Ali Walker",
+    "created_at": "2026-06-26T03:05:10.000Z"
+  },
+  {
+    "id": "75c14d77-84fb-475f-8947-8675e1b6a3c5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Base to activate B20 token standard on mainnet today",
+    "summary": "Jon Roethke, a developer relations representative for Coinbase's Ethereum (ETH) Layer 2 network, Base, announced that the B20 token standard will be activated on the Base mainnet at 6:00 p.m. UTC on June 26. B20 is a new native token standard within the Base ecosystem that provides specifications for issuing new tokens on the network. It is designed to elevate token functionality beyond smart contracts to the chain protocol level.",
+    "url": "https://t.me/CoinnessGL#9659da36",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T03:03:48+00:00"
+  },
+  {
+    "id": "665d51dd-a941-4f61-ae45-f66aec7f96a5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "IBM Unveils Sub-1 Nanometer Chip With 100 Billion Transistors, Extending Moore’s Law",
+    "summary": "1. IBM on Thursday unveiled the world’s first sub-1 nanometer chip technology, a research prototype at the 0.7 nanometer node that packs nearly 100 billion transistors onto a chip the size of a fingernail.\n2. A New Architecture, Not Just a Smaller Chip The announcement centers on what IBM calls the “nanostack,” an entirely new three-dimensional transistor […]",
+    "url": "https://news.bitcoin.com/ibm-unveils-sub-1-nanometer-chip-with-100-billion-transistors-extending-moores-law-37856/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-26T02:30:41.000Z"
+  },
+  {
+    "id": "04f198cc-9fcd-4547-98ed-141d8d4a6cab",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Usha Vance, Kamala Harris and Hasan Piker walk into a ... stadium",
+    "summary": "1. Usha Vance, Kamala Harris and Hasan Piker walk into a ...",
+    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/usha-vance-kamala-harris-hasan-piker-fifa-world-cup-2026-usa-turkey-00977690",
+    "author": "By Adam Wren",
+    "created_at": "2026-06-26T02:14:45.000Z"
+  },
+  {
+    "id": "54449de7-4cea-4fc7-80f4-5b6574ed0c3d",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Potential 2028er World Cup attendee leaderboard",
+    "summary": "1. Potential 2028er World Cup attendee leaderboard",
+    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/shapiro-newsom-harris-rubio-00977687",
+    "author": "By Adam Wren",
+    "created_at": "2026-06-26T02:12:41.000Z"
+  },
+  {
+    "id": "a39bace1-82df-4120-8f7f-52f71178ed31",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines",
+    "summary": "1. The same day, Wood noted that inflation is on its way down, pointing to rising productivity as a key disinflationary force.",
+    "url": "https://www.theblock.co/post/406258/ark-invest-coinbase-circle-bullish-robinhood?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-26T02:01:17.000Z"
+  },
+  {
+    "id": "e8bc54c8-7406-45d2-a0d0-7b4299fc76a3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple’s RLUSD Breaks Into Japan With SBI After Regulatory Approval",
+    "summary": "1. Ripple and SBI launched RLUSD in Japan after regulatory approval, giving institutions and retail users access through SBI’s crypto exchange platform.\n2. dollar-backed stablecoin has reached a $1.7 billion market capitalization.\n3. Ripple and SBI Introduce RLUSD Launch Across Japan Ripple and SBI Holdings, a major Japanese financial services conglomerate, announced on June 24 the […]",
+    "url": "https://news.bitcoin.com/ripples-rlusd-breaks-into-japan-with-sbi-after-regulatory-approval/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-26T01:30:55.000Z"
+  },
+  {
+    "id": "ab19dc91-aba2-4c0c-9dde-565edc97da85",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
+    "summary": "1. BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
+    "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Jesse Coghlan",
+    "created_at": "2026-06-26T00:41:02.000Z"
+  },
+  {
+    "id": "951ef5a5-be96-4261-af0d-dbb04011115a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Grayscale Points to Top 15 Crypto Revenue Protocols Trading Cheap as CLARITY Act Nears",
+    "summary": "1. Grayscale Investments said several leading revenue-generating crypto protocols are trading at relatively low valuation multiples.\n2. The firm added that a potential CLARITY Act vote in the coming weeks could support growth in on-chain finance and tokenized assets.\n3. Revenue Rankings Highlight Low Valuation Multiples Ahead of CLARITY Act Grayscale Investments said many revenue-generating crypto protocols are […]",
+    "url": "https://news.bitcoin.com/grayscale-points-to-top-15-crypto-revenue-protocols-trading-cheap-as-clarity-act-nears/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-26T00:32:16.000Z"
+  },
+  {
+    "id": "9b175803-3dd8-4d1a-940b-f75341bb3846",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: brought @alaskanmagpie over from X because he has been absolutely cooking with f...",
+    "summary": "1. brought @alaskanmagpie over from X because he has been absolutely cooking with fableboy.shinythings.space.\n2. can y'all help me convince him he needs a mini app?",
+    "url": "https://warpcast.com/farcaster/0x4f37c2ef",
+    "author": "Farcaster",
+    "created_at": "2026-06-25T23:55:54.000Z"
+  },
+  {
+    "id": "d1076d44-54a5-459b-a64a-4e5a2fe86856",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📉 Strategy's STRC preferred stock hit a record low Thursday under $75 as MSTR shares fell to a 16-month low and Bitcoin sank to $58,000.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#12a1fbc4",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-25T23:55:21+00:00"
+  },
+  {
+    "id": "a85acb40-ac31-4679-9442-3fa1d51b51ce",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "summary": "1. penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public.\n2. The reason: the Trump administration told it to.",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-06-25T23:34:39.000Z"
+  },
+  {
+    "id": "47d318e0-c40e-4c0d-8785-4ea14e82cf65",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Sophon is shutting down its L2 blockchain and migrating to Base to build consumer apps, claiming infrastructure chains no longer hold value.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#fbdba01b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-25T23:10:21+00:00"
+  },
+  {
+    "id": "0af4bc8d-df28-41ef-a3b7-022a32d3ec0e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
+    "summary": "1. The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s.\n2. How can Bitcoin L2s change to win hodlers over?",
+    "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Christina Comben",
+    "created_at": "2026-06-25T23:09:10.000Z"
   },
   {
     "id": "b096417b-79c9-41ee-b6b6-a2e193efc606",
@@ -118,595 +288,5 @@
     "url": "https://t.me/CoinnessGL#14d308a0",
     "author": "@CoinnessGL",
     "created_at": "2026-06-25T21:20:27+00:00"
-  },
-  {
-    "id": "fb6275a9-7ae0-45d8-89f7-1dad8244a04f",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-    "summary": "1. Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
-    "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
-    "author": "Jason Nelson",
-    "created_at": "2026-06-25T21:13:37.000Z"
-  },
-  {
-    "id": "67d62d07-4772-419f-910f-32d90cdfe11a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
-    "summary": "1. Bitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns.",
-    "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Marcel Pechman",
-    "created_at": "2026-06-25T21:02:50.000Z"
-  },
-  {
-    "id": "a3fdb5fa-4247-425b-931b-541d424183cc",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
-    "summary": "1. Hackers infiltrated Polymarket’s website via a compromised third-party vendor, the company said, swiping millions in crypto from users.",
-    "url": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
-    "author": "Sander Lutz",
-    "created_at": "2026-06-25T21:02:40.000Z"
-  },
-  {
-    "id": "873f406d-6e84-4baf-99f6-fabf2d388531",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Spot the Pol!",
-    "summary": "1. Study the photograph carefully.\n2. Only the politician is missing.\n3. Guess who it is.",
-    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/spot-the-pol-mayor-fairmount-park-00976803",
-    "author": "By POLITICO",
-    "created_at": "2026-06-25T20:57:42.000Z"
-  },
-  {
-    "id": "9ce4bc84-84a2-43c7-b9a9-e7980445fcfb",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bitcoin fell to $58,000 on Thursday, its lowest since September 2024, after US PCE inflation hit a 3-year high of 4.1% and crypto liquidations topped $1B.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0d200f31",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-25T20:50:21+00:00"
-  },
-  {
-    "id": "ca85767d-1457-4baf-a38f-a0878f82b9aa",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-    "summary": "1. The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year.",
-    "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-25T20:47:24.000Z"
-  },
-  {
-    "id": "40a6a613-a116-4c5b-b83a-0d2df46f2629",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 US tells OpenAI to limit GPT 5.6 release while the government reviews it, The Information reports.CEO Sam Altman: \"we've made clear to the US government that this is not our preferred long term model.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f4013db9",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-25T20:43:55+00:00"
-  },
-  {
-    "id": "bbff3f45-b8f9-4de5-bd12-6de520edf8a9",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. House Republicans should unify, and stop voting down “Rules” or, threatening to do so.\n2. Giving power to the Radical Left Dumocrats in the House to control what goes up for a Vote will make our outcomes worse, not better.\n3. No more grandstanding, please!",
-    "url": "https://trumpstruth.org/statuses/39528",
-    "author": "Trump Truth",
-    "created_at": "2026-06-25T20:41:15.000Z"
-  },
-  {
-    "id": "da4e5a4b-d924-4a60-9d1f-bdf83cfd16bb",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
-    "summary": "1. A sweeping cryptocurrency bill faces a narrowing path to passage as pressure grows on the Senate to take up the legislation next month.",
-    "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-06-25T20:37:37.000Z"
-  },
-  {
-    "id": "7bcc410a-7c35-46ae-85df-88df3c5ff445",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Jeremy Grantham Says SpaceX Defines AI Bubble Peak and Dismisses Bitcoin as ‘Unnecessary Nonsense’",
-    "summary": "1. Jeremy Grantham, the billionaire investor who predicted both the dot-com crash and the 2007 housing collapse, says the artificial intelligence (AI) market is the biggest investment bubble in American history and warns that a 70% decline in high-flying AI stocks would not be unexpected.\n2. Jeremy Grantham, co-founder of Boston-based institutional investment firm GMO, made the […]",
-    "url": "https://news.bitcoin.com/jeremy-grantham-says-spacex-defines-ai-bubble-peak-and-dismisses-bitcoin-as-unnecessary-nonsense/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-25T20:30:25.000Z"
-  },
-  {
-    "id": "9c19fe39-ae95-4a76-8e02-fd480f01fdba",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "summary": "1. Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "author": "Marina Temkin",
-    "created_at": "2026-06-25T20:19:25.000Z"
-  },
-  {
-    "id": "00c2de8d-78d5-441c-bf61-89d291570c85",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
-    "summary": "1. The fund will invest primarily in U.S.\n2. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.",
-    "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-25T20:11:28.000Z"
-  },
-  {
-    "id": "5f6629db-c588-4edd-80a8-8b732ab9a8fe",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
-    "summary": "1. Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.",
-    "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Nate Kostar",
-    "created_at": "2026-06-25T20:10:41.000Z"
-  },
-  {
-    "id": "32525838-5c7e-41b6-9583-ec179f9a19c4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "NY Fed's Williams pushes 2% inflation target timeline to 2028",
-    "summary": "Federal Reserve Bank of New York President John Williams has delayed his expected timeline for achieving the Fed's 2% inflation target by one year, from 2027 to 2028.",
-    "url": "https://t.me/CoinnessGL#0a2cbaa6",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T20:02:28+00:00"
-  },
-  {
-    "id": "a51f5f66-94b4-4083-b169-c222ba2867f7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Fed's Williams says current policy is appropriate to return inflation to 2%",
-    "summary": "John Williams, president of the Federal Reserve Bank of New York, stated on June 25 that the current monetary policy stance is well-positioned to bring inflation back to its 2% target. Williams said that with inflation at a high level, it must be consistently brought back to the 2% long-term target, adding that the current policy is well-equipped to achieve this goal. He noted that inflation is \"clearly at a high level\" and significantly above the Fed's 2% target. While he expects inflation indicators to slow slightly over the next few quarters, Williams added that significant risks remain in achieving the central bank's dual mandate.",
-    "url": "https://t.me/CoinnessGL#53ae94ff",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T20:02:03+00:00"
-  },
-  {
-    "id": "045c949c-0601-4881-834c-4ba445059036",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close mixed",
-    "summary": "The three major U.S. stock indices closed mixed today.- S&P 500: -0.00%- Nasdaq: -0.46%- Dow Jones: +0.14%",
-    "url": "https://t.me/CoinnessGL#5ae91592",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T20:01:00+00:00"
-  },
-  {
-    "id": "06c30215-7ba0-4010-a60d-7c9729948332",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Polymarket says hackers stole users’ funds",
-    "summary": "1. The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third party breach.",
-    "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-06-25T19:58:46.000Z"
-  },
-  {
-    "id": "f5645b37-a6b3-4144-8490-b6be96672dec",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands",
-    "summary": "1. Bitcoin Magazine\n\nStrategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands\nStrategy shares plunged some more today as Bitcoin fell to $59,000.\n2. This post Strategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-craters-another-10",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-25T19:52:39.000Z"
-  },
-  {
-    "id": "d6eb03ae-b37a-40b0-b655-e1d6571a8e9e",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: gm to everyone still here cooking",
-    "summary": "1. gm to everyone still here cooking",
-    "url": "https://warpcast.com/farcaster/0x1573db54",
-    "author": "Farcaster",
-    "created_at": "2026-06-25T19:52:28.000Z"
-  },
-  {
-    "id": "e9a30ec8-283f-4513-9d74-5bbd9154260a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’",
-    "summary": "1. Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.",
-    "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Biraajmaan Tamuly",
-    "created_at": "2026-06-25T19:51:35.000Z"
-  },
-  {
-    "id": "6995de93-0d4b-454f-8059-6efd9c56020f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Invesco Files for Tokenized Stablecoin-Reserve Money Market Fund Built on Superstate Rails",
-    "summary": "1. US asset manager files for a GENIUS Act reserve money market fund whose shares are recorded directly on public blockchains, with Superstate as sub-transfer agent",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-files-for-tokenized-stablecoin-reserve-money-market-fund-built-on-superstate-rails",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-25T19:50:00.000Z"
-  },
-  {
-    "id": "47c1f1ab-cedc-49b4-b524-06a541fe380e",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange",
-    "summary": "1. SBI Holdings has agreed to a nearly $289 million deal to acquire crypto exchange Bitbank, pending regulatory approval.",
-    "url": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange",
-    "author": "Decrypt Agent",
-    "created_at": "2026-06-25T19:42:54.000Z"
-  },
-  {
-    "id": "344a0718-2867-4947-87be-22c8627e85eb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock’s IBIT Leads $469 Million Bitcoin ETF Selloff in Biggest Exit Since June 2",
-    "summary": "1. Crypto exchange-traded fund (ETF) flows weakened sharply on Wednesday, June 24, as bitcoin ETFs posted a fifth straight day of outflows with a $469.08 million exit, the largest since June 2.\n2. Ether ETFs also remained negative, while XRP was the only category to draw fresh capital.\n3. Blackrock’s IBIT Tops $593 Million in 3-Day Outflows as […]",
-    "url": "https://news.bitcoin.com/blackrocks-ibit-leads-469-million-bitcoin-etf-selloff-in-biggest-exit-since-june-2/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-25T19:42:32.000Z"
-  },
-  {
-    "id": "fc35efcb-5760-4e1a-a800-fb76e3b90e91",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Xbox follows Apple with price increases ",
-    "summary": "1. The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
-    "url": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-06-25T19:39:55.000Z"
-  },
-  {
-    "id": "78728d63-3535-424e-bd83-f61f76d76333",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Trezor Academy Releases Documentary on Africa’s Bitcoin Economy, Opens Education Donations",
-    "summary": "1. Bitcoin Magazine\n\nTrezor Academy Releases Documentary on Africa’s Bitcoin Economy, Opens Education Donations\nTrezor Academy released a documentary highlighting Bitcoin adoption across Africa and launched a donation program to fund Bitcoin education initiatives in the Global South.\n2. This post Trezor Academy Releases Documentary on Africa’s Bitcoin Economy, Opens Education Donations first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/trezor-academy-releases-documentary",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-25T19:28:07.000Z"
-  },
-  {
-    "id": "22be3a43-0a5f-4f02-8e43-3cf975dbee47",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
-    "summary": "1. Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.",
-    "url": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-25T19:19:05.000Z"
-  },
-  {
-    "id": "ade5d606-43d2-4e49-99bc-636ca57ae6cd",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey",
-    "summary": "1. A CoinShares survey found than many EU-based wealth management companies had policies that restricted investments in digital assets or provided no guidance on the matter.",
-    "url": "https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Turner Wright",
-    "created_at": "2026-06-25T19:18:03.000Z"
-  },
-  {
-    "id": "a9895d78-58de-424c-873c-6e8fd3816abf",
-    "source": "Politico",
-    "type": "rss",
-    "title": "For South Korean men, there's only one uniform that matters",
-    "summary": "1. The country can't watch a sporting event without arguing about its military service exemption.",
-    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/south-korea-heungmin-son-wear-wrong-uniform-military-00975572",
-    "author": "By Catherine Kim",
-    "created_at": "2026-06-25T19:15:00.000Z"
-  },
-  {
-    "id": "65a40e85-cef5-4d80-8ddc-c9d48c8ea1ad",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Notion Mail shuts down amid agent takeover",
-    "summary": "1. The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
-    "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-06-25T19:14:46.000Z"
-  },
-  {
-    "id": "59bf59cd-1259-4b12-af12-00bfd80bec58",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
-    "summary": "1. Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.",
-    "url": "https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-25T19:11:36.000Z"
-  },
-  {
-    "id": "3ba9b7cf-4e80-4aa8-895e-1b5533e783a2",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Story Rebrands as DATA Foundation in Pivot to AI Training Data",
-    "summary": "1. The intellectual-property blockchain that raised $140 million led by a16z crypto is migrating its $IP token to $DATA one-to-one and integrating data marketplace Kled, registering 1.1 billion user records on the network.",
-    "url": "https://thedefiant.io/news/blockchains/story-rebrands-as-data-foundation-in-pivot-to-ai-training-data",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-25T19:04:23.000Z"
-  },
-  {
-    "id": "a36c4ac8-631d-4f3d-939e-376c4e8e78ef",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
-    "summary": "1. The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks.",
-    "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-06-25T18:46:08.000Z"
-  },
-  {
-    "id": "71f5e3ce-707c-4dee-9601-a4c6f0ec77ec",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "53% of all Bitcoin $BTC in circulation is now held at an unrealized loss.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#eeff4fdf",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-25T18:41:57+00:00"
-  },
-  {
-    "id": "b2a4ce59-30ad-40ff-b0f8-9fa0517f19ee",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Slides Nearly 20% in June as $715M in Crypto Long Bets Collapse",
-    "summary": "1. Bitcoin briefly plunged to a new year-to-date low of $58,035 on Thursday morning before staging a relief rally to trade flat around $59,500.\n2. Despite recovering its 24-hour losses, the intra-day chart reveals severe volatility and erratic price swings.\n3. Volatility Grips Bitcoin After Fresh YTD Low After plummeting to a fresh year-to-date (YTD) low of $58,035 […]",
-    "url": "https://news.bitcoin.com/bitcoin-slides-nearly-20-in-june-as-715m-in-crypto-long-bets-collapse/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-25T18:41:28.000Z"
-  },
-  {
-    "id": "272584c4-7e09-4215-aaf9-9b91cb6e893b",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Black, red and complicated",
-    "summary": "1. Germany loves its World Cup team.\n2. The flag is a different story.",
-    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/germany-flag-nationalism-complicated-red-black-gold-00975928",
-    "author": "By Emily Schultheis",
-    "created_at": "2026-06-25T18:40:00.000Z"
-  },
-  {
-    "id": "a37fad47-da17-48d3-803c-9db34fad0ceb",
-    "source": "Politico",
-    "type": "rss",
-    "title": "NYC politicos play ball, again",
-    "summary": "1. NYC politicos play ball, again",
-    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/nyc-politicos-play-ball-again-00975979",
-    "author": "By Sasha Issenberg",
-    "created_at": "2026-06-25T18:20:00.000Z"
-  },
-  {
-    "id": "62903693-520d-4a36-aaee-11316b16bbc3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an ‘everything exchange’",
-    "summary": "1. According to the investment firm, Hyperliquid's user base grew from roughly 300,000 to 923,000 during 2025.",
-    "url": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-25T18:03:32.000Z"
-  },
-  {
-    "id": "6298ff83-eefe-4d32-827f-66309fb8b0dd",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Law Firm Investigates Strategy as MSTR Drops 7% and STRC Crashes to $73",
-    "summary": "1. Rosen Law Firm announced this week that the business is investigating potential securities claims against Strategy Inc.\n2. and Executive Chairman Michael Saylor, as the company’s stock hit a 52-week low on Thursday and its flagship preferred shares collapsed to record lows.\n3. The New York-based plaintiff firm is soliciting investors who purchased Strategy securities, including MSTR […]",
-    "url": "https://news.bitcoin.com/law-firm-investigates-strategy-as-mstr-drops-7-and-strc-crashes-to-73/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-25T17:56:28.000Z"
-  },
-  {
-    "id": "98296743-5c05-4da0-8e88-014025fdefd2",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban",
-    "summary": "1. Bitcoin Magazine\n\nMatt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban\nSenior developers including Andrew Poelstra highlighted broken merge scripts, hidden diffs, and unreliable tracking, pushing Bitcoin projects toward self-hosted Forgejo solutions.\n2. This post Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
-    "author": "Juan Galt",
-    "created_at": "2026-06-25T17:54:13.000Z"
-  },
-  {
-    "id": "90ee7ef2-febf-486f-842b-13ca028a4ddf",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran proposes charging service fees for ships using the Strait of Hormuz, with revenue shared among Gulf countries | per WSJIran estimates the fees could generate around $40B annuallyTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#ca6e341b",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-25T17:52:01+00:00"
-  },
-  {
-    "id": "30ad50f2-36b5-4954-8573-02ba8540cf5d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
-    "summary": "1. The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle.",
-    "url": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-25T17:48:18.000Z"
-  },
-  {
-    "id": "4a1dd147-a1f3-43d3-805a-864cb02c86fd",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Crowd was incredible last night, packed to the brim — At least 45,000 people were there, with a huge Television and online audience.\n2. I wish we were able to have an even larger area, which we will be able to do on July 4th when I’ll be speaking again.\n3. The airplane flyovers and music were fantastic.",
-    "url": "https://trumpstruth.org/statuses/39527",
-    "author": "Trump Truth",
-    "created_at": "2026-06-25T17:47:48.000Z"
-  },
-  {
-    "id": "c0c34418-16c6-4156-bc4e-f9e3a5a72c2f",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: heads up: base is experiencing an outage, you might see transaction issues in th...",
-    "summary": "1. heads up: base is experiencing an outage, you might see transaction issues in the farcaster wallet until it's fixed.\n2. funds are safe, it's a block production issue on base, not a security one.",
-    "url": "https://warpcast.com/farcaster/0x2f739987",
-    "author": "Farcaster",
-    "created_at": "2026-06-25T17:30:37.000Z"
-  },
-  {
-    "id": "412caaca-fa3b-4404-a204-8a7bf71973c5",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
-    "summary": "1. The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.",
-    "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
-    "author": "Will Canny",
-    "created_at": "2026-06-25T17:14:19.000Z"
-  },
-  {
-    "id": "aee49a9c-f5bf-4ea3-8ade-568b54bb13c4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "XRP risks drop below $1, but onchain data highlights silver lining",
-    "summary": "1. XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.",
-    "url": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Biraajmaan Tamuly",
-    "created_at": "2026-06-25T17:11:33.000Z"
-  },
-  {
-    "id": "675e06ae-fea9-4061-b3bc-11b16a4bce41",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase-incubated Base blockchain suffers ‘Unsafe Head Stall’ interrupting block production",
-    "summary": "1. Deposits and withdrawals have also been affected, while transactions are delayed or stalled, according to Base's status page.",
-    "url": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-25T17:10:34.000Z"
-  },
-  {
-    "id": "445ef00c-0d3a-48c8-a0d0-6e4104d7ccd1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Coinbase's 'Base' blockchain has been down for over an hour.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#362b190f",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-25T17:08:25+00:00"
-  },
-  {
-    "id": "f1590dc4-add9-4e11-8776-d1880673db86",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache",
-    "summary": "1. The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.",
-    "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-25T17:06:10.000Z"
-  },
-  {
-    "id": "fbbebcf4-29d3-49df-9bb7-96c09b9f6b89",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
-    "summary": "1. Sophon, which has raised $70 million in total funding, is shutting down its Layer 2 blockchain and moving to Base to build consumer apps.",
-    "url": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-06-25T17:04:23.000Z"
-  },
-  {
-    "id": "686634d5-3306-4cfd-9e57-99424c5762ec",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance to delist IP perpetual futures",
-    "summary": "Binance announced it will delist its IP/USDT and IP/USDC perpetual futures at 9:00 a.m. UTC on June 27. The move is intended to support the rebranding of Story (IP) to Data Network.",
-    "url": "https://t.me/CoinnessGL#8d2bd687",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T17:02:49+00:00"
-  },
-  {
-    "id": "857e88ab-954e-4c72-8f81-d529734d16ba",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "21shares trims 2026 crypto forecasts despite institutional adoption gains",
-    "summary": "1. Asset manager 21shares sees crypto infrastructure advancing faster than prices, as ETFs, stablecoins and prediction markets mature while several 2026 targets slip.",
-    "url": "https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Sam Bourgi",
-    "created_at": "2026-06-25T17:00:58.000Z"
-  },
-  {
-    "id": "2e4fae2e-f0d2-4d8f-96c4-eba010040f08",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-    "summary": "1. General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-06-25T16:55:00.000Z"
-  },
-  {
-    "id": "d7b109fb-77b1-4e14-981e-14ef955f5c0a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Base temporarily halts mainnet to fix block production issue",
-    "summary": "Coinbase's Layer 2 network, Base (BASE), announced via its official X account that it is temporarily halting mainnet operations to resolve an issue with block production. Base added that all funds are safe.",
-    "url": "https://t.me/CoinnessGL#56f21af2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T16:51:30+00:00"
-  },
-  {
-    "id": "a566ca58-bdde-4305-9c91-38a28f95c6eb",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin rout leads Strategy’s STRC to slide 26% below par as MSTR shares hits 16-month low",
-    "summary": "1. For the past year, Strategy has been issuing and tapping preferred securities like STRC to raise capital for additional bitcoin purchases.",
-    "url": "https://www.theblock.co/post/406185/bitcoin-rout-strategy-strc-slides-26-below-par-mstr-shares-16-month-low?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-25T16:50:51.000Z"
-  },
-  {
-    "id": "7e19771d-aadd-4e43-ba67-94309cf26643",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "summary": "1. Un0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "author": "Russell Brandom",
-    "created_at": "2026-06-25T16:48:11.000Z"
-  },
-  {
-    "id": "41a0ee5b-2103-49a3-9b0b-97bef3d742c7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Kraken, Maple launch onchain warehouse facility for crypto-backed institutional loans",
-    "summary": "1. Kraken's new facility with Maple brings a traditional warehouse financing model onchain, allowing the exchange to expand its institutional crypto lending business using blockchain-based structured credit.",
-    "url": "https://cointelegraph.com/news/kraken-maple-launch-onchain-warehouse-facility-for-crypto-backed-institutional-loans?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "author": "Nate Kostar",
-    "created_at": "2026-06-25T16:41:47.000Z"
-  },
-  {
-    "id": "2d64b942-57fa-48fb-983a-914ab4c3c6fd",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
-    "summary": "1. Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it.\n2. The company, however, warned about a second group of hackers wanting ransom.",
-    "url": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-06-25T16:40:15.000Z"
-  },
-  {
-    "id": "8e699fc6-a45a-42b2-ab4a-9bf29b5fa706",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst: BTC outflows driven by AI, not gold",
-    "summary": "Crypto analyst Shanaka Anslem Perera argued on X that the common market belief of funds moving from Bitcoin (BTC) to gold this year is incorrect. He noted that since the launch of spot BTC ETFs in 2024, net inflows have surpassed $53 billion, a pace that took gold ETFs approximately five years to match. During the recent market correction, spot BTC ETFs experienced about $4.4 billion in net outflows over 13 consecutive trading days. However, Perera asserted that these funds moved not to gold, but to AI and semiconductor-related stocks. Subsequently, as risk-off sentiment intensified, the capital shifted again to U.S. Treasurys and cash. He added that while gold ETFs also saw outflows, this was largely due to investors switching to lower-fee gold ETFs rather than moving capital into BTC.",
-    "url": "https://t.me/CoinnessGL#56e12e33",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T16:34:54+00:00"
-  },
-  {
-    "id": "a9cfc274-63f2-4ba8-94fe-68ddbda0f2ea",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Former Fidelity Executive Says South Korean Index’s 10% Crash Pulled BTC Below $60,000",
-    "summary": "1. Mike McCluskey argues that bitcoin’s slide is due to its high-beta relationship with tech equities rather than broken crypto-native fundamentals.\n2. The Seoul-to-Nasdaq Contagion On Tuesday, June 23, the South Korean index, Kospi, plunged by more than 8%, triggering a Level 1 circuit breaker.\n3. The sharp drop was attributed to a severe global semiconductor stock correction, […]",
-    "url": "https://news.bitcoin.com/former-fidelity-executive-says-south-korean-indexs-10-crash-pulled-btc-below-60000/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-25T16:30:12.000Z"
   }
 ]
