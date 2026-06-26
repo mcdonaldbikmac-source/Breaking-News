@@ -1,13 +1,103 @@
 [
   {
-    "id": "8ce6e08f-93a0-4d8c-8741-62175d5e678c",
+    "id": "92f622b7-d77c-4338-941c-2c5515cf4da5",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "This channel delivers thanks to readers like youA simple Boost helps us grow and...",
     "summary": "",
     "url": "https://t.me/SolidIntelX#53035c2d",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-26T03:19:35.736Z"
+    "created_at": "2026-06-26T04:16:39.699Z"
+  },
+  {
+    "id": "754a83d4-1fae-4de8-aba3-9cd3039d0f16",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot ETH ETFs see $81.9M net outflow on sixth straight day",
+    "summary": "U.S. spot Ethereum ETFs recorded a net outflow of approximately $81.9 million (126.8 billion won) on June 25, marking the sixth consecutive day of net outflows, according to data from Farside Investors.The breakdown by fund is as follows:- BlackRock ETHA: -$63 million- BlackRock ETHB: -$2.4 million- Fidelity FETH: -$3.5 million- Grayscale ETHE: -$8.1 million- Grayscale Mini ETH: -$5.5 million",
+    "url": "https://t.me/CoinnessGL#348a7e1a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T03:56:27+00:00"
+  },
+  {
+    "id": "d9ee23f8-010d-43eb-8409-c993e5bb3c9d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rises above $60,000",
+    "summary": "According to CoinNess market monitoring, BTC has risen above $60,000. BTC is trading at $60,021.05 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#b57da5d1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T03:56:18+00:00"
+  },
+  {
+    "id": "c7ddaf27-98b0-495a-9ff4-9d69b0122181",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot Bitcoin ETFs see $691.7M net outflow, marking 6th straight day",
+    "summary": "U.S. spot Bitcoin ETFs recorded a net outflow of approximately $691.7 million (1.07 trillion won) on June 25, marking the sixth consecutive day of net outflows, according to data from Farside Investors.- BlackRock's IBIT: -$265.7 million- Fidelity's FBTC: -$274.5 million- Bitwise's BITB: -$7.1 million- Ark Invest's ARKB: -$82.1 million- Invesco's BTCO: -$53 million- Franklin Templeton's EZBC: -$6.8 million- VanEck's HODL: -$11.7 million- Morgan Stanley's MSBT: +$9.2 million",
+    "url": "https://t.me/CoinnessGL#edb40f0b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T03:56:13+00:00"
+  },
+  {
+    "id": "d301a6ad-1ca0-49d7-a1bb-fea9bb0bd070",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Sharplink buys ETH after 8-month pause as token hits 2026 low",
+    "summary": "1. In May, Sharplink CEO Joseph Chalom named three catalysts that could push up the price of Ether, some of which have begun to materialize.",
+    "url": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Felix Ng",
+    "created_at": "2026-06-26T03:56:08.000Z"
+  },
+  {
+    "id": "dcf60ae8-7ed4-447f-9a82-81476cf68531",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst",
+    "summary": "1. The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.",
+    "url": "https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-06-26T03:55:10.000Z"
+  },
+  {
+    "id": "88b153f7-7f8f-49bf-9e52-fbbdaceea38e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut on Friday",
+    "summary": "1. USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
+    "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "author": "Martin Young",
+    "created_at": "2026-06-26T03:48:03.000Z"
+  },
+  {
+    "id": "f2833a83-49bc-47c6-aaff-12947fd27e89",
+    "source": "The Block",
+    "type": "rss",
+    "title": "BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins",
+    "summary": "1. BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.",
+    "url": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-06-26T03:43:49.000Z"
+  },
+  {
+    "id": "a4ee5989-384c-4cb4-ae8c-aba8c934410b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "New Crypto Giant? SBI’s Bitbank Deal Could Create Japan’s Largest Crypto Exchange",
+    "summary": "1. SBI Holdings is moving to buy Bitbank in a deal that could reshape Japan’s crypto exchange market.\n2. The planned takeover, involving regulatory review, would combine Bitbank with SBI VC Trade and potentially create the country’s largest crypto platform group by custody assets.\n3. SBI Drops $300M to Take Over Bitbank Japanese financial giant SBI Holdings is […]",
+    "url": "https://news.bitcoin.com/new-crypto-giant-sbis-bitbank-deal-could-create-japans-largest-crypto-exchange/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-26T03:30:17.000Z"
+  },
+  {
+    "id": "6020863c-1d31-4ea2-970d-baf33803c53b",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇰🇷 South Korea's KOSPI stock market halted after 8% crash, triggering circuit breaker.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#b45b42e4",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-26T03:26:29+00:00"
   },
   {
     "id": "f9dc2f21-6e89-44fc-bcaa-a1ade50e39ec",
@@ -30,7 +120,7 @@
     "created_at": "2026-06-26T03:09:39+00:00"
   },
   {
-    "id": "e5fb9f0c-904e-4741-ad26-8a3f4ee29fc2",
+    "id": "aeb343b8-ed7d-461b-90d2-599d8ad8498f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "CoinMarketCap Announcements pinned a photo",
@@ -140,7 +230,7 @@
     "created_at": "2026-06-25T23:55:54.000Z"
   },
   {
-    "id": "d1076d44-54a5-459b-a64a-4e5a2fe86856",
+    "id": "74db0752-2e07-4764-a9df-e8f11e722a7d",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📉 Strategy's STRC preferred stock hit a record low Thursday under $75 as MSTR shares fell to a 16-month low and Bitcoin sank to $58,000.",
@@ -160,7 +250,7 @@
     "created_at": "2026-06-25T23:34:39.000Z"
   },
   {
-    "id": "47d318e0-c40e-4c0d-8785-4ea14e82cf65",
+    "id": "4fd21976-d269-456d-b180-9f1ce5a3af77",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Sophon is shutting down its L2 blockchain and migrating to Base to build consumer apps, claiming infrastructure chains no longer hold value.",
@@ -188,105 +278,5 @@
     "url": "https://t.me/CoinnessGL#e34da2bf",
     "author": "@CoinnessGL",
     "created_at": "2026-06-25T22:20:11+00:00"
-  },
-  {
-    "id": "6359d254-7f9f-4f80-9e78-425832c45018",
-    "source": "Politico",
-    "type": "rss",
-    "title": "How much longer can Donald Trump go missing from the World Cup?",
-    "summary": "1. The person who shaped the tournament in his image has been invisible since it started.",
-    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/donald-trump-world-cup-absence-00975569",
-    "author": "By Ali Walker and Sophia Cai",
-    "created_at": "2026-06-25T22:15:00.000Z"
-  },
-  {
-    "id": "f94bb917-8466-4428-b093-78e1bb803890",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US lawmakers feel growing urgency to pass CLARITY Act",
-    "summary": "U.S. Republican lawmakers are feeling a renewed sense of urgency to pass the CLARITY Act, according to Eleanor Terrett, host of the crypto policy outlet CryptoInAmerica. She attributed this to mounting political pressure following a debate over a housing bill and the approaching deadline. Terrett explained that when senators return from recess on July 13, they will have only 20 working days to pass the bill in the Senate and send it back to the House before the August recess. However, she noted that several key issues, including ethics provisions in the bill, remain unresolved.Separately, Kristin Smith, head of the Solana Policy Institute, reported that active discussions are underway among the Senate, the White House, and crypto industry stakeholders, with key negotiators meeting daily. Prominent pro-crypto Senator Cynthia Lummis has previously stated her goal is to have the Senate pass the CLARITY Act in July. more:",
-    "url": "https://t.me/CoinnessGL#5d1be7a8",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T22:06:14+00:00"
-  },
-  {
-    "id": "d57e9556-666b-4d4f-b564-007bcf266210",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-    "summary": "1. YouTube Shorts is getting a makeover.",
-    "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-06-25T22:02:12.000Z"
-  },
-  {
-    "id": "55d946e0-8e2f-4a23-8c55-d80314a04e43",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: heads up for anyone on mobile.\n\nwe just shipped a fix that removes \"Sign in with...",
-    "summary": "1. heads up for anyone on mobile.\n2. we just shipped a fix that removes \"Sign in with email\" on mobile.\n3. a recent bug logged some people out, and signing back in with email is a session-only login.",
-    "url": "https://warpcast.com/farcaster/0x72860dda",
-    "author": "Farcaster",
-    "created_at": "2026-06-25T21:55:00.000Z"
-  },
-  {
-    "id": "738ae74d-84de-48ca-aa0a-31fe218f4bfe",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.193",
-    "summary": "1. ## What's changed\n\n- Added `autoMode.classifyAllShell` setting to route all Bash/PowerShell commands through the auto-mode classifier instead of only arbitrary-code-execution patterns\n- Added auto-mode denial reasons to the transcript, the denial toast, and `/permissions` recent denials\n- Added `claude_code.assistant_response` OpenTelemetry log event containing the model's response text.\n2. Redacted unless `OTEL_LOG_ASSISTANT_RESPONSES=1`; when that var is unset it follows `OTEL_LOG_USER_PROMPTS`, so deployments that already log prompt content will start receiving response content on upgrade — set `OTEL_LOG_ASSISTANT_RESPONSES=0` to keep prompts-only.\n3. - Added live file path autocomplete to bash mode (`!`)\n- Added a startup notice when MCP servers need authentication, pointing at `/mcp`\n- Added automatic memory-pressure reaping for idle background shell commands (disable with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1`)\n- Fixed `/model` and other client-data-gated UI showing stale/empty state immediately after `/login`\n- Fixed backgrounding (←←) spuriously cancelling with \"N background tasks would be abandoned\" when all running tasks carry over to the new session\n- Fixed pinned background agents being re-prompted to \"Continue from where you left off\" after every auto-update\n- Fixed backgrounding the main turn spawning a phantom \"general-purpose (resumed)\" subagent that re-ran the main conversation\n- Fixed agent panel hiding sibling agents when viewing a subagent\n- Improved background agents: the launch result no longer instructs Claude to \"end your response\" — it keeps working on other tasks while the agent runs\n- Improved MCP `headersHelper` auth: the helper now re-runs and reconnects automatically when a tool call returns 401/403\n- Improved plugin auto-rename: marketplace `renames` maps are now followed automatically, updating your settings to the new name\n- Improved `/add-dir` message when the directory is already a working directory",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
-    "author": "ashwin-ant",
-    "created_at": "2026-06-25T21:45:57Z"
-  },
-  {
-    "id": "ad03f8eb-2212-4240-bdf5-6d36e5773c24",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Meloni allies fail to take over Italian soccer",
-    "summary": "1. Giovanni Malagò has a bulging in-tray as he takes over the troubled Italian soccer association.",
-    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/italy-giorgia-meloni-football-failure-fifa-world-cup-2026-00977002",
-    "author": "By Gregorio Sorgi",
-    "created_at": "2026-06-25T21:45:00.000Z"
-  },
-  {
-    "id": "cbcd4e16-a60c-4cc1-adc9-384f24547cee",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Aave founder Stani Kulechov says AAVE isn’t for sale ‘at a 70% discount’ following report of Payward bid",
-    "summary": "1. The Aave Will Win proposal redirected 100% of protocol and Aave-branded product revenue to the DAO and AAVE token holders.",
-    "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-06-25T21:34:09.000Z"
-  },
-  {
-    "id": "543f003f-49a1-452b-94c2-2af128f98a27",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Vinny Lingham Predicted Saylor Would Hurt Bitcoin More Than FTX. Now He’s Explaining Why",
-    "summary": "1. Vinny Lingham, co-founder of Praxos Capital, told Unchained’s Laura Shin that Strategy’s financial structure is now unraveling in a way he predicted 18 months ago, and that the company may be approaching the point where every available move makes its position worse.\n2. Lingham Called It Early The co-founder of Praxos Capital, Vinny Lingham, once known […]",
-    "url": "https://news.bitcoin.com/vinny-lingham-predicted-saylor-would-hurt-bitcoin-more-than-ftx-now-hes-explaining-why/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-25T21:30:15.000Z"
-  },
-  {
-    "id": "e73fe420-c1da-427d-934a-d436a27bdcb5",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Aave's Kulechov Disputes Report, Says Firm Won't Sell AAVE at '70%' Discount",
-    "summary": "1. The founder said all Aave protocol and GHO revenue flows to the AAVE token and that the brand and software belong to holders, responding to a report that Kraken is in talks to buy a 15% stake at a $385 million valuation.",
-    "url": "https://thedefiant.io/news/defi/aave-s-kulechov-disputes-report-says-firm-won-t-sell-aave-at-70-discount",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-25T21:20:47.000Z"
-  },
-  {
-    "id": "f12e6e6d-a84e-4174-8bd0-d764ebea8d2d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Ethena infrastructure firm StablecoinX to list on Nasdaq under ticker USDE",
-    "summary": "StablecoinX, an Ethena infrastructure firm, announced that it will begin trading on Nasdaq starting today, June 26, under the ticker USDE. The company was listed through a merger with the special purpose acquisition company (SPAC) TGLY. StablecoinX holds approximately three billion ENA, representing 20% of the total supply and valued at $275 million.",
-    "url": "https://t.me/CoinnessGL#14d308a0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-25T21:20:27+00:00"
   }
 ]
