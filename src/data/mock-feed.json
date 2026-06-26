@@ -1,13 +1,263 @@
 [
   {
-    "id": "21eff33d-8aaf-4e15-a343-fdc6d90281de",
+    "id": "bd1c9a5c-06fb-449b-ac63-3189b86558be",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "U.S. MILITARY CONDUCTS STRIKES IN THE STRAIT OF HORMUZ AREA | PER AXIOSCENTCOM says US aircraft struck Iranian missile and drone storage sites and coastal radar after Iran hit the Singapore-flagged Ever Lovely with a drone yesterday as it exited Hormuz. CENTCOM calls Iran’s attack on commercial shipping a clear ceasefire violation, and says US forces are still coordinating safe passage for vessels and will keep enforcing the agreement.DevelopingTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#20eb4cb1",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-26T22:19:03.683Z"
+  },
+  {
+    "id": "e59e0bbe-318e-4692-bf0a-1c435664f917",
+    "source": "Politico",
+    "type": "rss",
+    "title": "A drag queen, a rainbow festival and a game FIFA can’t control",
+    "summary": "1. Seattle’s “Pride Match” for the Iran-Egypt game is unofficial, unlicensed and entirely the point.",
+    "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/seattle-iran-egypt-fifa-world-cup-pride-match-00978651",
+    "author": "By Sasha Issenberg",
+    "created_at": "2026-06-26T22:00:48.000Z"
+  },
+  {
+    "id": "2e2e70b0-5db5-4dfb-8d68-c73da8605258",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+    "summary": "1. Corgi became embroiled in  controversy when Papermark accused it of stealing its software.\n2. Corgi says it did not, raising new questions about vibe coding.",
+    "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+    "author": "Julie Bort",
+    "created_at": "2026-06-26T22:00:37.000Z"
+  },
+  {
+    "id": "63121652-bd0b-44bb-8c03-8168fea5c7d1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ DraftKings has launched its own proprietary prediction markets exchange called DKeX.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d0907dfd",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-26T21:55:22+00:00"
+  },
+  {
+    "id": "6422feac-1344-4858-992f-9d0d05ebefaf",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Ripple Launches RLUSD in Japan via SBI as Circle and Nomura Join Stablecoin Race",
+    "summary": "1. Ripple's RLUSD stablecoin went live in Japan on Tuesday after receiving approval from Japan's Financial Services Agency, becoming the first foreign-issued stablecoin classified under Japan's revised Payment Services Act.",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-rlusd-japan-jfsa-sbi-vc-trade-circle-nomura-stablecoin",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-26T21:54:48.000Z"
+  },
+  {
+    "id": "c0942485-3d25-45c0-9552-c2f9f0b72295",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: soon everyone in the US will be using open source chinese frontier models becaus...",
+    "summary": "1. soon everyone in the US will be using open source chinese frontier models because the US models are banned for americans",
+    "url": "https://warpcast.com/rish/0x42e27bfb",
+    "author": "rish",
+    "created_at": "2026-06-26T21:50:17.000Z"
+  },
+  {
+    "id": "8327a8bf-37ca-4ffa-ad80-feb8c1ef7aef",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Envoy's pharaoh well party",
+    "summary": "1. Envoy's pharaoh well party",
+    "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/egypt-ambassador-united-states-fifa-world-cup-2026-00978529",
+    "author": "By Sophia Cai",
+    "created_at": "2026-06-26T21:45:00.000Z"
+  },
+  {
+    "id": "0925c17b-2828-4580-969c-719c21ee0ac5",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The world's not big on the US. The World Cup might help.",
+    "summary": "1. Few people globally have confidence in President Donald Trump's leadership, according to a new poll.",
+    "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/united-states-trump-negative-perception-poll-foreign-policy-00978433",
+    "author": "By Riya Misra",
+    "created_at": "2026-06-26T21:35:07.000Z"
+  },
+  {
+    "id": "f37fc913-af17-43fb-8cb8-1f92e7445667",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.195",
+    "summary": "1. ## What's changed\n\n- Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover in fullscreen mode while keeping wheel scroll\n- Fixed hook matchers with hyphenated identifiers (e.g.\n2. `code-reviewer`, `mcp__brave-search`) accidentally substring-matching — they now exact-match.\n3. Use `mcp__brave-search__.*` to match all tools from a hyphenated MCP server.",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+    "author": "ashwin-ant",
+    "created_at": "2026-06-26T21:29:42Z"
+  },
+  {
+    "id": "02106059-7c7f-4cfc-9627-1fab13ccc200",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 17 Democratic senators are urging the Senate Appropriations Subcommittee to block CFTC Chair Michael Selig from using federal funds to sue state authorities over prediction market oversight.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1f482622",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-26T21:25:22+00:00"
+  },
+  {
+    "id": "b4600deb-1faa-46f2-b0d4-1c1d93492d2a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
+    "summary": "1. Strategy's STRC briefly fell to a record low of $71.40 on Friday, leaving the preferred shares about 25% below par.",
+    "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-06-26T21:21:56.000Z"
+  },
+  {
+    "id": "b8799e72-ab67-4bf1-881f-198e0742bf43",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US airstrikes on Iranian targets underway",
+    "summary": "U.S. airstrikes on Iranian targets are currently underway, Fox News reported.",
+    "url": "https://t.me/CoinnessGL#3f294ff0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T20:55:06+00:00"
+  },
+  {
+    "id": "df128642-9a83-4fc1-a0ab-2356c6765ef9",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The U.S.A.’s New Passport, which says, “Welcome, but be good!” President DJT",
+    "url": "https://trumpstruth.org/statuses/39553",
+    "author": "Trump Truth",
+    "created_at": "2026-06-26T20:54:43.000Z"
+  },
+  {
+    "id": "f92bb931-a5b6-43b8-83ee-69a79c16662a",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
+    "summary": "1. Bitcoin Magazine\n\nGalaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out\nGalaxy Research cut its odds of the Senate passing the CLARITY Act to 50-50, citing dwindling time before Congress's August recess and mounting legislative uncertainty.\n2. This post Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/galaxy-research-cuts-clarity-act-passage",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-26T20:48:42.000Z"
+  },
+  {
+    "id": "68584a4f-bdce-4fd7-b352-1202b9d0235f",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
+    "summary": "1. Securitize expects to begin trading next week under the ticker symbol “SECZ,” following the completion of a merger with a blank-check firm.",
+    "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
+    "author": "André Beganski",
+    "created_at": "2026-06-26T20:47:44.000Z"
+  },
+  {
+    "id": "37cb2d32-2bdc-4cad-b4b3-0d9cb8378c85",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "17 Democratic Senators Seek to Bar CFTC From Funding Prediction-Market State Lawsuits",
+    "summary": "1. Seventeen Democratic senators are urging the Senate Appropriations Subcommittee to include a rider in the FY2027 spending bill that would prohibit the CFTC from using any federal funds to sue states over prediction-market regulation, escalating a multi-front jurisdictional battle spanning nine",
+    "url": "https://thedefiant.io/news/regulation/17-democratic-senators-bar-cftc-funding-prediction-market-state-lawsuits",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-26T20:45:50.000Z"
+  },
+  {
+    "id": "f9e3cf95-261a-4156-a0c3-7a0b2eb72cac",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇦🇺 Australia's ASIC has extended its no-action period for crypto licensing to Sept.",
+    "summary": "30, giving digital asset businesses three more months to apply.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7404f773",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-26T20:45:28+00:00"
+  },
+  {
+    "id": "acebac98-825d-4c8c-ae1f-935b36676638",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy’s STRC trades 25% below par",
+    "summary": "1. \"Financial engineering does not drive long-term value ...\n2. long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.",
+    "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-06-26T20:44:55.000Z"
+  },
+  {
+    "id": "437873d1-93b4-48b4-acae-bab9b9ececf5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Zuckerberg urges Meta to explore collaboration with Polymarket",
+    "summary": "Mark Zuckerberg has reportedly urged Meta Platforms (META) to explore a collaboration with the prediction market platform Polymarket, according to sources. This follows a previous report from the New York Times (NYT) that Zuckerberg had ordered the development of a prediction market app similar to Polymarket and Kalshi. more:",
+    "url": "https://t.me/CoinnessGL#2e1537f3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T20:44:48+00:00"
+  },
+  {
+    "id": "11fa5b5e-b80e-4b3f-9963-128aabd4feb4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US CFTC investigating Polymarket, CNBC reports",
+    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) is conducting a broad investigation into Polymarket, CNBC reported, citing industry sources. While the start date of the probe has not been disclosed, it is understood to have followed a Wall Street Journal (WSJ) report last week that alleged Polymarket paid creators to upload fake betting videos. more:",
+    "url": "https://t.me/CoinnessGL#0133a8a3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-26T20:44:02+00:00"
+  },
+  {
+    "id": "a36c5499-64de-495b-add3-1076e9ff2f99",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections.\n2. Additionally, I won more votes than any Candidate in the State’s History!\n3. I LOVE Oklahoma, and Mike has my COMPLETE and TOTAL Endorsement for Governor!",
+    "url": "https://trumpstruth.org/statuses/39552",
+    "author": "Trump Truth",
+    "created_at": "2026-06-26T20:43:27.000Z"
+  },
+  {
+    "id": "5d51e34c-39eb-46cc-8bd6-a46cea9877ed",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": " Why Wall Street's Biggest Traders Are Abandoning Crypto for Prediction Markets | Alex Momot",
+    "summary": "1. Prediction markets are entering a new phase — and the biggest market makers in the world are taking notice.\n2. Alex Momot, Co-founder of Peanut Trade, joins Camila Russo to break down the mechanics, the opportunity, and the risks behind this fast-moving space.",
+    "url": "https://thedefiant.io/podcasts-and-videos/videos/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
+    "author": "Camila Russo",
+    "created_at": "2026-06-26T20:37:06.000Z"
+  },
+  {
+    "id": "81f8958b-c300-4663-9989-aa2899792885",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Trump's war on Iran becomes 'most unpopular conflict' in US historyTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#c7449892",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-26T19:59:56.783Z"
+    "created_at": "2026-06-26T20:34:14+00:00"
+  },
+  {
+    "id": "15020743-e1c9-49fa-b505-597ab6c10592",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "US Treasury Hits Huione Group in Sweeping Push Against Global Cyber Fraud",
+    "summary": "1. Treasury, in collaboration with Chainalisys, took action against Huione, one of the largest enablers of crypto-money laundering operations for the Prince Group, a transnational criminal organization that targeted Americans with romantic fraud scams, also known as pig butchering operations.\n2. US Treasury Hits Huione Group’s Crypto Money Laundering Cloud Infrastructure The Trump Administration is […]",
+    "url": "https://news.bitcoin.com/us-treasury-hits-huione-group-in-sweeping-push-against-global-cyber-fraud/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-26T20:23:20.000Z"
+  },
+  {
+    "id": "14066099-ccaa-466a-aa2a-cc3e618679b8",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+    "summary": "1. Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.",
+    "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-26T20:15:03.000Z"
+  },
+  {
+    "id": "de87e24b-cd3a-4523-b67a-b480ca0d9181",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The new Donald Trump Avenue in Hyderabad, India — The first U.S.\n2. President to ever be honored in this way.\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39551",
+    "author": "Trump Truth",
+    "created_at": "2026-06-26T20:13:47.000Z"
   },
   {
     "id": "8069b400-8492-446f-aaec-0671aaff77dd",
@@ -280,7 +530,7 @@
     "created_at": "2026-06-26T17:50:02.000Z"
   },
   {
-    "id": "71a08542-e507-4b44-941a-2411d302f165",
+    "id": "dfaa3863-1d66-4730-a22e-da27cdbd68ae",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 California Governor Gavin Newsom says \"it's time for a national billionaire tax.\"@WatcherGuru",
@@ -330,7 +580,7 @@
     "created_at": "2026-06-26T17:23:01.000Z"
   },
   {
-    "id": "8830deea-7b40-43c1-96e8-457b91eacb2a",
+    "id": "a5850d58-cf01-49d5-9734-816515112303",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "OpenAI officially launches GPT-5.6 limited preview, claiming to be more powerful than Claude Mythos.@WatcherGuru",
@@ -420,7 +670,7 @@
     "created_at": "2026-06-26T16:32:41.000Z"
   },
   {
-    "id": "1f2395d3-e70f-4e72-be0c-0a61e71c4006",
+    "id": "9a3ce60c-9a14-4e5b-99fb-0fa1e6b1560c",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump imposes 100% tariffs on any country that charges 'Digital Services Tax' on American companies.@WatcherGuru",
@@ -508,235 +758,5 @@
     "url": "https://trumpstruth.org/statuses/39546",
     "author": "Trump Truth",
     "created_at": "2026-06-26T16:20:58.000Z"
-  },
-  {
-    "id": "4441c97a-1ca6-4278-b573-dfb9f8eacaee",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DraftKings launches prediction market trading platform DKeX",
-    "summary": "Nasdaq-listed sports betting company DraftKings has launched its own prediction market trading platform, DKeX. The platform operates on technology and licenses acquired through DraftKings' acquisition of Railbird, a Designated Contract Market regulated by the U.S. Commodity Futures Trading Commission (CFTC).",
-    "url": "https://t.me/CoinnessGL#af908aea",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-26T16:18:54+00:00"
-  },
-  {
-    "id": "be40e150-0a24-4e29-b04a-c8c387ad6f68",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Sophon Shuts Down Its zkSync Chain and Rebuilds as a Consumer App Studio on Base",
-    "summary": "1. Sophon is decommissioning its zkSync-based Layer 2 chain and pivoting to Soph+, a consumer product studio building exclusively on Base.\n2. The shutdown caps a chain that raised $60 million through node sales but attracted fewer than 200 daily users and generated roughly $30 in daily fees.",
-    "url": "https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-26T16:18:14.000Z"
-  },
-  {
-    "id": "a7f8a2b7-c914-4fef-a2e5-0ba295658608",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
-    "summary": "1. A group of 17 Democratic senators went after the CFTC’s funding for lawsuits over prediction markets, calling it an “assault” on state authorities.",
-    "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-06-26T16:10:37.000Z"
-  },
-  {
-    "id": "69beb8e2-f80c-4ee3-925e-723e6e8a40e8",
-    "source": "The Block",
-    "type": "rss",
-    "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
-    "summary": "1. The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume.",
-    "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-06-26T16:05:28.000Z"
-  },
-  {
-    "id": "dc616d50-441c-4b9e-94db-df210e1ce7cb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US senators urge CFTC to investigate Polymarket",
-    "summary": "According to The Wall Street Journal, two U.S. senators have sent a letter to the chairman of the Commodity Futures Trading Commission (CFTC) urging an investigation into Polymarket. The senators expressed deep concern over previous reports of the platform's deceptive marketing practices, emphasizing the need for an immediate review.",
-    "url": "https://t.me/CoinnessGL#6389e6e0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-26T16:04:11+00:00"
-  },
-  {
-    "id": "192c0276-9044-4c07-97b9-7e8c9bcdf561",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Aave founder Stani Kulechov says there is \"NO WAY\" the protocol would sell AAVE \"at a 70% discount,\" pushing back on reports that Kraken parent Payward is in talks to buy a 15% stake.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3b7692da",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-26T16:00:22+00:00"
-  },
-  {
-    "id": "3c1ca268-43b7-4b2e-9dd8-c7d5deaabc61",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
-    "summary": "1. Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.",
-    "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-26T15:55:56.000Z"
-  },
-  {
-    "id": "57765cb2-4a4b-4aeb-baa0-22717a20e65b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Islamic Republic of Iran shot at least four One Way Attack Drones at Ships transversing the Strait of Hormuz.\n2. One of the Drones solidly hit the upper deck of a large and very expensive Cargo Carrying Ship.\n3. Damage was done, but the Ship was able to proceed on its way.",
-    "url": "https://trumpstruth.org/statuses/39545",
-    "author": "Trump Truth",
-    "created_at": "2026-06-26T15:51:03.000Z"
-  },
-  {
-    "id": "d388d82b-21f3-48ee-b070-330cb853d254",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy's Saylor Acknowledges 'Volatility Test' as STRC Hits New Low on Bitcoin Weakness",
-    "summary": "1. Strategy’s flagship preferred stock tumbled again when U.S.\n2. markets opened, setting another record low as Bitcoin lingered below $60,000.",
-    "url": "https://decrypt.co/372189/strategy-saylor-volatility-test-strc-new-low-bitcoin-weakness",
-    "author": "André Beganski",
-    "created_at": "2026-06-26T15:33:49.000Z"
-  },
-  {
-    "id": "4de56786-73ce-4b6d-af5d-9f724108e4e3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin ETFs Lose $696 Million as Blackrock and Fidelity Lead Broad Crypto Selloff",
-    "summary": "1. Crypto ETF flows deteriorated sharply on Thursday, June 25, as bitcoin ETFs posted a sixth straight day of outflows, with redemptions reaching $696 million.\n2. Ether funds also saw heavy exits, while HYPE and solana ETFs joined the selloff.\n3. HYPE ETFs Turn Negative After Weeks of Inflows as Crypto Selloff Widens The pressure that had been […]",
-    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-696-million-as-blackrock-and-fidelity-lead-broad-crypto-selloff/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-06-26T15:30:55.000Z"
-  },
-  {
-    "id": "20ff54ee-9e97-4c45-97bb-21716cf486a1",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ StablecoinX, the first public company focused on Ethena infrastructure, began trading on Nasdaq Friday under the ticker USDE.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#03e246c2",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-26T15:10:23+00:00"
-  },
-  {
-    "id": "2de99b5e-cb1c-47b9-821c-7e5ff3a3bd8f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Polymarket surpasses $1,000,000,000 in annualized revenue six weeks after its US exchange launch.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#01e544cd",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-26T15:04:50+00:00"
-  },
-  {
-    "id": "8dd0f3a6-2748-4de3-8154-92440bc7e0c5",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Securitize aims to raise $400 million as tokenization firm nears public debut",
-    "summary": "1. The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.",
-    "url": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-06-26T15:04:44.000Z"
-  },
-  {
-    "id": "05f922b9-2c5b-4bab-b5a8-ce65c26d8a4b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Spain says ‘no exceptions or extensions’ for Binance, other crypto firms ahead of MiCA deadline",
-    "summary": "1. Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity.",
-    "url": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-06-26T15:01:10.000Z"
-  },
-  {
-    "id": "ada3d5f6-dc7b-4520-ba7b-397d5d073f31",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Lenovo says cheap RAM and SSD prices may not come back this decadeAI demand is pushing DRAM and NAND into a new pricing era, with Apple already raising MacBook and iPad prices, Xbox raising console prices by up to $150, and Micron warning memory supply may stay tight beyond 2027Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#b99d03cb",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-26T14:44:58+00:00"
-  },
-  {
-    "id": "fb02da07-31db-4b64-b20d-89412318400a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act Needs 60 Votes and 7 Democrats as GOP Races the August Recess Clock",
-    "summary": "1. Republican lawmakers are feeling a renewed sense of urgency to pass the Digital Asset Market Clarity (CLARITY) Act before the U.S.\n2. Senate breaks for its August recess.\n3. The market-structure bill still needs at least seven Democratic votes to clear a 60-vote threshold.",
-    "url": "https://news.bitcoin.com/clarity-act-gop-urgency-august-recess/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-26T14:33:03.000Z"
-  },
-  {
-    "id": "d8925b1a-f0d1-4ed1-b03f-00534db55358",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Michael Saylor Responds to Scrutiny as Strategy Shares and STRC Hit 52-Week Lows",
-    "summary": "1. Bitcoin Magazine\n\nMichael Saylor Responds to Scrutiny as Strategy Shares and STRC Hit 52-Week Lows\nMichael Saylor took to X to defend Strategy's long-term Bitcoin-focused strategy after MSTR and its preferred shares hit new lows.\n2. This post Michael Saylor Responds to Scrutiny as Strategy Shares and STRC Hit 52-Week Lows first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/michael-saylor-responds-scrutiny-strategy",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-26T14:32:37.000Z"
-  },
-  {
-    "id": "1288bd6a-f5e1-4657-b964-20acc56d49f1",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🚨 Hackers stole about $3M from Polymarket users after exploiting a third-party vendor to inject malicious code into its frontend, with affected users set to be fully refunded.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#5eb39068",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-26T14:30:23+00:00"
-  },
-  {
-    "id": "a1fed000-7190-47b6-a4e2-3afbf9d5ec17",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Norway is pillaging hearts and minds",
-    "summary": "1. The Viking Army is conquering America.\n2. Their ambassador wants you to know there's a message behind the mayhem.",
-    "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/norway-viking-hard-ancestors-soft-power-ambassador-anniken-huitfedt-00977640",
-    "author": "By Ry Rivard",
-    "created_at": "2026-06-26T14:16:00.000Z"
-  },
-  {
-    "id": "8c7f0aae-127a-4cb7-8a81-fda1372d707f",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Norway is pillaging hearts and minds",
-    "summary": "1. The Viking Army is conquering America.\n2. Their ambassador wants you to know there's a message behind the mayhem.",
-    "url": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/norway-viking-hard-ancestors-soft-power-ambassador-anniken-huitfedt-00977640",
-    "author": "By Ry Rivard",
-    "created_at": "2026-06-26T14:16:00.000Z"
-  },
-  {
-    "id": "7b66d305-5556-493f-b6e2-6287b5f66690",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "‘I See Volatility as Opportunity’: Bitcoin Tests Critical Support as Key Level Hangs in the Balance",
-    "summary": "1. Bitcoin Magazine\n\n‘I See Volatility as Opportunity’: Bitcoin Tests Critical Support as Key Level Hangs in the Balance\nBitcoin is testing the critical $58,000–$60,000 support zone for a third time, with a break below could trigger a deeper decline.\n2. This post ‘I See Volatility as Opportunity’: Bitcoin Tests Critical Support as Key Level Hangs in the Balance first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/i-see-volatility-as-opportunity-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-06-26T14:15:55.000Z"
-  },
-  {
-    "id": "f7cad55a-f2a7-4fbd-8956-c48b57cba9dc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-26T14:06:06.000Z"
-  },
-  {
-    "id": "61b311f7-9ca3-4255-863e-8973a31810e4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Jupiter to support trading for memory ETF 'DRAM'",
-    "summary": "Solana-based DEX aggregator Jupiter announced it will support trading for the Roundhill Memory ETF (DRAM). The ETF invests in global memory semiconductor companies, including Samsung Electronics, SK Hynix, Micron, and SanDisk.",
-    "url": "https://t.me/CoinnessGL#cc44b29e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-26T14:00:06+00:00"
   }
 ]
