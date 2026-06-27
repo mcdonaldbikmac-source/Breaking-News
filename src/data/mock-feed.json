@@ -1,13 +1,113 @@
 [
   {
-    "id": "a88295df-dbb5-466b-971c-f01a162f2c15",
+    "id": "23ae0f7b-27ca-40b7-a768-1a327388aadb",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "U.S. MILITARY CONDUCTS STRIKES IN THE STRAIT OF HORMUZ AREA | PER AXIOSCENTCOM says US aircraft struck Iranian missile and drone storage sites and coastal radar after Iran hit the Singapore-flagged Ever Lovely with a drone yesterday as it exited Hormuz. CENTCOM calls Iran’s attack on commercial shipping a clear ceasefire violation, and says US forces are still coordinating safe passage for vessels and will keep enforcing the agreement.DevelopingTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#20eb4cb1",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-27T19:38:20.735Z"
+    "created_at": "2026-06-27T22:08:56.883Z"
+  },
+  {
+    "id": "90b0eb9f-67bb-4c38-af93-3cfe7a6ce82f",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Uzbekistan can’t win the World Cup. But it’s already won Washington’s attention.",
+    "summary": "1. The soccer team is heading home early.\n2. Its diplomats aren't.",
+    "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/uzbekistan-world-cup-critical-minerals-c5-00979092",
+    "author": "By Riya Misra",
+    "created_at": "2026-06-27T21:45:00.000Z"
+  },
+  {
+    "id": "4ac654b4-50b8-4619-973d-9e32890fdfc9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Sharplink Breaks 8-Month ETH Drought With Silent $18M Buy Through FalconX",
+    "summary": "1. According to onchain data, the publicly listed firm Sharplink Gaming received roughly 5,000 ether this week, marking its first such inflow since last year.\n2. Onchain analysts at Lookonchain flagged the transaction, noting that Sharplink holds 876,285 ETH on its balance sheet.\n3. Lookonchain Spots Sharplink Recieving 5,000 ETH With 876,285 ETH valued at $1.38 billion using […]",
+    "url": "https://news.bitcoin.com/sharplink-breaks-8-month-eth-drought-with-silent-18m-buy-through-falconx/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-27T21:40:16.000Z"
+  },
+  {
+    "id": "f1d73e36-6408-4196-a417-1241a783beab",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+    "summary": "1. Instagram users could soon see more ways to tune their content.",
+    "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-27T21:27:37.000Z"
+  },
+  {
+    "id": "a657d491-4cc1-4d2a-8ab1-3ed34d53302c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Why England's national story runs through soccer",
+    "summary": "1. “Sport is never just about sport.\n2. It is about storytelling and national storytelling,” says an acclaimed playwright.",
+    "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/soccer-england-matters-more-fifa-world-cup-2026-00979122",
+    "author": "By Patrick Baker",
+    "created_at": "2026-06-27T21:15:00.000Z"
+  },
+  {
+    "id": "379d2190-ae86-4ead-8b05-ddba8164bdf3",
+    "source": "Politico",
+    "type": "rss",
+    "title": "How Josh Shapiro became a World Cup super fan",
+    "summary": "1. “I think sports is an amazing thing, and it has the effect of changing the psychology of the entire city,” the Pennsylvania governor and potential 2028 candidate said.",
+    "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/josh-shapiro-philadelphia-fifa-world-cup-00979131",
+    "author": "By Adam Wren",
+    "created_at": "2026-06-27T20:53:07.000Z"
+  },
+  {
+    "id": "9ff4ce07-0b5b-4f43-9c7b-eab5d03e2e72",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+    "summary": "1. The asset manager argues Bitcoin's fixed supply schedule does not undermine network security, even as miners face shrinking block rewards after each halving.",
+    "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-27T20:53:02.000Z"
+  },
+  {
+    "id": "cb403dff-65ce-41b9-b603-52e8445f0a3d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "BIP-110 Pushes Bitcoin Toward August Fork Deadline With Only 5 EH/s Signaling",
+    "summary": "1. A Bitcoin Improvement Proposal (BIP-110) pushing to ban Ordinals-style data inscriptions at the consensus level is barreling toward an activation window in early August, with less than 1% of mining hashrate behind it, raising legitimate concerns about a persistent chain split.\n2. What BIP-110 Actually Does BIP-110, authored by Dathon Ohm and formally titled the Reduced […]",
+    "url": "https://news.bitcoin.com/bip-110-pushes-bitcoin-toward-august-fork-deadline-with-only-5-eh-s-signaling/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-27T20:43:34.000Z"
+  },
+  {
+    "id": "1de87463-2ebc-4b3a-aecb-9fa91e2626a6",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "summary": "1. Not everyone is buying Elon Musk’s vision for orbital data centers.",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-27T20:42:36.000Z"
+  },
+  {
+    "id": "d915d630-b222-4ad4-8b2e-223c5106c2ae",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections.\n2. Additionally, I won more votes than any Candidate in the State’s History!\n3. I LOVE Oklahoma, and Mike has my COMPLETE and TOTAL Endorsement for Governor!",
+    "url": "https://trumpstruth.org/statuses/39574",
+    "author": "Trump Truth",
+    "created_at": "2026-06-27T19:35:27.000Z"
+  },
+  {
+    "id": "eed3b623-bf3f-4c5e-8e9d-0e30e923e089",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-27T19:34:45.000Z"
   },
   {
     "id": "9b46eef4-3861-43a6-b4af-f76fa31bbf87",
@@ -148,165 +248,5 @@
     "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
     "author": "Zack Abrams",
     "created_at": "2026-06-27T16:29:22.000Z"
-  },
-  {
-    "id": "1ac8a536-631d-4f33-94e6-2ad5e3b14b97",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇨🇳 Chinese hedge funds warn the AI \"super bubble\" is ready to burst.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#57f2c5f3",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-27T16:03:11+00:00"
-  },
-  {
-    "id": "43ce21b2-8406-4b07-8248-b048c70b0cec",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
-    "summary": "1. Coinbase and Circle have posted steeper losses than Oracle, Netflix and Salesforce, highlighting the widening gap between crypto equities and the broader market.",
-    "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-06-27T16:02:38.000Z"
-  },
-  {
-    "id": "c6e79326-7731-440f-9bac-c86ff20825ac",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin and Ethereum ETFs Bleed for a Seventh Day as Blackrock’s IBIT Sheds $445 Million",
-    "summary": "1. spot bitcoin and ether exchange-traded funds (ETFs) recorded a seventh consecutive day of net outflows on June 26, with bitcoin products alone shedding $445 million in a single session.\n2. The run marks one of the heaviest stretches of redemptions since the funds began trading.\n3. A Seventh Straight Day in the Red U.S.",
-    "url": "https://news.bitcoin.com/bitcoin-ethereum-etf-outflows-seventh-day-ibit-445-million/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-27T15:34:50.000Z"
-  },
-  {
-    "id": "1b94a657-6914-4c80-91db-f5a74e8924b0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "EXPLAINED: 🚀  Bitcoin is down roughly 50% from its ATH, but bulls still see...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ba95b70d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-27T15:20:19+00:00"
-  },
-  {
-    "id": "ead24f3c-4160-4b3b-9a24-d57a4698e39d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CoinNess Live Feed operating hours",
-    "summary": "We provide real-time cryptocurrency updates around the clock from 10:00 p.m. UTC on Sunday through 3:00 p.m. UTC on Saturday. Outside these hours, coverage is limited to critical market-moving developments.Note: Overseas economic news flashes will continue to be provided through the CoinNess Live app and our web services.",
-    "url": "https://t.me/CoinnessGL#b5a72c17",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-27T15:01:33+00:00"
-  },
-  {
-    "id": "b973df52-910f-424e-be6d-39f03a91c1d9",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-    "summary": "1. The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against their bullion, mirroring bitcoin-backed lending without selling the underlying asset.",
-    "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
-    "author": "Jamie Crawley",
-    "created_at": "2026-06-27T15:00:00.000Z"
-  },
-  {
-    "id": "925753c6-50ec-4dff-b8f2-68fe86deb1c3",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Aave Confirms Aavenomics 3.0 Is Live With Buybacks and DAO Spending Cut",
-    "summary": "1. Aave confirmed Saturday that Aavenomics 3.0 is now active, with automated AAVE token buybacks running and DAO operational spending reduced, completing a governance roadmap the protocol has built toward since mid-2024.",
-    "url": "https://thedefiant.io/news/defi/aave-confirms-aavenomics-3-0-live-buybacks-dao-spending-cut",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-27T14:57:39.000Z"
-  },
-  {
-    "id": "ba371855-537c-47f1-8f76-ad1a7b5a3785",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Strategy's Enterprise mNAV Drops Below 1 for the First Time",
-    "summary": "1. Strategy's enterprise market-to-NAV ratio crossed below 1 on Thursday for the first time, putting the combined weight of its debt, preferred stock, and equity above the value of its 847,363-bitcoin treasury and closing the equity-accretion channel that powered its buying spree.",
-    "url": "https://thedefiant.io/news/markets/strategy-enterprise-mnav-drops-below-1-first-time",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-27T14:57:36.000Z"
-  },
-  {
-    "id": "a4a49e6a-5a09-43a4-8fb3-fde8c71505b0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC break below $58,044 could trigger $856M in long liquidations",
-    "summary": "According to CoinGlass data, if BTC breaks below $58,044, long positions worth $855.80 million on major centralized exchanges (CEX) are projected to be liquidated. Conversely, if the price breaks above $62,012, short positions worth $756.74 million will be liquidated.",
-    "url": "https://t.me/CoinnessGL#11773cf0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-27T14:49:00+00:00"
-  },
-  {
-    "id": "56fcd1e1-e944-41e7-85b5-d3c940743863",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "ECB's Schnabel warns inflation may stay strong, sees more rate hikes",
-    "summary": "European Central Bank (ECB) Executive Board member Isabel Schnabel warned on June 27 that inflationary pressures could prove stronger than anticipated, even if the Strait of Hormuz reopens following a U.S.-Iran peace agreement. Schnabel stated that there are upside risks to food, commodity, and services inflation, adding that the shock from energy prices could spill over into broader sectors. While welcoming the recent decline in energy prices on the prospect of a peace deal, she emphasized that a ceasefire should not be a reason to lower the guard against inflation. Schnabel said that although uncertainty remains high, the announced peace agreement has reduced the likelihood of a negative scenario. However, she added that oil prices are expected to remain high because the Strait of Hormuz will only be reopened in phases. Schnabel, considered a prominent hawk on the ECB's Governing Council, reiterated her belief that the central bank will likely implement further interest rate hikes to return inflation to its 2% target in the medium term. She noted that consumer inflation expectations have already risen, but signs of wage pressure have not yet emerged.",
-    "url": "https://t.me/CoinnessGL#37c80307",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-27T14:38:34+00:00"
-  },
-  {
-    "id": "c1e60690-ac22-4061-9e45-b0de6d25eb31",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
-    "summary": "1. The seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.",
-    "url": "https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-06-27T14:34:32.000Z"
-  },
-  {
-    "id": "1afefa22-b392-408a-b1c7-e3a5f8fc03d2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Nears the Price Germany Sold At — Should Berlin Buy Back 49,858 BTC?",
-    "summary": "1. Bitcoin is trading less than $3,000 above the average price at which Germany dumped nearly 50,000 seized coins in 2024, reviving a debate over one of the most criticized sovereign sales in the asset’s history.\n2. A Gap That Has Nearly Closed Bitcoin is now less than $3,000 away from the level where Germany sold, sparking […]",
-    "url": "https://news.bitcoin.com/bitcoin-nears-price-germany-sold-buy-back-49858-btc/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-27T14:27:36.000Z"
-  },
-  {
-    "id": "87543a10-0fbe-4eb1-9b52-001bea1c4b6e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
-    "summary": "1. The prediction markets giant is under investigation in connection with false or deceptive marketing practices, according to news reports.",
-    "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-27T14:13:22.000Z"
-  },
-  {
-    "id": "1a72574d-f4f3-40f6-b4e9-cc88e35cf555",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-    "summary": "1. Brian Armstrong of Coinbase and Star Xu of OKX offered new users sign up bonuses of up to 8% of their deposits or transfers from other accounts.",
-    "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-27T14:11:45.000Z"
-  },
-  {
-    "id": "2dfc1fd9-f6e2-413d-8fe6-8eb1cc1d7d96",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Reeling Democratic establishment accuses socialists of exploiting ballot access:",
-    "url": "https://trumpstruth.org/statuses/39566",
-    "author": "Trump Truth",
-    "created_at": "2026-06-27T14:00:40.000Z"
-  },
-  {
-    "id": "3f5bd144-79f9-4d94-b363-74a8eb7835a2",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "summary": "1. When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "author": "Connie Loizos",
-    "created_at": "2026-06-27T14:00:00.000Z"
   }
 ]
