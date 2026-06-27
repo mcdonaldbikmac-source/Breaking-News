@@ -1,16 +1,156 @@
 [
   {
-    "id": "888d3f95-abea-4783-be87-5b542f76f430",
+    "id": "a88295df-dbb5-466b-971c-f01a162f2c15",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "U.S. MILITARY CONDUCTS STRIKES IN THE STRAIT OF HORMUZ AREA | PER AXIOSCENTCOM says US aircraft struck Iranian missile and drone storage sites and coastal radar after Iran hit the Singapore-flagged Ever Lovely with a drone yesterday as it exited Hormuz. CENTCOM calls Iran’s attack on commercial shipping a clear ceasefire violation, and says US forces are still coordinating safe passage for vessels and will keep enforcing the agreement.DevelopingTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#20eb4cb1",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-27T16:11:41.109Z"
+    "created_at": "2026-06-27T19:38:20.735Z"
   },
   {
-    "id": "e13d85c0-d322-4ec3-858c-4067d30b1e9a",
+    "id": "9b46eef4-3861-43a6-b4af-f76fa31bbf87",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. I am very pleased to announce that I have nominated Lance Schroyer to be our next ICE Director.\n2. Lance has over 29 YEARS of Law Enforcement experience in Oklahoma — A State where I WON all 77 Counties in 2016, 2020, and 2024!\n3. Lance is a former Oklahoma State Trooper, and United States Marine.",
+    "url": "https://trumpstruth.org/statuses/39571",
+    "author": "Trump Truth",
+    "created_at": "2026-06-27T19:34:41.000Z"
+  },
+  {
+    "id": "5c738e03-6358-49b9-a73a-1d28d2de100c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "EU Hands Out 230 MiCA Licenses as Germany Leads and Spain Rules Out a July 1 Reprieve",
+    "summary": "1. The European Union has issued around 230 licenses under its Markets in Crypto-Assets (MiCA) regulation as a hard July 1 deadline approaches, with Germany leading the bloc on 56 authorizations.\n2. Spain’s securities regulator has ruled out any extension, leaving non-compliant exchanges facing restrictions across the EU.\n3. A Bloc Splits Along National Lines Around 230 firms […]",
+    "url": "https://news.bitcoin.com/eu-230-mica-licenses-germany-spain-july-1-deadline/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-27T19:30:34.000Z"
+  },
+  {
+    "id": "52c8bd04-012d-42aa-b152-c2fc887e3e60",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+    "summary": "1. Nearly 50,000 BTC shifted to exchanges at a loss while short-term Bitcoin holders' stress level reached 2-year highs.\n2. Is BTC headed toward new lows?",
+    "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Biraajmaan Tamuly",
+    "created_at": "2026-06-27T19:27:44.000Z"
+  },
+  {
+    "id": "288ba1df-474b-4df7-a5e0-dc6ee04bcdf8",
+    "source": "Politico",
+    "type": "rss",
+    "title": "It's getting real in a New Jersey parking lot",
+    "summary": "1. Forget Germany-Netherlands or Brazil-Argentina.\n2. The cup's most ferocious rivalry is divided by the Hudson River.",
+    "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/the-most-ferocious-rivalry-00979089",
+    "author": "By Ry Rivard",
+    "created_at": "2026-06-27T19:15:00.000Z"
+  },
+  {
+    "id": "8bf2585c-3081-4902-9713-af91e2695f41",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The feds are coming for illegal World Cup streams",
+    "summary": "1. The Justice Department says it seized nearly 400 domains allegedly used to pirate FIFA World Cup matches in a sprawling international enforcement operation.",
+    "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/justice-department-fifa-world-cup-illegal-streams-00979120",
+    "author": "By Ben Johansen",
+    "created_at": "2026-06-27T18:45:00.000Z"
+  },
+  {
+    "id": "56fcf05a-de1c-4e76-bfed-7c812bf29d84",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Miners Absorb 18% Hashprice Crash as Bitcoin Difficulty Jumps 7.15%",
+    "summary": "1. Bitcoin’s difficulty climbed sharply this week, rising 7.15% and notching the second-largest upward adjustment of the year.\n2. Although the network has recorded six increases in 2026, downward adjustments have remained the prevailing theme.\n3. The Screws Tighten Onchain data shows that on June 26, 2026, at block height 955,584, Bitcoin’s difficulty rating rose 7.15% after the […]",
+    "url": "https://news.bitcoin.com/miners-absorb-18-hashprice-crash-as-bitcoin-difficulty-jumps-7-15/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-27T18:30:39.000Z"
+  },
+  {
+    "id": "d87e5019-0b78-402e-bdca-098dd2cd81b8",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Why a selloff in gold and silver is dragging bitcoin down",
+    "summary": "1. Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar.\n2. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.",
+    "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-27T18:11:04.000Z"
+  },
+  {
+    "id": "967b5bc8-fc7e-45a5-90c3-9654d02abb87",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+    "summary": "1. The new investment vehicle arrives as asset managers expand TAO offerings and decentralized AI gains momentum following recent restrictions on Anthropic's models.",
+    "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-27T17:59:31.000Z"
+  },
+  {
+    "id": "1f740493-9472-4d91-970a-ee90172ab7cf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Michael Saylor Reaffirms Strategy’s Bitcoin Focus as Market Volatility Intensifies",
+    "summary": "1. Strategy leaders reinforced the company’s bitcoin treasury strategy as volatility pressured the company’s securities.\n2. Michael Saylor emphasized discipline and credit quality, while Phong Le said the firm accumulated 4% of the world’s “apex digital asset” for periods of market stress.\n3. Saylor Outlines Bitcoin Strategy and Promotes STRC as Income Product Strategy executives reaffirmed the company’s […]",
+    "url": "https://news.bitcoin.com/michael-saylor-reaffirms-strategys-bitcoin-focus-as-market-volatility-intensifies/",
+    "author": "Kevin Helms",
+    "created_at": "2026-06-27T17:30:42.000Z"
+  },
+  {
+    "id": "b10beb6c-145f-42fa-b768-e0881c0c3fb8",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "AMLBot Puts Polymarket Phishing Toll at $3.1M Across 11 Wallets, Funds Traced to Ethereum",
+    "summary": "1. Blockchain intelligence firm AMLBot has confirmed the Polymarket supply-chain attack total at approximately $3.1 million in PUSD across 11 user wallets, with funds bridged from Polygon to Ethereum and converted to ETH.\n2. Polymarket has pledged full refunds but has not named the compromised vendor.",
+    "url": "https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum",
+    "author": "The Defiant Team",
+    "created_at": "2026-06-27T17:13:43.000Z"
+  },
+  {
+    "id": "27a46655-095c-48a1-a617-9403b1aa4860",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
+    "summary": "1. Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
+    "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
+    "author": "Alex Witt",
+    "created_at": "2026-06-27T17:01:04.000Z"
+  },
+  {
+    "id": "f7868bb8-6b6a-45ab-8c75-c8491a224088",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "summary": "1. Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "author": "Anthony Ha",
+    "created_at": "2026-06-27T16:45:09.000Z"
+  },
+  {
+    "id": "36aa1ac6-c89b-4ba5-aca1-27ecd58ce5f4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
+    "summary": "1. Despite the trading platform’s restructuring and the wave of crypto companies making cuts, signaling a late bear market, Altcoin Pro’s Horst, Anderson and Zhuleku explain there’s no reason to panic.",
+    "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
+    "author": "Ryan Horst",
+    "created_at": "2026-06-27T16:30:00.000Z"
+  },
+  {
+    "id": "d0ff1bf9-b5ea-4dbe-b40a-1859d41f87fd",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
+    "summary": "1. Friday's $444.51 million net outflow capped a seventh straight negative week, the longest weekly run on record for the category.",
+    "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-06-27T16:29:22.000Z"
+  },
+  {
+    "id": "1ac8a536-631d-4f33-94e6-2ad5e3b14b97",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇨🇳 Chinese hedge funds warn the AI \"super bubble\" is ready to burst.@WatcherGuru",
@@ -18,6 +158,16 @@
     "url": "https://t.me/WatcherGuru#57f2c5f3",
     "author": "@WatcherGuru",
     "created_at": "2026-06-27T16:03:11+00:00"
+  },
+  {
+    "id": "43ce21b2-8406-4b07-8248-b048c70b0cec",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
+    "summary": "1. Coinbase and Circle have posted steeper losses than Oracle, Netflix and Salesforce, highlighting the widening gap between crypto equities and the broader market.",
+    "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-06-27T16:02:38.000Z"
   },
   {
     "id": "c6e79326-7731-440f-9bac-c86ff20825ac",
@@ -30,7 +180,7 @@
     "created_at": "2026-06-27T15:34:50.000Z"
   },
   {
-    "id": "d6bb7f21-dc79-4475-ac44-3b63b8caa037",
+    "id": "1b94a657-6914-4c80-91db-f5a74e8924b0",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "EXPLAINED: 🚀  Bitcoin is down roughly 50% from its ATH, but bulls still see...",
@@ -40,7 +190,7 @@
     "created_at": "2026-06-27T15:20:19+00:00"
   },
   {
-    "id": "8a4e5f0b-382d-4334-ac2f-1af50e233cc7",
+    "id": "ead24f3c-4160-4b3b-9a24-d57a4698e39d",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "CoinNess Live Feed operating hours",
@@ -80,7 +230,7 @@
     "created_at": "2026-06-27T14:57:36.000Z"
   },
   {
-    "id": "2a3e414b-e093-4381-af2e-988c532db17e",
+    "id": "a4a49e6a-5a09-43a4-8fb3-fde8c71505b0",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "BTC break below $58,044 could trigger $856M in long liquidations",
@@ -90,7 +240,7 @@
     "created_at": "2026-06-27T14:49:00+00:00"
   },
   {
-    "id": "b9e179a6-f7a0-419a-8820-bff740377f52",
+    "id": "56fcd1e1-e944-41e7-85b5-d3c940743863",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "ECB's Schnabel warns inflation may stay strong, sees more rate hikes",
@@ -158,65 +308,5 @@
     "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "author": "Connie Loizos",
     "created_at": "2026-06-27T14:00:00.000Z"
-  },
-  {
-    "id": "086f8f55-5469-42be-a396-4c9744b31c42",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Holds $60,000 but Bears Control — Key Levels Every Trader Needs Now",
-    "summary": "1. Bitcoin (BTC) is trading at $60,262 on June 27, 2026, at 8:45 a.m.\n2. Eastern time with its market cap near $1.2 trillion and $26.3 billion in 24-hour volume, but the technical picture remains under pressure as every major moving average points lower and momentum indicators offer little conviction for bulls.\n3. 1-Hour Chart: Buyers Losing Steam […]",
-    "url": "https://news.bitcoin.com/bitcoin-holds-60000-but-bears-control-key-levels-every-trader-needs-now/",
-    "author": "Jamie Redman",
-    "created_at": "2026-06-27T13:15:12.000Z"
-  },
-  {
-    "id": "50700425-8a6c-46c3-96c6-50075449a39d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 Galaxy CEO Mike Novogratz says Bitcoin's bull case hinges on the CLARITY Act passing and the Fed cutting rates, with prices stuck until then.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#baa0c437",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-06-27T12:35:22+00:00"
-  },
-  {
-    "id": "60930bb3-12f4-4d1f-b8d0-1a089402d2fe",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": " SecondFi targets two-week recovery after Cardano wallet exploit",
-    "summary": "1. SecondFi says it has completed forensic investigations, taken a final balance snapshot and is preparing to return assets.",
-    "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-27T12:00:56.000Z"
-  },
-  {
-    "id": "c5ed89d6-bfad-41db-8a37-8b33fcd2cc47",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "summary": "1. New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban.\n2. AI labs may never recover this enormous market.",
-    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "author": "Kate Park",
-    "created_at": "2026-06-27T12:00:00.000Z"
-  },
-  {
-    "id": "57efafc4-5c74-47d3-8062-6baf5ee2d6e0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Cointelegraph",
-    "created_at": "2026-06-27T11:30:05.000Z"
-  },
-  {
-    "id": "35e62a32-eab4-435a-96ec-aae2d7181b55",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Aave Advances Automated AAVE Buyback Overhaul With Aavenomics 3.0",
-    "summary": "1. Aave founder Stani Kulechov previewed Aavenomics 3.0 on X Thursday, an automated on-chain buyback mechanism that would route all protocol and GHO revenue to AAVE holders by default, replacing the existing discretionary committee-directed program.",
-    "url": "https://thedefiant.io/news/defi/aave-advances-automated-aave-buyback-overhaul-aavenomics-3-0",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-27T10:48:02.000Z"
   }
 ]
