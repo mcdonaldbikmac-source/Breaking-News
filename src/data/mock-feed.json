@@ -1,13 +1,103 @@
 [
   {
-    "id": "b206307e-af6d-45ea-a13a-257d4f1a4803",
+    "id": "6a81ab79-2df7-46ee-98ca-e35673beb6ec",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "U.S. MILITARY CONDUCTS STRIKES IN THE STRAIT OF HORMUZ AREA | PER AXIOSCENTCOM says US aircraft struck Iranian missile and drone storage sites and coastal radar after Iran hit the Singapore-flagged Ever Lovely with a drone yesterday as it exited Hormuz. CENTCOM calls Iran’s attack on commercial shipping a clear ceasefire violation, and says US forces are still coordinating safe passage for vessels and will keep enforcing the agreement.DevelopingTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#20eb4cb1",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-27T07:01:47.546Z"
+    "created_at": "2026-06-27T08:45:33.004Z"
+  },
+  {
+    "id": "7a4cfb1b-2827-4ae3-89fb-9dcc76c28755",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "EU committee calls for review of DeFi, staking, NFT regulations",
+    "summary": "The European Parliament's Committee on Economic and Monetary Affairs (ECON) has recommended that the European Commission review the need for regulations covering decentralized finance (DeFi), staking, NFTs, and crypto lending services. In a report published on June 27, the committee proposed that these crypto services should be evaluated for inclusion under the EU's Markets in Crypto-Assets (MiCA) regulation. The report also urged the expansion of tokenized financial services and the promotion of euro-based stablecoins.",
+    "url": "https://t.me/CoinnessGL#1156ccdf",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-27T08:36:36+00:00"
+  },
+  {
+    "id": "93e2d11f-2e70-492f-9617-dc9fe9e8ef9c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Anthony Pompliano predicts the Bitcoin bear market will end in the second half of 2026, citing historical trends from prior cycles.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#036f32db",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-27T08:35:22+00:00"
+  },
+  {
+    "id": "a2cc09de-b0f4-4105-b5a1-8f130b2b82e0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trader Turns FIFA World Cup Bets Into $8.47 Million Profit in a Single Day",
+    "summary": "1. A prediction-market trader earned $8.47 million in a single day betting on the FIFA World Cup.\n2. The wagers spanned the Sweden-Japan and Ecuador-Germany fixtures.\n3. Two Wallets, Multimillion-Dollar Wagers According to Lookonchain, the trader created a fresh wallet a day earlier and placed $7.19 million on Sweden to win and Japan not to win their match.",
+    "url": "https://news.bitcoin.com/trader-turns-fifa-world-cup-bets-into-8-47-million-in-a-single-day/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-06-27T08:30:40.000Z"
+  },
+  {
+    "id": "80db6863-da11-463c-a7f4-a4ed8c06a0a5",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
+    "summary": "1. The nonbinding report outlines Parliament's vision for future EU crypto regulation and warns against national MiCA rules.",
+    "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-27T08:21:04.000Z"
+  },
+  {
+    "id": "9d4dfd9a-ad78-4bd0-9df5-b560051eaf40",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+    "summary": "1. Ripple's Brad Garlinghouse called Strategy's preferred-stock funding model \"financial engineering\" that distracted the market, pointing to STRC's slide to a record low as the evidence.\n2. He runs the company behind XRP, a bitcoin rival.",
+    "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-27T07:58:35.000Z"
+  },
+  {
+    "id": "1d2d42ea-561a-4160-a505-fa7e02f1902c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
+    "summary": "1. A rotation out of chipmakers lifted much of the stock market, with the equal-weight S&P 500 at a record.\n2. Crypto was not part of it.\n3. Ether fell 8% on the week and the memecoins dropped harder.",
+    "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-06-27T07:43:58.000Z"
+  },
+  {
+    "id": "05554a71-656a-4250-b041-d7884124f358",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Electronic Money or Digital Asset? Brazil Sparks Intense Debate Over Stablecoin Regulation",
+    "summary": "1. While Congress prepares to consider Bill 4308/2024 to regulate the status of stablecoins, the cryptocurrency industry opposes designating them as electronic money, advocating for maintaining the current status of virtual assets, as they lack the elements of traditional currency.\n2. Brazil’s Crypto Industry Opposes Stablecoin Designation As Virtual Currency While stablecoins have become immensely popular in […]",
+    "url": "https://news.bitcoin.com/electronic-money-or-digital-asset-brazil-sparks-intense-debate-over-stablecoin-regulation/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-06-27T07:30:59.000Z"
+  },
+  {
+    "id": "2055a939-4d7b-4c89-ad1f-d70adbb74533",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Address linked to Vitalik Buterin moves $11.1M in ETH",
+    "summary": "An address associated with Ethereum founder Vitalik Buterin transferred 7,000 ETH ($11.06 million) to a new address, according to Onchain Lens. Given the address's past transaction patterns, Onchain Lens noted that the funds are likely to be deposited onto an exchange.",
+    "url": "https://t.me/CoinnessGL#c40143b3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-27T07:18:05+00:00"
+  },
+  {
+    "id": "ccac659d-06bb-4968-b8db-e7904aaf2201",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Hong Kong says regulated stablecoins to launch in H2",
+    "summary": "The Hong Kong government has announced that regulated stablecoins are scheduled to be launched in the second half of this year. According to a written response submitted to the Legislative Council, the Hong Kong Monetary Authority (HKMA) granted stablecoin issuance licenses to two bank-backed institutions in April, and these entities will launch their products in line with their business plans. The government added that it has sent official notices to unlicensed stablecoin issuers outlining legal requirements and plans to submit a bill this year to establish a regulatory framework for virtual asset trading, custody, advisory, and asset management services.",
+    "url": "https://t.me/CoinnessGL#9a4e5e86",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-27T07:08:21+00:00"
   },
   {
     "id": "b3e89190-c242-4e47-b9de-6a74b43e3ed3",
@@ -20,7 +110,7 @@
     "created_at": "2026-06-27T06:30:50.000Z"
   },
   {
-    "id": "542853bd-7fe1-4a2d-a7cc-b2d6658eea32",
+    "id": "206d7baf-4195-4320-9de9-b46b27df3cfa",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 CryptoQuant CEO Ki Young Ju says Bitcoin does not look close to a cycle bottom, noting that every major cycle has seen its price touch the realized price before bottoming — something that hasn't happened yet.",
@@ -168,85 +258,5 @@
     "url": "https://thedefiant.io/converge/podcast/moneygram-ceo-on-rolling-out-mgusd-to-its-60-million-users-globally",
     "author": "Chris Storaker",
     "created_at": "2026-06-27T02:47:16.000Z"
-  },
-  {
-    "id": "cab32f48-0495-4dbe-bd60-bcfe9b504c81",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act Odds Fall to 50% as Senate Calendar Puts Crypto Bill at Risk: Galaxy Research",
-    "summary": "1. Senate timing constraints have weakened the CLARITY Act’s outlook as lawmakers face a crowded agenda before the August recess.\n2. Galaxy Digital’s research lowered its 2026 passage estimate to a 50-50 chance, citing no floor date, no motion to proceed, and no unified committee text.\n3. Senate Calendar Pressures Weigh on CLARITY Act Passage Outlook Senate scheduling […]",
-    "url": "https://news.bitcoin.com/clarity-act-odds-fall-to-50-as-senate-calendar-puts-crypto-bill-at-risk-galaxy-research/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-27T02:30:41.000Z"
-  },
-  {
-    "id": "c24544ce-095b-462e-ade8-a2e295a45cbf",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
-    "summary": "1. Senators John Curtis and Adam Schiff are concerned about the CFTC’s enforcement ability after a “troubling” report on Polymarket’s advertising.",
-    "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-27T02:16:06.000Z"
-  },
-  {
-    "id": "716edd31-967d-47a7-a1f2-720f19a10792",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Donald Trump Jr.'s free Kalshi stake now worth millions",
-    "summary": "According to the Financial Times, a stake in the prediction market platform Kalshi received by Donald Trump Jr., son of President Donald Trump, has surged in value to potentially millions of dollars. Trump Jr. was given shares worth approximately $300,000 when he joined Kalshi as a strategic advisor in early 2025, investing none of his own funds. At the time, the company was valued at under $2 billion. However, Kalshi's valuation jumped to $22 billion in a funding round last month and is reportedly in discussions for another round as early as the third quarter of this year at a valuation of around $40 billion. The report added that Trump Jr.'s stake has been significantly diluted since he received it due to the issuance of new shares.",
-    "url": "https://t.me/CoinnessGL#a22d9c48",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-27T02:06:33+00:00"
-  },
-  {
-    "id": "9e3e5d69-5742-44fa-b3dd-6287c42a8b06",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Kraken's xStocks Opens Bending Spoons IPO Registration to EEA Retail",
-    "summary": "1. Kraken's xStocks platform is opening non-binding interest registration for the Bending Spoons IPO to eligible customers in the EEA and select global markets, the tokenized equities infrastructure's second pre-IPO offering after a troubled SpaceX debut.",
-    "url": "https://thedefiant.io/news/cefi/kraken-xstocks-bending-spoons-ipo-eea-registration",
-    "author": "The Defiant Team",
-    "created_at": "2026-06-27T02:05:50.000Z"
-  },
-  {
-    "id": "4f846d15-b113-49c3-a472-f8c404d82605",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Industry decries CFTC probe into Polymarket as stifling innovation",
-    "summary": "The U.S. Commodity Futures Trading Commission's (CFTC) surprise investigation into prediction market platform Polymarket is drawing strong backlash from the crypto and fintech industries, the Financial Times reported. Industry members have characterized the probe as excessive regulatory pressure that stifles innovation in collective intelligence and data analysis. Experts and supporters argue that Polymarket is not purely a gambling platform but rather a valuable tool for accurately predicting the outcomes of electoral, economic, and social events. The industry criticized U.S. state governments and other groups for treating the platform like illegal sports betting, calling it an outdated and heavy-handed regulatory approach to new financial technology.",
-    "url": "https://t.me/CoinnessGL#97b70e6d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-27T01:32:51+00:00"
-  },
-  {
-    "id": "35326152-d834-4e16-b914-433e0811f620",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "SpaceX Lands Nasdaq-100 Spot Weeks After Record IPO",
-    "summary": "1. Elon Musk’s SpaceX is joining the Nasdaq-100 and FTSE Russell’s U.S.\n2. equity indexes less than a month after its record-breaking IPO, placing the newly public aerospace giant in some of the market’s most closely watched benchmarks.\n3. SpaceX Inclusion Highlights Growing Influence of Aerospace Innovation in Major Market Benchmark Elon Musk’s Space Exploration Technologies Corporation (Nasdaq: […]",
-    "url": "https://news.bitcoin.com/spacex-lands-nasdaq-100-spot-weeks-after-record-ipo/",
-    "author": "Kevin Helms",
-    "created_at": "2026-06-27T01:30:36.000Z"
-  },
-  {
-    "id": "7d928907-54a9-4da9-b2e9-14554b404816",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Why Belgium’s prime minister isn’t cheering on the Red Devils",
-    "summary": "1. The World Cup isn’t easy for Bart De Wever.",
-    "url": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/belgium-world-cup-bart-de-wever-flemish-nationalism-00978292",
-    "author": "By Sonja Rijnen",
-    "created_at": "2026-06-27T01:15:00.000Z"
-  },
-  {
-    "id": "fd541598-2f18-40c7-b6fe-084a0f0aec77",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. John Bolton, a very dumb, unbalanced, and unskilled former representative of the United States of America, just pleads guilty!\n2. He is a terrible person, a lunatic who only wanted to start trouble and wars, and who was a needless pusher of death and destruction wherever he went.\n3. Hopefully, he will be dealt with harshly!",
-    "url": "https://trumpstruth.org/statuses/39555",
-    "author": "Trump Truth",
-    "created_at": "2026-06-27T01:14:18.000Z"
   }
 ]
