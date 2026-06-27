@@ -1,16 +1,16 @@
 [
   {
-    "id": "6a81ab79-2df7-46ee-98ca-e35673beb6ec",
+    "id": "ccad2c4a-8c01-43bc-841a-a179668fa6fc",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "U.S. MILITARY CONDUCTS STRIKES IN THE STRAIT OF HORMUZ AREA | PER AXIOSCENTCOM says US aircraft struck Iranian missile and drone storage sites and coastal radar after Iran hit the Singapore-flagged Ever Lovely with a drone yesterday as it exited Hormuz. CENTCOM calls Iran’s attack on commercial shipping a clear ceasefire violation, and says US forces are still coordinating safe passage for vessels and will keep enforcing the agreement.DevelopingTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#20eb4cb1",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-27T08:45:33.004Z"
+    "created_at": "2026-06-27T09:02:35.844Z"
   },
   {
-    "id": "7a4cfb1b-2827-4ae3-89fb-9dcc76c28755",
+    "id": "4413da20-b3f5-40d2-96f2-d242ce1cf4b6",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "EU committee calls for review of DeFi, staking, NFT regulations",
@@ -20,7 +20,7 @@
     "created_at": "2026-06-27T08:36:36+00:00"
   },
   {
-    "id": "93e2d11f-2e70-492f-9617-dc9fe9e8ef9c",
+    "id": "2417cb6d-c331-4280-a857-e12d1241d02e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📈 Anthony Pompliano predicts the Bitcoin bear market will end in the second half of 2026, citing historical trends from prior cycles.",
@@ -80,7 +80,7 @@
     "created_at": "2026-06-27T07:30:59.000Z"
   },
   {
-    "id": "2055a939-4d7b-4c89-ad1f-d70adbb74533",
+    "id": "1a4b8b35-e776-45bd-947c-b3e308448c0b",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Address linked to Vitalik Buterin moves $11.1M in ETH",
@@ -90,7 +90,7 @@
     "created_at": "2026-06-27T07:18:05+00:00"
   },
   {
-    "id": "ccac659d-06bb-4968-b8db-e7904aaf2201",
+    "id": "bb6d266b-904e-469e-9e18-d31530f9467e",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Hong Kong says regulated stablecoins to launch in H2",
@@ -110,7 +110,7 @@
     "created_at": "2026-06-27T06:30:50.000Z"
   },
   {
-    "id": "206d7baf-4195-4320-9de9-b46b27df3cfa",
+    "id": "0df93c4e-647f-4c83-84f2-21f081254a70",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 CryptoQuant CEO Ki Young Ju says Bitcoin does not look close to a cycle bottom, noting that every major cycle has seen its price touch the realized price before bottoming — something that hasn't happened yet.",
@@ -238,25 +238,5 @@
     "url": "https://t.me/CoinnessGL#e31c9038",
     "author": "@CoinnessGL",
     "created_at": "2026-06-27T03:20:38+00:00"
-  },
-  {
-    "id": "2d7ff1bb-8e75-4196-86e4-198eb93e2753",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-    "summary": "1. Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum.",
-    "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-06-27T02:47:59.000Z"
-  },
-  {
-    "id": "d4aebae2-710a-4b19-b7c9-119eddf17a11",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": " MoneyGram CEO on rolling out MGUSD to its 60 million users, globally",
-    "summary": "1. MoneyGram has been quietly building on blockchain for over five years.\n2. Now, with its own stablecoin (MGUSD), a Kraken partnership, a validator seat on the Tempo network, and $2B+ in stablecoin settlements already running — the pace is accelerating.",
-    "url": "https://thedefiant.io/converge/podcast/moneygram-ceo-on-rolling-out-mgusd-to-its-60-million-users-globally",
-    "author": "Chris Storaker",
-    "created_at": "2026-06-27T02:47:16.000Z"
   }
 ]
