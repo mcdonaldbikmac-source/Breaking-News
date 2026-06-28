@@ -1,13 +1,63 @@
 [
   {
-    "id": "0aa7a81e-f0a4-4324-b1d9-0bac090eb0dc",
+    "id": "0064d784-00ce-4aa6-9bf3-b3b6e5a57041",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Araghchi says Iran alone controls the Strait of Hormuz over the next 30 daysTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#dd6bc737",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-28T11:58:24.606Z"
+  },
+  {
+    "id": "a0fa46f2-8774-4f3c-9a8c-3f33b6ff8040",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor hints at buying more Bitcoin.\"We're gonna need more charts.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#c4d5d05c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-28T11:39:05+00:00"
+  },
+  {
+    "id": "dccf7e63-7887-4792-ab90-f8c03a778feb",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "U.S. MILITARY CONDUCTS STRIKES IN THE STRAIT OF HORMUZ AREA | PER AXIOSCENTCOM says US aircraft struck Iranian missile and drone storage sites and coastal radar after Iran hit the Singapore-flagged Ever Lovely with a drone yesterday as it exited Hormuz. CENTCOM calls Iran’s attack on commercial shipping a clear ceasefire violation, and says US forces are still coordinating safe passage for vessels and will keep enforcing the agreement.DevelopingTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#20eb4cb1",
     "author": "@SolidIntelX",
-    "created_at": "2026-06-28T09:21:27.351Z"
+    "created_at": "2026-06-28T11:33:00+00:00"
+  },
+  {
+    "id": "4ea6ac3f-16ba-4afe-bd0f-2d34132f6c95",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 CZ says it will \"probably take 50-70 years\" for crypto regulations to fully mature, since the industry is still early and regulation evolves slowly.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#eddfea56",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-28T11:20:21+00:00"
+  },
+  {
+    "id": "34394264-089c-4927-976f-0a48e5b8ab89",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "If you bought your first coin this month, you're one of us now.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4e1c3611",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-28T10:00:19+00:00"
+  },
+  {
+    "id": "640765b5-c55c-454d-b6f1-1476a13a6c47",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Most on-chain tokenized-stock volume isn't where you'd guess.",
+    "summary": "BNB Chain is #1 at $787M, ahead of Solana ($446M) and Ethereum ($68M).Holders are clustering there too, around 50k of Ondo's already sit on BNB, and it's the chain underneath Binance's bStocks.Report:",
+    "url": "https://t.me/CoinMarketCapAnnouncements#99187d7d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-28T09:50:21+00:00"
   },
   {
     "id": "16012050-b0de-4ccf-bc9f-7e079d9e857b",
@@ -68,95 +118,5 @@
     "url": "https://news.bitcoin.com/esma-tells-unauthorized-crypto-firms-to-wind-down-as-mica-deadline-hits-in-3-days/",
     "author": "Kevin Helms",
     "created_at": "2026-06-28T06:30:09.000Z"
-  },
-  {
-    "id": "68c6f7c0-be4e-4ab5-88d3-f1614e009d36",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Certik Joins XDC Network as Validator to Strengthen Trade Finance Infrastructure",
-    "summary": "1. Web3 security firm Certik has signed a memorandum of understanding to become an institutional masternode validator for the XDC Network.\n2. Hybrid Architecture and Security Controls Web3 security firm Certik has joined the XDC Network as an institutional masternode validator under a newly signed memorandum of understanding, the companies announced.\n3. Under the agreement, Certik will deploy […]",
-    "url": "https://news.bitcoin.com/certik-joins-xdc-network-as-validator-to-strengthen-trade-finance-infrastructure/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-06-28T05:30:56.000Z"
-  },
-  {
-    "id": "3e6a2eb6-a470-4b42-a770-7431e23240dc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
-    "summary": "1. A “race condition” after the system was reset prevented the sequencers from catching up, causing the second outage.",
-    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-28T05:14:05.000Z"
-  },
-  {
-    "id": "1ec21dbd-5b69-4421-9fe2-a0b43906d6ce",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-    "summary": "1. Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
-    "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-06-28T05:00:00.000Z"
-  },
-  {
-    "id": "3cbfd4e3-c607-436d-aaaf-764655fca29a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "How the World Cup became a victory lap for Trump ally El Tigre",
-    "summary": "1. Colombia's World Cup run has become a celebration of more than just its national team.",
-    "url": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/el-tigre-colombia-abelardo-de-la-espriella-00979212",
-    "author": "By Ali Walker",
-    "created_at": "2026-06-28T04:42:30.000Z"
-  },
-  {
-    "id": "2aa3c0cb-51d4-4dd5-b9ee-d54d9949a554",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Trump gets the complete domination he wanted in Louisiana",
-    "summary": "1. Julia Letlow, his preferred candidate, won the GOP runoff for his longtime rival Bill Cassidy’s Senate seat.",
-    "url": "https://www.politico.com/news/2026/06/28/trump-maga-louisiana-senate-victory-00979205",
-    "author": "By Liz Crampton",
-    "created_at": "2026-06-28T04:34:34.000Z"
-  },
-  {
-    "id": "ef86d2a1-446e-491b-a46e-6e06079a2332",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly made up, Fake News, largely fiction, as have been most of the things she has written about me for so many years.\n2. She is a third rate writer and intellect, who has made a first rate income because of your favorite President, ME.\n3. She was wrong about me on the Elections, although she knew I was going to win, BIG!",
-    "url": "https://trumpstruth.org/statuses/39590",
-    "author": "Trump Truth",
-    "created_at": "2026-06-28T04:22:48.000Z"
-  },
-  {
-    "id": "046477ca-0926-43e0-a5a5-03dcea191f57",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Mack to the future: Trump touts Iran deal energy boom that could boost trucking biz:",
-    "url": "https://trumpstruth.org/statuses/39583",
-    "author": "Trump Truth",
-    "created_at": "2026-06-28T03:53:25.000Z"
-  },
-  {
-    "id": "1ca9f21b-e40a-4200-aa84-80f795c20a56",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Supreme Court immigration rulings cement Trump as foremost border security guardian:",
-    "url": "https://trumpstruth.org/statuses/39584",
-    "author": "Trump Truth",
-    "created_at": "2026-06-28T03:52:55.000Z"
-  },
-  {
-    "id": "66ed69ee-33fd-45b9-b21e-18cb325c5837",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Framework Ventures Raises $400 Million Fourth Fund as Crypto VC Pushes Into AI, Robotics and Energy",
-    "summary": "1. Framework Ventures has raised $400 million for its fourth fund, an oversubscribed vehicle the crypto-focused firm plans to deploy beyond digital assets into artificial intelligence, robotics, and energy.\n2. The cofounders are betting that “frontier technology,” not crypto alone, will define the next investment cycle.\n3. [key_takeaways] Key Takeaways: Framework Ventures closed a $400 million fourth fund, […]",
-    "url": "https://news.bitcoin.com/framework-ventures-400-million-fourth-fund-ai-robotics/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-28T03:30:23.000Z"
   }
 ]
