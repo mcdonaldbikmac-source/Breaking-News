@@ -1,5 +1,365 @@
 [
   {
+    "id": "b1873d63-deac-4d5b-a346-9bb2c2244e1f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "JPMorgan's Kinexys adds 5 Asia-Pacific currencies",
+    "summary": "JPMorgan's tokenization platform, Kinexys, has expanded its blockchain payment network by adding five currencies from the Asia-Pacific region. According to CoinDesk, Kinexys, which previously supported the U.S. dollar, euro, and British pound, has now added the Australian dollar, Hong Kong dollar, Japanese yen, Chinese yuan, and Singapore dollar. This brings the total number of currencies available for institutional clients' blockchain-based payments and foreign exchange transactions to eight.",
+    "url": "https://t.me/CoinnessGL#763da77f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-29T15:58:51+00:00"
+  },
+  {
+    "id": "c6dbb25a-5701-4d01-b8d7-fa8257f1b5c3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Strategy CEO Phong Le says the company is \"evolving from one-way capital issuance to active capital management,\" issuing securities when capital is attractive and repurchasing when buybacks are accretive.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1d329bf1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-29T15:55:58+00:00"
+  },
+  {
+    "id": "97fcf37f-b1b5-4d58-8c0b-21235d727702",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "MiCA grace period end may force 10M EU users to new platforms",
+    "summary": "Alex Fazel, chief partnership officer at crypto trading and analysis app SwissBorg, said that over 10 million users in the European Union may need to find new platforms as the grace period for the Markets in Crypto-Assets (MiCA) regulation ends on July 1. In an interview with CoinDesk, he stated that users of exchanges discontinuing services will be the most immediately affected. Fazel stressed that when a platform scales back its services, users must absorb the full impact, comparing them to tenants evicted by a landlord without notice. Pointing to recent deposit and transfer incentive promotions by Coinbase and OKX to attract new users, Fazel advised that users should choose a platform built to last. He explained that while price is important, factors like the platform's culture, security, practical features, and community should all be considered. Fazel concluded that incentives disappear, but a reliable home does not. more:",
+    "url": "https://t.me/CoinnessGL#573af89b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-29T15:54:31+00:00"
+  },
+  {
+    "id": "2185a5dd-2314-41e9-93fe-442f732b7015",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+    "summary": "1. Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin.\n2. Here’s what you need to know.",
+    "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-29T15:54:02.000Z"
+  },
+  {
+    "id": "d8582003-96df-4487-80d5-76fa3130195d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Zano Hard Fork 6 Targets Block 3,833,000 and a Broader Exchange Footprint",
+    "summary": "1. Zano has set block 3,833,000 as the on-chain activation height for Hard Fork 6, expected to go live between Aug.\n2. 25 and 27, 2026, giving network participants a concrete deadline to prepare for one of the project’s most consequential upgrades.\n3. What Hard Fork 6 Adds The centerpiece of HF6 is Gateway Addresses, a new account-based […]",
+    "url": "https://news.bitcoin.com/zano-hard-fork-6-targets-block-3833000-and-a-broader-exchange-footprint/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-29T15:50:29.000Z"
+  },
+  {
+    "id": "929c5e32-c553-469c-b7b5-6c6bbfda31ae",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "👀 Top Crypto Fundraising Last Week1️⃣ Bitbank - $288.0M; CEX, API2️⃣ Allium -...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#42f321cb",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-29T15:45:57+00:00"
+  },
+  {
+    "id": "759da04e-54d6-4814-b203-5dcc6cc9643b",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "2007–2009—The Global Financial Crisis and the Birth of Bitcoin",
+    "summary": "1. Bitcoin Magazine\n\n2007–2009—The Global Financial Crisis and the Birth of Bitcoin\nAn excerpt from Bitcoin: The Honest Money explains how the 2007–2009 financial crisis exposed the fragility of the fiat system and set the stage for Bitcoin’s creation.\n2. This post 2007–2009—The Global Financial Crisis and the Birth of Bitcoin first appeared on Bitcoin Magazine and is written by Alex v.\n3. Frankenberg.",
+    "url": "https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin",
+    "author": "Alex v. Frankenberg",
+    "created_at": "2026-06-29T15:45:53.000Z"
+  },
+  {
+    "id": "038a206a-decd-473b-8323-0c016b566bc8",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
+    "summary": "1. The industry is moving toward fixing the private key vulnerability issue, just not evenly, Wish Wu, co-founder and CEO of Pharos, said.",
+    "url": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done",
+    "author": "Omkar Godbole",
+    "created_at": "2026-06-29T15:45:18.000Z"
+  },
+  {
+    "id": "f741e59c-14a3-4ab9-946f-47552c32f63c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "White House meets with law enforcement over CLARITY Act disputes",
+    "summary": "The White House invited law enforcement agencies opposing the CLARITY Act to a meeting on June 29, CoinDesk reported. The meeting aims to resolve disagreements over provisions for combating illicit finance, such as money laundering.The central point of contention is Section 604 of the act, known as the Blockchain Regulatory Certainty Act (BRCA). This provision would ensure that developers who create software but do not directly operate or control it are not considered money transmitters. The industry views this as an essential legal safeguard for DeFi development.Conversely, some groups, including the National Sheriffs' Association, have expressed concerns that the provision could grant overly broad immunity. In a letter sent to the Senate Banking Committee in May, they argued that mixers, tumblers, and DeFi should not receive a blanket exception. They added that while some developers are not subject to regulation, many perform activities that should fall under the Bank Secrecy Act (BSA).Patrick Witt, Executive Director of the White House Cryptocurrency Committee, has been in continuous discussions with stakeholders, including law enforcement and Wall Street financial firms, to secure the CLARITY Act's passage in the Senate.",
+    "url": "https://t.me/CoinnessGL#2f805fc5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-29T15:43:04+00:00"
+  },
+  {
+    "id": "94d61a9f-4c2d-4d6b-abaf-c98993436344",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "A \"tokenized stock\" can mean very different things.",
+    "summary": "Depending on the venue you might hold a tracker certificate, a debt note, or the actual share, with different rights, peg behavior and dividends each time.The part few people mention: almost all of them settle through the same place, Alpaca. Only Coinbase doesn't.So it's worth picking your wrapper on purpose. Full report:",
+    "url": "https://t.me/CoinMarketCapAnnouncements#78bddeb7",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-29T15:40:59+00:00"
+  },
+  {
+    "id": "f304f6d3-ef6c-4b16-80aa-69004cc2d8e1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened",
+    "summary": "1. Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.",
+    "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-29T15:33:27.000Z"
+  },
+  {
+    "id": "bca3298c-f0ce-4165-90b0-c97ca8b02183",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVOCALLY OVERRULED, greatly increasing Presidential Power at a time when it is most needed!\n2. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39618",
+    "author": "Trump Truth",
+    "created_at": "2026-06-29T15:24:48.000Z"
+  },
+  {
+    "id": "ec358d52-a996-4544-bf95-bd040070e29a",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Cook Lawsuit, having to do with her suitability in sitting on the Board of the Federal Reserve, was sent back by the Supreme Court on a strictly procedural basis, we will take appropriate action immediately to make sure that someone who has committed wrongdoing will not be making vital decisions concerning the Welfare of the United States of America!\n2. Thank you for your attention to this matter.\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39619",
+    "author": "Trump Truth",
+    "created_at": "2026-06-29T15:23:58.000Z"
+  },
+  {
+    "id": "986e6f66-5e2f-454e-b8c2-f02b928e40f0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
+    "summary": "1. Officials from the White House are said to be sitting down with law enforcement representatives who have objected to illicit-finance portions of the bill.",
+    "url": "https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-06-29T15:23:51.000Z"
+  },
+  {
+    "id": "bbe1487f-2abe-49b5-9f99-973f42420c81",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
+    "summary": "1. The bank added five Asia-Pacific currencies to its Kinexys blockchain platform, allowing institutional clients to settle payments and FX around the clock.",
+    "url": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
+    "author": "Helene Braun",
+    "created_at": "2026-06-29T15:23:36.000Z"
+  },
+  {
+    "id": "0a6cd1a8-7f93-4bfa-97ce-75a3dac52e4f",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Surprisingly, the Supreme Court declined to “review” a Fake Case brought against me by a woman I never met (Decades old celebrity photo line, standing with her husband, does not count!).\n2. I will continue the fight against this Weaponization and Lawfare Case against me, including the ridiculous claim of Defamation, with all of my power and strength.\n3. This Case is really against the United States of America, and all it stands for, and should never be allowed to happen to another President, or Candidate to be!",
+    "url": "https://trumpstruth.org/statuses/39617",
+    "author": "Trump Truth",
+    "created_at": "2026-06-29T15:16:49.000Z"
+  },
+  {
+    "id": "a91b85b6-eb98-4efe-a571-506c19e4f986",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash",
+    "summary": "1. Bitcoin Magazine\n\nStrive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash\nStrive held its Bitcoin treasury unchanged at 19,864 BTC last week, maintaining $141.7 million in cash.\n2. This post Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/strive-asst-holds-19864-btc-no-new",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-29T15:15:57.000Z"
+  },
+  {
+    "id": "e92b91c9-ac36-40a5-90b8-8c5f4cf67f6f",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
+    "summary": "1. BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.",
+    "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-06-29T15:13:16.000Z"
+  },
+  {
+    "id": "0b37fee1-c633-441f-82ef-c26158516202",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy Plays Defense, Tech Firms Push for CLARITY, And More — Weekly Recap",
+    "summary": "1. Michael Saylor looked back on Strategy’s 2022 bitcoin crisis as proof the company could survive extreme stress, while more than 1,200 tech firms pushed the Senate to pass the CLARITY Act.\n2. XRP then showed signs of changing exchange behavior as withdrawals outpaced deposits, Satoshi’s famous lost-coin quote resurfaced amid renewed scarcity debate, and Elon Musk’s […]",
+    "url": "https://news.bitcoin.com/strategy-plays-defense-tech-firms-push-for-clarity-and-more-weekly-recap/",
+    "author": "Alex Richardson",
+    "created_at": "2026-06-29T15:13:14.000Z"
+  },
+  {
+    "id": "5b49dea2-2270-4595-9a3f-d53c36c92d19",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+    "summary": "1. The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
+    "url": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-06-29T15:02:07.000Z"
+  },
+  {
+    "id": "c546b233-4c65-455e-9c20-3d8cf6c02663",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Can AI drain DeFi? Separating Claude Mythos hype from reality",
+    "summary": "1. Claude Mythos has raised concerns about AI-driven attacks on DeFi protocols.\n2. However, the same AI tools are also available to security teams, not just attackers.",
+    "url": "https://cointelegraph.com/learn/claude-mythos-defi-hacks-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Dilip Kumar Patairya",
+    "created_at": "2026-06-29T15:00:00.000Z"
+  },
+  {
+    "id": "0475916d-5431-4b27-a85e-381989ad5ae1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitmine lifts Ethereum treasury to 5.7 million ETH through ‘challenging’ weekly slide, joins Russell 1000",
+    "summary": "1. Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.",
+    "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-29T14:46:28.000Z"
+  },
+  {
+    "id": "6e123304-0850-49cd-b353-7a73fbcbc4eb",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Supreme Court blocks President Trump from removing Federal Reserve Governor Lisa Cook.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#03a1822a",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-29T14:33:16+00:00"
+  },
+  {
+    "id": "3f4b1a78-6d9b-4f8e-b8a5-b7390b03b414",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Cointelegraph",
+    "created_at": "2026-06-29T14:29:09.000Z"
+  },
+  {
+    "id": "89e2959b-99ca-4cdd-beed-46196c7c9b20",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Report: Kiwoom Securities Eyes Bithumb Stake as Korea’s TradFi-Crypto Merger Picks up Speed",
+    "summary": "1. South Korea’s Kiwoom Securities is reportedly in early negotiations to buy a stake in Bithumb through a private placement of new shares, adding a major brokerage to the list of traditional financial (TradFi) firms moving into domestic crypto infrastructure.\n2. Chosunbiz first reported the discussions on Monday.\n3. Under the proposed structure, Bithumb would issue fresh shares […]",
+    "url": "https://news.bitcoin.com/report-kiwoom-securities-eyes-bithumb-stake-as-koreas-tradfi-crypto-merger-picks-up-speed/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-29T14:24:04.000Z"
+  },
+  {
+    "id": "290cc902-59df-4a44-afa8-c2798fe46f46",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Japanese yen falls to 161.97 per dollar, its weakest level since 1986Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#3d4c4a5a",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-29T14:02:57+00:00"
+  },
+  {
+    "id": "01da5174-b60f-40ab-9466-788a3a32061c",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "summary": "1. The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-06-29T14:00:08.000Z"
+  },
+  {
+    "id": "e5dea367-9874-4e13-9747-2d02eaf33cdb",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Tom Lee's 'BitMine' buys 27,084 $ETH worth $43 million.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#fc2a871e",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-29T13:43:46+00:00"
+  },
+  {
+    "id": "91521b48-93de-4877-9c29-80942ee5e9f4",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "BYBIT WILL CEASE PROVISION OF CRYPTO TRADING SERVICES TO ALL USERS RESIDING IN THE EUROPEAN ECONOMIC AREA EFFECTIVE IMMEDIATELYImportant clarification: Bybit(dot)com will stop serving EEA residents only, redirecting users to Bybit EU GmbH, its Austria-based MiCA-licensed platform, ahead of the July 1 deadline.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#97f5e0b1",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-29T13:31:29+00:00"
+  },
+  {
+    "id": "2611fb18-55e7-4487-87fe-663ec031fda9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips",
+    "summary": "1. If you can't beat 'em, join 'em.\n2. Here are five crypto skeptics who have reluctantly embraced the opportunity of making loads of money with blockchain.",
+    "url": "https://cointelegraph.com/features/from-bitcoin-critics-to-blockchain-believers-the-5-biggest-crypto-backflips?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Christina Comben",
+    "created_at": "2026-06-29T13:30:00.000Z"
+  },
+  {
+    "id": "17a75bbd-de84-4fe0-9191-9330e7562836",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms",
+    "summary": "1. Bernstein said DraftKings' DKeX launch keeps prediction-market revenue in-house as consolidation reshapes trading and betting platforms.",
+    "url": "https://www.theblock.co/post/406520/bernstein-says-prediction-market-infrastructure-rush-could-spark-wave-of-ma-across-consumer-platforms?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-06-29T13:29:48.000Z"
+  },
+  {
+    "id": "de2693aa-daba-48e0-ac9d-7ffc4ca91499",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+    "summary": "1. Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items.",
+    "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-06-29T13:16:00.000Z"
+  },
+  {
+    "id": "cc67714b-a2a7-4c38-8d8b-4bc5fdb21efb",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "BitMine buys 27,084 $ETH last week, bringing total holdings to 5.70M ETH or 4.7% of total supplyTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#4440ffb3",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-29T12:57:56+00:00"
+  },
+  {
+    "id": "fecae66b-ac10-47a1-b01a-58ff4d7aac98",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Could Sell Up to $1.25B of Bitcoin Under 'Digital Credit Capital Framework'",
+    "summary": "1. The Bitcoin treasury firm has approved a framework for \"active capital management,\" its Chair Michael Saylor said in a statement.",
+    "url": "https://decrypt.co/372282/strategy-could-sell-up-to-1-25b-of-bitcoin-under-digital-credit-capital-framework",
+    "author": "André Beganski",
+    "created_at": "2026-06-29T12:48:39.000Z"
+  },
+  {
+    "id": "f4667c49-67e0-4297-803a-40575562375e",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Strategy (MSTR) Raises STRC Dividend, Authorizes $2B in Buybacks, and Unlocks Further Bitcoin Sales",
+    "summary": "1. Bitcoin Magazine\n\nStrategy (MSTR) Raises STRC Dividend, Authorizes $2B in Buybacks, and Unlocks Further Bitcoin Sales\nStrategy (MSTR) unveiled a new capital management framework that raises STRC's dividend to 12%, authorizes $2 billion in share buybacks, and permits limited bitcoin sales to fund reserves, dividends, debt obligations, and stock repurchases.\n2. This post Strategy (MSTR) Raises STRC Dividend, Authorizes $2B in Buybacks, and Unlocks Further Bitcoin Sales first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/strategy-mstr-strc-dividend-authorizes-2b",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-29T12:48:15.000Z"
+  },
+  {
+    "id": "3f4d9e16-dd24-4462-9a99-ce393fcbd3fd",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor's 'Strategy' launches a Bitcoin Monetization Program that allows the company to sell $BTC to fund operations.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#361b62e2",
+    "author": "@WatcherGuru",
+    "created_at": "2026-06-29T12:10:39+00:00"
+  },
+  {
     "id": "4b0ef82a-6e34-4bc1-8e5b-066f393a3e5d",
     "source": "@SolidIntelX",
     "type": "telegram",
@@ -158,105 +518,5 @@
     "url": "https://t.me/CoinnessGL#7116a53e",
     "author": "@CoinnessGL",
     "created_at": "2026-06-29T09:59:15+00:00"
-  },
-  {
-    "id": "689cc57d-3236-4569-a3c9-55bab50c4e18",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "BTC price RSI prints key 2026 signal: Five things to know in Bitcoin this week",
-    "summary": "1. Bitcoin prepped an \"interesting\" RSI divergence into the Q2 and June candle close as analysis compared $60,000 to the $30,000 mark in the 2022 bear market.",
-    "url": "https://cointelegraph.com/markets/btc-price-rsi-prints-key-2026-signal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-06-29T09:55:20.000Z"
-  },
-  {
-    "id": "2d91c26e-71d9-4d06-8296-83c7d531032b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "India’s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report",
-    "summary": "1. India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengaluru crypto firms reportedly disrupted stablecoin supply.",
-    "url": "https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-06-29T09:49:21.000Z"
-  },
-  {
-    "id": "621152d5-8f6a-4c8d-8bbe-d8fa37d2a40f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin falls into a technical no man’s land as major support levels sit miles away",
-    "summary": "1. Bitcoin is trading below key technical and onchain valuation levels, with historical bear market patterns suggesting a potential bottom closer to $45,000.",
-    "url": "https://www.coindesk.com/markets/2026/06/29/bitcoin-falls-into-a-technical-no-man-s-land-as-major-support-levels-sit-miles-away",
-    "author": "James Van Straten",
-    "created_at": "2026-06-29T09:40:18.000Z"
-  },
-  {
-    "id": "e5a11dce-3bc7-4454-9826-0b1caca3eebf",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US and Iran Agree to Halt Strikes Again, Talks Set to Take Place in Qatar This Week",
-    "summary": "1. and Iran have agreed to stop attacking each other and will meet this week in Qatar to resolve a dispute over the Strait of Hormuz, easing a geopolitical flashpoint that has whipsawed bitcoin and oil prices throughout the year.\n2. A Fragile Truce Over a Critical Waterway The United States and Iran have agreed […]",
-    "url": "https://news.bitcoin.com/us-iran-halt-strikes-strait-of-hormuz-qatar/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-29T09:30:21.000Z"
-  },
-  {
-    "id": "66862e96-bb4f-4bd1-9e17-8992b579876a",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Global central banks say crypto stablecoins are strengthening the dollar rather than being an alternative to fiat.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#6f5f75fd",
-    "author": "@WatcherGuru",
-    "created_at": "2026-06-29T09:03:44+00:00"
-  },
-  {
-    "id": "771eeefb-1d9a-46c5-8eb6-68c4d44adf58",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
-    "summary": "1. Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in negotiations make passage less likely than several weeks ago.",
-    "url": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-29T08:41:29.000Z"
-  },
-  {
-    "id": "5bcb42ea-e752-453e-a452-75fea3ae0641",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US-Iran peace talks scheduled for this week in Switzerland have been canceled due to renewed fightingTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#e070e0f4",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-29T08:38:14+00:00"
-  },
-  {
-    "id": "551c4cf7-e300-4651-8cc4-57a1a475a377",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘I Don’t Think They Need Me’: CZ Rules Out Return as Binance CEO",
-    "summary": "1. Binance founder Changpeng “CZ” Zhao said he has no intention of returning as chief executive of the world’s largest cryptocurrency exchange, telling an interviewer that the company no longer needs him at the helm.\n2. From the Top Job to the Sidelines Changpeng Zhao, the billionaire who built Binance into the world’s largest cryptocurrency exchange, has […]",
-    "url": "https://news.bitcoin.com/cz-rules-out-binance-ceo-return/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-29T08:30:08.000Z"
-  },
-  {
-    "id": "ddc4d0e9-7780-4fb4-8f3b-0ce96635c1b1",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Trump Holds Up CBDC Ban Through 2030 as He Demands a Voter-ID Law",
-    "summary": "1. President Donald Trump is reportedly withholding his signature from a sweeping housing bill that would bar the Federal Reserve from issuing a central bank digital currency (CBDC) through 2030, tying the measure to a separate voter-eligibility law that the Senate has already rejected.\n2. A Bipartisan Ban Caught in a Standoff The 21st Century ROAD […]",
-    "url": "https://news.bitcoin.com/trump-holds-up-cbdc-ban-through-2030-as-he-demands-a-voter-id-law/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-29T07:31:23.000Z"
-  },
-  {
-    "id": "05908e56-3160-4cbb-9731-2dca366f2b73",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "summary": "1. A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "author": "OpenAI",
-    "created_at": "2026-06-29T07:00:00.000Z"
   }
 ]
