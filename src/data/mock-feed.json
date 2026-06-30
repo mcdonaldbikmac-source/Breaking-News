@@ -1,5 +1,295 @@
 [
   {
+    "id": "bcd53a93-8b07-4476-a48e-783dfd0fd263",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Circle slides 8% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+    "summary": "1. Open Standard's Open USD aims to let partners keep reserve income and eliminate minting fees, challenging Circle's USDC.",
+    "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-06-30T14:32:33.000Z"
+  },
+  {
+    "id": "1b8c4bd9-4b26-4e45-b8c2-8cc5d883caa7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "New wallet stakes $9.29M in ETH after withdrawing from Binance",
+    "summary": "A new wallet has withdrawn 5,926 ETH (approx. $9.29 million) from Binance and staked the funds, according to Onchain Lens.",
+    "url": "https://t.me/CoinnessGL#20cc30fd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-30T14:22:35+00:00"
+  },
+  {
+    "id": "be231b97-92c9-41d5-b68a-72e4ddf73248",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "UAE-Based Goldman Lampe Private Bank Acquires $137 Million in Bitcoin",
+    "summary": "1. Bitcoin Magazine\n\nUAE-Based Goldman Lampe Private Bank Acquires $137 Million in Bitcoin\nGoldman Lampe Private Bank purchased €120 million (roughly $137 million) worth of Bitcoin, the UAE-based institution announced Monday.\n2. This post UAE-Based Goldman Lampe Private Bank Acquires $137 Million in Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/goldman-lampe-bank-acquires-137m-in-btc",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-30T14:15:25.000Z"
+  },
+  {
+    "id": "4cc0e528-ad3a-48e4-860d-6771a3556a02",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Stolen $13.7M from Grinex moves to major exchanges, raising inside job fears",
+    "summary": "Funds stolen from the Russian cryptocurrency exchange Grinex in a large-scale cyberattack in April, totaling over $13.7 million, have begun to move. According to Chainalysis data, the funds appear to be moving through mixers and cross-chain bridges to major exchanges for withdrawal. Chainalysis noted it is unclear whether the activity is the work of the original hackers or an insider laundering the funds. Grinex was launched just two weeks after the sanctioned exchange Garantex shut down in March 2025 and is suspected of being a rebranded exchange using the same team and infrastructure. more:",
+    "url": "https://t.me/CoinnessGL#77d1df3a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-30T14:13:34+00:00"
+  },
+  {
+    "id": "c1e6d0e0-5549-4c6a-bbcc-2472ff9f6d5d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Wall Street firm lowers Strategy price target to $130",
+    "summary": "Wall Street financial market research firm Canaccord Genuity has lowered its price target for Strategy to $130 from $163. A Canaccord analyst noted that the company's leveraged model is vulnerable in a Bitcoin bear market, comparing it to a car that performs better in forward gear than in reverse.",
+    "url": "https://t.me/CoinnessGL#a2401c1c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-06-30T14:11:20+00:00"
+  },
+  {
+    "id": "05d55963-ae31-45a3-a581-d52407a2251c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Centrifuge Signs $807B Asset Giant New York Life for First Tokenized Bond Product",
+    "summary": "1. Centrifuge is bringing one of the largest asset managers in the world onto its tokenization platform.\n2. The company announced a partnership with New York Life Investment Management, which oversees roughly $807 billion in assets, to launch a tokenized version of its U.S.\n3. High Yield Corporate Bond Strategy.",
+    "url": "https://news.bitcoin.com/centrifuge-signs-807b-asset-giant-new-york-life-for-first-tokenized-bond-product/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-30T14:05:28.000Z"
+  },
+  {
+    "id": "f90c4bd8-5524-4c24-b1eb-be9c90d594ea",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Securitize will debut on the NYSE this Thursday under ticker SECZ after shareholders approved its merger with Cantor Equity Partners II.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6475d63d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-30T14:05:21+00:00"
+  },
+  {
+    "id": "d9c2c8a6-0008-4abb-8a30-721e534e027b",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "UK Sets Landmark Crypto Rules in Race to Become Global Hub",
+    "summary": "1. Bitcoin Magazine\n\nUK Sets Landmark Crypto Rules in Race to Become Global Hub\nThe UK unveiled its most comprehensive crypto regulatory framework yet, requiring firms to meet capital, stress-testing, and market-abuse standards while easing some stablecoin rules.\n2. This post UK Sets Landmark Crypto Rules in Race to Become Global Hub first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/uk-sets-landmark-crypto-rules-in-race",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-06-30T14:05:00.000Z"
+  },
+  {
+    "id": "ce1e3318-630f-4939-b375-c80d2a5d7557",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Accounts on Monad",
+    "summary": "1. MetaMask is packaging stablecoin yield, payments, and trading into a single self-custody account as crypto firms compete to make digital dollars more useful.",
+    "url": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad",
+    "author": "Jason Nelson",
+    "created_at": "2026-06-30T14:01:03.000Z"
+  },
+  {
+    "id": "ba9a15b3-117a-486a-b005-b8e1e2764eeb",
+    "source": "The Block",
+    "type": "rss",
+    "title": "MetaMask unveils all-in-one Money Account offerings users up to 4% APY on mUSD holdings",
+    "summary": "1. Consensys tapped Monad as Money Account's “home chain,\" and will initially use Morpho vaults to generate yield.",
+    "url": "https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "c4cd2a09-d9bc-487a-9bd7-1000b9e13dcb",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "MetaMask launches stablecoin yield account with card spending",
+    "summary": "1. MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU.",
+    "url": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "b115b3c2-380b-4d07-9a9e-446893bee920",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
+    "summary": "1. The launch reflects a broader push to make stablecoins more useful beyond trading and transfers.",
+    "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "ac10f343-dbd3-40ab-84ef-deec838c366a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+    "summary": "1. From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026.",
+    "url": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
+    "author": "TechCrunch Events",
+    "created_at": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "ae84e42a-d2a6-4f7f-ba03-fab73b1a5436",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "summary": "1. Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+    "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "f01bf3b0-9414-43b0-b802-9aff52394eff",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback",
+    "summary": "1. Sharplink bought 10,000 ETH and repurchased 2.13 million SBET shares after completing a $75 million capital raise.",
+    "url": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-06-30T13:59:18.000Z"
+  },
+  {
+    "id": "79ac2a15-7b34-4f71-8d65-177e88911ef2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "One AI story, two opposite results.TSMC is up 43% this year.",
+    "summary": "Microsoft is down 22%. Why the split? TSMC gets paid to build AI capacity, and it's sold out. Microsoft has to pay for it, guiding to about $190B in spending and posting its worst month since 2000.Same theme, opposite side of the cash flow.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#dff40999",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-30T13:45:21+00:00"
+  },
+  {
+    "id": "97b893fb-c099-4951-b68a-b05db08fad64",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "OKX launches AI marketplace for autonomous agent economy",
+    "summary": "1. OKX launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents.",
+    "url": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-06-30T13:39:39.000Z"
+  },
+  {
+    "id": "e8a24141-cf8e-4738-b0c0-edcf9d8d266d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Securitize Lists on NYSE July 2 as $400 Million SPAC Deal Finally Closes",
+    "summary": "1. Securitize shareholders cleared the final hurdle for the company’s stock market debut on June 29, 2026, voting to approve a business combination with Cantor Equity Partners II.\n2. The deal sends Securitize, a blockchain platform that converts real estate, private credit and investment funds into tradable digital tokens, onto the New York Stock Exchange (NYSE).\n3. Trading […]",
+    "url": "https://news.bitcoin.com/securitize-lists-on-nyse-july-2-as-400-million-spac-deal-finally-closes/",
+    "author": "Jamie Redman",
+    "created_at": "2026-06-30T13:35:35.000Z"
+  },
+  {
+    "id": "b0f35a5c-2ef3-4c10-9cac-f58dc6adb14a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇬🇧 The UK's FCA has published its final crypto regulatory framework, requiring trading platforms, custodians, stablecoin issuers, and staking firms to obtain authorization by February 2027.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#49c41fc3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-06-30T13:35:21+00:00"
+  },
+  {
+    "id": "085247cc-c4c2-488d-b8ed-ee70b9ebd841",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Trump’s efforts to reverse birthright citizenship may succeed with or without SCOTUS:",
+    "url": "https://trumpstruth.org/statuses/39629",
+    "author": "Trump Truth",
+    "created_at": "2026-06-30T13:31:24.000Z"
+  },
+  {
+    "id": "038fda94-f3aa-4de6-9630-5456ae1a9beb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "From Cold Storage to Action Wallet: The D’CENT × ChangeNOW Case",
+    "summary": "1. D’CENT is a South Korean hardware wallet brand that began with a focus on self-custody and secure storage.\n2. This gave the company a solid foundation, but it also raised a key question: How can a hardware-first wallet let users do more on-chain without becoming an exchange?\n3. ChangeNOW helped the wallet add exchange features directly to […]",
+    "url": "https://news.bitcoin.com/from-cold-storage-to-action-wallet-the-dcent-x-changenow-case/",
+    "author": "Media",
+    "created_at": "2026-06-30T13:30:27.000Z"
+  },
+  {
+    "id": "455310f9-49e3-4a12-8706-7bc827413784",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Tokenized securities need competition, not gatekeepers",
+    "summary": "1. Innovation thrives when investors have choices.\n2. For tokenized securities, Washington shouldn't pick winners before the market has a chance to learn what works, argues Patrick McHenry, vice chairman at Ondo Finance and former Chairman of the House Financial Services Committee.",
+    "url": "https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers",
+    "author": "Patrick McHenry",
+    "created_at": "2026-06-30T13:25:52.000Z"
+  },
+  {
+    "id": "bbf2632e-06f6-4583-a818-46055193944b",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Dozens of financial firms, including Visa, Mastercard, Stripe, BlackRock and Coinbase, are reportedly launching a new stablecoin, OUSD, with revenue shared among partnersTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#ed2d1e0e",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-30T13:24:14+00:00"
+  },
+  {
+    "id": "86a7ba9c-cd58-485c-9460-83d487368453",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
+    "summary": "1. Strategy’s new Bitcoin capital framework draws Wall Street backing from Benchmark with a $570 per share target even as traders question long-term demand risk.",
+    "url": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-06-30T13:14:47.000Z"
+  },
+  {
+    "id": "1b9ab16d-dcf2-41ed-8261-449c23dd8b29",
+    "source": "The Block",
+    "type": "rss",
+    "title": "TD Cowen slashes Strategy target to $260 on bitcoin outlook, calls new capital framework ‘constructive’",
+    "summary": "1. TD Cowen cut its Strategy price target to $260 from $400 on a lower bitcoin forecast, while calling its new capital framework \"constructive.\"",
+    "url": "https://www.theblock.co/post/406710/td-cowen-slashes-strategy-target-to-260-on-bitcoin-outlook-calls-new-capital-framework-constructive?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-06-30T12:31:02.000Z"
+  },
+  {
+    "id": "8087dd54-9050-4c12-9127-ffa58c809a32",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: A Change of Strategy",
+    "summary": "1. Michael Saylor's Strategy is rolling out some major changes to how it handles Bitcoin going forward.\n2. And so far, the market likes it.",
+    "url": "https://decrypt.co/372411/morning-minute-a-change-of-strategy",
+    "author": "Tyler Warner",
+    "created_at": "2026-06-30T12:13:27.000Z"
+  },
+  {
+    "id": "1bb596f2-602b-4130-b825-b6bbbcbdccc7",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "BlackRock transfers 4,984.5 $BTC ($294M) and 30,725 $ETH ($48.7M) to Coinbase PrimeTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#c4a0a8db",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-30T11:11:33+00:00"
+  },
+  {
+    "id": "219668bb-be0e-41b5-a6a4-28ea45c1e4ef",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "SK Hynix files for a Nasdaq IPO targeting up to $29.6BThe company plans to use the proceeds to expand chip production in South Korea and buy EUV lithography equipment for advanced semiconductor manufacturing.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#a889c91b",
+    "author": "@SolidIntelX",
+    "created_at": "2026-06-30T11:00:17+00:00"
+  },
+  {
+    "id": "356db3ee-f7f9-4909-86f3-28d9706a2241",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
+    "summary": "1. The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
+    "url": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub",
+    "author": "Decrypt Agent",
+    "created_at": "2026-06-30T10:58:51.000Z"
+  },
+  {
     "id": "21561ca6-579d-4746-8acc-1a52bf8c7ce2",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -118,155 +408,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#9b79ad86",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-06-30T08:50:26+00:00"
-  },
-  {
-    "id": "a0afa62f-4f8f-4bba-9381-4fbee2383d36",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "UK Unveils Final Crypto Rulebook as FCA Cuts Stablecoin Capital Floor",
-    "summary": "1. The U.K.’s Financial Conduct Authority published its final cryptoasset rulebook on June 30, lowering the capital floor for stablecoin issuers to 1% of issued value as it set an October 2027 deadline for firms to win authorization.\n2. A Landmark Framework Lands The Financial Conduct Authority (FCA), Britain’s financial regulator, on June 30 finalized a sweeping […]",
-    "url": "https://news.bitcoin.com/uk-fca-final-crypto-framework-stablecoin-capital/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-30T08:30:58.000Z"
-  },
-  {
-    "id": "946f04b8-7264-4b0d-b055-c63e3e484731",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot",
-    "summary": "1. The Celsius-linked Bitcoin miner is seeking a Nasdaq direct listing as it repurposes mining infrastructure for AI and high-performance computing workloads.",
-    "url": "https://cointelegraph.com/news/ionic-digital-nasdaq-direct-listing-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-06-30T08:16:46.000Z"
-  },
-  {
-    "id": "61483113-ecfa-4532-af6d-8ce02970e398",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Senate Leaders Race to Pass CLARITY Act in July as Lummis Touts Consumer Safeguards",
-    "summary": "1. Senate Republican leaders are pushing to pass the Digital Asset Market Clarity (CLARITY) Act in July, with roughly four weeks before a monthlong recess, even as Senator Cynthia Lummis insists the bill protects consumers while clearing the way for responsible innovation.\n2. The Clock Is Ticking Senate Banking Committee Chairman Tim Scott (R-SC) and Senate Majority […]",
-    "url": "https://news.bitcoin.com/clarity-act-senate-july-push-lummis-consumer-protection/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-06-30T07:34:03.000Z"
-  },
-  {
-    "id": "9275a065-27d5-4162-b9ba-3c96df56cdaf",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US gross federal debt has surpassed 120% of GDP, its highest level on recordTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#5d393a11",
-    "author": "@SolidIntelX",
-    "created_at": "2026-06-30T07:21:37+00:00"
-  },
-  {
-    "id": "2d42afce-6f25-44cd-a17b-4a101cc7ccc3",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
-    "summary": "1. Bitcoin’s price has shown an unusually strong negative 52-week correlation with the dollar-yen exchange rate.",
-    "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory",
-    "author": "Omkar Godbole",
-    "created_at": "2026-06-30T07:14:40.000Z"
-  },
-  {
-    "id": "c0856836-2b04-45ff-b6e6-36f1352c180a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles",
-    "summary": "1. IBIT alone shed $300 million while smaller funds absorbed some of the outflow.\n2. The selloff lands as the same AI trade that crashed Korea a week ago now powers a record quarterly rally there.",
-    "url": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-06-30T07:01:09.000Z"
-  },
-  {
-    "id": "b517a6e0-fd62-48bc-9386-505f0ccb2d0d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe ",
-    "summary": "1. Dubai lawyer Irina Heaver says European founders are flocking to the UAE for faster licensing, a dedicated crypto regulator and access to markets beyond Europe.",
-    "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
-    "author": "Olivier Acuna",
-    "created_at": "2026-06-30T06:30:00.000Z"
-  },
-  {
-    "id": "b9db1705-307d-4dc9-9ed4-8c042dc12730",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Australia’s crypto travel rule is coming into effect: Here’s what's changing",
-    "summary": "1. From July, crypto exchanges operating in Australia will prompt for additional information on all outgoing and incoming transfers.",
-    "url": "https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-30T06:29:02.000Z"
-  },
-  {
-    "id": "ab916cd0-3bca-496b-82cb-d83dd7180fe9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto",
-    "summary": "1. Guo was arrested in 2023 for orchestrating a more than $1 billion fraud conspiracy involving cryptocurrency.",
-    "url": "https://www.theblock.co/post/406639/chinese-billionaire-sentenced-30-years?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-06-30T05:46:32.000Z"
-  },
-  {
-    "id": "02d3d510-1098-431c-85e2-533e5db1d3d4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Sovereign wealth funds are accumulating spot Bitcoin, says UAE exchange CEO",
-    "summary": "At least one, and possibly two, sovereign wealth funds are currently accumulating spot Bitcoin (BTC), according to Basil Al Askari, CEO of Abu Dhabi-based crypto exchange MidChains. Speaking on a podcast, he noted that the current price is viewed as a suitable entry point for large institutions to make phased purchases of BTC with a long-term perspective, Cointelegraph reported. Al Askari added that while prices are unlikely to surge in the short term, the accumulation by these funds could serve as a signal to encourage other institutional investors to enter the market.",
-    "url": "https://t.me/CoinnessGL#be0cfa82",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-30T04:11:12+00:00"
-  },
-  {
-    "id": "e5e44081-6a4a-4161-a99f-ca50b59695d4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
-    "summary": "1. Bitmine purchased about $43 million worth of Ether last week as it entered the Russell 1000 Index, bringing it closer to its goal of owning 5% of ETH’s supply.",
-    "url": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-06-30T04:03:33.000Z"
-  },
-  {
-    "id": "584959c9-a9fd-4327-995f-d8615e7da2d3",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The AI jobs debate just got messier",
-    "summary": "1. A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%.\n2. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-06-30T04:01:00.000Z"
-  },
-  {
-    "id": "64f44464-f25f-4266-a89d-7a57e1688c10",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot Bitcoin ETFs see $231M net outflow, marking 8th straight day",
-    "summary": "U.S. spot Bitcoin ETFs recorded a net outflow of around $231 million (357.7 billion won) on June 29, marking the eighth consecutive day of net outflows, according to data from Farside Investors.- BlackRock's IBIT: $300.4 million net outflow- Fidelity's FBTC: $3.9 million net outflow- Ark Invest's ARKB: $50 million net inflow- VanEck's HODL: $3.8 million net inflow- Morgan Stanley's MSBT: $7.3 million net inflow- Grayscale's GBTC: $35.1 million net inflow- Grayscale's Mini BTC: $22.9 million net outflow",
-    "url": "https://t.me/CoinnessGL#b32e999a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-30T03:58:17+00:00"
-  },
-  {
-    "id": "ae5bef96-62c1-4542-bf7e-8c9d290d348b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot ETH ETFs see 8th straight day of outflows",
-    "summary": "U.S. spot Ethereum ETFs recorded a net outflow of $29.9 million on June 29, marking the eighth consecutive day of net outflows, according to data from Farside Investors. The detailed flows included a $5.9 million inflow for BlackRock's ETHA, a $37.5 million outflow for Fidelity's FETH, a $5.3 million inflow for Bitwise's ETHW, a $2.1 million inflow for Grayscale's ETHE, and a $5.7 million outflow for Grayscale's Mini ETH.",
-    "url": "https://t.me/CoinnessGL#6fedfd6f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-06-30T03:57:36+00:00"
-  },
-  {
-    "id": "756057b7-6c6e-4f6f-8a7d-104f48a24acc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Sovereign funds see Bitcoin discount as entry point: MidChains CEO",
-    "summary": "1. It sends “a very clear signal” to other institutions that may be sitting on the sidelines and looking at these larger funds as leaders, said MidChains CEO Basil Al Askari.",
-    "url": "https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-06-30T03:53:34.000Z"
   }
 ]
