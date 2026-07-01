@@ -1,5 +1,385 @@
 [
   {
+    "id": "937a84c9-dc4a-4105-94e8-d5fd0bb04864",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Bay Area transit systems can't afford to park the bus",
+    "summary": "1. BART, Caltrain and Muni are playing for a win today, counting on soccer fans to help win over local voters ahead of a transit-funding tax vote.",
+    "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bay-area-transit-world-cup-bart-muni-caltrain-ballot-measure-00983840",
+    "author": "By Will McCarthy",
+    "created_at": "2026-07-01T17:15:00.000Z"
+  },
+  {
+    "id": "332a7ffa-cfee-49dd-9c10-7e9d6775e854",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Even Honda is pivoting to data centers",
+    "summary": "1. Honda wants in on the lucrative energy storage market.\n2. This week it began producing batteries destined for data centers, not driveways.",
+    "url": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+    "author": "Tim De Chant",
+    "created_at": "2026-07-01T17:13:45.000Z"
+  },
+  {
+    "id": "3b9e8a46-cece-4195-8bdb-12ffd9f10a73",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Binance and Anchorage Digital Launch Off-Exchange Settlement for Institutional Traders",
+    "summary": "1. Binance and Anchorage Digital launched an off-exchange settlement integration on Tuesday, letting institutional traders access Binance's liquidity while keeping assets in Anchorage's custody through Atlas, Anchorage's settlement infrastructure suite.",
+    "url": "https://thedefiant.io/converge/cefi/binance-anchorage-digital-off-exchange-settlement-institutional-traders",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-01T17:12:26.000Z"
+  },
+  {
+    "id": "422683ab-8760-4ac1-a21f-9ae31903c797",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Drift Protocol Rebrands to Velocity DEX Ahead of Relaunch",
+    "summary": "1. Solana perpetuals exchange Drift Protocol has rebranded to Velocity DEX, with a private beta planned in the coming days as the platform rebuilds after a $295M April exploit.",
+    "url": "https://thedefiant.io/news/defi/drift-protocol-rebrands-to-velocity-dex-ahead-of-relaunch",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-01T17:10:03.000Z"
+  },
+  {
+    "id": "eeb05fb2-aae9-4279-a17b-3c15e907689c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto ATM bans, restrictions now in effect in Tennessee and Georgia",
+    "summary": "1. Crypto ATM's are fast disappearing in the US as Tennessee’s ban goes into effect today while operators in Minnesota have until Aug.\n2. 1 to comply with a similar law.",
+    "url": "https://cointelegraph.com/news/crypto-atm-bans-restrictions-tennessee-georgia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-01T17:06:32.000Z"
+  },
+  {
+    "id": "967460cc-d167-4c0e-8075-8d2ffc46d4c4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "WhiteBIT Introduces TradeFi as Demand Grows for Multi-Asset Trading",
+    "summary": "1. New TradeFi category launches with 45+ perpetual pairs linked to price movements across commodities, equities, and ETFs* within crypto interface WhiteBIT, the largest European cryptocurrency exchange by traffic, has announced the launch of TradeFi — a new market category designed to give users the opportunity to trade traditional financial instruments just like crypto.\n2. The new […]",
+    "url": "https://news.bitcoin.com/whitebit-introduces-tradefi-as-demand-grows-for-multi-asset-trading/",
+    "author": "Media",
+    "created_at": "2026-07-01T17:06:18.000Z"
+  },
+  {
+    "id": "659ded39-7791-4093-89db-3ea7d433d2f2",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. How the Republican Senate is not firing the Parliamentarian, who was appointed by Radical Left Senator Harry Reid, and Barack Hussein Obama, is beyond me!\n2. She has been ruling unfairly against Republicans for years, and Majority Leader John Thune has the right to do it, immediately.\n3. FIRE THE PARLIAMENTARIAN NOW!",
+    "url": "https://trumpstruth.org/statuses/39657",
+    "author": "Trump Truth",
+    "created_at": "2026-07-01T16:56:26.000Z"
+  },
+  {
+    "id": "47429076-4a3e-4d9d-b2ce-d669eb5ec3db",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Anchorage Digital brings off-exchange settlement to Binance",
+    "summary": "1. The integration addresses one of the biggest obstacles keeping institutional capital on the sidelines of crypto markets: exchange counterparty risk.",
+    "url": "https://cointelegraph.com/news/anchorage-digital-expands-binance-access-with-off-exchange-settlement-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-01T16:55:48.000Z"
+  },
+  {
+    "id": "484f77c3-76c4-4a70-a508-1c4a348ed76e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "A polite England-Congo encounter",
+    "summary": "1. A polite England-Congo encounter",
+    "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/england-congo-encounter-00983891",
+    "author": "By Dan Bloom",
+    "created_at": "2026-07-01T16:51:42.000Z"
+  },
+  {
+    "id": "88d40210-b2c9-4b20-bb0d-5066a6576ccc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Jefferies advises against buying the dip in Circle stock",
+    "summary": "Following a 17% plunge and subsequent 5% rebound in Circle (CRCL) stock, global investment bank Jefferies has stated it would not advise buying the dip. The initial drop was triggered by the announced launch of the OpenUSD (OUSD) stablecoin by OpenStandard, a consortium of over 140 payment and crypto firms including Visa and BlackRock.According to Jefferies, the headwinds for Circle are unlikely to ease, as the new competition could pressure USDC's supply growth and market share. The bank noted that the new competitor has a large distribution network, an advantage Circle lacked in its early days.Jefferies identified Coinbase's participation in the OpenUSD project as a particular risk. Approximately 95% of Circle's revenue comes from interest on its USDC reserves, making the company highly dependent on its largest distribution partner, Coinbase. The contract between the two firms is reportedly up for renewal in August. While Jefferies does not see Coinbase's involvement as a sign it will abandon USDC, the bank explained that the exchange promoting a rival stablecoin could impede USDC's growth.",
+    "url": "https://t.me/CoinnessGL#6c7bd14c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-01T16:51:02+00:00"
+  },
+  {
+    "id": "01bdd30d-0ea7-4da2-bc8f-a003987fb402",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rebounds to $60K on signs of slowing US inflation",
+    "summary": "Bitcoin has rebounded to the $60,000 level after dropping to $57,779, following signals of slowing inflation in U.S. economic data and ambiguous remarks from Federal Reserve Governor Kevin Warsh, Decrypt reported.The June ADP private employment figures and the ISM manufacturing index both came in below expectations, easing inflation concerns. However, Warsh did not provide clear guidance on potential interest rate hikes in July or September.According to the outlet, while spot BTC ETFs experienced their worst month on record in June with $4.5 billion in net outflows, the market is showing early signs of bottoming out. This is supported by renewed buying from long-term holders and thickening buy orders on Binance and Coinbase. The future direction of the market is expected to be determined by the results of upcoming U.S. employment data.",
+    "url": "https://t.me/CoinnessGL#e6fc68f0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-01T16:50:54+00:00"
+  },
+  {
+    "id": "8383effd-c5dc-4ce5-9720-6e3f70915815",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Zuckerberg Eyed Kalshi Buyout Before Developing Meta’s Own Prediction App",
+    "summary": "1. Meta chief executive Mark Zuckerberg approached prediction-market leader Kalshi about a takeover before ordering his own team to build a competing app, according to a new report.\n2. How a buy-then-build turned into a contested market NPR reported Monday that Zuckerberg met Kalshi co-founder and CEO Tarek Mansour last year to discuss buying the exchange as […]",
+    "url": "https://news.bitcoin.com/zuckerberg-eyed-kalshi-buyout-before-developing-metas-own-prediction-app/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-07-01T16:50:26.000Z"
+  },
+  {
+    "id": "6d18e77a-a4ef-48ff-9d99-9dd14e8a7470",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 The former CEO of Goliath Ventures faces up to 20 years in prison after pleading guilty to a $400M crypto Ponzi scheme where he used investor funds to buy homes, Lamborghinis, and Louis Vuitton bags.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6ff9c2da",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-01T16:50:21+00:00"
+  },
+  {
+    "id": "503b9ed2-8b23-4f0d-a757-d54e49ff4ee3",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+    "summary": "1. The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle.\n2. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around.\n3. The money’s flowing back, and it’s the people who lived through that first […]",
+    "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+    "author": "Theresa Loconsolo",
+    "created_at": "2026-07-01T16:48:58.000Z"
+  },
+  {
+    "id": "6bb5f965-afd9-4a78-912f-23eb4a9f3826",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price returns to $60K as US dollar strength rejects weekly high",
+    "summary": "1. Bitcoin started July with a bang, rallying above $60,000 as traders predict a relief rally as the “base case” throughout the month.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-returns-to-60k-as-us-dollar-strength-rejects-from-weekly-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-01T16:47:01.000Z"
+  },
+  {
+    "id": "97dcd546-3252-4bfd-b774-e587a8565fca",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Federal Reserve is now projected to raise interest rates this year.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5aa35376",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-01T16:45:14+00:00"
+  },
+  {
+    "id": "3c91c1ae-91f4-420e-803c-bc9bb9a5aab9",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘An honest, neutral counterpart:’ Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit",
+    "summary": "1. Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional.",
+    "url": "https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-07-01T16:44:52.000Z"
+  },
+  {
+    "id": "0c1aceb6-6f78-4966-9d98-0e8d9f1e2e62",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
+    "summary": "1. BTC recovered from local lows to $60,000 after softer U.S.\n2. jobs and factory data revived hopes the Fed's hawkish turn could be easing.",
+    "url": "https://decrypt.co/372522/bitcoin-pops-off-21-month-low-to-60k-as-soft-data-eases-rate-hike-fears",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-01T16:40:31.000Z"
+  },
+  {
+    "id": "3fc49b4a-e48a-4edf-8b9f-71977603019f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "ENS Community Member Proposes Dissolving DAO After Founder Blocks Security Council Renewal",
+    "summary": "1. Christoph Jentzsch, who wrote code for the original 2016 \"The DAO\" and now runs Tokenize.it, called for ENS DAO to wind down and revoke its own upgrade authority, a day after ENS co-founder Nick Johnson used roughly half of the protocol's active voting power to block a Security Council renewal.",
+    "url": "https://thedefiant.io/news/nfts-and-web3/ens-community-member-proposes-dissolving-dao-after-founder-blocks-security-council-renewal",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-01T16:38:00.000Z"
+  },
+  {
+    "id": "ff399231-3302-483c-b5a2-d7aaf4d2feca",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+    "summary": "1. Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
+    "url": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+    "author": "André Beganski",
+    "created_at": "2026-07-01T16:36:39.000Z"
+  },
+  {
+    "id": "55acd475-5176-4e29-b56e-430186f500cc",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls",
+    "summary": "1. The Trump administration reversed its shutdown order after weeks of talks, with Anthropic tying Fable 5's return to a new safety classifier and other moves.",
+    "url": "https://decrypt.co/372524/anthropic-bringing-claude-fable-5-back-online-us-lifts-export-controls",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-01T16:24:07.000Z"
+  },
+  {
+    "id": "ede85ce4-dcc4-4f76-948b-88af289ac6d0",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: excited to chat all things snaps with @burr.eth @plantsnft and @obringer.eth!\n\nt...",
+    "summary": "1. excited to chat all things snaps with @burr.eth @plantsnft and @obringer.eth!\n2. today 10am pst / 1pm est",
+    "url": "https://warpcast.com/farcaster/0x54685db8",
+    "author": "Farcaster",
+    "created_at": "2026-07-01T16:21:03.000Z"
+  },
+  {
+    "id": "e15ab339-bfd4-4b54-ad74-6884fbaa1d18",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ethereum Institutional Opens Doors to Banks With Zero Advisory Fees Attached",
+    "summary": "1. A group of former Ethereum Foundation staffers has launched a new nonprofit built to give banks and asset managers a single point of contact inside the Ethereum ecosystem.\n2. Ethereum Institutional debuted in 2026 as an independent organization dedicated to institutional adoption of Ethereum, its layer-2 networks, and its broader application stack.\n3. The group was incubated […]",
+    "url": "https://news.bitcoin.com/ethereum-institutional-opens-doors-to-banks-with-zero-advisory-fees-attached/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-01T16:20:06.000Z"
+  },
+  {
+    "id": "3280984e-96d9-42f2-a23e-89304fb309eb",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Micron, a truly GREAT American Company, and one of the “HOTTEST” anywhere in the World, has announced a HISTORIC $250 MILLION Investment in TRUMP ACCOUNTS.\n2. This incredible gesture, made by Micron’s fantastic CEO, Sanjay Mehrotra, will make many children extremely happy some day in the not too distant future.\n3. This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary!",
+    "url": "https://trumpstruth.org/statuses/39656",
+    "author": "Trump Truth",
+    "created_at": "2026-07-01T16:19:16.000Z"
+  },
+  {
+    "id": "73c7b295-3d63-4eff-9710-c6caa49d10e9",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits",
+    "summary": "1. Bitcoin Magazine\n\nCiti Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits\nCiti sharply lowered its 12-month Bitcoin price target to $82,000, citing collapsing ETF demand, weaker investor sentiment and delayed U.S.\n2. crypto legislation.\n3. This post Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-01T16:18:45.000Z"
+  },
+  {
+    "id": "8adb44ef-077a-4caa-8926-24aa272fa9f7",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Why Bosnia’s fans also cheer for Palestine",
+    "summary": "1. A nation that spent 25 years prosecuting its own genocide sees its history playing out in Israel’s war — while its leaders cozy up to Netanyahu.",
+    "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-palestine-cheer-israel-genocide-gaza-00983579",
+    "author": "By Una Hajdari",
+    "created_at": "2026-07-01T16:16:00.000Z"
+  },
+  {
+    "id": "de82813f-f913-4371-90bc-7da03647d4a5",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 SEC Chair Paul Atkins says the agency's \"Project Crypto\" marks \"historic steps to modernize our rules and regulations to facilitate markets’ moving on-chain.”",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#dae2cec8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-01T16:15:22+00:00"
+  },
+  {
+    "id": "a933a0d2-e3f5-460b-9f34-2aeef0d2d3f1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+    "summary": "1. The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pressure USDC's growth.",
+    "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-01T16:11:50.000Z"
+  },
+  {
+    "id": "567f037c-243a-482f-817c-eb6181e58c22",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Lime raises $167M in IPO after years of teasing a public debut",
+    "summary": "1. The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+    "url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-07-01T16:05:47.000Z"
+  },
+  {
+    "id": "57120f1d-87ac-4756-98d3-5911bea14753",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Winklevoss brothers move $60M in BTC to Gemini in possible sale",
+    "summary": "According to data from Arkham, an address believed to belong to the Winklevoss brothers, founders of the U.S. cryptocurrency exchange Gemini, has transferred BTC worth $60 million to the platform.U.Today reported, citing industry sources, that while it has not been officially confirmed whether the transfer is an attempt to sell or a portfolio rebalancing, the move is similar to previous selling patterns.",
+    "url": "https://t.me/CoinnessGL#66688885",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-01T15:59:51+00:00"
+  },
+  {
+    "id": "709eedea-db6d-4912-b188-0d5fe02952fd",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
+    "summary": "1. Forward Industries holds more SOL than the next three largest publicly traded Solana treasury companies combined.",
+    "url": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-07-01T15:53:25.000Z"
+  },
+  {
+    "id": "a1270546-0f98-4f5f-aa65-6da3ff2da6ff",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Vice President JD Vance's 2025 financial disclosure shows he holds between $250K and $500K in Bitcoin at Coinbase.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d7669271",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-01T15:40:22+00:00"
+  },
+  {
+    "id": "820e0b8f-41e2-4048-8e42-eb4f5d514058",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Solana-based prediction market app on Phantom wallet launches",
+    "summary": "1. “Prediction markets are one of the most powerful applications you can build on a high-performance blockchain,” said Solana Foundation.",
+    "url": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-07-01T15:34:21.000Z"
+  },
+  {
+    "id": "2c28b95b-8e26-469a-9427-9ccda8a46fe7",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Trump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2",
+    "summary": "1. Bitcoin Magazine\n\nTrump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2\nAmerican Bitcoin (Nasdaq: ABTC) will implement a 1-for-15 reverse stock split effective July 2, reducing its outstanding shares to about 73 million ahead of reverse split-adjusted trading beginning July 6.\n2. This post Trump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-july-2",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-01T15:29:00.000Z"
+  },
+  {
+    "id": "b324bf9f-498b-49dc-9e10-8b72790ada3e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Cantor says bitcoin bear market may be entering final stretch",
+    "summary": "1. The bank said in a note bitcoin's cycle points to a market bottom in the coming months, urging investors to focus on networks with durable value accrual.",
+    "url": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
+    "author": "Will Canny",
+    "created_at": "2026-07-01T15:11:46.000Z"
+  },
+  {
+    "id": "a89268ac-b513-462c-8094-b71dd637aeb9",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+    "summary": "1. Christopher Delgado allegedly used investor funds for a lavish lifestyle, including luxury properties and vehicles, while running a fraudulent scheme from 2023 to 2026.",
+    "url": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-01T15:06:22.000Z"
+  },
+  {
+    "id": "1cc2670e-39ab-4cd8-951c-80c4a4d71dc3",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Fed Chair Kevin Warsh says \"prices are too high.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5e78ef7b",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-01T15:06:04+00:00"
+  },
+  {
+    "id": "ecff7554-5a75-495a-a701-aa336a67747b",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "SEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape",
+    "summary": "1. Bitcoin Magazine\n\nSEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape\nSEC leaders Hester Peirce and Paul Atkins said the U.S.\n2. is moving toward clearer crypto rules and freer capital markets, with Peirce expecting the Clarity Act to pass this summer and Atkins reaffirming the Trump administration's push to make America the global crypto hub.\n3. This post SEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-01T14:56:51.000Z"
+  },
+  {
     "id": "a885cd04-809a-44de-a748-a0e833540502",
     "source": "The Defiant",
     "type": "rss",
@@ -240,7 +620,7 @@
     "created_at": "2026-07-01T13:12:41.000Z"
   },
   {
-    "id": "cbd38f57-1f89-435e-bc73-0b70c0904f62",
+    "id": "a88e60ff-7bdc-4cd1-a625-2bae88c7640c",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump says he is profiting from the presidency because the stock market is going up.@WatcherGuru",
@@ -270,7 +650,7 @@
     "created_at": "2026-07-01T12:31:07.000Z"
   },
   {
-    "id": "29f62857-d2ac-4b9e-821c-9690942121c9",
+    "id": "8adc348e-f2f5-4e55-8890-5021a5405283",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "U.S. private employers added 98,000 jobs in June, below the 118,000 forecastTwitter",
@@ -298,115 +678,5 @@
     "url": "https://news.bitcoin.com/crypto-189-million-2026-midterm-spending/",
     "author": "Shiraz Jagati",
     "created_at": "2026-07-01T11:30:56.000Z"
-  },
-  {
-    "id": "96613ca3-cbfd-43bc-b298-280c7102af7a",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Nearly 1,700 UK investors sue Binance and founder CZ, seeking at least £150M over alleged unauthorized crypto derivatives salesThe lawsuit alleges Binance illegally offered leveraged crypto products to UK retail investors between 2019 and 2020 without FCA authorization.",
-    "summary": "Binance says it will defend the claims.Twitter",
-    "url": "https://t.me/SolidIntelX#9a4dadda",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-01T11:00:57+00:00"
-  },
-  {
-    "id": "d2e93c08-3db5-4645-a850-18483d9ef335",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Village People singer Victor Willis is dead at 74.\n2. He was a great and happy guy who loved that I used his groups song, YMCA, at my Rallies.\n3. It became a “monster” hit, again, 30 years after its original launch.",
-    "url": "https://trumpstruth.org/statuses/39655",
-    "author": "Trump Truth",
-    "created_at": "2026-07-01T10:53:46.000Z"
-  },
-  {
-    "id": "23b50f00-d95b-41d8-b140-24ed5fec5e2f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto hack losses in June total $75.87M, down 7.13% from May",
-    "summary": "Crypto security firm PeckShieldAlert reported via X that 40 major hacks in the industry during June resulted in total losses of $75.87 million. The figure represents a 7.13% decrease from the $81.7 million lost in the previous month. The largest losses came from Humanity Protocol (H) at $31 million, Syscoin Bridge (SYS) at $10 million, and the JaredFromSubway.eth MEV bot at $7.5 million. Additionally, attacks on Aztec Bridge and Aztec Connect resulted in combined losses of approximately $4 million. PeckShield noted that the Humanity Protocol hacker laundered the stolen funds across multiple chains, including Bitcoin, Solana, Hyperliquid, and BNB Chain. The firm also suggested a possible link between the perpetrators of the Humanity Protocol and KelpDAO attacks, as some of the stolen funds were mixed with proceeds from the latter incident.",
-    "url": "https://t.me/CoinnessGL#f0967f52",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-01T09:45:51+00:00"
-  },
-  {
-    "id": "c385092e-fad1-4cf7-b933-4e342801e781",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Neo to introduce its own stablecoin in H2, co-founder says",
-    "summary": "Da Hongfei, co-founder of Neo (NEO), announced on X that the ecosystem will introduce its own stablecoin in the second half of the year. He also outlined other key objectives for the period, including:- Integrating Neo X brand assets and fully implementing an AI strategy- Securing support for the Neo X chain from two major centralized exchanges- Finalizing and executing a restructuring roadmap",
-    "url": "https://t.me/CoinnessGL#d03bf6ff",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-01T09:44:03+00:00"
-  },
-  {
-    "id": "e297cc2d-9e42-499f-8618-d41e1e9471d7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC spot ETFs see record $4.5B net outflow in June",
-    "summary": "U.S. Bitcoin spot ETFs saw a total of $4.5 billion in net outflows in June. According to Cointelegraph, this marks the largest monthly outflow on record. BlackRock's IBIT alone saw $3.55 billion in net outflows, accounting for 79% of the total.",
-    "url": "https://t.me/CoinnessGL#083f1ce1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-01T09:43:28+00:00"
-  },
-  {
-    "id": "40c5ebd3-274f-4e28-a6ee-ce85911f2443",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Wintermute says Bitcoin is \"advanced in the bear, but likely not the bottom,\" pointing to ongoing ETF outflows and warning AI equities have replaced crypto as the highest-beta macro trade.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#212e4060",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-01T09:40:22+00:00"
-  },
-  {
-    "id": "6799fe47-216b-4989-a9af-4bff489249ef",
-    "source": "The Block",
-    "type": "rss",
-    "title": "South Korea moves to prosecute crypto whale for alleged pump-and-dump scheme",
-    "summary": "1. The suspect allegedly inflated a token's price on overseas platforms before dumping their holdings on a domestic exchange.",
-    "url": "https://www.theblock.co/post/406834/south-korea-prosecute-crypto-whale?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-01T09:31:52.000Z"
-  },
-  {
-    "id": "3c395bd6-a94a-4b67-a851-8cbd28f740c7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Trump: $1.4 Billion in 2025 Crypto Earnings as Bitcoin, Ether, Memecoins and World Liberty Populate Filing",
-    "summary": "1. President Donald Trump reported at least $1.4 billion in cryptocurrency-related earnings for 2025 in his latest federal financial disclosure, with memecoin royalties and token sales from his family’s crypto venture driving the bulk of the haul.\n2. A Record Crypto Payday in Trump’s First Year Back in Office The figures cover 2025, the first year of […]",
-    "url": "https://news.bitcoin.com/trump-2025-crypto-earnings-disclosure/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-01T09:30:40.000Z"
-  },
-  {
-    "id": "62364708-6129-4153-840c-881ddf2df8e5",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🎉 50% off the CoinMarketCap Pro-API (7 days only)💸 Open to everyone, on any...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#9dc75588",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-01T09:28:34+00:00"
-  },
-  {
-    "id": "a2a6032b-3816-4b2f-9204-d9b50833d1e2",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin ETFs lose record $4.5B in June, eclipsing Strategy's $1.25B raise",
-    "summary": "1. US spot Bitcoin ETFs logged a record $4.5 billion in June outflows, pushing year-to-date totals to $5.5 billion, signaling an unprecedented pace of withdrawals.",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-4-5-billion-outflow-june-worst-on-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-01T09:22:09.000Z"
-  },
-  {
-    "id": "34e22cbf-d8b8-474a-9ca7-300f1a6a7ae4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Which token launch are you looking forward to?",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#adb12cb1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-01T09:05:19+00:00"
   }
 ]
