@@ -1,6 +1,116 @@
 [
   {
-    "id": "92cd58b0-6b88-4aee-a44e-7b572f044a77",
+    "id": "4efc99c4-3e0a-47e0-8a94-8895ce1c48f8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Arthur Hayes again accused of using followers for exit liquidity",
+    "summary": "BitMEX founder Arthur Hayes is facing fresh allegations of using his influence to treat his followers as exit liquidity. On-chain analyst Specter highlighted a recurring pattern where Hayes recommends a specific coin only to sell off his holdings shortly after. Specter cited HYPE, ZEC, and NEAR as primary examples, noting that Hayes sold all his positions just days after promoting the tokens. The analyst added that WLD and CARDS later followed the same pattern. This behavior allegedly repeated several times in June alone. Specter warned that Hayes is now actively promoting SYN, which could lead to another round of victims.",
+    "url": "https://t.me/CoinnessGL#f6f6c57f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-02T09:23:20+00:00"
+  },
+  {
+    "id": "bf7e3e1f-fee9-4062-b70d-4e4bcd64adc0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Standard Chartered, Circle launch USDC service for institutions",
+    "summary": "Standard Chartered has partnered with Circle to launch a USDC issuance and redemption service for institutional investors, The Block reported. The bank stated that this marks the first time a Globally Systemically Important Bank (G-SIB) has enabled clients to access USDC issuance and redemption without needing to open a direct account with Circle.",
+    "url": "https://t.me/CoinnessGL#e1b235f3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-02T09:06:26+00:00"
+  },
+  {
+    "id": "b6b4747c-406f-4f37-bd40-1707c4a9fc1c",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Metaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC",
+    "summary": "1. Metaplanet spent $222 million on the bitcoin purchase during the second quarter, translating to $78,608 per bitcoin.",
+    "url": "https://www.theblock.co/post/406999/metaplanet-bitcoin-acquisition-q2?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-02T09:00:34.000Z"
+  },
+  {
+    "id": "71a91819-dd6d-4c39-bef5-42ea8b7d813c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC",
+    "summary": "1. The Japanese firm, now the world's third largest publicly traded bitcoin holder, reported stronger Bitcoin Income Generation revenue.",
+    "url": "https://www.coindesk.com/markets/2026/07/02/metaplanet-buys-another-usd170-million-of-bitcoin-expanding-treasury-to-43-000-btc",
+    "author": "James Van Straten",
+    "created_at": "2026-07-02T08:57:20.000Z"
+  },
+  {
+    "id": "0f1e1fff-c7d6-4fa6-a5a0-5b0c1f8e850f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings",
+    "summary": "1. Metaplanet bought 2,823 Bitcoin during the second quarter, reducing its average acquisition cost to $106,500 per BTC, and reported $10.9 million in revenue from its income generation strategy.",
+    "url": "https://cointelegraph.com/news/metaplanet-buys-2823-btc-surpasses-43000-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-02T08:55:47.000Z"
+  },
+  {
+    "id": "e325fac9-0c01-4e2f-9385-ba1eaf1f492c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Citi cut its 12-month Bitcoin target to $82,000 from $112,000 and its Ethereum target to $2,240 from $3,175, citing collapsing ETF demand and stalled US crypto legislation.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f31e54c1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-02T08:50:21+00:00"
+  },
+  {
+    "id": "077aa20a-26a7-4ff2-b557-745f6a5641b9",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
+    "summary": "1. The protocol completed a multi-stage recovery that included an independent security review.\n2. The TAIKO token has surged as much as 136% in recent trading.",
+    "url": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-02T08:35:28.000Z"
+  },
+  {
+    "id": "8a6e7157-42bd-4111-830c-63bd3d2a45fb",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ionic Raises $400M as AI Revenue Tops Bitcoin Mining Ahead of Nasdaq Listing",
+    "summary": "1. Ionic Digital, the bitcoin miner formed out of the Celsius bankruptcy, filed to go public on Nasdaq after a sharp pullback in its mining operations and a rapid shift toward AI infrastructure leasing.\n2. This article first appeared in The Energy Mag.\n3. The original article can be viewed here.",
+    "url": "https://news.bitcoin.com/ionic-raises-400m-as-ai-revenue-tops-bitcoin-mining-ahead-of-nasdaq-listing/",
+    "author": "Guest Author",
+    "created_at": "2026-07-02T08:30:49.000Z"
+  },
+  {
+    "id": "37c65856-e3fe-44a5-86af-e0659f1299c9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to support IP rebranding to DATA, halt deposits and trading",
+    "summary": "South Korean crypto exchange Upbit announced that it will support the rebranding of Story (IP). Deposits and withdrawals for IP will be temporarily suspended at 5:00 a.m. UTC on July 7. Trading is scheduled to be halted at 5:00 a.m. UTC on July 8. The token's ticker will be changed from IP to DATA.",
+    "url": "https://t.me/CoinnessGL#a5c59cb2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-02T08:26:23+00:00"
+  },
+  {
+    "id": "89f023fb-82aa-4e76-9ee6-50b64c32bca2",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "OpenAI weighs 5% stake for US government amid Trump talks: FT",
+    "summary": "1. OpenAI has reportedly discussed giving the US government a 5% equity stake in early Trump administration talks as Washington tightens AI model oversight.",
+    "url": "https://cointelegraph.com/news/openai-5-percent-stake-us-government-trump-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-02T08:26:02.000Z"
+  },
+  {
+    "id": "4a1776c3-7332-4d87-ab75-54c549573613",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bernstein reaffirmed its Outperform rating on Circle with a $190 price target, even as CRCL stock fell on the launch of the 140-company OUSD stablecoin consortium.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a0a76a04",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-02T08:15:22+00:00"
+  },
+  {
+    "id": "45f44357-3d4c-4829-9cac-f5dec91ec277",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇯🇵 Metaplanet buys 2,823 Bitcoin worth $170,000,000.They now hold 43,000 $BTC worth $2.58 billion.@WatcherGuru",
@@ -40,7 +150,7 @@
     "created_at": "2026-07-02T07:48:28+00:00"
   },
   {
-    "id": "a2d21f07-97f0-43e7-82d7-afabaaaf0066",
+    "id": "82a56cf3-3315-4ea2-a3ad-16308d30e0e0",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Metaplanet added 2,823 $BTC in Q2 for roughly $221M, bringing total holdings to 43,000 $BTCTwitter",
@@ -58,6 +168,16 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#fab7bdaf",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-02T07:40:22+00:00"
+  },
+  {
+    "id": "bd63b15f-3e25-49f7-a685-9e36bc18b657",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
+    "summary": "1. Validators and the people who stake with them can now formally signal where the network should go through a new system called Solana Governance Proposals.\n2. Any validator with 100,000 SOL behind it can open one, and stakers can overrule how their validator votes.",
+    "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-02T07:15:21.000Z"
   },
   {
     "id": "40d5bad7-8851-4dd8-b01d-3afdcc3f1fa9",
@@ -110,7 +230,7 @@
     "created_at": "2026-07-02T06:20:31.000Z"
   },
   {
-    "id": "203726b7-9f1e-4510-9428-a71d56bae1c4",
+    "id": "36a6db1e-6ce6-42dd-8b53-cfc29246c883",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "OpenAI is proposing to give the US government a 5% stake in the company as part of a public wealth fund model, with talks still in early stagesTwitter",
@@ -318,35 +438,5 @@
     "url": "https://news.bitcoin.com/robert-kiyosaki-says-spiritual-mission-led-him-to-financial-education/",
     "author": "Kevin Helms",
     "created_at": "2026-07-02T03:30:50.000Z"
-  },
-  {
-    "id": "86a09b14-1aa4-4775-a823-59fd72f92ef7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Trumps’ American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
-    "summary": "1. The Trump sons' American Bitcoin hit a low on Wednesday ahead of the company’s reverse stock split, which aims to buoy shares and keep it on the Nasdaq.",
-    "url": "https://cointelegraph.com/news/trumps-american-bitcoin-sinks-ahead-of-reverse-stock-split-to-stay-listed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-07-02T02:38:34.000Z"
-  },
-  {
-    "id": "299e8143-2c10-4155-989f-02c68b8560a4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Why Bitcoin Retested $58K Despite Supportive Macro Backdrop",
-    "summary": "1. Bitcoin retreated toward $58K despite improving financial conditions, highlighting an unusual market divergence.\n2. Analysts said persistent crypto-specific selling, rather than broader macroeconomic pressure, has kept the asset disconnected from equities, Treasury yields, and gold.\n3. Why Did Bitcoin Fall While Traditional Markets Improved?",
-    "url": "https://news.bitcoin.com/why-bitcoin-retested-58k-despite-supportive-macro-backdrop/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-02T02:30:53.000Z"
-  },
-  {
-    "id": "a9d9fcf6-1b31-4c15-9f6b-f55b7e3ed69c",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month",
-    "summary": "1. Circle dropped 1% today after falling nearly 18% on Tuesday following the launch of the rival stablecoin project OUSD.",
-    "url": "https://www.theblock.co/post/406978/ark-invest-18-million-circle?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-02T02:20:24.000Z"
   }
 ]
