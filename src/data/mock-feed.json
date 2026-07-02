@@ -1,6 +1,86 @@
 [
   {
-    "id": "4efc99c4-3e0a-47e0-8a94-8895ce1c48f8",
+    "id": "759180b6-37d6-4efd-92c9-0ac3b35747e7",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT",
+    "summary": "1. The proposal aims to give the American public a financial stake in AI while easing political scrutiny of the industry.",
+    "url": "https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake",
+    "author": "James Van Straten",
+    "created_at": "2026-07-02T10:06:22.000Z"
+  },
+  {
+    "id": "4864a002-14ae-4dd3-a1f2-c9036cd42684",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
+    "summary": "1. The teenager allegedly helped to breach a luxury jeweler and demand $8 million in crypto, as part of a crew tied to $100 million in ransoms.",
+    "url": "https://decrypt.co/372665/scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-02T10:00:42.000Z"
+  },
+  {
+    "id": "fbb70fe5-84db-472b-8bb5-16199516a74c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin holds above $60,000 as yen jumps on intervention fears",
+    "summary": "1. Live markets: Bitcoin holds above $60,000 as yen jumps on intervention fears",
+    "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-02T09:42:41.000Z"
+  },
+  {
+    "id": "b63b1c82-340a-4518-9005-10e6addf062a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "OKX to list DATA for spot trading",
+    "summary": "OKX has announced that it will list DATA for spot trading starting at 1:00 p.m. UTC today.",
+    "url": "https://t.me/CoinnessGL#d803c88e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-02T09:35:36+00:00"
+  },
+  {
+    "id": "e4632f2c-523b-4aa5-a6a5-63157e1ed180",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "French Police Expand Crypto Security After 77 Kidnapping Cases Drive New Protection Push",
+    "summary": "1. French Minister of the Interior Laurent Nuñez announced a new security plan to protect cryptocurrency professionals following a sharp rise in violent crimes targeting the sector.\n2. French Minister Seeks to Reassure Industry French authorities are rolling out an expanded security initiative to counter a sharp rise in violent crimes targeting cryptocurrency professionals.\n3. Interior Minister Laurent […]",
+    "url": "https://news.bitcoin.com/french-police-expand-crypto-security-after-77-kidnapping-cases-drive-new-protection-push/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-02T09:30:50.000Z"
+  },
+  {
+    "id": "4b0bb363-aa04-4c60-be22-ff22a19535e5",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇷 Bank of Korea governor Hyun Song Shin called tokenized government bonds \"the big prize,\" saying they make collateral verification and transaction reversal far simpler than traditional systems.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#38defaf8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-02T09:30:22+00:00"
+  },
+  {
+    "id": "3bfe999e-80dd-4963-a882-4cd2d9effd7c",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 OpenAI proposes giving the US government a 5% stake worth $42.5 billion.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#6007068a",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-02T09:28:45+00:00"
+  },
+  {
+    "id": "d7718ab0-db84-477f-8485-05df770e1af5",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Taiko reopens bridge after $1.7M exploit, says users made whole",
+    "summary": "1. Taiko restored bridge transfers after replenishing asset backing and completing security fixes following an 11-day network disruption.",
+    "url": "https://cointelegraph.com/news/taiko-reopens-bridge-1-7m-exploit-users-made-whole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-02T09:28:21.000Z"
+  },
+  {
+    "id": "77a11b5b-4756-4456-b4ba-871f394e52bb",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Arthur Hayes again accused of using followers for exit liquidity",
@@ -10,7 +90,7 @@
     "created_at": "2026-07-02T09:23:20+00:00"
   },
   {
-    "id": "bf7e3e1f-fee9-4062-b70d-4e4bcd64adc0",
+    "id": "28cab733-f0a7-422a-9722-987b8830a88b",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Standard Chartered, Circle launch USDC service for institutions",
@@ -110,7 +190,7 @@
     "created_at": "2026-07-02T08:15:22+00:00"
   },
   {
-    "id": "45f44357-3d4c-4829-9cac-f5dec91ec277",
+    "id": "79ad8817-6647-415d-be94-fb06cdd97b3d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇯🇵 Metaplanet buys 2,823 Bitcoin worth $170,000,000.They now hold 43,000 $BTC worth $2.58 billion.@WatcherGuru",
@@ -150,7 +230,7 @@
     "created_at": "2026-07-02T07:48:28+00:00"
   },
   {
-    "id": "82a56cf3-3315-4ea2-a3ad-16308d30e0e0",
+    "id": "07566676-dee7-4d97-9713-2f26774d8c4b",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Metaplanet added 2,823 $BTC in Q2 for roughly $221M, bringing total holdings to 43,000 $BTCTwitter",
@@ -230,7 +310,7 @@
     "created_at": "2026-07-02T06:20:31.000Z"
   },
   {
-    "id": "36a6db1e-6ce6-42dd-8b53-cfc29246c883",
+    "id": "1f3f6513-dc31-4821-8898-7bc19a0fedc4",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "OpenAI is proposing to give the US government a 5% stake in the company as part of a public wealth fund model, with talks still in early stagesTwitter",
@@ -358,85 +438,5 @@
     "url": "https://news.bitcoin.com/bnb-chain-unveils-ai-agent-studio-with-wallets-payments-and-aws-cloud-integration/",
     "author": "Emmanuel Musa",
     "created_at": "2026-07-02T04:30:29.000Z"
-  },
-  {
-    "id": "0b7a4602-0560-4779-a9ba-68d87d7cf487",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance to temporarily suspend INJ deposits and withdrawals",
-    "summary": "Binance has announced it will temporarily suspend deposits and withdrawals for INJ starting at 1:00 p.m. UTC on July 2 to support the token's network upgrade and hard fork.",
-    "url": "https://t.me/CoinnessGL#0aa95833",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-02T04:02:50+00:00"
-  },
-  {
-    "id": "d8527d3e-1215-441b-976e-bd92da70f5f0",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Ken Burns on Trump’s America 250: ‘Washington needed no monuments’",
-    "summary": "1. Ken Burns on Trump’s America 250: ‘Washington needed no monuments’",
-    "url": "https://www.politico.com/video/2026/07/01/ken-burns-on-trumps-america-250-washington-needed-no-monuments-2115884",
-    "author": "Politico",
-    "created_at": "2026-07-02T03:59:00.000Z"
-  },
-  {
-    "id": "c9002e40-0d8f-48ad-8631-33a1aeef5f4d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitwise CIO: Large-scale BTC sale by MicroStrategy is unlikely",
-    "summary": "Bitwise Chief Investment Officer (CIO) Matt Hougan has stated that MicroStrategy (MSTR) is unlikely to engage in a large-scale sell-off of its Bitcoin holdings. He noted that the company holds approximately $49.6 billion in BTC and $2.6 billion in cash, compared to a total debt of about $6.8 billion. In his analysis, this financial position provides MicroStrategy with enough capacity to cover its preferred stock dividends for an extended period using its existing assets alone. Hougan added that while the company's new capital management framework allows for the sale of some BTC to pay dividends and interest if necessary, it does not compel multi-billion dollar sales annually. He also pointed out that in an extreme scenario, the company could temporarily suspend its preferred stock dividends, limiting the possibility of a large forced sale. Hougan suggested that if Bitcoin enters a bull market, MicroStrategy is likely to return to a net buying position.",
-    "url": "https://t.me/CoinnessGL#9240e03e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-02T03:55:01+00:00"
-  },
-  {
-    "id": "8617b8fb-f478-4727-8815-187afc60d9d6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US spot ETH ETFs see $14.8M net inflow, ending 9-day outflow streak",
-    "summary": "U.S. spot Ethereum ETFs recorded a net inflow of $14.8 million (approximately 23 billion won) on July 1, according to data from Farside Investors. The inflow marks a reversal from a nine-consecutive-trading-day streak of net outflows. BlackRock led the day's net inflow.- BlackRock ETHA: +$36.6 million- BlackRock ETHB: -$1.7 million- Fidelity FETH: -$1.6 million- Grayscale Mini ETH: -$18.5 million",
-    "url": "https://t.me/CoinnessGL#526b653c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-02T03:54:15+00:00"
-  },
-  {
-    "id": "3484d89b-e329-4224-b8f4-6ca3c9f29f9c",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Analyst warns BTC could drop further after worst June since 2022 ",
-    "summary": "1. The June close above realized price but below the 200-week moving average “signals the bear bottom is still ahead per prior cycles,” one analyst said.",
-    "url": "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-07-02T03:42:24.000Z"
-  },
-  {
-    "id": "3e0dd716-b47e-4f98-9f3e-373a8777171d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Kalshi and Polymarket’s combined volume surges 75% to $45 billion in June amid World Cup fever",
-    "summary": "1. Among the three, Kalshi saw the largest month-over-month increase in volume, growing 87.4% to $31.5 billion from $16.81 billion.",
-    "url": "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-02T03:33:21.000Z"
-  },
-  {
-    "id": "4f2ec160-5e31-4ab4-b773-d27bb8f56816",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow",
-    "summary": "1. The funding round is Venice AI’s first external capital raise since it launched in May 2024.",
-    "url": "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-02T03:31:39.000Z"
-  },
-  {
-    "id": "78ec090d-3f34-4f0f-a624-a828b54f32b6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Robert Kiyosaki Says Spiritual Mission Led Him to Financial Education",
-    "summary": "1. Robert Kiyosaki said an Indian guru’s advice led him to rethink his life’s mission, eventually prompting him to leave manufacturing and teach the financial lessons he learned from his “rich dad,” a pursuit he says grew into a global business.\n2. The Question That Changed Robert Kiyosaki’s Path Robert Kiyosaki, author of the best-selling personal finance […]",
-    "url": "https://news.bitcoin.com/robert-kiyosaki-says-spiritual-mission-led-him-to-financial-education/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-02T03:30:50.000Z"
   }
 ]
