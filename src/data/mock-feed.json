@@ -1,13 +1,73 @@
 [
   {
-    "id": "b6828329-d84a-4442-9b91-0ea630047efa",
+    "id": "7bdf45ff-ebc2-4702-97e0-dd4d8cad95b1",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "TRUMP SAYS HE WAS IN CRYPTO BEFORE IN OFFICETwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#189c601a",
     "author": "@SolidIntelX",
-    "created_at": "2026-07-03T03:52:56.989Z"
+    "created_at": "2026-07-03T05:18:58.686Z"
+  },
+  {
+    "id": "b90c1d41-cb85-4333-9c2f-ad80dbdc8776",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ether.fi proposes replacing EtherFi Cash backend with Aave V4",
+    "summary": "Ethereum restaking protocol Ether.fi has proposed adopting Aave V4 infrastructure on Optimism to enhance the financial backend of its crypto credit card, EtherFi Cash. The proposal suggests replacing the card's current Debt Manager system, which handles credit and lending, with Aave's V4 lending infrastructure, as operating its own engine has become a burden. In exchange for providing the V4 deployment source code and an operating license, Aave would receive 20% of the Reserve Factor Income. The stablecoin GHO will be added as the primary borrowable asset in this market. It could also be integrated for direct payments and deposits on the EtherFi Cash card in the future, subject to the Aave DAO's approval. EtherFi Cash is a physical card that enables Visa payments by allowing users to borrow stablecoins against their deposited interest-bearing assets.",
+    "url": "https://t.me/CoinnessGL#21bcec4d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-03T05:17:05+00:00"
+  },
+  {
+    "id": "27e94fd2-a628-4653-85a7-74d0423911b3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 IMF financial counselor Tobias Adrian says tokenization could compress multi-day settlement into near-instant transactions, reshaping global financial architecture.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c735e3f9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-03T05:10:36+00:00"
+  },
+  {
+    "id": "36e4d279-5fae-4e8d-9b18-63cbe49f86c7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+    "summary": "1. A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+    "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-07-03T05:05:00.000Z"
+  },
+  {
+    "id": "03698755-747e-450c-997d-79d0119d4d92",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "These 12-Sided Roman Bronze Objects Have Kept Their Secret Since 1739",
+    "summary": "1. First discovered in 1739, more than 100 Gallo-Roman dodecahedrons have since turned up, largely across the northwestern provinces of the Roman Empire.\n2. The hollow bronze pieces, built with 12 pentagonal faces and small spheres at each vertex, still have no agreed-upon purpose despite decades of research and dozens of competing theories.\n3. Archaeologists keep pulling the […]",
+    "url": "https://news.bitcoin.com/these-12-sided-roman-bronze-objects-have-kept-their-secret-since-1739-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-03T04:30:59.000Z"
+  },
+  {
+    "id": "e7f134d8-55a2-4a95-a800-6fab0ad357a2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "24-hour crypto futures liquidations",
+    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $102.99 million liquidated (60.89% shorts)- ETH: $156.92 million liquidated (89.38% shorts)- SNDK: $10.9 million liquidated (86.21% longs)",
+    "url": "https://t.me/CoinnessGL#ca825c6a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-03T03:59:48+00:00"
+  },
+  {
+    "id": "28d5a4df-a13f-4286-942c-896dbadc248e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "SOL, XRP, HYPE spot ETFs all record net inflows",
+    "summary": "On July 2, spot ETFs for Solana (SOL), XRP, and Hyperliquid (HYPE) all recorded net inflows.- SOL: +$2.2 million- HYPE: +$2.2 million- XRP: +$6.55 million",
+    "url": "https://t.me/CoinnessGL#f6c55f2d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-03T03:57:16+00:00"
   },
   {
     "id": "64272566-5721-4530-ba94-487fced5e9cd",
@@ -20,7 +80,7 @@
     "created_at": "2026-07-03T03:47:53+00:00"
   },
   {
-    "id": "807d580c-838e-48b7-b88e-9e8d8a7c8f67",
+    "id": "22156c52-0782-4a2c-a062-5f91411ac622",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇷🇺 Bank of Russia Governor Elvira Nabiullina says the country is ready for a Sept.",
@@ -140,7 +200,7 @@
     "created_at": "2026-07-03T02:30:20.000Z"
   },
   {
-    "id": "abf7100c-abce-4459-81f7-51149356c1b5",
+    "id": "13c8afd9-9aef-42fb-bb0d-535eee03ae0b",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇮🇪 Europol says it provided \"highly complex technical expertise and decryption resources\" to help Irish authorities recover 500 more BTC tied to drug trafficker Clifton Collins' crypto stash.",
@@ -150,7 +210,7 @@
     "created_at": "2026-07-03T02:20:36+00:00"
   },
   {
-    "id": "2f19ad92-3e91-4aea-b31c-d86423142272",
+    "id": "06624c4c-735f-4c05-897e-a1cf0c497a98",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇨🇦🇺🇸 Canada unveils plans for oil pipeline to Asia to become an \"energy superpower\" and break dependence on US.@WatcherGuru",
@@ -358,125 +418,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#a3ac1080",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-02T23:20:21+00:00"
-  },
-  {
-    "id": "3fb82f3c-38ae-49af-8724-483014e13220",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves",
-    "summary": "1. Analysts are divided on Bitcoin's next move, but there's some hope at last.\n2. Meanwhile, SharpLink has resumed buying Ether after an eight-week pause, and other market news.",
-    "url": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-07-02T23:17:47.000Z"
-  },
-  {
-    "id": "ba1fb088-46db-4718-be1c-35e60365be2a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Private space pilots are flying orbital missions for the US Space Force",
-    "summary": "1. True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S.",
-    "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-07-02T23:01:06.000Z"
-  },
-  {
-    "id": "81765cd8-181b-4290-ab60-4a99acc35ba8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 FBI Director Kash Patel purchased $100,001-$250,000 worth of Strategy stock in November 2025, per a recent financial disclosure.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4f47a997",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-02T22:45:21+00:00"
-  },
-  {
-    "id": "e1152d2b-3c34-43eb-bd83-6e4c1fd2ab76",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Nigeria’s EFCC Pushes $9.2M Crypto Fraud Case Against Alleged Scammer After Bitcoin Transfer",
-    "summary": "1. Nigeria’s Economic and Financial Crimes Commission (EFCC) has charged Usie Otukpa Osang with eight counts of fraud for his alleged role in a multimillion-dollar cryptocurrency scam.\n2. EFCC Charges Suspect Over Crypto Fraud Nigeria’s anti-corruption agency has charged a man accused of orchestrating a multimillion-dollar crypto investment scam that defrauded an Australian investor, officials announced.",
-    "url": "https://news.bitcoin.com/nigerias-efcc-pushes-9-2m-crypto-fraud-case-against-alleged-scammer-after-bitcoin-transfer/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-02T22:40:05.000Z"
-  },
-  {
-    "id": "857a751f-c29a-4d6c-8d4d-38472286e5c9",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-02T22:13:19.000Z"
-  },
-  {
-    "id": "b2dc5f98-49bc-43bd-8750-071cc5adea44",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Anchorage Digital has integrated with Lido, giving institutional clients compliant access to Ethereum liquid staking and the ability to mint wstETH.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#accd460a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-02T22:10:21+00:00"
-  },
-  {
-    "id": "957b0005-da2c-4524-8fb3-f81938dd13b5",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 President Trump says there's \"nothing illegal\" and \"nothing wrong\" with him making $1.4 billion from crypto.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#b5506858",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-02T22:06:58+00:00"
-  },
-  {
-    "id": "1d952a48-46f6-4b96-a18b-1a066aada9da",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin market cap again surpasses Samsung, SK Hynix",
-    "summary": "Bitcoin's (BTC) market capitalization has once again surpassed $1.2 trillion, overtaking that of Samsung Electronics and SK Hynix, Cointelegraph reported, citing data from the global corporate market cap ranking site Infinite Market Cap.",
-    "url": "https://t.me/CoinnessGL#d02ba206",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-02T22:06:12+00:00"
-  },
-  {
-    "id": "426603a3-c97b-46cc-bb52-c9af04ebdd98",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ripple co-founder backs venture launched by US senator's son: Report",
-    "summary": "1. While engaged in negotiations over ethics in a crypto market structure bill in Congress, Senator Kirsten Gillibrand said she had “no involvement” in her son’s derivatives exchange, backed by at least one industry figure.",
-    "url": "https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-02T22:01:25.000Z"
-  },
-  {
-    "id": "98a1a9a4-919d-4608-8604-83f99429c23b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Trump questions capital gains tax on Bitcoin if used as currency",
-    "summary": "U.S. President Donald Trump has stated that it is inappropriate to apply the same capital gains tax to Bitcoin (BTC) as other investment assets if it functions as a currency, BeInCrypto reported. Speaking to reporters on July 2, Trump questioned the validity of imposing capital gains tax on everyday payments if Bitcoin is effectively serving as money. He added that it is difficult to agree with the argument that a tax should be paid every time someone buys a coffee with BTC. Trump also emphasized that cryptocurrency is an important industry and that the U.S. must become the world leader in the field.",
-    "url": "https://t.me/CoinnessGL#ac68f468",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-02T21:59:56+00:00"
-  },
-  {
-    "id": "d1b87348-373b-496b-b4b0-417ef5dec678",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-    "summary": "1. Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing.",
-    "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-    "author": "Marina Temkin",
-    "created_at": "2026-07-02T21:57:10.000Z"
-  },
-  {
-    "id": "52d4e808-8530-4c36-980e-425b5453e495",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 President Trump says he thinks Elon Musk will donate SpaceX stock to Trump accounts.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#e214e675",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-02T21:56:19+00:00"
   }
 ]
