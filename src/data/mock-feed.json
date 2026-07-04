@@ -1,13 +1,173 @@
 [
   {
-    "id": "4a6c5436-390e-4836-8137-8a67a668a927",
+    "id": "7958d59a-266c-4d43-bab2-7d0d23dd5cbf",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "AI data centers may use far more water than reported, as Microsoft, Google and Amazon largely exclude power-related water use from disclosures | per WSJTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#8112e3f0",
     "author": "@SolidIntelX",
-    "created_at": "2026-07-04T13:48:27.285Z"
+    "created_at": "2026-07-04T16:09:20.109Z"
+  },
+  {
+    "id": "0649c526-7295-4b8e-8026-58e9a835a12a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
+    "summary": "1. Andy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.",
+    "url": "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-04T16:07:19.000Z"
+  },
+  {
+    "id": "7fd8892c-8c84-4f1e-a23d-1a3a371bd215",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Why bitcoin's disconnect from record-high stocks won't last",
+    "summary": "1. Researchers at Schwab and Hashdex said AI has diverted capital from digital assets while bitcoin continues to follow a familiar post-halving recovery pattern.",
+    "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
+    "author": "Helene Braun",
+    "created_at": "2026-07-04T16:00:00.000Z"
+  },
+  {
+    "id": "20c0fe05-d8a8-419a-9743-6d4ecc6ca349",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "summary": "1. Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "author": "Anna Heim",
+    "created_at": "2026-07-04T15:51:32.000Z"
+  },
+  {
+    "id": "2e8f2aa8-923e-4600-8328-0c8a996ef6f2",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: lol twitter has auto follow lists for new signups now",
+    "summary": "1. lol twitter has auto follow lists for new signups now",
+    "url": "https://warpcast.com/rish/0x35bc258e",
+    "author": "rish",
+    "created_at": "2026-07-04T15:49:58.000Z"
+  },
+  {
+    "id": "088af934-4e82-4360-ba56-1bb80e433970",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
+    "summary": "1. The TRUMP token is down 96% from its peak, and 85% of secondary market wallets for WLFI are underwater, reflecting a broader downturn in the sector.",
+    "url": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-04T15:30:52.000Z"
+  },
+  {
+    "id": "14285e14-6288-4b94-9f8b-823469dd9358",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "$293B Bitcoin ‘Noah Doe’ Lawsuit Faces Major Test After First Wallet Holder Files Motion to Dismiss",
+    "summary": "1. A pseudonymous bitcoin holder has become the first named defendant to challenge New York’s closely watched lawsuit seeking ownership of roughly 3.8 million BTC, as another wallet named in the case moved 500 BTC on July 2, further undermining claims the coins were abandoned.\n2. Inside the $293 Billion Bitcoin Claim The lawsuit, filed March 11, […]",
+    "url": "https://news.bitcoin.com/293b-bitcoin-noah-doe-lawsuit-faces-major-test-after-first-wallet-holder-files-motion-to-dismiss/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-04T15:30:37.000Z"
+  },
+  {
+    "id": "4aea7dcd-a18e-4ae6-90d0-db664eef1e66",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Senator Kirsten Gillibrand has proposed banning elected officials and their spouses from issuing or sponsoring memecoins.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#73f6c35c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-04T15:30:36+00:00"
+  },
+  {
+    "id": "39063fc8-e574-47e5-b016-18ba81ce7d99",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Morocco vs. Canada is a clash of diasporas",
+    "summary": "1. With 18 of 26 players born abroad, the Atlas Lions are showing how expanded eligibility rules and a bigger World Cup are rewriting who gets to play for whom.",
+    "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/morocco-starting-lineup-canada-clash-of-diasporas-dual-nationals-00987005",
+    "author": "By Zoha Qamar",
+    "created_at": "2026-07-04T15:15:00.000Z"
+  },
+  {
+    "id": "acef1f48-ff2a-4467-95dc-bb1fb3b127a3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rises above $63,000",
+    "summary": "According to CoinNess market monitoring, BTC has risen above $63,000. BTC is trading at $63,001.44 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#2043b903",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-04T15:10:28+00:00"
+  },
+  {
+    "id": "575ba640-141b-4a49-8d69-9c7c4ee7db57",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Has anyone ever seen a Happy Dumocrat?\n2. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39689",
+    "author": "Trump Truth",
+    "created_at": "2026-07-04T15:02:16.000Z"
+  },
+  {
+    "id": "e33c9c28-4a5d-47cb-a359-3f0a5c68dd8f",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: happy 4th of July! don't forget to log your dogs!",
+    "summary": "1. happy 4th of July!\n2. don't forget to log your dogs!",
+    "url": "https://warpcast.com/farcaster/0xc9932940",
+    "author": "Farcaster",
+    "created_at": "2026-07-04T14:54:20.000Z"
+  },
+  {
+    "id": "6174412c-c5ac-4de0-80b2-d655ca88d7a1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Strategy CEO says Bitcoin is a symbol of freedom",
+    "summary": "Strategy (Nasdaq: MSTR) CEO Phong Le stated on X that Bitcoin represents freedom. He likened the cryptocurrency to the \"America of money,\" explaining that just as the U.S. offered his family freedom and the American Dream, Bitcoin provides monetary freedom to individuals through its network. Le elaborated that Bitcoin applies the principles of the U.S. Constitution to currency by creating a system run by transparent rules rather than individual discretion. He added that it offers hope to those looking to protect their earnings from inflation and to people in nations without the rule of law or economic liberty.",
+    "url": "https://t.me/CoinnessGL#e396decc",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-04T14:41:06+00:00"
+  },
+  {
+    "id": "ec09e0af-36a7-4065-bee2-0b401ae94ae8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "US Money Supply Hits Record $23 Trillion as Critics See a New Fed-Fueled Bubble",
+    "summary": "1. money supply climbed to $23.05 trillion in May, the first time the Federal Reserve’s M2 gauge has ever crossed the $23 trillion mark.\n2. The record lands as critics have accused the Fed of quietly restarting stimulus.\n3. Inside the Federal Reserve’s Latest Numbers The Federal Reserve’s H.6 money stock release, published yesterday, put seasonally […]",
+    "url": "https://news.bitcoin.com/us-money-supply-record-23-trillion/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-04T14:30:17.000Z"
+  },
+  {
+    "id": "a7078288-472c-4f03-a45f-1ba1fc30b5a6",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Circle has issued $64.5B in USDC on Solana this year",
+    "summary": "Circle has issued 64.53 billion USDC on the Solana (SOL) chain this year, according to an analysis by Onchain Lens. USDC is a U.S. dollar-pegged stablecoin and the second-largest stablecoin globally by market capitalization, after USDT.",
+    "url": "https://t.me/CoinnessGL#6ddf727c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-04T14:14:15+00:00"
+  },
+  {
+    "id": "36b194dc-d86e-4be4-8c2d-e321c89ff092",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’",
+    "summary": "1. ChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange’s simple, streamlined frontend.",
+    "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
+    "author": "Decrypt Staff",
+    "created_at": "2026-07-04T14:01:03.000Z"
+  },
+  {
+    "id": "93e12876-54d4-49ea-a3b9-7bb9eee82dd3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Europe led on crypto regulation. Now implementation must match ambition",
+    "summary": "1. Europe led on crypto regulation.\n2. Now implementation must match ambition",
+    "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
+    "author": "Richard Teng",
+    "created_at": "2026-07-04T14:00:00.000Z"
   },
   {
     "id": "f56dccd6-c45b-4c32-a65a-6c98841043cb",
@@ -30,7 +190,7 @@
     "created_at": "2026-07-04T13:24:57+00:00"
   },
   {
-    "id": "672637c4-acf5-4133-a10f-84ecac441a16",
+    "id": "0820c4cd-19a3-4bfa-aacd-14b19683e312",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🤖 Tom Lee says AI agents will soon earn income for humans and could eventually become wealthier than us, arguing decentralization is a key defense against a Skynet future.",
@@ -90,6 +250,16 @@
     "created_at": "2026-07-04T12:17:22+00:00"
   },
   {
+    "id": "7fbaecaa-bf68-486b-aa3b-fb2d016dd6b4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-04T12:04:07.000Z"
+  },
+  {
     "id": "406b0e94-fffc-46d6-994e-10f8b20ecf56",
     "source": "CoinDesk",
     "type": "rss",
@@ -128,105 +298,5 @@
     "url": "https://news.bitcoin.com/rwa-incs-kevin-yunai-says-platforms-must-build-liquidity-to-unlock-320-billion-rwa-market/",
     "author": "Emmanuel Musa",
     "created_at": "2026-07-04T11:05:31.000Z"
-  },
-  {
-    "id": "8a9acabc-ec06-4b96-8799-baa28453e3a3",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "If crypto is new to you, welcome.",
-    "summary": "Your life just changed.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ad047202",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-04T10:00:34+00:00"
-  },
-  {
-    "id": "991c76c5-0b49-49e2-8f05-0d991c058ddf",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "THEA Raises $8 Million to Build Solana-Based AI Settlement Network",
-    "summary": "1. THEA has raised $8 million in strategic funding to expand its behavioral AI infrastructure and develop Thea Network.\n2. The project aims to create a trust-minimized settlement layer for AI services, using off-chain compute, Solana anchoring and zero-knowledge proofs.\n3. Maven 11 and Spartan Back THEA’s $8 Million Push Into AI Settlement Infrastructure THEA has closed an […]",
-    "url": "https://news.bitcoin.com/thea-raises-8-million-to-build-solana-based-ai-settlement-network/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-04T09:05:29.000Z"
-  },
-  {
-    "id": "7457d8c6-3b2f-40e7-89d5-595b245fcf2a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Jeffrey Huang adds to BTC and HYPE long positions",
-    "summary": "According to Hyperbot data, Jeffrey Huang, a prominent Taiwanese singer also known as Machi Big Brother, has opened additional long positions in Bitcoin (BTC) and Hyperliquid (HYPE). His current unrealized profit stands at approximately $570,000, representing a 125% return on investment (ROI).His current positions include:- A 25x leveraged long on 6,100 ETH with an average entry price of $1,668- A 40x leveraged long on 9 BTC with an average entry price of $62,519- A 10x leveraged long on 2,100 HYPE with an average entry price of $71Huang previously accumulated losses of $33.85 million from a series of leveraged position liquidations.",
-    "url": "https://t.me/CoinnessGL#40898743",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-04T08:55:54+00:00"
-  },
-  {
-    "id": "7c9386c5-0986-49cc-ba3f-247c55c27cd0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Major US sheriffs' group drops opposition to crypto clarity bill",
-    "summary": "The Major County Sheriffs of America (MCSA) has announced it is withdrawing its opposition to the Blockchain Regulatory Clarity Act (BRCA) and is adopting a neutral stance.In a letter published on July 3, the MCSA explained that discussions with the administration have clarified how the bill's provisions would be interpreted and applied. The association added, however, that it believes there is still room to further improve the legislation to support both responsible innovation and the practical needs of state and local law enforcement. The MCSA stated it will continue to consult with Congress and the administration on the matter.",
-    "url": "https://t.me/CoinnessGL#7a8efc2d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-04T08:48:10+00:00"
-  },
-  {
-    "id": "5f6ea5b4-6f79-4408-b283-16bb84c5b707",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-04T08:46:28.000Z"
-  },
-  {
-    "id": "270b033c-8755-4853-bd9d-1c8c81491dfe",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "UXLINK hacker buys 6,001 ETH, moves funds to Tornado Cash",
-    "summary": "The hacker behind the UXLINK exploit used 10.54 million DAI to purchase 6,001 ETH at an average price of $1,757 about an hour ago, according to on-chain analysis platform Onchain Lens. The funds were then transferred to the crypto mixing service Tornado Cash (TORN).",
-    "url": "https://t.me/CoinnessGL#03aa48d4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-04T08:37:24+00:00"
-  },
-  {
-    "id": "8e90fa03-6a99-492d-a9c1-d5e4b69adaea",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
-    "summary": "1. Tim Draper denies moving Bitcoin after blockchain analysts linked him to a wallet that transferred 1,000 BTC to Coinbase Prime.",
-    "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-04T08:31:02.000Z"
-  },
-  {
-    "id": "16307718-14fd-4968-a6fe-ffb1d3985e67",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Yat Siu says NFTs will come back as \"a symbol of the wealth class in crypto,\" and predicts AI agents will become NFT buyers to distinguish their identity.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#6eaeffc5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-04T08:15:36+00:00"
-  },
-  {
-    "id": "00230c63-5205-4e9b-af81-c7e340ab916d",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "BofA says US stock funds saw $17.2B in weekly outflows, the largest since March, while its sell signal remains active for a sixth weekTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#f5dacaa7",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-04T08:07:45+00:00"
-  },
-  {
-    "id": "648d1acb-9fe4-4fd9-9453-a828d222ab20",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC spot ETFs show signs of easing selling pressure",
-    "summary": "On-chain analyst Axel Adler Jr. said on X that with Bitcoin entering the late stage of a bear market, the spot ETF market is showing its first signs of easing selling pressure. On the most recent trading day, U.S. spot Bitcoin ETFs saw a total net inflow of $223 million. Fidelity's FBTC and Ark's ARKB absorbed most of these funds, with inflows of $166 million and $91.8 million, respectively. Adler noted that this net inflow suggests a potential recovery in institutional investor demand during the bear market phase.",
-    "url": "https://t.me/CoinnessGL#8285f2b2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-04T07:49:39+00:00"
   }
 ]
