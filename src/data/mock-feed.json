@@ -1,16 +1,46 @@
 [
   {
-    "id": "b19df646-b9c6-4071-88f2-cd28699e8d7f",
+    "id": "0ed58734-5a64-49d0-b70d-0c45b8d106eb",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "AI data centers may use far more water than reported, as Microsoft, Google and Amazon largely exclude power-related water use from disclosures | per WSJTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#8112e3f0",
     "author": "@SolidIntelX",
-    "created_at": "2026-07-04T08:49:59.040Z"
+    "created_at": "2026-07-04T10:57:27.782Z"
   },
   {
-    "id": "71148291-8ff4-4b53-acf8-b6a8876f574a",
+    "id": "8a9acabc-ec06-4b96-8799-baa28453e3a3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "If crypto is new to you, welcome.",
+    "summary": "Your life just changed.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ad047202",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-04T10:00:34+00:00"
+  },
+  {
+    "id": "991c76c5-0b49-49e2-8f05-0d991c058ddf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "THEA Raises $8 Million to Build Solana-Based AI Settlement Network",
+    "summary": "1. THEA has raised $8 million in strategic funding to expand its behavioral AI infrastructure and develop Thea Network.\n2. The project aims to create a trust-minimized settlement layer for AI services, using off-chain compute, Solana anchoring and zero-knowledge proofs.\n3. Maven 11 and Spartan Back THEA’s $8 Million Push Into AI Settlement Infrastructure THEA has closed an […]",
+    "url": "https://news.bitcoin.com/thea-raises-8-million-to-build-solana-based-ai-settlement-network/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-04T09:05:29.000Z"
+  },
+  {
+    "id": "7457d8c6-3b2f-40e7-89d5-595b245fcf2a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Jeffrey Huang adds to BTC and HYPE long positions",
+    "summary": "According to Hyperbot data, Jeffrey Huang, a prominent Taiwanese singer also known as Machi Big Brother, has opened additional long positions in Bitcoin (BTC) and Hyperliquid (HYPE). His current unrealized profit stands at approximately $570,000, representing a 125% return on investment (ROI).His current positions include:- A 25x leveraged long on 6,100 ETH with an average entry price of $1,668- A 40x leveraged long on 9 BTC with an average entry price of $62,519- A 10x leveraged long on 2,100 HYPE with an average entry price of $71Huang previously accumulated losses of $33.85 million from a series of leveraged position liquidations.",
+    "url": "https://t.me/CoinnessGL#40898743",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-04T08:55:54+00:00"
+  },
+  {
+    "id": "7c9386c5-0986-49cc-ba3f-247c55c27cd0",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Major US sheriffs' group drops opposition to crypto clarity bill",
@@ -30,7 +60,7 @@
     "created_at": "2026-07-04T08:46:28.000Z"
   },
   {
-    "id": "2f6865d0-5e82-47d4-aab2-03dea2ca2114",
+    "id": "270b033c-8755-4853-bd9d-1c8c81491dfe",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "UXLINK hacker buys 6,001 ETH, moves funds to Tornado Cash",
@@ -50,7 +80,7 @@
     "created_at": "2026-07-04T08:31:02.000Z"
   },
   {
-    "id": "93dfc486-4b9a-46d1-bac1-57c5265e3580",
+    "id": "16307718-14fd-4968-a6fe-ffb1d3985e67",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Yat Siu says NFTs will come back as \"a symbol of the wealth class in crypto,\" and predicts AI agents will become NFT buyers to distinguish their identity.",
@@ -60,7 +90,7 @@
     "created_at": "2026-07-04T08:15:36+00:00"
   },
   {
-    "id": "19f68759-168f-4df3-8070-09dcd4bb2b81",
+    "id": "fc8eb944-0b6f-4e46-8922-775392d18d03",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BofA says US stock funds saw $17.2B in weekly outflows, the largest since March, while its sell signal remains active for a sixth weekTwitter",
@@ -120,7 +150,7 @@
     "created_at": "2026-07-04T06:48:42.000Z"
   },
   {
-    "id": "538453c6-380a-4ba2-80e8-e780473e19db",
+    "id": "5c5a0c7f-e8e2-47e3-83bd-67c38f7a3c4e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📉 Barstool Sports founder Dave Portnoy says he is down millions on Bitcoin, saying “every time I buy it, it tanks,” but plans to hold this time even if it goes to zero.",
@@ -158,45 +188,5 @@
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph",
     "created_at": "2026-07-04T05:02:44.000Z"
-  },
-  {
-    "id": "8435724a-5f78-48eb-9f89-016bf0f0f3df",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "ESMA Warns Prediction Market Event Contracts May Fall Under EU Binary Options Ban",
-    "summary": "1. The European Securities and Markets Authority (ESMA), the EU's securities regulator, said in a statement that many prediction market event contracts may already fall within the bloc's existing ban on marketing binary options to retail investors.\n2. The regulator reminded firms they must assess whether…",
-    "url": "https://thedefiant.io/converge/regulation/esma-warns-prediction-market-event-contracts-may-fall-under-eu-binary-options-ban",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-04T04:42:51.000Z"
-  },
-  {
-    "id": "36fa49b2-a985-44e2-b527-991b02259fee",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇺 The European Securities and Markets Authority warns many prediction market event contracts may already fall under its 2018 binary options ban on retail sales.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#82646e83",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-04T03:35:37+00:00"
-  },
-  {
-    "id": "68076de3-11b3-488e-9d43-825e0a4c388f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "AI and Crypto Payments Raise New Questions for Autonomous Transactions",
-    "summary": "1. AI agents may soon begin transacting on their own, but the real tension lies in whether existing payment systems can handle machines that need programmable, always-on rails.\n2. Why Payment Infrastructure Is Becoming the Main Question AI and crypto payments are moving into the same discussion because autonomous agents may need more than intelligence to operate […]",
-    "url": "https://news.bitcoin.com/ai-and-crypto-payments-raise-new-questions-for-autonomous-transactions/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-04T03:05:45.000Z"
-  },
-  {
-    "id": "049e2a88-2a70-4dcb-91bd-5a5c2fc63ca9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "24-hour crypto perpetual futures liquidations",
-    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $70.57 million liquidated (87.84% shorts)- ETH: $94.11 million liquidated (83.01% shorts)- SOL: $11.03 million liquidated (90.42% shorts)",
-    "url": "https://t.me/CoinnessGL#32b6fffa",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-04T02:58:57+00:00"
   }
 ]
