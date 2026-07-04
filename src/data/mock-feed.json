@@ -1,462 +1,152 @@
 [
   {
-    "id": "38c78c51-14da-41b7-95f1-95d69b6588b0",
+    "id": "7ce883dd-b874-45a8-8e9b-9505354f81d3",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BofA says US stock funds saw $17.2B in weekly outflows, the largest since March, while its sell signal remains active for a sixth weekTwitter",
     "summary": "",
     "url": "https://t.me/SolidIntelX#f5dacaa7",
     "author": "@SolidIntelX",
-    "created_at": "2026-07-03T22:10:48.277Z"
+    "created_at": "2026-07-04T03:45:31.515Z"
   },
   {
-    "id": "f5dbe170-6c3c-4bd8-875c-fe477147097b",
+    "id": "e2b7304b-c7d7-4d86-8a9d-e7d0593125db",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇪🇺 The European Securities and Markets Authority warns many prediction market event contracts may already fall under its 2018 binary options ban on retail sales.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#82646e83",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-04T03:35:37+00:00"
+  },
+  {
+    "id": "68076de3-11b3-488e-9d43-825e0a4c388f",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Visa Launches Stablecoin Pilot With M-Pesa in DRC to Test Cross-Border Transfers",
-    "summary": "1. Visa, M-Pesa and Onafriq have launched a pilot program in the Democratic Republic of Congo using U.S.\n2. dollar-pegged stablecoins to settle cross-border mobile transactions.\n3. Blockchain Meets Mobile Money Financial services giant Visa, mobile money platform M-Pesa, and pan-African payments network Onafriq have launched a pilot program using stablecoins to settle cross-border mobile transactions in the […]",
-    "url": "https://news.bitcoin.com/visa-launches-stablecoin-pilot-with-m-pesa-in-drc-to-test-cross-border-transfers/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-03T21:36:03.000Z"
+    "title": "AI and Crypto Payments Raise New Questions for Autonomous Transactions",
+    "summary": "1. AI agents may soon begin transacting on their own, but the real tension lies in whether existing payment systems can handle machines that need programmable, always-on rails.\n2. Why Payment Infrastructure Is Becoming the Main Question AI and crypto payments are moving into the same discussion because autonomous agents may need more than intelligence to operate […]",
+    "url": "https://news.bitcoin.com/ai-and-crypto-payments-raise-new-questions-for-autonomous-transactions/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-04T03:05:45.000Z"
   },
   {
-    "id": "a69bd612-fa12-4fb5-a954-e5850e4b7ba6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
-    "summary": "1. Rising interest in Solana-network memecoins and prediction markets was followed by a rally in SOL price.\n2. Will the momentum continue?",
-    "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-07-03T21:36:02.000Z"
-  },
-  {
-    "id": "0fc8ae34-b238-4cf3-b4aa-7d238b4d1fea",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The only AI glossary you’ll need this year",
-    "summary": "1. The rise of AI has brought an avalanche of new terms and slang.\n2. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "created_at": "2026-07-03T21:20:00.000Z"
-  },
-  {
-    "id": "7d0c705f-bf7f-4200-9258-73a0a947480a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Spot the pol!",
-    "summary": "1. Study the photograph carefully.\n2. Only the political figure is missing.\n3. Guess who it is.",
-    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/spot-the-pol-prime-minister-locker-room-pep-talk-00986957",
-    "author": "By POLITICO Staff",
-    "created_at": "2026-07-03T21:15:00.000Z"
-  },
-  {
-    "id": "d889fb60-fe0a-4681-8287-430b569ae894",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid",
-    "summary": "1. Did Claude Fable 5 get dumber?\n2. Two benchmarks, two wildly different conclusions—and one routing layer that explains the whole mess.",
-    "url": "https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-03T21:06:03.000Z"
-  },
-  {
-    "id": "e05c6edf-8388-42ad-af19-9b8b91278ee1",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
-    "summary": "1. After President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.",
-    "url": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
-    "author": "Andrew Hayward",
-    "created_at": "2026-07-03T21:03:33.000Z"
-  },
-  {
-    "id": "77cd3709-0882-4876-8f82-222ab10d00a8",
-    "source": "@CoinMarketCapAnnouncements",
+    "id": "049e2a88-2a70-4dcb-91bd-5a5c2fc63ca9",
+    "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "🇺🇸 The National Organization of Black Law Enforcement Executives has become the first major law enforcement group to endorse the CLARITY Act.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c0eaa703",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-03T20:55:36+00:00"
+    "title": "24-hour crypto perpetual futures liquidations",
+    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $70.57 million liquidated (87.84% shorts)- ETH: $94.11 million liquidated (83.01% shorts)- SOL: $11.03 million liquidated (90.42% shorts)",
+    "url": "https://t.me/CoinnessGL#32b6fffa",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-04T02:58:57+00:00"
   },
   {
-    "id": "0e6b1d1f-00a4-4574-8cdc-5bae9f4f8c52",
-    "source": "@CoinMarketCapAnnouncements",
+    "id": "84ad86de-c90b-4bb4-a33e-04e31f06af45",
+    "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "📊 Spot Bitcoin ETFs ended H1 2026 with $5.4B in net outflows, the first net-negative half since they launched, per DWF Labs.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#6548fde5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-03T20:20:36+00:00"
+    "title": "CLARITY Act passage likely delayed past mid-August, analyst says",
+    "summary": "Despite growing optimism in the crypto market for a swift passage of the CLARITY Act in the U.S. Senate, Turkish crypto analyst Efe Bulduk has projected that a final vote is unlikely until after mid-August. In a post on X, the analyst, who has 450,000 followers, explained that the Senate is currently in a two-week official recess from June 29 to July 10, during which all legislative activity is suspended. He noted that a vote is impossible before the Senate reconvenes on July 13. Bulduk also pointed out that the Senate Agriculture and Banking Committees are still in discussions to merge their different draft versions of the bill. Furthermore, he added that if the final Senate version differs from the one passed by the House Agriculture Committee, a new committee would need to be formed for reconciliation. Bulduk concluded that the legislation is therefore likely to be delayed until after the Senate's next scheduled recess from Aug. 10 to Sept. 11.",
+    "url": "https://t.me/CoinnessGL#bd5c26fb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-04T02:48:21+00:00"
   },
   {
-    "id": "20a198c3-bef5-4585-b12f-47f0782ad34a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "How sports diplomacy for a dead empire built a World Cup underdog",
-    "summary": "1. The Jogos da Lusofonia was supposed to be junior varsity Olympics glue for ex-Portuguese colonies.\n2. Instead it seeded Cape Verde’s improbable rise.",
-    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/cape-verde-jogos-da-lusofonia-stopira-lisbon-2009-00986958",
-    "author": "By Sasha Issenberg",
-    "created_at": "2026-07-03T20:15:00.000Z"
-  },
-  {
-    "id": "7f1b067e-e5a6-4029-adcb-b555670c6918",
+    "id": "f1fcc470-40b3-46a9-a24b-6ddf07b54a65",
     "source": "Trump Truth",
     "type": "rss",
     "title": "New post from Donald Trump",
-    "summary": "1. Justin Gaethje came to the Oval Office to celebrate, with his parents, his Great Victory two weeks ago.\n2. It was one of the Highest Rated Fights in the History of Television, and what a Fight it was!\n3. Great Honor to see The Champ – He beat another truly Great Fighter who had never lost before.",
-    "url": "https://trumpstruth.org/statuses/39675",
+    "summary": "1. Heading to beautiful Mount Rushmore to speak, shortly.\n2. President DJT",
+    "url": "https://trumpstruth.org/statuses/39684",
     "author": "Trump Truth",
-    "created_at": "2026-07-03T20:02:58.000Z"
+    "created_at": "2026-07-04T02:09:48.000Z"
   },
   {
-    "id": "23316b55-6daf-4bbd-bf9e-9c47832d7ba5",
+    "id": "1981c78b-701d-4894-a7a7-a2419156470f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Zcash’s Ironwood upgrade is nearing testnet activation, aiming to restore supply verification after disclosure of May’s Orchard counterfeiting bug sent ZEC down roughly 40%.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#5ddffdb3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-04T01:25:37+00:00"
+  },
+  {
+    "id": "5edc1cde-5935-42ed-8e9e-521e4e99e2d6",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "CoinNess to conduct temporary system maintenance",
-    "summary": "We will be conducting a temporary system check for our breaking news service from 8:00 p.m. to 11:00 p.m. UTC on July 3. During this period, our breaking news feed will be suspended. We apologize for any inconvenience this may cause and will continue to strive to provide an improved service.",
-    "url": "https://t.me/CoinnessGL#967f577d",
+    "title": "ENS Labs COO Brantly Millegan resigns, ethid project to be phased out",
+    "summary": "ENS Labs Chief Operating Officer (COO) Brantly Millegan has announced his departure from the company and the gradual shutdown of its digital identity project, ethid.org. He added that the existing team members have begun looking for new jobs. As a result, most of the lab's ongoing projects, including GrailsMarket, ENSMarketBot, and EFP, are expected to cease operations within the next few weeks. The related code, however, will remain open source.",
+    "url": "https://t.me/CoinnessGL#5d7359a5",
     "author": "@CoinnessGL",
-    "created_at": "2026-07-03T20:02:14+00:00"
+    "created_at": "2026-07-04T01:11:56+00:00"
   },
   {
-    "id": "edac6d67-7b62-4f30-9f35-a2b1f3e69280",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Trump holds the golden tickets",
-    "summary": "1. Ten passes to the World Cup final, care of Gianni Infantino — a repeat offering that’s turning MetLife Stadium into Washington’s hottest invite.",
-    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/trump-ten-tickets-world-cup-final-infantino-gift-00986863",
-    "author": "By Daniel Barnes and Sophia Cai",
-    "created_at": "2026-07-03T19:55:00.000Z"
-  },
-  {
-    "id": "d29a1b40-d796-474f-87d8-73b87c4f48e1",
+    "id": "b2a693c1-ca94-482a-a209-de6caaa36a33",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "OKX Announces Direct Crypto Aid for Venezuelans Hit by Devastating Twin Earthquakes",
-    "summary": "1. The exchange wants to help Venezuelans who were hit by twin earthquakes last week and is now giving 20 USDT to users with proof of address verifying they reside in La Guaira, the state most affected by this natural disaster.\n2. OKX Opens Airdrop for Venezuelan Earthquake Victims OKX, one of the largest cryptocurrency exchanges by […]",
-    "url": "https://news.bitcoin.com/okx-announces-direct-crypto-aid-for-venezuelans-hit-by-devastating-twin-earthquakes/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-03T19:52:29.000Z"
+    "title": "Gold Rally Sparks Fresh Doubts About the Federal Reserve’s Next Move",
+    "summary": "1. Gold climbed on July 3 after weak U.S.\n2. jobs data undermined the market’s belief that the Federal Reserve will maintain higher interest rates for longer, raising concerns that investors may have misjudged the Fed’s trajectory.\n3. Why Did Gold Shift When the Fed Narrative Appeared Firm?",
+    "url": "https://news.bitcoin.com/gold-rally-sparks-fresh-doubts-about-the-federal-reserves-next-move/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-04T01:05:32.000Z"
   },
   {
-    "id": "ada28273-223c-4edb-a9d5-bcba2aeefd5c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 More than half the $60B tokenized RWA market recorded zero weekly transfers, with $32.9B in assets sitting dormant, per BeInCrypto Research.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b561d5a9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-03T19:45:36+00:00"
-  },
-  {
-    "id": "cdd2267f-3655-4bb8-82e3-b7534140e698",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "US senator calls for ban on elected officials issuing memecoins",
-    "summary": "1. The restriction proposed by Senator Kirsten Gillibrand would bar members of Congress, the US president and their spouses from “issuing or sponsoring their own digital assets.”",
-    "url": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-03T19:26:21.000Z"
-  },
-  {
-    "id": "1d25dd31-c72e-49ad-bc46-cc2667dc7444",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. It is my Great Honor to have just signed Pardons for six people who were persecuted by the Biden Administration, and were in, or being sent to, prison, for “fixing their car.” While I know this sounds ridiculous, it is nevertheless a fact, and part of the Weaponization and Stupidity that our Country had to endure during four long years of Sleepy Joe Biden.\n2. I AM SETTING THEM ALL FREE, RIGHT NOW!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39673",
-    "author": "Trump Truth",
-    "created_at": "2026-07-03T19:24:16.000Z"
-  },
-  {
-    "id": "c55d1ba2-2334-4c79-a075-d374b676a62d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-    "summary": "1. A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year.",
-    "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-    "author": "Olivier Acuna",
-    "created_at": "2026-07-03T19:18:59.000Z"
-  },
-  {
-    "id": "f5aaa44f-47e5-41f3-bf0f-db3eee490631",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Michael Saylor: 100M people indirectly own BTC via Strategy stock",
-    "summary": "According to Bitcoin Treasuries, Strategy (MSTR) founder Michael Saylor said on a podcast that approximately 100 million people are currently exposed to Bitcoin (BTC) through the company's common stock. He added that Strategy has become the largest stock-issuing company in the U.S.",
-    "url": "https://t.me/CoinnessGL#24d91c72",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-03T19:11:33+00:00"
-  },
-  {
-    "id": "03e9254b-335d-4a8c-a2b5-a7e115f5a0c2",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Spotify asked Kalshi and Polymarket to remove its logo after traders gamed 500K streams to win a $3M prediction market, per Bloomberg.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4fcc8ef6",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-03T19:05:37+00:00"
-  },
-  {
-    "id": "90202f25-c61f-4d66-8426-b26a3c91a481",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Former Blackrock Executive Defends Ethereum as Solana’s Validator Count Shrinks to 800",
-    "summary": "1. Sharplink co-CEO Joseph Chalom, a former Blackrock executive, has pushed back on claims that Ethereum has a “culture problem,” arguing its 900,000-plus validators and one million-plus developers give it a decentralization edge Solana cannot match.\n2. Chalom Rejects the ‘Culture Problem’ Narrative Joseph Chalom, co-chief executive of ether treasury firm Sharplink and former head of digital […]",
-    "url": "https://news.bitcoin.com/chalom-defends-ethereum-over-solana/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-03T18:45:48.000Z"
-  },
-  {
-    "id": "eda7c749-6d2f-4fd8-8fa6-d83b7302a063",
+    "id": "6492cc77-ec03-40a1-b227-2f4d5a69b71c",
     "source": "Politico",
     "type": "rss",
-    "title": "Police unamused by Starmer’s 5 am pub call",
-    "summary": "1. A pint-sized row is brewing over England’s late kickoff against Mexico.",
-    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/downing-street-pub-closing-time-england-mexico-00986960",
-    "author": "By Emilio Casalicchio",
-    "created_at": "2026-07-03T18:45:00.000Z"
+    "title": "The populist trick that turned a soccer shirt into a campaign uniform",
+    "summary": "1. Colombia's new president has his opponents seeing yellow.",
+    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/abelardo-espriella-tigre-colombia-yellow-shirt-populist-symbol-00986991",
+    "author": "By Ali Walker",
+    "created_at": "2026-07-04T00:45:00.000Z"
   },
   {
-    "id": "f28fa255-0b51-412f-ab41-78e8648cdc53",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "summary": "1. We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-07-03T18:43:00.000Z"
-  },
-  {
-    "id": "c262f180-66dd-4354-b853-d69370a28dbf",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "New Hampshire introduces bill to protect crypto payments and self-custody",
-    "summary": "The U.S. state of New Hampshire has introduced a bill, HB639, aimed at protecting cryptocurrency payments and the use of self-custody wallets, Cointelegraph reported. The legislation would prohibit state and local governments from restricting these activities.",
-    "url": "https://t.me/CoinnessGL#5f1dcd9d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-03T18:33:47+00:00"
-  },
-  {
-    "id": "f02addee-5bb3-48c7-ab4d-6c4ca3b63a3b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The Dune keypad device can be your meeting controller and more",
-    "summary": "1. The $149 Dune keyboard can be a meeting controller at least and a script-executing keypad at best.",
-    "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-07-03T18:28:30.000Z"
-  },
-  {
-    "id": "ebe91637-4011-42fe-a471-aab6d68449ed",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Justin Sun says TRON's post-quantum signature feature has gone live on testnet.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0b310e7d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-03T18:25:36+00:00"
-  },
-  {
-    "id": "d52027d4-66a2-4ffd-b240-c9b836cdbc47",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC must break $72K for trend reversal, says analyst",
-    "summary": "While Bitcoin is attempting a short-term rebound, a significant trend reversal is only possible if it breaks through the $72,000 to $75,000 resistance zone, CryptoPotato reported.The analysis noted that BTC is currently trading below its 100-day and 200-day moving averages on the daily chart. These moving averages are acting as strong resistance between $71,000 and $75,000, and selling pressure is likely to remain dominant until this area is reclaimed. Recently, BTC successfully rebounded from the $60,000 support level as buying pressure emerged, and a bullish divergence on the Relative Strength Index (RSI) suggests the potential for a short-term rally.However, if it fails to overcome the initial resistance at $72,000, it could retest the $60,000 support. A break below this level could lead to a further decline to the next major support zone at $55,000, the report concluded.",
-    "url": "https://t.me/CoinnessGL#ba20e641",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-03T18:12:40+00:00"
-  },
-  {
-    "id": "18a9831d-627b-492a-a654-d5ea8f856e92",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
-    "summary": "1. Developers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
-    "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-03T17:56:03.000Z"
-  },
-  {
-    "id": "7c7fa1cf-cc0e-4a36-8220-1b9594ee3f24",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
-    "summary": "1. Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said.",
-    "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-03T17:55:56.000Z"
-  },
-  {
-    "id": "0f7bf37d-df51-481a-98e0-668f11c7bd18",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Zcash's Ironwood upgrade, set for late July, could face delays as exchanges, mining pools and wallets may lack time to prepare their systems, per Shielded Labs.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4d0da3f3",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-03T17:55:35+00:00"
-  },
-  {
-    "id": "21aa23b8-63fd-4bf1-97e2-acf6bee89f5f",
+    "id": "9de2f816-ee0c-4a4a-9b34-35e77210fa1b",
     "source": "Politico",
     "type": "rss",
-    "title": "Why Australia’s politicians are skipping out on the Socceroos",
-    "summary": "1. The long shadow of an expense scandal is keeping members of the governing Labor Party at home.",
-    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/australia-politicians-world-cup-travel-scandal-00986865",
-    "author": "By Ryan Heath",
-    "created_at": "2026-07-03T17:45:00.000Z"
+    "title": "‘Moral and political blindness’: EU lawmaker savages FIFA over Russia",
+    "summary": "1. Lithuanian MEP Petras Auštrevičius explained why FIFA’s decision to allow Russia to play in the upcoming U-15 World Cup is bad news.",
+    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/fifa-moral-political-blindness-russia-00986866",
+    "author": "By Jonas Loesel",
+    "created_at": "2026-07-04T00:15:00.000Z"
   },
   {
-    "id": "694a945b-b664-4fc1-8bca-473f40304047",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Traders Push Bitcoin Back Above $62,000 as $31M Liquidations Signal Cooling Volatility",
-    "summary": "1. Bitcoin stabilized near $62,000 after a brief dip to $61,300, posting a modest 1.5% daily rise—far weaker than the approximately 3% surges seen on July 1–2.\n2. Liquidations Drop Sharply Amid Marginal Gains Bitcoin consolidated between $61,000 and $62,000 following sizable gains during the first two days of July, as rising selling pressure capped its bullish […]",
-    "url": "https://news.bitcoin.com/traders-push-bitcoin-back-above-62000-as-31m-liquidations-signal-cooling-volatility/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-03T17:43:46.000Z"
-  },
-  {
-    "id": "cd7a4378-69f1-45b1-8b03-fc2e4c6c2281",
+    "id": "83b00d4b-f5db-49bd-a05a-f443efa5434f",
     "source": "@WatcherGuru",
     "type": "telegram",
-    "title": "🇺🇸 President Trump's investment accounts made 327 undisclosed stock purchases one day before he paused major tariffs, NBC reports.@WatcherGuru",
+    "title": "🇺🇸 President Trump says the US Treasury will now accept donations of publicly traded stocks to help fund 'Trump Accounts.'@WatcherGuru",
     "summary": "",
-    "url": "https://t.me/WatcherGuru#4ec689a3",
+    "url": "https://t.me/WatcherGuru#f4d026fb",
     "author": "@WatcherGuru",
-    "created_at": "2026-07-03T17:29:00+00:00"
+    "created_at": "2026-07-04T00:07:10+00:00"
   },
   {
-    "id": "d3847bb7-4db7-4581-9d3b-a76aeb6b9d94",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "ChatGPT, Claude Fable and Grok Forecast Whether Satoshi’s 1.1M Bitcoin Fortune Ever Moves",
-    "summary": "1. Satoshi Nakamoto remains Bitcoin’s most coveted mystery, with the creator’s true identity continuing to captivate researchers, journalists, cryptographers, and enthusiasts more than 17 years after the network’s launch.\n2. To explore whether that mystery will ever be solved, several of today’s top artificial intelligence (AI) models used Bayesian scenario trees to estimate the odds that Nakamoto’s […]",
-    "url": "https://news.bitcoin.com/chatgpt-claude-fable-and-grok-forecast-whether-satoshis-1-1m-bitcoin-fortune-ever-moves/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-03T17:16:38.000Z"
-  },
-  {
-    "id": "63787118-f382-4904-9777-99423c3f45d4",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
-    "summary": "1. Barstool Sports founder Dave Portnoy says he's down millions on Bitcoin, but he's intent on holding this time—even if it falls to zero.",
-    "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-07-03T17:13:43.000Z"
-  },
-  {
-    "id": "6bbfda94-b0cb-46e8-ad01-b5b36a93104b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office",
-    "summary": "1. The US President disclosed earning more than $1 billion from crypto ventures amid discussions of a digital asset market structure bill in Congress and legislation to ban CBDCs awaiting his desk.",
-    "url": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-03T16:57:26.000Z"
-  },
-  {
-    "id": "db9b09c6-7b98-43bf-a42f-b056624255fa",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "ESMA warns many prediction market event contracts already face EU retail ban",
-    "summary": "1. The European regulator said companies cannot circumvent EU financial rules by marketing binary-style products as event contracts rather than derivatives.",
-    "url": "https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-03T16:54:20.000Z"
-  },
-  {
-    "id": "e966967f-6453-42e1-b0fe-48543a9e2a54",
+    "id": "ee72f85e-4854-435c-a9a3-49710485fdad",
     "source": "GitHub",
     "type": "github",
-    "title": "anthropics/claude-code: v2.1.200",
-    "summary": "1. ## What's changed\n\n- Changed `AskUserQuestion` dialogs to no longer auto-continue by default; opt into an idle timeout via `/config`\n- Changed the \"default\" permission mode to \"Manual\" across the CLI, `--help`, VS Code, and JetBrains; `--permission-mode manual` and `\"defaultMode\": \"manual\"` are accepted alongside `default`\n- Fixed a crash at startup when `disabledMcpServers` or `enabledMcpServers` in `.claude.json` is set to a non-array value\n- Fixed background sessions silently stopping mid-turn after sleep/wake or when reopening a stalled session\n- Fixed background sessions re-running a turn cancelled with Esc after a stall respawn\n- Fixed background agents never starting again after a crash left a stale `daemon.lock` whose PID the OS reused\n- Fixed background-agent daemon handover so a reinstalled older build can no longer take over the daemon; build recency is now judged by the version's embedded build timestamp\n- Fixed background-agent roster issues: transient corruption permanently disabling orphan cleanup, older binaries not preserving fields written by newer versions, and socket auth tokens being stripped during daemon restarts\n- Fixed subagents cut off by a rate limit before producing any text output returning an empty result instead of failing cleanly\n- Fixed control bytes from background-agent output reaching the terminal in the agent view\n- Fixed `claude agents --plugin-dir ` not showing the plugin's agents and skills in the agent view when the flag is placed after `agents`\n- Fixed project-scoped plugins not loading correctly from git worktrees of the same repository\n- Fixed `/mcp` server list not tracking focus for screen readers and magnifiers\n- Fixed voice dictation showing a misleading \"Voice connection failed\" message when a recording captures no audio\n- Fixed rendering flicker under tmux 3.4+ by enabling synchronized terminal output\n- Improved screen-reader output: decorative glyphs are now hidden, transcript symbols read as short labels, and nested tables read as `Header: value.` lines\n- Improved the install script to explain when installation is killed by the system running out of memory",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.200",
+    "title": "anthropics/claude-code: v2.1.201",
+    "summary": "1. ## What's changed\n\n- Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness reminders",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.201",
     "author": "ashwin-ant",
-    "created_at": "2026-07-03T16:52:33Z"
+    "created_at": "2026-07-03T23:50:35Z"
   },
   {
-    "id": "a3baeed6-7fa2-4461-8a03-c4d745b64921",
+    "id": "a8383e45-1e22-486e-ba7b-53bafe0dec69",
     "source": "Politico",
     "type": "rss",
-    "title": "Egypt team staffer in altercation with Dallas police",
-    "summary": "1. Police say they were responding to a request from security at the team’s hotel Thursday.",
-    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/egypt-ibrahim-hassan-altercation-dallas-police-westin-00986961",
+    "title": "Egyptian coach smooths over issues with Dallas police",
+    "summary": "1. Hossam Hassan's brother was in a brief altercation with an officer at the team's hotel.",
+    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/egyptian-coach-hassan-hossam-deescalates-brother-altercation-00986993",
     "author": "By Mike Lee",
-    "created_at": "2026-07-03T16:52:32.000Z"
+    "created_at": "2026-07-03T23:15:20.000Z"
   },
   {
-    "id": "bea01ade-2464-45a1-bc39-c42954a88cfc",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-03T16:40:35.000Z"
-  },
-  {
-    "id": "21993328-0960-4454-bbbd-79b43343b4ea",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Standard Chartered obtains EU MiCA license",
-    "summary": "Standard Chartered has obtained a license under the EU's Markets in Crypto-Assets (MiCA) regulation, BeInCrypto reported. The European Securities and Markets Authority (ESMA) added 37 crypto firms in its latest registry update, bringing the total number of authorized Crypto-Asset Service Providers (CASPs) in the EU to 280. Newly authorized firms include crypto prime broker FalconX and Sygnum Europe.",
-    "url": "https://t.me/CoinnessGL#2450e6c0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-03T16:37:28+00:00"
-  },
-  {
-    "id": "f3532318-f215-4895-99f7-bf0b223e726a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Chevy built an All-American EV truck. Why is nobody buying it?",
-    "summary": "1. The Chevy Silverado EV is a solid first draft of an EV pickup truck.\n2. Here's what could make it better.",
-    "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-    "author": "Tim De Chant",
-    "created_at": "2026-07-03T16:30:00.000Z"
-  },
-  {
-    "id": "1a6cbadf-b70c-4292-af38-4e2ccb58ca30",
+    "id": "640c3058-ecd1-42ec-a2a9-ad8a5898bb34",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Open USD Backlash: Consortium Faces Allegations of Faking Key Stablecoin Partnerships",
-    "summary": "1. Some companies that appeared to be listed in the Open USD Consortium have refused to approve their inclusion.\n2. Blockmedia’s BD Head, Tony Chung, indicated that Korean powerhouse Samsung stressed it did not consent, while other names also offered similar takes.\n3. Open USD Immersed in Unapproved Inclusion Scandal With Companies Like Samsung Open Standard, the consortium […]",
-    "url": "https://news.bitcoin.com/open-usd-backlash-consortium-faces-allegations-of-faking-key-stablecoin-partnerships/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-03T16:20:29.000Z"
-  },
-  {
-    "id": "60425abf-1d37-45ec-b077-4dff3bc45ada",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Argentina returns to Miami under tighter security",
-    "summary": "1. The last time the team played here, fans stormed the gates and delayed kickoff by an hour.\n2. Officials say they’ve learned their lesson.",
-    "url": "https://www.politico.com/live-updates/2026/07/03/world-cup-2026/crowd-control-miami-argentina-cape-verde-00986861",
-    "author": "By Kylie Williams",
-    "created_at": "2026-07-03T16:15:00.000Z"
-  },
-  {
-    "id": "26c1560b-7950-4048-bdb6-9542fd81b3ad",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Polymarket Traders Give Bitcoin Just 21% Odds of Hitting $70K in July, Even as ETF Money Returns",
-    "summary": "1. Polymarket traders are pricing only a 21% chance that bitcoin hits $70,000 before the end of July, with the coin trading near $61,600.\n2. The skepticism persists even as U.S.\n3. spot bitcoin ETFs just posted their strongest daily inflow since early May.",
-    "url": "https://news.bitcoin.com/polymarket-bitcoin-70k-july-odds/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-03T16:14:49.000Z"
-  },
-  {
-    "id": "9c553e1e-d3b1-41ff-b4af-f11e14a1f3b7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "EU's MiCA transition period ends, unlicensed crypto firms must exit",
-    "summary": "The transition period for the European Union's Markets in Crypto-Assets (MiCA) regulation ended on July 1, Cointelegraph reported. Consequently, crypto firms without a MiCA license can no longer legally provide services to EU customers. CoinDesk previously reported that an increasing number of crypto companies were relocating to the United Arab Emirates (UAE), including Dubai, ahead of MiCA's full implementation. Meanwhile, Binance founder Changpeng Zhao (CZ) claimed that a MiCA license application in Greece had met all requirements and was on the verge of approval but was withdrawn last week due to intervention from unspecified political forces.",
-    "url": "https://t.me/CoinnessGL#4fbe210b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-03T16:14:47+00:00"
+    "title": "Strategy’s Bitcoin Stack Raises the Key Question: What Can It Do Instead of Selling BTC?",
+    "summary": "1. Strategy has alternatives to selling bitcoin.\n2. A new research points to options that could raise cash without reducing its bitcoin holdings.\n3. After overhauling its capital management amid pressure on its preferred-stock structure, the key question is whether Strategy can generate liquidity without selling bitcoin.",
+    "url": "https://news.bitcoin.com/strategys-bitcoin-stack-raises-the-key-question-what-can-it-do-instead-of-selling-btc/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-03T23:05:23.000Z"
   }
 ]
