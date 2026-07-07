@@ -1,6 +1,306 @@
 [
   {
-    "id": "84213973-483f-40db-b075-1e4457bef039",
+    "id": "1425f62b-d60c-480e-ab7f-cf7cfc4c9713",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-07T17:23:07.000Z"
+  },
+  {
+    "id": "044e00e5-bb6a-46c9-b2b6-18cbcdab4c43",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote",
+    "summary": "1. Bitcoin Magazine\n\nNew Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote\nNew Hampshire's Executive Council will vote Wednesday on a first-of-its-kind $100 million Bitcoin-backed municipal bond.\n2. This post New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/new-hampshires-100-million-bitcoin-backed",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-07T17:19:49.000Z"
+  },
+  {
+    "id": "3c4beb8a-289e-497a-8024-b0d544243e1f",
+    "source": "Politico",
+    "type": "rss",
+    "title": "More than half of Senate Democrats have urged Platner to drop out",
+    "summary": "1. As of early afternoon Tuesday, 31 Democratic senators said that he should drop out of the race, according to this POLITICO tracker.",
+    "url": "https://www.politico.com/news/2026/07/07/platner-senate-democrats-drop-out-tracker-00988633",
+    "author": "By Gregory Svirnovskiy, Emilio Perez Ibarguen and POLITICO Visuals",
+    "created_at": "2026-07-07T17:19:07.000Z"
+  },
+  {
+    "id": "afd5b7c3-5e35-4d3e-a32a-2bef643b2466",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
+    "summary": "1. Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.",
+    "url": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
+    "author": "Logan Hitchcock",
+    "created_at": "2026-07-07T17:16:27.000Z"
+  },
+  {
+    "id": "8583b630-6c9b-4e3f-8ecc-3a7b3c53e15a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analyst: Macro shift could fuel 2-3 year crypto bull market",
+    "summary": "Crypto analyst Matthew Hyland, who has around 170,000 followers on X, predicted a potential two-to-three-year bull market for cryptocurrency, arguing that the macroeconomic environment is shifting to favor risk assets. According to CryptoPotato, Hyland identified the periods of 2014–2016, 2018–2020, and 2022–2026 as bear markets for macro risk assets, noting that major crypto bull runs have historically followed the end of such phases. He highlighted that BTC dominance has now formed a death cross for the first time since 2016 and 2020, and he anticipates a golden cross for altcoin dominance this fall. This pattern, he explained, is similar to trends observed at the beginning of previous bull markets.",
+    "url": "https://t.me/CoinnessGL#df7cc079",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T17:05:56+00:00"
+  },
+  {
+    "id": "716f443d-d0de-4c18-a94c-ae7882a1213c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "AEREDIUM Joins Lava Sandbox to Test Real Estate Settlement Across Multiple Payment Rails",
+    "summary": "1. Blockchain infrastructure company AEREDIUM has joined the Lava Tokenization Sandbox, which aims to bridge the gap between traditional finance and digital assets by testing payment-agnostic settlement infrastructure.\n2. Overcoming Settlement Barriers Blockchain infrastructure company AEREDIUM has joined the Lava Tokenization Sandbox, a collaborative initiative led by the Lava Foundation and Bretagne Holding Limited, to test how […]",
+    "url": "https://news.bitcoin.com/aeredium-joins-lava-sandbox-to-test-real-estate-settlement-across-multiple-payment-rails/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-07T17:04:33.000Z"
+  },
+  {
+    "id": "32f0ace5-f0b2-4423-b954-74b848ab8ce8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC transfers from profitable LTHs fall to lowest since early 2023",
+    "summary": "According to Glassnode data, the volume of Bitcoin transferred to exchanges by long-term holders (LTH) in profit has fallen to its lowest level since early 2023. This suggests that profit-taking by this cohort has effectively come to a halt.",
+    "url": "https://t.me/CoinnessGL#7b6ad047",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T17:03:37+00:00"
+  },
+  {
+    "id": "ae7a5fc9-3f75-46d1-a312-b2dad53710ad",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Suisse Advances Middle East Expansion, Receives Financial Services Permission in Abu Dhabi",
+    "summary": "1. Zug, Switzerland, July 7th, 2026, Chainwire.\n2. Premium virtual assets pioneer BTCS (Middle East) Ltd.\n3. is now fully authorized by the Financial Services Regulatory Authority (FSRA) of ADGM, enabling regulated institutional services across the UAE.",
+    "url": "https://news.bitcoin.com/bitcoin-suisse-advances-middle-east-expansion-receives-financial-services-permission-in-abu-dhabi/",
+    "author": "Media",
+    "created_at": "2026-07-07T17:02:37.000Z"
+  },
+  {
+    "id": "d560cca0-5235-4e62-84d5-f42d6a71cd96",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure to Passive Index Investors",
+    "summary": "1. Bitcoin Magazine\n\nSpaceX Nasdaq-100 Entry Brings Bitcoin Exposure to Passive Index Investors\nSpaceX joins the Nasdaq-100 today, triggering ~$4.3B in passive inflows to a company holding 18,712 BTC.\n2. This creates rules-based institutional demand for Bitcoin through corporate balance sheets.\n3. This post SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure to Passive Index Investors first appeared on Bitcoin Magazine and is written by Nick Ward.",
+    "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/spacex-nasdaq-bitcoin",
+    "author": "Nick Ward",
+    "created_at": "2026-07-07T16:47:17.000Z"
+  },
+  {
+    "id": "411b2432-4165-4827-8be9-8c5352d74a09",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "American Bitcoin's BTC holdings surpass 8,000, says Eric Trump",
+    "summary": "Eric Trump, son of U.S. President Donald Trump, announced on X that American Bitcoin's holdings of Bitcoin (BTC) have surpassed 8,000.He stated that despite volatility in the cryptocurrency market, the company achieved a 52% profit margin from its mining business in the first quarter and is continuously accumulating BTC as a treasury asset. Trump emphasized that this accumulation strategy will continue, noting that American Bitcoin maintains one of the lowest selling, general, and administrative (SG&A) expense ratios in the industry while steadily expanding its BTC reserves.",
+    "url": "https://t.me/CoinnessGL#004dbbb7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T16:45:35+00:00"
+  },
+  {
+    "id": "ecb8b48d-3028-4840-bf85-9d45ea7c4221",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+    "summary": "1. From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+    "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-07-07T16:45:00.000Z"
+  },
+  {
+    "id": "dfb45f85-2766-4114-8ee1-15d8c9df9971",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
+    "summary": "1. Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.",
+    "url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-07T16:43:07.000Z"
+  },
+  {
+    "id": "21f497db-7c83-4823-90d0-a4c2cd991076",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Bernie Sanders says he told Graham Platner to ‘step aside’",
+    "summary": "1. It’s Sanders’ first comment since POLITICO reported on Monday that a woman who dated Platner says he sexually assaulted her.",
+    "url": "https://www.politico.com/news/2026/07/07/bernie-sanders-graham-platner-drop-out-00988638",
+    "author": "By Andrew Howard",
+    "created_at": "2026-07-07T16:32:27.000Z"
+  },
+  {
+    "id": "9033fbdb-4a5a-4fb5-865c-12e53ac79b17",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading",
+    "summary": "1. Last year, the tokenized real-world asset issuer launched 24/7 onchain access to more than 100 U.S.\n2. stocks and ETFs.",
+    "url": "https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-07-07T16:29:46.000Z"
+  },
+  {
+    "id": "a9c92eda-0d11-4327-87ae-9831835eebc8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election",
+    "summary": "1. The Reform party leader and Brexit champion confirmed that he was the subject of probes by UK authorities following reports of what he called “gifts” from figures tied to cry pto ventures.",
+    "url": "https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-07T16:27:19.000Z"
+  },
+  {
+    "id": "4bf63b91-aa19-45a2-84fb-2852a29a9e94",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Claude Cowork expands to mobile and web",
+    "summary": "1. With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "author": "Rebecca Bellan",
+    "created_at": "2026-07-07T16:27:18.000Z"
+  },
+  {
+    "id": "2c1dacdd-4b54-4c9d-9495-1b638bcc079c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Grayscale says Strategy’s $216M Bitcoin sale could help BTC find a more durable floor by reducing forced-selling risk and restoring investor confidence.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#711196d4",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-07T16:20:38+00:00"
+  },
+  {
+    "id": "706dd19f-c4a1-4ffb-b75a-ae80f506b302",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: told you he was shipping something. \nhttps://farcaster.xyz/farcaster/0x79ea0ecd",
+    "summary": "1. told you he was shipping something.",
+    "url": "https://warpcast.com/farcaster/0x1b10d3fc",
+    "author": "Farcaster",
+    "created_at": "2026-07-07T16:19:51.000Z"
+  },
+  {
+    "id": "fffcd9eb-1bc7-4f76-bf5e-e7916a0070a7",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
+    "summary": "1. SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
+    "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-07T16:18:18.000Z"
+  },
+  {
+    "id": "9da683a2-a754-49a5-8abd-61c142538c61",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Institutional crypto exchange EDX lands $76M from SBI Holdings",
+    "summary": "1. The funding round comes as institutional investors continue backing crypto market infrastructure despite slower venture investment across the digital asset sector.",
+    "url": "https://cointelegraph.com/news/institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-07-07T16:16:35.000Z"
+  },
+  {
+    "id": "0d64bf62-0a7c-42c1-88ec-82c9bd3b5e71",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "$12 trillion Vanguard is hiring new head of crypto.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d245eeb1",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-07T16:12:52+00:00"
+  },
+  {
+    "id": "de948a6a-9190-47ed-b465-5ea2fe30243a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
+    "summary": "1. A newly updated agenda from the securities regulator shows so-called Reg Crypto high on its near-term list.",
+    "url": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-07-07T16:08:19.000Z"
+  },
+  {
+    "id": "54f87164-36f7-440b-b9d8-8e85310a3426",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Kucoin Locks In Exclusive Crypto Deal With UAE Team Emirates for Tour de France",
+    "summary": "1. Kucoin announced Tuesday it has become the official cryptocurrency exchange partner of UAE Team Emirates – XRG, with the deal making its public debut at the 2026 Tour de France.\n2. According to the announcement shared with Bitcoin.com News, the crypto exchange’s branding now appears across the team’s buses, support vehicles, and fleet cars for the […]",
+    "url": "https://news.bitcoin.com/kucoin-locks-in-exclusive-crypto-deal-with-uae-team-emirates-for-tour-de-france/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-07T16:05:19.000Z"
+  },
+  {
+    "id": "d22a2fcb-0c83-47ee-8375-dafb73ee4f67",
+    "source": "The Block",
+    "type": "rss",
+    "title": "SEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda",
+    "summary": "1. The SEC is laying the groundwork for cryptocurrency rule changes before the end of the year, with a blueprint for exchanges and brokers.",
+    "url": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-07-07T16:03:54.000Z"
+  },
+  {
+    "id": "fa3959fe-97cc-4509-9ea6-42fc146123fe",
+    "source": "The Block",
+    "type": "rss",
+    "title": "1kx, Blockchain Capital back $7.5 million KOR Protocol Series A at $100 million valuation",
+    "summary": "1. KOR Protocol is building an onchain clearinghouse that helps register and route creative works and pay out rights holders.",
+    "url": "https://www.theblock.co/post/407465/1kx-blockchain-capital-7-5-million-kor-protocol-series-a-100-million-valuation?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-07-07T15:57:32.000Z"
+  },
+  {
+    "id": "15081231-0125-4217-924b-6f1fe3a79358",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ MiCA-compliant euro stablecoins grew 128% in market cap to $673.9M in the year before Europe’s MiCA transition period ended, according to Decta.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#322870fd",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-07T15:55:35+00:00"
+  },
+  {
+    "id": "aea18908-8339-46ae-b7be-83ab4ace488c",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: latest acquisition \n\nafk for a bit",
+    "summary": "1. latest acquisition \n\nafk for a bit",
+    "url": "https://warpcast.com/rish/0x53ed9228",
+    "author": "rish",
+    "created_at": "2026-07-07T15:52:20.000Z"
+  },
+  {
+    "id": "2cd17ee5-8a74-4d8c-b9e6-90afee6ff51c",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. NATO is stronger because Trump demanded more:",
+    "url": "https://trumpstruth.org/statuses/39876",
+    "author": "Trump Truth",
+    "created_at": "2026-07-07T15:51:24.000Z"
+  },
+  {
+    "id": "3fdcbf95-2925-4b5e-9207-909a5370b03d",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Tokenized stocks trade mostly OFF-chain: bStocks did 30x more volume on Binance...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#fa9de74d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-07T15:45:37+00:00"
+  },
+  {
+    "id": "c0307e09-530e-4af6-b307-e62ffb8ca582",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "China’s DeepSeek is building its own AI chip to cut its reliance on Nvidia $NVDA and HuaweiTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#463fd804",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-07T15:32:50+00:00"
+  },
+  {
+    "id": "aa59cfca-56a2-4fa4-9a94-377176d2df1c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "IRAN ATTACKS THREE SHIPS IN THE STRAIT OF HORMUZ OVER THE LAST 24 HOURS | PER US OFFICIALSTwitter",
@@ -320,7 +620,7 @@
     "created_at": "2026-07-07T13:30:49.000Z"
   },
   {
-    "id": "42f3e6bb-0baf-44b8-8014-052a104d8d28",
+    "id": "2eaaaa43-f97e-4f6c-9ffe-702995f46ac4",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Nigel Farage says he is quitting as MP and will stand in a by-electionTwitter",
@@ -558,115 +858,5 @@
     "url": "https://www.coindesk.com/daybook-us/2026/07/07/bitcoin-s-july-gains-may-be-fleeting-as-u-s-demand-stays-weak",
     "author": "Omkar Godbole",
     "created_at": "2026-07-07T11:26:17.000Z"
-  },
-  {
-    "id": "ebf86192-3bac-488c-9e7e-a3b6f710a777",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP Gets New Payment Flow as Ripple’s RLUSD Lands AI Banking Platform Nuvion Integration",
-    "summary": "1. Nuvion, an AI-powered global banking and cross-border payments platform, has integrated Ripple USD (RLUSD), extending the stablecoin’s enterprise reach just days after Ripple secured its full MiCA license in Europe.\n2. A New Rail for the ‘Compliant Digital Dollar’ Nuvion announced the integration in a press release saying RLUSD will power faster cross-border settlement, treasury and […]",
-    "url": "https://news.bitcoin.com/ripple-rlusd-nuvion-integration-xrpl-supply-800-million/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-07T11:05:58.000Z"
-  },
-  {
-    "id": "804192ce-de79-48cb-a6e1-ef4bedad54e4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ctrl Wallet to shut weeks after security exploit",
-    "summary": "1. The move follows a June 23 exploit that has now resulted in closing down the wallet, with users urged to withdraw their assets before all functions are disabled on Aug.",
-    "url": "https://cointelegraph.com/news/ctrl-wallet-shutdown-security-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-07-07T10:46:24.000Z"
-  },
-  {
-    "id": "5030919b-75d5-4c8c-a353-fd476f278deb",
-    "source": "Politico",
-    "type": "rss",
-    "title": "NATO chief Mark Rutte on Trump and the future of the alliance",
-    "summary": "1. NATO chief Mark Rutte on Trump and the future of the alliance",
-    "url": "https://www.politico.com/video/2026/07/07/nato-chief-mark-rutte-on-trump-and-the-future-of-the-alliance-2118805",
-    "author": "Politico",
-    "created_at": "2026-07-07T10:44:47.000Z"
-  },
-  {
-    "id": "0cb48d2b-841d-4d8b-a171-9ce8ad7250fb",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin stalls as open interest decline raises questions about rally's staying power",
-    "summary": "1. BTC retreated from a two-week high of $64,500 as falling open interest and weak spot demand cast doubt on the sustainability of July's 8.4% advance.",
-    "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power",
-    "author": "Oliver Knight",
-    "created_at": "2026-07-07T10:44:09.000Z"
-  },
-  {
-    "id": "1a31a057-9fd7-4e89-bb4f-da3c012909cd",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-07T09:53:53.000Z"
-  },
-  {
-    "id": "41f775b6-1006-4de9-afb7-d041ce0c23db",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Peter Schiff: Strategy's 'Ponzi scheme' has entered its middle stage",
-    "summary": "Peter Schiff, CEO of Euro Pacific Capital and a noted Bitcoin critic, has described Strategy's (Nasdaq: MSTR) business model as a Ponzi scheme that has now moved from its initial to its middle stage. He contends that the company's practice of using funds from preferred stock sales to accumulate Bitcoin is akin to a scam. Schiff has previously stated that Strategy will eventually face a point where paying dividends on its STRC preferred stock becomes unsustainable. When that time comes, he predicted, Michael Saylor will have to choose between liquidating the company's assets or selling off preferred shareholder equity. Schiff asserted that this structure is destined to collapse. more:",
-    "url": "https://t.me/CoinnessGL#25ada348",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T09:48:37+00:00"
-  },
-  {
-    "id": "675af0f3-539d-4619-8730-89454b6fda07",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "LIT, MNT see surge in large transfers over $100K, says report",
-    "summary": "The number of large transfers worth over $100,000 has surged for cryptocurrencies Litentry (LIT) and Mantle (MNT), BeInCrypto reported, citing on-chain analytics firm Santiment.According to the report, there has been a distinct increase in large whale transfers for both assets over the past six months. During this period, LIT recorded 86 transactions exceeding $100,000, while MNT saw 37. The increased activity in LIT was attributed to a tokenomics revamp, buybacks and burns, and expectations for staking yields. For MNT, the surge was linked to expectations of expansion into real-world assets (RWA) and tokenized stocks.According to CoinMarketCap, LIT is trading at $2.53, up 2.07% over the past 24 hours, while MNT is at $0.4323, down 1.01%.",
-    "url": "https://t.me/CoinnessGL#96395a1d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T09:45:17+00:00"
-  },
-  {
-    "id": "91fcdd4b-8048-4637-99eb-2e28e75dee8d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
-    "summary": "1. Galaxy delivered 133 MW of critical IT load to CoreWeave at its Helios campus, completing Phase I of the West Texas site's AI conversion.",
-    "url": "https://www.theblock.co/post/407396/galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-07-07T09:45:09.000Z"
-  },
-  {
-    "id": "03c4bc1d-3ef2-4d09-aa11-7b3a4e8b0a66",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "TODAY: ⚡ SpaceX joins the Nasdaq 100 less than a month after its record-breaking...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#9f206bcc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T09:40:36+00:00"
-  },
-  {
-    "id": "6c20d80b-5688-41e6-9124-34f5f5c5565b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Bottom Signal Last Seen at FTX Collapse Flashes as Saylor’s Strategy Dumps 3,588 BTC",
-    "summary": "1. Bitcoin’s realized profit and loss ratio has fallen to -0.35, a 43-month low last seen after FTX’s collapse, flashing what Cryptoquant calls a bottom signal just as Michael Saylor’s Strategy turns seller.\n2. A Loss Gauge at FTX-Era Depths Blockchain analytics platform Cryptoquant has spotted a signal that bitcoin bulls have been waiting months for.",
-    "url": "https://news.bitcoin.com/bitcoin-bottom-signal-ftx-collapse-saylor-strategy/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-07T09:35:51.000Z"
-  },
-  {
-    "id": "cb61eff0-2470-4b3c-bd52-34bb2594f944",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Tether’s former CIO Richard Heathcote is seeking buyers for part of his 1.26% stake, with PJT Partners handling the saleTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#be2ea767",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-07T09:32:33+00:00"
   }
 ]
