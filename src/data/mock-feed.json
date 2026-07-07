@@ -1,5 +1,175 @@
 [
   {
+    "id": "aeec318e-4f23-4a87-8de9-33d4902ac09a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "2 Bitcoin Forks Are Coming in August: Everything You Need to Know",
+    "summary": "1. Bitcoin is heading toward two separate fork events in August 2026, and knowing the difference between them is the first step to understanding what’s actually at stake.\n2. One is a proposed soft fork called BIP-110.\n3. The other is a planned hard fork called eCash, backed by Drivechain architect Paul Sztorc.",
+    "url": "https://news.bitcoin.com/2-bitcoin-forks-are-coming-in-august-everything-you-need-to-know/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-07T07:05:04.000Z"
+  },
+  {
+    "id": "683debd5-66d5-49b5-a5d8-82f4ff49e44a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "All roads lead to CoinMarketCap.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7cde59d3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-07T07:00:34+00:00"
+  },
+  {
+    "id": "7535510a-4653-4363-aa74-c2c887ae0f50",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto hacking losses total $1.32B in first half of 2026",
+    "summary": "The Web3 ecosystem lost $1.32 billion across 344 security incidents in the first half of this year, blockchain security firm CertiK reported in its latest Hack3D analysis.CertiK explained that while the total loss represents a 46.8% decrease from the same period last year, the figure is misleading. Excluding the major Bybit incident, which resulted in a $1.45 billion loss in 2025, the total damage has actually increased, suggesting the industry's overall security environment has not substantially improved.The report identified wallet theft as the most common type of incident, with hackers focusing on targeted attacks against high-net-worth individuals and institutions. Code vulnerabilities were the most frequent hacking method, accounting for 204 incidents, as attackers often targeted older, unaudited smart contracts that have been in operation for a long time.",
+    "url": "https://t.me/CoinnessGL#6b7e74c0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T06:52:18+00:00"
+  },
+  {
+    "id": "85a4628c-d13e-4826-a9d6-f300beec9b0b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
+    "summary": "1. Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.",
+    "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-07T06:51:28.000Z"
+  },
+  {
+    "id": "c8785e63-fab0-43b0-9e8f-c4cb27223d87",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Tether preparing to launch USDT on Bitcoin",
+    "summary": "Tether is preparing to issue USDT on the Bitcoin network via the RGB protocol, Bitcoin Magazine reported. Software firm Utexo is partnering with Tether to lead the issuance and distribution. The Bitcoin-based USDT is expected to support instant swaps with BTC through the Lightning Network. A number of wallets and exchanges, including Tether Wallet, have already announced plans to support the new asset. The launch is anticipated as early as this July.",
+    "url": "https://t.me/CoinnessGL#7c2229e6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T06:46:27+00:00"
+  },
+  {
+    "id": "e9f02817-ebb6-411d-be4b-fd9f4ae37c16",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Changpeng Zhao supports SIGN, Bhutan NDI partnership for Sierra Leone",
+    "summary": "Binance founder Changpeng Zhao has voiced his support for a new partnership between the SIGN Foundation and Bhutan's National Digital Identity (NDI) company. The two organizations signed a Memorandum of Understanding (MOU) to design and develop a digital identity platform for the African nation of Sierra Leone. Zhao stated that the establishment of national-level blockchain infrastructure is a welcome change.",
+    "url": "https://t.me/CoinnessGL#20743f3c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T06:43:26+00:00"
+  },
+  {
+    "id": "bdb00d47-1f1c-4416-be77-1673d0596390",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Whales Open $148 Million in Leveraged Longs as Bitcoin Reclaims $64K After Strategy’s 3,588 BTC Sale",
+    "summary": "1. Three whale wallets opened nearly $149 million in leveraged bitcoin and ether longs as BTC climbed back above $64,000, onchain tracker Lookonchain reported, just a day after Strategy disclosed its $216 million sale.\n2. Big Money Leans Long Into the Fear While much of the market was still digesting the first major bitcoin sale by Strategy […]",
+    "url": "https://news.bitcoin.com/whales-148-million-longs-bitcoin-reclaims-64k/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-07T06:35:55.000Z"
+  },
+  {
+    "id": "dcac5579-5e3c-4de8-b593-fd49c59940ca",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. American Exceptionalism & Manifest Destiny: Trump Gives 4th of July Speech for the Ages on America’s 250th Birthday:",
+    "url": "https://trumpstruth.org/statuses/39871",
+    "author": "Trump Truth",
+    "created_at": "2026-07-07T06:23:29.000Z"
+  },
+  {
+    "id": "240cc64b-3a90-4502-a4a6-acf495c54888",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Defying The Odds: President Trump Just Put On The Greatest Show On Earth:",
+    "url": "https://trumpstruth.org/statuses/39872",
+    "author": "Trump Truth",
+    "created_at": "2026-07-07T06:22:14.000Z"
+  },
+  {
+    "id": "27752522-5a05-49a9-b7df-9e0497c56131",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. ROCK STAR: Trump Returns to Mount Rushmore For America’s 250th Birthday Bash:",
+    "url": "https://trumpstruth.org/statuses/39870",
+    "author": "Trump Truth",
+    "created_at": "2026-07-07T06:20:07.000Z"
+  },
+  {
+    "id": "cf259b30-386e-4bb7-bf81-a839ddfb7982",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "An AI Deepfake of Bruno Fernandes Posed as a Brand Ambassador for an Unlicensed Casino",
+    "summary": "1. Two unlicensed offshore casinos have hijacked the identities of football stars Bruno Fernandes and Jude Bellingham, using an AI-generated deepfake video and fabricated BBC news articles to invent official endorsements the players never gave.\n2. The operators (Vietnam-facing QH88 and Curaçao-licensed Nightwin) are betting on the near-impossibility of enforcement against anonymous offshore brands.\n3. Illegal Operators Cross […]",
+    "url": "https://news.bitcoin.com/an-ai-deepfake-of-bruno-fernandes-posed-as-a-brand-ambassador-for-an-unlicensed-casino/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-07-07T06:05:01.000Z"
+  },
+  {
+    "id": "568b1c03-21e5-4885-b44c-bb2224229f92",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-07T06:02:08.000Z"
+  },
+  {
+    "id": "4b8807be-de16-4615-8db7-5f1b41fc3dab",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trader loses $2M in ‘same-block backrun extraction’ exploit",
+    "summary": "1. One crypto trader noted the $2 million loss could have been prevented had the victim read the transaction route before signing the transaction.",
+    "url": "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-07-07T05:58:11.000Z"
+  },
+  {
+    "id": "36c4e57d-2724-42cb-a81f-675e46f61d89",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI",
+    "summary": "1. Yield Guild Games said tough crypto and video game market conditions mean its YGG Play business is no longer commercially sustainable.",
+    "url": "https://cointelegraph.com/news/yield-guild-games-cuts-35-staff-shuts-game-publisher-to-focus-on-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-07-07T05:56:54.000Z"
+  },
+  {
+    "id": "447a556d-6a6b-4141-88a7-4103203737db",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+    "summary": "1. The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
+    "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-07T05:40:58.000Z"
+  },
+  {
+    "id": "b4319a61-6a63-44d6-8b91-b25f7e265bdb",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Cassie Heart: Friends, Casters, countrymen, lend me your ears;\nI come to mourn Farcaster, not ...",
+    "summary": "1. Friends, Casters, countrymen, lend me your ears;\nI come to mourn Farcaster, not to praise it.\n2. The faults that protocols do are oft remembered;\nThe labor buried in their code is oft forgot.\n3. So let it be with Farcaster.",
+    "url": "https://warpcast.com/cassie/0xd630946f",
+    "author": "Cassie Heart",
+    "created_at": "2026-07-07T05:28:12.000Z"
+  },
+  {
+    "id": "11c93198-4763-4af7-941c-93d43992f23b",
+    "source": "The Block",
+    "type": "rss",
+    "title": "What Is the U.S. Strategic Bitcoin Reserve?",
+    "summary": "1. Strategic Bitcoin Reserve is a government-held stockpile of bitcoin, established by executive order in March 2025.\n2. The order treats Bitcoin as a long-term reserve asset, comparable to how the country holds gold, and directs that the coins placed in the reserve are not to be sold.\n3. Almost all of the U.S.",
+    "url": "https://www.theblock.co/learn/407371/what-is-the-u-s-strategic-bitcoin-reserve?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-07-07T05:27:23.000Z"
+  },
+  {
     "id": "1f2e2966-8741-49ff-b7fe-3da9207a7640",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -60,7 +230,7 @@
     "created_at": "2026-07-07T04:46:30.000Z"
   },
   {
-    "id": "8a0deba8-5468-40ab-8812-e4ce70a07f4f",
+    "id": "0ecc79e7-f231-432c-abe4-4338186fe2da",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Brian Armstrong says he's looking into how Coinbase's AI sent a false \"breaking news\" alert claiming Norway beat Brazil 3-2 before the World Cup match even started.",
@@ -150,7 +320,7 @@
     "created_at": "2026-07-07T03:15:02+00:00"
   },
   {
-    "id": "e706d637-fb99-4587-b9e6-551757d20a67",
+    "id": "563e6fb6-4032-4e02-b142-77b8085c28b4",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Strive bought 17.76 BTC last week, a nod to 1776 ahead of July 4, lifting its total holdings to 19,882 BTC.",
@@ -278,165 +448,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#67da7f39",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-07T01:15:36+00:00"
-  },
-  {
-    "id": "e7315c34-da93-4cff-9acd-0fa4c7ee4421",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act Scores 2 Key Law Enforcement Wins as Opposition Softens",
-    "summary": "1. The CLARITY Act gained fresh momentum after the National Organization of Black Law Enforcement Executives endorsed the bill and Major County Sheriffs of America shifted to neutral, marking two notable law enforcement developments for digital asset legislation.\n2. Why Is the CLARITY Act’s Momentum Building?\n3. The CLARITY Act gained momentum after the National Organization of Black […]",
-    "url": "https://news.bitcoin.com/clarity-act-scores-2-key-law-enforcement-wins-as-opposition-softens/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-07T01:05:37.000Z"
-  },
-  {
-    "id": "7f75f715-a94c-4b47-bc3b-70ad7923a83c",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The California Democrat who says he ‘won’t cheer FIFA’s capitulation to power’",
-    "summary": "1. A Congressional World Cup Caucus co-chair bemoaned what he calls a “corruption summit” between Donald Trump and soccer’s governing body.",
-    "url": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/sam-liccardo-world-cup-caucus-corruption-fifa-trump-balogun-red-card-00988441",
-    "author": "By Blake Jones",
-    "created_at": "2026-07-07T01:05:00.000Z"
-  },
-  {
-    "id": "4ac55ac3-54c9-45e4-8e4e-c905b8b49e4a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Trump was introduced to red and yellow cards in 2018",
-    "summary": "1. FIFA President Gianni Infantino gave the president a lesson on soccer's disciplinary system during an Oval Office meeting.",
-    "url": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/trump-showed-a-red-card-in-2018-00988439",
-    "author": "By Sophia Cai",
-    "created_at": "2026-07-07T00:55:05.000Z"
-  },
-  {
-    "id": "338a6e48-bd7d-43d5-9199-0364c2c5641b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-    "summary": "1. A new report suggests Netflix viewers aren’t sticking around for Season 2.\n2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
-    "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-    "author": "Sarah Perez",
-    "created_at": "2026-07-07T00:47:33.000Z"
-  },
-  {
-    "id": "873eb14e-6206-43aa-ad7a-fdb4f4f2c6cd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Altcoin Season Index drops to 49, down 3 points",
-    "summary": "CoinMarketCap's Altcoin Season Index has dropped three points from the previous day to 49. The index is calculated by comparing the price performance of the top 100 coins by market capitalization (excluding stablecoins and wrapped tokens) against Bitcoin. The market is considered to be in an altcoin season if 75% of these top coins have outperformed Bitcoin over the past 90 days; otherwise, it is a Bitcoin season. A reading closer to 100 indicates an altcoin season.",
-    "url": "https://t.me/CoinnessGL#602291ec",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T00:31:42+00:00"
-  },
-  {
-    "id": "b66e2ec6-4e9f-4852-bc9d-bc4fbf9cbb07",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "South Korea’s Supreme Court Expands Bitcoin Seizure Powers, With October Rollout Set to Speed Claims",
-    "summary": "1. South Korea’s top court has drafted a civil execution amendment establishing explicit legal procedures to freeze, seize, and liquidate virtual assets like bitcoin during civil litigation.\n2. New Rules on Asset Seizure South Korea’s Supreme Court has announced a sweeping update to its civil enforcement regulations, establishing clear legal procedures for seizing, freezing and liquidating […]",
-    "url": "https://news.bitcoin.com/south-koreas-supreme-court-expands-bitcoin-seizure-powers-with-october-rollout-set-to-speed-claims/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-07T00:30:00.000Z"
-  },
-  {
-    "id": "51e4f7a1-65b2-42eb-a4b0-ee3b05f31bbd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran hits two merchant ships with missiles in Strait of Hormuz",
-    "summary": "Iran has fired at least two missiles at ships in the Strait of Hormuz, hitting two merchant vessels, Axios reported, citing a U.S. official. The ships sustained serious damage, but no casualties were reported.",
-    "url": "https://t.me/CoinnessGL#701f27b2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T00:29:03+00:00"
-  },
-  {
-    "id": "e8be183c-f219-4176-81cd-a97174ab5540",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Empery Digital withdraws another 200 BTC",
-    "summary": "Nasdaq-listed Empery Digital, which is strategically accumulating Bitcoin, withdrew an additional 200 BTC from a new address about an hour ago, Onchain Lens reported. The withdrawal is valued at $12.84 million. The company has now purchased 1,200 BTC, worth $72.65 million, over the past six days.",
-    "url": "https://t.me/CoinnessGL#045679d4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T00:20:09+00:00"
-  },
-  {
-    "id": "39fc89ee-fb18-49b1-bf5c-267e6f18bb6f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ TeraWulf signed a 20-year lease with Anthropic at its Kentucky data campus expected to generate ~$19B in revenue.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b4cc80cf",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T00:10:36+00:00"
-  },
-  {
-    "id": "bfd36983-38df-4f79-92da-4108f71cb5a9",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Who's actually trading tokenized stocks?",
-    "summary": "Trade sizes don't lie 🔍🐋 Ondo: whale-driven: 49% of volume from $​50K+ trades🌏 bStocks: retail-powered: 77% of trades under $100, 92% of volume sub-$10KbStocks' retail flow spans US + Asia sessions, depth that stays even when markets go quiet.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#cf54a794",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T00:05:36+00:00"
-  },
-  {
-    "id": "aeaabf17-95df-40a7-8387-5f6ef3f82994",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Belgian fans fuming over Balogun’s inclusion",
-    "summary": "1. It’s another example of Trump pulling the strings in a tournament that has increasingly strayed into the political arena, they say.",
-    "url": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/belgian-fans-fuming-00988433",
-    "author": "By Gregory Svirnovskiy",
-    "created_at": "2026-07-07T00:04:39.000Z"
-  },
-  {
-    "id": "08ce36d0-da94-4c3b-8632-23cd07088561",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
-    "summary": "1. Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here.\n2. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long?",
-    "url": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Andrew Fenton",
-    "created_at": "2026-07-07T00:03:30.000Z"
-  },
-  {
-    "id": "c558ac44-20de-4881-b187-ce0707edb091",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The ‘first’ AI-run ransomware attack still needed a human",
-    "summary": "1. An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
-    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "author": "Connie Loizos",
-    "created_at": "2026-07-06T23:56:14.000Z"
-  },
-  {
-    "id": "bf001c24-10a0-45fa-a4a3-aa51043dd274",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Miner Stress Hits ‘Historically Rare’ Level as 20% of Miners Operate at a Loss",
-    "summary": "1. Bitcoin’s Miner Cycle Stress Composite has fallen to a new 2026 low and entered its “undervalued” range, a synchronized decline previously seen only near the market’s major bottoms in 2015, 2018 and 2020.\n2. The reading arrives with bitcoin trading near $63,800 and nearly one in five miners producing coins at a loss.\n3. A Rare Signal […]",
-    "url": "https://news.bitcoin.com/bitcoin-miner-stress-hits-historically-rare-level-as-20-of-miners-operate-at-a-loss/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-06T23:40:53.000Z"
-  },
-  {
-    "id": "feef303d-07f0-4eea-a3cb-211679a40c2e",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "summary": "1. SK Hynix is experiencing a boom credited to AI.\n2. It will ride that to a multibillion-dollar U.S.\n3. IPO, expected to take place on Friday.",
-    "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "author": "Julie Bort",
-    "created_at": "2026-07-06T23:21:03.000Z"
-  },
-  {
-    "id": "e679145c-c7af-4f52-8028-cbe89998b896",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ The UNDP has expanded its Stellar blockchain payment agreement after pilots in Haiti, Syria, Kenya, Guatemala and The Gambia moved beyond trial stage.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#82b99d66",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-06T23:20:37+00:00"
   }
 ]
