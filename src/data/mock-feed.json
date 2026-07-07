@@ -1,5 +1,135 @@
 [
   {
+    "id": "b512a7f1-c645-47f5-a811-8f29e5e6f46b",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-07T03:08:33.000Z"
+  },
+  {
+    "id": "2f557e84-43fc-4e71-af0e-1c90a5f2e995",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "South Korean police to select custodian for seized crypto assets",
+    "summary": "Incidents of seized crypto assets disappearing from police custody in South Korea are expected to become a thing of the past, the Munhwa Ilbo reported. This comes as the National Police Agency is in the final stages of selecting a private-sector custodian to manage these assets, with a decision expected as early as this week.Seven major crypto custody firms have submitted bids for the contract: BDACS, KODA, KDAC, Upbit Custody, Hecto Wallet One, DSRV, and AhnLab Blockchain Company. For this fourth round of bidding, the government expanded the scope of eligible companies and increased the project's budget 3.2-fold year-over-year to 267 million won (around $192,000). more:",
+    "url": "https://t.me/CoinnessGL#a3c60016",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T03:05:54+00:00"
+  },
+  {
+    "id": "f188f9ae-dd7c-4a84-b33e-53520968b755",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Europe’s Crypto Lead at Risk if MiCA Rollout Fragments, Binance CEO Warns",
+    "summary": "1. Europe’s MiCA framework gave the EU an early lead in crypto regulation, but Binance’s CEO warned that inconsistent implementation could shape whether digital asset firms, users, and capital remain in the region.\n2. Europe Has the Rules.\n3. Now the Market Is Watching the Execution.",
+    "url": "https://news.bitcoin.com/europes-crypto-lead-at-risk-if-mica-rollout-fragments-binance-ceo-warns/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-07T03:05:05.000Z"
+  },
+  {
+    "id": "d089cb03-2bc3-4fe0-be9c-e6ff881b7fa1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ETH could rally to $2,245 if it breaks $1,796 resistance",
+    "summary": "Ethereum (ETH) could rise to $2,245 if it breaks through the $1,796 resistance level, crypto trader Ali Martinez said on X. He explained that $1,796 is a resistance zone according to the Market Value to Realized Value (MVRV) metric, which also aligns with the baseline of the TD Sequential trend reversal indicator. Above this, $1,816 acts as another resistance. Martinez noted that if ETH breaks above both these price points and surpasses the channel top of $1,844, a rally to $2,245—the average on-chain acquisition price for ETH holders—could occur.",
+    "url": "https://t.me/CoinnessGL#4e977a90",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T02:53:32+00:00"
+  },
+  {
+    "id": "197956fb-5483-463c-bfd3-24c9fefb1acd",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Cassie Heart: Only on FC does a crypto crowd make this remark and it's actually kind",
+    "summary": "1. Only on FC does a crypto crowd make this remark and it's actually kind",
+    "url": "https://warpcast.com/cassie/0x0973a803",
+    "author": "Cassie Heart",
+    "created_at": "2026-07-07T02:35:05.000Z"
+  },
+  {
+    "id": "9484a88b-183a-4d34-9719-c40c00ddb6db",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Grayscale: Strategy's BTC sale eases financing risk, helps stabilize price",
+    "summary": "Asset management firm Grayscale has assessed that Strategy's (MSTR) sale of Bitcoin could lower its financing risk while also positively impacting BTC price stability. According to Grayscale Research, the sale of approximately $216 million in BTC has increased Strategy's dollar holdings, securing enough cash to cover about 17 months of dividend payments. The research arm added that a recent rebound in the STRC stock price suggests that Strategy's investors view the decision favorably.",
+    "url": "https://t.me/CoinnessGL#af36601f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-07T02:23:54+00:00"
+  },
+  {
+    "id": "7ff17180-bc54-46f2-a8ed-f756090cd5d9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
+    "summary": "1. The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve.",
+    "url": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-07-07T02:17:58.000Z"
+  },
+  {
+    "id": "93e258c4-7035-4ca9-a46c-aab4fea070c7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Peter Schiff Warns Strategy’s 840K Bitcoin Holdings Could Bring ‘Much Greater’ Losses",
+    "summary": "1. Peter Schiff warned that Strategy’s new bitcoin sale policy could result in much larger realized losses after the company sold 3,588 bitcoin for about $216 million under its BTC Monetization Program.\n2. How Strategy’s Confirmed Bitcoin Sale Turned Into a Market Signal Strategy Inc.\n3. (Nasdaq: MSTR) sold 3,588 bitcoin, raising about $216.3 million, the company announced […]",
+    "url": "https://news.bitcoin.com/peter-schiff-warns-strategys-840k-bitcoin-holdings-could-bring-much-greater-losses/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-07T02:05:42.000Z"
+  },
+  {
+    "id": "71c0244f-77df-46a0-a588-3b4f8c0f9ac6",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: @dylsteck.eth is looking to try some new apps out! what mini apps or other crypt...",
+    "summary": "1. @dylsteck.eth is looking to try some new apps out!\n2. what mini apps or other crypto apps/protocols should they check out?\n3. what are casters working on or using?",
+    "url": "https://warpcast.com/farcaster/0xd2564516",
+    "author": "Farcaster",
+    "created_at": "2026-07-07T01:59:19.000Z"
+  },
+  {
+    "id": "85b7ace5-2022-470b-b337-cdf2fb7c26a4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
+    "summary": "1. Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy’s selling.",
+    "url": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-07T01:55:34.000Z"
+  },
+  {
+    "id": "3da9f660-8b66-46c6-bf21-5ee797e4771c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇷🇺 Russia's largest bank Sberbank plans to launch a crypto wallet and digital depository by December through Sberbank Online and SberInvestments.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#787f11e2",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-07T01:40:36+00:00"
+  },
+  {
+    "id": "5e059cdc-bcc0-4c0b-ac0f-3361066ab945",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Tokenized stocks trade 24/7.",
+    "summary": "Their traders mostly don't. ⏰US market hours captured 35-64% of on-chain volume last week, with Ondo the most Wall Street-aligned at 64%, and essentially zero weekend activity.The retail venues tell a different story: bStocks did 27% of its volume on weekends and xStocks 23%, while traditional markets sat closed.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#67da7f39",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-07T01:15:36+00:00"
+  },
+  {
+    "id": "e7315c34-da93-4cff-9acd-0fa4c7ee4421",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CLARITY Act Scores 2 Key Law Enforcement Wins as Opposition Softens",
+    "summary": "1. The CLARITY Act gained fresh momentum after the National Organization of Black Law Enforcement Executives endorsed the bill and Major County Sheriffs of America shifted to neutral, marking two notable law enforcement developments for digital asset legislation.\n2. Why Is the CLARITY Act’s Momentum Building?\n3. The CLARITY Act gained momentum after the National Organization of Black […]",
+    "url": "https://news.bitcoin.com/clarity-act-scores-2-key-law-enforcement-wins-as-opposition-softens/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-07T01:05:37.000Z"
+  },
+  {
     "id": "7f75f715-a94c-4b47-bc3b-70ad7923a83c",
     "source": "Politico",
     "type": "rss",
@@ -70,7 +200,7 @@
     "created_at": "2026-07-07T00:20:09+00:00"
   },
   {
-    "id": "fa552f64-bb9a-473b-bb1f-0fbc99c7a114",
+    "id": "39fc89ee-fb18-49b1-bf5c-267e6f18bb6f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ TeraWulf signed a 20-year lease with Anthropic at its Kentucky data campus expected to generate ~$19B in revenue.",
@@ -290,7 +420,7 @@
     "created_at": "2026-07-06T21:14:09+00:00"
   },
   {
-    "id": "f99f94b4-4e07-4cb6-9f7a-5f19326c4fac",
+    "id": "da42de0e-848a-4c79-a240-e2062b3870c8",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "$64,000 Bitcoin@WatcherGuru",
@@ -308,245 +438,5 @@
     "url": "https://t.me/CoinnessGL#0393e6e6",
     "author": "@CoinnessGL",
     "created_at": "2026-07-06T21:10:18+00:00"
-  },
-  {
-    "id": "31de7009-3cc3-476b-9a60-cb410be713d8",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "JPMorgan's JLTXX Tokenized Money Market Fund AUM Grows 250% in a Month on Ethereum",
-    "summary": "1. JPMorgan's JLTXX tokenized money market fund has grown its onchain assets under management by roughly 250% over the past month, according to data platform Token Terminal.\n2. The bank runs the fund exclusively on Ethereum.\n3. JLTXX, formally the OnChain Liquidity Token Money Market Fund, launched May 13…",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-s-jltxx-tokenized-money-market-fund-aum-grows-250-in-a-month-on-ethereum",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-06T21:07:18.000Z"
-  },
-  {
-    "id": "ef1b27e3-f735-4291-a38a-be5d34224fd4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?",
-    "summary": "1. Bitcoin sold off as news of Strategy selling BTC shook investors’ nerve but the quick rebound suggests bulls remain ambitiously positioned.",
-    "url": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-07-06T21:06:00.000Z"
-  },
-  {
-    "id": "3ae7bcd6-0edb-4e6f-b9ae-6525baa93217",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don’t Act",
-    "summary": "1. Yvette Cooper said governments must agree on AI safeguards before frontier systems transform warfare, crime, and society.",
-    "url": "https://decrypt.co/372855/uk-foreign-secretary-warns-ai-hiroshima",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-06T21:01:03.000Z"
-  },
-  {
-    "id": "7acc6121-bc17-4924-a2bc-c619d919f6a8",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
-    "summary": "1. The Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
-    "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-07-06T20:56:52.000Z"
-  },
-  {
-    "id": "47eea34f-99f7-4673-8090-a441d9b8db3a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🚨 Coinspect says a flaw dubbed \"Ill Bloom\" has exposed thousands of software wallets across Bitcoin, Ethereum, Solana and more, draining over $5M since May 27.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#84159b62",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-06T20:55:38+00:00"
-  },
-  {
-    "id": "23dc5fd0-1393-4c54-a0c6-66c04137f562",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "BonkDAO reports $20M theft from ‘malicious governance proposal’",
-    "summary": "1. The developers behind the memecoin project said they had informed law enforcement after the attack and were working to “recover funds and identify those responsible.”",
-    "url": "https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-06T20:55:11.000Z"
-  },
-  {
-    "id": "17801628-fe5d-47b2-8d30-4aa86dc8e291",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘Privacy Is No Longer an Afterthought’: Vitalik Buterin Unveils 3-4 Year Plan to Rebuild Ethereum",
-    "summary": "1. Ethereum co-founder Vitalik Buterin has published a “Lean Ethereum” roadmap that would replace nearly every major component of the protocol over the next three to four years, describing the effort as the network’s biggest transformation since the Merge.\n2. Looking to Forge a Better-Defined Future Buterin published the roadmap on X recently, days after Ethereum researchers […]",
-    "url": "https://news.bitcoin.com/vitalik-buterin-lean-ethereum-roadmap-rebuild/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-06T20:50:44.000Z"
-  },
-  {
-    "id": "18ce0605-9e0e-4c1b-9fb9-60dd532e9b18",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Great news!\n2. I have just been informed that one of the biggest, best, and smartest Retailers in America, Walmart, will be lowering prices, by a lot, at my Administration's request to celebrate our great Country's 250th birthday.\n3. Walmart will, in particular, be dropping the price for a pound of ground beef by almost 15%, among many other products.",
-    "url": "https://trumpstruth.org/statuses/39863",
-    "author": "Trump Truth",
-    "created_at": "2026-07-06T20:45:33.000Z"
-  },
-  {
-    "id": "f3e4ed1d-3679-4b72-bcf8-24574867b5d1",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: What the devs are working on this week:\n-Protocol: channels + blocks moving onto...",
-    "summary": "1. What the devs are working on this week:\n-Protocol: channels + blocks moving onto the protocol + Degen validator onboarded\n-Account security: automating account recovery + fixing passkey edge cases + smoother seed-phrase sign-in on mobile\n-Clanker: working through v5 security-audit follow-ups + ecosystem integrations\n-Feed quality: a round of Neynar score improvements to better catch coordinated rings + richer data for feed experiments + groundwork for translated posts across languages\n-Spaces: working on adding recording in Spaces + a fail-safe against accidentally closing your room\n-Wallet: limit orders are live, now expanding to more tokens + networks, with fill notifications coming\n---smarter trade routing for better prices + improved token search + letting verified tokens bypass an overly aggressive spam filter\n-In-App payments: monthly plan option for Farcaster Pro + paying for storage with your in-app wallet instead of the app store\n-Rish is heads down working on shipping something, so might not be as responsive as usual for a bit\n\nKnown issues we're working on (not an exhaustive list, just what the intern has seen the most of):\nSign-in\n-iOS: passkey sign-in failing for some users, with the recovery-phrase fallback stalling (one recovery blocker already fixed)\n-Duplicate passkeys showing after account recovery (fix in review)\n\nWallet\n-Scattered token issues: a token missing from holdings, a user unable to sell a token they hold, swaps failing on BSC\n-Secondary wallet seed phrase loading forever (fix shipped)\n\nMobile\n-App freezing / force-closing when opening a DM on iOS + Android\n-iOS: posts saving as drafts without being saved (fix shipped)\n-Quote casting with a video attached failing\n-Android: back button intermittently not working (again) + first tap on side-menu items not registering\n\nMini apps\n-Brief pop-up flashing when opening mini apps (fixed)\n\nNeynar Developer\n-Free tier wrongly telling some devs to upgrade to a paid plan (fixed)\n\nCurrent mobile version: v2.1.10 (556)\n\nWhat did I miss?",
-    "url": "https://warpcast.com/farcaster/0x79ea0ecd",
-    "author": "Farcaster",
-    "created_at": "2026-07-06T20:37:49.000Z"
-  },
-  {
-    "id": "424ddef9-187d-4d27-aab5-ef05de8dc70a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Michael Saylor says Bitcoin's four-year cycle is losing its grip as capital flows, not miner issuance, now drive its trajectory.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0b29eee3",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-06T20:22:07+00:00"
-  },
-  {
-    "id": "843770bc-7894-419a-856a-50f270818742",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "BonkDAO Treasury Loses $20M in Malicious Governance Attack, BONK Slides 8%",
-    "summary": "1. BonkDAO, the decentralized autonomous organization overseeing the BONK meme token ecosystem on Solana, confirmed on Monday that it was the victim of a targeted governance attack resulting in the loss of approximately $20 million in BONK tokens.\n2. The incident highlights a critical vulnerability in decentralized governance structures, as the attacker did not exploit smart contract […]",
-    "url": "https://news.bitcoin.com/bonkdao-treasury-loses-20m-in-malicious-governance-attack-bonk-slides-8/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-06T20:08:09.000Z"
-  },
-  {
-    "id": "ff8412e2-71a4-4aa6-a2b4-9374f55fae2b",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-06T20:07:08.000Z"
-  },
-  {
-    "id": "de33b8d2-dacd-4e94-bca0-7929d2d6cf8b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close higher",
-    "summary": "The three major U.S. stock indices closed higher today.- S&P 500: +0.72%- Nasdaq: +1.12%- Dow Jones: +0.30%",
-    "url": "https://t.me/CoinnessGL#f4d730ab",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-06T20:02:12+00:00"
-  },
-  {
-    "id": "7e7adb1b-e2fa-40a7-9ca8-0bc82177dbc6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "YGG to shut down crypto game publishing arm as part of AI pivot",
-    "summary": "Blockchain-based game developer Yield Guild Games (YGG) announced it is shutting down its crypto game publishing division, citing the crypto market downturn and strategic difficulties in the video game industry. According to Decrypt, this will result in the closure of YGG Play, its casual crypto game publishing arm, along with its website, launcher, and games like LOL Land and Wifusweeper, on Aug. 1. YGG stated it plans to pivot and focus its investment on supplying data for AI training, believing that behavioral data from video game players' decision-making processes could be valuable for AI developers. The company added that it held $20.6 million in assets as of the first quarter and expects this restructuring to secure four years of operating funds.",
-    "url": "https://t.me/CoinnessGL#7b33f496",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-06T20:00:25+00:00"
-  },
-  {
-    "id": "213c20ac-0bc1-4936-8c4c-229351f732ba",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "'We Cannot Vibe Code the Future of Humanity', UN Chief Warns at AI Summit",
-    "summary": "1. António Guterres borrowed a Silicon Valley meme to make the starkest case yet for global AI oversight—then called for an international ban on killer robots.",
-    "url": "https://decrypt.co/372854/we-cannot-vibe-code-future-of-humanity-un-chief-warns-ai",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-06T19:58:29.000Z"
-  },
-  {
-    "id": "c2513781-d4ee-4190-a43a-a527c9d919ac",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
-    "summary": "1. The financial firm admitted Bitcoin's retrace has been painful, but still holds a lofty year-end price prediction for the top crypto asset.",
-    "url": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-07-06T19:58:25.000Z"
-  },
-  {
-    "id": "f40584f3-4a39-4d3a-8e48-322e17cf18b1",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Platner says he is ‘taking the time to reflect’ on his candidacy",
-    "summary": "1. The Maine Democratic Senate nominee posted the statement after POLITICO published allegations that he forced a woman to have sex with him, which he denies.",
-    "url": "https://www.politico.com/news/2026/07/06/graham-platner-time-to-reflect-allegations-00987897",
-    "author": "By Andrew Howard",
-    "created_at": "2026-07-06T19:56:47.000Z"
-  },
-  {
-    "id": "4ab102b1-b85c-4a7d-875a-3213cb75e51b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "President Trump’s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
-    "summary": "1. President Trump's plans for a strategic bitcoin reserve are hitting a legal and jurisdictional snag, according to reporting from Bloomberg.",
-    "url": "https://www.theblock.co/post/407356/trump-strategic-bitcoin-reserve-hits-legal-jurisdictional-snag-bloomberg?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-06T19:56:00.000Z"
-  },
-  {
-    "id": "ac21a589-e923-46b3-b50d-2e7d499457f7",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "summary": "1. \"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "author": "Russell Brandom",
-    "created_at": "2026-07-06T19:49:10.000Z"
-  },
-  {
-    "id": "94637271-7341-433e-bc37-7383b880c7c3",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
-    "summary": "1. Yield Guild Games is shutting down its YGG Play division and games like LOL Land, blaming the crypto market downturn and other factors.",
-    "url": "https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot",
-    "author": "Andrew Hayward",
-    "created_at": "2026-07-06T19:48:59.000Z"
-  },
-  {
-    "id": "eb8c2e74-b592-4699-bfc3-45ccacd66d76",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🚨 Jamf Threat Labs warns that a fake Maccy clipboard manager app is delivering a new macOS infostealer dubbed PamStealer that targets passwords and crypto wallet keys.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#31a273ee",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-06T19:45:38+00:00"
-  },
-  {
-    "id": "edb93feb-dc82-4ebb-a5ae-a760c05e6b2f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "98% Chance to Play: Prediction Markets Surge Over Folarin Balogun’s Suspended FIFA Red Card",
-    "summary": "1. The alleged lobbying attempt by President Donald Trump to clear the U.S.\n2. team’s top scorer, Folarin Balogun, has sparked interest in prediction markets, with a majority of traders betting on his presence in the upcoming Round of 16 match against Belgium.\n3. A Majority of Polymarket Traders Believe Balogun Will Play Against Belgium The suspension of […]",
-    "url": "https://news.bitcoin.com/98-chance-to-play-prediction-markets-surge-over-folarin-baloguns-suspended-fifa-red-card/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-06T19:30:16.000Z"
-  },
-  {
-    "id": "b1e2ffa7-e498-4b65-81f0-de8a329fd5dc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ripple secures full MiCA license for crypto services across Europe",
-    "summary": "1. The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.",
-    "url": "https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-06T19:29:13.000Z"
-  },
-  {
-    "id": "4c0d9eab-6e48-4fbe-a031-22851817c22f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇿🇦 South Africa's tax authority has proposed draft guidance taxing crypto trades, swaps and spending as disposals under existing income and capital gains tax rules.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#392bd3fc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-06T19:10:37+00:00"
   }
 ]
