@@ -1,6 +1,86 @@
 [
   {
-    "id": "2fdc8d20-f3c8-46c3-992b-901f580d4d0f",
+    "id": "053a3831-52ba-4617-bc1e-0531e2e64a30",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-08T08:58:35.000Z"
+  },
+  {
+    "id": "f447be3c-1867-4b74-8e80-3b3d1b0a2cab",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇪🇸 President Trump orders US to cut off all trade with Spain.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#364d3e82",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-08T08:56:05+00:00"
+  },
+  {
+    "id": "05553e1e-9bf6-4ed2-869a-9623749949ed",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "XRP Ledger releases V3.2.0 to boost efficiency, security",
+    "summary": "The XRP Ledger (XRPL) has released its server software V3.2.0, CoinDesk reported. The new version includes features designed to reduce network operating costs and improve stability, along with enhanced security for single-asset vaults, permissioned decentralized exchanges (DEX), multi-purpose tokens (MPT), and lending protocols. It also adds a function to prevent residual data from being left behind by deleted accounts.However, for the upgrade to be implemented, it must be supported by over 80% of validators on the Unique Node List (UNL) for two consecutive weeks. Meanwhile, a separate on-chain vote is underway for an amendment containing security fixes.",
+    "url": "https://t.me/CoinnessGL#154ce27f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-08T08:55:32+00:00"
+  },
+  {
+    "id": "31ab7e70-10de-4683-81f5-3a05a9a68468",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Strive CRO calls Strategy's BTC sale a bullish move for future buys",
+    "summary": "Jeff Walton, Chief Risk Officer (CRO) at strategic Bitcoin investment firm Strive, has assessed Strategy's recent sale of 3,500 BTC as effectively bullish news that will help the company purchase more Bitcoin in the future, according to BitcoinTreasuries. He explained that the sale supports Strategy's financial structure and enhances its capacity for future growth, ultimately serving as a foundation for acquiring additional Bitcoin. Walton added that MicroStrategy (MSTR) shareholders should therefore view this shift in asset management positively.",
+    "url": "https://t.me/CoinnessGL#66c1d7d5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-08T08:55:15+00:00"
+  },
+  {
+    "id": "958523b5-6049-4c9b-8621-fe4dbb8143fc",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇪 Kenya's Capital Markets Authority is seeking a blockchain analytics platform to track Bitcoin, Ethereum, and 20+ other networks for fraud, laundering, and sanctions evasion.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9af4516b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-08T08:50:37+00:00"
+  },
+  {
+    "id": "c21a76c6-b2dc-421b-8488-0289e25e3820",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Base to activate B20 standard for stablecoins, RWAs and other tokens",
+    "summary": "1. Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin creating native tokens on the network.",
+    "url": "https://cointelegraph.com/news/base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-08T08:46:02.000Z"
+  },
+  {
+    "id": "9cc67689-de93-4c4e-add3-1b9ac77cf5d5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP Ledger’s new upgrade is here. But not everyone’s on board yet",
+    "summary": "1. The new software leads among the network's validators, yet by node count it sits behind the older v3.1.3, and the security amendment bundled with it remains a separate, slower vote.\n2. The upgrade needs 80% of the trusted validator list to activate.",
+    "url": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-08T08:40:22.000Z"
+  },
+  {
+    "id": "683b50f8-434a-4af4-9708-497f87e718d8",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇮🇷 Bitcoin falls under $62,000 after President Trump says MoU with Iran is over.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#16cbf13f",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-08T08:40:03+00:00"
+  },
+  {
+    "id": "9cf289d9-9659-4663-b8df-6cd934753fb8",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "India's central bank reaffirms crypto ban stance",
@@ -40,7 +120,7 @@
     "created_at": "2026-07-08T08:26:40+00:00"
   },
   {
-    "id": "56b2111f-8f40-4465-8927-282a1bd10506",
+    "id": "f957a885-99fb-482f-95b1-e0131f8e669a",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "TRUMP SAYS IRAN CEASE FIRE IS OVER\"The memorandum of understanding is over.",
@@ -50,7 +130,7 @@
     "created_at": "2026-07-08T08:20:51+00:00"
   },
   {
-    "id": "5c795526-6640-45f9-9174-f5b6cfdf0756",
+    "id": "f64c3072-e604-493e-a942-3e6ddf0c5e5a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Polymarket now supports instant Bitcoin deposits via the Lightning Network, powered by Spark.",
@@ -70,7 +150,7 @@
     "created_at": "2026-07-08T08:05:26.000Z"
   },
   {
-    "id": "55874799-155a-4759-9f74-27dce516a425",
+    "id": "dce51783-7319-43c7-9ad3-06fd3b58c90f",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇮🇳 India's central bank backs crypto ban.@WatcherGuru",
@@ -90,7 +170,7 @@
     "created_at": "2026-07-08T08:00:00.000Z"
   },
   {
-    "id": "ba5c411f-1703-4b46-9c2f-e62cc2458465",
+    "id": "d3b3170a-54df-443e-8e04-e7da855f3b79",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Robinhood CEO Vlad Tenev says Robinhood’s blockchain is great for memesTwitter",
@@ -140,7 +220,7 @@
     "created_at": "2026-07-08T06:50:34+00:00"
   },
   {
-    "id": "520a2553-4ca1-42b2-ac48-4d156755eb6d",
+    "id": "2136bc87-6a7b-4063-ae3b-38086561180f",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran’s Revolutionary Guards say they struck 85 US military sites across Bahrain and Kuwait, including the US Fifth Fleet HQ and Ali Al Salem airbase in retaliation for today’s US strikes | per ReutersTwitter",
@@ -190,7 +270,7 @@
     "created_at": "2026-07-08T06:07:29+00:00"
   },
   {
-    "id": "01157964-0dde-4bdb-8323-f38257709ff6",
+    "id": "27ce8a44-8994-468d-a1ea-1d08fb4c2d76",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Ondo Finance says its Ondo Perps platform now lets pre-alpha traders use tokenized stocks as collateral for perpetual futures on commodities and stocks.",
@@ -458,25 +538,5 @@
     "url": "https://t.me/CoinnessGL#ca825c6a",
     "author": "@CoinnessGL",
     "created_at": "2026-07-08T02:58:55+00:00"
-  },
-  {
-    "id": "1b94af43-e424-4117-8b13-d76666d564f0",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. BREAKING NEWS: A very fair and highly respected Judge in the Middle District of Florida just denied The Failing New York Times’ desperate attempt, together with other defendants we are suing, to move our powerhouse Defamation Lawsuit against them to another jurisdiction.\n2. We will now have an oral argument in Florida, where our lawyers will present, in great detail, all the ways in which The Times publishes, promotes, and deals in Fake News.\n3. Thank you for your attention to this matter!",
-    "url": "https://trumpstruth.org/statuses/39888",
-    "author": "Trump Truth",
-    "created_at": "2026-07-08T02:48:47.000Z"
-  },
-  {
-    "id": "b272d730-164c-415d-bbfa-70b59c28d938",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost",
-    "summary": "1. The cost of eliminating margin calls and forced liquidations is an interest rate as high as 14.2% and an obligation to pay on time, Strike CEO Jack Mallers said.",
-    "url": "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-07-08T02:40:13.000Z"
   }
 ]
