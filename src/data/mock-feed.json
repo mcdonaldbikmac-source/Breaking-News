@@ -1,5 +1,105 @@
 [
   {
+    "id": "6e45ef23-25e1-47a5-8526-ec25aaf2f372",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-08T03:27:22.000Z"
+  },
+  {
+    "id": "893b1c03-69e9-4fe7-ad9a-4e5b49b78ce3",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-08T03:27:22.000Z"
+  },
+  {
+    "id": "4e5db2dc-e0d6-41e2-8d06-1cefea7c9f9a",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US government grants OpenAI approval to fully release its new GPT 5.6 AI model.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#bcd62196",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-08T03:24:24+00:00"
+  },
+  {
+    "id": "17131658-72d1-465b-9db2-74c9860bd0d1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US court denies Kalshi's bid to block NY sports betting rules",
+    "summary": "A U.S. court has ruled in favor of New York State in a dispute with prediction market platform Kalshi over the regulation of sports betting. Eleanor Terrett, host of Crypto-in-America, reported via X that Judge Analisa Torres of the Southern District of New York denied Kalshi's request to prevent the state from applying its gambling laws to the platform's offerings. Judge Torres found that applying New York's gambling laws to sports betting does not conflict with the federal Commodity Exchange Act (CEA). As a result, the case will now proceed to the motion to dismiss stage. Torres previously presided over the lawsuit between Ripple and the U.S. Securities and Exchange Commission (SEC). The ruling comes amid an ongoing debate in the U.S. over whether prediction markets should be regulated by individual states or the federal Commodity Futures Trading Commission (CFTC).",
+    "url": "https://t.me/CoinnessGL#b8183642",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-08T03:22:30+00:00"
+  },
+  {
+    "id": "5c0277fe-e111-48cb-8283-76b12102f45c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to temporarily suspend MTL deposits and withdrawals on July 8",
+    "summary": "Binance has announced it will temporarily suspend deposits and withdrawals for Metal (MTL) starting at 3:00 p.m. UTC on July 8 to support the network's upcoming upgrade and hard fork.",
+    "url": "https://t.me/CoinnessGL#e0509773",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-08T03:03:29+00:00"
+  },
+  {
+    "id": "e12b0834-a9b0-498f-995b-5c32e67e9a62",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "24-hour crypto futures liquidations",
+    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $72.64 million liquidated (58.62% longs)- ETH: $78.31 million liquidated (63.35% longs)- SOL: $18.98 million liquidated (84.4% longs)",
+    "url": "https://t.me/CoinnessGL#ca825c6a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-08T02:58:55+00:00"
+  },
+  {
+    "id": "1b94af43-e424-4117-8b13-d76666d564f0",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. BREAKING NEWS: A very fair and highly respected Judge in the Middle District of Florida just denied The Failing New York Times’ desperate attempt, together with other defendants we are suing, to move our powerhouse Defamation Lawsuit against them to another jurisdiction.\n2. We will now have an oral argument in Florida, where our lawyers will present, in great detail, all the ways in which The Times publishes, promotes, and deals in Fake News.\n3. Thank you for your attention to this matter!",
+    "url": "https://trumpstruth.org/statuses/39888",
+    "author": "Trump Truth",
+    "created_at": "2026-07-08T02:48:47.000Z"
+  },
+  {
+    "id": "b272d730-164c-415d-bbfa-70b59c28d938",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost",
+    "summary": "1. The cost of eliminating margin calls and forced liquidations is an interest rate as high as 14.2% and an obligation to pay on time, Strike CEO Jack Mallers said.",
+    "url": "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-07-08T02:40:13.000Z"
+  },
+  {
+    "id": "181940fc-b37a-499f-8e4b-f1c2ecee9170",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Maine Democratic voters are wary about repeating mistakes of 2024",
+    "summary": "1. Kamala Harris had under four months to campaign for president.\n2. Whoever replaces Graham Platner would have four months to beat Susan Collins.",
+    "url": "https://www.politico.com/news/2026/07/07/maine-voters-graham-platner-biden-harris-fears-00989673",
+    "author": "By Alec Hernandez",
+    "created_at": "2026-07-08T02:38:04.000Z"
+  },
+  {
+    "id": "a5ecc372-60cf-40cf-a98a-c1945e9947ae",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Tether's former chief investment officer Richard Heathcote is looking to sell part of his 1.26% stake in the stablecoin issuer, per Bloomberg.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ff45c1b3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-08T02:25:37+00:00"
+  },
+  {
     "id": "e664ab54-0d7f-45ac-8794-f8a4f6c36d3e",
     "source": "The Defiant",
     "type": "rss",
@@ -20,7 +120,7 @@
     "created_at": "2026-07-08T01:30:03.000Z"
   },
   {
-    "id": "71dcf342-9630-4df0-b7a5-e2f35143f74e",
+    "id": "462870da-93e0-4de3-94ac-ea9ef597c793",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇪🇺 The European Parliament has adopted a formal policy stance urging the European Commission to bring DeFi, staking, crypto lending and NFTs more clearly under MiCA's regulatory perimeter.",
@@ -50,7 +150,7 @@
     "created_at": "2026-07-08T00:27:50Z"
   },
   {
-    "id": "ae3df9c4-ac11-48a8-aa92-1997713d38ef",
+    "id": "26d5c836-e0e9-4490-ad88-e062f6916630",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇬🇧 Coinbase has gained a UK investment services license from the FCA, letting it add derivatives, commodity futures, and retail equities trading.",
@@ -60,7 +160,7 @@
     "created_at": "2026-07-08T00:15:38+00:00"
   },
   {
-    "id": "8655a54e-77f7-4f93-b19d-7d8d3ec0dc08",
+    "id": "7e1a9eaf-9b09-47ef-bc3c-6c03230de37d",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "TRUMP APPROVES IRAN STRIKE WHILE AT NATO SUMMIT IN ANKARA, MEETS WITH HEGSETH, RUBIO, BESSENT ON AIR FORCE ONE TO DISCUSS PLANU.S.",
@@ -130,7 +230,7 @@
     "created_at": "2026-07-07T22:18:10.000Z"
   },
   {
-    "id": "9cd7258e-31f0-4188-9358-2cc64275c055",
+    "id": "b89fec41-7e52-4f5d-8ea5-8321a65f4019",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇨🇳 China expected to produce over 100,000 humanoid robots this year.@WatcherGuru",
@@ -160,7 +260,7 @@
     "created_at": "2026-07-07T22:01:32.000Z"
   },
   {
-    "id": "8714ea0d-1250-4c42-bd07-c704f69ba00f",
+    "id": "f292f54e-02d8-46f6-b8ac-cb0966c88965",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Polymarket enables Bitcoin deposits through $BTC Lightning Network.@WatcherGuru",
@@ -218,135 +318,5 @@
     "url": "https://www.theblock.co/post/407524/kraken-wins-22-million-arbitration-auditor-mazars-for-ditching-during-operation-choke-point-2-0?utm_source=rss&utm_medium=rss",
     "author": "Daniel Kuhn",
     "created_at": "2026-07-07T21:30:10.000Z"
-  },
-  {
-    "id": "c4bd5432-22b3-4894-97d1-d64e9018067d",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US launched strikes on Iran, accusing it of a “dangerous” and “unjustified” ceasefire breach, after Iran attacked three commercial ships in the Strait of HormuzTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#229585e1",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-07T21:20:23+00:00"
-  },
-  {
-    "id": "90fabd6c-02cd-4616-a533-c4c1420f76ac",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost",
-    "summary": "1. ETH charts a path toward $2,000 as TradFi adoption, DAT buying and a long-awaited network upgrade boost investor interest.",
-    "url": "https://cointelegraph.com/markets/ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-07-07T21:14:37.000Z"
-  },
-  {
-    "id": "eb786792-2dcd-4ecd-ad31-fe2567ce723a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Two traders have sued Polymarket, alleging it wrongly resolved a market about a May Bitcoin sale from Strategy as \"No\" despite the firm's SEC filing confirming a 32 BTC sale between May 26-31.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4e6e4830",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T21:10:37+00:00"
-  },
-  {
-    "id": "149d8b20-bed9-47cb-90a6-4a1308f97403",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.203",
-    "summary": "1. ## What's changed\n\n- Added a warning when your login is about to expire, so you can re-authenticate before background sessions are interrupted\n- Added a grey ⏸ badge to the footer when in manual permission mode, making the active mode always visible\n- Added the session's additional working directories to MCP `roots/list`, with `notifications/roots/list_changed` sent when the set changes\n- Fixed opening or switching background agent sessions on macOS stalling for 15–20 seconds due to a false low-memory detection (regression in 2.1.196)\n- Fixed background sessions becoming permanently unresponsive to attach, replies, and stop when the daemon's session token went stale — the session now recovers automatically\n- Fixed returning to `claude agents` silently stopping running subagents and re-running the prompt from scratch — their work now carries over\n- Fixed a memory and per-turn CPU regression in interactive sessions: the context-usage indicator no longer re-analyzes the entire transcript after every turn\n- Fixed background agents inheriting a stale `PATH` from the daemon instead of the dispatching shell, causing missing tools on Windows\n- Fixed background and agent-view sessions dropping a shell-exported `ANTHROPIC_BASE_URL`, which sent API keys to the default endpoint and failed with 401\n- Fixed Bash failing with \"argument list too long\" in repos with many git worktrees\n- Fixed worktree-isolated subagents sometimes running shell commands in the parent checkout instead of their own worktree\n- Fixed worktree creation rejecting nested repositories in multi-repo workspaces, leaving background sessions unable to isolate and edit\n- Fixed background agents crash-looping when their working directory was deleted, replaced by a file, or became an invalid path — they now fail once with a clear error\n- Fixed a background daemon auto-upgrade failure silently killing all running background sessions\n- Fixed `TaskStop` and `TaskOutput` failing to find background agents spawned by another agent — errors now list running agents by id and description\n- Fixed the `claude agents` composer discarding your typed message when a slash command isn't available there\n- Fixed the agent list crashing when opening a stopped session whose conversation was already open in another session\n- Fixed background sessions showing \"Needs input\" in the agent list after the question was already answered\n- Fixed background agent startup failures showing only \"exit_with_message\" instead of the actual error\n- Fixed background sessions ignoring `effortLevel` changes in settings.json when forked through the daemon\n- Fixed attached background sessions ignoring `CLAUDE_CODE_DISABLE_MOUSE` and `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` opt-outs\n- Fixed `/exit` incorrectly warning about running background agents after all named agents had completed\n- Fixed background sessions started from a non-git directory unable to edit files when a `WorktreeCreate` hook was configured\n- Fixed the `@` directory picker in `claude agents` not showing registered git worktrees\n- Fixed background task output on Windows being permanently replaced by an empty file after `/clear`\n- Fixed content jumping when scrolling up through long transcript history\n- Fixed the terminal flickering and jumping while typing in bash mode when a shell-history suggestion was shown\n- Fixed literal `^[[I` / `^[[O` escape codes being printed when reattaching to a background session\n- Fixed LSP-only plugins being incorrectly flagged for disuse when their language servers deliver diagnostics or answer navigation requests\n- Improved responsiveness while long responses stream: live-preview updates no longer re-render the whole screen\n- Improved subagent behavior: agents are now less likely to re-delegate their entire task to another subagent\n- Reduced binary size by ~7 MB and startup memory by ~7 MB by loading a large bundled dependency lazily instead of inlining it\n- Changed left arrow to no longer close the background tasks, diff, and workflow detail views — press Esc instead\n- Changed the empty `claude agents` view to always show the organized sections (Needs input / Working / Completed) with descriptions\n- Removed the startup \"claude command missing or broken\" warnings — they now appear in `/doctor` and `/status` instead\n- Removed a redundant navigation hint from the `claude agents` footer\n- [VSCode] Added a Settings toggle for \"Enable Remote Control for all sessions\"",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.203",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-07T21:06:12Z"
-  },
-  {
-    "id": "0e253807-823c-456a-a596-864caa7a0a66",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Rick Rule Warns the Fed May Have to Print Again to Bail out Markets",
-    "summary": "1. Rick Rule says the biggest threat to markets right now sits inside high-yield bond exchange-traded funds (ETFs) that investors mistake for cash.\n2. The veteran resource investor made the comment during a July 7, 2026, interview with David Lin of The David Lin Report, recorded from the floor of the Rule Symposium in Boca Raton, Florida.",
-    "url": "https://news.bitcoin.com/rick-rule-warns-the-fed-may-have-to-print-again-to-bail-out-markets/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-07T21:02:05.000Z"
-  },
-  {
-    "id": "6ba78643-c1f5-4439-9738-5a3709a04428",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
-    "summary": "1. The CFTC charged a NC man and his company after the agency said he swindled about 60 people out of $14 million in a commodity pool.",
-    "url": "https://www.theblock.co/post/407516/cftc-charges-north-carolina-man-alleged-14-million-crypto-futures-fraud?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-07T20:58:49.000Z"
-  },
-  {
-    "id": "257054d2-1420-474e-85aa-bf719cdad03e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Vanguard seeks digital assets chief after years of crypto skepticism",
-    "summary": "1. The asset manager is hiring a head of digital assets to lead its strategy for tokenization, stablecoins, blockchain infrastructure and client-facing products.",
-    "url": "https://cointelegraph.com/news/vanguard-seeks-digital-assets-chief-after-years-of-crypto-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-07T20:57:02.000Z"
-  },
-  {
-    "id": "a5e2e99e-7f47-4312-8b1b-a65875dd9555",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Strike launches BTC loan product without forced liquidations",
-    "summary": "Bitcoin financial services company Strike has launched a new loan product collateralized by Bitcoin. According to The Block, the product prevents forced liquidations, even if the price of Bitcoin drops, as long as the borrower continues to make payments. Strike CEO Jack Maller explained that there are no margin calls or price-based liquidations with the new product, adding that while volatility is inevitable, liquidation is not.",
-    "url": "https://t.me/CoinnessGL#550bf10b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T20:57:02+00:00"
-  },
-  {
-    "id": "d488dad3-58e4-4d2b-9a7c-1c22ed71bc44",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "2,500 million USDT burned",
-    "summary": "Whale Alert reported that 2,500 million USDT has been burned at the Tether Treasury.",
-    "url": "https://t.me/CoinnessGL#bcee67e9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T20:50:41+00:00"
-  },
-  {
-    "id": "996084c5-23a6-4d3e-be18-61fc9ab5698f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Clearstream expands crypto custody to include XRP, XLM, ADA, SOL, LTC, AVAX",
-    "summary": "Clearstream, a subsidiary of Deutsche Börse Group, has announced it will now support custody services for XRP, XLM, ADA, SOL, LTC, and AVAX. According to U.Today, the company's custody services previously only supported BTC and ETH. The move is intended to meet the growing demand within institutional finance for cryptocurrencies that comply with the European Union's Markets in Crypto-Assets (MiCA) regulation.",
-    "url": "https://t.me/CoinnessGL#6f238ec2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T20:49:38+00:00"
-  },
-  {
-    "id": "2a5fdeab-235e-48f5-9a18-9f32aa229054",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Jack Mallers’ Strike launches ‘volatility-proof’ bitcoin loans built to protect against liquidation",
-    "summary": "1. Collateral can be partially liquidated, however, if a borrower misses an interest or maturity payment and fails to pay within a grace period.",
-    "url": "https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-07T20:48:00.000Z"
-  },
-  {
-    "id": "99c151cc-4be1-48c6-8320-95b29fc5955a",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Is Changing the Workplace and Universities Aren’t Keeping Up, Study Warns",
-    "summary": "1. A University of Manchester researcher says schools should move beyond AI cheating concerns and prepare graduates for workplaces increasingly shaped by automation.",
-    "url": "https://decrypt.co/372957/ai-changing-workplace-universities-not-keeping-up-study",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-07T20:46:51.000Z"
-  },
-  {
-    "id": "b7ea6c8c-379d-4566-9435-f20ae302e067",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Vanguard is hiring a head of digital assets, a shift for the $12T manager after years as one of crypto’s most prominent skeptics.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d52fcff1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T20:30:36+00:00"
   }
 ]
