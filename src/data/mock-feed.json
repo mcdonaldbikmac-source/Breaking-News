@@ -1,5 +1,145 @@
 [
   {
+    "id": "e664ab54-0d7f-45ac-8794-f8a4f6c36d3e",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-08T02:24:42.000Z"
+  },
+  {
+    "id": "de8521b5-d1ea-4c3d-ab3d-28dd02b4d3d2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Jim Rickards Asked Robert Kiyosaki to Read One Manuscript, Then His View of Global Finance Changed",
+    "summary": "1. Robert Kiyosaki said his view of global finance shifted after one early look at a manuscript shared by Jim Rickards, prompting a stark warning about trust, assets, and the future of money.\n2. Why Did One Manuscript Change Robert Kiyosaki’s View?\n3. Robert Kiyosaki, the author of the best-selling personal finance book Rich Dad Poor Dad, said […]",
+    "url": "https://news.bitcoin.com/jim-rickards-asked-robert-kiyosaki-to-read-one-manuscript-then-his-view-of-global-finance-changed/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-08T01:30:03.000Z"
+  },
+  {
+    "id": "71dcf342-9630-4df0-b7a5-e2f35143f74e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇪🇺 The European Parliament has adopted a formal policy stance urging the European Commission to bring DeFi, staking, crypto lending and NFTs more clearly under MiCA's regulatory perimeter.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#645f8b1e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-08T00:55:37+00:00"
+  },
+  {
+    "id": "d459d0c3-e7cd-40a0-9293-38afbc3b2eb1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "$12 Trillion Vanguard Signals Deeper Crypto Push With New Head of Digital Assets Position",
+    "summary": "1. Vanguard, which manages about $12 trillion in global assets under management, is recruiting a senior executive to oversee digital assets within its Personal Wealth division, signaling a reassessment of how the firm develops, governs, and delivers digital asset capabilities for clients.\n2. Why Is Vanguard Building a Digital Assets Roadmap Now?\n3. Vanguard’s July 6 job posting […]",
+    "url": "https://news.bitcoin.com/12-trillion-vanguard-signals-deeper-crypto-push-with-new-head-of-digital-assets-position/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-08T00:30:39.000Z"
+  },
+  {
+    "id": "652a3265-0051-41e8-9b28-ac6abbcd5a50",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.204",
+    "summary": "1. ## What's changed\n\n- Fixed hook events not streaming during SessionStart hooks in headless sessions, which could cause remote workers to be idle-reaped mid-hook",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.204",
+    "author": "ashwin-ant",
+    "created_at": "2026-07-08T00:27:50Z"
+  },
+  {
+    "id": "ae3df9c4-ac11-48a8-aa92-1997713d38ef",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇬🇧 Coinbase has gained a UK investment services license from the FCA, letting it add derivatives, commodity futures, and retail equities trading.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#014eed44",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-08T00:15:38+00:00"
+  },
+  {
+    "id": "8655a54e-77f7-4f93-b19d-7d8d3ec0dc08",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP APPROVES IRAN STRIKE WHILE AT NATO SUMMIT IN ANKARA, MEETS WITH HEGSETH, RUBIO, BESSENT ON AIR FORCE ONE TO DISCUSS PLANU.S.",
+    "summary": "OFFICIAL SAYING THE DURATION OF IRAN STRIKES UNCLEAR, WILL ASSESS RESULTS BEFORE NEXT DECISIONSTwitter",
+    "url": "https://t.me/SolidIntelX#6b8918ea",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-07T23:39:40+00:00"
+  },
+  {
+    "id": "447dd9e3-562a-4b0a-b005-f9433f1427a2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Ctrl Wallet will shut down on Aug.",
+    "summary": "3, weeks after a security exploit hit some Cardano wallets, urging its 650,000 monthly users to withdraw assets before the deadline.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#756ea4dd",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-07T23:30:36+00:00"
+  },
+  {
+    "id": "671e367a-ac2f-42ea-b98e-e7f26ae22243",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Sees Triple Adoption Boost as Tokenized Assets Reach $4 Billion, ETF Demand Stays Strong",
+    "summary": "1. XRP is showing growth across multiple adoption metrics, with approximately $4 billion in tokenized real-world assets, continued spot XRP ETF inflows, and rising wallet creation, according to XRP treasury company Evernorth.\n2. Together, the figures suggest expanding activity across institutional and retail participants.\n3. Why Are Multiple XRP Adoption Metrics Rising Together?",
+    "url": "https://news.bitcoin.com/xrp-sees-triple-adoption-boost-as-tokenized-assets-reach-4-billion-etf-demand-stays-strong/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-07T23:30:22.000Z"
+  },
+  {
+    "id": "16e33f9f-e830-4005-b916-0b353874f87e",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: a writing studio built for people who blog for a living, built by a writer.\n\nggs...",
+    "summary": "1. a writing studio built for people who blog for a living, built by a writer.\n2. ggs @joanwestenberg.eth",
+    "url": "https://warpcast.com/farcaster/0x4c0fc173",
+    "author": "Farcaster",
+    "created_at": "2026-07-07T23:25:35.000Z"
+  },
+  {
+    "id": "f143d69c-7b43-4421-9d3a-98936734054d",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
+    "summary": "1. The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
+    "url": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
+    "author": "Jason Nelson",
+    "created_at": "2026-07-07T22:31:03.000Z"
+  },
+  {
+    "id": "ff0f4edc-a438-4693-9609-f72fd95ec545",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+    "summary": "1. If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+    "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+    "author": "Isabelle Johannessen",
+    "created_at": "2026-07-07T22:30:00.000Z"
+  },
+  {
+    "id": "f88331fe-92f4-49b2-9a72-c4b5638769d8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "summary": "1. The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-07-07T22:18:10.000Z"
+  },
+  {
+    "id": "9cd7258e-31f0-4188-9358-2cc64275c055",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇨🇳 China expected to produce over 100,000 humanoid robots this year.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#4da8605d",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-07T22:17:59+00:00"
+  },
+  {
     "id": "f7952a1a-4df2-4445-a567-6ac89f9a3866",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -20,7 +160,7 @@
     "created_at": "2026-07-07T22:01:32.000Z"
   },
   {
-    "id": "c3471e20-03ee-49ab-ac72-bb8625ba786b",
+    "id": "8714ea0d-1250-4c42-bd07-c704f69ba00f",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Polymarket enables Bitcoin deposits through $BTC Lightning Network.@WatcherGuru",
@@ -80,7 +220,7 @@
     "created_at": "2026-07-07T21:30:10.000Z"
   },
   {
-    "id": "6187c335-c93c-4e6e-9421-a1305d65ccbf",
+    "id": "c4bd5432-22b3-4894-97d1-d64e9018067d",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "US launched strikes on Iran, accusing it of a “dangerous” and “unjustified” ceasefire breach, after Iran attacked three commercial ships in the Strait of HormuzTwitter",
@@ -208,465 +348,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#d52fcff1",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-07T20:30:36+00:00"
-  },
-  {
-    "id": "d8473699-3d2a-425e-aaa9-74d944146378",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-07T20:05:36.000Z"
-  },
-  {
-    "id": "250c5cd0-e1fd-4c2f-88c3-fbb3dc6d0c9f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "summary": "1. Open-source models’ success isn’t coming at the expense of frontier labs.\n2. Instead, they each seem to capture two phases of the same life-cycle.",
-    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "author": "Russell Brandom",
-    "created_at": "2026-07-07T20:04:32.000Z"
-  },
-  {
-    "id": "1e2c2c36-a27c-4e77-9fae-2b1b4a69016e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close lower",
-    "summary": "The three major U.S. stock indices closed lower today.- S&P 500: -0.45%- Nasdaq: -1.16%- Dow Jones: -0.25%",
-    "url": "https://t.me/CoinnessGL#d52afffb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T20:01:07+00:00"
-  },
-  {
-    "id": "dc1a3f7c-1bbd-47de-9b61-80443cf95c4d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Kraken parent wins $22M arbitration award against former auditor Mazars",
-    "summary": "Kraken's parent company, Payward, has been awarded $22 million in an arbitration case against its former auditor, global accounting firm Mazars, Cointelegraph reported. Payward claimed that Mazars unilaterally halted its 2022 audit just as it was nearing completion. The company argued that an audit is not a favor but is as essential as \"oxygen for corporate survival,\" necessary for accessing banking services, obtaining licenses, and maintaining business relationships. Payward asserted that the auditor's action was part of Operation Choke Point 2.0, a measure to pressure the crypto industry by restricting its access to banking, and resulted in millions of dollars in losses. Kraken co-CEO Arjun Sethi has now petitioned a Delaware court to confirm the award.",
-    "url": "https://t.me/CoinnessGL#8cd33cc2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T19:59:32+00:00"
-  },
-  {
-    "id": "ffab5824-366d-4015-953e-244e36311033",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "summary": "1. Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-07-07T19:58:20.000Z"
-  },
-  {
-    "id": "51a43a4e-5f39-4493-94d0-d0460923b1cd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Gemini has launched 0% commission stock trading in most US states as it looks to become an \"all-in-one financial super app.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#298fa5f3",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T19:55:36+00:00"
-  },
-  {
-    "id": "6de9d150-ce35-42b4-8fec-c38b0c8fb649",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
-    "summary": "1. China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
-    "url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-07T19:51:38.000Z"
-  },
-  {
-    "id": "2361c60e-f7bb-475a-bc6f-4306df443e84",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark",
-    "summary": "1. Bitcoin Magazine\n\nPolymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark\nPolymarket has enabled instant self-custodial Bitcoin deposits via the Lightning Network using Spark.\n2. This post Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/polymarket-turns-instant-bitcoin-deposits",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-07T19:49:56.000Z"
-  },
-  {
-    "id": "0c70992c-0d97-49ab-b567-376a06f55207",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Securitize stock falls nearly 25% post-listing, expert cites crypto IPO trend",
-    "summary": "Shares of Securitize (SECZ), which officially listed on the New York Stock Exchange (NYSE) on July 2, have fallen by nearly 25%. According to CoinDesk, Jeff Dorman, Chief Investment Officer at investment firm Arca, said the decline appears unrelated to the company's fundamentals or any specific news. He explained that such volatility is common after a SPAC deal as the investor base shifts from bond-focused SPAC buyers to long-term, fundamentals-driven equity investors. Dorman noted that this downturn aligns with a general pattern of crypto companies seeing their stock prices fall after going public, adding that the drop is unsurprising given the poor performance of other crypto-related IPOs like Coinbase (COIN), Bullish (BLSH), Gemini (GEMI), BitGo (BTGO), and Circle (CRCL). SECZ is currently trading at $8.20, down 24.63%. more:",
-    "url": "https://t.me/CoinnessGL#65c54bbf",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T19:48:15+00:00"
-  },
-  {
-    "id": "6809fcaa-7a52-4388-b4d5-62f600b4aa10",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
-    "summary": "1. The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
-    "url": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-07T19:35:14.000Z"
-  },
-  {
-    "id": "71ec96a5-3060-45e7-b7db-28ddca906546",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor",
-    "summary": "1. Bitcoin Magazine\n\nKraken Seeks Final Judgment After $22 Million Award Against Former Auditor\nKraken is seeking a final Delaware court judgment against former auditor Mazars after winning a $22 million arbitration award, arguing the firm's abrupt resignation during heightened U.S.\n2. regulatory pressure caused significant financial and operational harm.\n3. This post Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-07T19:35:05.000Z"
-  },
-  {
-    "id": "667879a9-bdca-4036-a6f7-f86625554f4f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Kraken wins $22M arbitration against former auditor Mazars",
-    "summary": "1. The crypto exchange's parent company says Mazars' withdrawal from its 2022 audit caused millions in damages and tied the dispute to Operation Chokepoint 2.0.",
-    "url": "https://cointelegraph.com/news/kraken-wins-22m-arbitration-against-former-auditor-mazars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-07T19:31:03.000Z"
-  },
-  {
-    "id": "cc171a87-c318-4fd5-8f11-c3b59c785c16",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "summary": "1. The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-07-07T19:28:38.000Z"
-  },
-  {
-    "id": "b4e23365-0e34-4044-8485-2defaa816af4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "LeBron James Leaves Lakers as Prediction Markets Wager Millions on His Next NBA Home",
-    "summary": "1. LeBron James has told the Los Angeles Lakers he will not return, and prediction market bettors are already betting big on where he lands next.\n2. The four-time NBA champion ended an eight-year run with the Lakers this month, closing out a Los Angeles chapter that began in 2018 and included a championship in the pandemic-shortened […]",
-    "url": "https://news.bitcoin.com/lebron-james-leaves-lakers-as-prediction-markets-wager-millions-on-his-next-nba-home/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-07T19:26:36.000Z"
-  },
-  {
-    "id": "64387b17-648d-439b-83d5-16bcbef9eaa2",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Brent crude oil surges 6% above $75 after US revokes license that allowed Iran to sell oil.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1816dc9e",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-07T19:22:04+00:00"
-  },
-  {
-    "id": "1040a6aa-0af0-4e58-9be1-962993ffddb0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇺 Binance CEO Richard Teng warns Europe risks losing crypto users, firms and tax revenue if MiCA's implementation becomes \"fragmented, unpredictable or inconsistent\" across member states.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2db5df8f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T19:20:37+00:00"
-  },
-  {
-    "id": "b1295e56-060c-4980-8105-72e8be45bb6e",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "US revokes license allowing Iran to sell oilTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#3ce098ca",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-07T19:01:06+00:00"
-  },
-  {
-    "id": "d0b08006-8440-4451-a12b-19b8f38330ff",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 US revokes license that allowed Iran to sell oil.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#61a8e161",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-07T18:58:32+00:00"
-  },
-  {
-    "id": "e80d36b2-2721-4a8a-816e-0d87d4c2aa4f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Reclaims $64K After $62.8K Dip as $108M in Short Liquidations Fuel Rebound",
-    "summary": "1. Bitcoin reclaimed the $64,000 mark following a brief flash crash to $62,800, bringing its total July gains to nearly 10%.\n2. Analysts Eye a Potential Floor Bitcoin reclaimed $64,000 on Tuesday, just hours after it dipped to $62,800, maintaining its July upward momentum.\n3. Market data shows the cryptocurrency initially breached the $64,000 mark late Monday afternoon, […]",
-    "url": "https://news.bitcoin.com/bitcoin-reclaims-64k-after-62-8k-dip-as-108m-in-short-liquidations-fuel-rebound/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-07T18:52:56.000Z"
-  },
-  {
-    "id": "f3deebb8-f732-4adc-8fe6-8af76805ebb4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 The SEC is expected to propose a major crypto rule as soon as July, easing fundraising for startups and creating exemptions for some crypto activity.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0883328f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T18:45:40+00:00"
-  },
-  {
-    "id": "9b9bd2a2-48ad-4693-b9ad-d7fcc53e4be7",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text",
-    "summary": "1. Built on Signal’s open-source technology, Radar Chat combines encrypted messaging with self-custodial Bitcoin payments via Lightning Network.",
-    "url": "https://decrypt.co/372941/radar-chat-make-sending-bitcoin-easy-text",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-07T18:38:26.000Z"
-  },
-  {
-    "id": "274d638a-c225-444a-b060-401c3e7d8221",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto exchange Kraken is trying to become a bank in Europe",
-    "summary": "1. Kraken's focus is on Lithuania as the jurisdiction to secure the license, according to a person familiar with the plans.",
-    "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
-    "author": "Ian Allison",
-    "created_at": "2026-07-07T18:38:10.000Z"
-  },
-  {
-    "id": "e625a7a8-cfa3-41ee-94bb-d86d2d239929",
-    "source": "The Block",
-    "type": "rss",
-    "title": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
-    "summary": "1. Project Tachyon outlined new details of its verification effort for Zcash's upcoming Ironwood shielded pool.",
-    "url": "https://www.theblock.co/post/407495/zec-price-jumps-zcash-nears-mathematical-proof-hidden-counterfeit-bugs?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-07-07T18:12:51.000Z"
-  },
-  {
-    "id": "e10ebeb0-f04c-4416-bc6c-6614a7015274",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
-    "summary": "1. Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
-    "url": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-07-07T18:05:08.000Z"
-  },
-  {
-    "id": "6ad79502-aea6-4168-96fc-45da1dc00dbf",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Vanguard Warms to Crypto With Search for Digital Assets Chief",
-    "summary": "1. Bitcoin Magazine\n\nVanguard Warms to Crypto With Search for Digital Assets Chief\nVanguard is hiring its first head of digital assets to develop a long-term crypto and blockchain strategy.\n2. This post Vanguard Warms to Crypto With Search for Digital Assets Chief first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/vanguard-warms-to-crypto-hiring",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-07T17:41:17.000Z"
-  },
-  {
-    "id": "660c1ec2-2b50-4e63-9ea4-441658dc2e21",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
-    "summary": "1. The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.",
-    "url": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-07T17:29:39.000Z"
-  },
-  {
-    "id": "6af9f055-d05c-4ec7-9287-d4621544862d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "SBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
-    "summary": "1. Institutional crypto platform EDX Markets has closed a $76 million Series C funding round, with Japan's SBI Holdings as the sole investor.",
-    "url": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-07T17:25:15.000Z"
-  },
-  {
-    "id": "1425f62b-d60c-480e-ab7f-cf7cfc4c9713",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-07T17:23:07.000Z"
-  },
-  {
-    "id": "044e00e5-bb6a-46c9-b2b6-18cbcdab4c43",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote",
-    "summary": "1. Bitcoin Magazine\n\nNew Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote\nNew Hampshire's Executive Council will vote Wednesday on a first-of-its-kind $100 million Bitcoin-backed municipal bond.\n2. This post New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/new-hampshires-100-million-bitcoin-backed",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-07T17:19:49.000Z"
-  },
-  {
-    "id": "3c4beb8a-289e-497a-8024-b0d544243e1f",
-    "source": "Politico",
-    "type": "rss",
-    "title": "More than half of Senate Democrats have urged Platner to drop out",
-    "summary": "1. As of early afternoon Tuesday, 31 Democratic senators said that he should drop out of the race, according to this POLITICO tracker.",
-    "url": "https://www.politico.com/news/2026/07/07/platner-senate-democrats-drop-out-tracker-00988633",
-    "author": "By Gregory Svirnovskiy, Emilio Perez Ibarguen and POLITICO Visuals",
-    "created_at": "2026-07-07T17:19:07.000Z"
-  },
-  {
-    "id": "afd5b7c3-5e35-4d3e-a32a-2bef643b2466",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
-    "summary": "1. Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.",
-    "url": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
-    "author": "Logan Hitchcock",
-    "created_at": "2026-07-07T17:16:27.000Z"
-  },
-  {
-    "id": "8583b630-6c9b-4e3f-8ecc-3a7b3c53e15a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst: Macro shift could fuel 2-3 year crypto bull market",
-    "summary": "Crypto analyst Matthew Hyland, who has around 170,000 followers on X, predicted a potential two-to-three-year bull market for cryptocurrency, arguing that the macroeconomic environment is shifting to favor risk assets. According to CryptoPotato, Hyland identified the periods of 2014–2016, 2018–2020, and 2022–2026 as bear markets for macro risk assets, noting that major crypto bull runs have historically followed the end of such phases. He highlighted that BTC dominance has now formed a death cross for the first time since 2016 and 2020, and he anticipates a golden cross for altcoin dominance this fall. This pattern, he explained, is similar to trends observed at the beginning of previous bull markets.",
-    "url": "https://t.me/CoinnessGL#df7cc079",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T17:05:56+00:00"
-  },
-  {
-    "id": "716f443d-d0de-4c18-a94c-ae7882a1213c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "AEREDIUM Joins Lava Sandbox to Test Real Estate Settlement Across Multiple Payment Rails",
-    "summary": "1. Blockchain infrastructure company AEREDIUM has joined the Lava Tokenization Sandbox, which aims to bridge the gap between traditional finance and digital assets by testing payment-agnostic settlement infrastructure.\n2. Overcoming Settlement Barriers Blockchain infrastructure company AEREDIUM has joined the Lava Tokenization Sandbox, a collaborative initiative led by the Lava Foundation and Bretagne Holding Limited, to test how […]",
-    "url": "https://news.bitcoin.com/aeredium-joins-lava-sandbox-to-test-real-estate-settlement-across-multiple-payment-rails/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-07T17:04:33.000Z"
-  },
-  {
-    "id": "32f0ace5-f0b2-4423-b954-74b848ab8ce8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC transfers from profitable LTHs fall to lowest since early 2023",
-    "summary": "According to Glassnode data, the volume of Bitcoin transferred to exchanges by long-term holders (LTH) in profit has fallen to its lowest level since early 2023. This suggests that profit-taking by this cohort has effectively come to a halt.",
-    "url": "https://t.me/CoinnessGL#7b6ad047",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T17:03:37+00:00"
-  },
-  {
-    "id": "ae7a5fc9-3f75-46d1-a312-b2dad53710ad",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Suisse Advances Middle East Expansion, Receives Financial Services Permission in Abu Dhabi",
-    "summary": "1. Zug, Switzerland, July 7th, 2026, Chainwire.\n2. Premium virtual assets pioneer BTCS (Middle East) Ltd.\n3. is now fully authorized by the Financial Services Regulatory Authority (FSRA) of ADGM, enabling regulated institutional services across the UAE.",
-    "url": "https://news.bitcoin.com/bitcoin-suisse-advances-middle-east-expansion-receives-financial-services-permission-in-abu-dhabi/",
-    "author": "Media",
-    "created_at": "2026-07-07T17:02:37.000Z"
-  },
-  {
-    "id": "d560cca0-5235-4e62-84d5-f42d6a71cd96",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure to Passive Index Investors",
-    "summary": "1. Bitcoin Magazine\n\nSpaceX Nasdaq-100 Entry Brings Bitcoin Exposure to Passive Index Investors\nSpaceX joins the Nasdaq-100 today, triggering ~$4.3B in passive inflows to a company holding 18,712 BTC.\n2. This creates rules-based institutional demand for Bitcoin through corporate balance sheets.\n3. This post SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure to Passive Index Investors first appeared on Bitcoin Magazine and is written by Nick Ward.",
-    "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/spacex-nasdaq-bitcoin",
-    "author": "Nick Ward",
-    "created_at": "2026-07-07T16:47:17.000Z"
-  },
-  {
-    "id": "411b2432-4165-4827-8be9-8c5352d74a09",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "American Bitcoin's BTC holdings surpass 8,000, says Eric Trump",
-    "summary": "Eric Trump, son of U.S. President Donald Trump, announced on X that American Bitcoin's holdings of Bitcoin (BTC) have surpassed 8,000.He stated that despite volatility in the cryptocurrency market, the company achieved a 52% profit margin from its mining business in the first quarter and is continuously accumulating BTC as a treasury asset. Trump emphasized that this accumulation strategy will continue, noting that American Bitcoin maintains one of the lowest selling, general, and administrative (SG&A) expense ratios in the industry while steadily expanding its BTC reserves.",
-    "url": "https://t.me/CoinnessGL#004dbbb7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-07T16:45:35+00:00"
-  },
-  {
-    "id": "ecb8b48d-3028-4840-bf85-9d45ea7c4221",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-    "summary": "1. From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
-    "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-07-07T16:45:00.000Z"
-  },
-  {
-    "id": "dfb45f85-2766-4114-8ee1-15d8c9df9971",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
-    "summary": "1. Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.",
-    "url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-07T16:43:07.000Z"
-  },
-  {
-    "id": "21f497db-7c83-4823-90d0-a4c2cd991076",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Bernie Sanders says he told Graham Platner to ‘step aside’",
-    "summary": "1. It’s Sanders’ first comment since POLITICO reported on Monday that a woman who dated Platner says he sexually assaulted her.",
-    "url": "https://www.politico.com/news/2026/07/07/bernie-sanders-graham-platner-drop-out-00988638",
-    "author": "By Andrew Howard",
-    "created_at": "2026-07-07T16:32:27.000Z"
-  },
-  {
-    "id": "9033fbdb-4a5a-4fb5-865c-12e53ac79b17",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading",
-    "summary": "1. Last year, the tokenized real-world asset issuer launched 24/7 onchain access to more than 100 U.S.\n2. stocks and ETFs.",
-    "url": "https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-07T16:29:46.000Z"
-  },
-  {
-    "id": "a9c92eda-0d11-4327-87ae-9831835eebc8",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election",
-    "summary": "1. The Reform party leader and Brexit champion confirmed that he was the subject of probes by UK authorities following reports of what he called “gifts” from figures tied to cry pto ventures.",
-    "url": "https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-07T16:27:19.000Z"
-  },
-  {
-    "id": "4bf63b91-aa19-45a2-84fb-2852a29a9e94",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Claude Cowork expands to mobile and web",
-    "summary": "1. With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-07-07T16:27:18.000Z"
-  },
-  {
-    "id": "2c1dacdd-4b54-4c9d-9495-1b638bcc079c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Grayscale says Strategy’s $216M Bitcoin sale could help BTC find a more durable floor by reducing forced-selling risk and restoring investor confidence.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#711196d4",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-07T16:20:38+00:00"
-  },
-  {
-    "id": "706dd19f-c4a1-4ffb-b75a-ae80f506b302",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: told you he was shipping something. \nhttps://farcaster.xyz/farcaster/0x79ea0ecd",
-    "summary": "1. told you he was shipping something.",
-    "url": "https://warpcast.com/farcaster/0x1b10d3fc",
-    "author": "Farcaster",
-    "created_at": "2026-07-07T16:19:51.000Z"
-  },
-  {
-    "id": "fffcd9eb-1bc7-4f76-bf5e-e7916a0070a7",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-    "summary": "1. SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
-    "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-07T16:18:18.000Z"
   }
 ]
