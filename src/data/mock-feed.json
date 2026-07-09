@@ -1,5 +1,345 @@
 [
   {
+    "id": "9ade96f2-ce10-466e-a306-3315595d4ae6",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-09T19:55:39.000Z"
+  },
+  {
+    "id": "8af2cb38-8e00-4986-81b4-7498f70bebbc",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-09T19:55:39.000Z"
+  },
+  {
+    "id": "0dd43cd1-5962-4604-822b-ccbec0634af1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ethereum Foundation says AI agents find real bugs, but most are false positives",
+    "summary": "1. The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.",
+    "url": "https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-07-09T19:51:23.000Z"
+  },
+  {
+    "id": "331646ed-8ff3-4d42-aaa9-5a8c212a7568",
+    "source": "The Block",
+    "type": "rss",
+    "title": "CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal",
+    "summary": "1. CryptoQuant said bitcoin's recent rebound should be viewed as a bear-market recovery rather than a trend reversal.",
+    "url": "https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-07-09T19:45:15.000Z"
+  },
+  {
+    "id": "009e486c-4c0c-426d-905d-ed3b6ae2babb",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "summary": "1. Meta's new Muse Spark 1.1.\n2. will go up against similar products offered by Anthropic and OpenAI.",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-07-09T19:40:45.000Z"
+  },
+  {
+    "id": "4a134bef-cc6b-41e5-9c44-45867711f592",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
+    "summary": "1. The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries.",
+    "url": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-09T19:36:52.000Z"
+  },
+  {
+    "id": "7f45a4aa-919c-4711-a882-37d87af2c2f3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Debate Grows Over Strategy Using Bitcoin Sales to Fund STRC Buybacks",
+    "summary": "1. Strategy raised the dividend on its flagship preferred stock to 12% in late June, but the security is still changing hands well below the $100 price the company says it wants investors to see.\n2. STRC, Strategy’s Variable Rate Series A Perpetual Stretch Preferred Stock, traded in the mid-to-high $80s this week, with some sessions dipping […]",
+    "url": "https://news.bitcoin.com/debate-grows-over-strategy-using-bitcoin-sales-to-fund-strc-buybacks/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-09T19:34:56.000Z"
+  },
+  {
+    "id": "789a0037-39b0-43f1-a142-7511da28ed9f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
+    "summary": "1. After a long stretch without breakthroughs in the crypto market structure bill, insiders say a new draft may emerge in a final push for late-July action — though it still lacks bipartisan buy-in.",
+    "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-07-09T19:34:24.000Z"
+  },
+  {
+    "id": "0dbd63db-66fe-4b65-98f9-b96e44bacb4b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Fed officials were split last month on raising or holding interest rates, with newly released June FOMC minutes showing many pointed to surging AI infrastructure demand as a driver of inflation.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2b31aeee",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T19:30:37+00:00"
+  },
+  {
+    "id": "9ca67ad2-9e67-4fd2-a690-df5efcd7dd12",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: some of you have been getting logged out and having to dig up your recovery phra...",
+    "summary": "1. some of you have been getting logged out and having to dig up your recovery phrase.\n2. sorry for the hassle, this wasn't intentional.\n3. if you have your recovery phrase, use it to sign back in.",
+    "url": "https://warpcast.com/farcaster/0x8f9e3570",
+    "author": "Farcaster",
+    "created_at": "2026-07-09T19:28:35.000Z"
+  },
+  {
+    "id": "78dbd01a-342e-4fa3-bbcc-0755a77b5116",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
+    "summary": "1. In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
+    "url": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
+    "author": "Maggie Nye",
+    "created_at": "2026-07-09T19:26:31.000Z"
+  },
+  {
+    "id": "39134182-fdae-4b98-8042-1fa43e48420d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "289,999,990 USDT transferred from Poloniex to an unknown wallet",
+    "summary": "Whale Alert reported that 289,999,990 USDT has been transferred from Poloniex to an unknown wallet. The transaction is valued at about $290 million.",
+    "url": "https://t.me/CoinnessGL#3b050c41",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T19:19:56+00:00"
+  },
+  {
+    "id": "98b1d78d-c36a-412d-8b55-6f3efe92a695",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The Muslim manosphere and Achraf Hakimi",
+    "summary": "1. The Moroccan captain's rape charge will be adjudicated in what some defenders consider an inherently hostile judicial order.",
+    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/achraf-hakimi-charge-france-fifa-world-cup-2026-00992271",
+    "author": "By Zoha Qamar",
+    "created_at": "2026-07-09T19:15:00.000Z"
+  },
+  {
+    "id": "b59ecd36-02fb-4a36-af6f-94e437186b4f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "summary": "1. News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "author": "Rebecca Bellan",
+    "created_at": "2026-07-09T19:05:58.000Z"
+  },
+  {
+    "id": "0673efc8-b3d1-4be2-aab8-7300da75de22",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Mark Cuban-backed DeFi dashboard Zapper will shut its website, app and API on Aug.",
+    "summary": "3, ending a seven-year run.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4d497320",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T18:55:37+00:00"
+  },
+  {
+    "id": "8be2cd7a-f6c6-4e03-8ef6-dc50d2e69a78",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ethereum Foundation finds and fixes network bug using AI agents",
+    "summary": "The Ethereum Foundation (EF) has announced it is applying artificial intelligence (AI) to its network to identify bugs before hackers can. According to Decrypt, EF researchers are using AI agents to find vulnerabilities in core network infrastructure, including cryptographic systems, protocol code, and smart contracts. The researchers said this approach has already led to the discovery of a real bug, which they described as a remotely triggerable panic in libp2p's gossipsub, a part of the P2P layer used by Ethereum consensus clients. The bug has now been fixed.",
+    "url": "https://t.me/CoinnessGL#35b26214",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T18:50:08+00:00"
+  },
+  {
+    "id": "4887e2dc-5a16-4ee0-8321-ef1b33958860",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Mbappé-Paraguay racism row rumbles on",
+    "summary": "1. A Paraguayan senator who called the France captain a \"brute\" and questioned his French identity is now threatening to sue after a backlash to her comments.",
+    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/kylian-mbappe-paraguay-racism-fifa-world-cup-2026-00992251",
+    "author": "By Milena Wälde",
+    "created_at": "2026-07-09T18:45:00.000Z"
+  },
+  {
+    "id": "2f349d11-c8eb-4e6d-b4ac-5c147618f738",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Bulls Reclaim $63,000 After 3% Slide as Traders Bet the Sell-Off Has Ended",
+    "summary": "1. Bitcoin rebounded to test the $63,000 threshold, recovering from a 3% drop to under $61,500.\n2. Recovery came despite growing military tensions and exchanges of fire between U.S.\n3. and Iranian forces.",
+    "url": "https://news.bitcoin.com/bitcoin-bulls-reclaim-63000-after-3-slide-as-traders-bet-the-sell-off-has-ended/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-09T18:35:52.000Z"
+  },
+  {
+    "id": "a014ad53-f7f3-48a4-8ca3-aef849a685a1",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
+    "summary": "1. Ethereum researchers are using AI agents to hunt for vulnerabilities, shifting security work from finding bugs to proving which ones are real.",
+    "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
+    "author": "Jason Nelson",
+    "created_at": "2026-07-09T18:27:47.000Z"
+  },
+  {
+    "id": "25e62e36-0a5c-44d1-90a6-2f7eca13810b",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The great France-Morocco reconciliation faces a World Cup test",
+    "summary": "1. The soccer match between the powerhouse nations highlights their renewed spirit of collaboration — but also the potential for trouble.",
+    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/france-morocco-diplomatic-relationship-fifa-world-cup-quarterfinal-00992243",
+    "author": "By Victor Goury-Laffont",
+    "created_at": "2026-07-09T18:25:55.000Z"
+  },
+  {
+    "id": "23886bb8-1e1a-4192-aea0-5c7d846940d9",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 The Hyperliquid Policy Center and Phantom wrote to the CFTC arguing that onchain protocols shouldn't face broker-exchange-clearinghouse rules built for legacy, intermediary-based markets.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#18f4f62c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T18:20:37+00:00"
+  },
+  {
+    "id": "96896701-d8cf-4cf7-81a5-8511e1609058",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
+    "summary": "1. Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.",
+    "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-09T18:13:04.000Z"
+  },
+  {
+    "id": "6fff10e9-b451-4882-bba3-0cf23df1e649",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "British Airline Jet2 Shares Jump 9% After $536M Fuel Hedge Gain Offsets Middle East Travel Fears",
+    "summary": "1. British airline Jet2 reported a $536 million balance sheet windfall for the fiscal year ending March 31, defying broader industry panic over Middle East geopolitical instability.\n2. Sector Resilience Amid Fuel Volatility British airline and package holiday provider Jet2 defied intense geopolitical instability and travel sector panic triggered by the Middle East war by reporting a […]",
+    "url": "https://news.bitcoin.com/british-airline-jet2-shares-jump-9-after-536m-fuel-hedge-gain-offsets-middle-east-travel-fears/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-09T18:12:10.000Z"
+  },
+  {
+    "id": "12b64fcb-2f0b-42aa-b5d6-0151f781b81f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Former Meta engineer TechLead sells all his BTC, citing AI's dominance",
+    "summary": "Former Meta engineer TechLead has sold his entire Bitcoin holdings, according to Wu Blockchain. He argued that the core issue for Bitcoin is that attention equals liquidity, stating that the NFT bubble proved simply holding an asset is not enough to sustain its price. TechLead also noted that people who once actively discussed Bitcoin are now mostly silent, as artificial intelligence (AI) is currently monopolizing nearly all market attention. He believes there is little room for new buyers to enter the crypto space for the time being. Despite the sale, TechLead added that he remains optimistic about Bitcoin in the long term and plans to repurchase it if the price drops further.",
+    "url": "https://t.me/CoinnessGL#85e17daa",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T18:09:13+00:00"
+  },
+  {
+    "id": "52ffd5a9-bfa1-4201-b5ee-d09eac4e8c8f",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇪🇺 Binance CEO Richard Teng says 70% of EU user withdrawals went to self-hosted wallets instead of MiCA-regulated platforms.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#25fc7a91",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-09T17:59:25+00:00"
+  },
+  {
+    "id": "6d81b0c2-09c8-4296-b14b-b467afe0af1f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push",
+    "summary": "1. The White House pushed back against Democrats’ criticism that the administration has declined to appoint commissioners to regulatory agencies.",
+    "url": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-07-09T17:53:16.000Z"
+  },
+  {
+    "id": "68e93869-58fe-4dad-9961-37874f5d91c0",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin’s New Debt Machine is Facing Its First Major Test",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin’s New Debt Machine is Facing Its First Major Test\nBitcoinTreasuries.net says June marked the first major stress test for Bitcoin-backed preferred shares, with Strategy's STRC and Strive's SATA rebounding after a sharp sell-off, reinforcing confidence in the growing corporate Bitcoin financing model.\n2. This post Bitcoin’s New Debt Machine is Facing Its First Major Test first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/markets/bitcoins-new-debt-machine-is-facing",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-09T17:47:23.000Z"
+  },
+  {
+    "id": "63b5ff49-2b79-4112-949f-39f67cda7ab0",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models",
+    "summary": "1. OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview.\n2. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
+    "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-09T17:24:19.000Z"
+  },
+  {
+    "id": "ee8690b3-2afd-4a29-b1fe-83a8bc7dbeb3",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "$4.7 trillion JPMorgan says the biggest risk to Bitcoin isn't Strategy, but traditional finance creating private blockchains.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#4314c783",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-09T17:17:32+00:00"
+  },
+  {
+    "id": "d09d9203-f427-4021-a2e7-eb20c732cee4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin miners’ AI pivot faces investor scrutiny over insider sales",
+    "summary": "1. As AI-driven mining stocks retreat, investors are examining executive stock sales, governance and shareholder alignment across leading Bitcoin miners, according to Blocksbridge Consulting.",
+    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-pivot-faces-investor-scrutiny-over-insider-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-07-09T17:09:01.000Z"
+  },
+  {
+    "id": "53852713-26f6-438a-9569-a5d5fd4cc221",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal",
+    "summary": "1. Labour lawmakers proposed a full moratorium on crypto donations in March, which some have sought be made permanent after millions of dollars in contributions were linked to Reform leader Nigel Farage.",
+    "url": "https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-09T16:42:18.000Z"
+  },
+  {
+    "id": "305dd54b-d96e-4a79-ab1c-839cac18abf2",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Swift Readies Ledger for 24/7 Token Transfers—Though True Settlement Is Stuck on Old Rails",
+    "summary": "1. Swift’s pilot allows 17 global banks to transfer tokenized deposits on weekends, but ultimate settlement still relies on legacy systems.",
+    "url": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
+    "author": "André Beganski",
+    "created_at": "2026-07-09T16:23:00.000Z"
+  },
+  {
+    "id": "81fd4000-5464-438c-9531-5cde0c62c345",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
+    "summary": "1. Compass Point analysts Michael Donovan and Ed Engel said markets are giving little credit to future AI data center pipelines despite billions of dollars in signed leases.",
+    "url": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
+    "author": "Helene Braun",
+    "created_at": "2026-07-09T15:53:42.000Z"
+  },
+  {
+    "id": "8d04ba9c-e23b-4278-a033-4562bbd7aec4",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond",
+    "summary": "1. Bitcoin Magazine\n\nNew Hampshire Council Rejects $100 Million Bitcoin-Backed Bond\nNew Hampshire's Executive Council voted 3-2 to reject a proposed $100 million Bitcoin-backed municipal bond, shelving what supporters said would have been the world's first such issuance despite arguments that it posed no risk to taxpayers.\n2. This post New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-09T15:28:30.000Z"
+  },
+  {
     "id": "c0e28466-05a3-40d5-9940-7653618bf152",
     "source": "The Defiant",
     "type": "rss",
@@ -120,7 +460,7 @@
     "created_at": "2026-07-09T14:43:14+00:00"
   },
   {
-    "id": "a34792e0-9ca6-4ca6-b931-591069644f00",
+    "id": "2342d8b7-4536-4f14-97a5-1a535b15c337",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "CFTC blocks CME’s plan to bring 24/7 trading to oil futuresTwitter",
@@ -160,7 +500,7 @@
     "created_at": "2026-07-09T14:18:25.000Z"
   },
   {
-    "id": "42953afd-1452-45de-8d6f-2b34ea609de2",
+    "id": "b81d664b-13c9-41dc-beb3-2afd6eed0892",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "EU lawmakers back temporary Chat Control rules letting major platforms keep scanning for child abuse material, while encrypted apps remain excluded and governments still need to approveTwitter",
@@ -168,435 +508,5 @@
     "url": "https://t.me/SolidIntelX#8410977d",
     "author": "@SolidIntelX",
     "created_at": "2026-07-09T14:03:47+00:00"
-  },
-  {
-    "id": "a0ae161a-14f7-4d18-8dc7-b463fa4c2d7c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇪🇺 European Parliament passes Chat Control proposal allowing private messages to be monitored.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#dda7b181",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-09T13:50:34+00:00"
-  },
-  {
-    "id": "e82cb5f5-dc0a-4aa9-8fc0-fd739d762d02",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading",
-    "summary": "1. Bitcoin Magazine\n\nRussia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading\nRussia's largest private lender, Alfa-Bank, plans to launch Bitcoin and crypto trading, custody, and a digital depository once new regulations take effect, joining a broader push by major Russian banks to enter the country's emerging crypto market by late 2026 or 2027.\n2. This post Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/russias-largest-private-bank-alfa-bank",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-09T13:40:50.000Z"
-  },
-  {
-    "id": "a28e4a3c-fb06-4c65-9fd4-745a65854077",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "EXPLAINED: 📉 Bitcoin has a new rival for speculative capital: mega IPOs.SpaceX,...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#43145e69",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T13:35:34+00:00"
-  },
-  {
-    "id": "b8203998-08ae-4e02-b155-079e7ec75093",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs? ",
-    "summary": "1. Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.",
-    "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Andrew Fenton",
-    "created_at": "2026-07-09T13:30:00.000Z"
-  },
-  {
-    "id": "da5f01ff-5c47-4668-bde8-2f596ac7b5d4",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Almost half of US adults under 30 live with a parent.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#82afe249",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-09T13:26:49+00:00"
-  },
-  {
-    "id": "0cabd7cb-418f-478a-963f-2ab29e5f13f7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Short-Term Moving Averages Turn Bullish as Bitcoin Holds Above $62,500",
-    "summary": "1. Bitcoin traded near $62,743 on Thursday morning at 8 a.m.\n2. EDT, up 1.0% over the past 24 hours as the asset consolidated inside a $61,507 to $63,116 range.\n3. Short-term technical readings point to consolidation, while longer-term moving averages continue to signal a corrective phase across the one-hour, four-hour, and daily charts.",
-    "url": "https://news.bitcoin.com/short-term-moving-averages-turn-bullish-as-bitcoin-holds-above-62500/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-09T13:05:11.000Z"
-  },
-  {
-    "id": "fa1691c8-1819-4ee3-8ccc-730a3348304c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Aave rolls out vaults for yield-hungry fintech investors",
-    "summary": "1. Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits",
-    "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-09T13:01:38.000Z"
-  },
-  {
-    "id": "e834d155-fc33-4928-9249-7a0824b9dbcb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "MoonPay Brings Its AI Crypto Agents to Telegram",
-    "summary": "1. MoonAgents lets users analyze markets and prepare crypto transactions through Telegram while keeping keys on their own devices.",
-    "url": "https://decrypt.co/373059/moonpay-ai-crypto-agents-telegram",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-09T13:01:05.000Z"
-  },
-  {
-    "id": "8969b093-e295-44d1-aa15-9b5b772081b9",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Age verification is the surveillance nobody voted for",
-    "summary": "1. KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.",
-    "url": "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
-    "author": "Evin McMullen",
-    "created_at": "2026-07-09T13:00:00.000Z"
-  },
-  {
-    "id": "a2ff092c-eb85-4b3e-8ee7-504c9d40250f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇷🇺 Russia's largest private bank begins testing crypto trading services.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#d9cbe8ad",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-09T12:54:32+00:00"
-  },
-  {
-    "id": "b80ff988-4346-4e63-b6ab-935fb58cc5e4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
-    "summary": "1. Hong Kong’s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.",
-    "url": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-07-09T12:53:44.000Z"
-  },
-  {
-    "id": "8efa805a-2b66-4c7d-9249-4690d6d50001",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto’s Top VC Pushes Into AI",
-    "summary": "1. BNB Chain rebuilds itself for a world run by AI agents.\n2. BTC ETFs flows flip negative.\n3. And prediction markets face a new hurdle.",
-    "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
-    "author": "Tyler Warner",
-    "created_at": "2026-07-09T12:23:22.000Z"
-  },
-  {
-    "id": "a8e6d7ac-756a-4dfd-af72-7d8ff7fc9368",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
-    "summary": "1. Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
-    "url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-09T12:18:24.000Z"
-  },
-  {
-    "id": "341988da-78b4-4b68-967a-460a92d3760a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Nirav Shah, governor primary runner-up, jumps into race to replace Platner",
-    "summary": "1. He is best known for leading Maine through the pandemic.",
-    "url": "https://www.politico.com/live-updates/2026/07/09/congress/another-maine-candidate-00991525",
-    "author": "By Andrew Howard",
-    "created_at": "2026-07-09T12:11:39.000Z"
-  },
-  {
-    "id": "f6384d63-e58b-4ba2-84dc-dfbfdf62f5f7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Wisconsin, NY authorities criticize Circle for refusing to aid fraud recovery",
-    "summary": "Law enforcement authorities in the U.S. states of Wisconsin and New York have criticized Circle (CRCL) for refusing to recover funds for fraud victims despite court orders, the International Consortium of Investigative Journalists (ICIJ) reported. Wisconsin prosecutors have filed criminal charges against Circle for allegedly refusing to execute a warrant to recover $381,000 in assets from a fraud case. Separately, New York prosecutors sent a letter of protest to the Senate, alleging that Circle is refusing to return over $119 million in frozen assets to keep the interest earned on them. Circle has claimed it is technically impossible to freeze and reissue USDC, a stance that has drawn comparisons to Tether, which has cooperated with similar investigations by burning and reissuing $1.1 billion in USDT.",
-    "url": "https://t.me/CoinnessGL#c273830f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T12:02:43+00:00"
-  },
-  {
-    "id": "79e27554-0fd9-400d-a1f0-891f598eed29",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
-    "summary": "1. Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets.",
-    "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-09T12:00:00.000Z"
-  },
-  {
-    "id": "97402bf9-8a1c-42f2-919a-3356c6198cb7",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-    "summary": "1. Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-    "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-07-09T12:00:00.000Z"
-  },
-  {
-    "id": "a94378a7-732f-4879-9726-a54f66bd93e8",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Cassie Heart: rip legend\n\nhttps://www.bbc.com/news/articles/cg5pd9z2487o",
-    "summary": "1. rip legend",
-    "url": "https://warpcast.com/cassie/0x0c879c91",
-    "author": "Cassie Heart",
-    "created_at": "2026-07-09T11:53:18.000Z"
-  },
-  {
-    "id": "dbba8153-a028-422b-b783-778a484a0b05",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran's Revolutionary Guard threatens destructive response to US provocation",
-    "summary": "Iran's Revolutionary Guard has warned it will respond destructively to what it described as reckless actions and interference with navigation routes by the U.S. military. The Guard stated that such behavior would seriously disrupt any process of gradual opening and jeopardize the interests of nations using the Strait of Hormuz.",
-    "url": "https://t.me/CoinnessGL#0e5b6b7f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T11:52:53+00:00"
-  },
-  {
-    "id": "f9dbf5c5-eeac-47b9-8523-a0ec23543765",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏀 XRP will appear on Kansas Jayhawks uniforms after Ripple signed a multi-year deal with Kansas Athletics, billed as the first crypto sponsorship of a major college athletics program.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#34b67cf9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T11:50:37+00:00"
-  },
-  {
-    "id": "b5fc410d-6cc2-4c76-a321-38d76fbdc2bc",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CFTC chairman urges US Congress to pass the CLARITY Act",
-    "summary": "U.S. Commodity Futures Trading Commission (CFTC) Chairman Mike Selig has urged the U.S. Congress to pass the CLARITY Act. In a recent interview with Fox Business, Selig argued that without such legislation, regulators would be left to create all the rules for the crypto industry. He emphasized that the U.S. must pass the law, adding that the CFTC wants to set standards and protect investors.",
-    "url": "https://t.me/CoinnessGL#a9ad6e81",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T11:44:39+00:00"
-  },
-  {
-    "id": "19065966-0e87-4c89-a392-e2498127a8f2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls",
-    "summary": "1. CFTC Chair Michael Selig warned regulators may end up writing crypto rules if Congress fails to pass the Clarity Act.",
-    "url": "https://www.theblock.co/post/407703/cftc-chair-selig-warns-regulators-will-end-up-writing-all-the-rules-for-crypto-if-clarity-act-stalls?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-07-09T11:42:34.000Z"
-  },
-  {
-    "id": "7da382bf-61e6-4aba-9347-2c4438ee2235",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Hyundai Card Turns $20,000 Stablecoin Test Into Real-World Remittance as Europe Trial Draws Closer",
-    "summary": "1. Hyundai Motor America converted $20,000 into stablecoins and transferred them to Hyundai Motor Mexico, where they were exchanged back into U.S.\n2. Shaving Hours off Transaction Times Hyundai Card successfully tested stablecoin-based cross-border payments between Hyundai Motor Group subsidiaries in North America, slashing transaction times from hours to minutes, the card issuer recently disclosed.",
-    "url": "https://news.bitcoin.com/hyundai-card-turns-20000-stablecoin-test-into-real-world-remittance-as-europe-trial-draws-closer/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-09T11:30:13.000Z"
-  },
-  {
-    "id": "d085df03-394f-4a7b-955d-92262e62e066",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Pricing houses in bitcoin exposes dollar's loss of value",
-    "summary": "1. Your day-ahead look for July 9, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-09T11:27:10.000Z"
-  },
-  {
-    "id": "475de726-a5d6-4192-96bd-6affacac0c41",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Sony Bank gets US regulator nod to issue stablecoins",
-    "summary": "1. Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.",
-    "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-07-09T11:18:41.000Z"
-  },
-  {
-    "id": "8f1c65c9-07be-4f9e-a0c0-eabfccd1aeea",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
-    "summary": "1. Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests.",
-    "url": "https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-09T11:18:21.000Z"
-  },
-  {
-    "id": "ed0b2cdb-2320-4eb3-acd4-ba98651adf3c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ A trader turned $85 into over $2M by buying CashCat on Robinhood Chain within 30 minutes of launch, per Bubblemaps, a gain of roughly 27,000x.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#704209d2",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T11:15:36+00:00"
-  },
-  {
-    "id": "c5e6fc40-295d-44a2-b7d3-11bafffe5fe5",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
-    "summary": "1. HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform.",
-    "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
-    "author": "Olivier Acuna",
-    "created_at": "2026-07-09T11:08:37.000Z"
-  },
-  {
-    "id": "0b56c69b-2b02-4474-a220-b1f16c931b9e",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "BitGo launches quantum protection for institutional Bitcoin walletsTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#c85cf6f8",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-09T11:06:53+00:00"
-  },
-  {
-    "id": "a9673df0-e527-439d-8a0b-90b65ba5dca3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "BitGo introduces quantum protection for institutional Bitcoin wallets",
-    "summary": "1. Some experts have argued the greater risks posed by quantum computing revolve around a failure to implement new technology.",
-    "url": "https://www.theblock.co/post/407661/bitgo-quantum-protection-institutional-bitcoin-wallets?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-09T11:05:02.000Z"
-  },
-  {
-    "id": "08d9ebb0-58b6-4d4a-9239-0256edb21bf2",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
-    "summary": "1. The lender's new US subsidiary, Connectia Trust, would issue a dollar-pegged stablecoin once it clears the regulator's final conditions.",
-    "url": "https://decrypt.co/373109/sony-bank-clears-occ-hurdle-for-dollar-stablecoin",
-    "author": "Emre Yilmaz",
-    "created_at": "2026-07-09T11:03:08.000Z"
-  },
-  {
-    "id": "5ffe9e03-e46f-4e9e-9550-9696826e7783",
-    "source": "The Block",
-    "type": "rss",
-    "title": "BitGo CEO says single-digit percentages of bitcoin’s supply are ‘probably right’ for large holders amid Strategy’s sale",
-    "summary": "1. BitGo CEO Mike Belshe said single-digit bitcoin ownership levels make sense for large holders like Strategy after its $216 million sale.",
-    "url": "https://www.theblock.co/post/407697/bitgo-ceo-says-single-digit-percentages-of-bitcoins-supply-are-probably-right-for-large-holders-amid-strategys-sale?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-07-09T11:01:37.000Z"
-  },
-  {
-    "id": "aa1c8c7d-96af-4a22-b5db-2b97bd44b26d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "The last time CMC featured Teneo, it was Teneo Beacon: the app you install to run a node from your own device.",
-    "summary": "Teneo is back, and this time it is about what running Beacon earns you. It is called $AGENTIC.$AGENTIC takes everything you have earned on Teneo (your Points, Fragments, agent queries, Discord roles, and NFTs) and rolls it into one reward you claim straight to your own wallet. Once it is there, it is recorded on the blockchain: anyone can check it, and no one can reduce it or take it back.Most reward programs can change the rules later. This one cannot.And it runs on a real network: 6.5M nodes and hundreds of  AI agents are already live, and Teneo's 2026 roadmap takes it from built to a working business. The full roadmap is linked below.To qualify, before Teneo takes its snapshot: connect your wallet, connect X, and run Beacon for at least 72 hours. The longer you run it, the larger your reward.Learn More:  Labs: Partnership)",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e14ff836",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T11:00:57+00:00"
-  },
-  {
-    "id": "c52d91d4-e518-4fca-b7f9-f23563eea375",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Revolut says USDT delisting is limited to EEA, Switzerland",
-    "summary": "1. Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.",
-    "url": "https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-09T10:23:24.000Z"
-  },
-  {
-    "id": "185b52fc-b1b9-481b-b31d-bee239cb3206",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "PUTIN IS LIKELY TO ESCALATE THE WAR IN UKRAINE | PER TWO SOURCES CLOSE TO THE KREMLINREJECTS CALLS TO NEGOTIATE PEACE WHILE UKRAINE STRIKES RUSSIAN TERRITORYTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#aa34176e",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-09T09:56:33+00:00"
-  },
-  {
-    "id": "0a56130e-ab0f-495e-8c78-48be30de976a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Inside the tense final hours of Graham Platner’s campaign",
-    "summary": "1. Graham Platner went down fighting.\n2. Advisers told him to focus on ‘gratitude.’",
-    "url": "https://www.politico.com/news/2026/07/09/graham-platner-campaign-final-hours-00991485",
-    "author": "By Chris Sommerfeldt, Lisa Kashinsky, Will Steakin and Jessica Piper",
-    "created_at": "2026-07-09T09:55:00.000Z"
-  },
-  {
-    "id": "1b457284-0fc2-4d67-b638-af8a865f548e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto trader applies legendary HODL strategy to EUR/USD forex bet ",
-    "summary": "1. A trader on Ostium has held a $1.14 million long position in EUR/USD perpetual futures for 400 days, applying a bitcoin-style HODLing strategy to forex.",
-    "url": "https://www.coindesk.com/markets/2026/07/09/crypto-trader-applies-legendary-hodl-strategy-to-eur-usd-forex-bet",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-09T09:51:20.000Z"
-  },
-  {
-    "id": "192f3952-9d6f-4445-bd8a-7bc22be189ad",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CYPR token plummets 88% after Nium acquires Cypher",
-    "summary": "The native token of crypto wallet app Cypher, CYPR, has plummeted 88% in one day following the app's acquisition by global payment infrastructure firm Nium, according to crypto card expert Nikita (@0xVishnya) on X.Nikita noted that the Cypher ecosystem will be phased out by Sept. 6, but there will be no compensation or buyback for CYPR holders. Locked tokens will remain locked under their original conditions. The founder and team are moving to Nium, with the founder set to become the vice president of crypto. While CYPR holders have called the move a scam, the Cypher team maintains it is an acquisition, Nikita added. more:",
-    "url": "https://t.me/CoinnessGL#ac611553",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T09:49:48+00:00"
-  },
-  {
-    "id": "67b0f0cf-6b20-48c2-b411-ef48c0efbf21",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
-    "summary": "1. The New York-based subsidiary, fully owned by Sony Bank, will be capitalized with $40 million to support its upcoming stablecoin business operations.",
-    "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-09T09:49:26.000Z"
-  },
-  {
-    "id": "7d879cad-727a-4d81-a537-7e2dadc908b2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "INTERPOL-led global fraud crackdown arrests over 5,800, uncovers crypto laundering network tied to $122.5 million wallet",
-    "summary": "1. The operation uncovered a crypto laundering network using cross-chain swaps to obscure funds, with one wallet processing $122.5M in 10 months.",
-    "url": "https://www.theblock.co/post/407685/interpol-led-global-fraud-crackdown-arrests-over-5800-uncovers-crypto-laundering-network-tied-to-122-5-million-wallet?utm_source=rss&utm_medium=rss",
-    "author": "James Hunt",
-    "created_at": "2026-07-09T09:39:20.000Z"
-  },
-  {
-    "id": "357fc73c-4de9-4c36-a396-7387db8bc5f7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto industry accelerates shift to quantum-resistant tech, Reuters reports",
-    "summary": "The cryptocurrency industry is preparing to transition its blockchain networks to post-quantum cryptography amid forecasts that quantum computers could advance faster than expected, Reuters reported. Google predicted in March that quantum computers could potentially break current encryption standards by 2029. Citigroup has also analyzed that the development of quantum computing and AI could make cryptocurrencies vulnerable to hacking sooner than anticipated. Reuters noted that while the industry is concerned about the burdens of an early transition, organizations like the Ethereum Foundation and the Algorand Foundation have already announced roadmaps to support post-quantum systems.",
-    "url": "https://t.me/CoinnessGL#3d91a063",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T09:34:55+00:00"
-  },
-  {
-    "id": "d4747e40-4c73-447d-b4fb-efaaa1208c02",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Interpol arrests 20-year-old in Thailand for laundering $122M from romance scams",
-    "summary": "Interpol announced it has arrested two people in Thailand for allegedly laundering the proceeds of romance scams with cryptocurrency. One of the suspects, a 20-year-old, is accused of laundering over $122.5 million through a single wallet over a 10-month period. According to Decrypt, the arrests were part of a coordinated crackdown across 97 countries from January to the end of April, which resulted in 5,811 arrests and the seizure of $293 million in illicit assets.",
-    "url": "https://t.me/CoinnessGL#b591cf63",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T09:34:38+00:00"
-  },
-  {
-    "id": "f95e563b-946a-42ab-a170-135d5cea4472",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Two blockbuster AI IPO's on the horizon could leave crypto further behind",
-    "summary": "1. A wave of blockbuster AI listings is drawing billions of dollars from global investors, reinforcing a rotation away from crypto.",
-    "url": "https://www.coindesk.com/markets/2026/07/09/two-blockbuster-ai-ipo-s-on-the-horizon-could-leave-crypto-further-behind",
-    "author": "James Van Straten",
-    "created_at": "2026-07-09T09:31:56.000Z"
   }
 ]
