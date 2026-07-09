@@ -1,5 +1,115 @@
 [
   {
+    "id": "3634e9b4-d637-4b7a-b6a0-fe9762b7df60",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-09T03:59:26.000Z"
+  },
+  {
+    "id": "c58ea586-0bd3-43a8-b288-0898fb63e5e1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "SOL, XRP spot ETFs see net outflows, HYPE ETF records inflows",
+    "summary": "Solana (SOL) and XRP spot ETFs recorded net outflows on July 8, while the Hyperliquid (HYPE) spot ETF saw net inflows.- SOL: -$8.6 million- XRP: -$7.29 million- HYPE: +$3.3 million",
+    "url": "https://t.me/CoinnessGL#5a09acf5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T03:57:41+00:00"
+  },
+  {
+    "id": "dc720ced-dd33-40a1-9587-fac506dc8112",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US Bitcoin spot ETFs see $84.9M net outflow, snapping 3-day inflow streak",
+    "summary": "U.S. spot Bitcoin ETFs recorded a total net outflow of $84.9 million on July 8, snapping a three-day streak of net inflows, according to data from Farside Investors.- BlackRock's IBIT: -$59.1 million- Fidelity's FBTC: -$14.9 million- Grayscale's GBTC: -$63.7 million- Grayscale's Mini BTC: +$52.8 million",
+    "url": "https://t.me/CoinnessGL#3908bc5f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T03:53:52+00:00"
+  },
+  {
+    "id": "bf821e9c-4bc4-4e68-9e0e-0e986c0ff7c0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot Ethereum ETFs see $70.5M net inflow",
+    "summary": "U.S. spot Ethereum ETFs recorded a net inflow of $70.5 million on July 8, marking the fifth consecutive day of inflows, according to data from Farside Investors.- Fidelity (FETH): +$69.2 million- VanEck (ETHV): +$1.3 million",
+    "url": "https://t.me/CoinnessGL#d7993da0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T03:52:48+00:00"
+  },
+  {
+    "id": "5ebc488b-4d24-4f3c-8c35-4e7d4eba7f59",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇲🇾 Malaysian authorities have seized over 75,000 crypto mining rigs across 3,000+ raids since 2022, targeting operations that stole electricity or tampered with meters.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#73b06314",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T03:35:39+00:00"
+  },
+  {
+    "id": "61bafe7a-528e-4676-8514-d501a8e8e574",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "France’s Gambling Regulator Warns All Esports Betting Is Illegal as the $75M Esports World Cup Opens in Paris",
+    "summary": "1. As the Esports World Cup opens in Paris with the largest prize pool in the sport’s history, France’s national gambling authority has reminded fans that wagering on any of it is illegal.\n2. No licensed operator may take an esports bet in the country, and every site that offers one is unlawful – a stance the […]",
+    "url": "https://news.bitcoin.com/frances-gambling-regulator-warns-all-esports-betting-is-illegal-as-the-75m-esports-world-cup-opens-in-paris/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-07-09T03:30:32.000Z"
+  },
+  {
+    "id": "070f5fe8-9146-43f2-aec2-9909a3cba751",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto VC Paradigm raises $1.2B to push into AI",
+    "summary": "1. Crypto venture firm Paradigm is widening its investment gaze toward AI and other frontier industries with its latest fund.",
+    "url": "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-07-09T02:33:00.000Z"
+  },
+  {
+    "id": "d116d1e0-fc8f-4b8a-95fa-6ebe87930650",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years",
+    "summary": "1. Zapper provided crypto market data to over 2 million monthly active users and oversaw more than $13 billion in processed transactions during its peak.",
+    "url": "https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-07-09T02:32:20.000Z"
+  },
+  {
+    "id": "fb475579-bebb-4c70-8557-c87a9287887e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Flexa Expands Crypto Payments Across 37 European Markets",
+    "summary": "1. Flexa has expanded its regulated payments platform across Europe, allowing merchants, institutions, and developers throughout the Single Euro Payments Area (SEPA) to accept crypto payments and process payouts.\n2. The expansion adds 37 countries and territories with euro settlement through SEPA.\n3. How Does Flexa’s European Expansion Change Digital Asset Payments?",
+    "url": "https://news.bitcoin.com/flexa-expands-crypto-payments-across-37-european-markets/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-09T02:30:31.000Z"
+  },
+  {
+    "id": "b5b3c635-a0bf-4dd4-830c-d6696bff60d6",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+    "summary": "1. The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
+    "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-07-09T02:30:00.000Z"
+  },
+  {
+    "id": "963a017c-36b3-448e-ab2a-168ef9060ee2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇿 Kazakhstan President Kassym-Jomart Tokayev signed a decree to build a regulated crypto market, adding stablecoin payment rules, tax breaks and new mining energy options.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#72801b78",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T02:05:36+00:00"
+  },
+  {
     "id": "1fc87c21-9572-4661-8a05-f909d6dfc09f",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -80,7 +190,7 @@
     "created_at": "2026-07-09T01:18:08.000Z"
   },
   {
-    "id": "06eba8c0-2cef-4c8e-9f01-f2353d24e42e",
+    "id": "4a1d104d-6d4e-483c-a7ac-2dd52d95a104",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ SpaceX moved Bitcoin between its own wallets for the first time in 6 months, shifting less than $300 of its $1.16B in BTC holdings, per Arkham.",
@@ -180,7 +290,7 @@
     "created_at": "2026-07-08T22:26:31.000Z"
   },
   {
-    "id": "4fa70b7a-be27-4ef8-b2fe-a49ba24bc03c",
+    "id": "0f2f1019-ebc1-4259-9a0c-6e045dc1fda6",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "VanEck expects Bitcoin to be \"materially higher\" in a year.",
@@ -248,175 +358,5 @@
     "url": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss",
     "author": "Sarah Wynn",
     "created_at": "2026-07-08T22:01:09.000Z"
-  },
-  {
-    "id": "d6b05672-33a9-4a77-b59d-0b1fafca89e0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇺 The European Commission is reviewing whether MiCA should be updated to address tokenized financial instruments and global stablecoin models.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#dee0c863",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-08T21:55:37+00:00"
-  },
-  {
-    "id": "00768ad9-b1f4-493f-a54d-1fc584fa3ec4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?",
-    "summary": "1. Bitcoin faces renewed sell pressure amid an oil price surge, Japan economic contagion risks and a fresh round of selling from Strategy.",
-    "url": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-07-08T21:55:17.000Z"
-  },
-  {
-    "id": "416034f0-9d82-4f83-bbff-311d29352371",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-    "summary": "1. The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
-    "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-07-08T21:49:33.000Z"
-  },
-  {
-    "id": "d4ae6967-3ff1-4bfa-9a1d-bdeb33ca9778",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.205",
-    "summary": "1. ## What's changed\n\n- Added an auto mode rule that blocks tampering with session transcript files\n- Fixed `--json-schema` silently producing unstructured output when the schema was invalid, and schemas using the `format` keyword being rejected\n- Fixed a message sent while Claude was working being silently lost when the turn ended at the `--max-turns` limit\n- Fixed Windows worktree removal deleting files outside the worktree when an NTFS junction or directory symlink existed inside it\n- Fixed background agents staying shown as \"failed\" or \"completed\" in the agent list after being resumed with `SendMessage`\n- Fixed background jobs flipping from \"needs input\" back to \"working\" in the agent list when the agent's turn contained no readable text\n- Fixed `claude attach` erroring when a background agent was mid-upgrade restart instead of waiting for it to come back\n- Fixed session-to-PR linking missing a PR created in a Bash call whose output exceeded the 30K inline limit\n- Fixed `claude mcp add-from-claude-desktop` getting stuck when a server name contains unsupported characters; invalid names are now reported and remaining servers still import\n- Fixed a plugin LSP server that fails to initialize preventing a valid LSP server from another plugin handling the same file extension\n- Fixed a Windows crash when the directory Claude was launched from is deleted, locked, or unmounted while a command is running\n- Fixed a crash when a file watcher was closed while a directory scan was still in flight\n- Fixed project verify skills being rewritten on every session instead of only when a documented command changed\n- Fixed the agent view rendering one line too high and clipping its header when the job list slightly overflowed the screen\n- Fixed background tasks in the web and mobile Remote Control panels showing stale \"Running\" status by forwarding full task state on every membership change\n- Improved auto mode to ask before running `rm -rf` on a variable it can't resolve from context\n- Auto-update binary downloads now stream to disk instead of buffering in memory, cutting the updater's peak memory usage by roughly 400 MB\n- Background task notifications now explicitly state that no human input has occurred, preventing fabricated in-transcript approvals from being acted on\n- Improved agent view: sessions that edit, merge, comment on, or push to an existing PR now link it in `claude agents`\n- Improved agent view: rows now show a colored state word and a classifier-written headline instead of raw tool call text, and the peek opens with full status including the exact ask for blocked sessions\n- `/doctor` is now a full setup checkup that can diagnose and fix issues; `/checkup` is its alias\n- Reserved the \"Claude Browser\" MCP server name (alongside \"Claude Preview\") ahead of the Claude Desktop pane rename; user-configured MCP servers can no longer register under either name\n- Fixed Cowork VM-mode local-agent sessions failing to start with \"Not logged in · Please run /login\" on CLI 2.1.203+",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.205",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-08T21:22:06Z"
-  },
-  {
-    "id": "0f273edd-44a9-4a38-b1a2-45645bbbad76",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Prediction market World​.​xyz says it is migrating from Solana to Robinhood Chain after a 24-hour team review, days after launching with Chainlink as its oracle provider.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#5c8dfc4e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-08T21:20:37+00:00"
-  },
-  {
-    "id": "c472a6e1-b7d9-4cf2-98d6-07a7df674e1b",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher\nBitcoin slipped to around $62,000 after rebounding from last week's $57,700 low, while CryptoQuant says improving demand, seasonality and valuation support further gains, though its bearish Bull Score Index suggests the move remains a bear-market recovery rather than a full trend reversal.\n2. This post Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-08T21:18:33.000Z"
-  },
-  {
-    "id": "2febf9d4-4054-45c3-831c-ac757815e8dd",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds",
-    "summary": "1. Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.",
-    "url": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-08T21:00:02.000Z"
-  },
-  {
-    "id": "024520bc-c7f5-484e-ae06-bc42880ffd69",
-    "source": "The Block",
-    "type": "rss",
-    "title": "‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years",
-    "summary": "1. Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventures in May 2021.",
-    "url": "https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-08T20:57:05.000Z"
-  },
-  {
-    "id": "792f314e-6813-4344-b0fb-dce2149f18df",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "ESMA Says EU Retail Ban Covers Many Prediction Markets, With MiCA Awaiting the Tokenized Ones",
-    "summary": "1. Europe’s top securities regulator has clarified that many prediction-market event contracts already fall under the EU’s existing retail ban on binary options – meaning the restriction is live law, not a proposed rule – while contracts issued as blockchain tokens may instead be caught by the bloc’s crypto framework.\n2. The statement leaves platforms such as […]",
-    "url": "https://news.bitcoin.com/esma-says-eu-retail-ban-covers-many-prediction-markets-with-mica-awaiting-the-tokenized-ones/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-08T20:53:03.000Z"
-  },
-  {
-    "id": "30d25225-e6be-4c7f-96a0-53522c28244c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 CFTC Chair Mike Selig says the agency has now sued 9 states over prediction market jurisdiction and will continue to sue \"any state that attempts to impose criminal or civil fines against CFTC-registered exchanges.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#79c5dd03",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-08T20:45:37+00:00"
-  },
-  {
-    "id": "cbeeee97-aab8-4075-9537-a52dbec7c99c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "June stock token volume hits record $3.4B, up 1,400% YoY",
-    "summary": "Stock token trading volume reached an all-time high of $3.4 billion in June, marking a 279% increase from the previous month and a 1,400% rise year-over-year, according to market analysis firm The Kobeissi Letter. Data revealed that Solana captured over 90% of this volume, with more than 60% of all trades occurring outside regular market hours and on weekends. The firm noted this demonstrates a clear demand for 24/7 trading, which contrasts with the operating hours of traditional finance (TradFi) markets. Crypto analyst Hupzy analyzed that Solana is poised to benefit as a settlement layer as capital for stocks and pre-IPO shares moves on-chain. Hupzy added that the key question is whether this growth momentum can be sustained through July.",
-    "url": "https://t.me/CoinnessGL#153af831",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-08T20:44:56+00:00"
-  },
-  {
-    "id": "1915d2f0-12fb-4861-95e4-a37055d1a61f",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
-    "summary": "1. The investment firm said its fourth fund will back AI, robotics, and crypto startups as it broadens beyond digital assets.",
-    "url": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-08T20:40:38.000Z"
-  },
-  {
-    "id": "4ad83ce1-bdf0-43cb-ab41-bcbfadad03a0",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "IRAN'S MILITARY SOURCE SAYING THAT IRANIAN ARMED FORCES WILL LAUNCH 'MASSIVE' ATTACK ON U.S.",
-    "summary": "ARMY BASES IN THE REGION IN RESPONSE TO THE U.S. STRIKESTwitter",
-    "url": "https://t.me/SolidIntelX#a7d08886",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-08T20:37:38+00:00"
-  },
-  {
-    "id": "034dd8bd-ecd9-4eb5-86f0-766d65ee6bf5",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-    "summary": "1. Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress.\n2. It turned out to be an AI-generated fake.",
-    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "author": "Russell Brandom",
-    "created_at": "2026-07-08T20:37:03.000Z"
-  },
-  {
-    "id": "b02550b7-b5fb-4051-8893-0a49651a87ea",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-    "summary": "1. Like its U.S.\n2. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies.\n3. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
-    "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-    "author": "Anna Heim",
-    "created_at": "2026-07-08T20:29:50.000Z"
-  },
-  {
-    "id": "691d9c35-4a01-492d-8d52-42316c82686a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
-    "summary": "1. Industry data shows trading activity and market value accelerating as crypto companies and traditional financial institutions expand tokenized equity initiatives.",
-    "url": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-08T20:29:10.000Z"
-  },
-  {
-    "id": "08633271-81d4-4e3f-9379-568487f7ce04",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinatmradar Data Shows Global Crypto ATMs Crash From 38,708 Down to 27,945 Machines",
-    "summary": "1. The United States has lost 10,763 crypto automated teller machines (ATMs) since the network stood at 38,708 machines 68 days ago on May 1, and coinatmradar.com data shows the decline accelerated once state regulators started shutting kiosks down for good.\n2. Bitcoin ATM installations growth data from coinatmradar.com shows steady expansion from 2020 through 2022, when […]",
-    "url": "https://news.bitcoin.com/coinatmradar-data-shows-global-crypto-atms-crash-from-38708-down-to-27945-machines/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-08T20:10:26.000Z"
   }
 ]
