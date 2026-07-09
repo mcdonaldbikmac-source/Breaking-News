@@ -1,5 +1,155 @@
 [
   {
+    "id": "1b457284-0fc2-4d67-b638-af8a865f548e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto trader applies legendary HODL strategy to EUR/USD forex bet ",
+    "summary": "1. A trader on Ostium has held a $1.14 million long position in EUR/USD perpetual futures for 400 days, applying a bitcoin-style HODLing strategy to forex.",
+    "url": "https://www.coindesk.com/markets/2026/07/09/crypto-trader-applies-legendary-hodl-strategy-to-eur-usd-forex-bet",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-09T09:51:20.000Z"
+  },
+  {
+    "id": "192f3952-9d6f-4445-bd8a-7bc22be189ad",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CYPR token plummets 88% after Nium acquires Cypher",
+    "summary": "The native token of crypto wallet app Cypher, CYPR, has plummeted 88% in one day following the app's acquisition by global payment infrastructure firm Nium, according to crypto card expert Nikita (@0xVishnya) on X.Nikita noted that the Cypher ecosystem will be phased out by Sept. 6, but there will be no compensation or buyback for CYPR holders. Locked tokens will remain locked under their original conditions. The founder and team are moving to Nium, with the founder set to become the vice president of crypto. While CYPR holders have called the move a scam, the Cypher team maintains it is an acquisition, Nikita added. more:",
+    "url": "https://t.me/CoinnessGL#ac611553",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T09:49:48+00:00"
+  },
+  {
+    "id": "67b0f0cf-6b20-48c2-b411-ef48c0efbf21",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
+    "summary": "1. The New York-based subsidiary, fully owned by Sony Bank, will be capitalized with $40 million to support its upcoming stablecoin business operations.",
+    "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-09T09:49:26.000Z"
+  },
+  {
+    "id": "7d879cad-727a-4d81-a537-7e2dadc908b2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "INTERPOL-led global fraud crackdown arrests over 5,800, uncovers crypto laundering network tied to $122.5 million wallet",
+    "summary": "1. The operation uncovered a crypto laundering network using cross-chain swaps to obscure funds, with one wallet processing $122.5M in 10 months.",
+    "url": "https://www.theblock.co/post/407685/interpol-led-global-fraud-crackdown-arrests-over-5800-uncovers-crypto-laundering-network-tied-to-122-5-million-wallet?utm_source=rss&utm_medium=rss",
+    "author": "James Hunt",
+    "created_at": "2026-07-09T09:39:20.000Z"
+  },
+  {
+    "id": "357fc73c-4de9-4c36-a396-7387db8bc5f7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto industry accelerates shift to quantum-resistant tech, Reuters reports",
+    "summary": "The cryptocurrency industry is preparing to transition its blockchain networks to post-quantum cryptography amid forecasts that quantum computers could advance faster than expected, Reuters reported. Google predicted in March that quantum computers could potentially break current encryption standards by 2029. Citigroup has also analyzed that the development of quantum computing and AI could make cryptocurrencies vulnerable to hacking sooner than anticipated. Reuters noted that while the industry is concerned about the burdens of an early transition, organizations like the Ethereum Foundation and the Algorand Foundation have already announced roadmaps to support post-quantum systems.",
+    "url": "https://t.me/CoinnessGL#3d91a063",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T09:34:55+00:00"
+  },
+  {
+    "id": "d4747e40-4c73-447d-b4fb-efaaa1208c02",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Interpol arrests 20-year-old in Thailand for laundering $122M from romance scams",
+    "summary": "Interpol announced it has arrested two people in Thailand for allegedly laundering the proceeds of romance scams with cryptocurrency. One of the suspects, a 20-year-old, is accused of laundering over $122.5 million through a single wallet over a 10-month period. According to Decrypt, the arrests were part of a coordinated crackdown across 97 countries from January to the end of April, which resulted in 5,811 arrests and the seizure of $293 million in illicit assets.",
+    "url": "https://t.me/CoinnessGL#b591cf63",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T09:34:38+00:00"
+  },
+  {
+    "id": "f95e563b-946a-42ab-a170-135d5cea4472",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Two blockbuster AI IPO's on the horizon could leave crypto further behind",
+    "summary": "1. A wave of blockbuster AI listings is drawing billions of dollars from global investors, reinforcing a rotation away from crypto.",
+    "url": "https://www.coindesk.com/markets/2026/07/09/two-blockbuster-ai-ipo-s-on-the-horizon-could-leave-crypto-further-behind",
+    "author": "James Van Straten",
+    "created_at": "2026-07-09T09:31:56.000Z"
+  },
+  {
+    "id": "dd9ca26c-63ed-4c4a-a822-4266afc689be",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "A 20-Year-Old's Crypto Wallet Moved $123M in Romance-Scam Cash: Interpol Says",
+    "summary": "1. The two Thai arrests were part of Operation First Light, a 97-country sweep that logged 5,811 arrests and intercepted $293 million.",
+    "url": "https://decrypt.co/373107/a-20-year-olds-crypto-wallet-moved-123m-in-romance-scam-cash-interpol-says",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-09T09:21:54.000Z"
+  },
+  {
+    "id": "f72f5a1b-06bf-4386-95e8-06ee774fbc07",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
+    "summary": "1. The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea’s digital asset bill.",
+    "url": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-09T09:19:38.000Z"
+  },
+  {
+    "id": "21c631e6-6d06-4514-a8a6-79f8faa525dd",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Russia’s largest private bank Alfa is launching crypto custody and tradingAlfa plans a retail crypto brokerage by late 2026/early 2027, then a full digital depository for custody, trading and blockchain investment products aimed at foreign investors, all hinging on Russia’s crypto law, which passed its first Duma reading in April and now takes effect around Sept 1.",
+    "summary": "Sber, VTB and T-Bank are building the same. The Bank of Russia will oversee it all.Twitter",
+    "url": "https://t.me/SolidIntelX#11665fff",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-09T09:19:00+00:00"
+  },
+  {
+    "id": "e3de560a-2268-4f4f-8f1a-8a79c86da943",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Russia’s Alfa Bank plans to launch digital depository to offer crypto services: report",
+    "summary": "1. The move aligns with similar announcements from other major Russian banks, amid the development of the country's crypto law.",
+    "url": "https://www.theblock.co/post/407679/russia-alfa-bank-crypto?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-09T09:10:50.000Z"
+  },
+  {
+    "id": "971d31c0-52ad-4039-a1d9-f1a5bd3bf7c4",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "A token not many people know 👇",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f95440a7",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T09:05:34+00:00"
+  },
+  {
+    "id": "3c737513-aba4-4bfb-9dac-1c37ec5ab7ee",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
+    "summary": "1. SWIFT launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
+    "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-09T08:51:48.000Z"
+  },
+  {
+    "id": "bc4c01f6-94d9-489f-b3c5-0aaa08299d5e",
+    "source": "Politico",
+    "type": "rss",
+    "title": "What we know – and don’t – about how Maine Democrats will replace Graham Platner",
+    "summary": "1. The party has until July 27 to replace Platner in the key battleground Senate race.",
+    "url": "https://www.politico.com/news/2026/07/09/graham-platner-maine-democrats-replacement-process-00991464",
+    "author": "By Aaron Pellish and Andrew Howard",
+    "created_at": "2026-07-09T08:45:00.000Z"
+  },
+  {
+    "id": "bc581287-7e53-410b-b8e6-9b4d4b2f09ea",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says",
+    "summary": "1. Binance is exploring new licensing paths into Europe while continuing to expand its regulatory footprint in Asia, says co-CEO Richard Teng.",
+    "url": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-09T08:26:30.000Z"
+  },
+  {
     "id": "9230e769-3372-45b7-9695-bc5151fd2a7c",
     "source": "The Defiant",
     "type": "rss",
@@ -40,7 +190,7 @@
     "created_at": "2026-07-09T07:48:20+00:00"
   },
   {
-    "id": "5ddb1619-dd5e-484a-baed-f43e29889c13",
+    "id": "ae6193f6-3970-4927-8ea8-fd7cb126f8b8",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "1,000,000,000 $USDT minted at Tether TreasuryTwitter",
@@ -120,7 +270,7 @@
     "created_at": "2026-07-09T06:40:50.000Z"
   },
   {
-    "id": "740a9811-1bba-4585-8fa7-c1f7936804d2",
+    "id": "9c0073db-3b81-43a0-a12a-eab2dad498d0",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Michael Saylor says Bitcoin only needs to appreciate faster than 3.3% annually for its capital gains to fund Strategy's STRC dividends \"indefinitely.\"",
@@ -170,7 +320,7 @@
     "created_at": "2026-07-09T05:57:23.000Z"
   },
   {
-    "id": "45ca9d55-becd-40ad-aff4-cba3d4ccb528",
+    "id": "a1d3a385-06e9-4b81-bf60-42df68bf1976",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Adam Back's Bitcoin Standard Treasury Company and Cantor Equity Partners have scrapped their 2025 SPAC merger terms to renegotiate a deal that \"better reflects market conditions.\"",
@@ -328,75 +478,5 @@
     "url": "https://t.me/CoinnessGL#d7993da0",
     "author": "@CoinnessGL",
     "created_at": "2026-07-09T03:52:48+00:00"
-  },
-  {
-    "id": "04389bc1-47dc-4969-8a95-f817e4bf4fd4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇲🇾 Malaysian authorities have seized over 75,000 crypto mining rigs across 3,000+ raids since 2022, targeting operations that stole electricity or tampered with meters.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#73b06314",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T03:35:39+00:00"
-  },
-  {
-    "id": "61bafe7a-528e-4676-8514-d501a8e8e574",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "France’s Gambling Regulator Warns All Esports Betting Is Illegal as the $75M Esports World Cup Opens in Paris",
-    "summary": "1. As the Esports World Cup opens in Paris with the largest prize pool in the sport’s history, France’s national gambling authority has reminded fans that wagering on any of it is illegal.\n2. No licensed operator may take an esports bet in the country, and every site that offers one is unlawful – a stance the […]",
-    "url": "https://news.bitcoin.com/frances-gambling-regulator-warns-all-esports-betting-is-illegal-as-the-75m-esports-world-cup-opens-in-paris/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-09T03:30:32.000Z"
-  },
-  {
-    "id": "070f5fe8-9146-43f2-aec2-9909a3cba751",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto VC Paradigm raises $1.2B to push into AI",
-    "summary": "1. Crypto venture firm Paradigm is widening its investment gaze toward AI and other frontier industries with its latest fund.",
-    "url": "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Jesse Coghlan",
-    "created_at": "2026-07-09T02:33:00.000Z"
-  },
-  {
-    "id": "d116d1e0-fc8f-4b8a-95fa-6ebe87930650",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years",
-    "summary": "1. Zapper provided crypto market data to over 2 million monthly active users and oversaw more than $13 billion in processed transactions during its peak.",
-    "url": "https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-07-09T02:32:20.000Z"
-  },
-  {
-    "id": "fb475579-bebb-4c70-8557-c87a9287887e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Flexa Expands Crypto Payments Across 37 European Markets",
-    "summary": "1. Flexa has expanded its regulated payments platform across Europe, allowing merchants, institutions, and developers throughout the Single Euro Payments Area (SEPA) to accept crypto payments and process payouts.\n2. The expansion adds 37 countries and territories with euro settlement through SEPA.\n3. How Does Flexa’s European Expansion Change Digital Asset Payments?",
-    "url": "https://news.bitcoin.com/flexa-expands-crypto-payments-across-37-european-markets/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-09T02:30:31.000Z"
-  },
-  {
-    "id": "b5b3c635-a0bf-4dd4-830c-d6696bff60d6",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
-    "summary": "1. The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
-    "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-07-09T02:30:00.000Z"
-  },
-  {
-    "id": "963a017c-36b3-448e-ab2a-168ef9060ee2",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇰🇿 Kazakhstan President Kassym-Jomart Tokayev signed a decree to build a regulated crypto market, adding stablecoin payment rules, tax breaks and new mining energy options.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#72801b78",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T02:05:36+00:00"
   }
 ]
