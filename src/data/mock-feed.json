@@ -1,6 +1,176 @@
 [
   {
-    "id": "cb360255-7631-40c4-abd5-c172222d1807",
+    "id": "9230e769-3372-45b7-9695-bc5151fd2a7c",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-09T08:01:07.000Z"
+  },
+  {
+    "id": "92dac903-f343-4816-8a8e-26a996f351b1",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-09T08:01:07.000Z"
+  },
+  {
+    "id": "c1130fbe-79f5-4b2b-bd4d-397b57d8ea48",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Sony Bank gets conditional OCC approval for US trust bank to issue dollar-backed stablecoin",
+    "summary": "1. The trust bank subsidiary, Connectia Trust, is expected to issue and manage a dollar-backed stablecoin, pending final approval.",
+    "url": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-09T07:50:55.000Z"
+  },
+  {
+    "id": "bd97624e-d0dc-46ca-90d0-8068d96ee511",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "OSL EU secures MiCA license for EEA-wide crypto services",
+    "summary": "OSL EU, the European Union subsidiary of Hong Kong's OSL Group, announced it has secured a license under the Markets in Crypto-Assets (MiCA) regulation from Austria's Financial Market Authority (FMA). This approval enables OSL to offer cryptocurrency services throughout the 30 countries of the European Economic Area (EEA).",
+    "url": "https://t.me/CoinnessGL#dfa9ea10",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T07:48:20+00:00"
+  },
+  {
+    "id": "5ddb1619-dd5e-484a-baed-f43e29889c13",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "1,000,000,000 $USDT minted at Tether TreasuryTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#15fd9296",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-09T07:43:38+00:00"
+  },
+  {
+    "id": "00a90909-e26b-4eb6-a11a-d380c3ccb3f9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "1,000 million USDT minted",
+    "summary": "Whale Alert reported that 1,000 million USDT has been minted at the Tether Treasury.",
+    "url": "https://t.me/CoinnessGL#055f25a3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T07:43:22+00:00"
+  },
+  {
+    "id": "cb07f13d-d65d-4322-93a7-7aa09ab57166",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Robinhood Chain 24-hour DEX volume hits $563M, 31% of Solana's",
+    "summary": "Robinhood Chain's 24-hour decentralized exchange (DEX) trading volume has reached $562.74 million, representing approximately 31% of Solana's (SOL) spot DEX volume of $1.828 billion over the same period. Dune analyst adam_tehc noted on X that Robinhood Chain's volume, driven almost entirely by memecoins, is approaching one-third of Solana's.",
+    "url": "https://t.me/CoinnessGL#474643cc",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T07:36:24+00:00"
+  },
+  {
+    "id": "0d87662b-c335-4abf-9e7c-0a7f75011f41",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Michael Saylor’s Strategy Sold 3,588 Bitcoin in Largest Sale Ever. Is it a Bearish Signal?",
+    "summary": "1. $MSTR just sold 3,588 BTC and many are calling it the top.\n2. But this only represents 0.42% of their total Bitcoin holdings, while the remaining stack is still worth about 179% of the company’s market cap.\n3. Panic selling or smart capital management?",
+    "url": "https://news.bitcoin.com/michael-saylors-strategy-sold-3588-bitcoin-in-largest-sale-ever-is-it-a-bearish-signal/",
+    "author": "Guest Author",
+    "created_at": "2026-07-09T07:30:57.000Z"
+  },
+  {
+    "id": "27af58ca-b947-4e64-81c3-d0951367d570",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin ETFs slip back to outflows while ether funds extend their streak",
+    "summary": "1. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million",
+    "url": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-09T06:51:10.000Z"
+  },
+  {
+    "id": "eecd6fc2-cc73-4cba-b9dd-ab4df8cd4b6d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hyundai Card completes its first real-world stablecoin pilot with Avalanche, Tether",
+    "summary": "1. Visa and Circle will participate in Hyundai Card's second stablecoin PoC, which is set to begin later this month.",
+    "url": "https://www.theblock.co/post/407660/hyundai-stablecoin-poc-avalanche-tether?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-09T06:46:10.000Z"
+  },
+  {
+    "id": "92a387e6-1816-4c2f-8efa-ea8a732be3f3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns",
+    "summary": "1. Former BOJ official issues interest-rate warning as yen continues to slide against the dollar.",
+    "url": "https://www.coindesk.com/markets/2026/07/09/bank-of-japan-may-speed-up-rate-hikes-pushing-borrowing-costs-above-2-ex-boj-official-warns",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-09T06:42:09.000Z"
+  },
+  {
+    "id": "dfdce649-ffd2-4b66-b7b4-2e84b6228bab",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "'CASHCAT' trader turns $800 into over $1 million on Robinhood's brand new blockchain",
+    "summary": "1. Robinhood's blockchain went live on July 1 to move stocks onchain.\n2. Its first breakout hit is a memecoin named after the mascot the company abandoned.",
+    "url": "https://www.coindesk.com/tech/2026/07/09/cashcat-trader-turns-usd800-into-over-usd1-million-on-robinhood-s-brand-new-blockchain",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-09T06:40:50.000Z"
+  },
+  {
+    "id": "740a9811-1bba-4585-8fa7-c1f7936804d2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Michael Saylor says Bitcoin only needs to appreciate faster than 3.3% annually for its capital gains to fund Strategy's STRC dividends \"indefinitely.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#726e7d6f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T06:40:37+00:00"
+  },
+  {
+    "id": "c0a6bfb7-df3c-4a7a-9b3b-a1f6fb2c4856",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Harry Hwang Warns Compliant Solana Order Flow Lanes Could Concentrate Institutional Liquidity",
+    "summary": "1. Moneygram has deployed an active Solana validator node and joined the Solana Developer Platform.\n2. Rather than an immediate integration with its retail remittance engine, this serves as an infrastructure staging ground to master public-node challenges before exposing its core settlement ledger.\n3. Moneygram’s Strategic Infrastructure Staging Ground Global remittance giants have traditionally operated as consumers of […]",
+    "url": "https://news.bitcoin.com/harry-hwang-warns-compliant-solana-order-flow-lanes-could-concentrate-institutional-liquidity/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-09T06:30:59.000Z"
+  },
+  {
+    "id": "7c84196d-c3de-48e6-abd1-00f0cb6d663e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Wyden urges Senate leaders to keep dev protections in crypto bill ",
+    "summary": "1. Senator Ron Wyden has called on Senate leaders to ensure the Blockchain Regulatory Certainty Act remains in the CLARITY Act when it is brought to the floor.",
+    "url": "https://cointelegraph.com/news/senate-leaders-urged-to-keep-dev-protections-in-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-07-09T06:03:49.000Z"
+  },
+  {
+    "id": "82f40b3e-399b-485b-abb4-344a8622f656",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-09T06:00:00.000Z"
+  },
+  {
+    "id": "46434606-b3fa-4f98-9d2c-d1433d04c6e3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trader loses $1M after signing phishing token approval",
+    "summary": "1. Onchain scammers netted more than $14 billion last year, and approval phishing remains a primary attack vector.",
+    "url": "https://cointelegraph.com/news/trader-loses-1m-after-signing-phishing-token-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-07-09T05:57:23.000Z"
+  },
+  {
+    "id": "45ca9d55-becd-40ad-aff4-cba3d4ccb528",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Adam Back's Bitcoin Standard Treasury Company and Cantor Equity Partners have scrapped their 2025 SPAC merger terms to renegotiate a deal that \"better reflects market conditions.\"",
@@ -70,7 +240,7 @@
     "created_at": "2026-07-09T05:07:11.000Z"
   },
   {
-    "id": "b090a211-690c-464b-b0be-6efdff90e085",
+    "id": "019a1703-0c03-4357-b69a-979bbbef64da",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Crypto VC firm Paradigm has raised $1.2B for a new fund targeting AI and robotics startups.",
@@ -228,115 +398,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#72801b78",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-09T02:05:36+00:00"
-  },
-  {
-    "id": "1fc87c21-9572-4661-8a05-f909d6dfc09f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC could benefit from Fed intervention in a stock market crash",
-    "summary": "A significant correction in the U.S. stock market could prompt a Federal Reserve intervention that would also benefit BTC and the broader cryptocurrency market, according to an analysis by Cointelegraph. The outlet noted that the U.S. stock market's capitalization has grown by 68% over the last five years, with an increase of about $6 trillion this year alone. If a correction occurs, the Fed might break with decades of practice to stabilize the market through measures like interest rate cuts, balance sheet expansion, or even purchasing specific ETFs. With 58% of Americans owning stocks, Cointelegraph argued that political pressure to prevent a prolonged bear market would be immense, as the market is too large to fail. The analysis concluded that because crypto prices are heavily influenced by dollar liquidity and risk sentiment, a Fed defense of risk assets would lower the risk premium, allowing BTC to benefit from improved liquidity and risk appetite.",
-    "url": "https://t.me/CoinnessGL#1bad0f9e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T01:58:33+00:00"
-  },
-  {
-    "id": "b5f2234b-6d3a-4ae0-bdfd-6470957735ef",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Dan Kleban jumps (back) into Maine Senate race",
-    "summary": "1. The Maine Beer Company founder briefly ran for Senate last year before dropping his bid and endorsing Gov.\n2. Janet Mills in the race.",
-    "url": "https://www.politico.com/live-updates/2026/07/08/congress/dan-kleban-graham-platner-00991368",
-    "author": "By Lisa Kashinsky",
-    "created_at": "2026-07-09T01:48:33.000Z"
-  },
-  {
-    "id": "392905f6-3e8c-4ef2-9c28-1bbc49474f6f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their extreme Generosity in helping children to attain the ever magnificent American Dream!\n2. Their Gift of 325 Million Dollars of SpaceX Stock is greatly appreciated by all.\n3. Thousands of children have just been given a better life.",
-    "url": "https://trumpstruth.org/statuses/39913",
-    "author": "Trump Truth",
-    "created_at": "2026-07-09T01:39:05.000Z"
-  },
-  {
-    "id": "bd76f61e-5a2a-4365-9bc5-91bb2952a87c",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
-    "summary": "1. The size and scope of the US stock market “gives policymakers a strong incentive to backstop major drawdowns,” said Bitget Wallet COO, Alvin Kan.",
-    "url": "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Martin Young",
-    "created_at": "2026-07-09T01:32:12.000Z"
-  },
-  {
-    "id": "4a12ade5-5d2f-4497-ad14-a19d9197498d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tennessee Crypto ATM Ban Takes Effect After Federal Court Rejects Emergency Challenge",
-    "summary": "1. A federal court has allowed Tennessee’s ban on cryptocurrency ATMs to take effect while a constitutional lawsuit continues, giving the state an early legal win in its anti-fraud push.\n2. Why Did Tennessee’s Cryptocurrency ATM Ban Survive Its First Legal Test?\n3. A federal court declined to halt Tennessee’s cryptocurrency ATM ban before it took effect, Attorney […]",
-    "url": "https://news.bitcoin.com/tennessee-crypto-atm-ban-takes-effect-after-federal-court-rejects-emergency-challenge/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-09T01:30:34.000Z"
-  },
-  {
-    "id": "76a843b9-0747-42be-8451-9941cd3510bc",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Texas residents lost $56.8M to crypto ATM scams over past year",
-    "summary": "Texas residents have lost a total of $56.8 million to cryptocurrency ATM scams over the past year, according to Cryptopolitan. An estimated 1,200 residents in the state have fallen victim to these schemes.The scams typically involve fraudsters impersonating government officials or corporate employees. They contact victims by phone, falsely claiming the target is in legal trouble or owes money. The scammers then instruct the victims to convert cash into cryptocurrency at an ATM and transfer it to a designated wallet address.",
-    "url": "https://t.me/CoinnessGL#e9c030ff",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T01:30:23+00:00"
-  },
-  {
-    "id": "c99899c8-3f8e-4c58-acd9-20c3e74e3e6b",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale with 5000x return sells another $4.95M in 币安人生 tokens",
-    "summary": "An anonymous whale address starting with 0xd0a2 sold seven million 币安人生 tokens, worth approximately $4.95 million, today, EmberCN reported via X. Of the total, 6.9 million tokens (about $4.88 million) were transferred to Binance, while the remaining 100,000 tokens (around $70,000) were swapped for BNB. The address initially acquired 18.5 million 币安人生 for just 2.14 BNB (approximately $2,480) shortly after the token's launch last October, realizing a 5,000-fold return.The whale began taking profits in early June and has since sold a total of 10.5 million 币安人生 for about $7.33 million. The address still holds eight million 币安人生, valued at around $5.71 million. more:",
-    "url": "https://t.me/CoinnessGL#e184fd28",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T01:19:32+00:00"
-  },
-  {
-    "id": "afff53b9-4c1c-4ae8-a2c4-05db00cee1d1",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Graham Platner just dropped out. Here’s who could replace him.",
-    "summary": "1. Several potential successors have already signaled their interest in seeking the Democratic nomination for Maine Senate.",
-    "url": "https://www.politico.com/news/2026/07/08/graham-platner-potential-replacements-maine-00991341",
-    "author": "By Erin Doherty and Andrew Howard",
-    "created_at": "2026-07-09T01:18:08.000Z"
-  },
-  {
-    "id": "4a1d104d-6d4e-483c-a7ac-2dd52d95a104",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ SpaceX moved Bitcoin between its own wallets for the first time in 6 months, shifting less than $300 of its $1.16B in BTC holdings, per Arkham.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a8d84ab2",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T00:40:37+00:00"
-  },
-  {
-    "id": "c7f9eab2-43d2-4f87-9691-aba8a2a405bb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase UK License Marks Major Step Toward Bringing ‘Everything Exchange’ to Life",
-    "summary": "1. Coinbase said it has obtained UK authorization to provide investment services, allowing the crypto exchange to offer equities and derivatives alongside crypto through a single platform and login.\n2. Why Coinbase’s UK License Changes the Platform Crypto exchange Coinbase’s UK authorization follows its receipt of UK investment services authorization under the Markets in Financial Instruments Directive […]",
-    "url": "https://news.bitcoin.com/coinbase-uk-license-marks-major-step-toward-bringing-everything-exchange-to-life/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-09T00:30:37.000Z"
-  },
-  {
-    "id": "65639566-c4ba-41e6-9ad7-9a87734ff81f",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Graham Platner ends Maine Senate campaign",
-    "summary": "1. He had lost significant support and financial backing among Democrats in the wake of a POLITICO report that a woman said he forced her to have sex.\n2. He denied the claim.",
-    "url": "https://www.politico.com/news/2026/07/08/graham-platner-drops-out-maine-senate-00991087",
-    "author": "By Alec Hernandez, Jessica Piper and Adam Wren",
-    "created_at": "2026-07-09T00:20:43.000Z"
   }
 ]
