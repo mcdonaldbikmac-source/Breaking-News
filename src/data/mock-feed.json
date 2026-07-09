@@ -1,5 +1,125 @@
 [
   {
+    "id": "cb360255-7631-40c4-abd5-c172222d1807",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Adam Back's Bitcoin Standard Treasury Company and Cantor Equity Partners have scrapped their 2025 SPAC merger terms to renegotiate a deal that \"better reflects market conditions.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#94b11eb3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T05:55:36+00:00"
+  },
+  {
+    "id": "301cd9e6-767b-4637-9fae-e12d6e04db44",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "User loses nearly $1M in USDT on Ethereum via single phishing signature",
+    "summary": "An address starting with 0x8c94 lost $999,999 in USDT on the Ethereum network after signing a phishing token approval, Web3 anti-scam security platform ScamSniffer reported on X. The initial withdrawal attempt for $1 million failed as it was $631 over the wallet's balance. However, 36 seconds later, a script recalculated the amount and drained the entire balance. In response, ScamSniffer urged users to always double-check signature requests and not to rush.",
+    "url": "https://t.me/CoinnessGL#2fd5d6ce",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T05:47:42+00:00"
+  },
+  {
+    "id": "1269457e-2f65-48e0-98e3-51c75a88cc96",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "AI is shortening the shelf life of crypto security audits, researchers warn",
+    "summary": "1. Hackers have also been exploiting the codebases of defunct decentralized finance protocols, draining millions of dollars in customer funds.",
+    "url": "https://cointelegraph.com/news/ai-is-shortening-the-shelf-life-of-crypto-security-audits-researchers-warn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Brayden Lindrea",
+    "created_at": "2026-07-09T05:47:09.000Z"
+  },
+  {
+    "id": "ce82011d-7b66-496b-b95f-315f6fa4f72d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "A New York Crypto Legal Director Role Is Advertising $1 Million to $5 Million a Year",
+    "summary": "1. A fast-growing Solana-based crypto platform is advertising a New York director of legal affairs role paying $1 million to $5 million a year, even as the market remains weak and Bitcoin is down about 50% since October.\n2. The company launched in 2024, says it processes more than $300 million in daily transactions, and is facing […]",
+    "url": "https://news.bitcoin.com/a-new-york-crypto-legal-director-role-is-advertising-1-million-to-5-million-a-year-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-09T05:30:15.000Z"
+  },
+  {
+    "id": "737d9ef1-cdac-408d-bb5b-5547e29f0721",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump says Iran called first, wants to make a deal",
+    "summary": "U.S. President Donald Trump said Iran called first, adding that they want to make a deal.",
+    "url": "https://t.me/CoinnessGL#588ac320",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T05:26:18+00:00"
+  },
+  {
+    "id": "1538c01f-969e-44b1-9df0-f50a650faa86",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "TAC team attributes price drop to futures liquidations amid low liquidity",
+    "summary": "The TAC Protocol (TAC) team has attributed the recent sharp drop in its token price to the impact of futures liquidations amid low liquidity. In a statement on X, the project clarified that the protocol was not hacked and that all on-chain assets and systems are operating normally. The team also stated that neither they nor early investors were involved in the sell-off, as their tokens remain locked under vesting schedules. They believe that large-scale selling of perpetual futures led to a cascade of liquidations, which in turn exerted downward pressure on the spot market. The team announced it will release plans to improve liquidity and restore trust in the future.",
+    "url": "https://t.me/CoinnessGL#4b4a5725",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-09T05:24:02+00:00"
+  },
+  {
+    "id": "010423e5-cfea-4422-8165-e912712671aa",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "XRP holds near $1.10 as traders watch long-term breakout setup",
+    "summary": "1. XRP defended the $1.00-$1.05 support zone, but the near-term chart remains capped below resistance as analysts track larger wedge and channel patterns.",
+    "url": "https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-09T05:07:11.000Z"
+  },
+  {
+    "id": "b090a211-690c-464b-b0be-6efdff90e085",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Crypto VC firm Paradigm has raised $1.2B for a new fund targeting AI and robotics startups.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f6517429",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T05:05:37+00:00"
+  },
+  {
+    "id": "77639b22-821d-47f0-836d-cb817c22cbab",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin, ether steady, gold slides as US-Iran tensions escalate again",
+    "summary": "1. Oil climbed for a third day and gold fell for a fourth while bitcoin is up 1.6% on the week.",
+    "url": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-09T04:57:35.000Z"
+  },
+  {
+    "id": "b8352239-4b80-46d6-befe-333058bd615d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "AscendEX crypto exchange shuts down, no assurance on user payouts",
+    "summary": "1. AscendEx announced on July 6 that its platform ceased operations effective July 1, citing regulatory, financial, and operational challenges.",
+    "url": "https://www.theblock.co/post/407654/ascendex-shuts-down?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-09T04:39:49.000Z"
+  },
+  {
+    "id": "c92af34e-e158-47eb-9ca5-35b1a382459e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Kraken Wins $22 Million Arbitration as Arjun Sethi Calls for Clear Crypto Rules",
+    "summary": "1. Payward, Kraken’s parent company, has asked the Delaware Court of Chancery to enter final judgment against Mazars USA after winning a $22 million arbitration award.\n2. Co-CEO Arjun Sethi framed the case as part of a broader fight over debanking, regulatory pressure and the need for clear U.S.\n3. crypto market rules.",
+    "url": "https://news.bitcoin.com/kraken-wins-22-million-arbitration-as-arjun-sethi-calls-for-clear-crypto-rules/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-09T04:30:34.000Z"
+  },
+  {
+    "id": "8f5ed157-02f5-4cf0-8fdb-4a074215a6ff",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "AI boom fuels inflation fears, complicating Fed’s next rate move",
+    "summary": "1. Ongoing strong demand for AI infrastructure “would likely sustain upward pressure on prices for technology products and electricity,” Federal Reserve policymakers said.",
+    "url": "https://cointelegraph.com/news/ai-boom-fuels-inflation-fears-complicating-feds-next-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-07-09T04:12:10.000Z"
+  },
+  {
     "id": "3634e9b4-d637-4b7a-b6a0-fe9762b7df60",
     "source": "The Defiant",
     "type": "rss",
@@ -40,7 +160,7 @@
     "created_at": "2026-07-09T03:52:48+00:00"
   },
   {
-    "id": "5ebc488b-4d24-4f3c-8c35-4e7d4eba7f59",
+    "id": "04389bc1-47dc-4969-8a95-f817e4bf4fd4",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇲🇾 Malaysian authorities have seized over 75,000 crypto mining rigs across 3,000+ raids since 2022, targeting operations that stole electricity or tampered with meters.",
@@ -218,145 +338,5 @@
     "url": "https://www.politico.com/news/2026/07/08/graham-platner-drops-out-maine-senate-00991087",
     "author": "By Alec Hernandez, Jessica Piper and Adam Wren",
     "created_at": "2026-07-09T00:20:43.000Z"
-  },
-  {
-    "id": "2e0276c5-06b5-4630-b895-a132b5dfadf8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇰🇷 Mobile app Toss has reportedly signed an MOU with Optimism and Sunnyside Labs to test a Korean won stablecoin for institutional payments.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c9772637",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-08T23:55:37+00:00"
-  },
-  {
-    "id": "69a8983e-16ec-4577-929d-3907f2872f1b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Brings XRP to Jayhawk Uniforms in First Major College Crypto Jersey Sponsorship",
-    "summary": "1. XRP will be featured on Jayhawk athletic uniforms following a partnership announcement between the University of Kansas and Ripple.\n2. The agreement marks what Ripple describes as the first cryptocurrency sponsorship to appear on the jersey of a major college athletics program.\n3. Why Is the Ripple-Kansas Partnership Drawing Attention?",
-    "url": "https://news.bitcoin.com/ripple-brings-xrp-to-jayhawk-uniforms-in-first-major-college-crypto-jersey-sponsorship/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-08T23:30:58.000Z"
-  },
-  {
-    "id": "eacec01b-c6bd-45c8-9b29-b5e9c7fdd4b1",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: @farcaster's GM card 👇",
-    "summary": "1. @farcaster's GM card 👇",
-    "url": "https://warpcast.com/farcaster/0x61ad3292",
-    "author": "Farcaster",
-    "created_at": "2026-07-08T23:19:44.000Z"
-  },
-  {
-    "id": "ca892080-0141-45fa-ad7a-b24c379d4a2c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
-    "summary": "1. The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
-    "url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-07-08T23:11:42.000Z"
-  },
-  {
-    "id": "7264e0c1-a75a-4a68-bcf2-5a59d2c9f104",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇮🇳 India’s central bank is pushing for a crypto policy “leaning towards prohibition” and wants banks shielded from crypto and privately issued stablecoin exposure, per Reuters.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d5ad4e82",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-08T23:10:36+00:00"
-  },
-  {
-    "id": "657ffac7-1762-4089-9dc5-8a744861dd9a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "summary": "1. The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
-    "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-    "author": "Marina Temkin",
-    "created_at": "2026-07-08T22:41:33.000Z"
-  },
-  {
-    "id": "7e498bd1-0c71-4eb9-b50a-1ac795052be8",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
-    "summary": "1. SpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships—and by Musk's own account, at least one generation behind them.",
-    "url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-08T22:26:31.000Z"
-  },
-  {
-    "id": "0f2f1019-ebc1-4259-9a0c-6e045dc1fda6",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "VanEck expects Bitcoin to be \"materially higher\" in a year.",
-    "summary": "Matthew Sigel is advising clients to gradually build their BTC positions in the next few monthsTwitter",
-    "url": "https://t.me/SolidIntelX#98b49915",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-08T22:17:43+00:00"
-  },
-  {
-    "id": "da475a95-7f62-470d-a93e-9fe4d36dd1f5",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-08T22:13:16.000Z"
-  },
-  {
-    "id": "25fe7f78-31df-4226-ac79-5f4e1c9c63f2",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-08T22:13:16.000Z"
-  },
-  {
-    "id": "79a7320f-fd68-4348-9cc0-c6765ee5eb49",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran threatens large-scale attack on U.S. military bases in region",
-    "summary": "The Iranian military has announced it will soon launch a large-scale attack on U.S. military bases in the region, Iran's state-run Nour News reported, citing a military source.",
-    "url": "https://t.me/CoinnessGL#608496b1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-08T22:08:01+00:00"
-  },
-  {
-    "id": "1458826b-a2d4-40e2-8129-196faa4a2843",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance Wallet adds support for Plume vault, enabling investment in Bitwise, Invesco funds",
-    "summary": "Binance Wallet has integrated Plume's flagship yield-bearing vault, nBASIS, allowing users to invest on-chain in tokenized funds from Bitwise and Invesco, The Block reported. The available products are the Invesco Short Duration U.S. Government Securities Fund (USTB) and the Bitwise Crypto Carry Fund (USCC). The USTB fund currently holds over $860 million in assets under management, while the USCC fund manages over $170 million. Both funds, which were tokenized by Superstate, are currently offering yields of around 3.5%.",
-    "url": "https://t.me/CoinnessGL#00eeab99",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-08T22:07:30+00:00"
-  },
-  {
-    "id": "234a5140-32f7-406a-b5d0-ccde7151d15f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Trust Wallet Integrates Robinhood Chain as Vlad Tenev Touts RWA Network that Handles Memes Too",
-    "summary": "1. Trust Wallet has integrated Robinhood Chain, an Ethereum-compatible Layer-2 network, into its mobile app and browser extension.\n2. Expanding Self-Custody Access Trust Wallet has integrated Robinhood Chain into its mobile application and browser extension, enabling users to manage assets on the network within a self-custody framework.\n3. According to a company announcement, the integration allows users to […]",
-    "url": "https://news.bitcoin.com/trust-wallet-integrates-robinhood-chain-as-vlad-tenev-touts-rwa-network-that-handles-memes-too/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-08T22:05:45.000Z"
-  },
-  {
-    "id": "efba59d3-3a14-44aa-9fb4-6e601a204e6f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Sen. Wyden urges Senate leaders to preserve contested blockchain developer protections in broader crypto bill",
-    "summary": "1. Democratic Sen.\n2. Ron Wyden is urging Senate leaders to ensure a provision protecting blockchain software developers remains in the crypto bill.",
-    "url": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-08T22:01:09.000Z"
   }
 ]
