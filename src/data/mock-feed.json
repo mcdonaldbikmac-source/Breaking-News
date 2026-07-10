@@ -1,5 +1,145 @@
 [
   {
+    "id": "d44160c8-ecc5-4c49-9671-00417493a677",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-10T01:48:37.000Z"
+  },
+  {
+    "id": "d041663f-85c1-44de-8e4f-44708d2fe412",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.206",
+    "summary": "1. ## What's changed\n\n- Added directory path suggestions to `/cd`, matching `/add-dir` behavior\n- Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files by cutting content Claude could derive from the codebase\n- `/commit-push-pr` now auto-allows `git push` to the repo's configured push remote (`remote.pushDefault`, or the sole remote when only one is configured) in addition to `origin`\n- Gateway: `/login` now supports Anthropic-operated public gateway endpoints\n- `EnterWorktree` now asks for confirmation before entering a git worktree outside the project's `.claude/worktrees/` directory\n- Background agents now upgrade to a new version in the background right after a Claude Code update, instead of paying a slow stale-session upgrade when you attach\n- Fixed an expired login failing every model with a misleading \"There's an issue with the selected model\" error instead of prompting to run `/login`\n- Fixed `claude --resume` and `--continue` not responding to keyboard input on startup\n- Fixed MCP servers configured via `--mcp-config` or `.mcp.json` ignoring a per-server `request_timeout_ms`, which caused long-running MCP tool calls to time out at the 60s default in fresh sessions\n- Fixed `CLAUDE_CODE_EXTRA_BODY` being silently ignored by `claude agents` / `--bg` background workers; the shell-exported override now follows the dispatching session\n- Fixed OAuth MCP servers requiring manual re-authentication after a single failed token refresh\n- Fixed `--permission-prompt-tool` pointing at an MCP server crashing with \"MCP tool not found\" on cold start before the server finishes connecting\n- Fixed `/model` picker rows printing a price for a different model than the row named, and stopped quoting first-party list prices on providers that don't bill them\n- Fixed server-provided model rows being misplaced in the `/model` picker when an entitlement or allowlist restriction drops the row they were positioned against\n- Fixed desktop sessions getting stuck showing \"running\" after a slash command was sent mid-turn\n- Fixed keyboard input being ignored in the agents view when a setup prompt appeared before a bare `claude --resume` on Windows\n- Fixed `claude rm` leaving the removed job in the daemon roster, causing the row to reappear in `claude agents`\n- Fixed `/remote-control` showing \"Unknown command\" when logged out — it now explains how to sign in\n- Fixed left arrow not stepping back out of a phase or agent in the workflow detail view\n- Fixed `/status` listing the same broken-install warning twice\n- Fixed false \"disused plugin\" tips and skewed disuse telemetry for LSP plugins\n- Fixed `/doctor`'s update check to compare Homebrew installs against their cask's channel instead of the settings channel\n- Fixed the fullscreen jump-to-bottom pill suggesting Ctrl+End on macOS, not showing rebound chords, and wrapping over the transcript\n- Bedrock: fixed a multi-minute startup hang when using an `awsCredentialExport` helper on networks with restricted egress\n- Improved `/code-review` findings quality on claude-opus-4-8 across all effort levels\n- Improved agents view: status column now uses full terminal width instead of truncating at 64 characters\n- Changed agents view: Ctrl+X now permanently removes a completed session, and sessions no longer render twice; deleted background jobs stay deleted",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+    "author": "ashwin-ant",
+    "created_at": "2026-07-10T01:45:26Z"
+  },
+  {
+    "id": "7736b891-af8e-447f-b2e7-96e5713b9162",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitmine suspected of buying another $35.9M in ETH",
+    "summary": "Bitmine, a firm known for accumulating Ethereum (ETH), is suspected of purchasing an additional 20,500 ETH, worth $35.92 million, according to a report from Lookonchain. The transaction, a withdrawal from Galaxy Digital, occurred approximately six hours ago. This follows a disclosure from Bitmine last week, in which the company announced it held 5.74 million ETH after another purchase of 42,000 ETH.",
+    "url": "https://t.me/CoinnessGL#18344edd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T01:38:16+00:00"
+  },
+  {
+    "id": "706bcc9a-7f5a-4fe9-b2bb-3efbddf62701",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Whale deposits $13.69M in ETH to Binance",
+    "summary": "An anonymous whale address starting with 0x410 deposited 7,863 ETH ($13.69 million) to Binance about an hour ago, according to data from ai_9684xtpa. Deposits to exchanges are typically interpreted as a precursor to selling. The same address also deposited 6,860 ETH ($10.8 million) to an exchange a week ago and previously netted a $3.5 million profit from short positions on 16 altcoins.",
+    "url": "https://t.me/CoinnessGL#fe6b7742",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T01:35:15+00:00"
+  },
+  {
+    "id": "ead84c9f-3132-4d7d-aaec-f440f0fe1b94",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Anonymous whale buys over $70M in ETH, BTC in 10 days",
+    "summary": "Lookonchain reported that an anonymous whale address starting with 0x2684 has purchased 9,882 ETH ($17.27 million) over the past six hours. Over the past 10 days, the same address has withdrawn a total of 34,577 ETH ($57.53 million) and 250 wBTC ($15.66 million) from Binance.",
+    "url": "https://t.me/CoinnessGL#f3b2b100",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T01:08:39+00:00"
+  },
+  {
+    "id": "293fd3ed-3758-498a-9bb7-047ddd007ee7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇧🇷 Brazil's B3, Latin America's biggest stock exchange, has launched options on Bitcoin, Ethereum and Solana futures.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3f6cd74d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T00:40:08+00:00"
+  },
+  {
+    "id": "24c69001-1400-4806-867a-6fa7fb864a51",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "summary": "1. OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-07-10T00:16:54.000Z"
+  },
+  {
+    "id": "d001d7f4-f777-440e-93e5-7116e1d6f39a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+    "summary": "1. The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk.\n2. That means no SpaceX or Tesla.",
+    "url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+    "author": "Kirsten Korosec",
+    "created_at": "2026-07-10T00:13:00.000Z"
+  },
+  {
+    "id": "391242ea-45e8-4f12-b31c-0b09ca2f8b46",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. A very big day in Palm Beach, Florida, where it was my Great Honor to have the Palm Beach International Airport be renamed, by a spectacular vote, The President Donald J.\n2. Trump International Airport.\n3. The Area is HOT, the Location is GREAT, and the Renovation will be SPECTACULAR.",
+    "url": "https://trumpstruth.org/statuses/39914",
+    "author": "Trump Truth",
+    "created_at": "2026-07-10T00:07:32.000Z"
+  },
+  {
+    "id": "9dffc222-4f94-49fa-ad71-fd0d2fa3e3fa",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇷🇺 Russia's largest private bank Alfa-Bank has reportedly begun testing crypto trading via its Alfa-Investments app, letting select qualified investors trade Bitcoin, Ethereum, Solana, Litecoin and more.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c011f7da",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T23:55:08+00:00"
+  },
+  {
+    "id": "207602e7-5eb3-4684-bb0f-8cdebd30fc77",
+    "source": "Politico",
+    "type": "rss",
+    "title": "'They got their rear end kicked,' DeSantis says of US team",
+    "summary": "1. The governor made his blunt comments on a radio show – while admitting he's not a soccer fan.",
+    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/desantis-they-got-their-rear-end-kicked-00992634",
+    "author": "By Gary Fineout",
+    "created_at": "2026-07-09T23:47:14.000Z"
+  },
+  {
+    "id": "042eac7c-45a1-451a-a86a-7e9ecf87abf2",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "summary": "1. OpenAI's No.\n2. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "author": "Connie Loizos",
+    "created_at": "2026-07-09T23:38:00.000Z"
+  },
+  {
+    "id": "062229cb-ea88-47f7-ae89-f2f55872d7f0",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ South Korea's Hyundai Card has completed its first stablecoin remittance pilot, converting $20K into USDT via Avalanche to settle a US-Mexico transfer in about 7 minutes.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2d71b36a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-09T23:05:47+00:00"
+  },
+  {
+    "id": "b9ae26c7-6007-4b2f-8a8c-32bec72bcca4",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Emmanuel Macron cheers Les Bleus. So does Jordan Bardella.",
+    "summary": "1. France \"is now just two games away from the ultimate achievement!\" grins president of the far-right National Rally, which has had an uneasy relationship with the national squad.",
+    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/emmanuel-macron-jordan-bardella-france-morocco-world-cup-00992533",
+    "author": "By Ali Walker and Milena Wälde",
+    "created_at": "2026-07-09T22:48:59.000Z"
+  },
+  {
     "id": "084af145-b31f-47de-8b5c-621878a176e9",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
@@ -308,285 +448,5 @@
     "url": "https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss",
     "author": "RT Watson",
     "created_at": "2026-07-09T19:51:23.000Z"
-  },
-  {
-    "id": "331646ed-8ff3-4d42-aaa9-5a8c212a7568",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal",
-    "summary": "1. CryptoQuant said bitcoin's recent rebound should be viewed as a bear-market recovery rather than a trend reversal.",
-    "url": "https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-09T19:45:15.000Z"
-  },
-  {
-    "id": "009e486c-4c0c-426d-905d-ed3b6ae2babb",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "summary": "1. Meta's new Muse Spark 1.1.\n2. will go up against similar products offered by Anthropic and OpenAI.",
-    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-07-09T19:40:45.000Z"
-  },
-  {
-    "id": "4a134bef-cc6b-41e5-9c44-45867711f592",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-    "summary": "1. The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries.",
-    "url": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-09T19:36:52.000Z"
-  },
-  {
-    "id": "7f45a4aa-919c-4711-a882-37d87af2c2f3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Debate Grows Over Strategy Using Bitcoin Sales to Fund STRC Buybacks",
-    "summary": "1. Strategy raised the dividend on its flagship preferred stock to 12% in late June, but the security is still changing hands well below the $100 price the company says it wants investors to see.\n2. STRC, Strategy’s Variable Rate Series A Perpetual Stretch Preferred Stock, traded in the mid-to-high $80s this week, with some sessions dipping […]",
-    "url": "https://news.bitcoin.com/debate-grows-over-strategy-using-bitcoin-sales-to-fund-strc-buybacks/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-09T19:34:56.000Z"
-  },
-  {
-    "id": "789a0037-39b0-43f1-a142-7511da28ed9f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
-    "summary": "1. After a long stretch without breakthroughs in the crypto market structure bill, insiders say a new draft may emerge in a final push for late-July action — though it still lacks bipartisan buy-in.",
-    "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-07-09T19:34:24.000Z"
-  },
-  {
-    "id": "0dbd63db-66fe-4b65-98f9-b96e44bacb4b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Fed officials were split last month on raising or holding interest rates, with newly released June FOMC minutes showing many pointed to surging AI infrastructure demand as a driver of inflation.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2b31aeee",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T19:30:37+00:00"
-  },
-  {
-    "id": "9ca67ad2-9e67-4fd2-a690-df5efcd7dd12",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: some of you have been getting logged out and having to dig up your recovery phra...",
-    "summary": "1. some of you have been getting logged out and having to dig up your recovery phrase.\n2. sorry for the hassle, this wasn't intentional.\n3. if you have your recovery phrase, use it to sign back in.",
-    "url": "https://warpcast.com/farcaster/0x8f9e3570",
-    "author": "Farcaster",
-    "created_at": "2026-07-09T19:28:35.000Z"
-  },
-  {
-    "id": "78dbd01a-342e-4fa3-bbcc-0755a77b5116",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-    "summary": "1. In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
-    "url": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-    "author": "Maggie Nye",
-    "created_at": "2026-07-09T19:26:31.000Z"
-  },
-  {
-    "id": "39134182-fdae-4b98-8042-1fa43e48420d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "289,999,990 USDT transferred from Poloniex to an unknown wallet",
-    "summary": "Whale Alert reported that 289,999,990 USDT has been transferred from Poloniex to an unknown wallet. The transaction is valued at about $290 million.",
-    "url": "https://t.me/CoinnessGL#3b050c41",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T19:19:56+00:00"
-  },
-  {
-    "id": "98b1d78d-c36a-412d-8b55-6f3efe92a695",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The Muslim manosphere and Achraf Hakimi",
-    "summary": "1. The Moroccan captain's rape charge will be adjudicated in what some defenders consider an inherently hostile judicial order.",
-    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/achraf-hakimi-charge-france-fifa-world-cup-2026-00992271",
-    "author": "By Zoha Qamar",
-    "created_at": "2026-07-09T19:15:00.000Z"
-  },
-  {
-    "id": "b59ecd36-02fb-4a36-af6f-94e437186b4f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "summary": "1. News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-07-09T19:05:58.000Z"
-  },
-  {
-    "id": "0673efc8-b3d1-4be2-aab8-7300da75de22",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Mark Cuban-backed DeFi dashboard Zapper will shut its website, app and API on Aug.",
-    "summary": "3, ending a seven-year run.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4d497320",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T18:55:37+00:00"
-  },
-  {
-    "id": "8be2cd7a-f6c6-4e03-8ef6-dc50d2e69a78",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Ethereum Foundation finds and fixes network bug using AI agents",
-    "summary": "The Ethereum Foundation (EF) has announced it is applying artificial intelligence (AI) to its network to identify bugs before hackers can. According to Decrypt, EF researchers are using AI agents to find vulnerabilities in core network infrastructure, including cryptographic systems, protocol code, and smart contracts. The researchers said this approach has already led to the discovery of a real bug, which they described as a remotely triggerable panic in libp2p's gossipsub, a part of the P2P layer used by Ethereum consensus clients. The bug has now been fixed.",
-    "url": "https://t.me/CoinnessGL#35b26214",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T18:50:08+00:00"
-  },
-  {
-    "id": "4887e2dc-5a16-4ee0-8321-ef1b33958860",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Mbappé-Paraguay racism row rumbles on",
-    "summary": "1. A Paraguayan senator who called the France captain a \"brute\" and questioned his French identity is now threatening to sue after a backlash to her comments.",
-    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/kylian-mbappe-paraguay-racism-fifa-world-cup-2026-00992251",
-    "author": "By Milena Wälde",
-    "created_at": "2026-07-09T18:45:00.000Z"
-  },
-  {
-    "id": "2f349d11-c8eb-4e6d-b4ac-5c147618f738",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Bulls Reclaim $63,000 After 3% Slide as Traders Bet the Sell-Off Has Ended",
-    "summary": "1. Bitcoin rebounded to test the $63,000 threshold, recovering from a 3% drop to under $61,500.\n2. Recovery came despite growing military tensions and exchanges of fire between U.S.\n3. and Iranian forces.",
-    "url": "https://news.bitcoin.com/bitcoin-bulls-reclaim-63000-after-3-slide-as-traders-bet-the-sell-off-has-ended/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-09T18:35:52.000Z"
-  },
-  {
-    "id": "a014ad53-f7f3-48a4-8ca3-aef849a685a1",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
-    "summary": "1. Ethereum researchers are using AI agents to hunt for vulnerabilities, shifting security work from finding bugs to proving which ones are real.",
-    "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-09T18:27:47.000Z"
-  },
-  {
-    "id": "25e62e36-0a5c-44d1-90a6-2f7eca13810b",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The great France-Morocco reconciliation faces a World Cup test",
-    "summary": "1. The soccer match between the powerhouse nations highlights their renewed spirit of collaboration — but also the potential for trouble.",
-    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/france-morocco-diplomatic-relationship-fifa-world-cup-quarterfinal-00992243",
-    "author": "By Victor Goury-Laffont",
-    "created_at": "2026-07-09T18:25:55.000Z"
-  },
-  {
-    "id": "23886bb8-1e1a-4192-aea0-5c7d846940d9",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 The Hyperliquid Policy Center and Phantom wrote to the CFTC arguing that onchain protocols shouldn't face broker-exchange-clearinghouse rules built for legacy, intermediary-based markets.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#18f4f62c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T18:20:37+00:00"
-  },
-  {
-    "id": "96896701-d8cf-4cf7-81a5-8511e1609058",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
-    "summary": "1. Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.",
-    "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-09T18:13:04.000Z"
-  },
-  {
-    "id": "6fff10e9-b451-4882-bba3-0cf23df1e649",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "British Airline Jet2 Shares Jump 9% After $536M Fuel Hedge Gain Offsets Middle East Travel Fears",
-    "summary": "1. British airline Jet2 reported a $536 million balance sheet windfall for the fiscal year ending March 31, defying broader industry panic over Middle East geopolitical instability.\n2. Sector Resilience Amid Fuel Volatility British airline and package holiday provider Jet2 defied intense geopolitical instability and travel sector panic triggered by the Middle East war by reporting a […]",
-    "url": "https://news.bitcoin.com/british-airline-jet2-shares-jump-9-after-536m-fuel-hedge-gain-offsets-middle-east-travel-fears/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-09T18:12:10.000Z"
-  },
-  {
-    "id": "12b64fcb-2f0b-42aa-b5d6-0151f781b81f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Former Meta engineer TechLead sells all his BTC, citing AI's dominance",
-    "summary": "Former Meta engineer TechLead has sold his entire Bitcoin holdings, according to Wu Blockchain. He argued that the core issue for Bitcoin is that attention equals liquidity, stating that the NFT bubble proved simply holding an asset is not enough to sustain its price. TechLead also noted that people who once actively discussed Bitcoin are now mostly silent, as artificial intelligence (AI) is currently monopolizing nearly all market attention. He believes there is little room for new buyers to enter the crypto space for the time being. Despite the sale, TechLead added that he remains optimistic about Bitcoin in the long term and plans to repurchase it if the price drops further.",
-    "url": "https://t.me/CoinnessGL#85e17daa",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T18:09:13+00:00"
-  },
-  {
-    "id": "30afda68-99ee-4b47-9ffa-fa1595ad97bd",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇪🇺 Binance CEO Richard Teng says 70% of EU user withdrawals went to self-hosted wallets instead of MiCA-regulated platforms.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#25fc7a91",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-09T17:59:25+00:00"
-  },
-  {
-    "id": "6d81b0c2-09c8-4296-b14b-b467afe0af1f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push",
-    "summary": "1. The White House pushed back against Democrats’ criticism that the administration has declined to appoint commissioners to regulatory agencies.",
-    "url": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-09T17:53:16.000Z"
-  },
-  {
-    "id": "68e93869-58fe-4dad-9961-37874f5d91c0",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin’s New Debt Machine is Facing Its First Major Test",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin’s New Debt Machine is Facing Its First Major Test\nBitcoinTreasuries.net says June marked the first major stress test for Bitcoin-backed preferred shares, with Strategy's STRC and Strive's SATA rebounding after a sharp sell-off, reinforcing confidence in the growing corporate Bitcoin financing model.\n2. This post Bitcoin’s New Debt Machine is Facing Its First Major Test first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/markets/bitcoins-new-debt-machine-is-facing",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-09T17:47:23.000Z"
-  },
-  {
-    "id": "63b5ff49-2b79-4112-949f-39f67cda7ab0",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models",
-    "summary": "1. OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview.\n2. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
-    "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-09T17:24:19.000Z"
-  },
-  {
-    "id": "d2f83561-68a0-4d24-a6f0-794ad734bf2d",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$4.7 trillion JPMorgan says the biggest risk to Bitcoin isn't Strategy, but traditional finance creating private blockchains.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#4314c783",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-09T17:17:32+00:00"
-  },
-  {
-    "id": "d09d9203-f427-4021-a2e7-eb20c732cee4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin miners’ AI pivot faces investor scrutiny over insider sales",
-    "summary": "1. As AI-driven mining stocks retreat, investors are examining executive stock sales, governance and shareholder alignment across leading Bitcoin miners, according to Blocksbridge Consulting.",
-    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-pivot-faces-investor-scrutiny-over-insider-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-07-09T17:09:01.000Z"
-  },
-  {
-    "id": "53852713-26f6-438a-9569-a5d5fd4cc221",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal",
-    "summary": "1. Labour lawmakers proposed a full moratorium on crypto donations in March, which some have sought be made permanent after millions of dollars in contributions were linked to Reform leader Nigel Farage.",
-    "url": "https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-09T16:42:18.000Z"
   }
 ]
