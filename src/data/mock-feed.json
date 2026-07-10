@@ -1,6 +1,186 @@
 [
   {
-    "id": "bad7574b-ded0-42fe-ac06-f6ab6cf3b451",
+    "id": "84442b70-fabe-426b-8802-d71615efecd7",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-10T14:42:17.000Z"
+  },
+  {
+    "id": "5f9f48cc-91a4-4212-bd22-95c03ed1ecca",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-10T14:42:17.000Z"
+  },
+  {
+    "id": "1d87ef78-6a75-41eb-9c28-3100a3e70b7f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump: US agrees to Iran's request for talks, but says ceasefire is over",
+    "summary": "U.S. President Donald Trump said he has agreed to Iran's request to continue negotiations. He added, however, that the U.S. has made it clear to Iran that the ceasefire is over.",
+    "url": "https://t.me/CoinnessGL#7d02f3bb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T14:38:18+00:00"
+  },
+  {
+    "id": "88358ff8-5a17-4847-b688-91d52dda45e3",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Islamic Republic of Iran has asked us to continue “talks.” We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!\n2. Thank you for your attention to this matter.\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39916",
+    "author": "Trump Truth",
+    "created_at": "2026-07-10T14:32:41.000Z"
+  },
+  {
+    "id": "2c90dfd3-0d2b-4089-929f-5b3e82255069",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US releases new UFO footage showing an eight-pointed object flying over the Yellow Sea in 2025.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#ace51101",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-10T14:31:31+00:00"
+  },
+  {
+    "id": "bd589477-7670-4480-8d37-abd0495856ed",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Revolut X now links to AI assistants including Claude, Gemini and Cursor, letting users analyze markets, set alerts and place trades.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#92c3382b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T14:30:06+00:00"
+  },
+  {
+    "id": "1953b2d0-6048-4621-a7b4-392e22998096",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "New Coinbase VP says Clarity Act is on the 'one-yard line'",
+    "summary": "Ryan VanGrack, the new Vice Chairman of Coinbase, said in an interview with Fox Business that the Clarity Act has reached the \"one-yard line,\" an American football term indicating a goal is imminent. He added that progress in the legislative and regulatory fields will lay the groundwork to accelerate the growth of both Coinbase and the industry as a whole. more:",
+    "url": "https://t.me/CoinnessGL#d13abd6c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T14:27:51+00:00"
+  },
+  {
+    "id": "020c890a-4873-4ad8-85cf-2b9fa039f706",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+    "summary": "1. The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+    "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-10T14:19:40.000Z"
+  },
+  {
+    "id": "353ccd64-7816-4774-a0d2-224d1e83e0ef",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Circle Wins OCC Approval for National Trust Bank to Strengthen USDC Infrastructure",
+    "summary": "1. Circle has received approval from the OCC to establish Circle National Trust, a federally regulated national trust bank.\n2. The charter strengthens the infrastructure behind USDC and could eventually bring management of the stablecoin’s reserve under direct federal oversight.\n3. Jeremy Allaire Hails OCC Charter as Circle Expands USDC Circle Internet Group has received approval from the […]",
+    "url": "https://news.bitcoin.com/circle-wins-occ-approval-for-national-trust-bank-to-strengthen-usdc-infrastructure/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-10T14:19:37.000Z"
+  },
+  {
+    "id": "10b776d0-78c4-493a-b588-89972a6809fa",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Berkshire Hathaway's cash reserves hit an all-time high of $397,000,000,000.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#51d878a1",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-10T14:16:14+00:00"
+  },
+  {
+    "id": "90ff0e6f-b68e-4e42-b95d-b3e985c42d51",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+    "summary": "1. The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh’s policy review.",
+    "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-10T14:12:53.000Z"
+  },
+  {
+    "id": "d5df54d8-11d8-44ac-a22f-daea8aa81eac",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+    "summary": "1. A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+    "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-07-10T14:11:03.000Z"
+  },
+  {
+    "id": "01c68e07-73d3-4cf0-9074-f1ccad63d52a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Is Bottoming, And Smart Investors Are Already Earning 6.5% APY on Bitrue",
+    "summary": "1. SINGAPORE, July 9, 2026, Bitcoin is trading near $62,000, down approximately 50% from its all-time high of $126,198 in October 2025, and multiple independent signals are pointing to one conclusion: this is not the time to sit on the sidelines.\n2. Bitrue Research Institute has identified a convergence of on-chain and technical indicators that have historically […]",
+    "url": "https://news.bitcoin.com/bitcoin-is-bottoming-and-smart-investors-are-already-earning-6-5-apy-on-bitrue/",
+    "author": "Media",
+    "created_at": "2026-07-10T14:00:46.000Z"
+  },
+  {
+    "id": "f21b2fe7-4c55-486a-8bab-68476e0ff4c8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Metaplanet, JPYC and Progmat are studying Bitcoin-backed digital credit products in Japan, including digital corporate bonds that could use yen stablecoins for payments and redemptions.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#584b5ec8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T13:55:05+00:00"
+  },
+  {
+    "id": "e9a86f23-08c0-49e8-a244-3f2d46a82ae2",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
+    "summary": "1. A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.",
+    "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-10T13:54:50.000Z"
+  },
+  {
+    "id": "fe8e72b1-9f07-4b68-a047-e8e714a86c9d",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
+    "summary": "1. The bank argues that the treasury giant's Bitcoin sales are a short-term distraction, reiterating its $100,000 year-end price target.",
+    "url": "https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-10T13:52:30.000Z"
+  },
+  {
+    "id": "ce2b3061-9170-46e4-af0a-ea51d320679d",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off\nStandard Chartered reaffirmed its $100,000 end-2026 Bitcoin price target, calling Bitcoin \"a screaming buy\" and arguing that Strategy's recent sell-off reflects a communication issue around its new monetization strategy rather than a weakening Bitcoin outlook.\n2. This post Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-10T13:49:38.000Z"
+  },
+  {
+    "id": "781b5663-7744-449c-afd4-bd2bd458403c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-10T13:46:13.000Z"
+  },
+  {
+    "id": "d5099bd5-8ddc-4610-93e9-d29225cf10d8",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Trump says he will not sign housing bill with CBDC ban",
@@ -20,7 +200,7 @@
     "created_at": "2026-07-10T13:42:05+00:00"
   },
   {
-    "id": "f8719bc4-f010-4ea3-8e99-6487d7d84a6a",
+    "id": "02b6945e-e7c4-4da0-bd2f-e264b64d9c8f",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump says he will not sign the housing bill passed by Congress.@WatcherGuru",
@@ -50,7 +230,7 @@
     "created_at": "2026-07-10T13:30:00.000Z"
   },
   {
-    "id": "c35b740c-8020-42e3-ad43-d252725cecf4",
+    "id": "8207b80c-cac0-4f3f-ad70-013c2be28617",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Zcash has scheduled its Ironwood upgrade for July 28, which will close the old Orchard privacy pool after an “infinity” bug raised fears of counterfeit ZEC.",
@@ -230,7 +410,7 @@
     "created_at": "2026-07-10T10:30:48.000Z"
   },
   {
-    "id": "3ca95ea3-8cc5-4d73-9474-c74118bee6ca",
+    "id": "7d488161-4b06-47c4-b5ca-55045bd93fd7",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "CIRCLE RECEIVES FINAL OCC APPROVAL TO ESTABLISH NATIONAL TRUST BANK FOR DIGITAL ASSET CUSTODYTwitter",
@@ -408,75 +588,5 @@
     "url": "https://www.theblock.co/post/407842/uk-labour-mps-crypto-ban?utm_source=rss&utm_medium=rss",
     "author": "Timmy Shen",
     "created_at": "2026-07-10T08:44:30.000Z"
-  },
-  {
-    "id": "1b47acb8-83bd-4c2e-a391-5cc883771f62",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC unrealized profit at 65.8%, bear market bottom not yet signaled",
-    "summary": "The current unrealized profit ratio for Bitcoin (BTC) stands at 65.8%, continuing its decline below the historical average of approximately 81%, according to cryptocurrency analyst Darkfost. In a post on X, he noted that with the unrealized loss ratio at 34.2%, the volume of BTC in profit still exceeds that in loss. Darkfost added that past bear markets have always featured a period where unrealized losses surpassed unrealized profits, questioning whether the current cycle will be an exception. A chart shared by the analyst indicates that the \"loss\" area expanded significantly during the bear markets of 2015, 2018–2019, and 2022.",
-    "url": "https://t.me/CoinnessGL#c5af8cf6",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-10T08:36:53+00:00"
-  },
-  {
-    "id": "aca1034c-8b0e-4677-93ae-b5c3b115486c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "$165M in BTC shorts face liquidation above $64,535",
-    "summary": "According to data from CoinGlass, a break above $64,535 for BTC would trigger the liquidation of approximately $165.57 million in short positions on major centralized exchanges (CEXs). Conversely, a drop below $63,651 would lead to the liquidation of $118.40 million in long positions.",
-    "url": "https://t.me/CoinnessGL#761cc661",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-10T08:33:12+00:00"
-  },
-  {
-    "id": "261c934b-b306-408b-bf8c-04164042770b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "New CLARITY Act Draft Could Land Next Week as Senate Faces 60-Vote Test",
-    "summary": "1. Lawmakers may unveil a merged version of the Digital Asset Market Clarity (CLARITY) Act next week, potentially, with Senate floor action eyed for July 20.\n2. A Development That Could Change a Lot The new draft would fuse the versions produced by the Senate Banking and Agriculture Committees into a single text.\n3. Reporters following the effort […]",
-    "url": "https://news.bitcoin.com/clarity-act-new-draft-senate-60-vote-test/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-10T08:30:09.000Z"
-  },
-  {
-    "id": "7fb25f5d-7637-4bc4-887c-19b326fbdf66",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 The Ethereum Foundation says AI agents helped find real bugs in code used by Ethereum, including a networking flaw that has since been patched.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c33bee17",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-10T08:30:08+00:00"
-  },
-  {
-    "id": "13ff994f-55f5-4ee5-92f2-4fe933945d73",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "IEA warns renewed US-Iran fighting could trigger another global oil shortageTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#69af50e3",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-10T08:23:56+00:00"
-  },
-  {
-    "id": "bf448b8d-ad0a-49f1-bbcb-cfb25980ec54",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance moves $67.1M in BTC to Ceffu address",
-    "summary": "Onchain Lens reported a transfer of 1,050 BTC ($67.1 million) from Binance to an address presumed to belong to its institutional custody platform, Ceffu, approximately 12 minutes ago. The platform added that over the past 30 days, a total of 3,000 BTC, worth approximately $192 million, has been moved from Binance to Ceffu across 12 transactions.",
-    "url": "https://t.me/CoinnessGL#7854ff48",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-10T08:19:57+00:00"
-  },
-  {
-    "id": "b688e802-0113-42fe-97b6-d85255149b06",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 A new version of the CLARITY Act combining Senate Banking and Agriculture Committee efforts could drop as soon as next week, sources tell CoinDesk.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f2d8d919",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-10T07:55:09+00:00"
   }
 ]
