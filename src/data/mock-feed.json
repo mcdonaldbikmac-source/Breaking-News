@@ -1,6 +1,206 @@
 [
   {
-    "id": "c4c5597f-b96e-44f1-a9ab-1e6b25344fef",
+    "id": "3e88e968-d523-4fce-8f25-5377dcc47b3a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Elon Musk says SpaceX \"will be worth more than the rest of Earth\" if it accomplishes its goals.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a7fa860c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T17:00:10+00:00"
+  },
+  {
+    "id": "4621761e-1e8a-43f0-bdff-4635b09e51f8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "China is catching up to Elon Musk’s reusable rockets",
+    "summary": "1. China's state-owned space company recovered its first orbital rocket booster after launch.",
+    "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-07-10T16:51:07.000Z"
+  },
+  {
+    "id": "7a2474bd-c011-4f95-ac44-fcf43e00c4b2",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Polymarket files to offer margin trading in the United States.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#ae1c173f",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-10T16:47:33+00:00"
+  },
+  {
+    "id": "182571fe-c760-48ef-95f1-f4dbfcf03695",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Dutch deputy leader slams Moroccan football fans after riots",
+    "summary": "1. Dilan Yeşilgöz-Zegerius accused supporters of acting like “madmen” regardless of whether Morocco wins or loses.",
+    "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/netherlands-leader-moroccan-football-fans-violence-00992840",
+    "author": "By Ferdinand Knapp",
+    "created_at": "2026-07-10T16:46:00.000Z"
+  },
+  {
+    "id": "431cd7be-d550-49d0-b650-90c2037a0f42",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin ETFs Lose $95 Million as Ether’s 5-Day Inflow Streak Comes to an End",
+    "summary": "1. Crypto ETF flows weakened on Thursday, July 9, as bitcoin ETFs posted a $95.30 million outflow and ether ETFs snapped a five-day inflow streak with a $52.08 million exit.\n2. Solana saw a small redemption, while HYPE and XRP ETFs recorded no trading activity.\n3. Japan Weighs Crypto ETFs as Bitcoin and Ether Funds Return to Outflows […]",
+    "url": "https://news.bitcoin.com/bitcoin-etfs-lose-95-million-as-ethers-5-day-inflow-streak-comes-to-an-end/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-10T16:45:06.000Z"
+  },
+  {
+    "id": "4b2210fd-f69d-4b8f-93d6-1b602fca13a6",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
+    "summary": "1. Bitcoin Magazine\n\nCircle (CRCL) Wins Final OCC Approval for National Trust Bank\nCircle won final OCC approval to establish a national trust bank, allowing it to place USDC reserves under federal oversight and expanding its regulated digital asset custody business.\n2. This post Circle (CRCL) Wins Final OCC Approval for National Trust Bank first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-10T16:43:52.000Z"
+  },
+  {
+    "id": "0c671baf-2113-4f5d-945e-d42bed65d5ae",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
+    "summary": "1. Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.",
+    "url": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-07-10T16:39:45.000Z"
+  },
+  {
+    "id": "78726020-c74f-4bce-a238-b4d917e0c543",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Galaxy Digital transfers $160M in BTC over past hour",
+    "summary": "According to Lookonchain, crypto financial services firm Galaxy Digital transferred 2,500 BTC, worth approximately $160 million, over the past hour. The majority of these funds were moved to exchanges, a move typically interpreted as a precursor to selling.",
+    "url": "https://t.me/CoinnessGL#62ff4cf2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T16:38:58+00:00"
+  },
+  {
+    "id": "787ba30d-5a6c-48f7-be0c-ed58f651e333",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
+    "summary": "1. The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading.",
+    "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-10T16:36:36.000Z"
+  },
+  {
+    "id": "027a0c2a-4daa-4130-845f-6d35782b89d1",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇨🇳 OpenAI and Google are selling advanced AI models to Chinese tech giants blacklisted by the US government, FT reports.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#f429aec8",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-10T16:31:24+00:00"
+  },
+  {
+    "id": "583ae130-6f30-4dda-acf8-bf64e771ba53",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Disney+ is considering a free streaming tier, report says",
+    "summary": "1. The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
+    "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-10T16:29:05.000Z"
+  },
+  {
+    "id": "fb84912d-5825-47e1-9064-4dfb7e2fa122",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
+    "summary": "1. Kraken is adding autonomous AI agents capable of monitoring markets, suggesting trades and even executing on behalf of users.",
+    "url": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-07-10T16:27:23.000Z"
+  },
+  {
+    "id": "97914ef0-740f-4f02-8366-335add4cb460",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "1confirmation founder says RWA tokens will lead next crypto adoption wave",
+    "summary": "Nick Tomaino, founder of crypto venture capital firm 1confirmation, has stated that tokens based on real-world assets (RWA) will drive the next wave of cryptocurrency adoption. According to Wu Blockchain, Tomaino believes the era of indiscriminately issuing tokens for purely speculative purposes is ending. He expects that beyond stablecoins, tokens representing stocks, commodities, bonds, and real estate will proliferate rapidly over the next year. Tomaino identified on-chain collectibles as the area with the greatest growth potential, highlighting tokens for physical items like sports cards and player jerseys as a major opportunity.",
+    "url": "https://t.me/CoinnessGL#3e3baba4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T16:25:44+00:00"
+  },
+  {
+    "id": "1a53d4fb-5477-479b-9125-5e93dec5356a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 Circle has secured final OCC approval to launch Circle National Trust, a national bank offering fiduciary custody for Circle and its affiliates.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#50da76ae",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T16:25:05+00:00"
+  },
+  {
+    "id": "fdc81a68-4783-444b-8346-1dcb21f74eb6",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Belgium's Red Devils get royal pep talk",
+    "summary": "1. King Philippe joined a growing club of royals cheering on their national teams in North America.",
+    "url": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/belgium-world-cup-king-philippe-00993209",
+    "author": "By Milena Wälde",
+    "created_at": "2026-07-10T16:15:00.000Z"
+  },
+  {
+    "id": "51399bb6-d5ef-48da-bfe4-dbfcbb13a7a8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
+    "summary": "1. Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.",
+    "url": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-10T16:07:20.000Z"
+  },
+  {
+    "id": "2e7eaadd-fb30-4e7b-8cef-ae9a3300f0c3",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+    "summary": "1. Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
+    "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-07-10T16:06:49.000Z"
+  },
+  {
+    "id": "f05460e4-e62e-4f0c-bee8-b57e20ae3406",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+    "summary": "1. Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
+    "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-07-10T16:02:21.000Z"
+  },
+  {
+    "id": "c5e416d8-fa09-4947-8239-055206c03474",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Cambridge researcher: 31% of ETH node activity is concentrated in US",
+    "summary": "Alexander Neumüller, a researcher at the Cambridge Centre for Alternative Finance (CCAF), stated that Ethereum nodes are concentrated on Hetzner, AWS, and OVH, with 31% of all node activity occurring in the United States. According to Wu Blockchain, he explained that if more than one-third of validators go offline simultaneously, checkpoints may fail to be finalized. Previously, in 2022, the U.S. Securities and Exchange Commission (SEC) argued that the U.S. could exercise jurisdiction over Ethereum, citing the significant number of its nodes located within the country.",
+    "url": "https://t.me/CoinnessGL#1d150eb2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T15:53:45+00:00"
+  },
+  {
+    "id": "90f99782-6430-472b-9a37-a235da1e3879",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: FIP to move channels onto the protocol is up! take a look and tell us what you t...",
+    "summary": "1. FIP to move channels onto the protocol is up!\n2. take a look and tell us what you think.",
+    "url": "https://warpcast.com/farcaster/0x30f44561",
+    "author": "Farcaster",
+    "created_at": "2026-07-10T15:51:34.000Z"
+  },
+  {
+    "id": "832c1cc5-fff8-4fac-b64f-cc7fcea5a4dc",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Polymarket has filed for a license with the National Futures Association to offer regulated margin trading in the US.",
@@ -200,7 +400,7 @@
     "created_at": "2026-07-10T14:32:41.000Z"
   },
   {
-    "id": "a351941d-8bf3-48fa-94e7-9031b103dad6",
+    "id": "5f078795-552d-4b58-9410-fca559985306",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 US releases new UFO footage showing six-pointed object flying over the Yellow Sea in 2025.@WatcherGuru",
@@ -568,45 +768,5 @@
     "url": "https://www.politico.com/gallery/2026/07/10/the-nations-cartoonists-on-the-week-in-politics-00992833",
     "author": "By POLITICO Staff",
     "created_at": "2026-07-10T11:13:58.000Z"
-  },
-  {
-    "id": "32ae733f-500e-4135-844c-7e38ff037397",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "This Trader Sold His CASHCAT for $711 Instead of Retiring: Here’s the Math",
-    "summary": "1. Onchain analytics firm Lookonchain says a trader who spent just $69 on Cash Cat (CASHCAT) sold his 20 million tokens for $711, weeks before the Robinhood Chain meme coin’s vertical rally would have made the same stash worth more than $2.7 million.\n2. Meme Frenzy Continues The wallet spent 0.04 ETH, about $69, to buy 20 […]",
-    "url": "https://news.bitcoin.com/this-trader-sold-his-cashcat-for-711-instead-of-retiring-heres-the-math/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-10T10:30:48.000Z"
-  },
-  {
-    "id": "e32a9fe8-f285-4ba6-b471-58affabdbe80",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "CIRCLE RECEIVES FINAL OCC APPROVAL TO ESTABLISH NATIONAL TRUST BANK FOR DIGITAL ASSET CUSTODYTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#906b08b9",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-10T10:18:03+00:00"
-  },
-  {
-    "id": "0021c9e4-660e-4390-bd52-dfcae138bb85",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets",
-    "summary": "1. The state's budget law leaves oversight of Kalshi and Polymarket to the CFTC and taxes them at 6%, far below what other states are pursuing.",
-    "url": "https://decrypt.co/373209/north-carolina-bill-recognizes-cftcs-federal-regulatory-authority-over-prediction-markets",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-10T10:01:08.000Z"
-  },
-  {
-    "id": "ab6f449e-acb2-496d-b3a2-8f69554d7391",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-10T09:47:17.000Z"
   }
 ]
