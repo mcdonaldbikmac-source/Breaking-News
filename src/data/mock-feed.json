@@ -1,5 +1,165 @@
 [
   {
+    "id": "c4c5597f-b96e-44f1-a9ab-1e6b25344fef",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Polymarket has filed for a license with the National Futures Association to offer regulated margin trading in the US.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#13f2a397",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T15:45:05+00:00"
+  },
+  {
+    "id": "522a65a6-15fe-400b-8431-dc894342a09f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance lists SK Hynix ADR perpetual futures",
+    "summary": "Binance announced the listing of the SKHYUSDT (SK Hynix ADR) perpetual futures contract at 3:50 p.m. UTC on July 10.",
+    "url": "https://t.me/CoinnessGL#6b235677",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T15:44:51+00:00"
+  },
+  {
+    "id": "fd21db58-0334-4107-a0aa-1a3bd1211b22",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Crypto Biz: How stablecoins found their niche",
+    "summary": "1. Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.",
+    "url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-07-10T15:37:37.000Z"
+  },
+  {
+    "id": "07dd2d81-3ed2-4354-b74d-09535d621f1a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Peter Schiff: Bitcoin’s Gold Correlation Was Never Real, and Its Nasdaq Link Just Broke",
+    "summary": "1. Economist and longtime bitcoin critic Peter Schiff argued this week that BTC’s supposed correlation with gold “was never real,” while its historically tight relationship with the Nasdaq has now broken down.\n2. Schiff Continues With His Anti-Bitcoin Narrative The latest salvo was highlighted on X by numerous analysts, summarizing Schiff’s argument that bitcoin cannot claim to […]",
+    "url": "https://news.bitcoin.com/peter-schiff-bitcoins-gold-correlation-was-never-real-and-its-nasdaq-link-just-broke/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-10T15:35:35.000Z"
+  },
+  {
+    "id": "42268fe9-4266-4b5f-915e-361b707a8953",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. and Iran expected to hold new round of talks in Switzerland next week",
+    "summary": "The United States and Iran are expected to hold a new round of negotiations next week, with Switzerland as a likely venue, Axios reported, citing sources.",
+    "url": "https://t.me/CoinnessGL#59d3354b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T15:35:24+00:00"
+  },
+  {
+    "id": "07cb1383-63b2-4340-aaa4-aba6c2df434a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Kraken preparing to launch AI-powered trading service",
+    "summary": "Kraken is preparing to launch an AI-based agentic trading service, CBDC reported. The service will allow autonomous AI agents to monitor markets, identify opportunities, and execute trades based on user-defined goals. Kraken stated that it is evolving beyond a simple cryptocurrency exchange into a comprehensive financial services platform that encompasses payments, banking, and lending.",
+    "url": "https://t.me/CoinnessGL#2fa11226",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T15:31:02+00:00"
+  },
+  {
+    "id": "85ea997c-be60-4a07-b05e-41d9b1da55f4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+    "summary": "1. The initiative builds on a broader shift by companies exploring stablecoins to move money between international operations more efficiently.",
+    "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+    "author": "Olivier Acuna",
+    "created_at": "2026-07-10T15:26:43.000Z"
+  },
+  {
+    "id": "6377ac04-529e-435a-9f80-4e943eec8b18",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Metaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan",
+    "summary": "1. Bitcoin Magazine\n\nMetaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan\nMetaplanet is taking its Bitcoin strategy beyond treasury accumulation, launching a study to explore tokenized, Bitcoin-backed credit products that could reshape Japan's debt market.\n2. This post Metaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/metaplanet-announces-joint-study-bitcoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-10T15:14:13.000Z"
+  },
+  {
+    "id": "6b410a19-5147-4b10-9917-885e2de92398",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?",
+    "summary": "1. Unless President Trump vetoes the bill, it will become law at midnight, banning the Federal Reserve from developing a CBDC until 2031.",
+    "url": "https://decrypt.co/373230/trump-wont-sign-housing-bill-cbdc-ban-become-law-anyway",
+    "author": "Sander Lutz",
+    "created_at": "2026-07-10T15:13:12.000Z"
+  },
+  {
+    "id": "1a3be30e-9edf-4ddc-980c-2f6234b6d72b",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: FIP (and open questions) to move channels to protocol",
+    "summary": "1. FIP (and open questions) to move channels to protocol",
+    "url": "https://warpcast.com/rish/0xd192602e",
+    "author": "rish",
+    "created_at": "2026-07-10T15:11:44.000Z"
+  },
+  {
+    "id": "22c96314-e1c4-4a6a-b296-f5cd0c0d03d1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 A bipartisan housing bill containing a CBDC ban is set to become law at midnight without Trump's signature after he said he would withhold it in protest over the Senate's failure to pass the SAVE AMERICA Act.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#5c7c7df9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T15:10:06+00:00"
+  },
+  {
+    "id": "855f79c9-bf71-4819-a20b-677041543c87",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+    "summary": "1. The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+    "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+    "author": "Marina Temkin",
+    "created_at": "2026-07-10T15:00:09.000Z"
+  },
+  {
+    "id": "8a2986ef-1dd3-4415-953c-f5daa968ceb1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
+    "summary": "1. Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported.",
+    "url": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-10T14:59:30.000Z"
+  },
+  {
+    "id": "15cadc1f-b687-48d2-afac-a866f17fd02f",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
+    "summary": "1. Circle secured final OCC approval to establish a national trust bank, shifting its $73.2 billion stablecoin to a unified federal framework.",
+    "url": "https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter",
+    "author": "André Beganski",
+    "created_at": "2026-07-10T14:54:40.000Z"
+  },
+  {
+    "id": "692fbda4-d9d8-4b24-95db-d64b9c3ded30",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Netflix could be planning ‘always-on’ live TV channels",
+    "summary": "1. Amid signs of slowing engagement,  Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
+    "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+    "author": "Lauren Forristal",
+    "created_at": "2026-07-10T14:53:08.000Z"
+  },
+  {
+    "id": "7b3abfbe-cba4-4bb7-b582-8b0e032fd8a8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚽ Has crypto finally found its killer app?World Cup prediction markets are turning sports fans into onchain users without asking them to care about wallets, chains, or DeFi.",
+    "summary": "But gambling-law fights could decide whether the boom lasts.Read on for the full story. 👇",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3204c983",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T14:50:03+00:00"
+  },
+  {
     "id": "84442b70-fabe-426b-8802-d71615efecd7",
     "source": "The Defiant",
     "type": "rss",
@@ -38,6 +198,16 @@
     "url": "https://trumpstruth.org/statuses/39916",
     "author": "Trump Truth",
     "created_at": "2026-07-10T14:32:41.000Z"
+  },
+  {
+    "id": "a351941d-8bf3-48fa-94e7-9031b103dad6",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US releases new UFO footage showing six-pointed object flying over the Yellow Sea in 2025.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d4276e22",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-10T14:31:31+00:00"
   },
   {
     "id": "2c90dfd3-0d2b-4089-929f-5b3e82255069",
@@ -90,7 +260,7 @@
     "created_at": "2026-07-10T14:19:37.000Z"
   },
   {
-    "id": "10b776d0-78c4-493a-b588-89972a6809fa",
+    "id": "2f56fdd7-b141-446c-b34d-bd43defdee11",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Berkshire Hathaway's cash reserves hit an all-time high of $397,000,000,000.@WatcherGuru",
@@ -200,7 +370,7 @@
     "created_at": "2026-07-10T13:42:05+00:00"
   },
   {
-    "id": "02b6945e-e7c4-4da0-bd2f-e264b64d9c8f",
+    "id": "85a06232-2374-4702-a0be-dfe3ce7bd830",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump says he will not sign the housing bill passed by Congress.@WatcherGuru",
@@ -410,7 +580,7 @@
     "created_at": "2026-07-10T10:30:48.000Z"
   },
   {
-    "id": "7d488161-4b06-47c4-b5ca-55045bd93fd7",
+    "id": "e32a9fe8-f285-4ba6-b471-58affabdbe80",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "CIRCLE RECEIVES FINAL OCC APPROVAL TO ESTABLISH NATIONAL TRUST BANK FOR DIGITAL ASSET CUSTODYTwitter",
@@ -438,155 +608,5 @@
     "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
     "author": "The Defiant Team",
     "created_at": "2026-07-10T09:47:17.000Z"
-  },
-  {
-    "id": "509721ec-7af0-41ca-bf18-dfbd6b0a5414",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto exchange Revolut X introduces AI assistant feature",
-    "summary": "Revolut X, the cryptocurrency exchange of neobank Revolut, now supports AI assistant features including Claude, Gemini, and Cursor, The Block reported via X. This allows users to conduct market analysis, backtest strategies, and place trade orders using natural language prompts. All orders require user approval.",
-    "url": "https://t.me/CoinnessGL#bdfc0fa7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-10T09:44:11+00:00"
-  },
-  {
-    "id": "442d5898-967c-4cd5-8840-51d67a5c12d6",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "491,000,000 USDT transferred from an unknown wallet to Aave",
-    "summary": "Whale Alert reported that 491,000,000 USDT has been transferred from an unknown wallet to Aave. The transaction is valued at about $491 million.",
-    "url": "https://t.me/CoinnessGL#4503da2c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-10T09:42:36+00:00"
-  },
-  {
-    "id": "a774b012-b731-47fd-a906-e3b51b0238f4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bbridge launches 'Dollar Parking' app for USDT-based US stock token trading",
-    "summary": "AI fintech startup Bbridge announced the launch of \"Dollar Parking,\" an app that allows users to trade U.S. stock tokens with Tether (USDT). Users can connect their MetaMask wallets to trade 64 U.S. stock tokens, including Tesla, Nvidia, and the S&P 500, on Uniswap. The app features AI-based order optimization, supporting trades with a minimum fee of 0.1%. Assets remain in the user's wallet throughout the trading process, and some assets are available for trading on weekends. Bbridge plans to target the Asian market, where demand for stablecoins is expanding. The company was also selected as the first South Korean retail partner for global real-world asset (RWA) tokenization firm ONDO Finance (ONDO).",
-    "url": "https://t.me/CoinnessGL#a27d0fb7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-10T09:38:45+00:00"
-  },
-  {
-    "id": "43b97cd1-2a45-4b19-9a43-90b779aa164b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
-    "summary": "1. Polymarket's application to allow users to take positions that are not fully collateralized follows authorization granted to rival Kalshi in March.",
-    "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
-    "author": "Olivier Acuna",
-    "created_at": "2026-07-10T09:35:21.000Z"
-  },
-  {
-    "id": "f1f672d8-6ad1-4bb3-8abd-1d7a037a08a5",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
-    "summary": "1. Bitcoin bulls faced \"crucial resistance\" at $65,000 next as BTC price action diverged from oil and US dollar strength.",
-    "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-07-10T09:32:23.000Z"
-  },
-  {
-    "id": "90f2e04c-469d-45ac-9481-4bcea15907f3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Michael Saylor ‘Feels Invigorated’ by Bitcoin’s Mission: Here’s What He Says Is Coming",
-    "summary": "1. Strategy (Nasdaq: MSTR) Executive Chairman Michael Saylor says he feels “invigorated” by bitcoin’s mission as the world moves toward a digital monetary revolution, a doubling-down that comes with bitcoin near $64,000, down roughly 11% this year.\n2. Continued Optimism Despite Shaky Macros Saylor’s comment extends a run of pronouncements in which the executive chairman has recast […]",
-    "url": "https://news.bitcoin.com/michael-saylor-invigorated-bitcoin-mission/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-10T09:30:24.000Z"
-  },
-  {
-    "id": "5dea9e8b-1b79-4490-a90a-c3ed5a9cb71a",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇯🇵 Former BOJ official Tsutomu Watanabe warns the Bank of Japan may speed up rate hikes this year, potentially pushing borrowing costs above 2%, as the yen keeps sliding.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2ccf1e1c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-10T09:30:09+00:00"
-  },
-  {
-    "id": "0f785740-864c-48a7-8ea4-ffb57ad42e35",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin's $60,000-$70,000 range becomes third longest consolidation in history",
-    "summary": "1. Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.",
-    "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
-    "author": "James Van Straten",
-    "created_at": "2026-07-10T09:16:52.000Z"
-  },
-  {
-    "id": "7614e0fc-cb2a-4707-bce5-cfb73f7d45a7",
-    "source": "The Block",
-    "type": "rss",
-    "title": "DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
-    "summary": "1. Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 in government-forfeited cryptocurrency.",
-    "url": "https://www.theblock.co/post/407854/doj-charges-federal-inmate-over-alleged-theft-of-290000-in-crypto-forfeited-to-us-government?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-07-10T09:13:08.000Z"
-  },
-  {
-    "id": "ffd8aa52-4d38-4300-99e2-a64abf193c73",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares",
-    "summary": "1. Circle Internet Group's stock dropped 1.65% during Thursday's trading session, extending its one-month decline to 20.2%.",
-    "url": "https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-10T09:09:24.000Z"
-  },
-  {
-    "id": "46a6ba7c-8fa0-4832-b87d-8b52532f962e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
-    "summary": "1. The bitcoin treasury company is working with JPYC and Progmat to explore tokenized credit products backed by bitcoin, aiming to create efficient, 24/7 credit markets in Japan.",
-    "url": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-10T09:08:20.000Z"
-  },
-  {
-    "id": "65471f66-8c08-43e5-940b-77009aac737f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "I could talk about ____ for hours.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c09572b0",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-10T09:05:06+00:00"
-  },
-  {
-    "id": "ac3919b3-c8c8-4f25-bd09-bf33e3bb683f",
-    "source": "Politico",
-    "type": "rss",
-    "title": "‘We're fighting this by ourselves’: Southern Black leaders feel abandoned by Democratic Party",
-    "summary": "1. Black lawmakers and activists in the Deep South say they are fighting an existential crisis on their own in the wake of a major Supreme Court ruling.",
-    "url": "https://www.politico.com/news/2026/07/10/black-leaders-democratic-party-redistricting-00991564",
-    "author": "By Cheyanne M. Daniels",
-    "created_at": "2026-07-10T09:00:00.000Z"
-  },
-  {
-    "id": "ce07d754-a19a-4602-8fd4-ec611bb649bf",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 New Hampshire's Executive Council voted 3-2 on Thursday to reject a $100M Bitcoin-backed municipal bond, which would have been the first of its kind.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a8401ba6",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-10T08:55:06+00:00"
-  },
-  {
-    "id": "618b6bea-dad1-4688-8cdd-4eee95725d13",
-    "source": "The Block",
-    "type": "rss",
-    "title": "UK Labour MPs push to permanently ban crypto political donations",
-    "summary": "1. Labour MPs are gathering support for proposed amendments to a key bill that would permanently ban crypto political donations.",
-    "url": "https://www.theblock.co/post/407842/uk-labour-mps-crypto-ban?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-07-10T08:44:30.000Z"
   }
 ]
