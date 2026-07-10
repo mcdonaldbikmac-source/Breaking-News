@@ -1,5 +1,95 @@
 [
   {
+    "id": "7b9d1c94-804a-4186-b088-68482a72f736",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Robinhood Chain DEX daily volume surpasses Hyperliquid",
+    "summary": "The 24-hour trading volume on decentralized exchanges (DEXs) built on Robinhood Chain has surpassed that of Hyperliquid, Cointelegraph reported. Over the past 24 hours, DEX volume on Robinhood Chain reached approximately $375.14 million, compared to $170.58 million on the Hyperliquid L1. Robinhood Chain is a Layer 2 blockchain recently launched by the U.S. stock and cryptocurrency trading app Robinhood (Nasdaq: HOOD).",
+    "url": "https://t.me/CoinnessGL#da6bb387",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T03:54:32+00:00"
+  },
+  {
+    "id": "d78eded5-d5fc-47ea-adfd-338b891a1a17",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Charles Hoskinson denies rumors of leaving Cardano",
+    "summary": "Cardano (ADA) founder Charles Hoskinson took to X to address rumors of his departure from the project, calling them \"absolutely not true\" and \"completely false and fabricated.\"Hoskinson explained that the speculation spread due to edited, out-of-context video clips and subsequent reaction videos. He clarified that he never described Cardano as a \"failed project\" and that rumors of his retirement are also baseless.",
+    "url": "https://t.me/CoinnessGL#2a7a425a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T03:44:19+00:00"
+  },
+  {
+    "id": "c0b0a5e7-bace-437c-bce9-186afae5f7fc",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Stripe-owned Privy partnered with Jito Labs to build FullSend, a tool that routes every Solana transaction straight to the current block-building leader for faster inclusion.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#350266b6",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T03:40:10+00:00"
+  },
+  {
+    "id": "49163a44-6c26-405c-b5e6-3d4c5b359802",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Swift Launches a Blockchain Ledger to Bring 24/7 Cross-Border Payments to the Global Banking System",
+    "summary": "1. The Brussels-based institution highlighted that the blockchain ledger underneath this project progressed from proof of concept to activation and pilot use in nine months.\n2. Seventeen banks on six continents will now conduct pilot payments with tokenized deposits on top of Swift’s ledger.\n3. Swift Moves To The Blockchain Era With New Tokenized Deposit-Based Network Financial institutions […]",
+    "url": "https://news.bitcoin.com/swift-launches-a-blockchain-ledger-to-bring-24-7-cross-border-payments-to-the-global-banking-system/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-10T03:30:07.000Z"
+  },
+  {
+    "id": "66f7a695-f8ca-4594-9dfa-9565edb87263",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Brave unveils BAT Roadmap 4.0 to expand payments, AI support",
+    "summary": "Privacy-focused browser Brave announced its Basic Attention Token (BAT) Roadmap 4.0 on its official blog on July 9. The company said the roadmap aims to expand BAT's utility into everyday payments and establish a creator compensation system for the age of AI.Key initiatives include:- Support for AI agent payments based on x402 and the Machine Payments Protocol (MPP)- A new Brave Wallet integrating credit cards, cryptocurrencies, and Brave Rewards- A stablecoin payment protocol called BravePay- A stablecoin-based Brave Rewards card- A protocol to reward creators when their content is used by AI",
+    "url": "https://t.me/CoinnessGL#1b26ddc5",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-10T03:28:27+00:00"
+  },
+  {
+    "id": "b796e95d-2c8a-47e0-879a-779a0ea6d85f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hackers tried to backdoor Injective npm package to steal wallet keys ",
+    "summary": "1. The incident is significant for developers and applications that handle Injective wallet workflows, Socket researchers said.",
+    "url": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-07-10T03:07:47.000Z"
+  },
+  {
+    "id": "75865d04-c153-4d52-9a38-9b2f845ab889",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tether Expands Its Footprint in Latin America With a $20 Million Investment in Mercado Bitcoin",
+    "summary": "1. The stablecoin giant announced that this investment will support Mercado Bitcoin’s expansion efforts in payment infrastructure, tokenized investment offerings, lending and credit, and on-chain capital markets.\n2. The move follows several capital injections by the company for several Latam-focused initiatives.\n3. Tether Announces $20 Million Strategic Investment in Mercado Bitcoin Latam markets and the companies regulated to […]",
+    "url": "https://news.bitcoin.com/tether-expands-its-footprint-in-latin-america-with-a-20-million-investment-in-mercado-bitcoin/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-10T02:30:48.000Z"
+  },
+  {
+    "id": "81467403-8e27-4048-a4af-aa4e365f064f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+    "summary": "1. “DeFi usually swings much harder than Bitcoin, so holding up this well is unusual,” says Bitwise, as DeFi tokens have outperformed Bitcoin.",
+    "url": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Jesse Coghlan",
+    "created_at": "2026-07-10T02:30:44.000Z"
+  },
+  {
+    "id": "b843df50-9f42-4de5-a26d-aeb2b05f119d",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🔒 BitGo will introduce new quantum-protection tools for institutional Bitcoin wallets, aiming to help firms assess and reduce quantum-related exposure across UTXO-based holdings.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7805b899",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-10T02:10:10+00:00"
+  },
+  {
     "id": "d44160c8-ecc5-4c49-9671-00417493a677",
     "source": "The Defiant",
     "type": "rss",
@@ -40,6 +130,16 @@
     "created_at": "2026-07-10T01:35:15+00:00"
   },
   {
+    "id": "e4d58a15-d7a8-456e-a1b9-0ac620d4e652",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Requested Democratic SEC Candidates, but No Names Arrived, White House Says",
+    "summary": "1. A White House letter dated July 9 says President Donald Trump sought Democratic candidates for Securities and Exchange Commission (SEC) vacancies before Senate Democrats accused the administration of leaving bipartisan seats open across independent agencies.\n2. White House Rejects the Charge of Empty Democratic Seats The White House pushed back against Senate Democrats’ criticism, arguing that […]",
+    "url": "https://news.bitcoin.com/trump-requested-democratic-sec-candidates-but-no-names-arrived-white-house-says/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-10T01:30:11.000Z"
+  },
+  {
     "id": "ead84c9f-3132-4d7d-aaec-f440f0fe1b94",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -50,7 +150,7 @@
     "created_at": "2026-07-10T01:08:39+00:00"
   },
   {
-    "id": "293fd3ed-3758-498a-9bb7-047ddd007ee7",
+    "id": "055cfe50-5205-4bd6-b7a4-f3e66684846a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇧🇷 Brazil's B3, Latin America's biggest stock exchange, has launched options on Bitcoin, Ethereum and Solana futures.",
@@ -208,245 +308,5 @@
     "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/emmanuel-macron-tour-de-france-world-cup-00992527",
     "author": "By Jonas Loesel",
     "created_at": "2026-07-09T21:59:20.000Z"
-  },
-  {
-    "id": "a46cf2e9-8a9b-4b8a-b513-791ab4c7542d",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇭🇰 Hong Kong’s SFC has told brokers and crypto platforms to phase out one-time password logins within 12 months, after phishing made up 57% of reported security incidents in 2025.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ab9a0b9d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T21:55:37+00:00"
-  },
-  {
-    "id": "e7048033-eb87-49d7-a062-686bf107ddc3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays",
-    "summary": "1. Bitwise says institutions are buying the bitcoin bear market dip, while many larger investors are still awaiting regulatory clarity.",
-    "url": "https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-07-09T21:54:35.000Z"
-  },
-  {
-    "id": "af52f785-61ab-4757-a3b9-1b12d864054c",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn",
-    "summary": "1. Researchers warn AI agents could be tricked into downloading malicious code by exploiting the same hallucinations that cause chatbots to make mistakes.",
-    "url": "https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-09T21:45:01.000Z"
-  },
-  {
-    "id": "e7627b26-7c95-41dc-88e3-f45fd77c52e5",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Robinhood Chain memecoin CASHCAT's X account suspected of hack",
-    "summary": "The official X account (@cashcat_token) for the Robinhood Chain-based memecoin Cashcat (CASHCAT), which has recently gained attention for a sharp price increase, is suspected of being hacked. A link is currently pinned to the top of the account's feed, directing users to a page that prompts them to connect their wallets to receive exclusive holder rewards.CASHCAT surged from approximately $0.014 on July 8 and is currently trading at about $0.13.",
-    "url": "https://t.me/CoinnessGL#c421330c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T21:42:47+00:00"
-  },
-  {
-    "id": "9dc13efd-b768-426c-afe2-84e9387bad25",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Coinbase chief legal officer to transition to advisory role on July 31",
-    "summary": "1. The soon-to-be former chief legal officer did not announce the details of his next move but said that he would continue working with the Board of Coinbase National Trust Company.",
-    "url": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-09T21:35:12.000Z"
-  },
-  {
-    "id": "26a15cf9-d5ae-4e98-ba8e-e28bccccc72d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance CEO: MiCA is backfiring, pushing users to self-custody",
-    "summary": "Binance CEO Richard Teng has argued that the European Union's Markets in Crypto-Assets (MiCA) regulation is backfiring, according to BeInCrypto. Speaking at the Reuters Next Asia Summit in Singapore, Teng said that since MiCA's implementation, most departing users are moving their funds to self-custody wallets rather than to platforms with MiCA licenses. He stated this trend undermines the law's original intent, as exchanges operate with anti-money laundering (AML) and know-your-customer (KYC) procedures that self-custody wallets lack. Teng emphasized that it would be better for regulators to focus on licensing compliant companies. Meanwhile, Binance withdrew its MiCA license application in Greece and suspended services for new EU customers on July 1. more:",
-    "url": "https://t.me/CoinnessGL#89736ab9",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T21:35:06+00:00"
-  },
-  {
-    "id": "c480c01f-f344-4ca6-81da-930236b14d52",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Robinhood Chain Tops $560 Million in Daily DEX Volume, Fueled by Meme Coin Boom",
-    "summary": "1. Robinhood Chain is seeing a sharp rise in speculative trading, with daily DEX volume topping $560 million and nearly 16,000 new tokens created in one day.\n2. Pumpfun has added support for Robinhood tokens, widening access for Solana-based traders without requiring bridging.\n3. Arbitrum Stands to Gain as Robinhood Chain Reaches 200,000 Active Addresses Robinhood Chain is […]",
-    "url": "https://news.bitcoin.com/robinhood-chain-tops-560-million-in-daily-dex-volume-fueled-by-meme-coin-boom/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-09T21:33:09.000Z"
-  },
-  {
-    "id": "d6772f11-e2a5-4949-afaa-a0883e663321",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Dream lives for Moroccans in Brussels",
-    "summary": "1. Dream lives for Moroccans in Brussels",
-    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/morocco-france-fans-brussels-world-cup-2026-00992435",
-    "author": "By Jonas Loesel and Milena Wälde",
-    "created_at": "2026-07-09T21:22:17.000Z"
-  },
-  {
-    "id": "b3237942-da8f-4641-acf1-f23d54b9897f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 MoonPay expanded MoonAgents to Telegram, letting users analyze markets, build dashboards and prepare crypto transactions while data and keys stay on their own devices.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#027bc931",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-09T21:20:36+00:00"
-  },
-  {
-    "id": "2dd12b7a-1d21-4b65-a12d-14a7939f29c1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
-    "summary": "1. Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations.",
-    "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-09T21:13:44.000Z"
-  },
-  {
-    "id": "7e262dfd-d1bd-4d75-a2bf-b92de610c8f8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "AvalancheOne regains Nasdaq listing compliance after reverse stock split",
-    "summary": "AvalancheOne Technology (AVX), an Avalanche (AVAX) acquisition company (DAT), has regained compliance with Nasdaq's minimum bid price requirement, Decrypt reported. The company was previously non-compliant due to a falling stock price but executed a 1-for-12 reverse stock split on June 15. Following the split, its stock price remained above $1 for 10 consecutive trading days from June 15 to June 29, satisfying the listing rule. AvalancheOne holds approximately 14 million AVAX, valued at $95 million, which it is staking for an annual yield of around 6%. The company's current market capitalization is below the value of its AVAX holdings.",
-    "url": "https://t.me/CoinnessGL#4827fa10",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-09T21:05:25+00:00"
-  },
-  {
-    "id": "ac27ae95-816b-41ec-a1e8-b39a63aea8bf",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split",
-    "summary": "1. AVAX One, which stockpiles the native token of the Avalanche crypto network, is back in Nasdaq's good graces after a reverse stock split.",
-    "url": "https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-09T20:57:49.000Z"
-  },
-  {
-    "id": "e0150e04-27fe-4d53-959d-7548a0fab07f",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Morocco has its eye on the 2030 final",
-    "summary": "1. Africa's leading soccer force is hoping FIFA will choose it over Spain's most famous stadiums to host next tournament's final.",
-    "url": "https://www.politico.com/live-updates/2026/07/09/world-cup-2026/moroccan-exceptionalism-2030-world-cup-final-stade-hassan-00992429",
-    "author": "By Ali Walker",
-    "created_at": "2026-07-09T20:53:11.000Z"
-  },
-  {
-    "id": "cda240a1-3e3d-4d71-a194-6aabb9d3985f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
-    "summary": "1. Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.",
-    "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
-    "author": "Helene Braun",
-    "created_at": "2026-07-09T20:42:49.000Z"
-  },
-  {
-    "id": "ac02a806-641e-42c2-87d0-50cae5dd13a8",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost",
-    "summary": "1. The company's post-trained GLM 5.2 preview pairs a cheaper open-source base with a frontier advisor—and it's already live in production.",
-    "url": "https://decrypt.co/373184/perplexity-fine-tuned-chinese-ai-model-claude-opus-4-8",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-09T20:40:28.000Z"
-  },
-  {
-    "id": "f194044b-150b-4ae8-868e-54e74abce577",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: can we make the feed a weird onchain art experiment again? asking for a friend (...",
-    "summary": "1. can we make the feed a weird onchain art experiment again?\n2. asking for a friend (me, i am the friend, i am so happy about the potential of this).\n3. nice work, @six",
-    "url": "https://warpcast.com/farcaster/0x9e61b6a0",
-    "author": "Farcaster",
-    "created_at": "2026-07-09T20:35:08.000Z"
-  },
-  {
-    "id": "395aa941-1256-46e6-b3cd-84d936c57a80",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "JPMorgan Says the Real Threat to Bitcoin Isn’t Strategy (MSTR) — It’s Private Blockchains",
-    "summary": "1. Bitcoin Magazine\n\nJPMorgan Says the Real Threat to Bitcoin Isn’t Strategy (MSTR) — It’s Private Blockchains\nJPMorgan says Strategy's Bitcoin sales are a short-term concern, but the bigger long-term risk is that banks and institutions adopt private blockchains over public networks, reducing activity and capital flows across the broader crypto ecosystem.\n2. This post JPMorgan Says the Real Threat to Bitcoin Isn’t Strategy (MSTR) — It’s Private Blockchains first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-09T20:33:56.000Z"
-  },
-  {
-    "id": "217ac79c-2a0c-4f6f-9fa6-c456529c9369",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned ",
-    "summary": "1. Coinbase Chief Legal Officer Paul Grewal will depart the exchange, though he'll continue as an adviser, he said Thursday.",
-    "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
-    "author": "Nikhilesh De",
-    "created_at": "2026-07-09T20:31:39.000Z"
-  },
-  {
-    "id": "f550e70f-d4cf-4cdb-a109-4976bfb025ea",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "New Chain Hype Meets Old Scam Tactics: Relay Protocol Warns of Robinhood Chain Honeypot Coins",
-    "summary": "1. Investors utilizing the newly launched Robinhood Chain are facing a swathe of scammy “honeypot” tokens that result in the total loss of funds traded for those specific assets.\n2. Relay Protocol, a major cross-chain interoperability platform, confirmed it is aware of user reports regarding tokens disappearing from wallets immediately following purchase.\n3. Relay Protocol Warns: There’s Been […]",
-    "url": "https://news.bitcoin.com/new-chain-hype-meets-old-scam-tactics-relay-protocol-warns-of-robinhood-chain-honeypot-coins/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-09T20:31:05.000Z"
-  },
-  {
-    "id": "6bb15ebf-abc4-4b75-be08-9b783328ac4c",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitdeer stock jumps 14% as company expands US mining hardware production",
-    "summary": "1. Bitdeer shares rallied after the company announced a $36 million Nevada manufacturing facility that will produce its SEALMINER Bitcoin mining machines and expand its hardware business.",
-    "url": "https://cointelegraph.com/news/bitdeer-stock-jumps-14-bitcoin-mining-hardware-maker-expands-us-manufacturing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-07-09T20:19:15.000Z"
-  },
-  {
-    "id": "8a1c4c68-66c0-4629-804e-8231477fb5e0",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-09T20:17:33.000Z"
-  },
-  {
-    "id": "9ade96f2-ce10-466e-a306-3315595d4ae6",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-09T19:55:39.000Z"
-  },
-  {
-    "id": "8af2cb38-8e00-4986-81b4-7498f70bebbc",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-09T19:55:39.000Z"
-  },
-  {
-    "id": "0dd43cd1-5962-4604-822b-ccbec0634af1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum Foundation says AI agents find real bugs, but most are false positives",
-    "summary": "1. The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.",
-    "url": "https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-09T19:51:23.000Z"
   }
 ]
