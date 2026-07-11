@@ -1,5 +1,125 @@
 [
   {
+    "id": "38c5b446-3184-4848-b45b-ed8d04d233d3",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-11T19:13:54.000Z"
+  },
+  {
+    "id": "25227d3e-202f-438c-af63-8618c1208d78",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Strategy CEO Phong Le says 100% of financial institutions will eventually have a Bitcoin strategy, 75% of nation-states will have a BTC strategic reserve, and 50% of individuals will hold Bitcoin.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9bc343de",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-11T18:35:40+00:00"
+  },
+  {
+    "id": "8c4f928a-5deb-4779-bf8c-837f97d68178",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "ChatGPT 5.6 Sol, Claude Fable Join 7 AI Models to Predict Bitcoin’s Aug. 1 Price",
+    "summary": "1. Bitcoin is hovering below $64,000, but where it lands next is anyone’s wager.\n2. We asked a roster of artificial intelligence (AI) models to cut through the market noise and name their BTC price for Aug.\n3. July has treated BTC somewhat more kindly than June.",
+    "url": "https://news.bitcoin.com/chatgpt-5-6-sol-claude-fable-join-7-ai-models-to-predict-bitcoins-aug-1-price/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-11T18:20:41.000Z"
+  },
+  {
+    "id": "d27b9804-cf63-419a-84f3-bd5325c0097b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "summary": "1. Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
+    "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-11T18:06:58.000Z"
+  },
+  {
+    "id": "219cb3e4-cb89-44e5-abad-1903ac0bad42",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Progressives think they've found a way around their old social media posts",
+    "summary": "1. Far-left candidates are betting voters care more about economic populism than old posts calling to defund the police.\n2. Republicans are salivating.",
+    "url": "https://www.politico.com/news/2026/07/11/progressives-democrats-social-media-posts-00993111",
+    "author": "By Emilio Perez Ibarguen",
+    "created_at": "2026-07-11T18:00:00.000Z"
+  },
+  {
+    "id": "a9cd3ade-282b-47b1-a0db-87271d7ab17d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘Bitcoin Is Over’: Former Meta and Google Engineer Warns of Quantum and Miner Time Bombs Affecting BTC",
+    "summary": "1. Patrick Shyu, the former Meta and Google engineer known online as Techlead, warns that quantum computing and decaying miner incentives are two undefused threats hanging over Bitcoin.\n2. A Warning Worth Heeding Shyu, who served as a tech lead at Google and later as a staff software engineer at Meta before building a YouTube audience of […]",
+    "url": "https://news.bitcoin.com/former-meta-engineer-bitcoin-2-ticking-time-bombs/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-11T17:34:36.000Z"
+  },
+  {
+    "id": "75104d5d-5e47-43f6-bf02-556e2639af7a",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+    "summary": "1. The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+    "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-07-11T17:30:00.000Z"
+  },
+  {
+    "id": "b7d007ad-ce29-4387-9ed8-16fd1543a8d4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "summary": "1. Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
+    "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+    "author": "Will Canny",
+    "created_at": "2026-07-11T17:07:24.000Z"
+  },
+  {
+    "id": "b5a3e0d3-8397-4111-9820-0c11510eecaf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Policy Institute Fights $293B Wallet Grab as Noah Doe Court Date Nears",
+    "summary": "1. This week, the Bitcoin Policy Institute (BPI) filed to intervene as a defendant on July 10 in a New York lawsuit seeking legal title to nearly 40,000 dormant bitcoin addresses, adding an institutional voice to a case that already pits plaintiffs’ counsel against a proposed amicus curiae.\n2. The filing lands in ABC Company, XYZ Company, […]",
+    "url": "https://news.bitcoin.com/bitcoin-policy-institute-fights-293b-wallet-grab-as-noah-doe-court-date-nears/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-11T16:45:16.000Z"
+  },
+  {
+    "id": "f5928aeb-bcb5-4754-92ee-8e497ae9090c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "EXPLAINED: 👤 What would happen if Bitcoin creator Satoshi Nakamoto returned?",
+    "summary": "Satoshi’s wallets hold an estimated 1.1 million Bitcoin, worth ~$70B and representing more than 5% of the BTC that will ever exist. With that in mind, arguably the most bullish thing Satoshi could do is never reappear again. But if they did, it could get strange fast.Read on to learn more. 👇",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e36c6e79",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-11T16:35:37+00:00"
+  },
+  {
+    "id": "c8c22fec-7cea-42a7-855a-4c776fb094fe",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Maggot Hagerman has covered me incorrectly for ten years.\n2. Her book is a joke!\n3. 90% of it is Fake News.",
+    "url": "https://trumpstruth.org/statuses/39944",
+    "author": "Trump Truth",
+    "created_at": "2026-07-11T16:23:20.000Z"
+  },
+  {
+    "id": "2df645f6-cabb-4459-9fc2-d873f1b45b6c",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+    "summary": "1. Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "author": "Jason Nelson",
+    "created_at": "2026-07-11T16:21:34.000Z"
+  },
+  {
     "id": "11472cf1-5e4b-4951-86f7-4fa7bbcfd054",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -30,7 +150,7 @@
     "created_at": "2026-07-11T15:15:58.000Z"
   },
   {
-    "id": "084a6098-6267-42f5-bd36-9276135e819b",
+    "id": "2373d215-8f6a-42c4-a9fc-ad97de93b409",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📈 Standard Chartered's Geoff Kendrick predicts Bitcoin will hit $100K by the end of 2026 and $200K by the end of 2027, with a fresh ATH next year.",
@@ -40,7 +160,7 @@
     "created_at": "2026-07-11T15:15:38+00:00"
   },
   {
-    "id": "39a9aec1-112b-4881-a6ae-8d6ca3142f97",
+    "id": "fe3fb495-bacd-4ec4-b746-8a6baec80c3e",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "CoinNess Live Feed operating hours",
@@ -50,7 +170,7 @@
     "created_at": "2026-07-11T15:08:23+00:00"
   },
   {
-    "id": "00026cea-49fd-4d91-b6b1-6d43c97ade47",
+    "id": "c900291d-8c9e-4871-a02c-52842f3b106a",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Wirex CEO: UK taking active steps to become global crypto hub",
@@ -60,7 +180,7 @@
     "created_at": "2026-07-11T15:07:44+00:00"
   },
   {
-    "id": "65415651-e220-458f-b43c-b168e19f3edf",
+    "id": "01f12a7f-85ad-4c0c-87bc-1258f0221462",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Trump DOJ to drop charges against the mastermind of $722,000,000 crypto Ponzi scheme, Bloomberg reports.@WatcherGuru",
@@ -80,7 +200,7 @@
     "created_at": "2026-07-11T15:00:00.000Z"
   },
   {
-    "id": "961eb68f-1849-4216-b685-1081b287953c",
+    "id": "dcd95511-1c70-4269-a882-1cfdd00488c7",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Crypto prediction platform Polymarket officially launches combo trading.@WatcherGuru",
@@ -100,7 +220,7 @@
     "created_at": "2026-07-11T14:45:09.000Z"
   },
   {
-    "id": "c447f6ac-8697-46aa-b0ba-fae2656c7862",
+    "id": "56283a07-f0f3-4b21-a4f7-bee4fc012982",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Suspected insider wallet moves another $9.15M in LAB to Aster",
@@ -138,145 +258,5 @@
     "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Ciaran Lyons",
     "created_at": "2026-07-11T13:30:00.000Z"
-  },
-  {
-    "id": "fa75770e-fd08-407f-97d6-bbfb600836a4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "I love to HODL.H: holding through the painO: obsessing over every candleD:...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4002d132",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-11T13:05:37+00:00"
-  },
-  {
-    "id": "e29c7287-5604-44f5-936e-ee89cff668ae",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
-    "summary": "1. Google's cheapest, fastest image model is a genuinely capable tool—until you need it to be great.",
-    "url": "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-11T13:01:02.000Z"
-  },
-  {
-    "id": "734c4131-0efe-4220-9149-36c3c4151112",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
-    "summary": "1. Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
-    "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-07-11T12:55:18.000Z"
-  },
-  {
-    "id": "67ded5ff-8fc1-4716-99dc-bc52888b6a41",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Hedera's top lending protocol Bonzo Lend loses $9M in oracle exploit",
-    "summary": "Bonzo Lend, the largest decentralized lending protocol on the Hedera blockchain, has announced a loss of approximately $9.05 million from an oracle vulnerability exploit. According to Bonzo, a flaw in the signature verification process of its oracle provider, Supra, allowed an attacker to manipulate the price of a source token. This enabled the attacker to borrow assets far exceeding the value of their deposited collateral. The protocol has been temporarily suspended to prevent further losses. Bonzo Labs and the Bonzo Finance Foundation stated they are working closely to devise recovery and compensation measures.",
-    "url": "https://t.me/CoinnessGL#fd720f42",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-11T12:25:24+00:00"
-  },
-  {
-    "id": "cf50f354-adcb-4880-bf21-dc0f6aa90e22",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-    "summary": "1. It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
-    "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
-    "author": "Stephen Alpher",
-    "created_at": "2026-07-11T12:25:05.000Z"
-  },
-  {
-    "id": "2fa4611a-9915-4b23-a51e-fc7d5b2eff4b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Palm Beach has always been a special place to me.\n2. So Beautiful!!!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/39943",
-    "author": "Trump Truth",
-    "created_at": "2026-07-11T12:16:21.000Z"
-  },
-  {
-    "id": "f29d5ca9-c928-42b6-9295-4a667b75096d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Hyperscale Data's Bitcoin holdings surpass 1,000 BTC",
-    "summary": "Hyperscale Data, a U.S. publicly traded company focused on Bitcoin treasury and AI data centers, announced its holdings have surpassed 1,000 BTC following a recent purchase. The company also stated it plans to use its Bitcoin as potential collateral for future fundraising. Previously, on July 7, Hyperscale Data had disclosed holding 899 BTC after acquiring 115 BTC.",
-    "url": "https://t.me/CoinnessGL#e6815627",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-11T12:14:26+00:00"
-  },
-  {
-    "id": "1c0bd380-fc66-4ca0-a05e-be64cc61cef1",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-    "summary": "1. The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it.\n2. It also got a pile of confident, well-written findings that were not bugs at all.",
-    "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-11T12:00:00.000Z"
-  },
-  {
-    "id": "908f26f2-1ff4-471f-94b6-e921fd8d42fd",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
-    "summary": "1. An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.",
-    "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-11T11:56:54.000Z"
-  },
-  {
-    "id": "e6f0f5e1-1834-4b9d-9f73-57fb76b42753",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitdeer to build $36M mining rig factory in Nevada",
-    "summary": "Nasdaq-listed Bitcoin mining company Bitdeer announced it is investing approximately $36 million to build a mining equipment production facility in Nevada, according to a GlobeNewswire press release. The plant is expected to have a monthly production capacity of 10,000 units of its \"SEALMINER\" series rigs. The factory is scheduled to be completed and begin production within the year.",
-    "url": "https://t.me/CoinnessGL#e9fd46b8",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-11T11:35:41+00:00"
-  },
-  {
-    "id": "54fb163c-fc87-4dcd-97dd-9a95cea785ea",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "BitMEX Says Collateral Design Drove 3.93% Funding Gap That Traders May Exploit Repeatedly",
-    "summary": "1. A report by BitMEX reveals that perpetual swap funding rate disparities are driven by deep structural mechanics rather than simple short-term market sentiment.\n2. The Impact of Collateral Choice A new report by derivatives exchange BitMEX challenges the conventional wisdom that funding rates are merely a direct reflection of short-term market sentiment.\n3. It highlights how deep […]",
-    "url": "https://news.bitcoin.com/bitmex-says-collateral-design-drove-3-93-funding-gap-that-traders-may-exploit-repeatedly/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-11T11:30:40.000Z"
-  },
-  {
-    "id": "aaafba7b-9e23-4a6a-a228-c0b03a8d847f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Nvidia CEO Jensen Huang says AI agents are \"electrons, not atoms,\" saying people shouldn’t anthropomorphize them and comparing them to autonomous dishwashers.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d7335702",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-11T11:15:39+00:00"
-  },
-  {
-    "id": "d7d596a0-359b-4a38-a39c-4937f368e72f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-11T10:20:18.000Z"
-  },
-  {
-    "id": "df64b46d-3398-43a1-a897-f2e1a54c371b",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-11T10:20:18.000Z"
   }
 ]
