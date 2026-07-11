@@ -1,5 +1,95 @@
 [
   {
+    "id": "d7d596a0-359b-4a38-a39c-4937f368e72f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-11T10:20:18.000Z"
+  },
+  {
+    "id": "df64b46d-3398-43a1-a897-f2e1a54c371b",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-11T10:20:18.000Z"
+  },
+  {
+    "id": "1570f5b3-2a50-479b-89e2-5c16e0a497ab",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Yesterday. Today. Tomorrow. Always building.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b895f4be",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-11T10:00:36+00:00"
+  },
+  {
+    "id": "93647ae0-0647-4d7c-a76d-594b1787916c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Morgan Stanley adds around 1,000 BTC in past two weeks",
+    "summary": "Morgan Stanley has purchased an additional 1,000 BTC over the past two weeks through its spot Bitcoin exchange-traded fund (ETF), MSBT. This brings the firm's total Bitcoin holdings to 5,761.",
+    "url": "https://t.me/CoinnessGL#9d1e7334",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-11T09:40:15+00:00"
+  },
+  {
+    "id": "baf74c94-e2bd-4c13-8b1e-ce790c41516f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Brazil Orders Tobacco-Style Warnings on All Betting Ads: ‘Betting Makes You Lose Money’",
+    "summary": "1. Brazil’s Finance Ministry is imposing the strictest advertising regime yet on the country’s licensed betting operators, mandating cigarette-style health warnings on every ad, banning pundits and influencers from nudging viewers toward wagers, and threatening fines of up to 20% of revenue – with the rules taking effect July 17, mid-World Cup, as bet-saturated tournament broadcasts […]",
+    "url": "https://news.bitcoin.com/brazil-orders-tobacco-style-warnings-on-all-betting-ads-betting-makes-you-lose-money/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-07-11T09:30:43.000Z"
+  },
+  {
+    "id": "453496e8-629c-4ec1-b291-f5830b056384",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Arthur Hayes says Trump has to be the \"AI president\" first, not the \"crypto president,\" because the entire US economy right now is predicated on AI.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#17fd0e7a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-11T09:20:39+00:00"
+  },
+  {
+    "id": "40c07350-ba03-4ad8-b853-27ebd0856d24",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+    "summary": "1. An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
+    "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-11T09:14:12.000Z"
+  },
+  {
+    "id": "80b4fe2b-a9c0-4482-b2ba-a2e1366e4bdf",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC faces $475M in short liquidations above $65,019",
+    "summary": "According to data from CoinGlass, short positions worth $475.11 million on major centralized exchanges (CEX) face liquidation if BTC surpasses $65,019. Conversely, long positions valued at $513.59 million will be liquidated if the price falls below $63,059.",
+    "url": "https://t.me/CoinnessGL#746b630c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-11T08:58:15+00:00"
+  },
+  {
+    "id": "a9d689ad-9f96-4192-a1de-cee9ba866f49",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit, Bithumb, Coinone urge caution on HBAR investment",
+    "summary": "South Korean exchanges Upbit, Bithumb, and Coinone have announced an investment warning for Hedera (HBAR). The exchanges stated that they have confirmed a security issue involving an asset outflow from the network.",
+    "url": "https://t.me/CoinnessGL#cdc85d5c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-11T08:47:11+00:00"
+  },
+  {
     "id": "c6619784-935c-45f9-a9b9-8fa954eda434",
     "source": "The Defiant",
     "type": "rss",
@@ -68,115 +158,5 @@
     "url": "https://news.bitcoin.com/3-major-crypto-trends-changing-how-people-use-digital-assets-binance-co-founder/",
     "author": "Kevin Helms",
     "created_at": "2026-07-11T05:30:37.000Z"
-  },
-  {
-    "id": "40656f64-768d-4830-b325-28d72cdfd4c0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 House Financial Services Committee Chair French Hill says he's urged Senate leadership to schedule a July floor vote on the CLARITY Act, arguing Congress needs a deadline to force final negotiations.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#eefb52b0",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-11T04:20:06+00:00"
-  },
-  {
-    "id": "44910c29-eae0-4d5b-8cd5-74bc9029d98e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-11T04:13:13.000Z"
-  },
-  {
-    "id": "815ebdaa-fad2-4ddc-ac14-d4c7910f8757",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
-    "summary": "1. More than 70,000 agentic accounts have already been created by Robinhood equities and options traders since late May, when Robinhood launched a beta version of the product.",
-    "url": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-07-11T04:12:30.000Z"
-  },
-  {
-    "id": "f630df4e-5ea0-4c0a-856f-5de39fbdbf56",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Housing bill that includes a CBDC ban passed into law without Trump’s signature",
-    "summary": "1. The 21st Century ROAD to Housing Act, which includes a provision that bans the Fed from issuing a CBDC, has become law.",
-    "url": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-11T04:08:36.000Z"
-  },
-  {
-    "id": "a493e360-6ff9-486f-a425-16a5ca1d11ea",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrump1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Government act on its threat, pronounced in many corners of the Globe, to assassinate, or attempt to assassinate, the sitting President of the United States of America, in this case, ME!\n2. Orders have already been given, and the U.S.\n3. Military is ready, willing, and able, for a one year period of time, subject to extension, to completely decimate and destroy all areas of Iran - PRAISE BE TO ALLAH!",
-    "url": "https://trumpstruth.org/statuses/39941",
-    "author": "Trump Truth",
-    "created_at": "2026-07-11T04:07:03.000Z"
-  },
-  {
-    "id": "14456f8b-b929-4675-ac01-957170de6881",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. I was able to cut a MUCH BETTER DEAL for America, and by so doing, will be allowing the new and spectacular Gordie Howe International Bridge, spanning Detroit and Windsor, Ontario, to open on July 27th, as scheduled.\n2. The original deal made was unacceptable to me!\n3. The new deal is great, and fair.",
-    "url": "https://trumpstruth.org/statuses/39940",
-    "author": "Trump Truth",
-    "created_at": "2026-07-11T04:04:44.000Z"
-  },
-  {
-    "id": "36df8c17-caf7-45f8-b43c-62697f77cda2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Inmate Accused of Moving $290,000 in Crypto Already Forfeited to US Government",
-    "summary": "1. Federal prosecutors charged an imprisoned man with helping transfer cryptocurrency forfeited to the U.S.\n2. government.\n3. The indictment alleges roughly $290,000 left a restrained Kraken account through exchanges, mixing services, and a foreign bank.",
-    "url": "https://news.bitcoin.com/inmate-accused-of-moving-290000-in-crypto-already-forfeited-to-us-government/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-11T03:30:31.000Z"
-  },
-  {
-    "id": "84a6e182-debd-43e4-9a5e-913ce75f7902",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. 1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Government act on its threat, pronounced in many corners of the Globe, to assassinate, or attempt to assassinate, the sitting President of the United States of America, in this case, ME!\n2. Orders have already been given, and the U.S.\n3. Military is ready, willing, and able, for a one year period of time, subject to extension, to completely decimate and destroy all areas of Iran - PRAISE BE TO ALLAH!",
-    "url": "https://trumpstruth.org/statuses/39938",
-    "author": "Trump Truth",
-    "created_at": "2026-07-11T03:18:00.000Z"
-  },
-  {
-    "id": "a53934ff-dbdb-4d85-8fb2-fddf4d66b0a9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC forecast of $300K-$500K by 2029 at odds with past cycle data",
-    "summary": "While some market experts forecast that BTC will rise to between $300,000 and $500,000 by 2029, this outlook is unrealistic when considering past halving cycle data, according to an analysis by CoinDesk. The outlet noted that although BTC has reached new all-time highs after each halving, the magnitude of the gains has progressively slowed, falling from 75x after 2013 to 3.5x and most recently 1.8x. The analysis suggests that while the upward trend may continue in the next cycle, the potential for a massive rally is limited. Factors contributing to this include the asset's expanding size, increased institutional investor inflow, and the growth of derivatives markets like ETFs and options, all of which are expected to reduce volatility.",
-    "url": "https://t.me/CoinnessGL#16b09e0e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-11T02:35:35+00:00"
-  },
-  {
-    "id": "fa786b75-9dd5-4ba1-9ce0-0f0f6d81f1ae",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-    "summary": "1. Analysts predict a rally to $300,000 or more by 2029.\n2. But key data suggests the era of moonshots may be over.",
-    "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-11T02:30:00.000Z"
-  },
-  {
-    "id": "af43d6df-d413-4856-ae6f-8d56f4c10242",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Jack Smith’s team may have exposed classified info while probing Trump for allegedly doing the same:",
-    "url": "https://trumpstruth.org/statuses/39936",
-    "author": "Trump Truth",
-    "created_at": "2026-07-11T02:17:51.000Z"
   }
 ]
