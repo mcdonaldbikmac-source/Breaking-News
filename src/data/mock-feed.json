@@ -1,5 +1,75 @@
 [
   {
+    "id": "f046260c-a4e0-4bda-8726-50872dd6689f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-12T21:57:32.000Z"
+  },
+  {
+    "id": "9985d04a-6392-4f6a-9ae3-ee0c29a8e37f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-12T21:57:32.000Z"
+  },
+  {
+    "id": "3966fd7a-dfc3-42c6-9403-3b90f507d771",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Crypto fatwa sparks debate over Pakistan’s digital asset framework",
+    "summary": "1. Pakistan’s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.",
+    "url": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-07-12T21:23:57.000Z"
+  },
+  {
+    "id": "699b9726-c139-4edc-8ec4-4b8ba96e9604",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘110 Things More Dangerous’: Michael Saylor Slams Bitcoin’s Controversial Anti-Spam Fork",
+    "summary": "1. Saylor stressed that the real danger of this action is invalidating currently valid transactions, even as they pay mining fees.\n2. He has stressed that spam is not currently a problem for the Bitcoin network.\n3. Michael Saylor Labels BIP-110 As ‘Dangerous’ As the activation of Bitcoin Improvement Proposal-110 (BIP-110), a so-called anti-spam fork for Bitcoin, looms, […]",
+    "url": "https://news.bitcoin.com/110-things-more-dangerous-michael-saylor-slams-bitcoins-controversial-anti-spam-fork/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-12T21:02:27.000Z"
+  },
+  {
+    "id": "3d843945-8146-4516-8067-c0bfd44322fb",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrumpThank you to Ben Domenech, for all of the great things he has been saying.\n2. We’re doing well.\n3. Our Country has never been stronger, and it’s nice to be recognized!",
+    "url": "https://trumpstruth.org/statuses/39963",
+    "author": "Trump Truth",
+    "created_at": "2026-07-12T20:00:41.000Z"
+  },
+  {
+    "id": "0333b555-9996-4fe2-87fd-a9fe195b2bfe",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrumpIn honor of the remarkable life and achievements of Senator Lindsey Graham, a dear friend of mine, and a truly great man, who achieved so much for our Country, and his beloved Home State of South Carolina, I am ordering all American Flags throughout the United States lowered to Half Mast until Saturday evening at 6 P.M.\n2. GOD BLESS YOU LINDSEY!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/39964",
+    "author": "Trump Truth",
+    "created_at": "2026-07-12T20:00:39.000Z"
+  },
+  {
+    "id": "0949d43c-cc71-4c6f-bd28-1a9233fa890e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Gold Prices Slide as Iran Tensions Erase Weak US Jobs Report Rally Gains",
+    "summary": "1. Gold fell 1.6% and silver dropped 4.3% this past week as a fragile U.S.\n2. jobs report and a fresh U.S.-Iran flare-up pulled precious metals in opposite directions within days of each other.\n3. Spot gold started the week near $4,175 an ounce.",
+    "url": "https://news.bitcoin.com/gold-prices-slide-as-iran-tensions-erase-weak-us-jobs-report-rally-gains/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-12T19:57:01.000Z"
+  },
+  {
     "id": "2a22fabb-f450-4480-baae-d43d991fa4c9",
     "source": "The Defiant",
     "type": "rss",
@@ -80,7 +150,7 @@
     "created_at": "2026-07-12T17:30:44.000Z"
   },
   {
-    "id": "1b3933f0-f9ae-4e3a-b76b-75e81949d015",
+    "id": "244e3f1e-dead-4e44-98cb-55a2b384dbf4",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "EXPLAINED: 📊 Bitcoin found strength last week despite the freshly released FOMC...",
@@ -110,7 +180,7 @@
     "created_at": "2026-07-12T16:30:32.000Z"
   },
   {
-    "id": "f3b92177-5c6e-4b27-9d26-46398221858a",
+    "id": "26dd0c22-4949-41d8-8651-cc2a2f38646b",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Starkware co-founder Eli Ben-Sasson warns Ethereum could lose its edge and be overtaken by \"something more modern and better,\" arguing its roadmap moves too slowly.",
@@ -128,95 +198,5 @@
     "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
     "author": "Kirsten Korosec",
     "created_at": "2026-07-12T16:07:00.000Z"
-  },
-  {
-    "id": "4f06cdb6-9a0e-4ebd-b9a9-04a116c70da4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase Fires Back at Senator Warren Over CLARITY Act Sanctions Warning",
-    "summary": "1. Coinbase’s chief policy officer pushed back against Senator Elizabeth Warren’s criticism of the CLARITY Act, arguing the crypto bill strengthens national security protections rather than creating sanctions risks.\n2. Coinbase Challenges Senator Warren’s Warning That CLARITY Act Threatens Sanctions Enforcement Crypto exchange Coinbase (Nasdaq: COIN) pushed back after U.S.\n3. Senator Elizabeth Warren (D-MA) warned that the […]",
-    "url": "https://news.bitcoin.com/coinbase-fires-back-at-senator-warren-over-clarity-act-sanctions-warning/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-12T15:31:43.000Z"
-  },
-  {
-    "id": "d44b02f5-2243-4c85-8791-c582d12a7e08",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Coinbase vice chair Ryan VanGrack says the CLARITY Act is \"on the one-yard line\" and the momentum toward passage is \"unmistakable.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e70b70e7",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-12T14:35:39+00:00"
-  },
-  {
-    "id": "f1de2e8d-6359-4772-9627-125c40c8724a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DEXE risen 4.49% in the past 5 minutes",
-    "summary": "DEXE has risen by 4.49% in the past five minutes on the COINNESS market. Currently, DEXE is trading at $45.79.",
-    "url": "https://t.me/CoinnessGL#90445b1f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-12T14:33:48+00:00"
-  },
-  {
-    "id": "1d9645ee-1610-4bec-a648-10e92e0893e0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DEXE fallen 4.60% in the past 5 minutes",
-    "summary": "DEXE has fallen by 4.60% in the past five minutes on the COINNESS market. Currently, DEXE is trading at $44.1.",
-    "url": "https://t.me/CoinnessGL#d8467900",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-12T14:27:38+00:00"
-  },
-  {
-    "id": "8057d546-9f90-4a42-8803-db99de1539e6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Saylor’s Bitcoin Chart Returns After Strategy Sold BTC, but He Says Orange Dots Tell Only Part of the Story",
-    "summary": "1. Michael Saylor posted his signature orange-dot bitcoin chart after Strategy sold 3,588 BTC for $216 million, reigniting a familiar signal while casting fresh doubt over whether another buy is imminent or if the strategy itself is turning.\n2. The Orange Dots Return After Strategy Breaks Its Old Pattern On July 12, Michael Saylor posted his widely […]",
-    "url": "https://news.bitcoin.com/saylors-bitcoin-chart-returns-after-strategy-sold-btc-but-he-says-orange-dots-tell-only-part-of-the-story/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-12T14:20:15.000Z"
-  },
-  {
-    "id": "425d49d1-b334-4a87-963e-0bdb827b0608",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "How to Make Product Ads With AI for TikTok and YouTube—For (Almost) Free",
-    "summary": "1. One product photo, three AI tools, and about 20 minutes: Here's the full workflow for generating a sales video without a camera, a model, or a studio.",
-    "url": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-12T14:01:03.000Z"
-  },
-  {
-    "id": "2a245c15-fe95-4291-8f62-d1e3fbe33adf",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The high-stakes, battleground Senate race that no one is talking about",
-    "summary": "1. North Carolina Republicans are warning that it will be hard to beat Roy Cooper — unless Washington sends more money, fast.",
-    "url": "https://www.politico.com/news/2026/07/12/north-carolina-senate-cooper-whatley-00993535",
-    "author": "By Liz Crampton",
-    "created_at": "2026-07-12T14:00:00.000Z"
-  },
-  {
-    "id": "1c5bcc90-b58b-456f-856a-41c6cfb34636",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇮🇷 Iran says the Strait of Hormuz is closed until \"stability is restored.\"🇺🇸 US says the Strait of Hormuz is open to all vessels.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f2cc5b4a",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-12T13:58:49+00:00"
-  },
-  {
-    "id": "e7efe41e-5cae-4dc4-94a0-c131c2b42171",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DEXE risen 7.59% in the past 5 minutes",
-    "summary": "DEXE has risen by 7.59% in the past five minutes on the COINNESS market. Currently, DEXE is trading at $48.78.",
-    "url": "https://t.me/CoinnessGL#9fec0d20",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-12T13:45:18+00:00"
   }
 ]
