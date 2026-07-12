@@ -1,5 +1,95 @@
 [
   {
+    "id": "b12338aa-c583-4ba1-93e2-67b32dc4fdcb",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-12T10:38:55.000Z"
+  },
+  {
+    "id": "3fa87f1c-9abb-4b1e-99ac-e26cbebb38a6",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-12T10:38:55.000Z"
+  },
+  {
+    "id": "c97b7737-18ba-4661-b734-95d8c64ac922",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Shark Tank’s Kevin O'Leary says his Washington contacts put the CLARITY Act's odds of passing this year at 50/50, warning the Iran war could distract lawmakers from finishing the bill.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#54dba0b1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-12T10:35:39+00:00"
+  },
+  {
+    "id": "3ba993ad-f005-4733-acc9-97db4d7b157d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Miners’ AI Rally Puts Insider Liquidity in the Spotlight",
+    "summary": "1. For a brief stretch this year, the market seemed willing to believe that every megawatt with a fence around it could become an AI factory.\n2. This article first appeared in Miner Weekly, a weekly newsletter by BlocksBridge Consulting, curating the latest news in energy, bitcoin, and AI compute from The Energy Mag.\n3. Subscribe to receive […]",
+    "url": "https://news.bitcoin.com/bitcoin-miners-ai-rally-puts-insider-liquidity-in-the-spotlight/",
+    "author": "Guest Author",
+    "created_at": "2026-07-12T10:30:32.000Z"
+  },
+  {
+    "id": "217ccd96-69df-419e-8cbb-a2f4ef25e9fc",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Best project to hold?",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#19ccf15c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-12T10:00:36+00:00"
+  },
+  {
+    "id": "c4aed6e5-6edf-41f7-a4e1-77a1c68b80a6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Latam Insights: Inside Tether’s $20M Bet on Brazil, Operation Veil of Maya, and the Stablecoin Hold Dispute",
+    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, Tether backs Mercado Bitcoin with $10 million, Brazilian police attack an illegal crypto betting ring, and the 24-hour hold period for stablecoin transactions is contested in Brazil.\n3. Tether Expands Its Footprint in Latin […]",
+    "url": "https://news.bitcoin.com/latam-insights-inside-tethers-20m-bet-on-brazil-operation-veil-of-maya-and-the-stablecoin-hold-dispute/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-12T09:30:46.000Z"
+  },
+  {
+    "id": "9f5f0b04-5364-440a-b2ef-9015bf76359b",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
+    "summary": "1. Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied.",
+    "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-12T09:18:17.000Z"
+  },
+  {
+    "id": "6fe78504-2a45-4d99-94d8-f038007e1b28",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Describe crypto in 3 words.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3c39ca47",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-12T09:00:36+00:00"
+  },
+  {
+    "id": "a156cada-6315-4191-baa2-639e06e23791",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitfufu Reports June 2026 Bitcoin Production and Hashrate Metrics",
+    "summary": "1. Of the 125 BTC produced in June, 70 BTC were generated through self-mining operations and 55 BTC through cloud mining services.\n2. Daily production averaged 4.2 BTC, down from 5.7 BTC in May.\n3. The company’s total power capacity under management also decreased to 273 MW from 346 MW in the previous month.",
+    "url": "https://news.bitcoin.com/bitfufu-reports-june-2026-bitcoin-production-and-hashrate-metrics/",
+    "author": "Guest Author",
+    "created_at": "2026-07-12T08:30:49.000Z"
+  },
+  {
     "id": "5aef17a8-6c74-46fa-baec-9664f009c3a1",
     "source": "The Defiant",
     "type": "rss",
@@ -98,65 +188,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#ae51ebf8",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-12T05:20:39+00:00"
-  },
-  {
-    "id": "a9b65dc1-77ae-4bd9-a47a-0300ef6e8396",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-12T04:24:58.000Z"
-  },
-  {
-    "id": "1b408cc5-d5aa-4257-bfa3-ff1b2a3b05aa",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-    "summary": "1. The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years.",
-    "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Brayden Lindrea",
-    "created_at": "2026-07-12T04:24:36.000Z"
-  },
-  {
-    "id": "97d93e89-9d9f-48ed-8523-481a66fedc3c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Singapore Police, Crypto Exchanges Prevent $4.2M in Scam Losses, Coinbase Helps Reach 145+ Victims",
-    "summary": "1. The Singapore Police Force and major cryptocurrency exchanges identified more than 145 potential scam victims before funds were lost, preventing more than $4.2 million in potential losses through blockchain analysis and direct police intervention.\n2. How Singapore Police Traced Potential Scam Victims The Singapore Police Force placed blockchain analysis at the center of a six-week operation […]",
-    "url": "https://news.bitcoin.com/singapore-police-crypto-exchanges-prevent-4-2m-in-scam-losses-coinbase-helps-reach-145-victims/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-12T03:30:34.000Z"
-  },
-  {
-    "id": "3ab2ad44-f56a-4029-aabe-14687b861931",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DEXE risen 4.84% in the past 5 minutes",
-    "summary": "DEXE has risen by 4.84% in the past five minutes on the COINNESS market. Currently, DEXE is trading at $39.93.",
-    "url": "https://t.me/CoinnessGL#e03ed8ca",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-12T03:24:49+00:00"
-  },
-  {
-    "id": "b689698d-6c80-4d7a-a253-b57f2fd12214",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "IRAN LAUNCHES MISSILE ATTACKS ON QATAR, UAE AND JORDAN$CLTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#b86f449c",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-12T02:48:53+00:00"
-  },
-  {
-    "id": "812d5c5e-a467-4445-886a-9dc098edb304",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act May Be Congress’ Last Chance for Digital Asset Law Before 2030, Senator Warns",
-    "summary": "1. Senator Cynthia Lummis is urging Congress to pass the CLARITY Act, warning that the digital asset market structure bill faces a narrow window before the summer recess, election pressures, and the end of the current session.\n2. Lummis Presses Congress on Digital Asset Legislation U.S.\n3. Senator Cynthia Lummis (R-WY) is calling on lawmakers to pass […]",
-    "url": "https://news.bitcoin.com/clarity-act-may-be-congress-last-chance-for-digital-asset-law-before-2030-senator-warns/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-12T02:30:51.000Z"
   }
 ]
