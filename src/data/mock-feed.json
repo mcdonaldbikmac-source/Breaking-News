@@ -1,162 +1,232 @@
 [
   {
-    "id": "a9041b9d-df9a-4ef7-9a75-d1aa2e57b4b4",
+    "id": "8cd916e4-f447-4c78-a68d-133556f26d82",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-13T09:39:30.000Z"
+  },
+  {
+    "id": "d8c85934-f4e0-4a97-abc3-2605b042d7ec",
     "source": "@CoinnessGL",
     "type": "telegram",
-    "title": "24-hour crypto futures liquidations",
-    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $56.43 million liquidated (81.11% longs)- ETH: $60.98 million liquidated (52.79% shorts)- SKHYNIX: $8.57 million liquidated (99.67% longs)",
-    "url": "https://t.me/CoinnessGL#ca825c6a",
+    "title": "Bithumb to temporarily suspend NEAR deposits and withdrawals",
+    "summary": "South Korean crypto exchange Bithumb has announced it will temporarily suspend deposits and withdrawals for Near Protocol (NEAR) starting at 2:00 p.m. UTC on July 19 due to a network upgrade.",
+    "url": "https://t.me/CoinnessGL#49dda4fa",
     "author": "@CoinnessGL",
-    "created_at": "2026-07-13T03:33:29+00:00"
+    "created_at": "2026-07-13T09:31:27+00:00"
   },
   {
-    "id": "db098b50-89d8-4edb-92f0-2fb74a47c06c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Japanese PM pledges to expand funding for startups, including Web3",
-    "summary": "Japanese Prime Minister Sanae Takaichi has announced a policy to expand funding from the government and financial institutions for startups, including those in the Web3 sector, Coinpost reported. In a video message at the opening of the WebX 2026 conference, Takaichi introduced the 'Total Support Package for Startups,' which was established in May 2025, and vowed to accelerate the industry's growth. She stated that a synergy between government efforts and the networking opportunities at WebX 2026 would further advance Japan's innovation ecosystem. The report notes that former prime ministers also participated in the conference in 2024 and 2025, suggesting the government's pro-Web3 stance has remained consistent through leadership changes.",
-    "url": "https://t.me/CoinnessGL#b842fcc5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-13T03:31:06+00:00"
-  },
-  {
-    "id": "302ab2a5-ea74-4bda-9940-a728fe9af4d1",
+    "id": "cefad762-1383-448f-b340-70a6f1452c84",
     "source": "Bitcoin.com",
     "type": "rss",
-    "title": "Combating Illicit Flows: Thailand Implements Strict New Checks on High-Volume Stablecoin Trades",
-    "summary": "1. The institution announced that this measure targets the country’s shadow economy, which accounted for nearly 41% of its GDP by 2015.\n2. The Bank of Thailand is already applying the proposed checks on large cash transactions and on gold bullion movements, reducing volumes considerably.\n3. Bank of Thailand Targets Stablecoins Transactions in Gray Economy Crackdown The Bank […]",
-    "url": "https://news.bitcoin.com/combating-illicit-flows-thailand-implements-strict-new-checks-on-high-volume-stablecoin-trades/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-13T03:30:50.000Z"
+    "title": "Clarity Act Enters a Make-or-Break Week as Senate Returns With Aug. 7 Clock Ticking",
+    "summary": "1. The Digital Asset Market Clarity Act faces a decisive stretch as the U.S.\n2. Senate returns from recess on Monday with roughly 20 working days left before the Aug.\n3. The coming days should bring “further clarity” on the bill’s status alongside fresh inflation data and Federal Reserve speeches.",
+    "url": "https://news.bitcoin.com/clarity-act-make-or-break-week-august-7/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-13T09:25:59.000Z"
   },
   {
-    "id": "b5245f54-f6f4-4198-b32c-853c9ad1894d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $63,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $63,000. BTC is trading at $62,991.99 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#8a5f816f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-13T03:11:08+00:00"
-  },
-  {
-    "id": "05921fd4-bacf-43ad-beec-1e8b8c831a1c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin’s Lottery Jackpot: Solo Home Miner Wins $200,000 With a $150 Mining Device",
-    "summary": "1. A hobbyist running a single Bitaxe device just won Bitcoin’s biggest lottery.\n2. On July 9, 2026, at approximately 03:30 UTC, a solo miner using a palm-sized Bitaxe device mined block 957382 through Public Pool, claiming the full 3.1382 BTC block reward.\n3. That includes the 3.125 BTC subsidy plus roughly 0.0132 BTC in transaction fees, worth […]",
-    "url": "https://news.bitcoin.com/bitcoins-lottery-jackpot-solo-home-miner-wins-200000-with-a-150-mining-device/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-13T02:30:33.000Z"
-  },
-  {
-    "id": "f5f689ff-5c8d-4e88-9991-2d96ee9c08a0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "The Funding: Why Japan’s SBI Holdings is investing big in crypto",
-    "summary": "1. The Japanese financial giant's recent crypto deals offer insights into how traditional finance is approaching digital assets.",
-    "url": "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-13T02:12:42.000Z"
-  },
-  {
-    "id": "1263a01d-be19-47c5-981a-919b0d2d2940",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
-    "summary": "1. The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.",
-    "url": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-13T02:12:25.000Z"
-  },
-  {
-    "id": "e60628e8-048c-4ffd-86a7-297be6adbca6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
-    "summary": "1. Analysts are not yet ready to call it a recovery in institutional demand for Bitcoin.",
-    "url": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-13T01:49:17.000Z"
-  },
-  {
-    "id": "a22dc7fd-eba3-4861-8c39-2fa8609e2a52",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Almost Shut Down and Distributed XRP After SEC Lawsuit, CEO Reveals",
-    "summary": "1. Ripple nearly shut down after the U.S.\n2. Securities and Exchange Commission (SEC) sued the company, with CEO Brad Garlinghouse considering whether to end operations, distribute XRP holdings to shareholders, and close the business.\n3. Ripple Considered Closing After SEC Lawsuit Put Company at Risk Ripple CEO Brad Garlinghouse revealed that the company considered shutting down after […]",
-    "url": "https://news.bitcoin.com/ripple-almost-shut-down-and-distributed-xrp-after-sec-lawsuit-ceo-reveals/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-13T01:31:12.000Z"
-  },
-  {
-    "id": "0b51590a-7932-4041-b29a-7db2a744881a",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "rish: https://billiondollarpdf.com/",
-    "summary": "1. ",
-    "url": "https://warpcast.com/rish/0x1a3196ca",
-    "author": "rish",
-    "created_at": "2026-07-13T01:15:28.000Z"
-  },
-  {
-    "id": "9f0cc86a-4202-4275-b8e6-21c968669321",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. President DJT",
-    "url": "https://trumpstruth.org/statuses/39967",
-    "author": "Trump Truth",
-    "created_at": "2026-07-13T01:10:48.000Z"
-  },
-  {
-    "id": "a66ccc9e-feee-4487-8935-3604de49011a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. 59% Approval Rating.\n2. Prices coming down along with the lowering of oil and gas.\n3. President DJT",
-    "url": "https://trumpstruth.org/statuses/39966",
-    "author": "Trump Truth",
-    "created_at": "2026-07-13T01:03:05.000Z"
-  },
-  {
-    "id": "1a59b3d5-031b-4b4c-a302-a7dcbd7f4974",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
-    "summary": "1. Even Ethereum's critics believe Robinhood Chain is bullish for ETH.\n2. Nigel Farage and Donald Trump become embroiled in crypto related scandals, and more.",
-    "url": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Andrew Fenton",
-    "created_at": "2026-07-12T23:24:26.000Z"
-  },
-  {
-    "id": "9f74d85d-6497-4210-a4af-b9d48e3fde3b",
+    "id": "38a82332-f66c-4842-9fe2-1bbe1262146b",
     "source": "@WatcherGuru",
     "type": "telegram",
-    "title": "🇺🇸🇮🇷 Brent crude oil surges 4.5% at open following US and Iran resuming war.@WatcherGuru",
+    "title": "🇯🇵 Japanese financial giant SBI partners with Solana Foundation to build on-chain financial market in Japan.@WatcherGuru",
     "summary": "",
-    "url": "https://t.me/WatcherGuru#f08c812e",
+    "url": "https://t.me/WatcherGuru#253cc835",
     "author": "@WatcherGuru",
-    "created_at": "2026-07-12T22:06:35+00:00"
+    "created_at": "2026-07-13T09:23:52+00:00"
   },
   {
-    "id": "f046260c-a4e0-4bda-8726-50872dd6689f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-12T21:57:32.000Z"
+    "id": "799800be-3bac-4285-9148-1517885161e1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. online brokerage Webull obtains MiCA license",
+    "summary": "U.S. online brokerage Webull has secured a license from Dutch financial authorities under Europe's Markets in Crypto-Assets (MiCA) regulation, Finance Magnates reported. The company plans to use the license to launch crypto trading and custody services in Europe by the end of 2026.",
+    "url": "https://t.me/CoinnessGL#044956ac",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-13T09:13:25+00:00"
   },
   {
-    "id": "9985d04a-6392-4f6a-9ae3-ee0c29a8e37f",
-    "source": "The Defiant",
+    "id": "84db34eb-4a14-4751-bb60-803818066917",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Michael Saylor once again posted Strategy’s Bitcoin tracker, this time with the cryptic caption “Orange dots tell only part of the story.”",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#aa7d0833",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-13T09:10:38+00:00"
+  },
+  {
+    "id": "08577f74-26c9-4700-a628-5c429c5b87ae",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Which memecoin is next to go viral?",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e7200f17",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-13T09:05:36+00:00"
+  },
+  {
+    "id": "a97b9bd5-dfae-4300-a0cc-c9f8af840128",
+    "source": "CoinTelegraph",
     "type": "rss",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "summary": "1. BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday.\n2. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-12T21:57:32.000Z"
+    "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
+    "summary": "1. Lawson will test yen stablecoin payments in Tokyo as Netstars launches a merchant service supporting USDC, USDT and JPYC.",
+    "url": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-13T08:58:51.000Z"
+  },
+  {
+    "id": "e2fbc839-b264-4395-8d55-baac0e979a39",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Iran’s Foreign Ministry says the US-Iran MoU is “completely dead” after continued American attacks and warns that countries supporting US strikes could be treated as legitimate military targetsThe ministry also says Washington derailed Muscat talks focused on managing the Strait of HormuzTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#601bd9c7",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-13T08:58:50+00:00"
+  },
+  {
+    "id": "ab9c82f1-a4da-43f0-a18f-b27a5c290883",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
+    "summary": "1. Your look at what's coming in the week starting July 13.",
+    "url": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-13T08:55:50.000Z"
+  },
+  {
+    "id": "2e1cd87a-7f7d-4227-9486-4c522ce952b2",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "SBI Holdings partners with Solana Foundation to expand on-chain finance in Japan",
+    "summary": "Japanese financial giant SBI Holdings has announced a strategic partnership with the Solana Foundation to expand the on-chain financial market in Japan.As part of the partnership, the Solana Foundation will join SBI R3 Japan, working alongside existing shareholders SBI Holdings and Sumitomo Mitsui Financial Group (SMFG) to pursue a new growth strategy.SBI Holdings highlighted the rapid global expansion of stablecoins and real-world asset (RWA) tokenization. The company stated that on-chain finance, where the issuance, distribution, and settlement of financial assets all occur on the blockchain, is set to become the next generation of financial infrastructure. \"Solana is regarded as one of the core infrastructures for on-chain finance, based on its high processing performance, low costs, and global ecosystem,\" SBI explained. \"Our goal is to connect Japan's financial assets and institutional foundation with Solana's global network.\"Separately, SBI also revealed today that it is promoting an enterprise-wide transition to on-chain technology and expanding its cryptocurrency business.",
+    "url": "https://t.me/CoinnessGL#1858efb1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-13T08:46:33+00:00"
+  },
+  {
+    "id": "88a01b58-ab0f-48fe-b14a-87b37410f0c7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Meta chief data officer Alex Schultz says agentic commerce \"might be the next tier of business\" for the entire company.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#fd1a3a7e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-13T08:35:39+00:00"
+  },
+  {
+    "id": "7ac0fee0-bc2e-4a61-ae37-63a8672b477f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Blackrock’s Tokenized Funds Hit $2.93B Onchain as Ethereum Leads With $1.1B",
+    "summary": "1. Blackrock now manages $2.93 billion in tokenized assets onchain, with Ethereum leading the pack ahead of Avalanche, Solana, and BNB Chain.\n2. A Multichain Footprint Anchored by BUIDL The bulk of Blackrock’s onchain assets sit in the Blackrock USD Institutional Digital Liquidity Fund (BUIDL), the tokenized money market fund it launched with issuance platform Securitize in […]",
+    "url": "https://news.bitcoin.com/blackrock-tokenized-funds-2-93-billion-onchain/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-13T08:25:55.000Z"
+  },
+  {
+    "id": "0b90cada-388e-4b83-b76e-56be1f2f4756",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
+    "summary": "1. The central bank and the SEC have reportedly begun using data analytics tools to examine abnormal stablecoin trades, with a focus on USDT.",
+    "url": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-13T08:19:26.000Z"
+  },
+  {
+    "id": "53d9e2e1-7a10-4dca-b2e2-dedc007d7f2e",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Japan’s SBI Group plans to launch JPYSC stablecoin lending service as early as this monthTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#d706782f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-13T07:25:33+00:00"
+  },
+  {
+    "id": "d17fe158-2f56-42bd-8b65-d067e8abb32f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Musk’s SpaceX and Starlink Hijacked as ‘SCATMAN’ Memecoin Rockets to $32M on Robinhood Chain",
+    "summary": "1. Attackers seized the official X accounts of SpaceXAI and Starlink on Sunday to promote a memecoin called Scam Altman (SCATMAN), which briefly touched a $32 million market cap on Robinhood Chain.\n2. Lookonchain noted the hacker minted 10 trillion tokens and dumped them for about $135,000 in ether.\n3. A Verified-Account Playbook Strikes Elon Musk’s Companies The […]",
+    "url": "https://news.bitcoin.com/spacex-starlink-x-accounts-hacked-scatman-memecoin/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-13T07:25:04.000Z"
+  },
+  {
+    "id": "44dfe756-18e1-4c86-9e22-dae428ab9fd7",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
+    "summary": "1. The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.",
+    "url": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-13T07:22:28.000Z"
+  },
+  {
+    "id": "3a02d1f1-a300-4908-9b00-339a834be113",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush",
+    "summary": "1. The liquidations were minor, running at about a sixth of what the market saw at its worst over the past 30 days, per CoinGlass.",
+    "url": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-13T06:52:28.000Z"
+  },
+  {
+    "id": "b397620b-1ed7-4c51-960f-5a723df6be81",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-13T05:29:39.000Z"
+  },
+  {
+    "id": "d84182f9-8b1e-41ac-bc60-c3f49c3dac78",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx",
+    "summary": "1. The AI-native cohort of the expanding gig economy could increasingly use stablecoins to avoid slow and expensive traditional payment rails, Australian crypto exchange Swyftx said.",
+    "url": "https://cointelegraph.com/news/ai-enabled-businesses-freelancers-could-add-262b-in-stablecoin-volumes-swyftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Martin Young",
+    "created_at": "2026-07-13T05:24:22.000Z"
+  },
+  {
+    "id": "e7c58b45-20d6-4b42-a0ea-1c51f4ec56bf",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Only 6 ships crossed the Strait of Hormuz in the past 24 hours.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#a323eb30",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-13T04:53:20+00:00"
+  },
+  {
+    "id": "28eeeed2-f11e-420a-bc2d-632d93dc2307",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
+    "summary": "1. Gold, oil, stocks and bonds all moved sharply on the fourth round of U.S.\n2. strikes on Iran, but bitcoin is little-changed.",
+    "url": "https://www.coindesk.com/markets/2026/07/13/bitcoin-holds-near-usd63-800-as-war-driven-selloff-hits-everything-but-crypto",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-13T04:48:11.000Z"
+  },
+  {
+    "id": "58c6c133-27a3-4464-9f5d-5912e69ef011",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report",
+    "summary": "1. This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm HashPort.",
+    "url": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-13T03:59:28.000Z"
   }
 ]
