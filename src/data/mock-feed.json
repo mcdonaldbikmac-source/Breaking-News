@@ -1,5 +1,75 @@
 [
   {
+    "id": "bcfd7c56-a51d-4fc9-945f-4c358bdc2ca9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Telegram’s t.me Domain Vanishes From Global DNS as Founder Pavel Durov Seems “Caught off Guard”",
+    "summary": "1. Telegram’s core shortlink domain, t.me, was placed on “server hold” by the .me registry on July 13, dropping it from the global domain name system (DNS) and dead-ending every t.me link worldwide.\n2. Founder Pavel Durov appeared to learn about the outage in real time.\n3. A Registry Kill Switch The domain had been suspended and removed […]",
+    "url": "https://news.bitcoin.com/telegram-tme-domain-suspended-dns/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-14T08:05:02.000Z"
+  },
+  {
+    "id": "26bfb078-1676-46f9-8fdf-584dfa3d62b0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Tariff Refunds Hit $81 Billion After Supreme Court Ruling: Here’s What It Means",
+    "summary": "1. government has paid back $81 billion in tariffs so far this fiscal year after the Supreme Court ruled President Donald Trump’s sweeping import levies illegal in February.\n2. The figure dwarfs the $5 billion refunded over the same stretch a year earlier.\n3. Refunds Surge After February’s Ruling The refund tally, flagged Monday, covers the […]",
+    "url": "https://news.bitcoin.com/trump-tariff-refunds-81-billion-supreme-court/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-14T07:35:51.000Z"
+  },
+  {
+    "id": "a63f6f42-5020-4659-8901-b86f202f83e0",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Breaking Down Why Sports Fans Are the Best Crypto Audience in the World",
+    "summary": "1. I have one observation that I did not come to right away, but only after many failed campaigns and many successful ones.\n2. For years, crypto tried to explain to the mass user why they needed all of this.\n3. We made landing pages about decentralization, videos about financial freedom, and webinars about blockchain for beginners.",
+    "url": "https://news.bitcoin.com/breaking-down-why-sports-fans-are-the-best-crypto-audience-in-the-world/",
+    "author": "Guest Author",
+    "created_at": "2026-07-14T07:01:41.000Z"
+  },
+  {
+    "id": "27e5228d-37a4-44a8-ad88-f8d289f221c4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": " Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
+    "summary": "1. Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July.\n2. Today's inflation print is the next test.",
+    "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-14T06:55:24.000Z"
+  },
+  {
+    "id": "8bc879f9-b224-40b5-9122-e7a8b3478d6b",
+    "source": "The Block",
+    "type": "rss",
+    "title": "What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained",
+    "summary": "1. RLUSD is a regulated stablecoin issued by Ripple Labs — the firm behind the XRP blockchain — designed to maintain a steady value of one U.S.\n2. dollar per token.\n3. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S.",
+    "url": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-07-14T06:53:47.000Z"
+  },
+  {
+    "id": "3f62f163-d910-47b1-be58-f98bf524c0f1",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.209",
+    "summary": "1. ## What's changed\n\n- Fixed /model and other dialogs being blocked in `claude agents` background sessions (reverts an overly broad guard)",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.209",
+    "author": "ashwin-ant",
+    "created_at": "2026-07-14T06:36:28Z"
+  },
+  {
+    "id": "5be6b965-cb3d-4646-9cd9-645308b61f7c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
+    "summary": "1. Coins from the Farace and BTC-e seizures moved through fresh wallets before landing on the exchange, despite president Donald Trump's previous no-sell reserve order.",
+    "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-14T06:28:43.000Z"
+  },
+  {
     "id": "2477d26c-b053-468c-af50-560185dfbda2",
     "source": "The Defiant",
     "type": "rss",
@@ -138,95 +208,5 @@
     "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
     "author": "Connie Loizos",
     "created_at": "2026-07-14T02:46:42.000Z"
-  },
-  {
-    "id": "d0d99ad1-2fb0-4a57-bdb5-b323510e07ab",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Strategy Extends Dividend Coverage Beyond 20 Months With Larger Cash Buffer",
-    "summary": "1. Strategy’s U.S.\n2. dollar reserve now covers 20.4 months of dividends after the company increased the balance to $3 billion, extending the duration of its liquidity supporting preferred securities.\n3. The $450 Million Expansion Behind Strategy’s 20-Month Dividend Cushion Strategy Inc.",
-    "url": "https://news.bitcoin.com/strategy-extends-dividend-coverage-beyond-20-months-with-larger-cash-buffer/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-14T02:01:39.000Z"
-  },
-  {
-    "id": "40bdda28-11a6-4da6-ae83-d05d6ba41338",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. We drained the beautiful “Reflecting Pool” today in order to fix the scars and damage that was done by the Vandals two weeks ago.\n2. We wanted to wait until after the July 4th Weekend.\n3. The slashes were 300 yards long, and the floor of the pool was cut and then pulled upward, with great force, by these thugs.",
-    "url": "https://trumpstruth.org/statuses/40019",
-    "author": "Trump Truth",
-    "created_at": "2026-07-14T01:49:26.000Z"
-  },
-  {
-    "id": "3676adb0-f205-4382-97f3-fe5195cd834d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
-    "summary": "1. Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now, as Hyundai experiments with Avalanche for global stablecoin transfers.\n2. Asia Express",
-    "url": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Andrew Fenton",
-    "created_at": "2026-07-14T01:39:02.000Z"
-  },
-  {
-    "id": "394c8a2a-3e72-4e9c-b2d6-7e4dd4b57c36",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CLARITY Act gains second law enforcement endorsement before Senate push",
-    "summary": "1. The Federal Law Enforcement Officers Association expressed support for the CLARITY Act but urged changes to the legislation’s language.",
-    "url": "https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-14T01:37:27.000Z"
-  },
-  {
-    "id": "d31224ce-986a-4421-8de4-82334aa6e75f",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.208",
-    "summary": "1. ## What's changed\n\n- Added screen reader mode: opt-in plain-text rendering for screen reader users.\n2. Run `claude --ax-screen-reader`, set CLAUDE_AX_SCREEN_READER=1, or add \"axScreenReader\": true to settings.\n3. - Added `vimInsertModeRemaps` setting: map two-key insert-mode sequences like `jj` to Escape in vim mode\n- Added `CLAUDE_CODE_PROCESS_WRAPPER`: agent view and the background service now honor a corporate launcher by running every Claude Code self-spawn through a required wrapper executable\n- Added mouse-click support for multi-select menus and \"Other\" input rows in fullscreen mode\n- Fixed fast mode staying off after switching back to a model that supports it — it now restores automatically when enabled in settings\n- Fixed replies typed to a background agent being lost when delivery fails — the text is now saved and delivered when the session restarts\n- Fixed background-session attach failing permanently (\"Couldn't start the background daemon\") after an update replaced the binary a running `claude agents` process was launched from\n- Fixed the context window (and auto-compact indicator) briefly resetting to 200k after the CLI auto-updates, causing a false \"100% context used\" when resuming long-context sessions\n- Fixed supervised and background sessions crashing when a server closed an HTTP/2 connection with a GOAWAY while requests were in flight\n- Fixed truncated stream-json/JSON output and missing result message when piping large responses from `claude -p`\n- Fixed `CLAUDE_CODE_MAX_OUTPUT_TOKENS` and similar env vars silently using the mantissa of scientific-notation values (`1e6` became `1`)\n- Fixed very large markdown tables stalling rendering or using excessive memory; tables over 200 rows show the first 200 with a \"… N more rows\" notice\n- Fixed the Edit tool failing on files modified after reading when the target text still matches uniquely\n- Fixed Read reporting empty files as \"shorter than offset\", Grep silently returning \"No files found\" for invalid regex patterns, Grep count mode under-reporting totals when paginated, and Glob crashing with an unclear error when the pattern, path, or working directory contained a null byte\n- Fixed `apiKeyHelper` script failures being hidden behind a generic 401 after ~10 silent retries; the script's own error is now shown within 3 attempts\n- Fixed Bedrock streaming requests failing with a misleading \"Truncated event message received\" when a gateway transforms the response — the error now names the content-type and points at the proxy\n- Fixed `/upgrade` showing a login flow instead of the upgrade URL when the browser fails to open\n- Fixed stream-json input killing the session on blank CRLF or whitespace-only lines from Windows-style SDK hosts\n- Fixed headless stream-json sessions hanging permanently when a `control_request` carried a non-string `set_model` payload; the CLI now answers with an error response\n- Fixed repeated \"No completion record was found\" notices on session resume — orphaned background tasks now collapse into a single summary\n- Fixed Remote Control clients attaching to a terminal-hosted session not seeing background agents and workflow progress until a task started or stopped\n- Fixed the Agent tool launching with no tools when a subagent's `tools` list resolves to nothing — it now returns a clear error naming the unrecognized entries\n- Fixed `/usage` showing stale cached bars over fresher data, and `/mcp` not reclassifying placeholder servers after config edits\n- Fixed \"Change directory\" in SDK hosts (e.g.",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.208",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-14T01:10:42Z"
-  },
-  {
-    "id": "b98cae2f-071a-4e0d-8cad-9aaf7536cd6c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Fidelity, BNY, Goldman Sachs, JPMorgan, Morgan Stanley, Citi Lead Strategy’s Bitcoin Banking Adoption",
-    "summary": "1. Fidelity, BNY, Goldman Sachs, JPMorgan, Morgan Stanley, and Citigroup topped the newly launched Strategy Bitcoin Banking Adoption Index, which assessed 25 major global institutions across trading, custody, digital-asset products, financing, and corporate participation.\n2. How the Six Leaders Separated From the Field Strategy’s new Bitcoin Banking Adoption Index put overall adoption at 32%, underscoring how unevenly […]",
-    "url": "https://news.bitcoin.com/fidelity-bny-goldman-sachs-jpmorgan-morgan-stanley-citi-lead-strategys-bitcoin-banking-adoption/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-14T01:01:12.000Z"
-  },
-  {
-    "id": "4c385311-9912-4fc9-a388-37f725326f9d",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-    "summary": "1. Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-    "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-    "author": "Connie Loizos",
-    "created_at": "2026-07-14T00:45:00.000Z"
-  },
-  {
-    "id": "132e7803-fe0c-4d50-9fdd-de702cd90aa2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Trump Torches Iran Ceasefire as Brent Crude Tops $83 and Bitcoin Sinks Below $62K",
-    "summary": "1. President Donald Trump declared a June ceasefire with Iran “over” this week after U.S.\n2. Central Command carried out fresh strikes on Iranian military targets, reigniting a conflict that had appeared to cool weeks earlier.\n3. The renewed fighting traces back to attacks on commercial vessels near the Strait of Hormuz around July 7 and 8.",
-    "url": "https://news.bitcoin.com/trump-torches-iran-ceasefire-as-brent-crude-tops-83-and-bitcoin-sinks-below-62k/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-14T00:19:54.000Z"
-  },
-  {
-    "id": "9d72b0b3-3287-4764-bad1-62fdc04b0543",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "summary": "1. With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-07-14T00:00:00.000Z"
   }
 ]
