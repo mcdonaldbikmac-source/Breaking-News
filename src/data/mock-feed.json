@@ -1,5 +1,105 @@
 [
   {
+    "id": "e966ebe0-bddd-418e-8dba-f318aadd7386",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Japan passes bill to regulate crypto as financial products, sets 20% tax",
+    "summary": "A bill that defines cryptocurrency as a financial product passed Japan's House of Councillors on July 15, officially becoming law, CoinPost reported. Under the amendment, which shifts the legal basis for crypto regulation from the Payment Services Act to the Financial Instruments and Exchange Act, the Japanese government will apply a separate tax of approximately 20% to all crypto assets handled by operators. The new rules will also allow investors to deduct losses from profits for up to three years.Penalties for the unregistered sale of cryptocurrencies will be increased, with the maximum prison sentence rising from three to 10 years and the maximum fine increasing from 3 million yen to 10 million yen. Insider trading regulations will also be introduced for the first time, and certain crypto issuers will be required to make regular annual disclosures.The tax changes are scheduled to take effect on Jan. 1, 2028, if the law is implemented in fiscal year 2027. While the amendment establishes a regulatory framework for crypto ETFs, the approval of a Bitcoin ETF is not yet confirmed. Detailed standards regarding reserve levels, derivatives leverage, and requirements for custody and AML/CFT operators will be finalized in subsequent enforcement orders and supervisory guidelines. The bill had previously passed the House of Representatives in June. more:",
+    "url": "https://t.me/CoinnessGL#c3e198d0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T07:23:47+00:00"
+  },
+  {
+    "id": "e00e8b23-489e-4e06-839e-be40e0775b8e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "South Korea to bring crypto under new state asset management law",
+    "summary": "1. The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system.",
+    "url": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-15T07:19:45.000Z"
+  },
+  {
+    "id": "25db8d7a-3ea4-45f6-bb8a-52605f7bcc8d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb removes GNO from delisting watchlist",
+    "summary": "South Korean crypto exchange Bithumb announced it has removed Gnosis (GNO) from its delisting watchlist, stating that the issues that led to the designation have been resolved.",
+    "url": "https://t.me/CoinnessGL#c002b1c4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T07:02:18+00:00"
+  },
+  {
+    "id": "42c3e620-179a-4f98-8f85-5da723fae168",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Taiwan Lawmaker Puts Bitcoin Reserve Odds at 80% in Five Years: Here’s His Roadmap",
+    "summary": "1. Taiwanese legislator Dr.\n2. Ko Ju-chun says there is “roughly an 80% chance” Taiwan establishes a strategic bitcoin reserve within five years if political conditions align and close to 100% within ten.\n3. Ushering in Serious Change Dr.",
+    "url": "https://news.bitcoin.com/taiwan-bitcoin-reserve-80-percent-ko-ju-chun/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-15T06:55:46.000Z"
+  },
+  {
+    "id": "981becb7-cd56-4c6f-9985-315d24974b3c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Galaxy has launched GOFR, a managed borrowing product blending rates from Aave, Morpho, Spark, Kamino and other DeFi protocols into one optimized rate.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e07e5876",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-15T06:47:17+00:00"
+  },
+  {
+    "id": "8653cf7e-07cb-45d7-81e3-8b1b9dd6f00a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US ETH spot ETFs see $58.4M net inflow",
+    "summary": "U.S. Ethereum spot ETFs recorded a net inflow of $58.4 million (86.8 billion won) on July 14, according to data compiled by Trader T. This marks a return to net inflows just one day after the funds experienced a net outflow.- BlackRock ETHA: +$58.34 million- BlackRock Staking ETHB: +$60,000",
+    "url": "https://t.me/CoinnessGL#0d65656c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T06:23:02+00:00"
+  },
+  {
+    "id": "687fc106-3831-479e-a2fc-f97f7a8da9a5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Reclaims $65,000 After Iran Selloff: Here’s What’s Driving the Rebound",
+    "summary": "1. Bitcoin climbed to $65,000 on Wednesday, reclaiming the level for the first time since renewed U.S.–Iran hostilities knocked the price below $62,000 earlier this week.\n2. The move caps a two-week recovery from a late-June low near $58,000.\n3. From $62K Panic to $65K Reclaim Bitcoin pumped to $65,005 during Wednesday’s session, with the reclaim arriving just […]",
+    "url": "https://news.bitcoin.com/bitcoin-reclaims-65000-after-iran-selloff/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-15T06:15:55.000Z"
+  },
+  {
+    "id": "4c31aaf5-1e0e-4602-84e6-f4ab7c3f891a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Visa, Mastercard and Ripple back x402 as agent payments average 32 cents",
+    "summary": "1. Forty companies now govern x402, the protocol Coinbase built and handed away.\n2. It settled about $24 million last month across 75 million payments.",
+    "url": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-15T06:05:24.000Z"
+  },
+  {
+    "id": "5d0ae063-ffa1-4e6f-948a-43a60f917437",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Benchmark analyst Mark Palmer raised his Hut 8 price target to $165 from $85, citing the value unlocked by its Beacon Point AI data center project.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#25e9a3ff",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-15T05:57:16+00:00"
+  },
+  {
+    "id": "7625220d-b7a0-467d-bf95-848194c04d34",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-15T05:44:31.000Z"
+  },
+  {
     "id": "2bd0ac26-e699-4d77-b329-9a9262966671",
     "source": "The Defiant",
     "type": "rss",
@@ -8,6 +108,16 @@
     "url": "https://thedefiant.io/news/regulation/argentine-judge-orders-id-freeze-of-25-libra-linked-crypto-wallets",
     "author": "The Defiant Team",
     "created_at": "2026-07-15T05:39:02.000Z"
+  },
+  {
+    "id": "f7959193-1961-446c-a4f9-162eec6a1158",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Kalshi says CFTC, Michigan orders leave it in ‘impossible position’",
+    "summary": "1. “We are disappointed by this decision and believe it is unfair to Kalshi,” the company’s legal counsel said on X.",
+    "url": "https://cointelegraph.com/news/kalshi-says-cftc-michigan-orders-leave-it-in-impossible-position?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-15T05:38:10.000Z"
   },
   {
     "id": "575ca08a-b3a1-4b92-853d-cc7647bc0568",
@@ -70,7 +180,7 @@
     "created_at": "2026-07-15T04:55:45+00:00"
   },
   {
-    "id": "e6d61412-cf05-4d91-87d4-a043de27a8e2",
+    "id": "4c098992-2d8c-4e89-b507-968e269dc375",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Stripe and Advent offer to buy PayPal $PYPL for $53 billion, Reuters reports.@WatcherGuru",
@@ -160,7 +270,7 @@
     "created_at": "2026-07-15T02:30:30.000Z"
   },
   {
-    "id": "0a065e91-2797-493c-a124-59469bc0891f",
+    "id": "d523d4f3-98f6-41ea-9f86-f1dbcc4d4c9f",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇨🇳 China's economy slows to the weakest in over 3 years as US-Iran war continues.@WatcherGuru",
@@ -248,45 +358,5 @@
     "url": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Felix Ng",
     "created_at": "2026-07-15T01:28:14.000Z"
-  },
-  {
-    "id": "3abc9f13-44ba-4ce3-9204-6503fe3fe375",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "European Central Bank Picks 36 Firms for 2027 Digital Euro Payments Pilot",
-    "summary": "1. The European Central Bank (ECB) has selected 36 payment service providers for a 12-month digital euro pilot due to begin in the second half of 2027.\n2. The project will test payments, account setup, merchant acceptance, and offline functionality using a beta version of the digital euro.\n3. ECB Advances Digital Euro With 12-Month Pilot Across 19 […]",
-    "url": "https://news.bitcoin.com/european-central-bank-picks-36-firms-for-2027-digital-euro-payments-pilot/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-15T00:30:49.000Z"
-  },
-  {
-    "id": "8174f46e-e443-4523-8052-6ac9cb225a1c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "summary": "1. The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "author": "Marina Temkin",
-    "created_at": "2026-07-15T00:27:04.000Z"
-  },
-  {
-    "id": "9353e9c0-089c-47e0-a4cb-63a4c9b94f6f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Fed Chair Kevin Warsh told Congress \"we do not want to be in the bailout business wholesale\" when asked if the Fed would rescue crypto or stablecoins during a run.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b6c52394",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-14T23:57:17+00:00"
-  },
-  {
-    "id": "cc45eed0-b051-4b2d-9a23-dfdfcb177168",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.210",
-    "summary": "1. ## What's changed\n\n- Added a live elapsed-time counter to the collapsed tool summary line so long-running tool calls visibly tick instead of looking stuck\n- Added a startup warning for `Write(path)`, `NotebookEdit(path)`, and `Glob(path)` permission rules — use `Edit(path)` or `Read(path)` instead\n- Fixed `isolation: 'worktree'` subagents being able to run git-mutating commands against the main repo checkout instead of their own isolated worktree\n- Fixed the `ultracode` keyword opt-in firing on non-human-originated input such as webhook payloads and relayed PR comments\n- Fixed a rendered text fragment leaking into crash telemetry when a UI component returned content outside a styled text element\n- Fixed paste markers leaking into external editors opened from Claude Code, which could appear as stray È/É characters around pasted text\n- Fixed `claude attach` sometimes failing with \"job not found\" or \"agent is still starting\" errors during session transitions — attach now waits for the daemon to settle, and terminal resizes during a slow attach are applied once it completes\n- Fixed a session crash when a tool's result renderer returned a numeric bigint value or plain text instead of a UI element\n- Fixed a hook callback timeout being misreported to the model as a user rejection, which made unattended sessions stop and wait\n- Fixed Claude assuming a `cd` took effect after its command was moved to the background; the tool result now states the working directory is unchanged\n- Fixed plugin-provided MCP servers being torn down when MCP servers are re-synced mid-session\n- Fixed plan approvals without edits being labeled \"(edited by user)\" and overwriting the plan file with a stale snapshot\n- Fixed `/doctor` skipping its auto-mode-default proposal on Bedrock, Vertex, and Foundry, where auto mode no longer needs an opt-in\n- Fixed Grep content mode claiming \"No matches found\" when paginating past the end of results\n- Fixed unmatched `$1`/`$2` positional placeholders in skills and commands being silently stripped; they are now preserved verbatim\n- Fixed plugin cache writes leaving temp files behind on failure and failing on locked-file renames on Windows and network filesystems\n- Fixed background workers crash-looping when a client resets its connection to the background service\n- Fixed `claude agents --effort ultracode` not reaching dispatched sessions; the value was silently dropped\n- Fixed pressing ← to open the agents view dropping the task tracker when returning to the session\n- Fixed the agents dashboard retaining pasted images from abandoned reply drafts after their session was deleted\n- Fixed killed background sessions leaving a permanent `git worktree lock` behind; the periodic sweep now releases locks whose owning process is gone\n- Fixed SDK MCP servers registered via an `initialize` control request waiting until the next turn to start connecting\n- Fixed returning to the agents view from a session leaving overlapping ghost frames with `CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1`\n- Fixed late-appearing `.claude/*` symlinks not being reconciled into the sandbox deny-write list\n- Hardened the Agent tool against indirect prompt injection via content a subagent read\n- Improved the Bash/PowerShell tool message when a command hits its timeout and is auto-backgrounded, so the model can distinguish a hang from an explicit background request\n- Improved auto mode: the permission classifier now defaults to Sonnet 5 for external sessions, validated on the session's first request and pinned for the session\n- Improved the bundled dataviz skill's chart color validation with perceptual OKLab color difference and recalibrated color-blindness thresholds\n- Memory writes that leave a MEMORY.md index over its read limit now produce an explicit error instead of silent truncation\n- Screen reader mode now announces permission mode changes aloud when cycling modes with Shift+Tab\n- The agents footer hint now shows how many background agents are waiting on your input, with a brief color emphasis when the count changes\n- Agent view: the session you pressed ← from stays visibly marked even after mouse hover or arrow keys move the selection\n- Fable temporarily shows as unavailable in the advisor picker while a server-side issue causing Fable advisor failures is fixed",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-14T23:45:25Z"
   }
 ]
