@@ -1,5 +1,75 @@
 [
   {
+    "id": "b34c8ad7-9d19-4f4a-bd3f-72de7d115770",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin tops $64,000 as cooling U.S. inflation guts the Fed rate-hike trade",
+    "summary": "1. The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.",
+    "url": "https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-15T05:19:14.000Z"
+  },
+  {
+    "id": "373b990a-6e92-4465-affb-68a912cae8fc",
+    "source": "The Block",
+    "type": "rss",
+    "title": "TeraWulf falls 7% after New York orders one-year pause on new data center permits",
+    "summary": "1. TeraWulf said that its data centers in New York remain operational and that its ongoing development plans are unaffected.",
+    "url": "https://www.theblock.co/post/408344/new-york-pause-new-data-center-permits-terawulf-falls?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-15T05:10:00.000Z"
+  },
+  {
+    "id": "0d717b30-cc7a-426c-bab7-9f898984ea7b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Iran's IRGC claims destruction of US military assets in Kuwait",
+    "summary": "Iran's Revolutionary Guard Corps announced it destroyed a U.S. military satellite communications center, missile and air defense radar, a Patriot air defense system, logistics facilities at a U.S. military base, and HIMARS missile launchers located within Kuwaiti territory.",
+    "url": "https://t.me/CoinnessGL#37b84b83",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T05:00:33+00:00"
+  },
+  {
+    "id": "a9189410-eb85-44ef-a2a5-44745e771e71",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "South Korean crypto tax repeal debate stalls as tax agency pushes ahead",
+    "summary": "While South Korea's National Tax Service is creating a dedicated team and building a transaction analysis system ahead of next year's planned implementation of cryptocurrency taxation, a petition to abolish the tax has stalled in the legislature, Electronic Times Internet reported.The petition, which garnered more than 50,000 signatures, has been referred to the National Assembly but has not yet been scheduled for review. An official from the National Assembly's Strategy and Finance Committee stated that no schedule has been set for the petition. The official added that whether to discuss it alongside a similar bill to repeal the crypto income tax or to handle it separately is a matter for the party whips to decide.Previously, People Power Party lawmaker Song Eon-seog proposed an amendment to the Income Tax Act that would delete the provisions for taxing gains from the transfer or lending of virtual assets. more:",
+    "url": "https://t.me/CoinnessGL#85844bd1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T05:00:14+00:00"
+  },
+  {
+    "id": "808b0f41-81fa-435a-89fd-a40b3f90300a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Aave adopts Chainlink CCIP as its cross-chain standard",
+    "summary": "Aave (AAVE) has announced its selection of Chainlink's (LINK) Cross-Chain Interoperability Protocol (CCIP) as its standard for cross-chain infrastructure. Currently, CCIP handles cross-chain GHO transfers and multi-chain governance execution through the Aave Delivery Infrastructure (a.DI). Moving forward, it will also support cross-chain functionalities for the Aave app via Stable Vaults, including features such as vault rebalancing, yield optimization, deposits, and transfers. These cross-chain operations will take place between Ethereum, Base, and Arbitrum.",
+    "url": "https://t.me/CoinnessGL#ba7a4f1e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T04:55:45+00:00"
+  },
+  {
+    "id": "3ce1db71-ba65-4319-8266-d3d5ace1dcbc",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Stripe and Advent offer to buy PayPal $PYPL for $53 billion, Reuters reports.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#8c65e678",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-15T03:38:36+00:00"
+  },
+  {
+    "id": "6cc8e34a-b037-407f-b89b-90d9dc1e7ac2",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Gains Institutional Momentum as SBI Expands Finance Infrastructure in Japan",
+    "summary": "1. XRP is at the center of a new institutional finance initiative in Japan after SBI Digital Finance and Doppler Finance formed a strategic partnership, extending Doppler’s collaboration with SBI Group companies beyond an earlier XRP yield and tokenization initiative.\n2. Why Is Japan Becoming a Focal Point for Institutional XRP Finance?\n3. Doppler Finance, a tokenized capital […]",
+    "url": "https://news.bitcoin.com/xrp-gains-institutional-momentum-as-sbi-expands-finance-infrastructure-in-japan/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-15T03:30:04.000Z"
+  },
+  {
     "id": "0b265487-a918-4afe-a0e7-d6aed72c648f",
     "source": "The Defiant",
     "type": "rss",
@@ -8,6 +78,16 @@
     "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
     "author": "The Defiant Team",
     "created_at": "2026-07-15T03:26:29.000Z"
+  },
+  {
+    "id": "51320941-f53f-41a0-9b6a-a1fe6c6aea60",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
+    "summary": "1. “US Treasury is committed to disrupting and degrading Iran’s illicit financial activities, including its abuse of digital assets,” US Treasury Secretary Scott Bessent said Tuesday.",
+    "url": "https://cointelegraph.com/news/us-freezes-131m-in-iran-linked-crypto-as-middle-east-tensions-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-15T03:17:59.000Z"
   },
   {
     "id": "ac383a24-950e-4f96-bc01-aeb79a1f6bab",
@@ -60,7 +140,7 @@
     "created_at": "2026-07-15T02:30:30.000Z"
   },
   {
-    "id": "d15c0fa4-ebc5-42f3-98af-7534cf2aa698",
+    "id": "db1287b0-4957-44ba-b5ce-35de90db3f1d",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇨🇳 China's economy slows to the weakest in over 3 years as US-Iran war continues.@WatcherGuru",
@@ -170,7 +250,7 @@
     "created_at": "2026-07-15T00:27:04.000Z"
   },
   {
-    "id": "98fc06ee-c665-4a9e-871c-f6cf11a7800c",
+    "id": "66583787-f851-42ae-b8ce-c86ff2ae6cc5",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Fed Chair Kevin Warsh told Congress \"we do not want to be in the bailout business wholesale\" when asked if the Fed would rescue crypto or stablecoins during a run.",
@@ -188,145 +268,5 @@
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
     "author": "ashwin-ant",
     "created_at": "2026-07-14T23:45:25Z"
-  },
-  {
-    "id": "5ff8b4e4-07db-44f9-b02e-0634980791fe",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Lorde says AI glasses are ‘not sexy’",
-    "summary": "1. \"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-    "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-07-14T23:10:02.000Z"
-  },
-  {
-    "id": "1059664a-3cea-47c7-b269-95d7f3fbed56",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ ChatGPT has started displaying Kalshi's World Cup prediction market odds in search results, reportedly marking OpenAI's first deal with a prediction market platform.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7348509c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-14T23:07:16+00:00"
-  },
-  {
-    "id": "30f9c87b-895d-484b-8041-33f80c4fd64e",
-    "source": "Politico",
-    "type": "rss",
-    "title": "How to keep a soccer team alive in exile",
-    "summary": "1. Afghan women’s team captain Farkhunda Muhtaj talks about lobbying FIFA to officially recognize her squad.",
-    "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/afghanistan-fifa-women-soccer-team-exile-farkhunda-muhtaj-00997698",
-    "author": "By Ali Walker",
-    "created_at": "2026-07-14T22:45:00.000Z"
-  },
-  {
-    "id": "73cd02fd-5181-43af-899a-ad3b64f33f21",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Over 95% of Coinbase’s code is now written with help of AI",
-    "summary": "1. Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.",
-    "url": "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-14T22:30:00.000Z"
-  },
-  {
-    "id": "b59afc3e-b6dc-4559-88e3-21531537a0ef",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇺 The ECB has picked 36 firms, including Deutsche Bank and Revolut, for a 12-month digital euro pilot set to begin in H2 2027.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ae8886f4",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-14T22:27:16+00:00"
-  },
-  {
-    "id": "671cbcd3-5b41-4f4d-8d5f-8f39ca633bc2",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$65,000 Bitcoin@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#9a5141ba",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-14T22:23:45+00:00"
-  },
-  {
-    "id": "c1a1f116-e9c0-4720-9e76-0453117e80bd",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-    "summary": "1. The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
-    "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-07-14T22:22:24.000Z"
-  },
-  {
-    "id": "afccc28a-20ed-42e7-8629-31b0d6c22402",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran officially withdraws from commitments made under its MOU with the USTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#03fc1f95",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-14T22:06:04+00:00"
-  },
-  {
-    "id": "59e00f23-388d-4f07-9b7d-26dff203ae07",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "Argentine Judge Orders ID, Freeze of 25 LIBRA-Linked Crypto Wallets",
-    "summary": "1. The order targets holders at Binance, Bybit, OKX and Bitfinex, but analyst Fernando Molina says no funds have actually been frozen yet.",
-    "url": "https://thedefiant.io/news/regulation/argentine-judge-orders-id-freeze-of-25-libra-linked-crypto-wallets",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-14T22:04:32.000Z"
-  },
-  {
-    "id": "61dbbdfc-4dab-4c57-b204-cb5906ece306",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Iran vows to continue drone operations against US bases until final victory",
-    "summary": "According to Iran's Tasnim News Agency, the Iranian military has announced it will continue its drone operations targeting U.S. military bases in the region until a final victory is achieved.",
-    "url": "https://t.me/CoinnessGL#01522a5e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-14T22:02:42+00:00"
-  },
-  {
-    "id": "65dc7322-ad06-4caf-9277-b204b6fa4f6f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇯🇵 JCB, Japan's largest card network, has signed an MOU with Circle to explore stablecoin payments for its 40 million merchants.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c113565a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-14T21:57:19+00:00"
-  },
-  {
-    "id": "325fdc0d-06f9-4f7b-b7f0-53b9f2e584ba",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-    "summary": "1. A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning.\n2. OpenAI had basically disclosed the problem in June.",
-    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-    "author": "Julie Bort",
-    "created_at": "2026-07-14T21:50:11.000Z"
-  },
-  {
-    "id": "1aea1d67-d8cd-41bc-b0e1-ab223a4a3aca",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
-    "summary": "1. Senate Majority Leader John Thune reportedly said the chamber will consider a vote on the crypto market structure bill before Aug.\n2. 10, though it’s unclear whether it has enough Democratic support to pass.",
-    "url": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-14T21:30:26.000Z"
-  },
-  {
-    "id": "ca666b47-993d-4493-bf66-d12b33144e8f",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Senator Cynthia Lummis says the CLARITY Act is \"ready for prime time\" and will be introduced in the Senate \"in the next few days.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#68644869",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-14T21:27:19+00:00"
   }
 ]
