@@ -1,5 +1,45 @@
 [
   {
+    "id": "0b265487-a918-4afe-a0e7-d6aed72c648f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-15T03:26:29.000Z"
+  },
+  {
+    "id": "ac383a24-950e-4f96-bc01-aeb79a1f6bab",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trump holds meeting to discuss large-scale offensive against Iran",
+    "summary": "President Trump convened a meeting in the White House Situation Room on July 14 to discuss a large-scale offensive against Iran, Axios reported, citing three sources. The operation would reportedly be much broader in scope than the current airstrikes underway in the Strait of Hormuz area. Trump is said to be willing to escalate the conflict to exert enough pressure on the Iranian regime to open the Strait of Hormuz and accept his demands on its nuclear program.",
+    "url": "https://t.me/CoinnessGL#f2276df8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T03:12:11+00:00"
+  },
+  {
+    "id": "a0e80b1f-efd6-4fce-b9cf-3c1e8928123f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Crypto futures see over $256M in liquidations in 24 hours",
+    "summary": "24-hour crypto futures liquidationsThe following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $115.04 million liquidated (93.87% shorts)- ETH: $128.01 million liquidated (90.06% shorts)- ZEC: $13.31 million liquidated (96.2% shorts)",
+    "url": "https://t.me/CoinnessGL#a62d1999",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T03:08:50+00:00"
+  },
+  {
+    "id": "05a0e1ee-1825-4cdc-8b0e-582118ad3c59",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US Treasury adds crypto addresses to Cuba sanctions list",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has added cryptocurrency addresses on the Tron (TRX), Dogecoin (DOGE), Solana (SOL), Dash (DASH), Zcash (ZEC), and Litecoin (LTC) networks to its Cuba-related sanctions list, Livecoin reported. The sanctions target multiple trust funds and cryptocurrency wallets linked to the Cuban regime. These funds also include holdings in Bitcoin (BTC) and Ethereum (ETH).",
+    "url": "https://t.me/CoinnessGL#ffa5f984",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T03:04:17+00:00"
+  },
+  {
     "id": "2220fd1f-ba3a-44ec-b832-10fb5f8d966f",
     "source": "The Defiant",
     "type": "rss",
@@ -20,7 +60,7 @@
     "created_at": "2026-07-15T02:30:30.000Z"
   },
   {
-    "id": "cbd04bea-1b10-4be0-9350-4337fc24c8b6",
+    "id": "d15c0fa4-ebc5-42f3-98af-7534cf2aa698",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇨🇳 China's economy slows to the weakest in over 3 years as US-Iran war continues.@WatcherGuru",
@@ -130,7 +170,7 @@
     "created_at": "2026-07-15T00:27:04.000Z"
   },
   {
-    "id": "8e17d969-3a89-472a-a6e2-e99e3f4f7c85",
+    "id": "98fc06ee-c665-4a9e-871c-f6cf11a7800c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Fed Chair Kevin Warsh told Congress \"we do not want to be in the bailout business wholesale\" when asked if the Fed would rescue crypto or stablecoins during a run.",
@@ -160,7 +200,7 @@
     "created_at": "2026-07-14T23:10:02.000Z"
   },
   {
-    "id": "383f54cd-46ea-4594-a4f9-63fd64d4b958",
+    "id": "1059664a-3cea-47c7-b269-95d7f3fbed56",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ ChatGPT has started displaying Kalshi's World Cup prediction market odds in search results, reportedly marking OpenAI's first deal with a prediction market platform.",
@@ -190,7 +230,7 @@
     "created_at": "2026-07-14T22:30:00.000Z"
   },
   {
-    "id": "1d32b28d-7699-4ed0-98e6-c38830632af9",
+    "id": "b59afc3e-b6dc-4559-88e3-21531537a0ef",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇪🇺 The ECB has picked 36 firms, including Deutsche Bank and Revolut, for a 12-month digital euro pilot set to begin in H2 2027.",
@@ -200,7 +240,7 @@
     "created_at": "2026-07-14T22:27:16+00:00"
   },
   {
-    "id": "dbbfaa7d-0385-4890-a0dc-a3ec846b02d2",
+    "id": "671cbcd3-5b41-4f4d-8d5f-8f39ca633bc2",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "$65,000 Bitcoin@WatcherGuru",
@@ -220,7 +260,7 @@
     "created_at": "2026-07-14T22:22:24.000Z"
   },
   {
-    "id": "329669f5-a387-4c75-9245-d9685a3e4561",
+    "id": "afccc28a-20ed-42e7-8629-31b0d6c22402",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran officially withdraws from commitments made under its MOU with the USTwitter",
@@ -288,55 +328,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#68644869",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-14T21:27:19+00:00"
-  },
-  {
-    "id": "f9e0bab3-bfd1-4536-92a1-ac0564965b2f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "3 Dota 2 Survivors Advance as Rune Eaters Stuns Virtus.pro at EWC 2026",
-    "summary": "1. Team Liquid, Rune Eaters Esports, and LGD Gaming survived elimination Tuesday at the Esports World Cup 2026 Dota 2 tournament, while an integrity review postponed the remaining July 14 series.\n2. 3 Teams Keep Their Playoff Hopes Alive The Survival Stage at the Esports World Cup in Paris began with 12 teams competing for the tournament’s […]",
-    "url": "https://news.bitcoin.com/3-dota-2-survivors-advance-as-rune-eaters-stuns-virtus-pro-at-ewc-2026/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-14T21:15:44.000Z"
-  },
-  {
-    "id": "983308da-e407-4943-a59e-1c59621d8c1a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CFTC orders Kalshi to defy Michigan court's trade cancellation mandate",
-    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has ordered prediction market Kalshi not to cancel trades as previously mandated by a Michigan state court, which had banned the platform's sports betting activities last month.According to CoinDesk, the state court ordered Kalshi to halt online sports betting in June. Subsequently, on July 2, Kalshi filed an emergency request with the CFTC after the court directed it to void, cancel, and refund trades for some users in Michigan.CFTC Chairman Michael Selig stated that the agency will not allow state governments or courts to pressure CFTC-registered firms into violating the Commodity Exchange Act and CFTC regulations, adding that states do not have the right to interfere. He emphasized that canceling executed trades is an unprecedented measure that risks a chain reaction across the market, potentially creating uncertainty and undermining public trust. more:",
-    "url": "https://t.me/CoinnessGL#3e706f12",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-14T21:09:03+00:00"
-  },
-  {
-    "id": "5046f9d8-0c35-4faa-a10c-810a9ff593c4",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Spot the pol!",
-    "summary": "1. Study the photograph carefully.\n2. Only the political figure is missing.\n3. Guess who it is.",
-    "url": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/spot-the-pol-00997174",
-    "author": "By POLITICO Staff",
-    "created_at": "2026-07-14T20:58:48.000Z"
-  },
-  {
-    "id": "f1f49a17-eb3c-4798-8c6a-c45de0cd6aa7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚔️ Who reaches the World Cup final?🇫🇷 France — 60%🏴󠁧󠁢󠁥󠁮󠁧󠁿 England —...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#97c4c233",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-14T20:57:18+00:00"
-  },
-  {
-    "id": "43dd2b64-a180-4e9d-a759-d080bc9f93f4",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
-    "summary": "1. The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.",
-    "url": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-14T20:56:51.000Z"
   }
 ]
