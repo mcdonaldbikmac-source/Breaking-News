@@ -1,5 +1,85 @@
 [
   {
+    "id": "b1bb7cbf-0a51-4d47-a27e-927931e8a1fc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "UK plans first G7 digital sovereign bond by early 2027",
+    "summary": "1. The security will launch on HSBC’s Orion platform within the BoE and FCA’s Digital Securities Sandbox to test reduced settlement times and costs.",
+    "url": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-15T08:16:34.000Z"
+  },
+  {
+    "id": "a813a49a-dd5c-4fce-b189-b8450986e052",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "DePIN crypto market cap down 83% from all-time high",
+    "summary": "The total market capitalization of the Decentralized Physical Infrastructure (DePIN) sector has plummeted by 83% from its all-time high, CryptoRank reported on X. The sector, which reached a market cap of $20.2 billion in March 2024, has since fallen to $3.46 billion. The market cap has also declined by 23% since the beginning of the year. CryptoRank described the DePIN sector as the weakest among the major crypto narratives.",
+    "url": "https://t.me/CoinnessGL#c6279c7b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T08:16:33+00:00"
+  },
+  {
+    "id": "6b0aecf1-8095-43a6-95d3-37a863ddf67f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Nous Research, the company behind the Hermes agent, is in talks to raise at least $75M led by Robot Ventures at a $1.5B valuation, per TechCrunch.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#838076cd",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-15T08:07:18+00:00"
+  },
+  {
+    "id": "2957ea52-bb29-4652-9e91-d697e23b1bc3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Pharos launches on-chain private credit vault 'APC'",
+    "summary": "Pharos Network (PROS), a Layer 1 blockchain specializing in real-world asset (RWA) tokenization and artificial intelligence (AI), has announced the launch of the Axil Prime Credit Vault (APC), a product that brings institutional private credit strategies on-chain. The APC is a three-month lock-up vault with a maximum size of 100 million USDC and a target annual yield of up to approximately 14.3%. This yield is composed of an estimated 11.3% from underlying private credit returns and about 3% from Pharos's PROS token incentives. Asset management will be handled by Axil, while R25 Protocol will provide the RWA infrastructure to connect on-chain funds with off-chain credit assets. Pharos will oversee distribution and settlement. The APC will be integrated with OKX Wallet, Binance Wallet, TopNod, and KuCoin Wallet. Deposits can be made using native Pharos USDC or assets bridged from Ethereum.",
+    "url": "https://t.me/CoinnessGL#e83d9228",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T08:00:30+00:00"
+  },
+  {
+    "id": "66afeb31-85f5-472a-b1a8-5e3243c22f05",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "South Korea details crypto refund process for phishing victims",
+    "summary": "South Korea’s Financial Services Commission (FSC) has specified the procedure for refunding virtual assets to victims of voice phishing and other financial scams, SBS Biz reported. According to a proposed amendment to the enforcement decree of the Special Act on the Prevention of Telecommunications-based Financial Fraud and Damage Refund, if the recovered asset is monetary, it will be refunded by its currency value. If it is a virtual asset, it will be returned by its type and quantity. In cases where the asset stolen from a victim differs from the asset remaining in a frozen fraudulent account, the refund will be made in the form of the asset present in the account at the time of the freeze. The FSC also plans to establish requirements for designating a dedicated institution to support the sale of virtual assets eligible for refunds. The amended decree is scheduled to take effect on Oct. 1, coinciding with the law's implementation date. more:",
+    "url": "https://t.me/CoinnessGL#1834270d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-15T07:43:24+00:00"
+  },
+  {
+    "id": "29cfd920-f013-4d7f-9de5-08b510f78ce0",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Stripe and Advent have offered $53B to acquire PayPal at $60.50 per share, a 28% premium, with PayPal’s board yet to respond | per ReutersTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#bb38bb8b",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-15T07:42:07+00:00"
+  },
+  {
+    "id": "1ee5ec4f-4a7d-4216-b270-f691aa2b653e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Tether led a $7M Series A in Pact Labs to boost adoption of its USAT stablecoin.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f930c3c9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-15T07:37:18+00:00"
+  },
+  {
+    "id": "65e54b12-14c4-47ae-821c-f5b4e4e994bd",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Morgan Stanley Updates Ethereum and Solana ETF Filings as Coinbase Takes Custody and Staking Role",
+    "summary": "1. Morgan Stanley has filed fresh amendments to its spot ether and solana exchange-traded fund (ETF) applications, naming Coinbase as custodian and staking facilitator.\n2. The updates mark the banking giant’s third round of revisions since its January debut filings.\n3. An Update With Major Implications The Wall Street bank updated its S-1 registration statements for the proposed […]",
+    "url": "https://news.bitcoin.com/morgan-stanley-ether-solana-etf-coinbase-custody/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-15T07:30:08.000Z"
+  },
+  {
     "id": "e966ebe0-bddd-418e-8dba-f318aadd7386",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -40,7 +120,7 @@
     "created_at": "2026-07-15T06:55:46.000Z"
   },
   {
-    "id": "981becb7-cd56-4c6f-9985-315d24974b3c",
+    "id": "c0415ae2-518d-46dd-a138-6b4ea39fcdc1",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Galaxy has launched GOFR, a managed borrowing product blending rates from Aave, Morpho, Spark, Kamino and other DeFi protocols into one optimized rate.",
@@ -180,7 +260,7 @@
     "created_at": "2026-07-15T04:55:45+00:00"
   },
   {
-    "id": "4c098992-2d8c-4e89-b507-968e269dc375",
+    "id": "dbae93ea-048f-4560-b1e8-42e93e72e674",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Stripe and Advent offer to buy PayPal $PYPL for $53 billion, Reuters reports.@WatcherGuru",
@@ -268,95 +348,5 @@
     "url": "https://news.bitcoin.com/arch-cto-himanshu-sahay-says-bitcoin-validates-rules-not-motives-as-bip-110-rift-deepens/",
     "author": "Terence Zimwara",
     "created_at": "2026-07-15T02:30:30.000Z"
-  },
-  {
-    "id": "d523d4f3-98f6-41ea-9f86-f1dbcc4d4c9f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇨🇳 China's economy slows to the weakest in over 3 years as US-Iran war continues.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#03dad25d",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-15T02:11:13+00:00"
-  },
-  {
-    "id": "ac6c001b-4833-41a2-b58f-8df658c34f4e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitmine's ETH staking revenue hits $45.7M, making up 98% of Q2 total",
-    "summary": "Bitmine (BMNR) generated $45.7 million in revenue from its Ethereum (ETH) staking and validation business for the quarter ending May 31, accounting for approximately 98% of its total revenue, Cointelegraph reported. In contrast, the company's Bitcoin (BTC) self-mining revenue was $624,000, and consulting revenue was $168,000 during the same period. The report noted that Bitmine's business model has rapidly shifted toward ETH since the launch of its institutional staking platform, MAVAN, in March. Bitmine Chairman Tom Lee stated that the company now stakes the most ETH globally. He projected that if Bitmine stakes its entire ETH holdings through MAVAN and its partners, annual staking rewards could reach approximately $284 million.",
-    "url": "https://t.me/CoinnessGL#84ef43b0",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-15T02:00:31+00:00"
-  },
-  {
-    "id": "23565976-253b-401d-850d-ac1765b2235a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Dogecoin popularized meme coin investing, now faces value creation challenge",
-    "summary": "Cryptocurrency influencer Ansem argued that Dogecoin's (DOGE) success is due to its ability to attract a new class of investors who resonate with internet culture and memes. In a post on X, Ansem noted that while average users spend four to six hours a day on social media like TikTok, Instagram, and X, they only use banking apps for an average of five minutes daily. He stated that people's attention and time are concentrated on online culture. According to Ansem, Dogecoin drew people into the market who had no prior stock investing experience, with its combination of famous figures and internet memes stimulating investment sentiment. As Dogecoin's market cap grew, institutional investors began to participate, expanding its community. He asserted that cryptocurrency is one of the few markets where one can invest in social and cultural trends in a tokenized form, adding that the next challenge is to build a structure that connects retail investor interest to sustainable value creation.",
-    "url": "https://t.me/CoinnessGL#5cc694cb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-15T02:00:14+00:00"
-  },
-  {
-    "id": "b52a775e-7709-4444-a3c3-1e1369cd571f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "How Asset Managers Are Investing in Crypto",
-    "summary": "1. Asset managers invest in crypto mainly through regulated products: spot ETFs, digital asset funds, tokenized funds, qualified custodians, and blockchain company equity.\n2. Most invest on behalf of clients rather than for their own accounts.\n3. Their aim is to deliver digital asset exposure inside the brokerage, retirement, and advisory structures clients already use, with the custody, […]",
-    "url": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-07-15T01:55:20.000Z"
-  },
-  {
-    "id": "a35145e4-556a-4550-b03e-3ab63e6cc28b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin vs Gold as a Reserve Asset",
-    "summary": "1. A reserve asset is something an institution or government holds to preserve value, provide liquidity, and act as a store of wealth outside its day-to-day operating currency.\n2. Bitcoin and gold are both treated as reserve assets because each is scarce, hard to counterfeit, and independent of any single company’s performance.\n3. Gold has filled that role […]",
-    "url": "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-07-15T01:52:59.000Z"
-  },
-  {
-    "id": "00d47ec3-a36f-46ec-aedb-7670d8e3777f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
-    "summary": "1. Ark Invest bought $14 million worth of Circle and $1.5 million worth of Block Inc., while selling $3.2 million worth of Robinhood.",
-    "url": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-15T01:52:11.000Z"
-  },
-  {
-    "id": "8b63ac89-8a4c-4626-b78e-6e592634b89a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Argentine financial giant Grupo BIND partners with Circle to offer USDC to institutions",
-    "summary": "Argentine financial giant Grupo BIND has partnered with Circle to provide USDC to local institutions, Circle CEO Jeremy Allaire announced on X. Allaire added that the partnership is expected to increase liquidity between USDC and the Argentine peso (ARS).",
-    "url": "https://t.me/CoinnessGL#4f74eb1c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-15T01:41:57+00:00"
-  },
-  {
-    "id": "e4cd3edc-beaf-40a1-801b-ce233f47924c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP FOMO Rises as Crypto Sentiment Turns Bullish Despite Price Dip",
-    "summary": "1. XRP-related sentiment has reached a five-week high, according to Santiment’s analysis, as bullish commentary accelerates despite price weakness.\n2. Market participants are showing increased optimism while payments-related developments continue to shape discussions around XRP’s future opportunity.\n3. XRP FOMO Rises as Investors Focus on a Bigger Payments Opportunity XRP sentiment has shifted sharply as bullish commentary around […]",
-    "url": "https://news.bitcoin.com/xrp-fomo-rises-as-crypto-sentiment-turns-bullish-despite-price-dip/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-15T01:30:48.000Z"
-  },
-  {
-    "id": "947d2aa3-84da-41f2-8398-9e3dc63d15ad",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitmine generated $46M from Ethereum staking last quarter",
-    "summary": "1. Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its March validator launch.",
-    "url": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-15T01:28:14.000Z"
   }
 ]
