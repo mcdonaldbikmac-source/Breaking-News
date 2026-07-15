@@ -1,5 +1,25 @@
 [
   {
+    "id": "2bd0ac26-e699-4d77-b329-9a9262966671",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Argentine Judge Orders ID, Freeze of 25 LIBRA-Linked Crypto Wallets",
+    "summary": "1. The order targets holders at Binance, Bybit, OKX and Bitfinex, but analyst Fernando Molina says no funds have actually been frozen yet.",
+    "url": "https://thedefiant.io/news/regulation/argentine-judge-orders-id-freeze-of-25-libra-linked-crypto-wallets",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-15T05:39:02.000Z"
+  },
+  {
+    "id": "575ca08a-b3a1-4b92-853d-cc7647bc0568",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Americans Have Been Paying Less for Bitcoin Than the Rest of the World for 50 Straight Days",
+    "summary": "1. Bitcoin has traded at a discount on Coinbase versus Binance for 50 straight days, with the Coinbase Bitcoin Premium Index still negative as of July 7-8, the longest streak on record.\n2. The latest reading of -0.0742% shows BTC slightly cheaper on the U.S.\n3. exchange, a sign of weaker American demand that has coincided with roughly […]",
+    "url": "https://news.bitcoin.com/americans-have-been-paying-less-for-bitcoin-than-the-rest-of-the-world-for-50-straight-days-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-15T05:30:33.000Z"
+  },
+  {
     "id": "b34c8ad7-9d19-4f4a-bd3f-72de7d115770",
     "source": "CoinDesk",
     "type": "rss",
@@ -20,7 +40,7 @@
     "created_at": "2026-07-15T05:10:00.000Z"
   },
   {
-    "id": "0d717b30-cc7a-426c-bab7-9f898984ea7b",
+    "id": "3e260200-7acd-4116-9ecb-2770be3b9e0a",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Iran's IRGC claims destruction of US military assets in Kuwait",
@@ -30,7 +50,7 @@
     "created_at": "2026-07-15T05:00:33+00:00"
   },
   {
-    "id": "a9189410-eb85-44ef-a2a5-44745e771e71",
+    "id": "75bcf476-f0c6-4428-8045-423caabce7c9",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "South Korean crypto tax repeal debate stalls as tax agency pushes ahead",
@@ -40,7 +60,7 @@
     "created_at": "2026-07-15T05:00:14+00:00"
   },
   {
-    "id": "808b0f41-81fa-435a-89fd-a40b3f90300a",
+    "id": "54df5c01-a43e-4ee1-96f4-9eede1ffd1fa",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Aave adopts Chainlink CCIP as its cross-chain standard",
@@ -50,7 +70,7 @@
     "created_at": "2026-07-15T04:55:45+00:00"
   },
   {
-    "id": "3ce1db71-ba65-4319-8266-d3d5ace1dcbc",
+    "id": "e6d61412-cf05-4d91-87d4-a043de27a8e2",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Stripe and Advent offer to buy PayPal $PYPL for $53 billion, Reuters reports.@WatcherGuru",
@@ -140,7 +160,7 @@
     "created_at": "2026-07-15T02:30:30.000Z"
   },
   {
-    "id": "db1287b0-4957-44ba-b5ce-35de90db3f1d",
+    "id": "0a065e91-2797-493c-a124-59469bc0891f",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇨🇳 China's economy slows to the weakest in over 3 years as US-Iran war continues.@WatcherGuru",
@@ -250,7 +270,7 @@
     "created_at": "2026-07-15T00:27:04.000Z"
   },
   {
-    "id": "66583787-f851-42ae-b8ce-c86ff2ae6cc5",
+    "id": "9353e9c0-089c-47e0-a4cb-63a4c9b94f6f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Fed Chair Kevin Warsh told Congress \"we do not want to be in the bailout business wholesale\" when asked if the Fed would rescue crypto or stablecoins during a run.",
