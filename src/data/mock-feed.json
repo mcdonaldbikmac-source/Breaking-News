@@ -1,5 +1,85 @@
 [
   {
+    "id": "a55dd9aa-eefb-4ad4-b51d-3c66306619f4",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-16T03:18:03.000Z"
+  },
+  {
+    "id": "681df05a-ccea-4c6e-994f-5ed129b5df26",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bankless host says ETH still below his sell price amid taunts he sold the bottom",
+    "summary": "Bankless host David Hoffman, who announced in mid-May that he had sold all his Ethereum (ETH), has responded to users taunting him for selling at the bottom. He stated on X that the token is still trading below his average selling price. ETH was trading between $2,100 and $2,150 on May 21, the day he announced the sale. According to CoinMarketCap, ETH is currently trading at $1,923.40, up 3.16% over the past 24 hours. more:",
+    "url": "https://t.me/CoinnessGL#c2eb186c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T03:07:40+00:00"
+  },
+  {
+    "id": "f2bb5013-414a-4fa2-b7da-aa4ed821e343",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "24-hour crypto futures liquidations",
+    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $57.55 million liquidated (73.55% shorts)- ETH: $111.72 million liquidated (82.56% shorts)- SPCX: $8.14 million liquidated (96.31% longs)",
+    "url": "https://t.me/CoinnessGL#ca825c6a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T03:01:07+00:00"
+  },
+  {
+    "id": "065a8a2b-8663-4e1f-93b9-f33d23ea5abc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Glacis Labs raises $6.8M in seed funding",
+    "summary": "Glacis Labs, the developer behind the crypto settlement platform ZeroDelta, has raised $6.8 million in a seed funding round, according to The Block. The round was led by Lightspeed Faction, with participation from Franklin Templeton, Coinbase Ventures, Again (formerly IDC Ventures), Protein Capital, and Tectony Ventures. The specific use of the funds was not disclosed.",
+    "url": "https://t.me/CoinnessGL#bcdcd81e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T02:59:48+00:00"
+  },
+  {
+    "id": "346737f6-6793-41f7-889c-b1576256802d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bank of Tanzania Targets Crypto as Governor Warns of Terror Finance Risks",
+    "summary": "1. The Bank of Tanzania is reportedly finalizing a new regulatory framework to oversee cryptocurrencies and stablecoins.\n2. Protecting Young Investors Tanzania’s central bank is preparing a new regulatory framework for digital assets as authorities move to strengthen oversight of a rapidly expanding market and protect investors, Bank of Tanzania Governor Emmanuel Tutuba said this week.\n3. Tutuba, […]",
+    "url": "https://news.bitcoin.com/bank-of-tanzania-targets-crypto-as-governor-warns-of-terror-finance-risks/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-16T02:45:16.000Z"
+  },
+  {
+    "id": "57490f6c-6208-46fa-a757-47462aad0ad2",
+    "source": "The Block",
+    "type": "rss",
+    "title": "California pair charged with laundering crypto proceeds from darknet fentanyl sales",
+    "summary": "1. The pair allegedly shipped over 500 drug parcels over a seven-month period and laundered hundreds of thousands of dollars through crypto.",
+    "url": "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-16T02:23:34.000Z"
+  },
+  {
+    "id": "8fe4320f-0c3e-45f8-9008-3a3ea1182650",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Strategy CEO Phong Le says the company feels \"very secure about the balance sheet\" and isn't worried about its debt risk unless Bitcoin falls to $8,000-$10,000.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#cf668e94",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-16T02:20:26+00:00"
+  },
+  {
+    "id": "26827ed5-0313-42aa-84e3-24063b8434e3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Whales Are Not Selling Over Quantum Fears, Analyst Says",
+    "summary": "1. Bitcoin whales have not identified quantum computing risks as a reason for selling, according to Galaxy Digital, while institutional investors have flagged quantum concerns as a reason to avoid buying the crypto asset.\n2. Quantum Fears Appear to Be Influencing Buyers, Not Bitcoin Sellers Bitcoin’s largest holders have not attributed selling activity to quantum computing risks, […]",
+    "url": "https://news.bitcoin.com/bitcoin-whales-are-not-selling-over-quantum-fears-analyst-says/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-16T02:05:32.000Z"
+  },
+  {
     "id": "7fb6dceb-c740-4cc0-a3c3-45c8d930436a",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -40,7 +120,7 @@
     "created_at": "2026-07-16T01:04:23+00:00"
   },
   {
-    "id": "fd54d2b6-2568-44ca-9180-2e2ec356511a",
+    "id": "60e0a1e8-f4d1-4730-a037-10a0e13102bd",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇰🇷 South Korea plans to classify crypto as long-term national wealth under a new National Asset Basic Act covering roughly $940B in state assets.",
@@ -90,7 +170,7 @@
     "created_at": "2026-07-16T00:20:42.000Z"
   },
   {
-    "id": "5c4d4e41-9e53-46b4-82b3-0e831ef732c2",
+    "id": "41416886-16df-4f8e-a640-3b18aa3289a7",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Securitize and Cantor Fitzgerald are partnering to build a framework for tokenized IPOs and follow-on equity offerings that stays within existing public-market regulations.",
@@ -110,7 +190,7 @@
     "created_at": "2026-07-15T23:59:44.000Z"
   },
   {
-    "id": "6a5837e1-50bc-4968-9716-8e5a01726c89",
+    "id": "77e7b69f-d51b-498f-9d6a-c01c0378785b",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 White House shares \"Trump Coin\" video.@WatcherGuru",
@@ -238,175 +318,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#43ea02c3",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-15T21:27:32+00:00"
-  },
-  {
-    "id": "0d8eabe1-2adc-4ede-92b1-a85f012b13e5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock, CME, Goldman, JPMorgan, NYSE, Nasdaq, Vanguard Among 30+ Firms in DTCC’s Successful Tokenized Trade Test",
-    "summary": "1. More than 30 traditional finance and digital asset firms joined a live DTCC tokenization event that moved securities held at its central depository onto blockchain networks for real institutional transactions.\n2. Why Did More Than 30 Firms Join DTCC’s Tokenization Test?\n3. The Depository Trust & Clearing Corporation (DTCC) announced on July 15, 2026, that securities held […]",
-    "url": "https://news.bitcoin.com/blackrock-cme-goldman-jpmorgan-nyse-nasdaq-vanguard-among-30-firms-in-dtccs-successful-tokenized-trade-test/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-15T21:13:04.000Z"
-  },
-  {
-    "id": "15988cd4-db98-464c-80da-4ba329e1b724",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Strategy CEO says company isn’t going anywhere as bitcoin buyer, sees debt concerns only below $10,000 BTC",
-    "summary": "1. Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.",
-    "url": "https://www.theblock.co/post/408532/strategy-ceo-bitcoin-debt-concerns-btc-interview?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-15T21:08:05.000Z"
-  },
-  {
-    "id": "5ec6561a-a87d-4a12-b140-b6d9fc7c539c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BlackRock CEO says BTC leverage has stabilized after major correction",
-    "summary": "BlackRock CEO Larry Fink said in an interview with CNBC that he is no longer concerned about excessive leverage in the Bitcoin market. He added that the cryptocurrency market has stabilized considerably as speculative positions have been liquidated.",
-    "url": "https://t.me/CoinnessGL#bcf44a6f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-15T21:07:30+00:00"
-  },
-  {
-    "id": "67ad275e-635d-4fcf-a3bc-7624ff27f3ec",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US Treasury freezes $130M in crypto wallets linked to Iran's central bank",
-    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has frozen over $130 million from multiple cryptocurrency wallets linked to the Central Bank of Iran. U.S. Treasury Secretary Scott Bessent announced the move, adding that the department will continue to track fund flows to prevent the Iranian regime from accessing illicitly generated revenue.",
-    "url": "https://t.me/CoinnessGL#049bc69b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-15T21:05:17+00:00"
-  },
-  {
-    "id": "3c8ea959-5ac2-42e8-b489-cfe67f5604de",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin to $40,000? If History’s Anything to Go By, It’s Possible, Says Report",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin to $40,000?\n2. If History’s Anything to Go By, It’s Possible, Says Report\nBitcoin could drop as low as $38,000 this year, a new report claims.\n3. This post Bitcoin to $40,000?",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-15T21:04:16.000Z"
-  },
-  {
-    "id": "470271b7-afdc-4f8c-8046-bafd52655564",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇬🇧 The UK plans to issue its first digital sovereign bond by early 2027, becoming the first G7 nation to place government debt on a distributed ledger, per Chancellor Rachel Reeves.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#5fce6ffa",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-15T20:57:31+00:00"
-  },
-  {
-    "id": "1f2cbbc8-bbae-447c-a59d-91a3946eac69",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
-    "summary": "1. OpenAI said its new automated red-teaming model, GPT-Red, uncovered vulnerabilities that were used to make GPT-5.6 more resistant to prompt injection attacks.",
-    "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-15T20:50:11.000Z"
-  },
-  {
-    "id": "b3113cce-6ac0-4d55-a9f8-cea2213da7ca",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Trading soccer shirts",
-    "summary": "1. Trading soccer shirts",
-    "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/britain-argentina-trade-relationship-fifa-world-cup-00999890",
-    "author": "By Sophie Inge",
-    "created_at": "2026-07-15T20:26:55.000Z"
-  },
-  {
-    "id": "bd9ed82d-cce2-4f14-aca8-bc65ae4bdc9b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-    "summary": "1. The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-    "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-07-15T20:22:52.000Z"
-  },
-  {
-    "id": "9a4ade8e-25bb-40cc-a789-1b7923fae094",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Gathering of Latino-American politicians shows little love for Argentina",
-    "summary": "1. It was easier to pick out England supporters the crowd of Latino pols.",
-    "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/latino-pols-pick-england-over-argentina-naleo-los-angeles-00999870",
-    "author": "By Marisa Guerra Echeverria",
-    "created_at": "2026-07-15T20:21:35.000Z"
-  },
-  {
-    "id": "72e89f19-db6f-46e5-ad7b-0fd8634334c3",
-    "source": "Politico",
-    "type": "rss",
-    "title": "A British diplomat with a diplomatic answer",
-    "summary": "1. \"Will winning feel better than winning the Falklands War?\" our foreign-affairs columnist asks.",
-    "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
-    "author": "By Nahal Toosi",
-    "created_at": "2026-07-15T20:20:51.000Z"
-  },
-  {
-    "id": "67fdc9ed-a2f0-4938-ac84-f56879f3ba7d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
-    "summary": "1. Pollak said that Jordan Fish, also known on X as 'Cobie,' will lead the Base app team.",
-    "url": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
-    "author": "Margaux Nijkerk",
-    "created_at": "2026-07-15T20:18:02.000Z"
-  },
-  {
-    "id": "e0b811fb-5b7d-4e5d-b466-5aff8eba116b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Morgan Stanley has amended its spot Ethereum and Solana ETF filings, naming Coinbase as custodian and staking facilitator alongside BNY Mellon as a joint custodian.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#24ea5ff9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-15T20:17:49+00:00"
-  },
-  {
-    "id": "1772d994-ae1b-4453-a7ea-75b39c201873",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US and UK Back Shared Stablecoin Rules to Boost Cross-Border Digital Payments",
-    "summary": "1. governments have issued a shared view on stablecoins through their Transatlantic Taskforce for Markets of the Future.\n2. The statement signals a push toward aligned rules for reserves, redemption, market access and cross-border use.\n3. Transatlantic Taskforce Backs U.K.-U.S.",
-    "url": "https://news.bitcoin.com/us-and-uk-back-shared-stablecoin-rules-to-boost-cross-border-digital-payments/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-15T20:17:31.000Z"
-  },
-  {
-    "id": "a9af0ad0-c212-439f-9551-386552d52715",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-15T20:13:29.000Z"
-  },
-  {
-    "id": "8b35b55b-fce3-482e-b38d-849efb06f7ed",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
-    "summary": "1. Researchers found that Polymarket’s five-minute Bitcoin prediction markets create incentives to manipulate spot prices around contract settlement, proposing longer settlement windows as a potential fix.",
-    "url": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-15T20:05:08.000Z"
-  },
-  {
-    "id": "c3c1bc4a-0919-4e35-9657-a549bd259872",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
-    "summary": "1. PrismML's Bonsai 27B runs full reasoning AI on an iPhone for free.\n2. We tested it, and it's as impressive as it sounds.",
-    "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-15T19:55:41.000Z"
   }
 ]
