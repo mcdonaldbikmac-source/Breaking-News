@@ -1,6 +1,56 @@
 [
   {
-    "id": "195fe297-1ebc-48e3-80b1-a5e4e684ee70",
+    "id": "283e3f7b-571d-4fce-a20d-bc5d899dc9e7",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-16T11:05:19.000Z"
+  },
+  {
+    "id": "2f083b7b-d5d0-4f1a-9749-b7988b8d64eb",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🚀 SpaceX went public on Nasdaq under the ticker SPCX, and its stock also trades on-chain.",
+    "summary": "Pull the tokenized SpaceX RWA from the CoinMarketCap Pro API in 4 steps:🔹 Resolve the rwa_id🔹 Get the metadata🔹 Trace the SPCX token🔹 Price it live🛠️ Build with CMC:",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1b943682",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-16T11:05:08+00:00"
+  },
+  {
+    "id": "d80b6972-b1fa-494f-853e-1d61c2dc7028",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+    "summary": "1. The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
+    "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-16T11:00:00.000Z"
+  },
+  {
+    "id": "08776d9e-4901-497d-bfad-4a0b1850466e",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto",
+    "summary": "1. Zyaire Wilkins allegedly procured malware hidden in video games that infected 8,000 devices and broke into 80 crypto wallets, the FBI says.",
+    "url": "https://decrypt.co/373631/feds-arrest-florida-man-over-video-game-malware-that-stole-220k-in-crypto",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-16T10:54:08.000Z"
+  },
+  {
+    "id": "0dbead89-4cb0-4490-8b94-e3ab1caf1931",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Robinhood Chain sees 50,000 new meme coins daily, outlet reports",
+    "summary": "The Robinhood Chain launchpad has hit a new activity record, issuing approximately 50,000 tokens per day, but only 19 meme coins have surpassed a market capitalization of $1 million, U.Today reported. According to the outlet, daily trading volume for Pons-family assets has exceeded $82 million, and Flap launched around 22,000 tokens on July 14, breaking Noxa's previous record of about 18,000. Of the 19 meme coins with a market cap over $1 million, 11 were issued by Noxa and five by Virtuals. U.Today noted that since the launchpad is virtually free and supports automated issuance, a single developer or bot operator can create thousands of tokens without any real increase in demand. The report concluded that despite a surge in new launchpads, success remains concentrated among established players, with most tokens remaining temporary, illiquid experiments.",
+    "url": "https://t.me/CoinnessGL#d820804e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T10:51:51+00:00"
+  },
+  {
+    "id": "55ae1ad2-e808-45af-bcb1-5d2609b9d414",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Bets grow on BTC rising to $72K by end of July",
@@ -10,7 +60,7 @@
     "created_at": "2026-07-16T10:50:13+00:00"
   },
   {
-    "id": "3d21e427-fc8c-4998-abbc-45f976fba4c9",
+    "id": "ec1ba674-7af0-49b1-95ff-6eb319228657",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Trump urges NY to lift data center permit ban; Terawulf stock drops 7%",
@@ -50,7 +100,7 @@
     "created_at": "2026-07-16T10:33:34.000Z"
   },
   {
-    "id": "43893689-922d-412f-a40a-6d21f0244ceb",
+    "id": "f67bf1d8-2ab3-459d-bc2d-3c4cfd332182",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 William Blair cut its Coinbase revenue and EBITDA forecasts but kept an Outperform rating, saying the crypto downturn should bottom out later this year before recovering in 2027.",
@@ -90,7 +140,7 @@
     "created_at": "2026-07-16T10:07:06.000Z"
   },
   {
-    "id": "2932494a-3449-4d9f-9184-d5b8e353b72f",
+    "id": "7aaa96ed-ae4e-4f58-a936-83b8865a978c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "show me your setup 😎 I will rate it.",
@@ -280,7 +330,7 @@
     "created_at": "2026-07-16T07:30:00.000Z"
   },
   {
-    "id": "b16a4cb2-1aaa-4677-8da8-ab89f8cedb26",
+    "id": "0f434cff-142d-46a0-ad5e-435354c9d374",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "South Korea temporarily halts new single-stock leveraged ETFs and raises minimum deposit requirements for leveraged chip fundsTwitter",
