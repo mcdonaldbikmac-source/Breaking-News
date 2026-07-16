@@ -1,5 +1,105 @@
 [
   {
+    "id": "374a8a4d-09bb-42a9-a2e7-34eb1cf83ae4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Two Groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+    "summary": "1. Bitcoin surges toward $65,000 on softer-than-expected inflation data, but on-chain signals show two key investor groups selling into the bounce.",
+    "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-16T04:09:10.000Z"
+  },
+  {
+    "id": "c4e73eee-6adb-48c6-b4e3-6b12290489a0",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Dems have a big cash advantage in key Senate races",
+    "summary": "1. Except in Maine and Michigan, where the primaries have gotten messy for them.",
+    "url": "https://www.politico.com/news/2026/07/16/democrats-senate-map-cash-advantage-elections-01000497",
+    "author": "By Jessica Piper and Lisa Kashinsky",
+    "created_at": "2026-07-16T04:05:46.000Z"
+  },
+  {
+    "id": "550f2fe2-28e4-40bd-a5d2-7536fcdc839d",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
+    "summary": "1. Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+    "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+    "author": "Anna Heim",
+    "created_at": "2026-07-16T04:00:00.000Z"
+  },
+  {
+    "id": "347f8ff5-81b7-4887-833a-e9f94597fbae",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "summary": "1. Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "author": "Ram Iyer",
+    "created_at": "2026-07-16T04:00:00.000Z"
+  },
+  {
+    "id": "c8ff8568-1047-4387-b7ce-5cdbd4d05f9b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US Ethereum spot ETFs see $53.9M net inflow",
+    "summary": "U.S. Ethereum spot ETFs recorded a net inflow of $53.9 million on July 15, marking the second consecutive day of inflows, according to data from Farside Investors.- BlackRock ETHA: +$45.3 million- BlackRock Staking ETHB: +$4.0 million- Grayscale Mini ETH: +$4.6 million",
+    "url": "https://t.me/CoinnessGL#56cab9b4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T03:59:20+00:00"
+  },
+  {
+    "id": "958b6e99-0c8b-42e8-a0ad-2acd0b764257",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US spot Bitcoin ETFs see $107.7M net inflow",
+    "summary": "U.S. spot Bitcoin ETFs recorded a net inflow of $107.7 million (159.7 billion won) on July 15, according to data from Farside Investors. This marks the second consecutive day of net inflows.- BlackRock's IBIT: +$80.8 million- Fidelity's FBTC: +$16.9 million- Grayscale's Mini BTC: +$10 million",
+    "url": "https://t.me/CoinnessGL#75464ab0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T03:58:25+00:00"
+  },
+  {
+    "id": "ae8511a0-d7a4-4a62-898c-e6de80372620",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Solana-based RWA token holders surpass 300,000",
+    "summary": "The number of holders of real-world asset (RWA) tokens issued on Solana has surpassed 300,000, reaching an all-time high, Cointelegraph reported. This marks the largest number of RWA holders on any single blockchain.",
+    "url": "https://t.me/CoinnessGL#98581471",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T03:48:49+00:00"
+  },
+  {
+    "id": "f9bc76d6-4149-4ae8-a5c2-89cd5d218439",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Glassnode says top traders on Hyperliquid are showing some of the most aggressive Bitcoin long positioning on record, exceeding levels seen during the last run to $83K.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ce64ece5",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-16T03:45:10+00:00"
+  },
+  {
+    "id": "68b200af-f796-4bd4-9a02-30b1feb6047e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Cleanspark Lands $6.6B AI Lease as 20-Year Deal Reshapes Bitcoin Mining Strategy",
+    "summary": "1. Cleanspark has signed a 20-year triple-net lease at its Sandersville, Georgia, campus, expected to generate $6.6 billion in contracted revenue.\n2. The tenant has also secured exclusivity over Cleanspark’s 885 MW Texas portfolio, signaling a broader artificial intelligence (AI) infrastructure partnership.\n3. Cleanspark Turns Georgia Mining Site Into 175 MW AI Campus With $6.6B Lease Cleanspark is […]",
+    "url": "https://news.bitcoin.com/cleanspark-lands-6-6b-ai-lease-as-20-year-deal-reshapes-bitcoin-mining-strategy/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-16T03:30:38.000Z"
+  },
+  {
+    "id": "99967f25-728b-4a8a-931e-9507c6c6117f",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Cassie Heart: https://shorturl.at/TM1Y1 ouliposting-5.6-sol",
+    "summary": "1. ouliposting-5.6-sol",
+    "url": "https://warpcast.com/cassie/0x593a393d",
+    "author": "Cassie Heart",
+    "created_at": "2026-07-16T03:26:15.000Z"
+  },
+  {
     "id": "a55dd9aa-eefb-4ad4-b51d-3c66306619f4",
     "source": "The Defiant",
     "type": "rss",
@@ -60,7 +160,7 @@
     "created_at": "2026-07-16T02:23:34.000Z"
   },
   {
-    "id": "8fe4320f-0c3e-45f8-9008-3a3ea1182650",
+    "id": "533157df-a26d-4072-82f5-4b0a1d080fa3",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Strategy CEO Phong Le says the company feels \"very secure about the balance sheet\" and isn't worried about its debt risk unless Bitcoin falls to $8,000-$10,000.",
@@ -120,7 +220,7 @@
     "created_at": "2026-07-16T01:04:23+00:00"
   },
   {
-    "id": "60e0a1e8-f4d1-4730-a037-10a0e13102bd",
+    "id": "dcff3ad2-bc0d-459f-9591-9a8d2cfa6135",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇰🇷 South Korea plans to classify crypto as long-term national wealth under a new National Asset Basic Act covering roughly $940B in state assets.",
@@ -190,7 +290,7 @@
     "created_at": "2026-07-15T23:59:44.000Z"
   },
   {
-    "id": "77e7b69f-d51b-498f-9d6a-c01c0378785b",
+    "id": "6d88c296-77ed-4a17-bfbc-3aa6f19adf7c",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 White House shares \"Trump Coin\" video.@WatcherGuru",
@@ -248,75 +348,5 @@
     "url": "https://trumpstruth.org/statuses/40067",
     "author": "Trump Truth",
     "created_at": "2026-07-15T22:54:07.000Z"
-  },
-  {
-    "id": "096ad462-5b43-413c-96c3-8a32062ce0bc",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-15T22:07:36.000Z"
-  },
-  {
-    "id": "b761a46e-167c-4d4a-9cfa-0e7ac751e149",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-15T22:07:36.000Z"
-  },
-  {
-    "id": "ead9aeda-cffb-4ce6-8840-890fcf75e4cf",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says",
-    "summary": "1. \"Within the next few years the majority of money will live and move on blockchain in one form or another,\" according to Polygon Labs.",
-    "url": "https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-15T21:41:07.000Z"
-  },
-  {
-    "id": "e2365adb-9f88-450d-abcf-dd6fe57166d6",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
-    "summary": "1. William Blair slashed earnings estimates by 34% and held its Outperform call.\n2. But analysts think Bitcoin's chart may already be answering the bigger question.",
-    "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-15T21:38:43.000Z"
-  },
-  {
-    "id": "f4ee149e-f215-4845-bd17-06f189cea01e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Public Hyperliquid treasury firm Hyperion enters into new 500k HYPE bond agreement with Skew",
-    "summary": "1. Hyperion will deploy 500,000 tokens to Skew through a HYPE Asset Use Service (HAUS) agreement in exchange for equity and revenue share.",
-    "url": "https://www.theblock.co/post/408538/hyperliquid-treasury-firm-hyperion-new-500k-hype-bond-skew?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-15T21:33:12.000Z"
-  },
-  {
-    "id": "54dd3823-da2b-4e2b-88d5-67d5614cbf8e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DEXE risen 4.06% in the past 5 minutes",
-    "summary": "DEXE has risen by 4.06% in the past five minutes on the COINNESS market. Currently, DEXE is trading at $38.12.",
-    "url": "https://t.me/CoinnessGL#c5855f4c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-15T21:29:48+00:00"
-  },
-  {
-    "id": "a7d6a4eb-c051-498d-a126-02907481f180",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🚨 Ostium was reportedly exploited for $18M in USDC after an attacker used manipulated oracle data to trigger fake trading profits on Arbitrum.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#43ea02c3",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-15T21:27:32+00:00"
   }
 ]
