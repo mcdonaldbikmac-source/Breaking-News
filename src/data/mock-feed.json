@@ -1,5 +1,45 @@
 [
   {
+    "id": "1622ab40-4a96-46c7-a1f9-8640dd77305c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
+    "summary": "1. The company at one pointed cleared or custodied roughly 94% of tokenized U.S.\n2. equities, now holding over $1.5 billion in underlying stocks for its partners.",
+    "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-16T14:19:32.000Z"
+  },
+  {
+    "id": "a2d60473-4a90-4c7d-b683-e5250efab103",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "BlackRock now holds 734,762 $BTC worth over $47.1 billion for their spot Bitcoin ETF.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#98fb2f31",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-16T14:17:34+00:00"
+  },
+  {
+    "id": "d9e41484-dcb6-415a-861f-f7ae6e23ac5a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Kraken Institutional has partnered with Upshift to offer clients custom yield vaults for idle Bitcoin, Ethereum and stablecoins.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8f5de260",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-16T14:10:25+00:00"
+  },
+  {
+    "id": "345436b1-54ae-4186-a141-8313da0b8d03",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Visa launches platform to offer business stablecoin services",
+    "summary": "Visa has launched a new platform to provide stablecoin services to more than 200 million merchants, Unfolded reported. The platform allows banks and fintech companies to integrate stablecoins such as OUSD, USDC, and USDG into Visa's existing payment and treasury systems. It targets 15,000 institutions and is already processing billions of dollars in stablecoin transactions.",
+    "url": "https://t.me/CoinnessGL#15ce3380",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T14:07:49+00:00"
+  },
+  {
     "id": "df12acaf-d609-4172-9ea2-8a244682ae9d",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -10,7 +50,7 @@
     "created_at": "2026-07-16T14:07:49+00:00"
   },
   {
-    "id": "4dcbe8db-3229-43b7-85d1-a20a450392ac",
+    "id": "589ef510-a734-4871-90d0-a20552384610",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "CMC Asset Watch: MSTR Calmed Down, CLSK Re RatedMSTR rose 3.8%, beating BTC by 1.4pt after last week’s sharp lag.",
@@ -20,7 +60,7 @@
     "created_at": "2026-07-16T14:05:08+00:00"
   },
   {
-    "id": "fca33a37-2fbd-4e71-906a-4f154f8db529",
+    "id": "d5555a4b-4979-488c-8aec-74ed674cbc47",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "VISA LAUNCHES NEW PLATFORM TO PROVIDE STABLECOIN SERVICES TO MORE THAN 200 MILLION MERCHANTSTwitter",
@@ -30,7 +70,7 @@
     "created_at": "2026-07-16T14:00:38+00:00"
   },
   {
-    "id": "24d8601b-49ce-4502-8e31-d6477d42e1b0",
+    "id": "5cbd5c4b-c7aa-4d45-88fb-3e098ce84740",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Kraken launches European-style options for BTC and ETH",
@@ -40,7 +80,7 @@
     "created_at": "2026-07-16T13:58:39+00:00"
   },
   {
-    "id": "4bf84d20-5777-40d8-b593-ae6d904e3cdc",
+    "id": "3b995841-4698-49ec-ae3f-1977402df055",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 President Trump promoted over 20 companies on Truth Social days after buying their stocks, CNN reports.@WatcherGuru",
@@ -70,7 +110,7 @@
     "created_at": "2026-07-16T13:47:51.000Z"
   },
   {
-    "id": "b8350aaf-6336-4f29-a941-b65c645701fb",
+    "id": "53bd564d-c2c5-4bb2-baa2-fd805903a53e",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "85% of liquidity on major DEXs is inefficient, Dune finds",
@@ -90,7 +130,7 @@
     "created_at": "2026-07-16T13:34:19.000Z"
   },
   {
-    "id": "260082e1-426a-4b3c-8717-d615ff423e90",
+    "id": "aae14da6-9684-4f88-822f-0abe3553bece",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🤖 Coinbase head of platform Rob Witoff says 95%-100% of the exchange's code is now written by or with LLMs, up from 40% in February.",
@@ -170,7 +210,7 @@
     "created_at": "2026-07-16T13:00:00.000Z"
   },
   {
-    "id": "2c322435-876d-45b8-80d5-c431d6e44d7e",
+    "id": "19a20c9d-54e0-4b01-80c4-dafd86492caa",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Binance Founder CZ says Bitcoin protects you against \"inflation.\"@WatcherGuru",
@@ -210,7 +250,7 @@
     "created_at": "2026-07-16T12:00:00.000Z"
   },
   {
-    "id": "a24bcb08-a499-43ad-846f-18ab4f498557",
+    "id": "ea5abc95-0a2d-452c-b832-11db65ff53ea",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "IRAN TELLS HOUTHIS TO CLOSE RED SEA GATEWAY IF US HITS POWER NETWORK | PER RTRSTwitter",
@@ -518,25 +558,5 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "author": "The Defiant Team",
     "created_at": "2026-07-16T08:24:00.000Z"
-  },
-  {
-    "id": "3087bcba-45d5-4490-82fe-1336cab27564",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC falls below $64,000",
-    "summary": "According to CoinNess market monitoring, BTC has fallen below $64,000. BTC is trading at $63,991.98 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#89fa893b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-16T08:14:18+00:00"
-  },
-  {
-    "id": "55b1b026-835c-4a2c-a13c-95f6989e03f4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
-    "summary": "1. Bitcoin realized losses appeared to be copying a reversal structure that marked previous bear-market bottoms, with $69,000 a new BTC price battleground.",
-    "url": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-07-16T08:11:25.000Z"
   }
 ]
