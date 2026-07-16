@@ -1,5 +1,135 @@
 [
   {
+    "id": "9a851ebe-95bf-4801-ac91-ed80672c7fd0",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-16T08:24:00.000Z"
+  },
+  {
+    "id": "b4c0d434-04d5-4357-9a03-c8b94b9a4c64",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-16T08:24:00.000Z"
+  },
+  {
+    "id": "3087bcba-45d5-4490-82fe-1336cab27564",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC falls below $64,000",
+    "summary": "According to CoinNess market monitoring, BTC has fallen below $64,000. BTC is trading at $63,991.98 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#89fa893b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T08:14:18+00:00"
+  },
+  {
+    "id": "55b1b026-835c-4a2c-a13c-95f6989e03f4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
+    "summary": "1. Bitcoin realized losses appeared to be copying a reversal structure that marked previous bear-market bottoms, with $69,000 a new BTC price battleground.",
+    "url": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-16T08:11:25.000Z"
+  },
+  {
+    "id": "77290851-ad7f-409d-8bec-32a65dc67d5e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to delist GRACY, SPURS, ZTX, WIKEN, FITFI on Aug. 18",
+    "summary": "South Korean crypto exchange Bithumb has announced plans to delist Gracy (GRACY), Tottenham Hotspur (SPURS), ZTX (ZTX), WIKEN (WIKEN), and Step App (FITFI) at 6:00 a.m. UTC on Aug. 18. According to the announcement, the decision was made because the issues that led to the assets being placed under an investment warning have not been resolved.",
+    "url": "https://t.me/CoinnessGL#5c715bbe",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T08:07:12+00:00"
+  },
+  {
+    "id": "03e5bfb1-b5ec-4564-9b5e-bf8db0e888fa",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Cardano-based DEX DeltaDeFi halts operations",
+    "summary": "DeltaDeFi, a decentralized exchange (DEX) built on Cardano's (ADA) Layer 2 solution Hydra, is indefinitely suspending its services due to operational difficulties, The Crypto Basic reported. User refunds will be processed as soon as the necessary funds for withdrawals are secured. Several other Cardano-based applications, including JPG Store and TapTools, have also ceased operations this year.",
+    "url": "https://t.me/CoinnessGL#369460de",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T07:51:02+00:00"
+  },
+  {
+    "id": "15fb9a06-9953-4be7-b498-42d7210264d1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue",
+    "summary": "1. Vlad.fun suspended its platform after discovering a “serious internal integrity issue” involving members of its team, without disclosing the nature of the alleged misconduct.",
+    "url": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-16T07:43:45.000Z"
+  },
+  {
+    "id": "9ab35729-0f4d-4395-99fe-42f13417ceab",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Saylor Hoards $3 Billion in Cash as Strategy’s $55 Billion Bitcoin Bet Sinks $9.9 Billion Underwater",
+    "summary": "1. Strategy Inc.\n2. (Nasdaq: MSTR) now pairs a $3 billion U.S.\n3. dollar reserve with 843,775 BTC worth roughly $55 billion, a barbell structure executive chairman Michael Saylor is pitching as the company’s path through the bear market.",
+    "url": "https://news.bitcoin.com/saylor-strategy-barbell-3-billion-cash-55-billion-bitcoin/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-16T07:30:00.000Z"
+  },
+  {
+    "id": "85c54f92-cd75-472c-b898-54ad196f348c",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "South Korea temporarily halts new single-stock leveraged ETFs and raises minimum deposit requirements for leveraged chip fundsTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#7362c230",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-16T07:15:41+00:00"
+  },
+  {
+    "id": "9d2e68c0-3851-40d1-9d2a-c619db7b7803",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
+    "summary": "1. A bitcoin OG wallet transferred 5,908 BTC to a new address on Wednesday, according to Lookonchain, citing Arkham data.",
+    "url": "https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-16T06:54:08.000Z"
+  },
+  {
+    "id": "584cb8da-d9dc-4db6-b1f9-5d73b2bd82bd",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
+    "summary": "1. The deal gives Hyperion an equity stake in Skew and a share of listing-service revenue as it expands the utility of its HYPE treasury assets.",
+    "url": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-16T06:41:14.000Z"
+  },
+  {
+    "id": "3ee1ac6b-e3b3-45ca-86a5-a31c5291cf66",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Luno Pushes South Africa to Rewrite Crypto Rules Through Parliament, Not Proclamation",
+    "summary": "1. Luno has formally challenged South Africa’s proposed capital flow regulations, which aim to place digital assets under a modernized exchange control regime.\n2. Strict Enforcement and Steep Penalties Cryptocurrency exchange Luno has launched a formal challenge against a proposed overhaul of South Africa’s foreign exchange laws, arguing that the National Treasury’s plan to bring digital assets […]",
+    "url": "https://news.bitcoin.com/luno-pushes-south-africa-to-rewrite-crypto-rules-through-parliament-not-proclamation/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-16T06:30:18.000Z"
+  },
+  {
+    "id": "ea6a2106-7a03-47ca-a8c8-09bce7b609f8",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
+    "summary": "1. Blockchain investigator ZachXBT came down heavily on hardware wallets.\n2. BTC traded steady near $65,000 after South Korea's rate hike.",
+    "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-16T06:20:00.000Z"
+  },
+  {
     "id": "2fc83773-732c-4f3e-9121-9fc3a8d34f66",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -18,6 +148,16 @@
     "url": "https://t.me/CoinnessGL#f1032eec",
     "author": "@CoinnessGL",
     "created_at": "2026-07-16T06:01:44+00:00"
+  },
+  {
+    "id": "e05c17cf-a931-49df-a40b-abfc5df6b66a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+    "summary": "1. The nonbinding resolution passed without objection after Bankman-Fried asked for clemency, months after Trump pardoned other major crypto figures, including Changpeng Zhao and Ross Ulbricht.",
+    "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-16T06:00:43.000Z"
   },
   {
     "id": "4dc2b684-a7f0-4ea7-a520-2c8446daa078",
@@ -50,7 +190,17 @@
     "created_at": "2026-07-16T05:30:14.000Z"
   },
   {
-    "id": "e704ab68-75a6-4a7e-ba71-da59e98b2785",
+    "id": "101a92bc-c3ea-4442-884a-52604ff3e44c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+    "summary": "1. The coins went to a fresh address rather than an exchange, so nothing has been sold yet.",
+    "url": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-16T05:12:26.000Z"
+  },
+  {
+    "id": "2630ae3a-1214-4e07-a0d0-4677913d183c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⛏️ Keel Infrastructure (formerly Bitfarms) has secured approvals to consolidate three Bitcoin mining sites in Québec into one AI and HPC campus.",
@@ -150,7 +300,7 @@
     "created_at": "2026-07-16T03:48:49+00:00"
   },
   {
-    "id": "0ae89095-be52-49ac-8d0e-5039e9852fd9",
+    "id": "652b320c-859c-4d1f-a0d8-b1434dc47369",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Glassnode says top traders on Hyperliquid are showing some of the most aggressive Bitcoin long positioning on record, exceeding levels seen during the last run to $83K.",
@@ -228,115 +378,5 @@
     "url": "https://news.bitcoin.com/bank-of-tanzania-targets-crypto-as-governor-warns-of-terror-finance-risks/",
     "author": "Terence Zimwara",
     "created_at": "2026-07-16T02:45:16.000Z"
-  },
-  {
-    "id": "57490f6c-6208-46fa-a757-47462aad0ad2",
-    "source": "The Block",
-    "type": "rss",
-    "title": "California pair charged with laundering crypto proceeds from darknet fentanyl sales",
-    "summary": "1. The pair allegedly shipped over 500 drug parcels over a seven-month period and laundered hundreds of thousands of dollars through crypto.",
-    "url": "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-07-16T02:23:34.000Z"
-  },
-  {
-    "id": "c3eb41ac-dd24-47e9-b1c7-9435196dacb6",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Strategy CEO Phong Le says the company feels \"very secure about the balance sheet\" and isn't worried about its debt risk unless Bitcoin falls to $8,000-$10,000.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#cf668e94",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-16T02:20:26+00:00"
-  },
-  {
-    "id": "26827ed5-0313-42aa-84e3-24063b8434e3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Whales Are Not Selling Over Quantum Fears, Analyst Says",
-    "summary": "1. Bitcoin whales have not identified quantum computing risks as a reason for selling, according to Galaxy Digital, while institutional investors have flagged quantum concerns as a reason to avoid buying the crypto asset.\n2. Quantum Fears Appear to Be Influencing Buyers, Not Bitcoin Sellers Bitcoin’s largest holders have not attributed selling activity to quantum computing risks, […]",
-    "url": "https://news.bitcoin.com/bitcoin-whales-are-not-selling-over-quantum-fears-analyst-says/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-16T02:05:32.000Z"
-  },
-  {
-    "id": "7fb6dceb-c740-4cc0-a3c3-45c8d930436a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tim Draper Admits ‘Ouch’ Moment After Passing on Coinbase — His Son Saw a Crypto Fortune in the Making",
-    "summary": "1. Tim Draper says he passed on Coinbase after underestimating how quickly retail crypto adoption would arrive, but his son invested early and helped turn a rejected opportunity into one of the venture capitalist’s biggest wins.\n2. Tim Draper Saw Coinbase’s Potential — But Misjudged When Crypto Would Arrive Tim Draper, the veteran venture capitalist behind Draper […]",
-    "url": "https://news.bitcoin.com/tim-draper-admits-ouch-moment-after-passing-on-coinbase-his-son-saw-a-crypto-fortune-in-the-making/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-16T01:35:40.000Z"
-  },
-  {
-    "id": "0439dc2e-c754-4bd5-96a1-516e47e7b446",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "summary": "1. Base creator Jesse Pollak is stepping back from leadership of the Base App after admitting he was “definitively wrong” to bet on social experiences driving crypto adoption.",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-16T01:14:58.000Z"
-  },
-  {
-    "id": "e1ea6bf8-abbf-4b04-bd6e-e57dd1bcbe00",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock CEO Larry Fink ‘Very Bullish’ on Markets as Bitcoin Stabilizes",
-    "summary": "1. Blackrock CEO Larry Fink said he is bullish on markets, citing early gains from technology-driven margin expansion.\n2. He also said the washout of excessive leverage has left bitcoin and the broader cryptocurrency market more stable.\n3. Why Larry Fink Is Bullish on Markets Larry Fink, CEO of Blackrock, the world’s largest asset manager, said in a […]",
-    "url": "https://news.bitcoin.com/blackrock-ceo-larry-fink-very-bullish-on-markets-as-bitcoin-stabilizes/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-16T01:05:32.000Z"
-  },
-  {
-    "id": "169df7ec-67c7-4c80-9d2e-a08b758bceec",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Stanford study finds Polymarket BTC bets may be linked to Binance price manipulation",
-    "summary": "Stanford University researchers have published a study suggesting that some traders in Polymarket's main BTC prediction market may have temporarily moved BTC prices to influence betting outcomes. According to Bloomberg, the researchers identified a pattern on Binance where concentrated, one-directional trades in the final seconds before a bet expired caused temporary price fluctuations, benefiting traders who had bet on that direction. This phenomenon was most pronounced when a slight price change could determine the outcome of a bet. The researchers concluded that this was an attempt to manipulate results by temporarily pushing the spot price. They noted that while Polymarket's five-minute BTC price bets are settled based on data from multiple oracles, approximately 85% of contract outcomes during the study period moved in the same direction as Binance's price, implying it was used as a proxy for the final settlement price. Although the traders' intent was not directly observed, the researchers inferred the possibility of price manipulation by analyzing trading patterns. The study pointed out that unlike prediction markets for elections or sports, those based on financial assets carry a structural risk of manipulation because participants can directly trade the underlying asset that determines the outcome.",
-    "url": "https://t.me/CoinnessGL#7c4af2a5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-16T01:04:23+00:00"
-  },
-  {
-    "id": "dcff3ad2-bc0d-459f-9591-9a8d2cfa6135",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇰🇷 South Korea plans to classify crypto as long-term national wealth under a new National Asset Basic Act covering roughly $940B in state assets.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7421ac09",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-16T00:55:09+00:00"
-  },
-  {
-    "id": "ffb92cf1-d696-4627-9799-8274b22438bd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bank of Korea hikes key rate by 0.25 p.p., first in 3.5 years",
-    "summary": "The Bank of Korea has raised its benchmark interest rate by 0.25 percentage points from 2.50% to 2.75%, marking the first such increase in three years and six months.",
-    "url": "https://t.me/CoinnessGL#56a04d07",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-16T00:52:29+00:00"
-  },
-  {
-    "id": "3a410106-26e2-4d42-84b2-28f9ae469340",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Whale moves $57.7M in ETH off Coinbase Prime",
-    "summary": "Three addresses have withdrawn a total of 30,000 ETH, valued at $57.66 million, from Coinbase Prime, according to Onchain Lens. The withdrawals, each for 10,000 ETH, are believed to be managed by a single entity. Withdrawals from exchanges are typically interpreted as a move to hold.",
-    "url": "https://t.me/CoinnessGL#ab93f559",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-16T00:46:12+00:00"
-  },
-  {
-    "id": "5ee6f4ea-2e60-494b-9a86-45fde881536e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Warns Senate: Voting Against CLARITY Act Leaves Crypto Users Exposed to FTX-Style Risks",
-    "summary": "1. Ripple executives are pressing senators to support the CLARITY Act, arguing that rejecting the digital asset legislation would preserve regulatory gaps that leave consumers vulnerable to misconduct, uncertainty, and risks similar to those exposed by the FTX collapse.\n2. Ripple Urges Senate to Treat CLARITY Act Vote as a Consumer Protection Decision Ripple’s global co-head of […]",
-    "url": "https://news.bitcoin.com/ripple-warns-senate-voting-against-clarity-act-leaves-crypto-users-exposed-to-ftx-style-risks/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-16T00:30:07.000Z"
   }
 ]
