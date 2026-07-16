@@ -1,5 +1,85 @@
 [
   {
+    "id": "2fc83773-732c-4f3e-9121-9fc3a8d34f66",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC perp long/short ratios on top exchanges by open interest",
+    "summary": "The following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 51.28% long, 48.72% short- Binance: 52.33% long, 47.67% short- OKX: 51.69% long, 48.31% short- Bybit: 51.72% long, 48.28% short",
+    "url": "https://t.me/CoinnessGL#e5fd12de",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T06:12:37+00:00"
+  },
+  {
+    "id": "1754cbb6-9edf-406e-89be-3ec3e8b8fcc4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinone removes RUNE from delisting watchlist",
+    "summary": "South Korean crypto exchange Coinone has announced that it is removing THORChain (RUNE) from its delisting watchlist.",
+    "url": "https://t.me/CoinnessGL#f1032eec",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T06:01:44+00:00"
+  },
+  {
+    "id": "4dc2b684-a7f0-4ea7-a520-2c8446daa078",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-16T05:55:48.000Z"
+  },
+  {
+    "id": "0f9bba82-507e-4ca1-b509-2e93cb6c0e22",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Iran to keep strait closed until US accepts its laws",
+    "summary": "According to the Iranian Students' News Agency (ISNA), Iran has stated that it will keep the strait closed until the United States accepts Iranian law.",
+    "url": "https://t.me/CoinnessGL#81e04824",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-16T05:32:27+00:00"
+  },
+  {
+    "id": "16b22f14-01a4-412a-a4fa-94bd9926dcc6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Emirates NBD Launches Real-Time USD Blockchain Payments, Cutting Cross-Border Delays",
+    "summary": "1. Emirates NBD has gone live on the blockchain-based Partior network, becoming the first financial institution in the region to offer blockchain-enabled cross-border U.S.\n2. dollar payments.\n3. Instant Settlement via JPMorgan Dubai-based Emirates NBD has become one of the first financial institutions in the Middle East, North Africa and Türkiye (MENAT) region to launch real-time cross-border U.S.",
+    "url": "https://news.bitcoin.com/emirates-nbd-launches-real-time-usd-blockchain-payments-cutting-cross-border-delays/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-16T05:30:14.000Z"
+  },
+  {
+    "id": "e704ab68-75a6-4a7e-ba71-da59e98b2785",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⛏️ Keel Infrastructure (formerly Bitfarms) has secured approvals to consolidate three Bitcoin mining sites in Québec into one AI and HPC campus.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#63003e49",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-16T05:10:23+00:00"
+  },
+  {
+    "id": "b38214de-468d-4f0a-b8d4-4019c3e8b91a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CFTC Blocks Kalshi From Cancelling Michigan Sports Trades Ordered Voided",
+    "summary": "1. The Commodity Futures Trading Commission has stopped Kalshi from liquidating sports event contracts that a Michigan court ordered cancelled and refunded.\n2. The intervention leaves Michigan’s restriction on new sports trades intact while opening a direct federal-state confrontation over who controls transactions already executed on a regulated derivatives exchange.\n3. Federal order protects completed trades, not new […]",
+    "url": "https://news.bitcoin.com/cftc-blocks-kalshi-from-cancelling-michigan-sports-trades-ordered-voided/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-07-16T04:30:41.000Z"
+  },
+  {
+    "id": "56754ad9-6266-473c-86fa-8c79ada1cc96",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
+    "summary": "1. US President Donald Trump is set to meet with several senators on Thursday as negotiators race to get the CLARITY Act across the line before the Senate’s August recess.",
+    "url": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-16T04:18:29.000Z"
+  },
+  {
     "id": "374a8a4d-09bb-42a9-a2e7-34eb1cf83ae4",
     "source": "CoinDesk",
     "type": "rss",
@@ -70,7 +150,7 @@
     "created_at": "2026-07-16T03:48:49+00:00"
   },
   {
-    "id": "f9bc76d6-4149-4ae8-a5c2-89cd5d218439",
+    "id": "0ae89095-be52-49ac-8d0e-5039e9852fd9",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Glassnode says top traders on Hyperliquid are showing some of the most aggressive Bitcoin long positioning on record, exceeding levels seen during the last run to $83K.",
@@ -160,7 +240,7 @@
     "created_at": "2026-07-16T02:23:34.000Z"
   },
   {
-    "id": "533157df-a26d-4072-82f5-4b0a1d080fa3",
+    "id": "c3eb41ac-dd24-47e9-b1c7-9435196dacb6",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Strategy CEO Phong Le says the company feels \"very secure about the balance sheet\" and isn't worried about its debt risk unless Bitcoin falls to $8,000-$10,000.",
@@ -258,95 +338,5 @@
     "url": "https://news.bitcoin.com/ripple-warns-senate-voting-against-clarity-act-leaves-crypto-users-exposed-to-ftx-style-risks/",
     "author": "Kevin Helms",
     "created_at": "2026-07-16T00:30:07.000Z"
-  },
-  {
-    "id": "05188ccb-4abb-4a41-8995-48421b939e93",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-    "summary": "1. By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
-    "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-    "author": "Marina Temkin",
-    "created_at": "2026-07-16T00:20:42.000Z"
-  },
-  {
-    "id": "41416886-16df-4f8e-a640-3b18aa3289a7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Securitize and Cantor Fitzgerald are partnering to build a framework for tokenized IPOs and follow-on equity offerings that stays within existing public-market regulations.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#027ff6bc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-16T00:10:25+00:00"
-  },
-  {
-    "id": "c2b2b2cf-1846-485a-af04-09962409a4ba",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "summary": "1. Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-07-15T23:59:44.000Z"
-  },
-  {
-    "id": "6d88c296-77ed-4a17-bfbc-3aa6f19adf7c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 White House shares \"Trump Coin\" video.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#2516d6cf",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-15T23:43:19+00:00"
-  },
-  {
-    "id": "d60d96ac-bb7c-4f55-a489-3d569647cb23",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Aave has launched v4 on Avalanche, its first expansion beyond Ethereum.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#73f342ac",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-15T23:20:24+00:00"
-  },
-  {
-    "id": "c7cb5ed0-1bca-4c5c-8965-6b8d9093db4e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "From Perpetual Swaps to Perpetual CFDs: The Regulated Evolution",
-    "summary": "1. The 24/7 Trading Imperative Fixed exchange sessions are a structural mismatch with the global retail base.\n2. The NYSE opens at 9:30 a.m.\n3. Eastern and closes at 4:00 p.m., a window designed for an era when the participant base was concentrated in a single geography and order flow was physically intermediated.",
-    "url": "https://www.theblock.co/post/408553/from-perpetual-swaps-to-perpetual-cfds-the-regulated-evolution?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-07-15T23:19:00.000Z"
-  },
-  {
-    "id": "8e907922-97e8-4946-843e-beecad5c05a6",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.211",
-    "summary": "1. ## What's changed\n\n- Added `--forward-subagent-text` flag and `CLAUDE_CODE_FORWARD_SUBAGENT_TEXT` environment variable to include subagent text and thinking in stream-json output\n- Fixed permission previews relayed to chat channels not neutralizing bidirectional-override, zero-width, and look-alike quote characters, so tool inputs cannot visually alter the approval message\n- Fixed auto mode overriding a PreToolUse hook's `ask` decision for unsandboxed Bash — a hook `ask` now floors the decision at a prompt\n- Fixed parallel Claude Code sessions all logging out simultaneously after wake-from-sleep when many sessions share one credential store\n- Fixed plugin MCP servers not reconnecting after an idle web session woke, leaving MCP calls failing until the next message\n- Fixed Claude Code on Vertex and Bedrock attempting the default Opus model at startup and printing a spurious fallback notice when a model is explicitly configured\n- Fixed subagents spawned with an explicit model override reverting to the parent's model when resumed or sent a follow-up message\n- Fixed nested `.claude/rules/*.md` files loading even when setting sources exclude project settings\n- Fixed file upload validation: filenames ending in a DOS device suffix (`.prn`) or trailing dot are now accepted, and files with multiple hard links are refused\n- Fixed file uploads to Claude in Chrome from remote and CLI sessions\n- Fixed edits that leave the input as \"?\" being silently swallowed and toggling the shortcuts panel\n- Fixed a startup hang when the Claude in Chrome extension is enabled but Chrome is not running\n- Fixed a 300ms delay revealing async content (Settings tabs, Stats, diff views, and other loading states)\n- Fixed reopening a just-stopped background session from the agents view starting a blank conversation under the same session id\n- Fixed `/loop` hiding the session from `/resume` after a single use\n- Fixed screen reader users losing the audible terminal bell after `/terminal-setup` or onboarding terminal setup\n- Fixed background jobs on LLM gateway auth (`ANTHROPIC_AUTH_TOKEN` + `ANTHROPIC_BASE_URL`) coming back \"Not logged in\" after the daemon respawns them\n- Fixed `claude agents` jobs becoming permanently undeletable when git no longer recognizes their worktree — the row now shows why the delete was refused instead of silently reappearing\n- Fixed `/clear` not resetting the session cost counter — the statusline's cost now starts at $0 after `/clear`\n- Fixed Claude in Chrome setup pages failing to open in the browser on Windows\n- Fixed headless print-mode sessions on Windows crashing or silently exiting when stdin is unreadable\n- Fixed background session titles in the agents view showing the naming model's refusal text when the prompt contains a link\n- Fixed background agents killed by the user auto-respawning, and revived agents re-running stale prompts from old sessions\n- Fixed routines with no schedule reporting a next run time in the year 1\n- Hardened synced skill/plugin directory naming on Windows and kept CCR web fetch/search proxies working after `/clear`\n- Improved terminal layout and rendering performance\n- Improved background agent result reporting — Claude now reports the status of still-running agents and waits for the real completion instead of fabricating results\n- Improved the memory index over-limit warning to measure only loaded content, excluding frontmatter and HTML comments\n- Updated integer environment variables (timeouts, token budgets, retry counts) to accept scientific notation and digit-separator spellings like `1e6` and `64_000`\n- Updated documentation links to the current docs sites\n- Changed \"always allow\" permission rules to save at the repository root, so approvals granted in a git worktree persist across sessions and worktrees\n- Changed `/usage-credits` to ask for confirmation before sending a request to organization admins\n- Changed Vim mode `s` and `S` (substitute char/line) to work in NORMAL mode, matching vim behavior\n- [VSCode] Updated the Remote Control banner to describe what it does\n- Claude in Chrome: hardened file-upload path validation\n- Claude in Chrome: `save_to_disk` on screenshot actions now writes the image to disk and returns the path; previously it did nothing\n- Fixed a prompt-caching regression on Bedrock, Vertex, Mantle, and Foundry that billed the trailing system context block as fresh input tokens on every request.",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-15T23:02:35Z"
-  },
-  {
-    "id": "1e0f918b-9eea-4b98-a639-50cefe695821",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "rish: wasn't a strong supporter of any one particular team but would have been cool to...",
-    "summary": "1. wasn't a strong supporter of any one particular team but would have been cool to see england win",
-    "url": "https://warpcast.com/rish/0xada262e0",
-    "author": "rish",
-    "created_at": "2026-07-15T23:01:02.000Z"
-  },
-  {
-    "id": "379b6669-e3fd-4455-9e60-03daaa671d33",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Iran has allowed an American Citizen, who was wrongfully detained in December of 2024 under the “presidency” of Sleepy Joe Biden, to leave the Country.\n2. She is now safely outside of Iran, and in good condition.\n3. The United States of America appreciates this gesture of Goodwill by Iran!",
-    "url": "https://trumpstruth.org/statuses/40067",
-    "author": "Trump Truth",
-    "created_at": "2026-07-15T22:54:07.000Z"
   }
 ]
