@@ -1,6 +1,16 @@
 [
   {
-    "id": "99a48e58-7ddc-4f6a-a6ef-0ae80083187f",
+    "id": "2471d5b6-7a68-430a-b264-c0ca0d8bfb47",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-17T08:20:29.000Z"
+  },
+  {
+    "id": "906e9d83-3f3c-4f97-850e-51d072153f1f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ US federal agents arrested a 21-year-old Florida man over a scheme that hid crypto-stealing malware inside video games, infecting roughly 8,000 devices and draining $220K from victims.",
@@ -10,7 +20,7 @@
     "created_at": "2026-07-17T08:10:13+00:00"
   },
   {
-    "id": "99eac489-342e-4328-8cd1-bd67ea270bf9",
+    "id": "07148bf8-eee8-416c-8936-30a39657bee9",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Bitcoin Japan to buy $4.1M in BTC after fundraising",
@@ -20,7 +30,7 @@
     "created_at": "2026-07-17T07:43:11+00:00"
   },
   {
-    "id": "36bd4093-cbc1-407a-8ab7-78a59fe29693",
+    "id": "dd093e8e-689b-4fdd-8ce6-76b9c12745cc",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Weekly Top Gainers 1️⃣ eCash: +30.32% 2️⃣ KAITO: +27.83% 3️⃣ Lido DAO: +19.73%...",
@@ -30,7 +40,7 @@
     "created_at": "2026-07-17T07:40:14+00:00"
   },
   {
-    "id": "9594be9d-4bfa-453c-8f99-95243535d1a7",
+    "id": "74eae6ba-2fd7-41f5-b523-2ab075948b18",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Trader bets $28M on ETH volatility with long straddle",
@@ -50,7 +60,7 @@
     "created_at": "2026-07-17T07:30:51.000Z"
   },
   {
-    "id": "d9259102-7cea-43ca-b4b8-611a98bb058c",
+    "id": "b5c8b9df-5bf9-4637-ad63-29a3cd4a23c9",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Injective says it has filed for SEC transfer agent registration, aiming to bring securities ownership records onchain for tokenized assets and RWAs.",
@@ -90,7 +100,7 @@
     "created_at": "2026-07-17T06:30:47.000Z"
   },
   {
-    "id": "bf34064d-3426-4c27-a84b-995676b9cbbc",
+    "id": "9fd2405c-0354-420b-b871-187faeca1e9f",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Coinbase Bitcoin premium negative for record 60 straight days",
