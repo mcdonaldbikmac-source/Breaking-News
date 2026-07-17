@@ -1,5 +1,285 @@
 [
   {
+    "id": "db6578f8-6868-4cf8-b4b3-f15126db3ede",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-17T19:19:45.000Z"
+  },
+  {
+    "id": "b03e7b38-e6dc-407d-ac27-589b793ff819",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office.\n2. We have known each other for a long time — She is a spectacular person, and a true American Patriot.\n3. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina.",
+    "url": "https://trumpstruth.org/statuses/40096",
+    "author": "Trump Truth",
+    "created_at": "2026-07-17T19:15:16.000Z"
+  },
+  {
+    "id": "d745d921-203f-48f5-b7b8-a4153c780ce4",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Grant Cardone says Cardone Capital added another 10.5 BTC from its July cash flow, pushing its stack above 2,700 BTC.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e28f27d6",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T19:15:10+00:00"
+  },
+  {
+    "id": "76b9b293-a5ef-4d0c-adad-314bc51549e7",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
+    "summary": "1. Input Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.",
+    "url": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-17T19:12:41.000Z"
+  },
+  {
+    "id": "94a857cd-b9a5-4e97-b12e-ed58927364b7",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Sentiment Is Turning Bullish — But It’s Too Early to Celebrate: Report",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Sentiment Is Turning Bullish — But It’s Too Early to Celebrate: Report\nCoinShares has said that while investors have put money in crypto funds again, the Bitcoin price may still struggle.\n2. This post Bitcoin Sentiment Is Turning Bullish — But It’s Too Early to Celebrate: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-17T19:07:30.000Z"
+  },
+  {
+    "id": "bc8c026b-7096-4a07-8451-bc80903d63b4",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Bryan Steil, chair of the House Financial Services Subcommittee on Digital Assets, says he's \"optimistic\" the Senate will pass the CLARITY Act next week.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#67efdaf1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T18:40:13+00:00"
+  },
+  {
+    "id": "2488a9a8-2829-4714-9e22-2863209bcf38",
+    "source": "The Block",
+    "type": "rss",
+    "title": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
+    "summary": "1. So far the company's bankruptcy estate has distributed nearly $10 billion to creditors and other claimants since repayments began in 2025.",
+    "url": "https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-07-17T18:27:59.000Z"
+  },
+  {
+    "id": "3a24c9a6-94a2-4fad-88cf-47c401334903",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Traders Pull BTC Below $63K as Middle East Tensions Trigger Fresh Risk-Off Selling",
+    "summary": "1. Bitcoin fell for a second straight day, dropping 1.4% to trade just under $63,600.\n2. It hit a session low of $62,732 early Friday, trimming its market cap and dragging the aggregate crypto market capitalization down 1.8% to $2.26 trillion.\n3. Tech Sell-Off and Geopolitical Tensions Weigh on Markets Bitcoin trended lower for a second consecutive day […]",
+    "url": "https://news.bitcoin.com/bitcoin-traders-pull-btc-below-63k-as-middle-east-tensions-trigger-fresh-risk-off-selling/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-17T18:18:03.000Z"
+  },
+  {
+    "id": "995ea254-799b-4d3d-a08e-957e8e383275",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are ‘complete garbage’",
+    "summary": "1. \"I do not advise using them for important tasks like signing transactions or storing funds,\" ZachXBT wrote this week.",
+    "url": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-07-17T18:13:25.000Z"
+  },
+  {
+    "id": "6a689a13-6122-4aaa-826c-e3c7d67206d9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "FTX plans additional $900M distribution to creditors later this month",
+    "summary": "FTX plans to distribute about $900 million more to creditors later this month, Cointelegraph reported. Eligible recipients are expected to receive the funds within three business days.",
+    "url": "https://t.me/CoinnessGL#03b4d0a6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T18:03:09+00:00"
+  },
+  {
+    "id": "b3703cd4-1614-42c8-809f-b621cc78edaf",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 House Financial Services Committee Chair French Hill says Senate Majority Leader John Thune has set a date to bring the CLARITY Act to the floor, adding Congress is \"on the cusp\" of getting it through.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c45cba94",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T18:00:19+00:00"
+  },
+  {
+    "id": "23a8f68c-be93-4cc2-8a5d-bfd7946c6056",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+    "summary": "1. Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
+    "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-17T18:00:17.000Z"
+  },
+  {
+    "id": "d23bba2b-8848-4ddb-bd0a-8490fe9e1a7e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+    "summary": "1. Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved.",
+    "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+    "author": "Helene Braun",
+    "created_at": "2026-07-17T18:00:11.000Z"
+  },
+  {
+    "id": "e23e9ecd-ea0a-4534-b145-2fbe3ddc7a8b",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
+    "summary": "1. Moonshot AI's 2.8-trillion-parameter open-weight model sent chip stocks tumbling and gave Wall Street a Friday it would rather forget.",
+    "url": "https://decrypt.co/373736/kimi-k3-triggered-deepseek-flashbacks-stock-market",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-17T17:55:32.000Z"
+  },
+  {
+    "id": "50f542b6-9427-4efe-a534-a297395454ba",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "summary": "1. Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around.\n2. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company.\n3. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "author": "Theresa Loconsolo",
+    "created_at": "2026-07-17T17:45:46.000Z"
+  },
+  {
+    "id": "5b4d27cd-6f63-4de7-9a19-e42fc6d01c39",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
+    "summary": "1. Bitcoin Magazine\n\nOcean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%\nOcean Mining’s VP of Development and Engineering Jason Hughes argues BIP-110 lacks measurable consensus, with node signaling at 7-15% and hashrate support under 1% ahead of the critical block 961632 window.\n2. This post Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1% first appeared on Bitcoin Magazine and is written by Jason Hughes.",
+    "url": "https://bitcoinmagazine.com/bitcoin-mining/ocean-mining-vp-jason-hughes-bip-110-on-track-to-fail-as-miner-signaling-stays-below-1",
+    "author": "Jason Hughes",
+    "created_at": "2026-07-17T17:45:13.000Z"
+  },
+  {
+    "id": "b414fa34-4dff-44e5-b3c9-fdb85695cfa0",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "SBI Holdings Takes Majority Stake in Singapore’s Coinhako After MAS Approval",
+    "summary": "1. Bitcoin Magazine\n\nSBI Holdings Takes Majority Stake in Singapore’s Coinhako After MAS Approval\nSBI Holdings has acquired a majority stake in Singapore's Coinhako after MAS approval, strengthening its push to build a cross-border digital asset network across Japan and Southeast Asia.\n2. This post SBI Holdings Takes Majority Stake in Singapore’s Coinhako After MAS Approval first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/sbi-holdings-takes-majority-stake-coinhako",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-17T17:38:02.000Z"
+  },
+  {
+    "id": "3c4f7596-6542-49a3-9daf-70c10feff412",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
+    "summary": "1. Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard—at Claude Sonnet pricing.",
+    "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-17T17:36:42.000Z"
+  },
+  {
+    "id": "594229c3-3d39-4301-b17b-cc8ebc15bc05",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
+    "summary": "1. Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments.",
+    "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
+    "author": "Olivier Acuna",
+    "created_at": "2026-07-17T17:23:01.000Z"
+  },
+  {
+    "id": "e5ea624b-e52a-42e5-b28a-c43de311090e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tether’s USDT Is Adding Over 30 Million Wallets Every Quarter, CEO Paolo Ardoino Says",
+    "summary": "1. Tether CEO Paolo Ardoino says USDT’s user base is growing by more than 30 million wallets per quarter, extending the stablecoin’s lead as its market capitalization hovers near record levels.\n2. Growth That Shows No Signs of Slowing Down Ardoino’s latest growth figure is the newest in a series of adoption statistics the chief executive has […]",
+    "url": "https://news.bitcoin.com/tether-usdt-30-million-wallets-quarter-ardoino/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-17T17:15:49.000Z"
+  },
+  {
+    "id": "02c0ddb4-615a-4ba1-948e-4924c231e6ad",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Cardano developer Input Output to hand off core infrastructure in decentralization push",
+    "summary": "Cardano developer Input Output announced it will transfer key infrastructure responsibilities to outside specialist teams as part of its decentralization push, CoinDesk reported. Input Output said it plans to reduce reliance on the in-house developer by handing control of core blockchain infrastructure to external teams, describing the move as the next stage of Cardano’s decentralization.The handoff includes the Haskell node, the Plutus smart contract platform, the Daedalus wallet, Hydra scaling technology and developer relations. Se7en Labs, a developer specializing in Solana blockchain infrastructure, and Teragone, a software development and research team leading work on Mithril, Cardano’s staking-based signature scheme, will take over the responsibilities. The transition is set to begin in August and continue through 2027.",
+    "url": "https://t.me/CoinnessGL#f8eaee2d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T17:15:21+00:00"
+  },
+  {
+    "id": "40e8ee32-548e-4521-94c7-e26e1af63e1f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rises above $64,000",
+    "summary": "According to CoinNess market monitoring, BTC has risen above $64,000. BTC is trading at $64,015.53 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#810b075b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T17:11:28+00:00"
+  },
+  {
+    "id": "a2a3ae7a-75b9-46d4-98d1-123bbe89f06d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
+    "summary": "1. The feature offers European customers a voluntary path away from Tether’s USDT as MiCA rules reshape the region’s stablecoin market.",
+    "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-17T16:54:37.000Z"
+  },
+  {
+    "id": "b9ec04ab-853f-4021-8cea-4237dc7fbae8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
+    "summary": "1. With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump’s earnings between January and July ahead of a 2027 deadline.",
+    "url": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-17T16:48:22.000Z"
+  },
+  {
+    "id": "fdffaf35-a513-489d-a75d-b5fe5a595084",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days",
+    "summary": "1. Bitcoin fell near $63,000 as chip stocks sold off, the Coinbase premium stayed negative a record 60 days, and ETF flows remain thin.",
+    "url": "https://www.theblock.co/post/408793/bitcoin-slides-63000-coinbase-premium-stays-negative-record-60-days?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-17T16:38:50.000Z"
+  },
+  {
+    "id": "a239a660-c3f0-4b51-b3fb-e7c0bb45ee28",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Trump Media considers charging traders and investors up to $100,000 per month for faster access to President Trump's Truth Social posts, FT reports.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d97af659",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-17T16:32:42+00:00"
+  },
+  {
+    "id": "d10ad987-e05f-48e5-bc57-3fcf978d9948",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Trump Media pitched a $100,000 monthly fee for faster access to the president’s social postsTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#132e9971",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-17T16:31:15+00:00"
+  },
+  {
+    "id": "2f50d6b9-3007-444c-8f4e-f2a8452eb96b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Cardano hands core development to outside teams in decentralization push",
+    "summary": "1. Input Output will transfer control of the Haskell node, Plutus, Hydra and other components as founder Charles Hoskinson says the network must change and start growing again.",
+    "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
+    "author": "Olivier Acuna",
+    "created_at": "2026-07-17T16:23:26.000Z"
+  },
+  {
     "id": "2fc2ad6b-d84e-47bb-ba68-e2f041c10fbe",
     "source": "TechCrunch",
     "type": "rss",
@@ -50,7 +330,7 @@
     "created_at": "2026-07-17T15:58:36.000Z"
   },
   {
-    "id": "1a175dc8-add7-4105-971c-0c85d894875a",
+    "id": "a5637c79-ac3c-4116-996d-bea5907d73a3",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇶 US oil giant Chevron explores new pipeline routes in Iraq to bypass the Strait of Hormuz.@WatcherGuru",
@@ -150,7 +430,7 @@
     "created_at": "2026-07-17T15:00:20+00:00"
   },
   {
-    "id": "165157d7-88c0-4b5b-b0a7-d08a2f62e1bf",
+    "id": "3ff3682d-a350-4f13-b7fc-3568bcee0fe2",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Odds of crypto Clarity Act passing hit all-time low as Congress meets to discuss the bill.@WatcherGuru",
@@ -368,185 +648,5 @@
     "url": "https://github.com/paradigmxyz/reth/releases/tag/v2.4.1",
     "author": "github-actions[bot]",
     "created_at": "2026-07-17T13:23:16Z"
-  },
-  {
-    "id": "ea6b8f8e-02d4-4be1-be48-024b7d1bc0b9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
-    "summary": "1. SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licensed exchange into its expanding digital asset network.",
-    "url": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-07-17T13:15:13.000Z"
-  },
-  {
-    "id": "118dd497-954e-4913-8417-f93721b54183",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "\"Just one more....\" 🥺",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#865c1cb5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-17T13:01:16+00:00"
-  },
-  {
-    "id": "7b940332-70d9-49de-bf06-4fd6e0acc06d",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Italian Embassy as fully renovated by a great American Patriot!!!\n2. This should be done to NEW YORK CITY!\n3. Needs so much loving care.",
-    "url": "https://trumpstruth.org/statuses/40092",
-    "author": "Trump Truth",
-    "created_at": "2026-07-17T12:54:04.000Z"
-  },
-  {
-    "id": "e1395a1f-737c-49fd-8a2d-b04ea05d802b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein",
-    "summary": "1. Crypto-style perps and prediction markets hit AI compute ahead of CME and ICE, with regulated GPU futures targeted for late 2026.",
-    "url": "https://www.theblock.co/post/408758/crypto-style-derivatives-reach-ai-compute-ahead-of-planned-cme-and-ice-futures-bernstein?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-07-17T12:48:20.000Z"
-  },
-  {
-    "id": "02454aee-aca7-44db-9ace-ec75fbca017f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-    "summary": "1. Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free.\n2. Semiconductor stocks fell, and crypto fell with them.",
-    "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-17T12:45:11.000Z"
-  },
-  {
-    "id": "4b4e91e0-dd7a-4219-815d-7d424ca4accf",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
-    "summary": "1. Wall Street and crypto's convergence snapped into focus, while crypto majors gave back most of the week's gains as broader markets sold off.",
-    "url": "https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
-    "author": "Tyler Warner",
-    "created_at": "2026-07-17T12:09:14.000Z"
-  },
-  {
-    "id": "550aed77-8f17-44da-9ac5-e08034e5519f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "summary": "1. A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-07-17T12:00:00.000Z"
-  },
-  {
-    "id": "2486d848-c642-4199-930c-b74581cd05c3",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
-    "summary": "1. Your day-ahead look for July 17, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/17/ai-frenzy-losing-steam-leaves-bitcoin-less-volatile-than-south-korean-stocks",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-17T11:48:20.000Z"
-  },
-  {
-    "id": "fd261a66-211f-48ae-ad0d-cb4158e3fe57",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Grant Cardone Stacks Another 10.5 Bitcoin From July Rent Cash Flow, Keeping Holdings Above 2,700 BTC",
-    "summary": "1. Real estate mogul Grant Cardone said Cardone Capital added another 10.5 BTC from July property cash flow, bringing his total keep somewhere around 2,700 BTC.\n2. A Growing Stack That Shows No Sign of Stopping Cardone disclosed the purchase earlier today, the latest in a string of monthly buys funded by rent checks rather than debt […]",
-    "url": "https://news.bitcoin.com/grant-cardone-10-5-btc-july-cash-flow/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-17T11:30:54.000Z"
-  },
-  {
-    "id": "b7289641-d6f4-4c8e-b6a6-e69742ee1d75",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss",
-    "summary": "1. Some two-thirds of the coins moving onto exchanges are long-term holders taking losses, as a macro risk-off drags on Bitcoin’s price.",
-    "url": "https://decrypt.co/373696/bitcoin-tests-63k-as-long-term-holders-keep-selling-at-a-loss",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-17T11:21:16.000Z"
-  },
-  {
-    "id": "3a157450-c1b2-4ccd-abbc-faf22d4037cc",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
-    "summary": "1. A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 it reached on this week's soft inflation print.",
-    "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-17T10:43:57.000Z"
-  },
-  {
-    "id": "e2004ebf-265b-4f83-8c4d-169862d10707",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "ESMA adds 14 crypto service providers to MiCA registry, including Ripple",
-    "summary": "The European Securities and Markets Authority (ESMA) has added 14 new Crypto-Asset Service Providers (CASPs) to its Markets in Crypto-Assets (MiCA) registry, bringing the total to 294, Cointelegraph reported. The new additions include Ripple's European payments subsidiary, Ripple Payments Europe, as well as Portugal's Bison Bank, Croatia's state-owned Hrvatska poštanska banka (HPB), and several German cooperative banks. ESMA stated this shows the continued entry of traditional financial institutions into the MiCA market.Meanwhile, the number of registered E-Money Token (EMT) issuers stands at 21, with no Asset-Referenced Token (ART) issuers yet approved. ESMA also added two non-compliant firms to a separate list following action by Italy's financial authority (CONSOB), increasing the total on that list to 164.",
-    "url": "https://t.me/CoinnessGL#f242ca34",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-17T10:42:06+00:00"
-  },
-  {
-    "id": "0a4f9b07-f9f1-4fca-a1b1-e654243781fd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase CEO says stock tokenization will break Wall Street's monopoly",
-    "summary": "Coinbase CEO Brian Armstrong has argued that the tokenization of stocks will break Wall Street's monopolistic structure. He stated that billions of people are unable to access the U.S. stock market due to geographical regulations and complex financial systems, emphasizing that tokenization is the solution. Acting on this vision, Coinbase launched a tokenized stock trading service last month for non-U.S. users, backed on a one-to-one basis by physical shares. The service allows users to trade fractional shares of U.S. stocks like Apple and Nvidia and receive dividends using only a smartphone. Armstrong noted that traditional financial institutions are also accelerating their tokenization efforts, citing tests by the DTCC, JPMorgan, and BlackRock to move ETFs onto the blockchain. He predicted that stock tokenization will become central to the competition for retail investors, shaking the monopoly held by existing brokerage firms.",
-    "url": "https://t.me/CoinnessGL#dbad2685",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-17T10:36:48+00:00"
-  },
-  {
-    "id": "236c3cd5-1921-4d61-b35d-5c519c397e69",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "SBI Holdings completes acquisition of Singapore's Coinhako to expand in Southeast Asia",
-    "summary": "SBI Holdings has completed its acquisition of a majority stake in Singaporean virtual asset platform Coinhako, making it a subsidiary. The company announced that the transaction was finalized on July 16 after receiving approval from the Monetary Authority of Singapore (MAS). Coinhako provides regulated digital asset services through Hako Technology, which holds a Major Payment Institution (MPI) license. SBI stated that the acquisition will provide it with Coinhako's customer base, operational expertise, and regional network. The company plans to build a digital asset ecosystem connecting Japan and Southeast Asia, expanding its business into cryptocurrency trading, a Japanese yen stablecoin (JPYSC), security tokens, on-chain finance, and cross-border payments.",
-    "url": "https://t.me/CoinnessGL#eb229dc3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-17T10:30:57+00:00"
-  },
-  {
-    "id": "71891c47-e858-4fe1-a678-2117c9af0f07",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bankless co-founder David Hoffman says Bitcoin is unlikely to break below its 200-week MA, arguing today’s market lacks the 2022-style contagion that drove prior capitulation.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#bc7858dc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-17T10:30:17+00:00"
-  },
-  {
-    "id": "8623f668-0e94-4ece-b9a1-0da09cb65fa8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Morgan Stanley Completes E*Trade Crypto Rollout With 50 Basis Point Fees: Here’s What Clients Get",
-    "summary": "1. Morgan Stanley’s E*Trade finished rolling out spot bitcoin, ether and solana trading to U.S.\n2. clients on July 16, undercutting rivals with a 50-basis-point fee as Wall Street’s crypto race accelerates.\n3. What’s on Offer The completed rollout means eligible E*Trade clients can buy, sell and hold the three largest non-stablecoin digital assets inside the same interface […]",
-    "url": "https://news.bitcoin.com/morgan-stanley-etrade-crypto-rollout-complete/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-17T10:30:03.000Z"
-  },
-  {
-    "id": "b3f27fd9-e98f-470a-89a3-9dd67f9c17be",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "ESMA Adds 14 New CASPs to MiCA Register as Licensing Slows",
-    "summary": "1. ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe among the new entries as total providers reach 294.",
-    "url": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-17T10:29:35.000Z"
-  },
-  {
-    "id": "a4339c97-8c4f-494c-b647-3d2202f2c457",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
-    "summary": "1. Crypto fell as AI stock fatigue and U.S.-Iran tensions weighed on sentiment, though a technical measure hints at oversold conditions heading into the weekend.",
-    "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
-    "author": "Oliver Knight",
-    "created_at": "2026-07-17T10:26:06.000Z"
   }
 ]
