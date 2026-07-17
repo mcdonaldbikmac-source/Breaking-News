@@ -1,5 +1,25 @@
 [
   {
+    "id": "3614b90c-28ba-4abf-8b84-27a6c1069b16",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-17T03:31:27.000Z"
+  },
+  {
+    "id": "5c311334-4473-438b-8b66-b2f29b2096af",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-17T03:31:27.000Z"
+  },
+  {
     "id": "b36b57e1-0e54-4199-a4b6-992d51c22b1d",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -10,7 +30,7 @@
     "created_at": "2026-07-17T03:10:59.000Z"
   },
   {
-    "id": "8613417c-4252-4800-b38a-4ddcfc922b6a",
+    "id": "2fa9ec05-b28c-4764-8bc5-8252d3088567",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "24-hour crypto futures liquidations",
@@ -40,7 +60,7 @@
     "created_at": "2026-07-17T02:23:40.000Z"
   },
   {
-    "id": "550c9dd0-8aed-4a5e-a1c0-bc71ea87ce9f",
+    "id": "1bae513b-18d3-4d73-b57c-bfdffd55d76e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🏦 Morgan Stanley's E*TRADE has launched spot Bitcoin, Ethereum and Solana trading via Zero Hash for eligible clients.",
@@ -70,7 +90,7 @@
     "created_at": "2026-07-17T01:45:18.000Z"
   },
   {
-    "id": "ef752a38-0e28-4e8a-8678-31d0945e1865",
+    "id": "3a1df611-8ccc-4570-8dd2-92425988cf7a",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "A16z-linked address deposits $30.6M in HYPE to exchanges",
@@ -80,7 +100,7 @@
     "created_at": "2026-07-17T01:38:51+00:00"
   },
   {
-    "id": "4bb1d282-b02d-4afe-a3f9-7d9f589f413c",
+    "id": "cfd19c34-a53d-4c50-b739-7026cdd4117a",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Altcoin Season Index rises to 49, up 2 points from yesterday",
@@ -90,7 +110,7 @@
     "created_at": "2026-07-17T01:32:26+00:00"
   },
   {
-    "id": "f4366411-a485-4e57-8235-4150d119cd06",
+    "id": "5dc99fa7-6e26-4594-ab58-7b45d73a6c63",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Robinhood CEO Vlad Tenev says Robinhood Chain exists to make real-world assets \"programmable, globally portable, and always available.\"",
@@ -100,7 +120,7 @@
     "created_at": "2026-07-17T01:21:09+00:00"
   },
   {
-    "id": "a663f4f6-78e6-4de8-85a8-bb4b1b48c204",
+    "id": "1179d9af-25bf-42ba-a766-195716a93ac6",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇯🇵 SBI Holdings has partnered with Ondo Finance to tokenize Japanese equities through Ondo Global Markets, using SBI's JPYSC stablecoin for settlement and collateral.",
@@ -160,7 +180,7 @@
     "created_at": "2026-07-16T22:37:32.000Z"
   },
   {
-    "id": "51d10053-bbd5-4c25-b899-b965d8cf6ebf",
+    "id": "d72813da-9618-4cf4-aaaf-ca063ceaad16",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Crypto Clarity Act expected to be released today does not have Senate Democrat support, Politico reports.@WatcherGuru",
@@ -218,25 +238,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#3dea8cf0",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-16T21:55:10+00:00"
-  },
-  {
-    "id": "6c94e2df-da0f-449a-ab29-ee4ae1f94abb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "France’s World Cup Exit Erases Sportsbook Liability as Prediction Volume Surges",
-    "summary": "1. France’s 2-0 semifinal defeat to Spain eliminated one of the most heavily backed teams on U.S.\n2. sportsbooks, wiping out major outright and player-prop liabilities.\n3. The result also closed France’s positions across multibillion-dollar World Cup prediction markets, although exchanges do not profit from an upset in the same way as traditional bookmakers.",
-    "url": "https://news.bitcoin.com/frances-world-cup-exit-erases-sportsbook-liability-as-prediction-volume-surges/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-16T21:30:08.000Z"
-  },
-  {
-    "id": "7dcc6c56-08f3-47f1-b9bd-995530918165",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-    "summary": "1. Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-    "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-07-16T21:22:31.000Z"
   }
 ]
