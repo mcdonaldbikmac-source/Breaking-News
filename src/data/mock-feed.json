@@ -1,5 +1,185 @@
 [
   {
+    "id": "99a48e58-7ddc-4f6a-a6ef-0ae80083187f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ US federal agents arrested a 21-year-old Florida man over a scheme that hid crypto-stealing malware inside video games, infecting roughly 8,000 devices and draining $220K from victims.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#54bbca7e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T08:10:13+00:00"
+  },
+  {
+    "id": "99eac489-342e-4328-8cd1-bd67ea270bf9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitcoin Japan to buy $4.1M in BTC after fundraising",
+    "summary": "Bitcoin Japan (formerly Hota Marusho), a company listed on the Tokyo Stock Exchange, has announced it raised approximately 9.657 billion yen ($60.3 million) through the issuance of convertible bonds and new share warrants.Of this amount, the company plans to allocate about 662 million yen ($4.1 million), or roughly 7% of the proceeds, to purchase Bitcoin for its corporate portfolio. The move represents the company's first actual BTC acquisition since its rebranding to Bitcoin Japan.",
+    "url": "https://t.me/CoinnessGL#11c20d45",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T07:43:11+00:00"
+  },
+  {
+    "id": "36bd4093-cbc1-407a-8ab7-78a59fe29693",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Weekly Top Gainers 1️⃣ eCash: +30.32% 2️⃣ KAITO: +27.83% 3️⃣ Lido DAO: +19.73%...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6d6fa942",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T07:40:14+00:00"
+  },
+  {
+    "id": "9594be9d-4bfa-453c-8f99-95243535d1a7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trader bets $28M on ETH volatility with long straddle",
+    "summary": "A large long straddle trade has been detected in the Ethereum (ETH) options market, betting on a sharp price movement, CoinDesk reported. The transaction involved the purchase of 7,500 call options and 7,500 put options—totaling 15,000 contracts—with a strike price of $1,875 and an expiration date of July 24. The notional value of the trade is approximately $28 million.This strategy is designed to profit from volatility itself, rather than a specific price direction, and will be profitable if the price of ETH moves significantly either up or down by expiration. The trader paid a premium of $852,000 to establish the position.",
+    "url": "https://t.me/CoinnessGL#813df43b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T07:38:23+00:00"
+  },
+  {
+    "id": "c06ec61c-d495-44b0-b1dc-7bdfa1280cc4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Argentine Judge Orders Urgent Freeze of Crypto Wallets Tied to Controversial Libra Token",
+    "summary": "1. The measure, ordered by Federal Judge Marcelo Martinez, seeks to ascertain the identities of the owners of 25 wallets that moved the funds left after the launch of Libra, and the freezing of the funds in these wallets.\n2. At least 10 transactions passed through centralized exchanges, such as Binance, that exert KYC controls.\n3. Federal Judge […]",
+    "url": "https://news.bitcoin.com/argentine-judge-orders-urgent-freeze-of-crypto-wallets-tied-to-controversial-libra-token/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-17T07:30:51.000Z"
+  },
+  {
+    "id": "d9259102-7cea-43ca-b4b8-611a98bb058c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Injective says it has filed for SEC transfer agent registration, aiming to bring securities ownership records onchain for tokenized assets and RWAs.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7c9104f7",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T07:30:17+00:00"
+  },
+  {
+    "id": "52cd9196-8bfe-4c0d-bb5b-5c52efbf5155",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "This $28 million ether market bet aims to profit from pure market chaos",
+    "summary": "1. The mega trade aims to profit from a potential surge in ether price turbulence.",
+    "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-17T07:28:52.000Z"
+  },
+  {
+    "id": "d25fd19a-6dc0-4d55-b3c1-6c4beae8c378",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin ETFs add $368M in three-day buying streak",
+    "summary": "1. US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-day inflow total to about $368 million as Bitcoin attempted a price recovery.",
+    "url": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-17T07:23:02.000Z"
+  },
+  {
+    "id": "29521b16-1cdf-45d3-8f02-70a15fa09647",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "DeFi’s Newest Threat: How Malicious Liquidity Pools Are Trick-Quoting Ethereum and Polygon Users",
+    "summary": "1. DeFi infrastructure firm Enso has identified a new class of malicious liquidity pools called “toxic pools.” Unlike traditional exploits that steal funds directly, these pools manipulate transaction simulations.\n2. A ‘Jekyll and Hyde’ Tactic A newly uncovered class of malicious decentralized finance (DeFi) liquidity pools is targeting the core infrastructure that cryptocurrency traders rely on to […]",
+    "url": "https://news.bitcoin.com/defis-newest-threat-how-malicious-liquidity-pools-are-trick-quoting-ethereum-and-polygon-users/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-17T06:30:47.000Z"
+  },
+  {
+    "id": "bf34064d-3426-4c27-a84b-995676b9cbbc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase Bitcoin premium negative for record 60 straight days",
+    "summary": "According to data from Coinglass, the Coinbase Bitcoin Premium Index has recorded a negative premium for 60 consecutive days since May 19, setting a new record. The most recent reading for the index is -0.0908%. This surpasses the previous record of 40 consecutive days of negative premium, which was set between Jan. 16 and Feb. 24 of this year. A sustained negative premium is often associated with outflows of U.S. institutional capital, suggesting potential short-term downward pressure on prices.",
+    "url": "https://t.me/CoinnessGL#2f578edb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T06:13:03+00:00"
+  },
+  {
+    "id": "e8048342-ec9e-4f87-b188-00ea4f5bbe6b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump-Backed CLARITY Act Text Set to Drop With No Democrats on Board, and It Needs 7 of Them",
+    "summary": "1. Senate Republicans planned to release the updated CLARITY Act text on July 17, immediately after a White House meeting with President Donald Trump, even as Senate Democrats warned they will not support the draft.\n2. Delay After Delay Republican senators were expected to unveil the long-delayed Senate text following Thursday afternoon’s meeting with the president.",
+    "url": "https://news.bitcoin.com/clarity-act-text-trump-meeting-democrats/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-17T06:05:45.000Z"
+  },
+  {
+    "id": "c0fdf0f1-85b1-4f0d-9edf-094ea8551512",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-17T06:05:29.000Z"
+  },
+  {
+    "id": "68513f89-0ff5-4c3e-a737-d3bf57900f46",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
+    "summary": "1. “Over time the economic incentives will drive $DOG Mode’s adoption and force Bitcoin Core to stop gatekeeping and allow these completely valid transactions,” said Leonidas.",
+    "url": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-17T05:54:04.000Z"
+  },
+  {
+    "id": "597e230d-6796-452d-89a5-57be08b9e3bf",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin Ordinals leader proposes a way to bypass data restriction efforts",
+    "summary": "1. While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
+    "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-17T05:32:00.000Z"
+  },
+  {
+    "id": "1ab4261c-9653-4fff-badb-d5bb6b0de0a6",
+    "source": "The Block",
+    "type": "rss",
+    "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
+    "summary": "1. USDT and USDC are stablecoins pegged one-to-one to the U.S.\n2. dollar, each backed by reserves covering every token in circulation.\n3. Tether’s USDT is the largest stablecoin, with the deepest liquidity across global exchanges.",
+    "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-07-17T04:22:22.000Z"
+  },
+  {
+    "id": "358a8e8e-042f-4bfc-ae48-7de76bfe4a3d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+    "summary": "1. Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
+    "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-17T04:10:09.000Z"
+  },
+  {
+    "id": "1ef686d6-5a07-47b2-b567-a092856283ce",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Abdul El-Sayed on AIPAC spending, ‘Defund the Police’ and why he’s not a socialist",
+    "summary": "1. Abdul El-Sayed on AIPAC spending, ‘Defund the Police’ and why he’s not a socialist",
+    "url": "https://www.politico.com/video/2026/07/16/abdul-el-sayed-on-aipac-spending-defund-the-police-and-why-hes-not-a-socialist-2121739",
+    "author": "Politico",
+    "created_at": "2026-07-17T03:59:00.000Z"
+  },
+  {
+    "id": "92f70400-0ae0-4b3c-a8cc-3406c728a543",
+    "source": "The Block",
+    "type": "rss",
+    "title": "SEC vs CFTC: Who Regulates Crypto?",
+    "summary": "1. Crypto oversight is split mainly between two agencies: the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).\n2. In broad terms, the SEC handles crypto assets that behave like investments in a company.\n3. Meanwhile, the CFTC handles assets that behave like commodities, along with futures and other derivatives tied to them.",
+    "url": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-07-17T03:49:02.000Z"
+  },
+  {
     "id": "3614b90c-28ba-4abf-8b84-27a6c1069b16",
     "source": "The Defiant",
     "type": "rss",
@@ -58,185 +238,5 @@
     "url": "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Felix Ng",
     "created_at": "2026-07-17T02:23:40.000Z"
-  },
-  {
-    "id": "1bae513b-18d3-4d73-b57c-bfdffd55d76e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 Morgan Stanley's E*TRADE has launched spot Bitcoin, Ethereum and Solana trading via Zero Hash for eligible clients.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e8ef8ec1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-17T02:10:14+00:00"
-  },
-  {
-    "id": "2c2a2803-fa79-412c-aaf9-a09c504a5937",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
-    "summary": "1. “If we are not welcome, there are many other countries that would welcome us,” said Network School founder Balaji Srinivasan in a message to the Malaysian prime minister.",
-    "url": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-17T01:54:00.000Z"
-  },
-  {
-    "id": "6ebfa141-75a0-4801-9ce6-e7da36c8e6ee",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Visa Stablecoin Platform Pushes Institutional Payments Onchain With Open USD",
-    "summary": "1. Visa’s new enterprise platform gives banks, fintechs, and payment providers integrated stablecoin minting, wallet infrastructure, and settlement tools, but adoption will depend on beta results, institutional demand, and expansion beyond select clients.\n2. Visa Aims to Turn Stablecoin Interest Into Institutional Payment Flows Visa (NYSE: V) announced on July 16, 2026, that its stablecoin expansion presents […]",
-    "url": "https://news.bitcoin.com/visa-stablecoin-platform-pushes-institutional-payments-onchain-with-open-usd/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-17T01:45:18.000Z"
-  },
-  {
-    "id": "3a1df611-8ccc-4570-8dd2-92425988cf7a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "A16z-linked address deposits $30.6M in HYPE to exchanges",
-    "summary": "An address suspected to belong to a16z has deposited 471,500 HYPE, worth $30.57 million, to exchanges including OKX, Bybit, and Gate.io, EmberCN reported. Such deposits are typically interpreted as a precursor to selling. This activity follows on-chain data from last month that suggested a16z was accumulating HYPE, while signs of selling, including exchange deposits, have emerged since the beginning of this month.",
-    "url": "https://t.me/CoinnessGL#21d0aaa7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-17T01:38:51+00:00"
-  },
-  {
-    "id": "cfd19c34-a53d-4c50-b739-7026cdd4117a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Altcoin Season Index rises to 49, up 2 points from yesterday",
-    "summary": "CoinMarketCap's Altcoin Season Index has risen two points from the previous day to 49. The index is calculated by comparing the price performance of the top 100 coins by market capitalization, excluding stablecoins and wrapped coins, against that of Bitcoin over the last 90 days. An altcoin season is declared when 75% of these top coins outperform Bitcoin over that period; the opposite is considered a Bitcoin season. A score closer to 100 indicates an altcoin season.",
-    "url": "https://t.me/CoinnessGL#ae15561b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-17T01:32:26+00:00"
-  },
-  {
-    "id": "5dc99fa7-6e26-4594-ab58-7b45d73a6c63",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Robinhood CEO Vlad Tenev says Robinhood Chain exists to make real-world assets \"programmable, globally portable, and always available.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#fe2841fa",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-17T01:21:09+00:00"
-  },
-  {
-    "id": "1179d9af-25bf-42ba-a766-195716a93ac6",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇯🇵 SBI Holdings has partnered with Ondo Finance to tokenize Japanese equities through Ondo Global Markets, using SBI's JPYSC stablecoin for settlement and collateral.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#14efc42f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-17T00:40:15+00:00"
-  },
-  {
-    "id": "5c5d7ebc-dc24-4640-b51d-cf71fe6f6e13",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.212",
-    "summary": "1. ## What's changed\n\n- `/fork` now copies your conversation into a new background session (its own row in `claude agents`) while you keep working; the in-session subagent it used to launch is now `/subtask`\n- Added `claude auto-mode reset` to restore the default auto-mode configuration, with a confirmation prompt (pass `--yes` to skip)\n- Added a session-wide limit on WebSearch tool calls (default 200, tunable via `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`) to stop runaway search loops\n- Added a per-session cap on subagent spawns (default 200, override with `CLAUDE_CODE_MAX_SUBAGENTS_PER_SESSION`) to stop runaway delegation loops; `/clear` resets the budget\n- MCP tool calls running longer than 2 minutes now move to the background automatically so the session stays usable; configure the threshold or disable with `CLAUDE_CODE_MCP_AUTO_BACKGROUND_MS`\n- Typing `/resume` in the agent view now opens a picker of past sessions — including sessions deleted from the list — and resumes your pick as a background session\n- Fixed plan mode auto-running file-modifying Bash commands (e.g.\n2. `touch`, `rm`) without a permission prompt or SDK `canUseTool` callback\n- Fixed worktree creation following a repository-committed symlink at `.claude/worktrees`, which could create files outside the repository\n- Fixed a `continue:false` hook's halt being dropped when the tool fails or completes mid-stream, and hook infrastructure errors being misreported as user rejections\n- Fixed SIGTERM during a running Bash tool orphaning the command's process tree in print/SDK mode; the CLI now aborts the turn, kills the tree, and exits 143\n- Fixed `/background` and `claude --bg` failing with \"EUNKNOWN: unknown error, uv_spawn\" on Windows when Group Policy blocks PowerShell 5.1; the daemon now prefers PowerShell 7\n- Fixed shell mode (`!`) not executing commands containing file paths while the path autocomplete popup was open\n- Fixed auto-mode denial notifications rendering broken characters when a long denial reason was truncated mid-emoji\n- Fixed Ctrl+J not inserting a newline in the agent view dispatch input on terminals with extended key reporting, and surfaced the newline shortcut in the `?` help overlay\n- Fixed `/ultrareview` rejecting PR references like `#123`, `PR 123`, and pasted PR URLs; error hints now name the command you actually typed\n- Fixed `/ultrareview ` not fetching the branch from origin when it exists remotely; it now suggests the closest branch name on typos\n- Fixed `/ultrareview` skipping the billing confirmation in a new conversation after `/clear`\n- Fixed `/ultrareview`'s \"not a git repository\" error on Claude Desktop now suggesting the project's repository folder instead of terminal commands\n- Fixed hosted (host-managed) sessions failing at startup when repository settings configured mTLS certs, extra CA bundles, or OAuth scopes; these transport settings are now ignored with a warning\n- Fixed a spurious \"File has not been read yet\" error when editing a file that had been read with offset/limit before resuming a session\n- Fixed `ExitWorktree` failing with \"no active EnterWorktree session\" after resuming a session with `--continue`/`--resume` in print/SDK mode\n- Fixed the workflow agent grid staying empty for Remote Control clients that join a session mid-run\n- Fixed streaming-mode control requests being marked complete before their handler finished, which could lose the request on session restart\n- Fixed background sessions created with `/fork` losing their live-parent protection after a state write failure\n- Fixed reopening a stopped background session from the agent view failing silently — it now resumes the session, or shows why it can't and lets you force a restart\n- Fixed agent teams: a stopping teammate could send the leader duplicate idle notifications when team initialization re-ran within a session\n- Fixed the plan-approval dialog footer splitting \"ctrl+g to edit in \" apart when the file path is long\n- Fixed the welcome banner keeping its old panel widths after a combined width+height terminal resize in fullscreen mode\n- Fixed diff previews losing their line numbers and +/- markers in narrow layouts\n- Fixed @-mentions attaching nothing after a partial file read, plugin uninstall targeting the wrong marketplace, and false \"Command timed out\" on exit code 143\n- Fixed OpenTelemetry HTTP exports being rejected with 411/400 by Azure Monitor and other endpoints that don't accept chunked transfer encoding\n- Fixed OTLP event log records missing `trace_id`/`span_id` when `TRACEPARENT` is set in SDK/headless mode\n- Fixed conversations with many images incorrectly failing with \"Request too large\" errors, and improved the error message to explain the actual cause\n- Fixed web search and web fetch returning \"API Error\" text as search results or page content when the API was overloaded\n- Improved web search and web fetch reliability by retrying 529 errors and rate-limited requests with bounded backoff\n- Improved prompt caching: the mid-conversation system block now works behind LLM gateways and custom base URLs (Bedrock, Vertex, 1P)\n- Improved background agent attach: cold-attaching now instantly shows the formatted transcript while the session boots, instead of a blank wait\n- Reduced token usage in inter-agent messaging: `SendMessage` bodies are no longer duplicated into replayed history and tool results\n- Changed `/fork` to name the copy after your prompt when the session has no title, so the row is recognizable in the agent view\n- Changed bare `/btw` to reopen the side-question panel on your most recent exchange so you can browse earlier answers\n- Changed the `←` footer hint to pulse `N done` for a moment when a background agent finishes while nothing needs your input\n- Deprecated the Task tool's `mode` parameter (now ignored); subagents inherit the parent session's permission mode by default\n- Changed Enterprise `forceLoginMethod` to be enforced for VS Code extension, SDK, `setup-token`, and `install-github-app` logins, not just the terminal\n- Changed session transcripts to record the reasoning effort level on each assistant message\n- Changed headless/SDK sessions to apply a `set_model` control request mid-turn; the next model round-trip uses the new model instead of waiting for the next turn\n- Changed agent view / `claude agents --json`: sessions waiting on a sandbox, MCP-input, or managed-settings prompt now show as \"Needs input\" instead of \"Working\"\n- Updated the auth status panel title from \"Cloud authentication\" to \"Authentication\"\n- Corrected an earlier release note (2.1.200): tmux through the 3.6 series lacks synchronized output; newer tmux with support is detected automatically",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.212",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-17T00:26:27Z"
-  },
-  {
-    "id": "0a2163e3-3ceb-4037-a399-92e6b9344207",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
-    "summary": "1. Bitcoin futures traders are propping up the current market move, while liquidation heatmap data provides hints on where BTC price may go next.",
-    "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ray Salmond",
-    "created_at": "2026-07-17T00:12:40.000Z"
-  },
-  {
-    "id": "a91ab470-00b2-49f0-8267-e5e9fec08e82",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-    "summary": "1. In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
-    "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-07-16T23:25:22.000Z"
-  },
-  {
-    "id": "de05026b-6b3f-490a-a4e6-84ba5209843b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-    "summary": "1. The company didn't immediately say what went wrong.\n2. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
-    "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-07-16T23:01:27.000Z"
-  },
-  {
-    "id": "898d5566-2cdb-46e5-a0df-347627d50711",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: iso mini app feedback 👇",
-    "summary": "1. iso mini app feedback 👇",
-    "url": "https://warpcast.com/farcaster/0xf3d49f1e",
-    "author": "Farcaster",
-    "created_at": "2026-07-16T22:37:32.000Z"
-  },
-  {
-    "id": "d72813da-9618-4cf4-aaaf-ca063ceaad16",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Crypto Clarity Act expected to be released today does not have Senate Democrat support, Politico reports.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1e3f564e",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-16T22:24:50+00:00"
-  },
-  {
-    "id": "879a3ab5-62a3-458a-ac13-4488b93b505c",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-16T22:08:45.000Z"
-  },
-  {
-    "id": "ab9cb482-d797-4dc3-bec4-48e6ce8e1652",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "US Lawmakers Propose Facial Age Verification Across Online Betting Markets",
-    "summary": "1. A bipartisan group of U.S.\n2. lawmakers wants online sportsbooks and prediction markets to scan users’ faces to estimate their age before allowing them to bet or trade.\n3. The proposal promises not to retain identities or biometric information, but its full text has not yet been published, leaving enforcement, accuracy and appeal requirements unclear.",
-    "url": "https://news.bitcoin.com/us-lawmakers-propose-facial-age-verification-across-online-betting-markets/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-16T22:05:36.000Z"
-  },
-  {
-    "id": "7d7e0f54-4d1c-4ccd-b898-deed1c6efe7a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Polygon CEO announces job cuts amid Coinme acquisition",
-    "summary": "1. The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in January.",
-    "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-16T22:05:06.000Z"
-  },
-  {
-    "id": "a9dbdc0d-acff-497b-b3b8-ab99705da3e8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Hearing set for September in lawsuit over Satoshi's BTC ownership",
-    "summary": "A U.S. lawsuit concerning the ownership of long-dormant BTC wallets, including those believed to belong to founder Satoshi Nakamoto, is scheduled for a hearing on Sept. 8, according to Alex Thorn, head of research at Galaxy Digital. The plaintiff, Noah Doe, is claiming ownership of the assets, arguing that the BTC constitutes \"abandoned property.\" The Bitcoin Policy Institute has asked the court to dismiss the case. The institute warned that if the plaintiff's argument is legally recognized, it could set a precedent for revoking the ownership of self-custody users, potentially shaking the entire ecosystem.",
-    "url": "https://t.me/CoinnessGL#95961c14",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-16T22:02:03+00:00"
-  },
-  {
-    "id": "e502f8cf-b9f5-47fd-b1f3-ca4bf3f67c0b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Jeff Booth- and Lyn Alden-backed ORANGE JUICE raised $40M to launch a permanent capital firm that will buy and hold US businesses while pursuing a Bitcoin treasury strategy.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3dea8cf0",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-16T21:55:10+00:00"
   }
 ]
