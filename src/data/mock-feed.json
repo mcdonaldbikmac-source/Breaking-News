@@ -1,5 +1,215 @@
 [
   {
+    "id": "3a157450-c1b2-4ccd-abbc-faf22d4037cc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
+    "summary": "1. A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 it reached on this week's soft inflation print.",
+    "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-17T10:43:57.000Z"
+  },
+  {
+    "id": "e2004ebf-265b-4f83-8c4d-169862d10707",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ESMA adds 14 crypto service providers to MiCA registry, including Ripple",
+    "summary": "The European Securities and Markets Authority (ESMA) has added 14 new Crypto-Asset Service Providers (CASPs) to its Markets in Crypto-Assets (MiCA) registry, bringing the total to 294, Cointelegraph reported. The new additions include Ripple's European payments subsidiary, Ripple Payments Europe, as well as Portugal's Bison Bank, Croatia's state-owned Hrvatska poštanska banka (HPB), and several German cooperative banks. ESMA stated this shows the continued entry of traditional financial institutions into the MiCA market.Meanwhile, the number of registered E-Money Token (EMT) issuers stands at 21, with no Asset-Referenced Token (ART) issuers yet approved. ESMA also added two non-compliant firms to a separate list following action by Italy's financial authority (CONSOB), increasing the total on that list to 164.",
+    "url": "https://t.me/CoinnessGL#f242ca34",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T10:42:06+00:00"
+  },
+  {
+    "id": "0a4f9b07-f9f1-4fca-a1b1-e654243781fd",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase CEO says stock tokenization will break Wall Street's monopoly",
+    "summary": "Coinbase CEO Brian Armstrong has argued that the tokenization of stocks will break Wall Street's monopolistic structure. He stated that billions of people are unable to access the U.S. stock market due to geographical regulations and complex financial systems, emphasizing that tokenization is the solution. Acting on this vision, Coinbase launched a tokenized stock trading service last month for non-U.S. users, backed on a one-to-one basis by physical shares. The service allows users to trade fractional shares of U.S. stocks like Apple and Nvidia and receive dividends using only a smartphone. Armstrong noted that traditional financial institutions are also accelerating their tokenization efforts, citing tests by the DTCC, JPMorgan, and BlackRock to move ETFs onto the blockchain. He predicted that stock tokenization will become central to the competition for retail investors, shaking the monopoly held by existing brokerage firms.",
+    "url": "https://t.me/CoinnessGL#dbad2685",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T10:36:48+00:00"
+  },
+  {
+    "id": "236c3cd5-1921-4d61-b35d-5c519c397e69",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "SBI Holdings completes acquisition of Singapore's Coinhako to expand in Southeast Asia",
+    "summary": "SBI Holdings has completed its acquisition of a majority stake in Singaporean virtual asset platform Coinhako, making it a subsidiary. The company announced that the transaction was finalized on July 16 after receiving approval from the Monetary Authority of Singapore (MAS). Coinhako provides regulated digital asset services through Hako Technology, which holds a Major Payment Institution (MPI) license. SBI stated that the acquisition will provide it with Coinhako's customer base, operational expertise, and regional network. The company plans to build a digital asset ecosystem connecting Japan and Southeast Asia, expanding its business into cryptocurrency trading, a Japanese yen stablecoin (JPYSC), security tokens, on-chain finance, and cross-border payments.",
+    "url": "https://t.me/CoinnessGL#eb229dc3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-17T10:30:57+00:00"
+  },
+  {
+    "id": "71891c47-e858-4fe1-a678-2117c9af0f07",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Bankless co-founder David Hoffman says Bitcoin is unlikely to break below its 200-week MA, arguing today’s market lacks the 2022-style contagion that drove prior capitulation.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bc7858dc",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T10:30:17+00:00"
+  },
+  {
+    "id": "8623f668-0e94-4ece-b9a1-0da09cb65fa8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Morgan Stanley Completes E*Trade Crypto Rollout With 50 Basis Point Fees: Here’s What Clients Get",
+    "summary": "1. Morgan Stanley’s E*Trade finished rolling out spot bitcoin, ether and solana trading to U.S.\n2. clients on July 16, undercutting rivals with a 50-basis-point fee as Wall Street’s crypto race accelerates.\n3. What’s on Offer The completed rollout means eligible E*Trade clients can buy, sell and hold the three largest non-stablecoin digital assets inside the same interface […]",
+    "url": "https://news.bitcoin.com/morgan-stanley-etrade-crypto-rollout-complete/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-17T10:30:03.000Z"
+  },
+  {
+    "id": "b3f27fd9-e98f-470a-89a3-9dd67f9c17be",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "ESMA Adds 14 New CASPs to MiCA Register as Licensing Slows",
+    "summary": "1. ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe among the new entries as total providers reach 294.",
+    "url": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-17T10:29:35.000Z"
+  },
+  {
+    "id": "a4339c97-8c4f-494c-b647-3d2202f2c457",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
+    "summary": "1. Crypto fell as AI stock fatigue and U.S.-Iran tensions weighed on sentiment, though a technical measure hints at oversold conditions heading into the weekend.",
+    "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
+    "author": "Oliver Knight",
+    "created_at": "2026-07-17T10:26:06.000Z"
+  },
+  {
+    "id": "e4d69d9d-1a9e-426d-8870-aff79eddfade",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
+    "summary": "1. The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.",
+    "url": "https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-17T10:12:33.000Z"
+  },
+  {
+    "id": "16c081f2-67b3-4855-9363-18484239d244",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Any recommendations?",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6d65c0c0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T10:01:05+00:00"
+  },
+  {
+    "id": "e6b2e813-86f9-4e9c-9ff9-ad9cf6e3782a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Dune research finds 85% of concentrated DeFi liquidity is underutilized, with LPs missing out on an estimated $150M in annual fees.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#aa2a4b5a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-17T09:55:09+00:00"
+  },
+  {
+    "id": "92897592-cdd9-45ac-8319-7281905462d1",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Platner is finished. Does the same fate await the out-of-state consultants who recruited him?",
+    "summary": "1. A string of early missteps, like rejecting an offer for a deeper vetting of Platner, has cast doubt over the young consultants’ future in Democratic politics.",
+    "url": "https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652",
+    "author": "By Will Steakin and Chris Sommerfeldt",
+    "created_at": "2026-07-17T09:55:00.000Z"
+  },
+  {
+    "id": "34bf761a-baaa-4d86-bdb3-bd694fb7bc65",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%",
+    "summary": "1. Bitcoin supply in loss hit 50% nearly 50 days ago, mimicking the countdown to BTC price bear-market bottoms.",
+    "url": "https://cointelegraph.com/markets/bitcoin-bottom-countdown-nears-50-days-after-btc-supply-in-loss-passed-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-17T09:51:33.000Z"
+  },
+  {
+    "id": "a64b227e-736a-4e8c-81bc-da4a1fb15d61",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Musk’s SpaceX Breaks Below Its $135 IPO Price After a 42% Collapse From Its Peak",
+    "summary": "1. SpaceX (Nasdaq: SPCX) fell 3.08% to close at $131.11 yesterday, its first finish below the $135 initial public offering (IPO) price since the rocket maker’s record June debut.\n2. A Retreat Ensues The close capped a multi-day slide for Elon Musk’s rocket company, given shares had already touched an all-time low of $132.75 intraday on Wednesday […]",
+    "url": "https://news.bitcoin.com/spacex-stock-closes-below-ipo-price/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-17T09:30:04.000Z"
+  },
+  {
+    "id": "59020b68-2705-4c3e-b90a-65f315d65cb1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US indicts crypto investor over alleged $20M fraud scheme",
+    "summary": "1. Federal prosecutors allege the South Dakota investor used false promises to raise money, repaid earlier investors with new funds and laundered proceeds through crypto exchanges.",
+    "url": "https://cointelegraph.com/news/us-indicts-crypto-investor-over-alleged-20m-fraud-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-17T09:25:33.000Z"
+  },
+  {
+    "id": "cd3b657b-c8d8-4fdd-902c-de8eef8ba5a3",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Argentine judge orders exchanges to freeze 25 crypto accounts linked to the LIBRA investigation and hand over KYC, IP and transaction records, with enforcement still pendingTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#b8b60f2c",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-17T09:23:51+00:00"
+  },
+  {
+    "id": "1c470a48-c351-4bdf-b338-2a58386665c8",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The nation’s cartoonists on the week in politics",
+    "summary": "1. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.\n2. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.\n3. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere.",
+    "url": "https://www.politico.com/gallery/2026/07/17/the-nations-cartoonists-on-the-week-in-politics-01002220",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-07-17T09:00:00.000Z"
+  },
+  {
+    "id": "f429b91e-4996-4178-acdd-03e3901cbe19",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
+    "summary": "1. Brian Chesky regained control of his account and told any new crypto followers he would be a \"disappointing follow\".",
+    "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-17T08:50:22.000Z"
+  },
+  {
+    "id": "50a64674-9b53-4f60-8d6d-3a9731015c39",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Taiwan sentences BitShine crypto exchange ringleader to 22 years in $39 million fraud case: reports",
+    "summary": "1. The defendant reportedly led a criminal group that operated under the guise of BitShine, which was once registered with the FSC.",
+    "url": "https://www.theblock.co/post/408748/taiwan-sentences-bitshine-crypto-exchange-ringleader-22-years?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-17T08:48:10.000Z"
+  },
+  {
+    "id": "7bc411c6-f495-43b5-b19d-4dea277537f8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Polymarket: CLARITY Act Odds Rebound to 35% After Crashing to a 2026 Low",
+    "summary": "1. Polymarket traders lifted the odds of the CLARITY Act being signed into law this year to 35% on July 17, a sharp recovery from the market’s record low of 24% hit just four days earlier.\n2. Expectations Are Rising The rebound suggests the odds of the Clarity Act passing into law this year have jumped to […]",
+    "url": "https://news.bitcoin.com/polymarket-clarity-act-odds-rebound-45/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-17T08:30:05.000Z"
+  },
+  {
+    "id": "884ca124-42d3-448e-8cc2-ce58279c4578",
+    "source": "The Block",
+    "type": "rss",
+    "title": "UK gang jailed over $5.4 million crypto scam posing as police",
+    "summary": "1. The gang impersonated police officers and used convincing fake police websites to steal more than £4M in cryptocurrency from eight victims.",
+    "url": "https://www.theblock.co/post/408745/uk-gang-jailed-crypto-scam?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-17T08:28:00.000Z"
+  },
+  {
     "id": "2471d5b6-7a68-430a-b264-c0ca0d8bfb47",
     "source": "The Defiant",
     "type": "rss",
@@ -148,105 +358,5 @@
     "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
     "author": "Shaurya Malwa",
     "created_at": "2026-07-17T05:32:00.000Z"
-  },
-  {
-    "id": "1ab4261c-9653-4fff-badb-d5bb6b0de0a6",
-    "source": "The Block",
-    "type": "rss",
-    "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
-    "summary": "1. USDT and USDC are stablecoins pegged one-to-one to the U.S.\n2. dollar, each backed by reserves covering every token in circulation.\n3. Tether’s USDT is the largest stablecoin, with the deepest liquidity across global exchanges.",
-    "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-07-17T04:22:22.000Z"
-  },
-  {
-    "id": "358a8e8e-042f-4bfc-ae48-7de76bfe4a3d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
-    "summary": "1. Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
-    "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-17T04:10:09.000Z"
-  },
-  {
-    "id": "1ef686d6-5a07-47b2-b567-a092856283ce",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Abdul El-Sayed on AIPAC spending, ‘Defund the Police’ and why he’s not a socialist",
-    "summary": "1. Abdul El-Sayed on AIPAC spending, ‘Defund the Police’ and why he’s not a socialist",
-    "url": "https://www.politico.com/video/2026/07/16/abdul-el-sayed-on-aipac-spending-defund-the-police-and-why-hes-not-a-socialist-2121739",
-    "author": "Politico",
-    "created_at": "2026-07-17T03:59:00.000Z"
-  },
-  {
-    "id": "92f70400-0ae0-4b3c-a8cc-3406c728a543",
-    "source": "The Block",
-    "type": "rss",
-    "title": "SEC vs CFTC: Who Regulates Crypto?",
-    "summary": "1. Crypto oversight is split mainly between two agencies: the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).\n2. In broad terms, the SEC handles crypto assets that behave like investments in a company.\n3. Meanwhile, the CFTC handles assets that behave like commodities, along with futures and other derivatives tied to them.",
-    "url": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-07-17T03:49:02.000Z"
-  },
-  {
-    "id": "3614b90c-28ba-4abf-8b84-27a6c1069b16",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-17T03:31:27.000Z"
-  },
-  {
-    "id": "5c311334-4473-438b-8b66-b2f29b2096af",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-17T03:31:27.000Z"
-  },
-  {
-    "id": "b36b57e1-0e54-4199-a4b6-992d51c22b1d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "What Happens to Bitcoin ETF Investors if a Sponsor or Custodian Fails?",
-    "summary": "1. U.S.-listed bitcoin exchange-traded funds (ETFs) now hold an estimated 1.25 million bitcoin worth well over $100 billion, and few of the shareholders who own those funds have read the prospectus language that spells out what happens to that money if the fund’s sponsor or custodian collapses.\n2. Blackrock‘s Ishares Bitcoin Trust, known as IBIT, is the […]",
-    "url": "https://news.bitcoin.com/what-happens-to-bitcoin-etf-investors-if-a-sponsor-or-custodian-fails/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-17T03:10:59.000Z"
-  },
-  {
-    "id": "2fa9ec05-b28c-4764-8bc5-8252d3088567",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "24-hour crypto futures liquidations",
-    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $69.91 million liquidated (77.92% longs)- ETH: $81.35 million liquidated (83.88% longs)- SPCX: $20.61 million liquidated (97.22% longs)",
-    "url": "https://t.me/CoinnessGL#ca825c6a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-17T02:57:32+00:00"
-  },
-  {
-    "id": "5100e773-a065-421b-b23c-e31efdb5d02c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tether Backs Argentine Neobank Ualá With a $20 Million Strategic Investment",
-    "summary": "1. The investment was part of a large $197 million funding round that valued Ualá at $3.2 billion in March.\n2. No operational integration will follow this capital injection, as Ualá recognizes the regulatory hurdles to bringing these assets to Latam markets as a banking institution.\n3. Tether Intensifies Latam Bet With $20 Million Investment in Ualá The […]",
-    "url": "https://news.bitcoin.com/tether-backs-argentine-neobank-uala-with-a-20-million-strategic-investment/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-17T02:30:36.000Z"
-  },
-  {
-    "id": "c5631813-b5d2-405a-9284-eb0e11550bcf",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Trump Media sells Wall Street low-latency access to Trump posts",
-    "summary": "1. The paid Truth API is aimed at high-frequency trading firms seeking “the fastest” access to market-moving Truth Social posts, including those from US President Donald Trump.",
-    "url": "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-17T02:23:40.000Z"
   }
 ]
