@@ -1,5 +1,65 @@
 [
   {
+    "id": "ba109c49-7423-49b2-9fcf-89104de5ea1f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "France orders country's internet service providers to block Polymarket",
+    "summary": "1. The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
+    "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-18T21:52:18.000Z"
+  },
+  {
+    "id": "5ee29152-1229-427b-a794-01754d7aadee",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "FTX Plans to Pay Creditors $900 Million as Fifth Distribution Starts on July 31",
+    "summary": "1. FTX Trading Ltd.\n2. and the FTX Recovery Trust will send roughly $900 million to creditors starting July 31, 2026, marking the estate’s fifth major distribution since the exchange’s 2022 collapse.\n3. The payout covers eligible holders of allowed claims in the Convenience and Non-Convenience Classes who met requirements by the June 16 Record Date.",
+    "url": "https://news.bitcoin.com/ftx-plans-to-pay-creditors-900-million-as-fifth-distribution-starts-on-july-31/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-18T21:36:22.000Z"
+  },
+  {
+    "id": "ca176e10-fdf5-473f-819a-5973e066587b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘The Only Way’: Coinbase CEO Brian Armstrong Champions Self-Custody to Reach 1 Billion Users",
+    "summary": "1. Coinbase CEO Brian Armmsgtong stressed that self-custody wallets were essential for reaching cryptocurrency adoption in the billions, praising the simplicity of entering markets that lack clear regulations.\n2. Agentic adoption, a future growth avenue, also benefits from self-custody, he pointed out.\n3. Coinbase CEO Brian Armstrong Stresses Relevance of Self-Custody Wallets To Get Billions into Crypto While […]",
+    "url": "https://news.bitcoin.com/the-only-way-coinbase-ceo-brian-armstrong-champions-self-custody-to-reach-1-billion-users/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-18T20:30:26.000Z"
+  },
+  {
+    "id": "f2475bd1-070f-4d83-960d-30cac656013b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Saylor Rejects BIP 110, Warns Softfork Threatens Bitcoin’s Neutral Rules",
+    "summary": "1. Strategy founder Michael Saylor published a lengthy essay Saturday rejecting BIP 110, a proposed Bitcoin softfork that would temporarily restrict several types of transactions carrying non-payment data.\n2. Saylor’s essay lists 100 numbered arguments against the proposal, which he says amounts to using Bitcoin’s consensus rules to discourage a disputed but currently valid category of transactions.",
+    "url": "https://news.bitcoin.com/saylor-rejects-bip-110-warns-softfork-threatens-bitcoins-neutral-rules/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-18T19:34:38.000Z"
+  },
+  {
+    "id": "660e2873-e6bf-45f6-8788-16c17651d7cf",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Waymo says San Francisco service has resumed after one-hour pause",
+    "summary": "1. This isn’t the first time power outages have caused issues for Waymo.",
+    "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+    "author": "Anthony Ha",
+    "created_at": "2026-07-18T19:30:23.000Z"
+  },
+  {
+    "id": "02a008ea-e1af-447e-8e12-7cfc21166427",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Sharplink CEO Joseph Chalom predicts most public companies will be tokenized over the next couple of years, saying \"$160 trillion of public equities are waiting to be tokenized.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ac6b892c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-18T19:25:08+00:00"
+  },
+  {
     "id": "afb8f57b-28bb-4970-9070-103ae4117382",
     "source": "TechCrunch",
     "type": "rss",
@@ -50,7 +110,7 @@
     "created_at": "2026-07-18T17:30:45.000Z"
   },
   {
-    "id": "81ed74b2-7761-4a67-84dc-33cbe8bdc08f",
+    "id": "43e336c8-b14e-458d-843a-6480aa472aec",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Rep. William Timmons says the CLARITY Act is \"on the one-yard line,\" and lawmakers \"just got to score the touchdown.\"",
@@ -70,7 +130,7 @@
     "created_at": "2026-07-18T17:00:00.000Z"
   },
   {
-    "id": "6732aaac-1e7c-48e3-983c-714e7a05b857",
+    "id": "dcbd4b49-e1b3-473a-ad14-269e5ec7de42",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Bank of America appoints new executives to lead and scale its digital asset platforms, tokenization business and AI transformation.@WatcherGuru",
@@ -118,235 +178,5 @@
     "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
     "author": "The Defiant Team",
     "created_at": "2026-07-18T16:02:15.000Z"
-  },
-  {
-    "id": "ca0f1ddc-1ab6-4e00-bf30-74940c8e0fed",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Federal employees can download TikTok on their work phones again",
-    "summary": "1. The Department of Justice says that federal employees can now download TikTok on their government devices.",
-    "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-18T15:54:24.000Z"
-  },
-  {
-    "id": "b9efa340-587f-4716-99d9-52aacadb346e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
-    "summary": "1. About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth.",
-    "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-18T15:50:31.000Z"
-  },
-  {
-    "id": "d68a5695-c892-4232-8187-2831da76b2d5",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 FBI arrests hacker for hiding crypto-stealing malware inside Steam video games.Once installed, the malware stole passwords, data and drained victims' crypto wallets.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#a7c260c9",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-18T15:48:56+00:00"
-  },
-  {
-    "id": "3395e287-a6b1-45ba-a286-870d77720fc7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Galaxy Digital CEO Mike Novogratz predicts Bitcoin will trade in the $60K-$80K range for the rest of 2026, absent a \"real nice setup\" that sends BTC to $100K.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0395b1d5",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-18T15:35:09+00:00"
-  },
-  {
-    "id": "813282db-1a6f-4345-9052-a642cb756544",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
-    "summary": "1. OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you?\n2. The answer depends on your needs.\n3. Here's our review.",
-    "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-18T15:21:03.000Z"
-  },
-  {
-    "id": "02e11dde-b957-44db-9139-ddb94e9c659b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Larry Fink Comes out as Bullish, CFTC Intervenes With Kalshi, and More – Week in Review",
-    "summary": "1. This week’s crypto storylines mixed balance-sheet stress, regulation, venture hindsight, geopolitics, and macro sentiment.\n2. Michael Saylor built a $3 billion cash buffer around Strategy’s bitcoin stack, the CFTC backed Kalshi in its Michigan fight, and Tim Draper reflected on missing Coinbase before later joining the ride.\n3. Trump’s Iran remarks rattled oil and bitcoin, while Larry […]",
-    "url": "https://news.bitcoin.com/larry-fink-comes-out-as-bullish-cftc-intervenes-with-kalshi-and-more-week-in-review/",
-    "author": "Alex Richardson",
-    "created_at": "2026-07-18T15:19:18.000Z"
-  },
-  {
-    "id": "4bd8e685-fa57-4027-b7a4-93cfe60d6567",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran formally announced it suspending MOU with the U.S.",
-    "summary": "| Per Mehr NewsIran is suspending the implementation of all commitments undertaken under the agreement Twitter",
-    "url": "https://t.me/SolidIntelX#9032ba41",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-18T15:11:50+00:00"
-  },
-  {
-    "id": "8b06256b-1b3c-4eea-8ae4-e6f5c405735f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Drake bets $1.5 million $USDT on Argentina to beat Spain in the FIFA World Cup final.He will win $5,175,000 if Argentina wins.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c65e87dc",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-18T15:11:26+00:00"
-  },
-  {
-    "id": "d01dba3f-2ceb-4237-82d6-6f471b8d41d1",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "TODAY: 💵 The GENIUS Act marks its one-year anniversary today, having been...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#41c8822d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-18T15:05:07+00:00"
-  },
-  {
-    "id": "c0716c0f-d172-4ee3-9a29-af5d255eb7b7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CoinNess Live Feed operating hours",
-    "summary": "We provide real-time cryptocurrency investment updates 24 hours a day from 10:00 p.m. UTC on Sunday through 3:00 p.m. UTC on Saturday. Between 3:00 p.m. UTC on Saturday and 10:00 p.m. UTC on Sunday, investment updates are provided only when major issues arise.Note:Breaking overseas economic news remains available at all times on the CoinNess Live app and CoinNess web service.",
-    "url": "https://t.me/CoinnessGL#b5a72c17",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-18T15:02:34+00:00"
-  },
-  {
-    "id": "d2fc1f80-9b48-4918-9e40-5e60c4d60435",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Trump administration announces plans to de-bank illegal immigrants.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#1217c055",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-18T14:40:49+00:00"
-  },
-  {
-    "id": "00123846-9abb-4861-acc8-78c8355221ff",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-    "summary": "1. A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
-    "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-    "author": "Tim De Chant",
-    "created_at": "2026-07-18T14:32:00.000Z"
-  },
-  {
-    "id": "8ee7b480-efe4-4934-b4a3-ae0355408a42",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Robinhood Crypto GM Johann Kerbrat says Robinhood Chain will support memecoin activity despite its RWA focus, calling it \"anti-crypto\" to restrict it.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b4f63166",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-18T14:20:09+00:00"
-  },
-  {
-    "id": "8a61d7b0-860b-40fc-88a4-8c915091b544",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "World Cup Betting Frenzy: $5.5B Wagers Back Spain to Crush Argentina",
-    "summary": "1. Two prediction market platforms are pricing the same outcome for Sunday’s World Cup final, with Polymarket and Kalshi bettors both putting Spain ahead of Argentina as the teams prepare to meet at Metlife Stadium in New Jersey.\n2. Kickoff is set for 3 p.m.\n3. On Polymarket, the World Cup winner contract has drawn $4.28 billion […]",
-    "url": "https://news.bitcoin.com/world-cup-betting-frenzy-5-5b-wagers-back-spain-to-crush-argentina/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-18T14:15:33.000Z"
-  },
-  {
-    "id": "7d3d9ae4-8fc2-463b-8ad0-c425173a245a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-    "summary": "1. Large traders are betting on a BTC price rise to $72,000 by the end of the month, latest options market flow suggests.",
-    "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-18T14:15:15.000Z"
-  },
-  {
-    "id": "123e52eb-0721-477d-9ded-efef035c332a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
-    "summary": "1. Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.",
-    "url": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-18T14:04:54.000Z"
-  },
-  {
-    "id": "769a347f-179c-490c-be1c-9433c8d3337e",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The World Cup came to town. The town had 10,000 people.",
-    "summary": "1. From East Rutherford to Foxborough, the world’s biggest sporting event landed in some of America's smallest municipalities — and left mayors to pick up the tab.",
-    "url": "https://www.politico.com/news/2026/07/18/world-cup-small-city-mayors-stadiums-east-rutherford-01004040",
-    "author": "By Will McCarthy",
-    "created_at": "2026-07-18T14:01:00.000Z"
-  },
-  {
-    "id": "2c364e84-940f-4c75-bce3-8d2780ab17a1",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Tokenization has become a strategic priority for 84% of financial firms",
-    "summary": "1. A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist.",
-    "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-    "author": "Helene Braun",
-    "created_at": "2026-07-18T14:00:00.000Z"
-  },
-  {
-    "id": "6e2b2732-036c-4350-8275-24a432e8c69a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Anonymous whale deposits $35.34M in ETH to Binance",
-    "summary": "A whale address known as geministar.eth, beginning with 0x49C, deposited 19,235 ETH worth $35.34 million to Binance 15 minutes ago, EmberCN reported. The tokens had been withdrawn from Binance a month earlier, when ETH was priced at $1,766. If sold, the position would yield an estimated profit of $1.4 million. According to CoinMarketCap, ETH was trading at $1,840.58, little changed from yesterday.",
-    "url": "https://t.me/CoinnessGL#a9328627",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-18T13:56:25+00:00"
-  },
-  {
-    "id": "bb1999ad-ae48-4ab6-95f6-7d651e317b2d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bithumb to temporarily suspend USDT withdrawals on Tron",
-    "summary": "South Korean exchange Bithumb announced it will temporarily suspend Tether (USDT) withdrawals on the Tron network starting at 2:00 p.m. UTC on July 18.",
-    "url": "https://t.me/CoinnessGL#22a9438c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-18T13:54:04+00:00"
-  },
-  {
-    "id": "ca1b024e-f462-4aca-a6fc-e9e86d4a1fb4",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-18T13:36:17.000Z"
-  },
-  {
-    "id": "965979d1-04a3-4788-b865-68fa706348ef",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-18T13:36:17.000Z"
-  },
-  {
-    "id": "f90291c8-105a-4d85-8511-92cfb191144b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Faces $65,500 Wall as Daily Chart Volume Cools After Mid-July Rebound",
-    "summary": "1. Bitcoin trades near $64,000 on July 18, 2026, at 8:30 a.m.\n2. EDT, holding inside a tight range after bouncing off a 24-hour low of $62,516.\n3. The largest cryptocurrency by market cap has consolidated between $63,900 and $64,000 for several hours as traders wait for a volume-backed move past nearby resistance.",
-    "url": "https://news.bitcoin.com/bitcoin-faces-65500-wall-as-daily-chart-volume-cools-after-mid-july-rebound/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-18T13:15:30.000Z"
   }
 ]
