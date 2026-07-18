@@ -1,5 +1,55 @@
 [
   {
+    "id": "bb58c95c-dd06-4b1e-988f-a992d7a5ccc7",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "French gambling regulator orders ISPs to block Polymarket",
+    "summary": "1. France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
+    "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-18T09:58:55.000Z"
+  },
+  {
+    "id": "1a9bde64-e941-4d9a-8c5a-0d066703755d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Fhenix Upgrades Sedona With Confidential FHE to Keep Balances Hidden From AI Agents",
+    "summary": "1. Self-custodial trading platform Sedona has partnered with Fhenix to integrate confidential fully homomorphic encryption infrastructure into its system.\n2. Cryptographic Security Upgrade Sedona, a self-custodial trading platform and neo-bank, announced a partnership with Fhenix to integrate Confidential Fully Homomorphic Encryption (FHE) infrastructure into its Arbitrum-based system.\n3. The company said the upgrade will ensure key financial data […]",
+    "url": "https://news.bitcoin.com/fhenix-upgrades-sedona-with-confidential-fhe-to-keep-balances-hidden-from-ai-agents/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-18T09:30:48.000Z"
+  },
+  {
+    "id": "b1161981-6d6e-4179-adec-2d53a3d13e42",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Tether CEO Paolo Ardoino says USDT is adding over 30M new wallets every quarter.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#bfa758ae",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-18T09:25:08+00:00"
+  },
+  {
+    "id": "45f65997-670f-471c-b5b7-bef7ccb9ee0f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "01000011 01001101 01000011",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c03c744d",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-18T09:05:05+00:00"
+  },
+  {
+    "id": "5322db2d-ad86-4c27-81e5-0e9e1cceb1de",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Trusted Volumes hacker returns $2M in ETH",
+    "summary": "A hacker behind the attack on liquidity provider Trusted Volumes returned 1,122 ETH, worth about $2 million, to the project, Com Feed reported. Trusted Volumes previously lost about $5.87 million in a hacking attack that exploited a vulnerable smart contract.",
+    "url": "https://t.me/CoinnessGL#d617e4d0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-18T08:55:30+00:00"
+  },
+  {
     "id": "3af6f661-6bcc-4934-b83a-8dcf865a8acc",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -10,7 +60,7 @@
     "created_at": "2026-07-18T07:30:46.000Z"
   },
   {
-    "id": "3dfcfea1-2f3e-4ca5-ad6d-219c65d64959",
+    "id": "dea77bef-af38-4b93-b17e-3e6764d11bf6",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "BTC perp long/short ratios on top exchanges by open interest",
@@ -30,7 +80,7 @@
     "created_at": "2026-07-18T07:20:11+00:00"
   },
   {
-    "id": "a55bc3a0-72c9-48b5-9165-89777c23e6c7",
+    "id": "2153a915-89b9-492e-a640-104fe1b0d1d2",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "a16z-linked address deposits $25.3M in HYPE to exchanges",
@@ -128,75 +178,5 @@
     "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "author": "Connie Loizos",
     "created_at": "2026-07-18T04:47:25.000Z"
-  },
-  {
-    "id": "75e94d98-ad5e-4965-9eff-a94370edcbf7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 CoinShares says Bitcoin's floor is likely in but upside is capped, with a break above $80K unlikely absent a meaningful shift in monetary policy expectations.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7df2126b",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-18T03:50:10+00:00"
-  },
-  {
-    "id": "3cc74947-ba00-4b58-b2b0-23798ffbf83a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Commits $250,000 to 25 Veteran-Owned Businesses Through Hire Heroes USA",
-    "summary": "1. Ripple has committed $250,000 in RLUSD-funded grants to 25 veteran- and military spouse-owned businesses through a collaboration with Hire Heroes USA.\n2. Ripple Backs Veteran Entrepreneurs With $250,000 in RLUSD Grants A quarter-million dollars is now moving into businesses led by veterans and military spouses across the United States.\n3. Ripple has awarded $250,000 to 25 companies […]",
-    "url": "https://news.bitcoin.com/ripple-commits-250000-to-25-veteran-owned-businesses-through-hire-heroes-usa/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-18T03:30:32.000Z"
-  },
-  {
-    "id": "6cc117e2-fb4f-4d7f-bda9-f1c84e6f8f3d",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-18T02:57:20.000Z"
-  },
-  {
-    "id": "6aec205e-211a-45e5-ae40-08730487dd6f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-18T02:57:20.000Z"
-  },
-  {
-    "id": "41bcd17c-f23d-4419-9907-ed4135ea3a33",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BRAIN market cap plunges from $35M to $1.8M after Coinbase CEO changes profile photo",
-    "summary": "BRAIN, a Base-based meme coin also known as Coinbase Man, saw its market capitalization fall from a peak above $35 million yesterday to about $1.8 million, according to GMGN data. The token was down more than 93% over the past 24 hours, while trading volume during the same period was about $14 million.BRAIN is a meme coin based on the B20 token standard introduced through Base chain's Beryl upgrade, and its name is derived from Coinbase CEO Brian Armstrong. Community interest surged and the price jumped after Armstrong changed his X profile picture to one resembling the BRAIN logo, but selling pressure expanded sharply after he later changed the profile picture again.",
-    "url": "https://t.me/CoinnessGL#1e3ba662",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-18T02:43:30+00:00"
-  },
-  {
-    "id": "52d215a9-f56c-46f4-a701-fb598d9379fd",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Tim Sheehy is GREAT.\n2. A Winner!!!\n3. President DJT",
-    "url": "https://trumpstruth.org/statuses/40105",
-    "author": "Trump Truth",
-    "created_at": "2026-07-18T02:18:32.000Z"
-  },
-  {
-    "id": "65090fee-8746-4d7b-8bc6-a189744432be",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Ensuring the integrity of our elections is fundamental to preserving trust in American democracy.\n2. Following the 2020 presidential election, concerns about potential irregularities prompted detailed examinations of voting processes, data security, and registration practices across multiple states…\nDownload documents and reports addressing key areas of election integrity, here:",
-    "url": "https://trumpstruth.org/statuses/40104",
-    "author": "Trump Truth",
-    "created_at": "2026-07-18T02:13:21.000Z"
   }
 ]
