@@ -1,5 +1,65 @@
 [
   {
+    "id": "f126011c-4af6-4319-b80e-a59077343d9d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-19T16:01:59.000Z"
+  },
+  {
+    "id": "f9d2e2e2-0fae-427f-bfe7-9da84fba172c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Prediction Market Traders Turn Bearish on Clarity Act Becoming Law in 2026",
+    "summary": "1. Prediction market traders are betting against the Digital Asset Market Clarity Act becoming law in 2026, even as Kalshi bettors put strong odds on a Senate vote happening within weeks.\n2. On Polymarket, the market asking whether the Clarity Act (H.R.\n3. 3633) gets signed into law before December 31, 2026, has drawn nearly $1.94 million in […]",
+    "url": "https://news.bitcoin.com/prediction-market-traders-turn-bearish-on-clarity-act-becoming-law-in-2026/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-19T16:01:00.000Z"
+  },
+  {
+    "id": "606ea9be-76fa-460d-841e-277fba0fcf46",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Following Messi's lead, Milei bids to separate stadium and state",
+    "summary": "1. The Argentine leader won’t be at the final in New Jersey.\n2. Here’s why he’s totally fine with that.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/javier-milei-soccer-politics-argentina-spain-world-cup-final-01004323",
+    "author": "By Aitor Hernández-Morales",
+    "created_at": "2026-07-19T16:00:00.000Z"
+  },
+  {
+    "id": "bdd9dd5e-1827-44d1-97f4-09700c9bd9dc",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
+    "summary": "1. She ended her Senate bid on Sunday as rival Troy Jackson consolidated support in the state’s delegation selection process.",
+    "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452",
+    "author": "By Andrew Howard",
+    "created_at": "2026-07-19T15:56:06.000Z"
+  },
+  {
+    "id": "e82892b0-92a1-4844-8453-0318399677ba",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Spot the pol!",
+    "summary": "1. Study the photograph carefully.\n2. Only the political figure is missing.\n3. Guess who it is.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/spot-the-pol-mayor-traffic-cone-01004353",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-07-19T15:45:00.000Z"
+  },
+  {
+    "id": "3e2fe810-b8a0-4f1c-bbe5-58027ab80303",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "EXPLAINED: 📊 Bitcoin rallied to $65K last week as a cool CPI print reduced the...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#fd1150aa",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-19T15:35:05+00:00"
+  },
+  {
     "id": "ffe7aa42-4fc5-4cad-872b-0866e4cb6a18",
     "source": "Politico",
     "type": "rss",
@@ -58,6 +118,16 @@
     "url": "https://news.bitcoin.com/michael-saylor-teases-strategys-next-bitcoin-move-after-buying-pause-and-3-billion-cash-buildup/",
     "author": "Kevin Helms",
     "created_at": "2026-07-19T14:27:00.000Z"
+  },
+  {
+    "id": "06a646d3-ea3c-4c57-9995-657415c45116",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Sharplink CEO Joseph Chalom says Ethereum is becoming the \"global settlement layer\" in a way Bitcoin cannot be as \"just a simple store of value.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3bb75946",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-19T14:15:09+00:00"
   },
   {
     "id": "cf31981a-2966-4e94-8041-a09094247c34",
@@ -160,7 +230,7 @@
     "created_at": "2026-07-19T13:06:13.000Z"
   },
   {
-    "id": "d15db740-7be5-458f-b6a6-33034f2bce6a",
+    "id": "f8c5d2f9-6a64-42f4-91df-e5aa40a30c07",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Thank you for using CMC!",
@@ -210,7 +280,7 @@
     "created_at": "2026-07-19T12:53:12.000Z"
   },
   {
-    "id": "cfe2213d-4c61-45dc-9bcd-3ae415f3cc59",
+    "id": "b6d59966-f934-49aa-9fec-8308107dce24",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Michael Saylor hints at buying more Bitcoin.\"What's next?\"@WatcherGuru",
@@ -298,15 +368,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#3b5d6dd0",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-19T10:05:05+00:00"
-  },
-  {
-    "id": "f356deab-879b-4739-a843-67f734d2cbc1",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
-    "summary": "1. Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures.\n2. It runs in 243 milliseconds on a laptop.",
-    "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-19T10:00:00.000Z"
   }
 ]
