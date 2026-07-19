@@ -1,5 +1,95 @@
 [
   {
+    "id": "ffe7aa42-4fc5-4cad-872b-0866e4cb6a18",
+    "source": "Politico",
+    "type": "rss",
+    "title": "FIFA anti-discrimination partner warns against Olympic-style transgender ban",
+    "summary": "1. The backlash comes after a Trump administration official told POLITICO it would press the international soccer body to align its policies on transgender athletes with those of the United States.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/fifa-trans-ban-pushback-01004439",
+    "author": "By Emilio Perez Ibarguen",
+    "created_at": "2026-07-19T15:30:00.000Z"
+  },
+  {
+    "id": "a67154ef-568e-457a-a083-882e70fb8108",
+    "source": "Politico",
+    "type": "rss",
+    "title": "How soccer eclipsed separatist politics in Spain",
+    "summary": "1. Their regions were once known for terror and division.\n2. Now Basques and Catalans have come to dominate the Spanish squad, while influencing the game all around the world.",
+    "url": "https://www.politico.com/news/2026/07/19/soccer-spain-basques-catalans-sport-eclipses-politics-01004240",
+    "author": "By Guy Hedgecoe",
+    "created_at": "2026-07-19T15:20:34.000Z"
+  },
+  {
+    "id": "d204fcd3-c78a-437b-bb12-bff605bc3a26",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+    "summary": "1. Michael Saylor argues that a new proposal, BIP-110, to temporarily block \"spam\" data from the Bitcoin blockchain would undermine the network's neutrality and create a dangerous precedent for censorship.",
+    "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-19T15:19:21.000Z"
+  },
+  {
+    "id": "f532b79e-7e9e-49bc-9c8a-fee3b94cbb8a",
+    "source": "Politico",
+    "type": "rss",
+    "title": "How the United Bid became the Trump Trophy",
+    "summary": "1. How the United Bid became the Trump Trophy",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/fifa-trump-political-history-01004365",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-07-19T15:01:10.000Z"
+  },
+  {
+    "id": "8a45faee-2f39-4aab-966a-5d1304133f99",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "summary": "1. \"Everybody knows the Greeks are inside.\"",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "author": "Anthony Ha",
+    "created_at": "2026-07-19T14:52:08.000Z"
+  },
+  {
+    "id": "59f7c601-4605-44c0-a4cf-df6ee2239e41",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Michael Saylor Teases Strategy’s Next Bitcoin Move After Buying Pause and $3 Billion Cash Buildup",
+    "summary": "1. Michael Saylor’s latest chart has renewed attention on the company’s bitcoin plans, but recent BTC sales, no purchases since June 22 and a $3 billion cash reserve leave its next transaction uncertain.\n2. Saylor’s Bitcoin Chart Arrives With Strategy’s Next Move Unclear Strategy Inc.\n3. (Nasdaq: MSTR) could resume bitcoin purchases after a buying pause, continue preserving […]",
+    "url": "https://news.bitcoin.com/michael-saylor-teases-strategys-next-bitcoin-move-after-buying-pause-and-3-billion-cash-buildup/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-19T14:27:00.000Z"
+  },
+  {
+    "id": "cf31981a-2966-4e94-8041-a09094247c34",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The People of Aberdeen, in Scotland, are dancing in the streets because the new Prime Minister, Andy Burnham, has stated that he will be opening up, all the way, the invaluable North Sea Oil!\n2. It is one of the Greatest Sources of quality Oil on Earth, has hundreds of years of Capacity left, with much not even found yet, and will make the United Kingdom, from a Poverty Stricken Disaster, to one of the Richest Countries anywhere in the World!\n3. Britain pays Norway Billions of Dollars a year to buy its Oil, which they get from a less valuable part of the North Sea — How ridiculous is that!",
+    "url": "https://trumpstruth.org/statuses/40108",
+    "author": "Trump Truth",
+    "created_at": "2026-07-19T14:05:05.000Z"
+  },
+  {
+    "id": "b7232052-4449-41ce-8296-1e7137636192",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "AI is destroying the internet. Math is our only hope.",
+    "summary": "1. The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.",
+    "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+    "author": "Brian Trunzo",
+    "created_at": "2026-07-19T14:00:00.000Z"
+  },
+  {
+    "id": "64907d00-cdf8-4876-930b-38caaf0b1d11",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "summary": "1. Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "author": "Kate Park",
+    "created_at": "2026-07-19T14:00:00.000Z"
+  },
+  {
     "id": "d4c37199-ac79-4b1c-b3da-0efa0603195e",
     "source": "Politico",
     "type": "rss",
@@ -218,55 +308,5 @@
     "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
     "author": "Shaurya Malwa",
     "created_at": "2026-07-19T10:00:00.000Z"
-  },
-  {
-    "id": "c4b0973a-bf2a-4b4d-a112-4214c69dd3b9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Canada Crypto Week Returns July 20–26, Celebrating the Future of Web3, Digital Assets and AI",
-    "summary": "1. Canada’s largest week-long gathering of conferences, networking events, and community experiences.\n2. TORONTO, ON – Canada Crypto Week returns July 20–26, 2026, for its sixth year, bringing together dozens of events across Canada focused on cryptocurrency, digital assets, and artificial intelligence.\n3. The week connects entrepreneurs, builders, investors, and institutions through a diverse lineup of events taking […]",
-    "url": "https://news.bitcoin.com/canada-crypto-week-returns-july-20-26-celebrating-the-future-of-web3-digital-assets-and-ai/",
-    "author": "Media",
-    "created_at": "2026-07-19T09:33:13.000Z"
-  },
-  {
-    "id": "52421a10-6465-44ce-a766-8b20186d72db",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "The Target Is Pix: Why the US Is Imposing Unprecedented Tariffs Over Brazil’s Free Payment System",
-    "summary": "1. The decision, applied under Section 301 of the Trade Act of 1974, was taken by the USTR after a year-long investigation that found certain circumstances in Brazil, including Pix payments, were “unreasonable” and burdened or restricted “the commerce of American farmers, workers, innovators, and exporters.” USTR Applies 25% Tariffs on Brazilian Goods with Pix Payments […]",
-    "url": "https://news.bitcoin.com/the-target-is-pix-why-the-us-is-imposing-unprecedented-tariffs-over-brazils-free-payment-system/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-19T09:30:02.000Z"
-  },
-  {
-    "id": "41e4cee1-8a9b-4c39-a8eb-6577174640fe",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
-    "summary": "1. Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin’s disruptive potential, suggesting that this might lead to more partnerships between traditional electronic payment providers and Bitcoin startups.",
-    "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Diana Ngo",
-    "created_at": "2026-07-19T09:16:42.000Z"
-  },
-  {
-    "id": "1ef2df94-e404-4c8e-8085-3ebe772a6301",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Describe 2026 in 3 words.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ef2073d9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-19T09:05:06+00:00"
-  },
-  {
-    "id": "7ae13c11-1b82-4808-88fa-84513b8f2b84",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-19T07:56:10.000Z"
   }
 ]
