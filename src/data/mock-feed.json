@@ -1,5 +1,85 @@
 [
   {
+    "id": "cc3d7dca-a466-4bb5-a97e-20d308d3cfa3",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-19T03:30:21.000Z"
+  },
+  {
+    "id": "a6aa0160-d40f-481f-856a-9cff3418f289",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-19T03:30:21.000Z"
+  },
+  {
+    "id": "dc0adec3-c4db-437a-8b18-1f5c92dc5c2d",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.215",
+    "summary": "1. ## What's changed\n\n- Claude no longer runs the `/verify` and `/code-review` skills on its own; invoke them with `/verify` or `/code-review` when you want them",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
+    "author": "ashwin-ant",
+    "created_at": "2026-07-19T02:56:01Z"
+  },
+  {
+    "id": "466a14e3-d242-4350-b257-d3392322f901",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Flashes ‘End of Bear’ Signal as Cost Basis Crossover Suggests Final Bear Market Phase",
+    "summary": "1. Bitcoin has flashed an “end of bear market” signal after its short-term holder cost basis fell below the adjusted long-term holder level.\n2. The crossover mirrors previous bitcoin cycles, suggesting the market may be entering the final stage of its bear phase.\n3. Bitcoin’s Bear Market May Be Entering Its Final Phase Blockchain analytics platform Cryptoquant shared […]",
+    "url": "https://news.bitcoin.com/bitcoin-flashes-end-of-bear-signal-as-cost-basis-crossover-suggests-final-bear-market-phase/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-19T02:30:19.000Z"
+  },
+  {
+    "id": "9fbb2662-d5e3-43af-9c68-1cca243bf939",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ripple’s CLARITY Act Campaign Returns as Senate Democrats Challenge Crypto Bill",
+    "summary": "1. Ripple returned its CLARITY truck to Washington, D.C., as several Senate Democrats challenged the CLARITY Act’s current version, putting needed crossover support at risk over concerns about presidential financial conflicts of interest, anti-fraud standards, and safeguards against market manipulation.\n2. Can Ripple’s CLARITY Act Campaign Shift the Senate Debate?\n3. Ripple announced on July 14 that its […]",
+    "url": "https://news.bitcoin.com/ripples-clarity-act-campaign-returns-as-senate-democrats-challenge-crypto-bill/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-19T01:30:57.000Z"
+  },
+  {
+    "id": "6f907fb6-64a3-4ff7-b596-147c8f177907",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine",
+    "summary": "1. The progressive logger and lawmaker dominated Maine Democrats’ Saturday county meetings to pick a replacement for Platner.",
+    "url": "https://www.politico.com/news/2026/07/18/troy-jackson-maine-senate-platner-01004343",
+    "author": "By Aaron Pellish and Andrew Howard",
+    "created_at": "2026-07-19T01:05:18.000Z"
+  },
+  {
+    "id": "253c7ae6-c954-43c7-847d-b2e8fba699f9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Michael Saylor Says Corporate Bitcoin Adoption Is ‘Necessary, Inevitable and Welcome’",
+    "summary": "1. Michael Saylor says bitcoin cannot achieve global monetary status without corporate adoption.\n2. Public companies now hold more than 1.26 million BTC, while Strategy’s financing model shows how bitcoin is being used as both a reserve asset and a source of liquidity.\n3. Saylor’s Corporate Bitcoin Thesis Meets a Concentrated Market Corporate adoption could help bitcoin develop […]",
+    "url": "https://news.bitcoin.com/michael-saylor-says-corporate-bitcoin-adoption-is-necessary-inevitable-and-welcome/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-19T00:30:56.000Z"
+  },
+  {
+    "id": "2dd0894b-9e41-4b2c-9e71-42d5b151ad1f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
+    "summary": "1. The delay does not postpone the law’s Jan.\n2. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.",
+    "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-07-18T22:04:40.000Z"
+  },
+  {
     "id": "ba109c49-7423-49b2-9fcf-89104de5ea1f",
     "source": "CoinDesk",
     "type": "rss",
@@ -18,165 +98,5 @@
     "url": "https://news.bitcoin.com/ftx-plans-to-pay-creditors-900-million-as-fifth-distribution-starts-on-july-31/",
     "author": "Jamie Redman",
     "created_at": "2026-07-18T21:36:22.000Z"
-  },
-  {
-    "id": "ca176e10-fdf5-473f-819a-5973e066587b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘The Only Way’: Coinbase CEO Brian Armstrong Champions Self-Custody to Reach 1 Billion Users",
-    "summary": "1. Coinbase CEO Brian Armmsgtong stressed that self-custody wallets were essential for reaching cryptocurrency adoption in the billions, praising the simplicity of entering markets that lack clear regulations.\n2. Agentic adoption, a future growth avenue, also benefits from self-custody, he pointed out.\n3. Coinbase CEO Brian Armstrong Stresses Relevance of Self-Custody Wallets To Get Billions into Crypto While […]",
-    "url": "https://news.bitcoin.com/the-only-way-coinbase-ceo-brian-armstrong-champions-self-custody-to-reach-1-billion-users/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-18T20:30:26.000Z"
-  },
-  {
-    "id": "f2475bd1-070f-4d83-960d-30cac656013b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Saylor Rejects BIP 110, Warns Softfork Threatens Bitcoin’s Neutral Rules",
-    "summary": "1. Strategy founder Michael Saylor published a lengthy essay Saturday rejecting BIP 110, a proposed Bitcoin softfork that would temporarily restrict several types of transactions carrying non-payment data.\n2. Saylor’s essay lists 100 numbered arguments against the proposal, which he says amounts to using Bitcoin’s consensus rules to discourage a disputed but currently valid category of transactions.",
-    "url": "https://news.bitcoin.com/saylor-rejects-bip-110-warns-softfork-threatens-bitcoins-neutral-rules/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-18T19:34:38.000Z"
-  },
-  {
-    "id": "660e2873-e6bf-45f6-8788-16c17651d7cf",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Waymo says San Francisco service has resumed after one-hour pause",
-    "summary": "1. This isn’t the first time power outages have caused issues for Waymo.",
-    "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-18T19:30:23.000Z"
-  },
-  {
-    "id": "02a008ea-e1af-447e-8e12-7cfc21166427",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Sharplink CEO Joseph Chalom predicts most public companies will be tokenized over the next couple of years, saying \"$160 trillion of public equities are waiting to be tokenized.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ac6b892c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-18T19:25:08+00:00"
-  },
-  {
-    "id": "afb8f57b-28bb-4970-9070-103ae4117382",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Kimi: Threat or menace?",
-    "summary": "1. Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-18T18:51:07.000Z"
-  },
-  {
-    "id": "cf5cc281-201f-467b-ba81-54bb3cc7327d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
-    "summary": "1. A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.",
-    "url": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-18T18:47:49.000Z"
-  },
-  {
-    "id": "7a9a1f23-f7ba-4b38-8986-8b1f498afd5f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Stablecoin Shakeup: $12 Billion Disappears in 2 Months While Tether Refuses to Flinch",
-    "summary": "1. Over the past two months, the stablecoin economy has been tightening its belt, trimming $12.413 billion since mid-May.\n2. In just the last week, the sector said goodbye to another $1.555 billion.\n3. Stablecoin Market Sheds More Than $12 Billion Since Mid-May The fiat-pegged crypto coin sector, as tracked by defillama.com on Saturday, Jul.",
-    "url": "https://news.bitcoin.com/stablecoin-shakeup-12-billion-disappears-in-2-months-while-tether-refuses-to-flinch/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-18T18:30:18.000Z"
-  },
-  {
-    "id": "9965d5b9-49df-4315-9fe6-05950be6685f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto executives say digital native generations may never need a bank account",
-    "summary": "1. teakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
-    "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-    "author": "Olivier Acuna",
-    "created_at": "2026-07-18T18:30:00.000Z"
-  },
-  {
-    "id": "539ab8ef-64c2-4cb4-98b0-d31687eaff49",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Satoshi Nakamoto Predicted Bitcoin’s Hash Defense 16 Years Before Quantum Fears",
-    "summary": "1. Sixteen years ago, Satoshi Nakamoto answered a doubter on a forum in 2010, and the reply still guides how the network defends its money today.\n2. A Forum Post That Set the Rules On July 16, 2010, a user named bdonlan questioned Bitcoin’s double SHA-256 hashing on the Bitcointalk forum.\n3. He asked whether the design weakened […]",
-    "url": "https://news.bitcoin.com/satoshi-nakamoto-predicted-bitcoins-hash-defense-16-years-before-quantum-fears/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-18T17:30:45.000Z"
-  },
-  {
-    "id": "43e336c8-b14e-458d-843a-6480aa472aec",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Rep. William Timmons says the CLARITY Act is \"on the one-yard line,\" and lawmakers \"just got to score the touchdown.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b1d174b2",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-18T17:20:10+00:00"
-  },
-  {
-    "id": "9f592054-8b76-4aad-8ab9-1c988c93d388",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "DOG Mode explains Bitcoin's next governance fight",
-    "summary": "1. Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
-    "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
-    "author": "Jamie Crawley",
-    "created_at": "2026-07-18T17:00:00.000Z"
-  },
-  {
-    "id": "dcbd4b49-e1b3-473a-ad14-269e5ec7de42",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Bank of America appoints new executives to lead and scale its digital asset platforms, tokenization business and AI transformation.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#b189ffa8",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-18T16:58:23+00:00"
-  },
-  {
-    "id": "42d04e03-6725-4ce6-8648-a76eaf390a98",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Drake Drops $1.5M USDT Bet on Argentina Despite Spain’s World Cup Edge",
-    "summary": "1. Rap superstar Drake has placed a $1.5 million bet in USDT on Argentina to beat Spain in Sunday’s FIFA World Cup final, a wager that could pay out roughly $5.175 million if Lionel Messi’s team wins in regulation or extra time.\n2. The rapper placed the bet through Stake, the crypto betting platform he has partnered […]",
-    "url": "https://news.bitcoin.com/drake-drops-1-5m-usdt-bet-on-argentina-despite-spains-world-cup-edge/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-18T16:33:43.000Z"
-  },
-  {
-    "id": "82c4dc0f-8027-4a6f-ba2c-57d864e5c5fb",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-    "summary": "1. Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
-    "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-07-18T16:30:00.000Z"
-  },
-  {
-    "id": "eb4c3a66-1f56-4003-a1ce-46e517d8f876",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-    "summary": "1. Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
-    "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-18T16:09:59.000Z"
-  },
-  {
-    "id": "56b3a42b-6bea-4c3b-ae8f-c2edf4f3ef6e",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-18T16:02:15.000Z"
   }
 ]
