@@ -1,5 +1,85 @@
 [
   {
+    "id": "c1c08fec-2597-47ea-9f09-f1376a9785df",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Latam Insights: Unpacking Bolivia’s Stablecoin Push, Venezuela’s Massive P2P Market, and Argentina’s Libra Crackdown",
+    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, Bolivia evaluates Tether’s USDT inclusion in its payment system, Venezuela’s crypto P2P economy reaches new highs, and an Argentine federal judge issues new fund freezes in the Libra case.\n3. Bolivia Evaluates Integrating USDT […]",
+    "url": "https://news.bitcoin.com/latam-insights-unpacking-bolivias-stablecoin-push-venezuelas-massive-p2p-market-and-argentinas-libra-crackdown/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-19T10:30:06.000Z"
+  },
+  {
+    "id": "86975745-fb7d-4958-9e8b-b3d7a1a3ead6",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+    "summary": "1. The proceedings come as South Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+    "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-19T10:17:46.000Z"
+  },
+  {
+    "id": "b12d4bf8-5020-4d6d-865c-a4e02fdec76b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🔥 BREAKING: Everyone who sees this post will have a green portfolio this month.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3b5d6dd0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-19T10:05:05+00:00"
+  },
+  {
+    "id": "f356deab-879b-4739-a843-67f734d2cbc1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+    "summary": "1. Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures.\n2. It runs in 243 milliseconds on a laptop.",
+    "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-19T10:00:00.000Z"
+  },
+  {
+    "id": "c4b0973a-bf2a-4b4d-a112-4214c69dd3b9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Canada Crypto Week Returns July 20–26, Celebrating the Future of Web3, Digital Assets and AI",
+    "summary": "1. Canada’s largest week-long gathering of conferences, networking events, and community experiences.\n2. TORONTO, ON – Canada Crypto Week returns July 20–26, 2026, for its sixth year, bringing together dozens of events across Canada focused on cryptocurrency, digital assets, and artificial intelligence.\n3. The week connects entrepreneurs, builders, investors, and institutions through a diverse lineup of events taking […]",
+    "url": "https://news.bitcoin.com/canada-crypto-week-returns-july-20-26-celebrating-the-future-of-web3-digital-assets-and-ai/",
+    "author": "Media",
+    "created_at": "2026-07-19T09:33:13.000Z"
+  },
+  {
+    "id": "52421a10-6465-44ce-a766-8b20186d72db",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The Target Is Pix: Why the US Is Imposing Unprecedented Tariffs Over Brazil’s Free Payment System",
+    "summary": "1. The decision, applied under Section 301 of the Trade Act of 1974, was taken by the USTR after a year-long investigation that found certain circumstances in Brazil, including Pix payments, were “unreasonable” and burdened or restricted “the commerce of American farmers, workers, innovators, and exporters.” USTR Applies 25% Tariffs on Brazilian Goods with Pix Payments […]",
+    "url": "https://news.bitcoin.com/the-target-is-pix-why-the-us-is-imposing-unprecedented-tariffs-over-brazils-free-payment-system/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-19T09:30:02.000Z"
+  },
+  {
+    "id": "41e4cee1-8a9b-4c39-a8eb-6577174640fe",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+    "summary": "1. Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin’s disruptive potential, suggesting that this might lead to more partnerships between traditional electronic payment providers and Bitcoin startups.",
+    "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Diana Ngo",
+    "created_at": "2026-07-19T09:16:42.000Z"
+  },
+  {
+    "id": "1ef2df94-e404-4c8e-8085-3ebe772a6301",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Describe 2026 in 3 words.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ef2073d9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-19T09:05:06+00:00"
+  },
+  {
     "id": "7ae13c11-1b82-4808-88fa-84513b8f2b84",
     "source": "The Defiant",
     "type": "rss",
@@ -30,7 +110,7 @@
     "created_at": "2026-07-19T06:30:23.000Z"
   },
   {
-    "id": "86209db9-e900-473f-9503-a03327ce2710",
+    "id": "a8e8ac67-7220-4d6d-b80e-5705344b0b1e",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Semiconductor stocks have officially entered bear market territory Twitter",
@@ -58,45 +138,5 @@
     "url": "https://news.bitcoin.com/trumps-1-4b-crypto-income-draws-scrutiny-as-senate-weighs-clarity-act/",
     "author": "Kevin Helms",
     "created_at": "2026-07-19T05:30:11.000Z"
-  },
-  {
-    "id": "cc3d7dca-a466-4bb5-a97e-20d308d3cfa3",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-19T03:30:21.000Z"
-  },
-  {
-    "id": "a6aa0160-d40f-481f-856a-9cff3418f289",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-19T03:30:21.000Z"
-  },
-  {
-    "id": "dc0adec3-c4db-437a-8b18-1f5c92dc5c2d",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.215",
-    "summary": "1. ## What's changed\n\n- Claude no longer runs the `/verify` and `/code-review` skills on its own; invoke them with `/verify` or `/code-review` when you want them",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-19T02:56:01Z"
-  },
-  {
-    "id": "466a14e3-d242-4350-b257-d3392322f901",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Flashes ‘End of Bear’ Signal as Cost Basis Crossover Suggests Final Bear Market Phase",
-    "summary": "1. Bitcoin has flashed an “end of bear market” signal after its short-term holder cost basis fell below the adjusted long-term holder level.\n2. The crossover mirrors previous bitcoin cycles, suggesting the market may be entering the final stage of its bear phase.\n3. Bitcoin’s Bear Market May Be Entering Its Final Phase Blockchain analytics platform Cryptoquant shared […]",
-    "url": "https://news.bitcoin.com/bitcoin-flashes-end-of-bear-signal-as-cost-basis-crossover-suggests-final-bear-market-phase/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-19T02:30:19.000Z"
   }
 ]
