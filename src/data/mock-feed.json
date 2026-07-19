@@ -1,5 +1,115 @@
 [
   {
+    "id": "3c95d0b7-1fe2-4581-a37e-e1ee2b994a91",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Saylor opposes BIP-110, says Bitcoin must preserve neutrality",
+    "summary": "Strategy founder Michael Saylor has published a 110-point post opposing Bitcoin Improvement Proposal 110, or BIP-110, which seeks to restrict the recording of images, text and other data in transactions, The Block reported. He argued, \"Valid fee-paying transactions should not be judged by consensus rules based on their purpose. Bitcoin needs guardians of neutrality, not guardians of purity.\"BIP-110 includes measures to limit large-data transactions, and the miner signaling process on whether to activate the proposal is set to begin in August. Current miner support stands at about 0.86%.",
+    "url": "https://t.me/CoinnessGL#294be379",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-19T21:56:33+00:00"
+  },
+  {
+    "id": "a44758d0-7f6f-408b-ac9a-76d5e981e57f",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
+    "summary": "1. Saylor followed up Sunday with a cryptic tracker-chart post captioned \"What's next?\" ahead of Strategy's expected Monday disclosure.",
+    "url": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-07-19T21:51:32.000Z"
+  },
+  {
+    "id": "c6cf188a-7ee2-4042-b1ca-3fde97c70a08",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+    "summary": "1. Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+    "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+    "author": "Anthony Ha",
+    "created_at": "2026-07-19T21:45:00.000Z"
+  },
+  {
+    "id": "0e63ed13-e0e8-4879-9763-baa7a8154166",
+    "source": "Politico",
+    "type": "rss",
+    "title": "It's Giuliani (extra) time",
+    "summary": "1. It's Giuliani (extra) time",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/its-giuliani-extra-time-01004600",
+    "author": "By Sophia Cai",
+    "created_at": "2026-07-19T21:34:59.000Z"
+  },
+  {
+    "id": "6357fd96-4c79-4aa0-9357-1f810b771fbd",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Spot the pol!",
+    "summary": "1. Study the photograph carefully.\n2. Only the political figure is missing.\n3. Guess who it is.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/spot-the-pol-diplomat-consular-cases-01004356",
+    "author": "By POLITICO Staff",
+    "created_at": "2026-07-19T21:30:00.000Z"
+  },
+  {
+    "id": "523f1205-b0a8-478c-af6f-2a8e267d03bc",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "What to watch for after Jensen Huang’s Japan visit",
+    "summary": "1. Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "author": "Kate Park",
+    "created_at": "2026-07-19T21:16:07.000Z"
+  },
+  {
+    "id": "3b260c98-0d8d-410d-bed0-ec145f47a2d7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Zakura Node Hits Four-Hour Sync as Zcash Preps July 28 Ironwood Upgrade",
+    "summary": "1. Zcash developers are sealing off a shielded pool that carried a critical bug, and a new node built for speed is already backing the fix.\n2. The Ironwood hard fork, known as NU6.3, activates around July 28, 2026, at block height 3,428,143.\n3. It closes a soundness flaw in the Orchard shielded pool and opens a new […]",
+    "url": "https://news.bitcoin.com/zakura-node-hits-four-hour-sync-as-zcash-preps-july-28-ironwood-upgrade/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-19T21:11:50.000Z"
+  },
+  {
+    "id": "0c2ef37f-3d87-4c56-a7b7-18f098d48c2c",
+    "source": "Politico",
+    "type": "rss",
+    "title": "All the president's guests",
+    "summary": "1. World leaders, royals and Trump allies join the president in his World Cup suite.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/trump-box-sheinbaum-carney-felipe-guests-01004589",
+    "author": "By Sophia Cai",
+    "created_at": "2026-07-19T20:52:42.000Z"
+  },
+  {
+    "id": "c49b3367-eefb-4c69-9928-9fa7dce55ee4",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+    "summary": "1. The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.",
+    "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-07-19T20:31:29.000Z"
+  },
+  {
+    "id": "836ecb7e-421a-40c7-9afa-369c0e9a8a91",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "League of Legends Draws 1.4 Million EWC Viewers as Dplus Kia Storms Through Paris",
+    "summary": "1. This past week, Dplus Kia swept Karmine Corp 3-0 to win the League of Legends title at the Esports World Cup (EWC) in Paris, capping a week that also crowned champions in Free Fire and the MLBB Women’s Invitational while Dota 2 fans waited on an unresolved grand final.\n2. The 2026 Esports World Cup marked […]",
+    "url": "https://news.bitcoin.com/league-of-legends-draws-1-4-million-ewc-viewers-as-dplus-kia-storms-through-paris/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-19T19:49:51.000Z"
+  },
+  {
+    "id": "0f28d328-fc20-4b34-9458-e868c9815f52",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "summary": "1. On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "author": "Anthony Ha",
+    "created_at": "2026-07-19T19:24:45.000Z"
+  },
+  {
     "id": "b6d2853d-f517-439f-8038-2b437bb3f176",
     "source": "Politico",
     "type": "rss",
@@ -90,7 +200,7 @@
     "created_at": "2026-07-19T17:56:54.000Z"
   },
   {
-    "id": "4acafa49-c89c-4097-88af-99a74a9087f9",
+    "id": "58948fa9-efbd-4fd2-b047-b3f17e76fcc3",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "US National Debt2011: $14.79T2012: $16.06T2013: $16.73T2014: $17.82T2015:...",
@@ -158,185 +268,5 @@
     "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/javier-milei-soccer-politics-argentina-spain-world-cup-final-01004323",
     "author": "By Aitor Hernández-Morales",
     "created_at": "2026-07-19T16:00:00.000Z"
-  },
-  {
-    "id": "bdd9dd5e-1827-44d1-97f4-09700c9bd9dc",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
-    "summary": "1. She ended her Senate bid on Sunday as rival Troy Jackson consolidated support in the state’s delegation selection process.",
-    "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452",
-    "author": "By Andrew Howard",
-    "created_at": "2026-07-19T15:56:06.000Z"
-  },
-  {
-    "id": "e82892b0-92a1-4844-8453-0318399677ba",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Spot the pol!",
-    "summary": "1. Study the photograph carefully.\n2. Only the political figure is missing.\n3. Guess who it is.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/spot-the-pol-mayor-traffic-cone-01004353",
-    "author": "By POLITICO Staff",
-    "created_at": "2026-07-19T15:45:00.000Z"
-  },
-  {
-    "id": "f71365ba-ded6-4c4b-8cb1-492809f01c25",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "EXPLAINED: 📊 Bitcoin rallied to $65K last week as a cool CPI print reduced the...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#fd1150aa",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-19T15:35:05+00:00"
-  },
-  {
-    "id": "ffe7aa42-4fc5-4cad-872b-0866e4cb6a18",
-    "source": "Politico",
-    "type": "rss",
-    "title": "FIFA anti-discrimination partner warns against Olympic-style transgender ban",
-    "summary": "1. The backlash comes after a Trump administration official told POLITICO it would press the international soccer body to align its policies on transgender athletes with those of the United States.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/fifa-trans-ban-pushback-01004439",
-    "author": "By Emilio Perez Ibarguen",
-    "created_at": "2026-07-19T15:30:00.000Z"
-  },
-  {
-    "id": "a67154ef-568e-457a-a083-882e70fb8108",
-    "source": "Politico",
-    "type": "rss",
-    "title": "How soccer eclipsed separatist politics in Spain",
-    "summary": "1. Their regions were once known for terror and division.\n2. Now Basques and Catalans have come to dominate the Spanish squad, while influencing the game all around the world.",
-    "url": "https://www.politico.com/news/2026/07/19/soccer-spain-basques-catalans-sport-eclipses-politics-01004240",
-    "author": "By Guy Hedgecoe",
-    "created_at": "2026-07-19T15:20:34.000Z"
-  },
-  {
-    "id": "d204fcd3-c78a-437b-bb12-bff605bc3a26",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
-    "summary": "1. Michael Saylor argues that a new proposal, BIP-110, to temporarily block \"spam\" data from the Bitcoin blockchain would undermine the network's neutrality and create a dangerous precedent for censorship.",
-    "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-19T15:19:21.000Z"
-  },
-  {
-    "id": "f532b79e-7e9e-49bc-9c8a-fee3b94cbb8a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "How the United Bid became the Trump Trophy",
-    "summary": "1. How the United Bid became the Trump Trophy",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/fifa-trump-political-history-01004365",
-    "author": "By POLITICO Staff",
-    "created_at": "2026-07-19T15:01:10.000Z"
-  },
-  {
-    "id": "8a45faee-2f39-4aab-966a-5d1304133f99",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "summary": "1. \"Everybody knows the Greeks are inside.\"",
-    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-19T14:52:08.000Z"
-  },
-  {
-    "id": "59f7c601-4605-44c0-a4cf-df6ee2239e41",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Michael Saylor Teases Strategy’s Next Bitcoin Move After Buying Pause and $3 Billion Cash Buildup",
-    "summary": "1. Michael Saylor’s latest chart has renewed attention on the company’s bitcoin plans, but recent BTC sales, no purchases since June 22 and a $3 billion cash reserve leave its next transaction uncertain.\n2. Saylor’s Bitcoin Chart Arrives With Strategy’s Next Move Unclear Strategy Inc.\n3. (Nasdaq: MSTR) could resume bitcoin purchases after a buying pause, continue preserving […]",
-    "url": "https://news.bitcoin.com/michael-saylor-teases-strategys-next-bitcoin-move-after-buying-pause-and-3-billion-cash-buildup/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-19T14:27:00.000Z"
-  },
-  {
-    "id": "a023c0d6-0cb8-4c3d-a9b0-33c14e536a86",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Sharplink CEO Joseph Chalom says Ethereum is becoming the \"global settlement layer\" in a way Bitcoin cannot be as \"just a simple store of value.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3bb75946",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-19T14:15:09+00:00"
-  },
-  {
-    "id": "cf31981a-2966-4e94-8041-a09094247c34",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The People of Aberdeen, in Scotland, are dancing in the streets because the new Prime Minister, Andy Burnham, has stated that he will be opening up, all the way, the invaluable North Sea Oil!\n2. It is one of the Greatest Sources of quality Oil on Earth, has hundreds of years of Capacity left, with much not even found yet, and will make the United Kingdom, from a Poverty Stricken Disaster, to one of the Richest Countries anywhere in the World!\n3. Britain pays Norway Billions of Dollars a year to buy its Oil, which they get from a less valuable part of the North Sea — How ridiculous is that!",
-    "url": "https://trumpstruth.org/statuses/40108",
-    "author": "Trump Truth",
-    "created_at": "2026-07-19T14:05:05.000Z"
-  },
-  {
-    "id": "b7232052-4449-41ce-8296-1e7137636192",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "AI is destroying the internet. Math is our only hope.",
-    "summary": "1. The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.",
-    "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
-    "author": "Brian Trunzo",
-    "created_at": "2026-07-19T14:00:00.000Z"
-  },
-  {
-    "id": "64907d00-cdf8-4876-930b-38caaf0b1d11",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "summary": "1. Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "author": "Kate Park",
-    "created_at": "2026-07-19T14:00:00.000Z"
-  },
-  {
-    "id": "d4c37199-ac79-4b1c-b3da-0efa0603195e",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The World Cup conundrum of Europe's far right",
-    "summary": "1. The multicultural rosters of Europe's top teams has thrown some of them for a loop.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/europe-far-right-soccer-01004355",
-    "author": "By Emily Schultheis",
-    "created_at": "2026-07-19T13:40:00.000Z"
-  },
-  {
-    "id": "a3431301-2da1-4855-8cc3-089e3e4eae2c",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-19T13:38:37.000Z"
-  },
-  {
-    "id": "dc44f674-d193-4aa1-a8ba-96837692fac8",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-19T13:38:37.000Z"
-  },
-  {
-    "id": "89edfbd1-8b39-4963-bda2-13c1c5d0d028",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Democrats look to World Cup watch parties to register thousands of voters",
-    "summary": "1. The party’s weekend campaign is a part of a broader initiative focused on young voters ahead of the midterms.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/world-cup-dnc-democrats-voters-01004352",
-    "author": "By Sophia Cai",
-    "created_at": "2026-07-19T13:25:00.000Z"
-  },
-  {
-    "id": "8446d401-f74e-4357-8c59-782303e89764",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-19T13:20:25.000Z"
   }
 ]
