@@ -1,5 +1,175 @@
 [
   {
+    "id": "a3431301-2da1-4855-8cc3-089e3e4eae2c",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-19T13:38:37.000Z"
+  },
+  {
+    "id": "dc44f674-d193-4aa1-a8ba-96837692fac8",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-19T13:38:37.000Z"
+  },
+  {
+    "id": "89edfbd1-8b39-4963-bda2-13c1c5d0d028",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Democrats look to World Cup watch parties to register thousands of voters",
+    "summary": "1. The party’s weekend campaign is a part of a broader initiative focused on young voters ahead of the midterms.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/world-cup-dnc-democrats-voters-01004352",
+    "author": "By Sophia Cai",
+    "created_at": "2026-07-19T13:25:00.000Z"
+  },
+  {
+    "id": "8446d401-f74e-4357-8c59-782303e89764",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-19T13:20:25.000Z"
+  },
+  {
+    "id": "ff100b7f-9e15-47e2-97ef-78ad120144ba",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Spain or Argentina, who's going to win? Europe has its say.",
+    "summary": "1. Guess who the Brussels bubble thinks will triumph in the FIFA World Cup final.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/final-predictions-from-europe-01004273",
+    "author": "By Ali Walker",
+    "created_at": "2026-07-19T13:15:00.000Z"
+  },
+  {
+    "id": "35e112e8-0f29-4614-a8af-466c203ce1c7",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "rish: not a bold claim by any means but hey jude is the greatest song of all time",
+    "summary": "1. not a bold claim by any means but hey jude is the greatest song of all time",
+    "url": "https://warpcast.com/rish/0xd4edc3b0",
+    "author": "rish",
+    "created_at": "2026-07-19T13:06:13.000Z"
+  },
+  {
+    "id": "d15db740-7be5-458f-b6a6-33034f2bce6a",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Thank you for using CMC!",
+    "summary": "Here is your receipt.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0e971802",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-19T13:05:08+00:00"
+  },
+  {
+    "id": "f326ea4a-dc28-450e-845e-60e35f2828dc",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Robinhood Roars, Coinbase Reorgs, and Ethereum Rakes in $1,538 – Week in Review",
+    "summary": "1. This editorial is from this week’s edition of the newsletter Week in Review, sent to subscribers on Friday.\n2. Subscribe to the newsletter to get this weekly editorial the second it’s finished.\n3. The newsletter also includes the biggest stories of the week with a comment on each story.",
+    "url": "https://news.bitcoin.com/robinhood-roars-coinbase-reorgs-and-ethereum-rakes-in-1538-week-in-review/",
+    "author": "David Sencil",
+    "created_at": "2026-07-19T13:00:35.000Z"
+  },
+  {
+    "id": "1ab0feb0-8561-4436-b9c2-6cfb6f3c6eb5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+    "summary": "1. The GENIUS Act has hit its first anniversary without U.S.\n2. regulators yet meeting deadlines to write regulations, though rules will be in full effect by July 2028.",
+    "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-07-19T13:00:00.000Z"
+  },
+  {
+    "id": "7b087628-5f82-4d34-b5e7-90f84d1d8c53",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+    "summary": "1. The Wyoming-based firm launched USD-settled bitcoin and ether options, saying product design, not demand, has held back adoption.",
+    "url": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+    "author": "Will Canny",
+    "created_at": "2026-07-19T13:00:00.000Z"
+  },
+  {
+    "id": "1e050797-dd82-47f9-b421-5ca50935a4cc",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+    "summary": "1. US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead.",
+    "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-19T12:53:12.000Z"
+  },
+  {
+    "id": "cfe2213d-4c61-45dc-9bcd-3ae415f3cc59",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Saylor hints at buying more Bitcoin.\"What's next?\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#ca499a26",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-19T12:38:09+00:00"
+  },
+  {
+    "id": "7d84e844-3a6c-4648-9eca-8173f7a48f88",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Galaxy Digital CEO Mike Novogratz says Vitalik Buterin deserves a \"hero award for crypto,\" but warns his recent lower profile has hurt Ethereum's ecosystem.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ddc45487",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-19T12:25:08+00:00"
+  },
+  {
+    "id": "c9563e94-5394-4f23-be65-a12d22896ebf",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Republicans should add Iran to the Russian Sanctions Bill.\n2. That’s what Lindsey wanted to do, and it was going to happen.\n3. IMPORTANT!!!",
+    "url": "https://trumpstruth.org/statuses/40107",
+    "author": "Trump Truth",
+    "created_at": "2026-07-19T11:54:33.000Z"
+  },
+  {
+    "id": "be178246-0252-4474-96c9-8b49268b8d2f",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Kenya Investigates President William Ruto Website Breach as Hackers Demand 5 Bitcoin",
+    "summary": "1. Hackers briefly disabled the official website of Kenyan President William Ruto on July 18, demanded a ransom of five bitcoins and threatened to leak unspecified data if not paid.\n2. Government Response Triggered Kenya’s government is investigating a cybersecurity breach that briefly disabled the official website of President William Ruto on July 18, with attackers defacing […]",
+    "url": "https://news.bitcoin.com/kenya-investigates-president-william-ruto-website-breach-as-hackers-demand-5-bitcoin/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-19T11:30:03.000Z"
+  },
+  {
+    "id": "859fca2a-6b77-448e-afbf-3540e34f8247",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Trump-style nationalism surges across globe.\n2. Will France be next with Le Pen reprise?",
+    "url": "https://trumpstruth.org/statuses/40106",
+    "author": "Trump Truth",
+    "created_at": "2026-07-19T11:28:07.000Z"
+  },
+  {
+    "id": "5cad3ffb-b57e-435e-9866-79a263ab5e5d",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Brian Armstrong called Michael Saylor's move to have Strategy buy Bitcoin \"really brilliant,\" saying Saylor recognized that many funds could buy public company stock but not BTC directly.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2a51d8a9",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-19T11:10:10+00:00"
+  },
+  {
     "id": "c1c08fec-2597-47ea-9f09-f1376a9785df",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -88,55 +258,5 @@
     "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
     "author": "The Defiant Team",
     "created_at": "2026-07-19T07:56:10.000Z"
-  },
-  {
-    "id": "39ab43f2-4abc-44c2-86b8-ecdf4aff4830",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "This Group of Four Now Dominates Over 70% of a Key Blockchain Resource",
-    "summary": "1. Four Bitcoin mining pools, Foundry Digital, AntPool, ViaBTC, and F2Pool, controlled more than 70% of the network’s hashrate as of a June 23, 2026 snapshot from miningpoolstats.stream.\n2. The concentration is increasingly described as a two-tier market favoring institutional clients, prompting independent miners to quietly reconsider which pools they point their machines to.\n3. Bitcoin mining is […]",
-    "url": "https://news.bitcoin.com/this-group-of-four-now-dominates-over-70-of-a-key-blockchain-resource-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-07-19T07:30:06.000Z"
-  },
-  {
-    "id": "c66766a6-63e8-43b4-83bc-c645da835973",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Brazil’s CVM Launches Strategic Working Group to Regulate Securities Tokenization",
-    "summary": "1. The Brazilian securities watchdog (CVM) is preparing to establish an experimental regime for securities in the next 60 days.\n2. To this end, it has established a working group to propose the rules and regulations that will become the foundation of the country’s regulation.\n3. Brazil’s CVM Prepares to Regulate Securities Tokenization Markets The Brazilian Securities and […]",
-    "url": "https://news.bitcoin.com/brazils-cvm-launches-strategic-working-group-to-regulate-securities-tokenization/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-19T06:30:23.000Z"
-  },
-  {
-    "id": "a8e8ac67-7220-4d6d-b80e-5705344b0b1e",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Semiconductor stocks have officially entered bear market territory Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#d77d659a",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-19T06:30:06+00:00"
-  },
-  {
-    "id": "47f405cf-5ea8-4ab9-b13e-382c45088e3f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-    "summary": "1. The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
-    "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-19T05:37:34.000Z"
-  },
-  {
-    "id": "4de9a0cf-bf23-47ae-9c9f-7a0e8889220b",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Trump’s $1.4B Crypto Income Draws Scrutiny as Senate Weighs CLARITY Act",
-    "summary": "1. Senator Elizabeth Warren is pressing President Donald Trump for updated cryptocurrency earnings disclosures as senators consider the CLARITY Act, legislation she says could increase the value of his family’s extensive digital asset holdings and deepen concerns about financial conflicts involving federal officials.\n2. Request for Updated Disclosure Ahead of Senate Action U.S.\n3. Senator Elizabeth Warren […]",
-    "url": "https://news.bitcoin.com/trumps-1-4b-crypto-income-draws-scrutiny-as-senate-weighs-clarity-act/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-19T05:30:11.000Z"
   }
 ]
