@@ -1,5 +1,55 @@
 [
   {
+    "id": "7ae13c11-1b82-4808-88fa-84513b8f2b84",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-19T07:56:10.000Z"
+  },
+  {
+    "id": "39ab43f2-4abc-44c2-86b8-ecdf4aff4830",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "This Group of Four Now Dominates Over 70% of a Key Blockchain Resource",
+    "summary": "1. Four Bitcoin mining pools, Foundry Digital, AntPool, ViaBTC, and F2Pool, controlled more than 70% of the network’s hashrate as of a June 23, 2026 snapshot from miningpoolstats.stream.\n2. The concentration is increasingly described as a two-tier market favoring institutional clients, prompting independent miners to quietly reconsider which pools they point their machines to.\n3. Bitcoin mining is […]",
+    "url": "https://news.bitcoin.com/this-group-of-four-now-dominates-over-70-of-a-key-blockchain-resource-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-19T07:30:06.000Z"
+  },
+  {
+    "id": "c66766a6-63e8-43b4-83bc-c645da835973",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Brazil’s CVM Launches Strategic Working Group to Regulate Securities Tokenization",
+    "summary": "1. The Brazilian securities watchdog (CVM) is preparing to establish an experimental regime for securities in the next 60 days.\n2. To this end, it has established a working group to propose the rules and regulations that will become the foundation of the country’s regulation.\n3. Brazil’s CVM Prepares to Regulate Securities Tokenization Markets The Brazilian Securities and […]",
+    "url": "https://news.bitcoin.com/brazils-cvm-launches-strategic-working-group-to-regulate-securities-tokenization/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-19T06:30:23.000Z"
+  },
+  {
+    "id": "47f405cf-5ea8-4ab9-b13e-382c45088e3f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+    "summary": "1. The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
+    "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-19T05:37:34.000Z"
+  },
+  {
+    "id": "4de9a0cf-bf23-47ae-9c9f-7a0e8889220b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump’s $1.4B Crypto Income Draws Scrutiny as Senate Weighs CLARITY Act",
+    "summary": "1. Senator Elizabeth Warren is pressing President Donald Trump for updated cryptocurrency earnings disclosures as senators consider the CLARITY Act, legislation she says could increase the value of his family’s extensive digital asset holdings and deepen concerns about financial conflicts involving federal officials.\n2. Request for Updated Disclosure Ahead of Senate Action U.S.\n3. Senator Elizabeth Warren […]",
+    "url": "https://news.bitcoin.com/trumps-1-4b-crypto-income-draws-scrutiny-as-senate-weighs-clarity-act/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-19T05:30:11.000Z"
+  },
+  {
     "id": "cc3d7dca-a466-4bb5-a97e-20d308d3cfa3",
     "source": "The Defiant",
     "type": "rss",
@@ -38,65 +88,5 @@
     "url": "https://news.bitcoin.com/bitcoin-flashes-end-of-bear-signal-as-cost-basis-crossover-suggests-final-bear-market-phase/",
     "author": "Kevin Helms",
     "created_at": "2026-07-19T02:30:19.000Z"
-  },
-  {
-    "id": "9fbb2662-d5e3-43af-9c68-1cca243bf939",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple’s CLARITY Act Campaign Returns as Senate Democrats Challenge Crypto Bill",
-    "summary": "1. Ripple returned its CLARITY truck to Washington, D.C., as several Senate Democrats challenged the CLARITY Act’s current version, putting needed crossover support at risk over concerns about presidential financial conflicts of interest, anti-fraud standards, and safeguards against market manipulation.\n2. Can Ripple’s CLARITY Act Campaign Shift the Senate Debate?\n3. Ripple announced on July 14 that its […]",
-    "url": "https://news.bitcoin.com/ripples-clarity-act-campaign-returns-as-senate-democrats-challenge-crypto-bill/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-19T01:30:57.000Z"
-  },
-  {
-    "id": "6f907fb6-64a3-4ff7-b596-147c8f177907",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine",
-    "summary": "1. The progressive logger and lawmaker dominated Maine Democrats’ Saturday county meetings to pick a replacement for Platner.",
-    "url": "https://www.politico.com/news/2026/07/18/troy-jackson-maine-senate-platner-01004343",
-    "author": "By Aaron Pellish and Andrew Howard",
-    "created_at": "2026-07-19T01:05:18.000Z"
-  },
-  {
-    "id": "253c7ae6-c954-43c7-847d-b2e8fba699f9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Michael Saylor Says Corporate Bitcoin Adoption Is ‘Necessary, Inevitable and Welcome’",
-    "summary": "1. Michael Saylor says bitcoin cannot achieve global monetary status without corporate adoption.\n2. Public companies now hold more than 1.26 million BTC, while Strategy’s financing model shows how bitcoin is being used as both a reserve asset and a source of liquidity.\n3. Saylor’s Corporate Bitcoin Thesis Meets a Concentrated Market Corporate adoption could help bitcoin develop […]",
-    "url": "https://news.bitcoin.com/michael-saylor-says-corporate-bitcoin-adoption-is-necessary-inevitable-and-welcome/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-19T00:30:56.000Z"
-  },
-  {
-    "id": "2dd0894b-9e41-4b2c-9e71-42d5b151ad1f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
-    "summary": "1. The delay does not postpone the law’s Jan.\n2. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.",
-    "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-18T22:04:40.000Z"
-  },
-  {
-    "id": "ba109c49-7423-49b2-9fcf-89104de5ea1f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "France orders country's internet service providers to block Polymarket",
-    "summary": "1. The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
-    "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-18T21:52:18.000Z"
-  },
-  {
-    "id": "5ee29152-1229-427b-a794-01754d7aadee",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "FTX Plans to Pay Creditors $900 Million as Fifth Distribution Starts on July 31",
-    "summary": "1. FTX Trading Ltd.\n2. and the FTX Recovery Trust will send roughly $900 million to creditors starting July 31, 2026, marking the estate’s fifth major distribution since the exchange’s 2022 collapse.\n3. The payout covers eligible holders of allowed claims in the Convenience and Non-Convenience Classes who met requirements by the June 16 Record Date.",
-    "url": "https://news.bitcoin.com/ftx-plans-to-pay-creditors-900-million-as-fifth-distribution-starts-on-july-31/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-18T21:36:22.000Z"
   }
 ]
