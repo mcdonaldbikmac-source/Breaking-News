@@ -1,5 +1,175 @@
 [
   {
+    "id": "56b3639e-b1c1-4f1f-a655-296035f6471f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-20T14:21:56.000Z"
+  },
+  {
+    "id": "474631ca-7ffc-4878-9cb9-647da3605882",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
+    "summary": "1. Hut 8 and IREN shares climb on fresh AI data center deals worth billions as the bitcoin-to-AI pivot continues to accelerate.",
+    "url": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-20T14:12:46.000Z"
+  },
+  {
+    "id": "eb70ddcb-e2eb-4b59-8405-c02938bade51",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Tom Lee’s Bitmine Buys Back 5.5M BMNR Shares as ETH Stack Nears 5.8M Tokens",
+    "summary": "1. According to an announcement published Monday, Bitmine Immersion Technologies now holds 5.78 million ether tokens, pushing its total crypto, cash, and equity stake holdings to $11.5 billion.\n2. The Norwalk, Connecticut-based ethereum (ETH) treasury company disclosed the figures in its weekly shareholder update.\n3. Bitmine’s ether position now represents 4.8% of the total 120.7 million ETH supply, […]",
+    "url": "https://news.bitcoin.com/tom-lees-bitmine-buys-back-5-5m-bmnr-shares-as-eth-stack-nears-5-8m-tokens/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-20T14:05:39.000Z"
+  },
+  {
+    "id": "38122394-d49a-4a9a-b304-bbeb0aafab44",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Cardano has activated its van Rossem hard fork, upgrading the mainnet to Protocol Version 11 and lowering smart contract execution costs.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7145b303",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T14:00:14+00:00"
+  },
+  {
+    "id": "9712ca41-a7dc-48b7-92f9-3f64c438d6ea",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇷🇺 Russia to finalize bill tomorrow establishing a legal framework for crypto.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#c5032630",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-20T13:55:02+00:00"
+  },
+  {
+    "id": "58b88da4-418b-4b43-b41f-100676920c5c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Exodus to cut 25% of global workforce in payments shift",
+    "summary": "1. This restructuring is part of a strategy to build a full-stack payments platform following the company's acquisitions of Monavate and Baanx.",
+    "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-20T13:53:08.000Z"
+  },
+  {
+    "id": "32def5db-2a29-43ae-a380-d421b212b378",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Hut 8 surges on $9.8 billion AI data-center lease, lifting compute sector",
+    "summary": "1. The long-term deal sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
+    "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-20T13:49:24.000Z"
+  },
+  {
+    "id": "24886e6b-07a5-46b9-885c-cb2ee04265bb",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+    "summary": "1. An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
+    "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-20T13:47:06.000Z"
+  },
+  {
+    "id": "7b389b40-0c38-4eed-a5d6-3bd9c83b916e",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares",
+    "summary": "1. Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.",
+    "url": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-20T13:43:15.000Z"
+  },
+  {
+    "id": "872000be-024d-4eab-8b5c-8cb685d1b8d3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Benchmark sharply cuts Exodus price target, keeps buy rating",
+    "summary": "Benchmark, a U.S. investment bank, has nearly halved its price target for cryptocurrency wallet service provider Exodus (EXOD), The Block reported. The move followed Exodus' 25% workforce reduction last week. Analysts said the restructuring should help fund Exodus' shift toward a full-stack stablecoin payments infrastructure business, while maintaining a buy rating on EXOD.",
+    "url": "https://t.me/CoinnessGL#7828c51d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T13:42:24+00:00"
+  },
+  {
+    "id": "afab1ab8-4af1-45f1-b848-b0770bf36f5f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Sen. Lummis says Clarity Act would protect customer crypto in exchange bankruptcies",
+    "summary": "Crypto-friendly U.S. Sen. Cynthia Lummis said on X the core of the Clarity Act is that customers would retain ownership of their cryptocurrencies even if an exchange goes bankrupt. Lummis explained that when Celsius and Voyager went bankrupt, cryptocurrencies deposited by customers were not protected as customer assets and were instead included in the bankruptcy estate. Those assets were then treated as property available for repayment among creditors unrelated to the customers, Lummis said. Under the Clarity Act, that structure would change so ownership of customer-deposited crypto would remain with customers even if the company enters bankruptcy.",
+    "url": "https://t.me/CoinnessGL#e1f7fafe",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T13:33:13+00:00"
+  },
+  {
+    "id": "5e237c29-ee69-4cab-ac91-a42468ee5050",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US stocks open higher",
+    "summary": "The three major U.S. stock indices opened higher today.- S&P 500: +0.59%- Nasdaq: +0.37%- Dow Jones: +0.87%",
+    "url": "https://t.me/CoinnessGL#39689ad7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T13:31:55+00:00"
+  },
+  {
+    "id": "37195d61-bf20-4ba0-9262-9efdb43d8a12",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Peter Brandt predicts the exact day Bitcoin’s bear market will be over",
+    "summary": "1. Renowned trading analyst Peter Brandt says investing in Bitcoin today, will pay off much better in two to three years than buying AI stocks at current prices.",
+    "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ciaran Lyons",
+    "created_at": "2026-07-20T13:30:00.000Z"
+  },
+  {
+    "id": "8af054d5-4873-4d54-8fec-ab547821c36e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 PayPal led the underlyings, SanDisk trailedTokenized stocks weekly | Jul...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#436cf488",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T13:25:10+00:00"
+  },
+  {
+    "id": "01b0e740-1e8b-4e2c-bda5-2321d36d5167",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🚨 Allbridge paused its Core protocol after an exploit drained $1.65M from its Solana deployment.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c9c99528",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T13:25:07+00:00"
+  },
+  {
+    "id": "6bb9a2c3-4230-44a2-a698-3e7a77ca8814",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "CLARITY Act Would Protect Customer Crypto From Exchange Bankruptcies, Senator Says",
+    "summary": "1. Senator Cynthia Lummis says the CLARITY Act would ensure customer-owned crypto remains customer property if an exchange fails, addressing a legal gap exposed by the bankruptcies of Celsius and Voyager while advancing broader U.S.\n2. crypto market rules.\n3. CLARITY Act Seeks to Prevent Another Celsius-Style Bankruptcy Dispute Senator Cynthia Lummis (R-WY) said the CLARITY Act would […]",
+    "url": "https://news.bitcoin.com/clarity-act-would-protect-customer-crypto-from-exchange-bankruptcies-senator-says/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-20T13:23:53.000Z"
+  },
+  {
+    "id": "1aa56783-e56e-4c21-a808-771369577bea",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-20T13:07:28.000Z"
+  },
+  {
     "id": "64765b6d-f061-486c-9e33-d82d7cd875ad",
     "source": "CoinDesk",
     "type": "rss",
@@ -100,6 +270,16 @@
     "created_at": "2026-07-20T12:09:00.000Z"
   },
   {
+    "id": "ea81d936-66cd-4807-b816-98df9f16c4f2",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "HOUTHIS DECLARE MARITIME EMBARGO AGAINST SAUDI ARABIA Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#93fe9e41",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-20T12:08:57+00:00"
+  },
+  {
     "id": "e2796a1a-f822-45e0-9a99-9871f339ee26",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -168,6 +348,16 @@
     "url": "https://news.bitcoin.com/closing-the-loopholes-fatf-warns-incomplete-crypto-regulations-are-fueling-illicit-finance/",
     "author": "Sergio Goschenko",
     "created_at": "2026-07-20T10:30:31.000Z"
+  },
+  {
+    "id": "253d6a60-0f45-476e-bb46-57900d05edce",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Oil gives up a sharp spike after Iran signals openness to talks and Rubio says Tehran wants to negotiate$WTITwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#bf21f907",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-20T10:24:06+00:00"
   },
   {
     "id": "7c3e4a61-cfac-41a0-bb4c-dd3ff6a8d813",
@@ -268,45 +458,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#eee8615a",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-20T08:30:11+00:00"
-  },
-  {
-    "id": "dbbad3ee-1f23-4060-a0ae-995a7f138c23",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-    "summary": "1. The Japanese logistics firm plans to pay 2,300 partners, including truck drivers, using JPYC in Japan’s first large-scale corporate stablecoin rollout.",
-    "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-20T08:10:34.000Z"
-  },
-  {
-    "id": "555acd82-9519-4331-9b84-c8ffb6e30e76",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Drake Loses $1.5 Million Bet as Spain Beats Argentina in World Cup Final",
-    "summary": "1. Canadian rapper Drake lost a 1.5 million tether (USDT) wager on Argentina after Spain won the 2026 FIFA World Cup final 1-0 on Sunday, sealing the latest chapter in a betting saga that has cost the artist millions.\n2. How the Bet Died The rapper had placed the wager through crypto casino Stake at +245 odds, […]",
-    "url": "https://news.bitcoin.com/drake-loses-1-5-million-usdt-bet-world-cup-final/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-20T07:30:20.000Z"
-  },
-  {
-    "id": "56248784-6972-4905-bcaa-543e18a3d9fe",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
-    "summary": "1. The Bank of Korea’s CBDC pilot will add two regional banks, new payment features and tests of government subsidy payments using tokenized bank deposits",
-    "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Yohan Yun",
-    "created_at": "2026-07-20T07:18:28.000Z"
-  },
-  {
-    "id": "abb52670-763a-48f2-aaaf-bc87a52fb665",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
-    "summary": "1. War drives oil up, the Kimi selloff drags chips down, and bitcoin sits between them.",
-    "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-20T07:15:47.000Z"
   }
 ]
