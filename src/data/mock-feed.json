@@ -1,5 +1,105 @@
 [
   {
+    "id": "7c3e4a61-cfac-41a0-bb4c-dd3ff6a8d813",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-20T09:27:09.000Z"
+  },
+  {
+    "id": "08af6ca7-afee-447a-bddb-9bcde2c8b9e3",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-20T09:27:09.000Z"
+  },
+  {
+    "id": "60218772-9e41-4384-96e0-fdc31893cd61",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rebounds after touching $63.1K on Binance spot as selling appears in CVD",
+    "summary": "BTC fell from around $64,000 to $63,100 in about two minutes on Binance’s USDT spot trading pair at around 8:37 a.m. UTC on July 20, then recovered to its previous level. Other exchanges also saw declines, but not to as low as $63,100.The move left a long lower wick on the Binance BTC/USDT spot candle. Meanwhile, Material Indicators’ spot CVD chart, an order-book analysis chart for the BTC/USDT spot pair, showed that most participant groups were recorded as selling.",
+    "url": "https://t.me/CoinnessGL#9617175d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T09:23:39+00:00"
+  },
+  {
+    "id": "9670dec2-9ce2-479e-a971-d7c723417ce7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "EdgeX V2 launches USDC yield vault",
+    "summary": "Decentralized derivatives exchange EDGE has launched a native USDC vault on V2. Users can deposit USDC to earn yield, and the service was built using USDC and technology from DeFi risk management project Gauntlet.",
+    "url": "https://t.me/CoinnessGL#97a380e8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T09:23:05+00:00"
+  },
+  {
+    "id": "e0889bcb-27af-411d-8b46-7a793bbd8c39",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Michael Saylor published an essay outlining 110 arguments against Bitcoin's new BIP 110, arguing \"the proposed cure is more dangerous than the condition.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9de5a8bf",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T09:10:08+00:00"
+  },
+  {
+    "id": "137b9b77-d44a-4380-ae46-b90dbe9395a3",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "CRYPTO 101: Never share your seed phrase.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ee0f1dc5",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T09:05:04+00:00"
+  },
+  {
+    "id": "99d46816-aba5-485c-9b3b-227ea6ab0fcb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BONK governance attacker completes sale of all stolen tokens",
+    "summary": "The address behind the BONK DAO governance attack has deposited its last 400 billion BONK, worth $1.17 million, to Coinbase about 30 minutes ago, completing the sale of all 4.426 trillion BONK stolen in the exploit, EmberCN reported. The address had taken BONK worth $21.2 million. EmberCN added the selling pressure from the address contributed to a 40% drop in BONK, and the decline in BONK’s price also reduced the value of the originally stolen holdings, leaving the attacker’s final profit estimated at $13.58 million. more:",
+    "url": "https://t.me/CoinnessGL#b03b8339",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T09:04:41+00:00"
+  },
+  {
+    "id": "8eed133c-915b-443e-a5fa-3ebd1508affa",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
+    "summary": "1. Your look at what's coming in the week starting July 20.",
+    "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-20T08:57:53.000Z"
+  },
+  {
+    "id": "3ee42682-eb46-4a13-ac1e-f3427cb2ad62",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Trump Vows to Keep Bringing Prices Down: Here’s What the Inflation Data Shows",
+    "summary": "1. President Donald Trump pledged on Sunday to keep pushing consumer prices lower, claiming oil, gas, eggs and prescription drugs are all “dropping FAST.” June’s inflation data largely supports the trend, with one notable exception in the egg aisle.\n2. The Claim Trump made the pledge in a post on Truth Social, writing: We will continue […]",
+    "url": "https://news.bitcoin.com/trump-prices-down-june-inflation-data/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-20T08:30:41.000Z"
+  },
+  {
+    "id": "e2e2621b-1882-40e4-ace4-e7ad49fc6944",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Michael Saylor says corporate Bitcoin adoption is \"necessary and inevitable,\" arguing companies offer greater efficiency, creditworthiness, and scale.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#eee8615a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T08:30:11+00:00"
+  },
+  {
     "id": "dbbad3ee-1f23-4060-a0ae-995a7f138c23",
     "source": "CoinDesk",
     "type": "rss",
@@ -188,65 +288,5 @@
     "url": "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&utm_medium=rss",
     "author": "The Block Research",
     "created_at": "2026-07-20T03:29:46.000Z"
-  },
-  {
-    "id": "abf12b71-d96b-45f6-8e91-2eeae662cfb1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Illegal crypto-based currency swaps total $2.2B, with 99% of defendants convicted",
-    "summary": "An analysis of 52 cases involving digital assets used in violations of South Korea’s Foreign Exchange Transactions Act found that the total scale of the crimes reached about 3.1 trillion won ($2.2 billion), excluding acquittals, Digital Asset reported.According to the outlet, 17 of the 52 cases involved digital assets being used to mediate exchanges between the Chinese yuan and the South Korean won, the largest category. Illegal remittance cases involving Vietnam ranked second with 13 cases, while seven cases each were tied to the Philippines and casinos, and to swap crimes targeting the kimchi premium. Four other cases involved gift certificates, duty-free goods and so-called suitcase traders, while others included XRP exchange and small-sum overseas remittance cases.Of 95 defendants in total, including 93 individuals and two corporations, only one was ultimately acquitted. Among the 94 convicted defendants, 46, or 48.9%, received suspended prison terms, 28, or 29.7%, were fined, 19, or 20.2%, received prison sentences, and one, or 1.0%, received a suspended sentence for a fine. more:",
-    "url": "https://t.me/CoinnessGL#ea59ca75",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-20T03:24:40+00:00"
-  },
-  {
-    "id": "ffc44518-434b-4406-a498-03ae68557bd8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase CEO says BTC price is driven by inflation fears, not mining",
-    "summary": "Coinbase CEO Brian Armstrong said on X that BTC price moves in line with inflation concerns. He said the hash power or energy devoted to mining does not determine BTC price, and even if miners exit, network difficulty adjusts to keep block production at the same pace. Over the long term, Armstrong said, BTC price is closer to an indicator of how much people worry about inflation, adding those concerns are unlikely to fade easily as fiscal deficits persist across democratic countries.Earlier, former Facebook executive Chamath Palihapitiya had argued that energy used for Bitcoin mining is shifting to AI as AI investment expands.",
-    "url": "https://t.me/CoinnessGL#a3a107be",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-20T03:24:30+00:00"
-  },
-  {
-    "id": "2ce80cb5-7962-430a-96ac-5f6feddfbabd",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Binance to end MOVR, GLMR mainnet support and migrate to Base",
-    "summary": "Binance announced it will end support for the Moonriver (MOVR) and Moonbeam (GLMR) legacy mainnets and migrate the tokens to the Base network. According to the announcement, deposits and withdrawals of MOVR and GLMR via the Moonriver and Moonbeam mainnets will be suspended starting at 11:00 a.m. UTC on July 21. After the migration is completed, deposits and withdrawals through the Moonriver and Moonbeam mainnets will no longer be supported.",
-    "url": "https://t.me/CoinnessGL#867a6a88",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-20T03:03:12+00:00"
-  },
-  {
-    "id": "7417d13d-1e94-4395-9a5b-d44da9676a4a",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Moroccan and Saudi World Cups draw human rights concerns",
-    "summary": "1. FIFA must secure guarantees from the host nations that LGBT visitors will be protected from prosecution under laws criminalizing homosexuality, advocates say.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/morocco-saudi-2030-human-rights-lgbt-01004663",
-    "author": "By Emilio Perez Ibarguen",
-    "created_at": "2026-07-20T02:58:00.000Z"
-  },
-  {
-    "id": "d283a364-91da-4deb-aadf-1c9bd6d2bc80",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Robert Kiyosaki Backs ‘Go to the Moon’ Outlook for Gold and Silver After Severe Retracement",
-    "summary": "1. Robert Kiyosaki remains bullish on gold and silver after their steep decline, saying Jim Rogers expects prices to ultimately “go to the moon” despite severe retracements.\n2. Gold and Silver Price Decline Tests Kiyosaki’s Account of Jim Rogers’ ‘Moon’ Forecast Gold and silver have surrendered much of their January gains, raising questions about whether the sharp […]",
-    "url": "https://news.bitcoin.com/robert-kiyosaki-backs-go-to-the-moon-outlook-for-gold-and-silver-after-severe-retracement/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-20T02:30:24.000Z"
-  },
-  {
-    "id": "3c5ae34f-3216-4b56-a5b3-d793bf0d8b31",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
-    "summary": "1. The attacker allegedly used a flash loan and rapid swaps to manipulate the bridge’s stablecoin exchange rate.",
-    "url": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-20T02:23:36.000Z"
   }
 ]
