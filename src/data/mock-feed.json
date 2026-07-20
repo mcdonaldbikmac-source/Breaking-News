@@ -1,5 +1,15 @@
 [
   {
+    "id": "687cd006-ed29-4172-83f8-04e65c3da418",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
+    "summary": "1. By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.",
+    "url": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-20T03:48:32.000Z"
+  },
+  {
     "id": "be3258d3-ce1a-4828-aff9-bcee58459bab",
     "source": "The Defiant",
     "type": "rss",
@@ -248,45 +258,5 @@
     "url": "https://news.bitcoin.com/cardano-triggers-first-fully-onchain-governed-hard-fork-in-network-history/",
     "author": "Jamie Redman",
     "created_at": "2026-07-19T22:44:21.000Z"
-  },
-  {
-    "id": "06954d07-5e72-4f3c-9c6d-eeddbdcd4593",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇪🇸🇦🇷 Drake loses $1,500,000 $USDT bet after Spain defeats Argentina to win the FIFA World Cup final.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#35f34147",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-19T22:12:15+00:00"
-  },
-  {
-    "id": "3c95d0b7-1fe2-4581-a37e-e1ee2b994a91",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Saylor opposes BIP-110, says Bitcoin must preserve neutrality",
-    "summary": "Strategy founder Michael Saylor has published a 110-point post opposing Bitcoin Improvement Proposal 110, or BIP-110, which seeks to restrict the recording of images, text and other data in transactions, The Block reported. He argued, \"Valid fee-paying transactions should not be judged by consensus rules based on their purpose. Bitcoin needs guardians of neutrality, not guardians of purity.\"BIP-110 includes measures to limit large-data transactions, and the miner signaling process on whether to activate the proposal is set to begin in August. Current miner support stands at about 0.86%.",
-    "url": "https://t.me/CoinnessGL#294be379",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-19T21:56:33+00:00"
-  },
-  {
-    "id": "a44758d0-7f6f-408b-ac9a-76d5e981e57f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
-    "summary": "1. Saylor followed up Sunday with a cryptic tracker-chart post captioned \"What's next?\" ahead of Strategy's expected Monday disclosure.",
-    "url": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-19T21:51:32.000Z"
-  },
-  {
-    "id": "c6cf188a-7ee2-4042-b1ca-3fde97c70a08",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-    "summary": "1. Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
-    "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-19T21:45:00.000Z"
   }
 ]
