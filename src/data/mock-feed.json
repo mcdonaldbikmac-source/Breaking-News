@@ -1,5 +1,175 @@
 [
   {
+    "id": "64765b6d-f061-486c-9e33-d82d7cd875ad",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock.",
+    "summary": "1. The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.",
+    "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-20T12:55:36.000Z"
+  },
+  {
+    "id": "99b1402e-3647-4932-bc1c-99b8c4d0a001",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bernstein lifts Robinhood target to $160, sees prediction markets revenue overtaking crypto",
+    "summary": "1. Bernstein raised its Robinhood price target to $160, citing prediction markets, Rothera, and Robinhood Chain as key revenue drivers.",
+    "url": "https://www.theblock.co/post/408903/bernstein-lifts-robinhood-target-to-160-sees-prediction-markets-revenue-overtaking-crypto?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-20T12:44:13.000Z"
+  },
+  {
+    "id": "6a4a802f-d1ce-496b-afc1-edcf81d6116d",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy Sells $263.5 Million of MSTR Stock but Adds No Bitcoin",
+    "summary": "1. Strategy raised $263.5 million through MSTR stock sales while reporting no bitcoin purchases, lifting its U.S.\n2. dollar reserve to $3.225 billion as its buying pause stretched into another week.\n3. Why Is Strategy Building a Larger Dollar Reserve?",
+    "url": "https://news.bitcoin.com/strategy-sells-263-5-million-of-mstr-stock-but-adds-no-bitcoin/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-20T12:40:41.000Z"
+  },
+  {
+    "id": "059fb903-98a3-4223-a55c-ed2f1f03391e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
+    "summary": "1. Strategy boosted its cash reserve to $3.225 billion after selling MSTR shares, while investors weighed the value of its STRC preferred stock.",
+    "url": "https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-20T12:39:49.000Z"
+  },
+  {
+    "id": "654b732d-53b9-4414-9b41-6c51565a3ded",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+    "summary": "1. Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+    "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+    "author": "Zack Whittaker",
+    "created_at": "2026-07-20T12:39:28.000Z"
+  },
+  {
+    "id": "9b4b5609-6c29-42b7-87ec-2eb9b776c17c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
+    "summary": "1. For the second consecutive week, the firm kept bitcoin holdings steady, choosing to use the raised capital to boost cash for paying dividends on its preferred stock.",
+    "url": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-20T12:35:02.000Z"
+  },
+  {
+    "id": "7dae39ed-cf16-45a4-ae21-47ffddabf99c",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community ",
+    "summary": "1. For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+    "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+    "author": "Morgan Little",
+    "created_at": "2026-07-20T12:30:00.000Z"
+  },
+  {
+    "id": "20923e77-0ade-4462-af7d-a0b41083c602",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
+    "summary": "1. Bitcoin Magazine\n\nStrategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion\nStrategy sold $263.5 million in MSTR shares last week without buying bitcoin, raising its U.S.\n2. dollar reserve to a record $3.225 billion while maintaining its 843,775 BTC treasury and continuing its recent shift toward cash accumulation.\n3. This post Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-20T12:29:51.000Z"
+  },
+  {
+    "id": "0ae17467-7ab5-4a99-81a9-5588b841f54c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
+    "summary": "1. Hyperliquid plans to require developers to stake 500,000 HYPE, worth about $30.4 million, to deploy permissionless prediction markets under HIP-4.",
+    "url": "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-20T12:20:23.000Z"
+  },
+  {
+    "id": "4103ea19-139b-42ed-ae9d-a833e3f8360d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion",
+    "summary": "1. Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.",
+    "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion?utm_source=rss&utm_medium=rss",
+    "author": "James Hunt",
+    "created_at": "2026-07-20T12:09:00.000Z"
+  },
+  {
+    "id": "e2796a1a-f822-45e0-9a99-9871f339ee26",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
+    "summary": "1. The new rules establish penalties as much as $1,900 for crypto violations, including unlicensed trading and AML breaches, ahead of Vietnam’s regulated crypto market launch.",
+    "url": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-20T12:04:06.000Z"
+  },
+  {
+    "id": "aa7d1930-2d9d-45cf-9b0e-10c7e94a00cb",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
+    "summary": "1. The framework will address critical issues like official ownership records, private key custody, transaction reversibility and system liability.",
+    "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-20T12:02:28.000Z"
+  },
+  {
+    "id": "eb316cf9-29af-4cbe-a953-faf4db1c8a5a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
+    "summary": "1. Plus, a selloff in Oil has markets looking green into the Monday open.\n2. And PUMP is leading all alt movers on the week at a surprising time.",
+    "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
+    "author": "Tyler Warner",
+    "created_at": "2026-07-20T12:00:02.000Z"
+  },
+  {
+    "id": "5ca88013-8b1d-41e4-9791-44863fbf08c6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase CEO Brian Armstrong: Hash Power Doesn’t Determine Bitcoin’s Price",
+    "summary": "1. Coinbase CEO Brian Armstrong pushed back on Sunday against fears that miners defecting to artificial intelligence (AI) threaten bitcoin, arguing the network’s built-in difficulty adjustment keeps blocks flowing no matter how much hash power leaves.\n2. The Argument Armstrong made the case in a post on X, wading into a debate that flared the same day […]",
+    "url": "https://news.bitcoin.com/brian-armstrong-hash-power-bitcoin-price/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-20T11:30:09.000Z"
+  },
+  {
+    "id": "39586b3b-30f9-4eff-acbc-f75161770ad1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec",
+    "summary": "1. Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.",
+    "url": "https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-20T11:24:22.000Z"
+  },
+  {
+    "id": "90de5a32-abea-4b24-8e11-a3eeeb95b014",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110",
+    "summary": "1. The Strategy chairman argued that the soft fork is a 'bad idea,' warning that it would cause more harm than the problem it aims to solve.",
+    "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-20T11:12:57.000Z"
+  },
+  {
+    "id": "7c5e3314-aa4a-463c-9a4e-5fad1fbee897",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Closing the Loopholes: FATF Warns Incomplete Crypto Regulations Are Fueling Illicit Finance",
+    "summary": "1. While the institution recognized that most jurisdictions are working to apply its recommendations, others are lagging, allowing criminal groups to use digital assets for their illicit purposes.\n2. The FATF alerted to the misuse of stablecoins and the risks of offshore VASPs.\n3. Financial Action Task Force Calls for Increased Oversight on Digital Assets The Financial Action […]",
+    "url": "https://news.bitcoin.com/closing-the-loopholes-fatf-warns-incomplete-crypto-regulations-are-fueling-illicit-finance/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-20T10:30:31.000Z"
+  },
+  {
     "id": "7c3e4a61-cfac-41a0-bb4c-dd3ff6a8d813",
     "source": "The Defiant",
     "type": "rss",
@@ -138,155 +308,5 @@
     "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
     "author": "Shaurya Malwa",
     "created_at": "2026-07-20T07:15:47.000Z"
-  },
-  {
-    "id": "bcea8da9-9c1b-4318-a061-02e357b37356",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
-    "summary": "1. Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.",
-    "url": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-20T07:08:07.000Z"
-  },
-  {
-    "id": "7bab7c9a-20ae-4015-b300-9cf6c4967f59",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Iran’s Rial Hits Record Low of 1.95 Million per Dollar as US Pressure Mounts",
-    "summary": "1. Iran’s rial slid to a fresh all-time low of about 1.95 million per U.S.\n2. dollar on Sunday, as renewed U.S.\n3. pressure and a collapsing ceasefire push an economy already battling 68.9% projected inflation deeper into crisis.",
-    "url": "https://news.bitcoin.com/iran-rial-record-low-1-95-million-dollar/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-20T06:25:53.000Z"
-  },
-  {
-    "id": "7b6a6684-bec6-40f0-8673-7cf07537fb0e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus",
-    "summary": "1. Bitcoin ETFs have attracted $273 million in new inflows in two weeks, but the total is barely enough to cover a single \"slow\" week of recent selling.",
-    "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-20T05:46:36.000Z"
-  },
-  {
-    "id": "38892836-63b1-4919-a852-b7b181ac3b2b",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hyperliquid’s HIP-4 to support permissionless deployment for outcome markets",
-    "summary": "1. HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets.",
-    "url": "https://www.theblock.co/post/408875/hyperliquid-hip-4-permissionless-deployment?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-20T05:34:45.000Z"
-  },
-  {
-    "id": "b883ee76-ea6d-4b8a-9ca7-5de6a12df82c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
-    "summary": "1. Brent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock.",
-    "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-20T05:31:43.000Z"
-  },
-  {
-    "id": "7deddb88-0061-4837-ae3b-bf29602161f7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘An Impossible Requirement’: Why Have I Been Pwned’s Creator Is Dropping Crypto Donations",
-    "summary": "1. Troy Hunt, creator of Have I Been Pwned, announced that the measure would likely follow the tightening of Australia’s cryptocurrency oversight requirements.\n2. Hunt stressed that this level of compliance was impossible to fulfill, especially when applied to small donations.\n3. Have I Been Pwned Security Project To Drop Crypto Donations While the tightening of oversight for […]",
-    "url": "https://news.bitcoin.com/an-impossible-requirement-why-have-i-been-pwneds-creator-is-dropping-crypto-donations/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-20T05:30:09.000Z"
-  },
-  {
-    "id": "59c74ebb-f04e-46c0-87aa-9c75e6b87ab1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-20T04:56:55.000Z"
-  },
-  {
-    "id": "267810a0-97dd-4031-95fb-98edf05d0457",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "The Man Who Threw Away $900 Million and Spent 12 Years Trying to Dig It Back Up",
-    "summary": "1. James Howells, an IT engineer from Newport, Wales, mined 8,000 Bitcoin in the early days and lost the keys in 2013 when an encrypted hard drive was mistakenly thrown away and sent to the Docksway landfill.\n2. After the High Court in Cardiff dismissed his claim in January 2025 and an appeal was refused in March […]",
-    "url": "https://news.bitcoin.com/the-man-who-threw-away-900-million-and-spent-12-years-trying-to-dig-it-back-up-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-07-20T04:30:07.000Z"
-  },
-  {
-    "id": "dba87233-ef5c-4978-9017-7c88feb81eca",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Cardano activates van Rossem hard fork",
-    "summary": "1. The upgrade reduces smart contract execution costs while laying the groundwork for Ouroboros Leios, a major scalability upgrade expected later this year.",
-    "url": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-20T04:26:17.000Z"
-  },
-  {
-    "id": "687cd006-ed29-4172-83f8-04e65c3da418",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
-    "summary": "1. By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.",
-    "url": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-20T03:48:32.000Z"
-  },
-  {
-    "id": "be3258d3-ce1a-4828-aff9-bcee58459bab",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-20T03:44:23.000Z"
-  },
-  {
-    "id": "2855198a-0fa3-48bd-b5cc-74e006b685d1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-    "summary": "1. Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.",
-    "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-07-20T03:33:56.000Z"
-  },
-  {
-    "id": "f6c21ad0-2ffa-4fe3-8eb1-79292440267d",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Will the 2034 cup be in 2035?",
-    "summary": "1. Ramadan, Hajj, the Winter Olympics and rising global temperatures are boxing FIFA into an unprecedented scheduling dilemma.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
-    "author": "By Zoha Qamar",
-    "created_at": "2026-07-20T03:32:17.000Z"
-  },
-  {
-    "id": "ba1c0668-bf8e-43dc-973c-8a7e5484441e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘Japan’s Wealth Is Returning’: Anonymous BOJ Insider Sparks Panic Over Looming Carry Trade Unwind",
-    "summary": "1. Comments by anonymous Bank of Japan insider Yuto Kanzaki on upcoming measures to bring Japanese wealth back to Japan have fueled speculation about the unwinding of the yen carry trade, alerting to the effects such measures would have on financial markets.\n2. Bank of Japan Insider Claims Alarm Financial Circles On Yen Carry Trade Unwinding Allegations […]",
-    "url": "https://news.bitcoin.com/japans-wealth-is-returning-anonymous-boj-insider-sparks-panic-over-looming-carry-trade-unwind/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-20T03:30:05.000Z"
-  },
-  {
-    "id": "cda122fa-a0f6-4cfe-a5c9-d6a55ccacc56",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Stablecoins vs Traditional Banking",
-    "summary": "1. A stablecoin is a cryptocurrency pegged to a reference asset, such as the U.S.\n2. dollar or Euro.\n3. Like a bank, stablecoin issuers hold onto vast amounts of deposits, as they take cash in return for issuing their coin onchain.",
-    "url": "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&utm_medium=rss",
-    "author": "The Block Research",
-    "created_at": "2026-07-20T03:29:46.000Z"
   }
 ]
