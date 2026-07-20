@@ -1,5 +1,265 @@
 [
   {
+    "id": "d8d2e160-8cef-4593-8bba-cd3580194893",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "Armstrong Says His X Posts and Avatars Are Not Token Endorsements",
+    "summary": "1. The Coinbase CEO told traders not to treat his personal account as alpha after his profile-picture changes fueled a memecoin trading frenzy.",
+    "url": "https://thedefiant.io/news/people/armstrong-says-his-x-posts-and-avatars-are-not-token-endorsements",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-20T22:06:17.000Z"
+  },
+  {
+    "id": "fdf769c0-8c99-4d2f-9363-4fdf2e25fb5b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Capital B will execute a 10-for-1 reverse stock split on Sept.",
+    "summary": "8, cutting shares to about 30.1M from 300.7M to attract more institutional investors.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a978b8fd",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T22:00:14+00:00"
+  },
+  {
+    "id": "08047cd1-b43e-4b70-a7b9-0a7c313151a8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
+    "summary": "1. Coinbase vice chair Ryan VanGrack said that Democratic lawmakers had added provisions on customer protection to a digital asset market structure bill under consideration in the US Senate.",
+    "url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-20T21:41:23.000Z"
+  },
+  {
+    "id": "d7b7d9bc-acbc-4d11-a75c-bbd80b5476b0",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 TD Cowen cut its price target on The Smarter Web Company to £0.64 from £1.00, citing revised Bitcoin forecasts, while keeping a Buy rating.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f0b210c6",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T21:25:06+00:00"
+  },
+  {
+    "id": "abc2e98f-b296-452e-9a22-1ddf62a09047",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
+    "summary": "1. The first exchange-traded fund tied to Worldcoin could soon be headed to U.S.\n2. markets, as Grayscale files for a Worldcoin ETF.",
+    "url": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-07-20T21:25:00.000Z"
+  },
+  {
+    "id": "65ce38d2-0957-4893-87bf-381ada02831f",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: What the devs are working on this week:\n-Clanker: getting v5 ready to roll out n...",
+    "summary": "1. What the devs are working on this week:\n-Clanker: getting v5 ready to roll out next week + wrapping the security audit, plus better wash-trading detection\n-Protocol: blocks going live on Snapchain next Monday (July 27) + iterating on the Channels FIP based on community feedback\n-Wallet: adding Robinhood Chain (swaps live on mobile, rolling out on web + activity feeds), refining limit orders + smarter trade routing for better prices\n-Feed quality: rolling the Neynar score out across replies, notifications, search + channel member lists to replace old spam labels\n-Notifications: fixed why a chunk of Android users weren't getting pushes (stale delivery tokens), shipped in the new version + added delivery dashboards\n-Mini apps: dropping the \"New\" tab and putting \"Your Apps\" front and center so your apps are easier to get to\n-Snaps: more feed visibility + design improvements\n \nKnown issues we're working on (not an exhaustive list, just what the intern has seen the most of):\nSign-in\n-Some people are still getting logged out of the app on their own (mostly fixed, chasing the last few cases)\n \nNotifications\n-Some Android users weren't getting push notifications.\n2. Fix is out, just open the app once to get them flowing again\n \nWallet\n-A few token display issues: wrong balance, missing gas info, or the same transaction showing twice in your activity\n-Trouble buying storage (you get a confusing \"not enough gas\" message)\n \nFeed & threads\n-Some threads showing an error instead of loading\n-Conversations with a mini app in them break when you're logged out\n-Replies sometimes don't show on a thread, with no \"show more replies\" button\n-Search sometimes misses posts it clearly should find\n \nSnaps\n-The snap tab icon looks different on web vs mobile, and a snap can show up more than once on a profile\n \nCurrent mobile version: v2.1.12 (559)\n \nWhat did I miss?",
+    "url": "https://warpcast.com/farcaster/0x86a277c9",
+    "author": "Farcaster",
+    "created_at": "2026-07-20T21:23:15.000Z"
+  },
+  {
+    "id": "5bb37fad-fd19-48f5-ae5b-8d77ae22e1f3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Tether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center  ",
+    "summary": "1. The recognition allows regulated firms in Abu Dhabi Global Market to offer services involving Tether Gold as tokenized commodities gain broader adoption.",
+    "url": "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-20T21:21:54.000Z"
+  },
+  {
+    "id": "8ab500ee-342a-4695-8dab-c2ac74ba688f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "summary": "1. Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-07-20T21:21:15.000Z"
+  },
+  {
+    "id": "a6c3f707-c113-4e06-a877-f39bb24017b9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?",
+    "summary": "1. Despite muted derivatives sentiment, Bitcoin’s decoupling and Strategy’s cash raise set the stage for a potential rally to $70,000.",
+    "url": "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-07-20T21:20:09.000Z"
+  },
+  {
+    "id": "8f0d71bf-2e53-44d0-bb6e-2c97aaee6682",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Blackrock Pulls in $204M as Bitcoin ETFs Finish the Week Positive",
+    "summary": "1. Crypto ETF investors spent the week changing direction almost as quickly as the market itself.\n2. A sharp Monday retreat gave way to broad inflows across bitcoin and ether products, allowing both categories to finish the five days with net gains.\n3. Ether ETFs Add $105M to Overtake Bitcoin ETFs in Weekly Inflows From July 13 to […]",
+    "url": "https://news.bitcoin.com/blackrock-pulls-in-204m-as-bitcoin-etfs-finish-the-week-positive/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-20T21:19:48.000Z"
+  },
+  {
+    "id": "fd066bcc-e3be-4026-b59d-756b33d55360",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kalshi, Polymarket open interest falls 20% as World Cup frenzy winds down",
+    "summary": "1. Sports accounted for 80% of both Kalshi and Polymarket's total volumes throughout the weekslong World Cup tournament.",
+    "url": "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&utm_medium=rss",
+    "author": "Ivan Wu and Bryan Samsoedin",
+    "created_at": "2026-07-20T21:12:50.000Z"
+  },
+  {
+    "id": "47761cfc-9425-4ce6-a4c2-e0176e1bf992",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
+    "summary": "1. Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC.\n2. Phase 2 is bigger, and this time it moves real government money.",
+    "url": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-20T21:12:03.000Z"
+  },
+  {
+    "id": "e24df94c-0e2b-4693-a9ca-d96e67533459",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇨🇦 US imposes 50% tariffs on many Canadian goods, including products covered under USMCA.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#bc688c51",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-20T21:03:18+00:00"
+  },
+  {
+    "id": "022ffc15-9e72-4369-a88b-e83d0c8d9604",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "summary": "1. The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services.\n2. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection.",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "author": "Russell Brandom",
+    "created_at": "2026-07-20T20:50:40.000Z"
+  },
+  {
+    "id": "8d35c8fc-752c-4760-9586-4332eee8c714",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Billionaire Chamath Palihapitiya says Bitcoin bulls face two issues right now: Marginal liquidity favors prediction and equity markets over BTC, and mining energy is worth far more redirected to AI.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b585c3fc",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T20:50:09+00:00"
+  },
+  {
+    "id": "2f70eeae-a473-4e26-aeee-3474d27b6d5e",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Jim Cramer says the market is \"miserable.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#cd3c05c6",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-20T20:47:54+00:00"
+  },
+  {
+    "id": "af8f4e35-68b5-48c3-b301-a3fe7e713640",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Grayscale files S-1 with U.S. SEC for WLD ETF",
+    "summary": "Grayscale has filed an S-1 with the U.S. SEC to launch a Worldcoin (WLD) ETF, Unfolded reported.",
+    "url": "https://t.me/CoinnessGL#0c719c31",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T20:33:33+00:00"
+  },
+  {
+    "id": "807a2332-4844-4bfe-991a-c42ef4329699",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Nancy Mace won’t run for Lindsey Graham’s Senate seat",
+    "summary": "1. Her decision comes after an unsuccessful run for governor earlier this year, and after President Donald Trump backed Sen.\n2. Darline Graham for a full term.",
+    "url": "https://www.politico.com/news/2026/07/20/nancy-mace-not-run-for-senate-01005210",
+    "author": "By Erin Doherty",
+    "created_at": "2026-07-20T20:32:17.000Z"
+  },
+  {
+    "id": "7f2fa68e-a0c1-4a24-b546-977ccaac9b78",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Spain–Argentina World Cup Final Drives Nearly $2B Across Prediction Markets",
+    "summary": "1. Prediction markets recorded nearly $2 billion in final-specific trading as Spain defeated Argentina to win the 2026 World Cup.\n2. Kalshi accounted for almost 96% of the combined volume, with activity surging by more than $620 million from Friday through settlement.\n3. Final trading accelerates after Friday’s snapshot The Spain–Argentina World Cup final generated approximately $1.977 billion […]",
+    "url": "https://news.bitcoin.com/spain-argentina-world-cup-final-drives-nearly-2b-across-prediction-markets/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-07-20T20:30:35.000Z"
+  },
+  {
+    "id": "b15f3a23-68eb-4c8f-9d8a-bf0956cd9df7",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump’s crypto ethics stance leaves Clarity Act negotiations in limbo",
+    "summary": "1. A meeting last week to discuss an ethics provision to address President Trump's vast crypto wealth has become something of a black box.",
+    "url": "https://www.theblock.co/post/408804/president-trump-agrees-some-level-ethics-language-potentially-clearing-hurdles-pass-crypto-bill?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-07-20T20:26:38.000Z"
+  },
+  {
+    "id": "356b41e0-f63b-4020-af63-b926e8a7d608",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Grayscale files S-1 for Worldcoin ETF $WLDTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#f7a1582f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-20T20:25:09+00:00"
+  },
+  {
+    "id": "73f3db04-9208-4331-b4d9-eb894dbffbfa",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US stocks close lower",
+    "summary": "The three major U.S. stock indices closed lower today.- S&P 500: -0.19%- Nasdaq: -0.05%- Dow Jones: -0.59%",
+    "url": "https://t.me/CoinnessGL#d52afffb",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T20:08:23+00:00"
+  },
+  {
+    "id": "9908ba56-c48b-49cb-8eea-603641345e12",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Metaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn ",
+    "summary": "1. Bitcoin Magazine\n\nMetaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn \nMetaplanet subsidiary Bitcoin Japan is starting a crypto treasury.\n2. This post Metaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-japan-to-buy-bitcoin",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-20T20:05:56.000Z"
+  },
+  {
+    "id": "eddef31d-45f1-4cfe-9bbd-cc9e36e079f9",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
+    "summary": "1. The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto—bypassing Western sanctions.",
+    "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-20T20:02:33.000Z"
+  },
+  {
+    "id": "ca9abe21-02e4-41c0-9618-cc5a9e6f7d8b",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September\nCapital B will execute a 10-for-1 reverse stock split in September as the Paris-listed bitcoin treasury company looks to attract more institutional investors while continuing to build its 3,139 BTC reserve.\n2. This post Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-capital-b-plans-10-for-1",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-20T19:52:47.000Z"
+  },
+  {
+    "id": "7ec75824-af8a-4c7b-b3f2-b13a299f2f51",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Musk’s SpaceX Targets Thursday Starship Flight as Stock Slips Well Below Its $135 IPO Price",
+    "summary": "1. Elon Musk’s SpaceX is targeting Thursday, July 23, for the 13th test flight of its Starship rocket after a dramatic last-second pad abort, as shares of the newly public company (Nasdaq: SPCX) trade below their $135 initial public offering (IPO) price.\n2. One Second From Liftoff The company confirmed the new target in a statement on […]",
+    "url": "https://news.bitcoin.com/spacex-starship-thursday-launch-stock-below-ipo/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-20T19:51:51.000Z"
+  },
+  {
     "id": "74f81cb0-942a-4722-9b54-c43c8eac77a4",
     "source": "The Defiant",
     "type": "rss",
@@ -70,7 +330,7 @@
     "created_at": "2026-07-20T19:29:11.000Z"
   },
   {
-    "id": "42ce91d8-b617-489f-8c41-5ff6c5983494",
+    "id": "e87a3d5a-0131-43dd-b151-4de805fe06dd",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "66.7% of addresses in Polymarket World Cup winner market posted losses",
@@ -180,7 +440,7 @@
     "created_at": "2026-07-20T18:03:57+00:00"
   },
   {
-    "id": "d145de3a-899a-43b0-aa8d-b27d4153e747",
+    "id": "70232945-a9ef-41fe-a54e-1b41625dafaa",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇳🇬 Nigeria establishes virtual asset council to coordinate crypto policy and regulation.@WatcherGuru",
@@ -348,245 +608,5 @@
     "url": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
     "author": "Decrypt Staff",
     "created_at": "2026-07-20T16:12:36.000Z"
-  },
-  {
-    "id": "857a265a-51c4-40aa-857b-da696f6d7424",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched",
-    "summary": "1. For the second consecutive week, Saylor's company sold MSTR stock instead of BTC to pad its reserves to $3.2 billion.",
-    "url": "https://decrypt.co/373834/strategy-raises-225m-for-cash-reserve-mstr-sale-bitcoin",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-20T15:57:29.000Z"
-  },
-  {
-    "id": "e178a88b-d4f7-460c-a23f-b6524c10f062",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Major crypto VC firms keep investing as DeFi funding declines",
-    "summary": "Major crypto venture investors including Coinbase Ventures, Animoca Brands, a16z crypto and Tether have remained active despite the broader downturn in the crypto venture market since last year, according to CryptoRank.CryptoRank data showed Coinbase Ventures participated in about 33 investments, Animoca Brands in about 19, and a16z crypto in about 18. At the same time, investment in the DeFi sector fell for a third straight quarter, with second-quarter funding this year hitting its lowest level since the fourth quarter of 2023. The data suggested investor sentiment toward DeFi projects has become more conservative.",
-    "url": "https://t.me/CoinnessGL#3e1142bb",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-20T15:55:22+00:00"
-  },
-  {
-    "id": "c2133d9d-080e-46ce-8c8d-15df50ca4254",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Drake reportedly lost $1.5M in USDT after betting that Argentina would beat Spain in the World Cup Final.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#aab3a59c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-20T15:50:09+00:00"
-  },
-  {
-    "id": "236bc2f6-7126-480c-b087-67c9064a77f1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Average US gas prices rise to $4.00 per gallon as war with Iran resumes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#9b239222",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-20T15:49:37+00:00"
-  },
-  {
-    "id": "4ef1d232-68b5-4cf6-9b0e-9e5e932295ad",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off",
-    "summary": "1. Bitcoin faced troublesome resistance at $65,000 while traders still saw a potential BTC price breakout into a “bullish market structure.”",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-07-20T15:47:00.000Z"
-  },
-  {
-    "id": "650919e8-9723-4a6c-a7ba-9b50243eb538",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Adobe camera app’s new feature will critique your photos using AI",
-    "summary": "1. Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
-    "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-    "author": "Ivan Mehta",
-    "created_at": "2026-07-20T15:45:00.000Z"
-  },
-  {
-    "id": "e983fca3-aee4-4a6e-96fa-9436706ac1a4",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Thank you to our Great Speaker, Mike Johnson, the House Budget Chairman, Jodey Arrington, and the members of the House Budget Committee, including Lloyd Smucker, Ron Estes, Andrew Clyde, Josh Brecheen, Erin Houchin, Mike Carey, Blake Moore, Jay Obernolte, Tom McClintock, and many others, for launching an effort to get AS MUCH of THE SAVE AMERICA ACT as possible in a Budget Bill, along with aid to our incredible Farmers, and funding for our Military.\n2. We need Voter Photo ID (Identification!), Proof of Citizenship and, hopefully, No Corrupt Mail In Ballots (except for illness, disability, Military, or travel).\n3. I am asking all House Republicans to VOTE YES this week on the Budget Resolution, which is an important first step towards getting a Budget Bill.",
-    "url": "https://trumpstruth.org/statuses/40156",
-    "author": "Trump Truth",
-    "created_at": "2026-07-20T15:38:54.000Z"
-  },
-  {
-    "id": "5d1656fc-047c-420e-9a00-ba7c24ca4aba",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Hyperliquid Bets Big on Prediction Markets With Permissionless HIP-4 Push",
-    "summary": "1. Hyperliquid told users on July 19 that its outcome markets product, known as HIP-4, will move to permissionless deployment in a coming network upgrade.\n2. The announcement came through the exchange’s Telegram channel.\n3. Hyperliquid said the rollout will happen in two stages.",
-    "url": "https://news.bitcoin.com/hyperliquid-bets-big-on-prediction-markets-with-permissionless-hip-4-push/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-20T15:37:58.000Z"
-  },
-  {
-    "id": "7f494ed3-f31f-4d1f-9e3f-0b6eb12e75e9",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-    "summary": "1. Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
-    "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-07-20T15:35:37.000Z"
-  },
-  {
-    "id": "3aca1aa7-d5e8-4d68-9c8e-1cfcffecf92b",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "YouTube clarifies policies around AI slop and upsetting videos",
-    "summary": "1. YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-    "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-    "author": "Sarah Perez",
-    "created_at": "2026-07-20T15:23:06.000Z"
-  },
-  {
-    "id": "77177081-7637-4681-8acb-27b492d379a6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "IREN jumps 16% after raising AI cloud revenue target above $4B",
-    "summary": "1. The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 billion after signing $2.8 billion in new contracts with AI developers.",
-    "url": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-20T15:20:25.000Z"
-  },
-  {
-    "id": "5ef054ef-09ab-4799-b3c5-92ee35243d96",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🐋 A quarter of Ondo's volume came from trades over $50KTokenized stocks weekly...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a655fc43",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-20T15:20:09+00:00"
-  },
-  {
-    "id": "cf157fd7-c2f7-4ada-b6a2-295f1af66c20",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚽ Kalshi says it added 3M new users during the World Cup, with its championship-winner contract seeing over $1.2B traded, a record for a single market on the platform.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b56e1df9",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-20T15:15:09+00:00"
-  },
-  {
-    "id": "69c04768-5896-4312-acb2-f2407523bfec",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
-    "summary": "1. Late Friday afternoon, Exodus said it expects the restructuring to generate $10 million to $13 million in annualized cost savings.",
-    "url": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-07-20T15:07:52.000Z"
-  },
-  {
-    "id": "6cae3195-a584-4e7e-9bd1-005affefeb42",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million",
-    "summary": "1. Bitcoin Magazine\n\nStrive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million\nStrive (ASST) bought 21 bitcoin for about $1.3 million last week, increasing its treasury to 19,921 BTC while cash reserves rose to $157.4 million, according to a Monday SEC filing.\n2. This post Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/strive-asst-adds-21-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-20T15:06:48.000Z"
-  },
-  {
-    "id": "0c7dc89a-47bc-4160-91a0-6874ef0f5fd4",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "'Big Short' investor Michael Burry says 95% of investors have \"no idea what they really own.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#5ce084b8",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-20T15:00:25+00:00"
-  },
-  {
-    "id": "1fb8cbb4-7460-4b0a-a11d-66d1e0dafbfb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Morgan Stanley Edges Past Goldman Sachs as Wall Street’s Top AI Debt Bank: Here’s What It Means",
-    "summary": "1. Morgan Stanley (NYSE: MS) has become Wall Street’s leading bank for artificial intelligence (AI) debt deals, architecting billions of dollars in financing for data center build-outs and edging past longtime rival Goldman Sachs.\n2. A New Leader on Wall Street The shift is worth noting because debt underwriting has quietly become one of the most lucrative […]",
-    "url": "https://news.bitcoin.com/morgan-stanley-top-ai-debt-bank-goldman-sachs/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-20T14:45:04.000Z"
-  },
-  {
-    "id": "297fcaac-7e03-42ad-870f-bb8282b2285a",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-    "summary": "1. The Van Rossem hard fork moved Cardano to version 11 on Saturday.\n2. And for the first time, Cardano's community voted in the upgrade, not the company that built it.",
-    "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-20T14:31:23.000Z"
-  },
-  {
-    "id": "56b3639e-b1c1-4f1f-a655-296035f6471f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-20T14:21:56.000Z"
-  },
-  {
-    "id": "474631ca-7ffc-4878-9cb9-647da3605882",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
-    "summary": "1. Hut 8 and IREN shares climb on fresh AI data center deals worth billions as the bitcoin-to-AI pivot continues to accelerate.",
-    "url": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-07-20T14:12:46.000Z"
-  },
-  {
-    "id": "eb70ddcb-e2eb-4b59-8405-c02938bade51",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Tom Lee’s Bitmine Buys Back 5.5M BMNR Shares as ETH Stack Nears 5.8M Tokens",
-    "summary": "1. According to an announcement published Monday, Bitmine Immersion Technologies now holds 5.78 million ether tokens, pushing its total crypto, cash, and equity stake holdings to $11.5 billion.\n2. The Norwalk, Connecticut-based ethereum (ETH) treasury company disclosed the figures in its weekly shareholder update.\n3. Bitmine’s ether position now represents 4.8% of the total 120.7 million ETH supply, […]",
-    "url": "https://news.bitcoin.com/tom-lees-bitmine-buys-back-5-5m-bmnr-shares-as-eth-stack-nears-5-8m-tokens/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-20T14:05:39.000Z"
-  },
-  {
-    "id": "38122394-d49a-4a9a-b304-bbeb0aafab44",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Cardano has activated its van Rossem hard fork, upgrading the mainnet to Protocol Version 11 and lowering smart contract execution costs.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7145b303",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-20T14:00:14+00:00"
-  },
-  {
-    "id": "f85cb013-4a19-4b79-adae-45cb0b476fd1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇷🇺 Russia to finalize bill tomorrow establishing a legal framework for crypto.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#c5032630",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-20T13:55:02+00:00"
-  },
-  {
-    "id": "58b88da4-418b-4b43-b41f-100676920c5c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Exodus to cut 25% of global workforce in payments shift",
-    "summary": "1. This restructuring is part of a strategy to build a full-stack payments platform following the company's acquisitions of Monavate and Baanx.",
-    "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-20T13:53:08.000Z"
   }
 ]
