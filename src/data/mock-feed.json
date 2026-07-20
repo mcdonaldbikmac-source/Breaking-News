@@ -1,5 +1,115 @@
 [
   {
+    "id": "be3258d3-ce1a-4828-aff9-bcee58459bab",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-20T03:44:23.000Z"
+  },
+  {
+    "id": "2855198a-0fa3-48bd-b5cc-74e006b685d1",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+    "summary": "1. Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.",
+    "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-20T03:33:56.000Z"
+  },
+  {
+    "id": "f6c21ad0-2ffa-4fe3-8eb1-79292440267d",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Will the 2034 cup be in 2035?",
+    "summary": "1. Ramadan, Hajj, the Winter Olympics and rising global temperatures are boxing FIFA into an unprecedented scheduling dilemma.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/saudi-2034-schedule-2035-01004717",
+    "author": "By Zoha Qamar",
+    "created_at": "2026-07-20T03:32:17.000Z"
+  },
+  {
+    "id": "ba1c0668-bf8e-43dc-973c-8a7e5484441e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘Japan’s Wealth Is Returning’: Anonymous BOJ Insider Sparks Panic Over Looming Carry Trade Unwind",
+    "summary": "1. Comments by anonymous Bank of Japan insider Yuto Kanzaki on upcoming measures to bring Japanese wealth back to Japan have fueled speculation about the unwinding of the yen carry trade, alerting to the effects such measures would have on financial markets.\n2. Bank of Japan Insider Claims Alarm Financial Circles On Yen Carry Trade Unwinding Allegations […]",
+    "url": "https://news.bitcoin.com/japans-wealth-is-returning-anonymous-boj-insider-sparks-panic-over-looming-carry-trade-unwind/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-20T03:30:05.000Z"
+  },
+  {
+    "id": "cda122fa-a0f6-4cfe-a5c9-d6a55ccacc56",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Stablecoins vs Traditional Banking",
+    "summary": "1. A stablecoin is a cryptocurrency pegged to a reference asset, such as the U.S.\n2. dollar or Euro.\n3. Like a bank, stablecoin issuers hold onto vast amounts of deposits, as they take cash in return for issuing their coin onchain.",
+    "url": "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-07-20T03:29:46.000Z"
+  },
+  {
+    "id": "abf12b71-d96b-45f6-8e91-2eeae662cfb1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Illegal crypto-based currency swaps total $2.2B, with 99% of defendants convicted",
+    "summary": "An analysis of 52 cases involving digital assets used in violations of South Korea’s Foreign Exchange Transactions Act found that the total scale of the crimes reached about 3.1 trillion won ($2.2 billion), excluding acquittals, Digital Asset reported.According to the outlet, 17 of the 52 cases involved digital assets being used to mediate exchanges between the Chinese yuan and the South Korean won, the largest category. Illegal remittance cases involving Vietnam ranked second with 13 cases, while seven cases each were tied to the Philippines and casinos, and to swap crimes targeting the kimchi premium. Four other cases involved gift certificates, duty-free goods and so-called suitcase traders, while others included XRP exchange and small-sum overseas remittance cases.Of 95 defendants in total, including 93 individuals and two corporations, only one was ultimately acquitted. Among the 94 convicted defendants, 46, or 48.9%, received suspended prison terms, 28, or 29.7%, were fined, 19, or 20.2%, received prison sentences, and one, or 1.0%, received a suspended sentence for a fine. more:",
+    "url": "https://t.me/CoinnessGL#ea59ca75",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T03:24:40+00:00"
+  },
+  {
+    "id": "ffc44518-434b-4406-a498-03ae68557bd8",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase CEO says BTC price is driven by inflation fears, not mining",
+    "summary": "Coinbase CEO Brian Armstrong said on X that BTC price moves in line with inflation concerns. He said the hash power or energy devoted to mining does not determine BTC price, and even if miners exit, network difficulty adjusts to keep block production at the same pace. Over the long term, Armstrong said, BTC price is closer to an indicator of how much people worry about inflation, adding those concerns are unlikely to fade easily as fiscal deficits persist across democratic countries.Earlier, former Facebook executive Chamath Palihapitiya had argued that energy used for Bitcoin mining is shifting to AI as AI investment expands.",
+    "url": "https://t.me/CoinnessGL#a3a107be",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T03:24:30+00:00"
+  },
+  {
+    "id": "2ce80cb5-7962-430a-96ac-5f6feddfbabd",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to end MOVR, GLMR mainnet support and migrate to Base",
+    "summary": "Binance announced it will end support for the Moonriver (MOVR) and Moonbeam (GLMR) legacy mainnets and migrate the tokens to the Base network. According to the announcement, deposits and withdrawals of MOVR and GLMR via the Moonriver and Moonbeam mainnets will be suspended starting at 11:00 a.m. UTC on July 21. After the migration is completed, deposits and withdrawals through the Moonriver and Moonbeam mainnets will no longer be supported.",
+    "url": "https://t.me/CoinnessGL#867a6a88",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T03:03:12+00:00"
+  },
+  {
+    "id": "7417d13d-1e94-4395-9a5b-d44da9676a4a",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Moroccan and Saudi World Cups draw human rights concerns",
+    "summary": "1. FIFA must secure guarantees from the host nations that LGBT visitors will be protected from prosecution under laws criminalizing homosexuality, advocates say.",
+    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/morocco-saudi-2030-human-rights-lgbt-01004663",
+    "author": "By Emilio Perez Ibarguen",
+    "created_at": "2026-07-20T02:58:00.000Z"
+  },
+  {
+    "id": "d283a364-91da-4deb-aadf-1c9bd6d2bc80",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Robert Kiyosaki Backs ‘Go to the Moon’ Outlook for Gold and Silver After Severe Retracement",
+    "summary": "1. Robert Kiyosaki remains bullish on gold and silver after their steep decline, saying Jim Rogers expects prices to ultimately “go to the moon” despite severe retracements.\n2. Gold and Silver Price Decline Tests Kiyosaki’s Account of Jim Rogers’ ‘Moon’ Forecast Gold and silver have surrendered much of their January gains, raising questions about whether the sharp […]",
+    "url": "https://news.bitcoin.com/robert-kiyosaki-backs-go-to-the-moon-outlook-for-gold-and-silver-after-severe-retracement/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-20T02:30:24.000Z"
+  },
+  {
+    "id": "3c5ae34f-3216-4b56-a5b3-d793bf0d8b31",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
+    "summary": "1. The attacker allegedly used a flash loan and rapid swaps to manipulate the bridge’s stablecoin exchange rate.",
+    "url": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-20T02:23:36.000Z"
+  },
+  {
     "id": "07fc75ae-2731-4821-b6d6-e7f88108c074",
     "source": "The Defiant",
     "type": "rss",
@@ -140,6 +250,16 @@
     "created_at": "2026-07-19T22:44:21.000Z"
   },
   {
+    "id": "06954d07-5e72-4f3c-9c6d-eeddbdcd4593",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇪🇸🇦🇷 Drake loses $1,500,000 $USDT bet after Spain defeats Argentina to win the FIFA World Cup final.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#35f34147",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-19T22:12:15+00:00"
+  },
+  {
     "id": "3c95d0b7-1fe2-4581-a37e-e1ee2b994a91",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -168,65 +288,5 @@
     "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
     "author": "Anthony Ha",
     "created_at": "2026-07-19T21:45:00.000Z"
-  },
-  {
-    "id": "0e63ed13-e0e8-4879-9763-baa7a8154166",
-    "source": "Politico",
-    "type": "rss",
-    "title": "It's Giuliani (extra) time",
-    "summary": "1. It's Giuliani (extra) time",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/its-giuliani-extra-time-01004600",
-    "author": "By Sophia Cai",
-    "created_at": "2026-07-19T21:34:59.000Z"
-  },
-  {
-    "id": "6357fd96-4c79-4aa0-9357-1f810b771fbd",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Spot the pol!",
-    "summary": "1. Study the photograph carefully.\n2. Only the political figure is missing.\n3. Guess who it is.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/spot-the-pol-diplomat-consular-cases-01004356",
-    "author": "By POLITICO Staff",
-    "created_at": "2026-07-19T21:30:00.000Z"
-  },
-  {
-    "id": "523f1205-b0a8-478c-af6f-2a8e267d03bc",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "What to watch for after Jensen Huang’s Japan visit",
-    "summary": "1. Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-    "author": "Kate Park",
-    "created_at": "2026-07-19T21:16:07.000Z"
-  },
-  {
-    "id": "3b260c98-0d8d-410d-bed0-ec145f47a2d7",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Zakura Node Hits Four-Hour Sync as Zcash Preps July 28 Ironwood Upgrade",
-    "summary": "1. Zcash developers are sealing off a shielded pool that carried a critical bug, and a new node built for speed is already backing the fix.\n2. The Ironwood hard fork, known as NU6.3, activates around July 28, 2026, at block height 3,428,143.\n3. It closes a soundness flaw in the Orchard shielded pool and opens a new […]",
-    "url": "https://news.bitcoin.com/zakura-node-hits-four-hour-sync-as-zcash-preps-july-28-ironwood-upgrade/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-19T21:11:50.000Z"
-  },
-  {
-    "id": "0c2ef37f-3d87-4c56-a7b7-18f098d48c2c",
-    "source": "Politico",
-    "type": "rss",
-    "title": "All the president's guests",
-    "summary": "1. World leaders, royals and Trump allies join the president in his World Cup suite.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/trump-box-sheinbaum-carney-felipe-guests-01004589",
-    "author": "By Sophia Cai",
-    "created_at": "2026-07-19T20:52:42.000Z"
-  },
-  {
-    "id": "c49b3367-eefb-4c69-9928-9fa7dce55ee4",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
-    "summary": "1. The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.",
-    "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-19T20:31:29.000Z"
   }
 ]
