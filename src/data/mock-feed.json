@@ -1,5 +1,65 @@
 [
   {
+    "id": "dbbad3ee-1f23-4060-a0ae-995a7f138c23",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
+    "summary": "1. The Japanese logistics firm plans to pay 2,300 partners, including truck drivers, using JPYC in Japan’s first large-scale corporate stablecoin rollout.",
+    "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-20T08:10:34.000Z"
+  },
+  {
+    "id": "555acd82-9519-4331-9b84-c8ffb6e30e76",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Drake Loses $1.5 Million Bet as Spain Beats Argentina in World Cup Final",
+    "summary": "1. Canadian rapper Drake lost a 1.5 million tether (USDT) wager on Argentina after Spain won the 2026 FIFA World Cup final 1-0 on Sunday, sealing the latest chapter in a betting saga that has cost the artist millions.\n2. How the Bet Died The rapper had placed the wager through crypto casino Stake at +245 odds, […]",
+    "url": "https://news.bitcoin.com/drake-loses-1-5-million-usdt-bet-world-cup-final/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-20T07:30:20.000Z"
+  },
+  {
+    "id": "56248784-6972-4905-bcaa-543e18a3d9fe",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
+    "summary": "1. The Bank of Korea’s CBDC pilot will add two regional banks, new payment features and tests of government subsidy payments using tokenized bank deposits",
+    "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-20T07:18:28.000Z"
+  },
+  {
+    "id": "abb52670-763a-48f2-aaaf-bc87a52fb665",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
+    "summary": "1. War drives oil up, the Kimi selloff drags chips down, and bitcoin sits between them.",
+    "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-20T07:15:47.000Z"
+  },
+  {
+    "id": "bcea8da9-9c1b-4318-a061-02e357b37356",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
+    "summary": "1. Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.",
+    "url": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-20T07:08:07.000Z"
+  },
+  {
+    "id": "7bab7c9a-20ae-4015-b300-9cf6c4967f59",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Iran’s Rial Hits Record Low of 1.95 Million per Dollar as US Pressure Mounts",
+    "summary": "1. Iran’s rial slid to a fresh all-time low of about 1.95 million per U.S.\n2. dollar on Sunday, as renewed U.S.\n3. pressure and a collapsing ceasefire push an economy already battling 68.9% projected inflation deeper into crisis.",
+    "url": "https://news.bitcoin.com/iran-rial-record-low-1-95-million-dollar/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-20T06:25:53.000Z"
+  },
+  {
     "id": "7b6a6684-bec6-40f0-8673-7cf07537fb0e",
     "source": "CoinDesk",
     "type": "rss",
@@ -188,115 +248,5 @@
     "url": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Felix Ng",
     "created_at": "2026-07-20T02:23:36.000Z"
-  },
-  {
-    "id": "07fc75ae-2731-4821-b6d6-e7f88108c074",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-20T02:13:06.000Z"
-  },
-  {
-    "id": "88f08fd3-330b-4c44-87df-8e017d0bba25",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-20T02:13:06.000Z"
-  },
-  {
-    "id": "b98d93ac-a634-433c-9b9f-6d8115caf057",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The World Cup's missing country",
-    "summary": "1. The 2026 World Cup expanded to 48 teams, but China still couldn’t qualify.\n2. Now FIFA is eyeing another expansion — and the billions of fans it hopes China could bring.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/china-qualification-soccer-future-01004659",
-    "author": "By Emily Cadei",
-    "created_at": "2026-07-20T01:40:00.000Z"
-  },
-  {
-    "id": "6de6d58e-8057-4ee9-9084-15938a5c81a1",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Will New York, New Jersey do sports together ever again?",
-    "summary": "1. The World Cup was a showcase for the region.\n2. It also revealed the challenges of a partnership built on necessity.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/new-york-new-jersey-sports-partnership-future-01004665",
-    "author": "By Ry Rivard",
-    "created_at": "2026-07-20T01:29:57.000Z"
-  },
-  {
-    "id": "b494c231-c199-45bb-8c53-0c22162f8523",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Japanese logistics company eyes JPYC stablecoin to pay drivers",
-    "summary": "1. The planned rollout would let thousands of transportation contractors receive digital yen payments more frequently and quickly.",
-    "url": "https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-20T01:27:42.000Z"
-  },
-  {
-    "id": "3c82badd-0c34-4169-ab69-00fb42ab9bc5",
-    "source": "Politico",
-    "type": "rss",
-    "title": "LA’s next mega-event test: The coming climate Olympics",
-    "summary": "1. City leaders are spending billions to make the next great global sporting event held in America — the 2028 Olympics — a story of climate and environment policy progress.",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/los-angeles-olympics-legacy-climate-transit-01004649",
-    "author": "By Alex Nieves",
-    "created_at": "2026-07-20T01:07:00.000Z"
-  },
-  {
-    "id": "3216135c-8c11-401b-9de3-f773402870dd",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Covered Calls Could Generate 22% Yield in a Sideways Market, Grayscale Says",
-    "summary": "1. Grayscale says bitcoin covered call strategies may offer investors a way to generate income if bitcoin trades within a limited price range rather than staging a rapid recovery.\n2. The approach combines spot bitcoin ownership with option premiums, creating returns that differ from holding bitcoin alone.\n3. Why Could a Range-Bound Bitcoin Market Favor Covered Call Strategies?",
-    "url": "https://news.bitcoin.com/bitcoin-covered-calls-could-generate-22-yield-in-a-sideways-market-grayscale-says/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-20T01:06:12.000Z"
-  },
-  {
-    "id": "9c0ba983-d36f-4a9f-8343-6ccbdb1e1921",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Christopher Maccio, the Great Opera Singer, was AMAZING at the World Cup today — He\n\"took the house down!\" President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/40148",
-    "author": "Trump Truth",
-    "created_at": "2026-07-20T00:38:27.000Z"
-  },
-  {
-    "id": "1db2cd30-3b33-4635-9092-e398e92ab73a",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Wonderful news!\n2. I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering Prices, by a lot, across more than 300 products this Summer, through Labor Day, to help hardworking American families.\n3. Giant Eagle, like Walmart, is stepping up in a big and bold way to answer my call to lower costs for working families.",
-    "url": "https://trumpstruth.org/statuses/40147",
-    "author": "Trump Truth",
-    "created_at": "2026-07-20T00:34:45.000Z"
-  },
-  {
-    "id": "b517ce64-a506-442a-817f-ef64b7a0f927",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "South Korea probed 40 cases of crypto manipulation over 2 years",
-    "summary": "1. Financial Services Commission Chair Lee Eog-won posted the figures on the second anniversary of the enactment of the Virtual Asset User Protection Act.",
-    "url": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-20T00:33:12.000Z"
-  },
-  {
-    "id": "df4115c2-f808-46d7-a91b-5bf7a36bbced",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The National Academy of Sciences has historically published analytical Scientific Manuals expressly for our Federal Judiciary.\n2. Of course, the Academy has been run by Radical Left Dumocrats who, it turns out, published fraudulent, biased, and misleading Manuals on Climate Change.\n3. These bogus Manuals were used by Judges to decide massive “Climate Change” Cases, and have created huge losses across our Country.",
-    "url": "https://trumpstruth.org/statuses/40146",
-    "author": "Trump Truth",
-    "created_at": "2026-07-20T00:17:38.000Z"
   }
 ]
