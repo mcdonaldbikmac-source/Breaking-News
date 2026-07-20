@@ -1,5 +1,75 @@
 [
   {
+    "id": "7b6a6684-bec6-40f0-8673-7cf07537fb0e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus",
+    "summary": "1. Bitcoin ETFs have attracted $273 million in new inflows in two weeks, but the total is barely enough to cover a single \"slow\" week of recent selling.",
+    "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-20T05:46:36.000Z"
+  },
+  {
+    "id": "38892836-63b1-4919-a852-b7b181ac3b2b",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Hyperliquid’s HIP-4 to support permissionless deployment for outcome markets",
+    "summary": "1. HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets.",
+    "url": "https://www.theblock.co/post/408875/hyperliquid-hip-4-permissionless-deployment?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-20T05:34:45.000Z"
+  },
+  {
+    "id": "b883ee76-ea6d-4b8a-9ca7-5de6a12df82c",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
+    "summary": "1. Brent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock.",
+    "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-20T05:31:43.000Z"
+  },
+  {
+    "id": "7deddb88-0061-4837-ae3b-bf29602161f7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "‘An Impossible Requirement’: Why Have I Been Pwned’s Creator Is Dropping Crypto Donations",
+    "summary": "1. Troy Hunt, creator of Have I Been Pwned, announced that the measure would likely follow the tightening of Australia’s cryptocurrency oversight requirements.\n2. Hunt stressed that this level of compliance was impossible to fulfill, especially when applied to small donations.\n3. Have I Been Pwned Security Project To Drop Crypto Donations While the tightening of oversight for […]",
+    "url": "https://news.bitcoin.com/an-impossible-requirement-why-have-i-been-pwneds-creator-is-dropping-crypto-donations/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-20T05:30:09.000Z"
+  },
+  {
+    "id": "59c74ebb-f04e-46c0-87aa-9c75e6b87ab1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-20T04:56:55.000Z"
+  },
+  {
+    "id": "267810a0-97dd-4031-95fb-98edf05d0457",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The Man Who Threw Away $900 Million and Spent 12 Years Trying to Dig It Back Up",
+    "summary": "1. James Howells, an IT engineer from Newport, Wales, mined 8,000 Bitcoin in the early days and lost the keys in 2013 when an encrypted hard drive was mistakenly thrown away and sent to the Docksway landfill.\n2. After the High Court in Cardiff dismissed his claim in January 2025 and an appeal was refused in March […]",
+    "url": "https://news.bitcoin.com/the-man-who-threw-away-900-million-and-spent-12-years-trying-to-dig-it-back-up-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-20T04:30:07.000Z"
+  },
+  {
+    "id": "dba87233-ef5c-4978-9017-7c88feb81eca",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Cardano activates van Rossem hard fork",
+    "summary": "1. The upgrade reduces smart contract execution costs while laying the groundwork for Ouroboros Leios, a major scalability upgrade expected later this year.",
+    "url": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-20T04:26:17.000Z"
+  },
+  {
     "id": "687cd006-ed29-4172-83f8-04e65c3da418",
     "source": "The Block",
     "type": "rss",
@@ -228,35 +298,5 @@
     "url": "https://trumpstruth.org/statuses/40146",
     "author": "Trump Truth",
     "created_at": "2026-07-20T00:17:38.000Z"
-  },
-  {
-    "id": "e9b7010f-1eca-4b47-a94a-fadae603650a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19",
-    "summary": "1. The fate of the CLARITY Act hinges on Trump’s ethics, so the odds aren’t looking great.\n2. Prediction market volumes hit new highs, and more news.",
-    "url": "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Andrew Fenton",
-    "created_at": "2026-07-20T00:12:06.000Z"
-  },
-  {
-    "id": "102ed8d0-e9e4-418a-bd78-df2cac979acb",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Eighth Night of Airstrikes: Markets on Edge as Trump Vows to Hit Iran ‘Extremely Hard’",
-    "summary": "1. Iranian missiles reportedly killed two U.S.\n2. service members at a Jordanian air base this week, and a third American died a day later in Iraq, as the United States pushed into an eighth consecutive night of airstrikes on Iranian targets near the Strait of Hormuz.\n3. Central Command disclosed that Iran fired ballistic missiles and […]",
-    "url": "https://news.bitcoin.com/eighth-night-of-airstrikes-markets-on-edge-as-trump-vows-to-hit-iran-extremely-hard/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-19T23:56:54.000Z"
-  },
-  {
-    "id": "a15e9a62-2721-4bf0-96bc-023e0d2d9da6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Cardano Triggers First Fully Onchain Governed Hard Fork in Network History",
-    "summary": "1. Cardano activated its Van Rossem hard fork on July 18, 2026, at approximately 21:44:51 UTC, moving the network to Protocol Version 11 without any reported downtime.\n2. The upgrade is an intra-era change inside Cardano’s Conway ledger era.\n3. It does not replace the network’s governance structure.",
-    "url": "https://news.bitcoin.com/cardano-triggers-first-fully-onchain-governed-hard-fork-in-network-history/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-19T22:44:21.000Z"
   }
 ]
