@@ -1,5 +1,315 @@
 [
   {
+    "id": "74f81cb0-942a-4722-9b54-c43c8eac77a4",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-20T19:50:30.000Z"
+  },
+  {
+    "id": "f0695838-3f7f-48b0-8678-9cca045b4c23",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-20T19:50:30.000Z"
+  },
+  {
+    "id": "e7812a95-7c5b-4daa-987a-9d0022f79396",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
+    "summary": "1. Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900.",
+    "url": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-07-20T19:47:47.000Z"
+  },
+  {
+    "id": "d9c1792c-12c7-4c67-af72-850157d5ea8f",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🚨 Zilliqa confirmed a cold wallet theft at an unnamed exchange partner and asked exchanges to pause ZIL transfers while it investigates.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#dca48e5a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T19:40:09+00:00"
+  },
+  {
+    "id": "350783c4-5de0-42e8-844f-05aca09c0790",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "summary": "1. X says the rebuilt version of its Android app is now available globally.",
+    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "author": "Sarah Perez",
+    "created_at": "2026-07-20T19:37:39.000Z"
+  },
+  {
+    "id": "dc771e3c-4eb7-4e7a-87d6-1ce50f8f568d",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "summary": "1. Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-07-20T19:33:25.000Z"
+  },
+  {
+    "id": "5c577cc5-2e76-495e-909e-c2fee49c94fa",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Exodus to cut 25% of staff in company reorganization",
+    "summary": "1. The wallet company said it expected the layoffs to generate between $10 million and $13 million in savings as part of its strategy to build a full-stack card issuance and payments platform.",
+    "url": "https://cointelegraph.com/news/crypto-wallet-exodus-cut-staff-company-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-20T19:29:11.000Z"
+  },
+  {
+    "id": "42ce91d8-b617-489f-8c41-5ff6c5983494",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "66.7% of addresses in Polymarket World Cup winner market posted losses",
+    "summary": "About 130,000 of the 194,000 addresses that participated in Polymarket’s World Cup winner prediction market posted losses, accounting for 66.7% of all participants, according to blockchain analyst defioasis. Most lost under $100, but 43 addresses each recorded losses of more than $100,000, bringing total losses to over $15 million.Meanwhile, total profit came to around $22 million, with 54 addresses each posting gains of more than $100,000. Defioasis said profits were also concentrated among a small number of addresses.",
+    "url": "https://t.me/CoinnessGL#488b0dff",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T19:23:16+00:00"
+  },
+  {
+    "id": "deb2eda1-2008-4dc2-a77f-0aa64d431c63",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase vice president says crypto backers and critics alike should want regulation",
+    "summary": "Coinbase Vice President Ryan VanGrack said in an interview with CNBC, \"암호화폐를 좋아하든 싫어하든 이 산업이 규제되길 바라야 한다.\"",
+    "url": "https://t.me/CoinnessGL#1bd8cbb7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T19:16:10+00:00"
+  },
+  {
+    "id": "92a87c29-2842-4e29-a9cc-6eb0354d11c8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+    "summary": "1. The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+    "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+    "author": "Marina Temkin",
+    "created_at": "2026-07-20T19:11:25.000Z"
+  },
+  {
+    "id": "4ee3ce61-8b16-417c-9046-1dd5583c14ca",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Bernstein raised its Robinhood price target to $160, expecting prediction market revenue to overtake crypto for the first time in Q2 2026.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c2322d0c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T19:00:14+00:00"
+  },
+  {
+    "id": "68b24f76-66bc-4553-9997-81ca7b0c42eb",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
+    "summary": "1. For the first time in Cardano's history, no company flipped the switch on a major protocol update.",
+    "url": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-20T18:50:48.000Z"
+  },
+  {
+    "id": "cd817c90-a9e4-474d-ac5d-e989f76142f6",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Roars Back Above $65K as Iran War Fails to Break Whale Buying Frenzy",
+    "summary": "1. Bitcoin climbed back to $65,644 on July 20, capping a volatile three-day stretch shaped as much by chart levels as by the war between the United States and Iran.\n2. The move came after a hard drop on July 17, when BTC fell to $63,706 as U.S.\n3. stocks sold off and oil prices jumped on renewed […]",
+    "url": "https://news.bitcoin.com/bitcoin-roars-back-above-65k-as-iran-war-fails-to-break-whale-buying-frenzy/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-20T18:30:59.000Z"
+  },
+  {
+    "id": "f8c1186f-5a6d-4b7d-861c-a4232da07832",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 US spot Bitcoin ETFs posted a second straight week of inflows last week at $75.7M.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#d415bca4",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-20T18:25:07+00:00"
+  },
+  {
+    "id": "b73974ef-22d1-4a74-97bd-15832b9c8034",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Coinbase Executive Says Clarity Act Has ‘Tremendous Momentum’ in the Senate",
+    "summary": "1. Bitcoin Magazine\n\nCoinbase Executive Says Clarity Act Has ‘Tremendous Momentum’ in the Senate\nCoinbase's Ryan VanGrack said the Clarity Act is gaining strong Senate momentum and argued it would bring long-awaited federal rules, stronger consumer protections, and regulatory clarity to the crypto industry.\n2. This post Coinbase Executive Says Clarity Act Has ‘Tremendous Momentum’ in the Senate first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/coinbase-executive-clarity-act-support",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-20T18:20:55.000Z"
+  },
+  {
+    "id": "a03d2485-e1be-484e-a344-0973909157d0",
+    "source": "The Block",
+    "type": "rss",
+    "title": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says",
+    "summary": "1. NEAR co-founder Polosukhin called formal verification a necessary shift for securing blockchain code from AI hacking.",
+    "url": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-07-20T18:20:02.000Z"
+  },
+  {
+    "id": "eec15515-f06f-4e12-b442-cc3ae4df685c",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: me when i find out the devs are just talking about another ai",
+    "summary": "1. me when i find out the devs are just talking about another ai",
+    "url": "https://warpcast.com/farcaster/0xb1d46b37",
+    "author": "Farcaster",
+    "created_at": "2026-07-20T18:06:10.000Z"
+  },
+  {
+    "id": "9245feeb-c90f-459e-8323-75dfc676818b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Peter Brandt sees BTC bear market bottom on Oct. 4, with possible dip below $50K",
+    "summary": "Veteran trader Peter Brandt sees the BTC bear market forming a bottom on Oct. 4 and analyzed that BTC could temporarily fall below $50,000 before entering a recovery, according to Cointelegraph.",
+    "url": "https://t.me/CoinnessGL#cf574440",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-20T18:03:57+00:00"
+  },
+  {
+    "id": "d145de3a-899a-43b0-aa8d-b27d4153e747",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇳🇬 Nigeria establishes virtual asset council to coordinate crypto policy and regulation.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#dee57bf7",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-20T18:03:04+00:00"
+  },
+  {
+    "id": "8bc1b5b1-5a67-42bd-8a34-aee5f860f17b",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin ETFs Are Green Again—Here’s Why Investors Should Zoom Out",
+    "summary": "1. Two consecutive weeks of inflows ended the worst sustained outflow streak in Bitcoin ETF history.\n2. Here's why patience may be required from investors.",
+    "url": "https://decrypt.co/373850/bitcoin-etfs-green-inflows-why-investors-should-zoom-out",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-20T17:59:51.000Z"
+  },
+  {
+    "id": "65af4081-3c6a-45b7-8be2-ab36d31cbdc8",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Great words of wisdom from Highly Respected James Carafano.\n2. Thank you James!\n3. “Our position in the Region is the strongest that it’s been since the end of World War II.",
+    "url": "https://trumpstruth.org/statuses/40160",
+    "author": "Trump Truth",
+    "created_at": "2026-07-20T17:56:00.000Z"
+  },
+  {
+    "id": "4869fa74-2bbb-458f-a7ac-c09427ceecd0",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 US Strategic Petroleum Reserve falls by 5.1 million barrels to lowest level since 1983.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#d45fe9b0",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-20T17:47:46+00:00"
+  },
+  {
+    "id": "472e88b9-7035-4da7-89ed-cc90bfab3a78",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Galaxy Digital Signs 15-Year, $75M Deal to Rename Texas Tech’s Football Stadium",
+    "summary": "1. Galaxy Digital has agreed to pay roughly $75 million over 15 years to put its name on Texas Tech University’s football stadium.\n2. Texas Tech Athletics announced the deal on July 17, confirming that Jones AT&T Stadium will become Galaxy Stadium starting with the 2026 season.\n3. The agreement replaces AT&T’s naming rights, which expired in June […]",
+    "url": "https://news.bitcoin.com/galaxy-digital-signs-15-year-75m-deal-to-rename-texas-techs-football-stadium/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-20T17:45:24.000Z"
+  },
+  {
+    "id": "3bf28442-437e-4069-b67f-8f33cb7507bd",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Russia Moves to Rein In Crypto Fraud With New Legislation",
+    "summary": "1. Bitcoin Magazine\n\nRussia Moves to Rein In Crypto Fraud With New Legislation\nRussia is pushing ahead with regulating the cryptocurrency market, with the State Duma considering a bill on combating fraud in the industry, according to reports.\n2. The bill will look at “combating the illegal use of cryptocurrencies within our country,” Anatoly Aksakov, chairman of the State Duma Committee on Financial Markets, reportedly said.\n3. Lawmakers will vote […]\nThis post Russia Moves to Rein In Crypto Fraud With New Legislation first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-20T17:43:51.000Z"
+  },
+  {
+    "id": "792316f5-29f8-4313-a592-b7426919c80a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
+    "summary": "1. Bitcoin miners rallied as investors cheered multi-billion-dollar AI infrastructure contracts, underscoring the sector’s accelerating shift toward data centers and cloud computing.",
+    "url": "https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-07-20T17:27:31.000Z"
+  },
+  {
+    "id": "aafa750f-bf8d-4907-9c12-a82db01f8a47",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
+    "summary": "1. Andrew Cuomo said OKX could help bring round-the-clock trading and more international capital into U.S.",
+    "url": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-07-20T17:25:58.000Z"
+  },
+  {
+    "id": "80cf9c1b-376f-4124-8b1f-1c893ac22c3e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Removal of CLARITY Act’s Section 604 Could Spark First Amendment Battle, Industry Executives Warn",
+    "summary": "1. One year after the U.S.\n2. House passed the CLARITY Act to replace “regulation by enforcement” with clear rules, the bill remains stalled in the Senate due to banking opposition and partisan friction.\n3. Industry groups warn that stripping Section 604 will trigger First Amendment legal challenges and drive open-source developers out of the U.S.",
+    "url": "https://news.bitcoin.com/removal-of-clarity-acts-section-604-could-spark-first-amendment-battle-industry-executives-warn/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-20T17:05:40.000Z"
+  },
+  {
+    "id": "2822e69a-3bad-491e-a7d7-17b2b4a9353d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Nigerian president signs order on approach to crypto regulation, taxes",
+    "summary": "1. The West African country’s executive order established a virtual asset council and addressed the fragmentation of crypto regulation for oversight and enforcement.",
+    "url": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-20T16:59:50.000Z"
+  },
+  {
+    "id": "cceff30a-6956-4c32-b981-ffc310cbe2b1",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Benjamin Netanyahu will not be arrested, in any way, shape, or form, while in the United States of America.\n2. He is fighting against the Islamic Republic of Iran, which recently killed 52,000 innocent protestors, and has spent the last 47 years killing American Soldiers, and others.\n3. The only ones that should be arrested are the people that led Iran into this unprecedented SPIRAL OF DEATH AND DESTRUCTION, something that should have been dealt with years ago, by previous Presidents!",
+    "url": "https://trumpstruth.org/statuses/40159",
+    "author": "Trump Truth",
+    "created_at": "2026-07-20T16:50:58.000Z"
+  },
+  {
+    "id": "fdb92d7f-9a3e-424e-8823-fde4034a0f04",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Every time Iran kills an American Soldier they will pay for that killing many times over!\n2. This directive has been passed on to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Daniel Caine, and every Leader in the Military.\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/40158",
+    "author": "Trump Truth",
+    "created_at": "2026-07-20T16:41:23.000Z"
+  },
+  {
+    "id": "069914ff-14bb-4818-a90d-6e130d05913f",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "New Onramp Report Makes the Case for Spot Bitcoin Over Paper Claims as Price Sits at Half Its Peak",
+    "summary": "1. Bitcoin Magazine\n\nNew Onramp Report Makes the Case for Spot Bitcoin Over Paper Claims as Price Sits at Half Its Peak\nOnramp argues that spot bitcoin offers stronger long-term value than paper bitcoin exposure, highlighting bitcoin's fixed supply as its price trades roughly 50% below its all-time high.\n2. This post New Onramp Report Makes the Case for Spot Bitcoin Over Paper Claims as Price Sits at Half Its Peak first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/onramp-report-makes-case-spot-bitcoin",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-20T16:40:27.000Z"
+  },
+  {
     "id": "d452f00d-4453-44b7-9137-5cf39ca829cc",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -70,7 +380,7 @@
     "created_at": "2026-07-20T15:50:09+00:00"
   },
   {
-    "id": "02f3e726-a981-4adb-8d2c-e5a4a80e5070",
+    "id": "236bc2f6-7126-480c-b087-67c9064a77f1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Average US gas prices rise to $4.00 per gallon as war with Iran resumes.@WatcherGuru",
@@ -278,285 +588,5 @@
     "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
     "author": "Francisco Rodrigues",
     "created_at": "2026-07-20T13:53:08.000Z"
-  },
-  {
-    "id": "32def5db-2a29-43ae-a380-d421b212b378",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Hut 8 surges on $9.8 billion AI data-center lease, lifting compute sector",
-    "summary": "1. The long-term deal sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
-    "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-20T13:49:24.000Z"
-  },
-  {
-    "id": "24886e6b-07a5-46b9-885c-cb2ee04265bb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-    "summary": "1. An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
-    "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-20T13:47:06.000Z"
-  },
-  {
-    "id": "7b389b40-0c38-4eed-a5d6-3bd9c83b916e",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares",
-    "summary": "1. Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.",
-    "url": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-07-20T13:43:15.000Z"
-  },
-  {
-    "id": "872000be-024d-4eab-8b5c-8cb685d1b8d3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Benchmark sharply cuts Exodus price target, keeps buy rating",
-    "summary": "Benchmark, a U.S. investment bank, has nearly halved its price target for cryptocurrency wallet service provider Exodus (EXOD), The Block reported. The move followed Exodus' 25% workforce reduction last week. Analysts said the restructuring should help fund Exodus' shift toward a full-stack stablecoin payments infrastructure business, while maintaining a buy rating on EXOD.",
-    "url": "https://t.me/CoinnessGL#7828c51d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-20T13:42:24+00:00"
-  },
-  {
-    "id": "afab1ab8-4af1-45f1-b848-b0770bf36f5f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Sen. Lummis says Clarity Act would protect customer crypto in exchange bankruptcies",
-    "summary": "Crypto-friendly U.S. Sen. Cynthia Lummis said on X the core of the Clarity Act is that customers would retain ownership of their cryptocurrencies even if an exchange goes bankrupt. Lummis explained that when Celsius and Voyager went bankrupt, cryptocurrencies deposited by customers were not protected as customer assets and were instead included in the bankruptcy estate. Those assets were then treated as property available for repayment among creditors unrelated to the customers, Lummis said. Under the Clarity Act, that structure would change so ownership of customer-deposited crypto would remain with customers even if the company enters bankruptcy.",
-    "url": "https://t.me/CoinnessGL#e1f7fafe",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-20T13:33:13+00:00"
-  },
-  {
-    "id": "5e237c29-ee69-4cab-ac91-a42468ee5050",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks open higher",
-    "summary": "The three major U.S. stock indices opened higher today.- S&P 500: +0.59%- Nasdaq: +0.37%- Dow Jones: +0.87%",
-    "url": "https://t.me/CoinnessGL#39689ad7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-20T13:31:55+00:00"
-  },
-  {
-    "id": "37195d61-bf20-4ba0-9262-9efdb43d8a12",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Peter Brandt predicts the exact day Bitcoin’s bear market will be over",
-    "summary": "1. Renowned trading analyst Peter Brandt says investing in Bitcoin today, will pay off much better in two to three years than buying AI stocks at current prices.",
-    "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ciaran Lyons",
-    "created_at": "2026-07-20T13:30:00.000Z"
-  },
-  {
-    "id": "8af054d5-4873-4d54-8fec-ab547821c36e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 PayPal led the underlyings, SanDisk trailedTokenized stocks weekly | Jul...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#436cf488",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-20T13:25:10+00:00"
-  },
-  {
-    "id": "01b0e740-1e8b-4e2c-bda5-2321d36d5167",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🚨 Allbridge paused its Core protocol after an exploit drained $1.65M from its Solana deployment.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c9c99528",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-20T13:25:07+00:00"
-  },
-  {
-    "id": "6bb9a2c3-4230-44a2-a698-3e7a77ca8814",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act Would Protect Customer Crypto From Exchange Bankruptcies, Senator Says",
-    "summary": "1. Senator Cynthia Lummis says the CLARITY Act would ensure customer-owned crypto remains customer property if an exchange fails, addressing a legal gap exposed by the bankruptcies of Celsius and Voyager while advancing broader U.S.\n2. crypto market rules.\n3. CLARITY Act Seeks to Prevent Another Celsius-Style Bankruptcy Dispute Senator Cynthia Lummis (R-WY) said the CLARITY Act would […]",
-    "url": "https://news.bitcoin.com/clarity-act-would-protect-customer-crypto-from-exchange-bankruptcies-senator-says/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-20T13:23:53.000Z"
-  },
-  {
-    "id": "1aa56783-e56e-4c21-a808-771369577bea",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-20T13:07:28.000Z"
-  },
-  {
-    "id": "64765b6d-f061-486c-9e33-d82d7cd875ad",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock.",
-    "summary": "1. The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.",
-    "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-20T12:55:36.000Z"
-  },
-  {
-    "id": "99b1402e-3647-4932-bc1c-99b8c4d0a001",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bernstein lifts Robinhood target to $160, sees prediction markets revenue overtaking crypto",
-    "summary": "1. Bernstein raised its Robinhood price target to $160, citing prediction markets, Rothera, and Robinhood Chain as key revenue drivers.",
-    "url": "https://www.theblock.co/post/408903/bernstein-lifts-robinhood-target-to-160-sees-prediction-markets-revenue-overtaking-crypto?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-07-20T12:44:13.000Z"
-  },
-  {
-    "id": "6a4a802f-d1ce-496b-afc1-edcf81d6116d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Strategy Sells $263.5 Million of MSTR Stock but Adds No Bitcoin",
-    "summary": "1. Strategy raised $263.5 million through MSTR stock sales while reporting no bitcoin purchases, lifting its U.S.\n2. dollar reserve to $3.225 billion as its buying pause stretched into another week.\n3. Why Is Strategy Building a Larger Dollar Reserve?",
-    "url": "https://news.bitcoin.com/strategy-sells-263-5-million-of-mstr-stock-but-adds-no-bitcoin/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-20T12:40:41.000Z"
-  },
-  {
-    "id": "059fb903-98a3-4223-a55c-ed2f1f03391e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
-    "summary": "1. Strategy boosted its cash reserve to $3.225 billion after selling MSTR shares, while investors weighed the value of its STRC preferred stock.",
-    "url": "https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-20T12:39:49.000Z"
-  },
-  {
-    "id": "654b732d-53b9-4414-9b41-6c51565a3ded",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-    "summary": "1. Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
-    "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-07-20T12:39:28.000Z"
-  },
-  {
-    "id": "9b4b5609-6c29-42b7-87ec-2eb9b776c17c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
-    "summary": "1. For the second consecutive week, the firm kept bitcoin holdings steady, choosing to use the raised capital to boost cash for paying dividends on its preferred stock.",
-    "url": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-20T12:35:02.000Z"
-  },
-  {
-    "id": "7dae39ed-cf16-45a4-ae21-47ffddabf99c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community ",
-    "summary": "1. For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
-    "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-    "author": "Morgan Little",
-    "created_at": "2026-07-20T12:30:00.000Z"
-  },
-  {
-    "id": "20923e77-0ade-4462-af7d-a0b41083c602",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
-    "summary": "1. Bitcoin Magazine\n\nStrategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion\nStrategy sold $263.5 million in MSTR shares last week without buying bitcoin, raising its U.S.\n2. dollar reserve to a record $3.225 billion while maintaining its 843,775 BTC treasury and continuing its recent shift toward cash accumulation.\n3. This post Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-20T12:29:51.000Z"
-  },
-  {
-    "id": "0ae17467-7ab5-4a99-81a9-5588b841f54c",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
-    "summary": "1. Hyperliquid plans to require developers to stake 500,000 HYPE, worth about $30.4 million, to deploy permissionless prediction markets under HIP-4.",
-    "url": "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-20T12:20:23.000Z"
-  },
-  {
-    "id": "4103ea19-139b-42ed-ae9d-a833e3f8360d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion",
-    "summary": "1. Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.",
-    "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion?utm_source=rss&utm_medium=rss",
-    "author": "James Hunt",
-    "created_at": "2026-07-20T12:09:00.000Z"
-  },
-  {
-    "id": "d8ccf711-25ef-4682-a1a0-ed3c9f8438d1",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "HOUTHIS DECLARE MARITIME EMBARGO AGAINST SAUDI ARABIA Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#93fe9e41",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-20T12:08:57+00:00"
-  },
-  {
-    "id": "e2796a1a-f822-45e0-9a99-9871f339ee26",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
-    "summary": "1. The new rules establish penalties as much as $1,900 for crypto violations, including unlicensed trading and AML breaches, ahead of Vietnam’s regulated crypto market launch.",
-    "url": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Yohan Yun",
-    "created_at": "2026-07-20T12:04:06.000Z"
-  },
-  {
-    "id": "aa7d1930-2d9d-45cf-9b0e-10c7e94a00cb",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
-    "summary": "1. The framework will address critical issues like official ownership records, private key custody, transaction reversibility and system liability.",
-    "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-20T12:02:28.000Z"
-  },
-  {
-    "id": "eb316cf9-29af-4cbe-a953-faf4db1c8a5a",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
-    "summary": "1. Plus, a selloff in Oil has markets looking green into the Monday open.\n2. And PUMP is leading all alt movers on the week at a surprising time.",
-    "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
-    "author": "Tyler Warner",
-    "created_at": "2026-07-20T12:00:02.000Z"
-  },
-  {
-    "id": "5ca88013-8b1d-41e4-9791-44863fbf08c6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase CEO Brian Armstrong: Hash Power Doesn’t Determine Bitcoin’s Price",
-    "summary": "1. Coinbase CEO Brian Armstrong pushed back on Sunday against fears that miners defecting to artificial intelligence (AI) threaten bitcoin, arguing the network’s built-in difficulty adjustment keeps blocks flowing no matter how much hash power leaves.\n2. The Argument Armstrong made the case in a post on X, wading into a debate that flared the same day […]",
-    "url": "https://news.bitcoin.com/brian-armstrong-hash-power-bitcoin-price/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-20T11:30:09.000Z"
-  },
-  {
-    "id": "39586b3b-30f9-4eff-acbc-f75161770ad1",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec",
-    "summary": "1. Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.",
-    "url": "https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-07-20T11:24:22.000Z"
-  },
-  {
-    "id": "90de5a32-abea-4b24-8e11-a3eeeb95b014",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110",
-    "summary": "1. The Strategy chairman argued that the soft fork is a 'bad idea,' warning that it would cause more harm than the problem it aims to solve.",
-    "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-20T11:12:57.000Z"
   }
 ]
