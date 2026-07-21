@@ -1,5 +1,65 @@
 [
   {
+    "id": "5f6e923e-249a-42c1-96fa-2a0e35cbb5e9",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The Xteink X4 Pro could be the tiny e-reader of your dreams",
+    "summary": "1. Xteink makes its pocket-sized e-reader even better with a touchscreen and front light.",
+    "url": "https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-07-21T14:00:00.000Z"
+  },
+  {
+    "id": "f04e6de1-79f6-4a93-b1da-5e131e38a3ed",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Aztec launches v5 alpha to improve privacy transactions on Ethereum",
+    "summary": "Ethereum layer-two project Aztec (AZTEC) has launched its v5 alpha, enabling fully private transactions to be processed directly on users’ devices, The Block reported. The update was applied on-chain after governance approval from token holders, making end-to-end private transaction processing possible on smartphones and standard laptops.Average transaction costs fell around 50%, while block times shortened to six seconds from 14 seconds. Rollup proof verification costs also dropped about 40%, lowering average fees for private token transactions to under $0.05. Co-founder Zac Williamson said the system was designed to provide a privacy-preserving layer first for Ethereum (ETH) and, over the long term, for cryptocurrencies more broadly.",
+    "url": "https://t.me/CoinnessGL#83d50ce6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-21T13:55:40+00:00"
+  },
+  {
+    "id": "b997f306-149b-486b-8b2c-b17f10da0722",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Malaysia shuts down Balaji Srinivasan’s Network School in Forest City",
+    "summary": "1. Malaysia revoked Network School's license, ordering the Balaji Srinivasan-founded digital nomad commune to cease operations July 22.",
+    "url": "https://www.theblock.co/post/409076/malaysia-shuts-down-balaji-srinivasans-network-school-forest-city?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-21T13:50:19.000Z"
+  },
+  {
+    "id": "624122cc-61e6-45b0-a028-b72256d5bd38",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇷🇺 Russia passes bill establishing legal framework for crypto.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#df911dbd",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T13:48:45+00:00"
+  },
+  {
+    "id": "d7e6b517-e71b-4b4c-8dac-c39e7ff47f37",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Jack Mallers leaves Twenty One as Strike exits Tether’s three-way bitcoin merger",
+    "summary": "1. Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.",
+    "url": "https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-21T13:47:00.000Z"
+  },
+  {
+    "id": "41d07234-6bba-4252-9e79-cb4e5e367a13",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Blackrock Pulls $116 Million Into IBIT as Bitcoin Funds Post Longest Streak Since May",
+    "summary": "1. US spot bitcoin ETFs attracted $226.92 million on Monday, extending their inflow streak to five trading sessions.\n2. Ether, XRP, and solana funds also opened the week with gains, while HYPE ETFs remained quiet.\n3. Bitwise Funds Lead Gains for XRP and Solana ETFs Institutional investors returned from the weekend with their appetite intact.",
+    "url": "https://news.bitcoin.com/blackrock-pulls-116-million-into-ibit-as-bitcoin-funds-post-longest-streak-since-may/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-21T13:45:12.000Z"
+  },
+  {
     "id": "e2292989-f9a0-4501-81f2-d30fa63794d6",
     "source": "The Defiant",
     "type": "rss",
@@ -18,6 +78,66 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "author": "The Defiant Team",
     "created_at": "2026-07-21T13:41:08.000Z"
+  },
+  {
+    "id": "044a1340-28b2-462d-acf0-ec34f78da36d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "MoneyGram's CEO says blockchain works best when customers don't know it's there",
+    "summary": "1. In an interview with CoinDesk, MoneyGram CEO Anthony Soohoo said that their blockchain strategy has evolved from early experimentation into a broader effort to modernize the company's global payments infrastructure.",
+    "url": "https://www.coindesk.com/tech/2026/07/17/moneygram-s-ceo-says-blockchain-works-best-when-customers-don-t-know-it-s-there",
+    "author": "Margaux Nijkerk",
+    "created_at": "2026-07-21T13:38:13.000Z"
+  },
+  {
+    "id": "cd5afc5b-01ab-4288-9898-76fbc63c3bfe",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Arcus adds tokenized stocks and perpetual futures trading on Robinhood Chain",
+    "summary": "DEX Arcus has begun offering tokenized stocks and perpetual futures trading on Robinhood Chain, Cointelegraph reported. The move expands into derivatives after the platform opened a spot market when Robinhood Chain launched on July 1. Arcus said stock token trading will not be available in some regulated jurisdictions, including the U.S., Canada and the UK. Arcus was developed by dYdX Labs and is backed by Robinhood Crypto.",
+    "url": "https://t.me/CoinnessGL#33680e04",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-21T13:35:04+00:00"
+  },
+  {
+    "id": "42bf1366-716a-4954-8444-41b377b0735f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "CoinShares debuts Bitcoin mining ETF in Europe entrance",
+    "summary": "1. The UCITS ETF, CoinShares’ first in Europe, began trading on Deutsche Börse Xetra, tracking a rules-based index of publicly listed BTC miners.",
+    "url": "https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-21T13:34:26.000Z"
+  },
+  {
+    "id": "ba33ec69-1991-4e39-bf69-529142514c13",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US stocks open mixed",
+    "summary": "The three major U.S. stock indices opened mixed today.- S&P 500: +0.62%- Nasdaq: -0.05%- Dow Jones: +0.43%",
+    "url": "https://t.me/CoinnessGL#affee7f4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-21T13:31:03+00:00"
+  },
+  {
+    "id": "23c33747-830c-4f74-a426-84fb857f4b2e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Jack Mallers has stepped down as CEO of Twenty One Capital to focus on Strike, with Raphael Zagury taking over.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8ae2fdcf",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T13:30:09+00:00"
+  },
+  {
+    "id": "810ddc85-5c37-4f87-98d1-eca92978eaad",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Arcus rolls out 24/7 tokenized US stocks and perpetual markets on Robinhood Chain",
+    "summary": "1. Arcus rolled out 24/7 trading for over 95 Stock Tokens on Robinhood Chain and also introduced beta perpetual markets with USDG collateral.",
+    "url": "https://www.theblock.co/post/408895/arcus-rolls-out-24-7-tokenized-us-stocks-and-perpetual-markets-on-robinhood-chain?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-21T13:30:00.000Z"
   },
   {
     "id": "63254619-3d76-4962-9724-94c96ff12ec7",
@@ -70,6 +190,26 @@
     "created_at": "2026-07-21T13:15:41.000Z"
   },
   {
+    "id": "92c95a51-6953-40c3-a304-128d0e467f9a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-21T13:14:31.000Z"
+  },
+  {
+    "id": "b14ff83c-3cfb-4413-ade1-764c85b3feaa",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 President Trump to announce 10% tariffs on dozens of countries this week, FT reports.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#e8763862",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T13:11:16+00:00"
+  },
+  {
     "id": "bed40828-c1ef-483a-9d98-1f17e24ea0c5",
     "source": "The Block",
     "type": "rss",
@@ -110,6 +250,16 @@
     "created_at": "2026-07-21T12:57:08.000Z"
   },
   {
+    "id": "5d0120b2-52b3-4bb2-aea4-3710974dd3f2",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Strategy's Bitcoin reserve now provides 31 years of dividend coverage, with its $3.2B USD reserve adding another 1.8 years, per exec Chaitanya Jain.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1f824bf5",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T12:55:10+00:00"
+  },
+  {
     "id": "14442017-7340-4b23-b673-674838eaab06",
     "source": "Bitcoin Magazine",
     "type": "rss",
@@ -140,6 +290,16 @@
     "created_at": "2026-07-21T12:33:56.000Z"
   },
   {
+    "id": "3b78a50f-cd5c-477d-a402-20550d1815a6",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "BESSENT SAYS US FROZE $130M CRYPTO WALLET TIED TO IRAN'S IRGCTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#17299b88",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-21T12:09:30+00:00"
+  },
+  {
     "id": "d5e0498b-e222-4e09-9ffe-ccb268aef074",
     "source": "Bitcoin Magazine",
     "type": "rss",
@@ -148,6 +308,16 @@
     "url": "https://bitcoinmagazine.com/news/mallers-steps-down-from-bitcoin-twenty-one",
     "author": "Mathew Di Salvo&nbsp;and&nbsp;Micah Zimmerman",
     "created_at": "2026-07-21T12:07:40.000Z"
+  },
+  {
+    "id": "f483ed18-4917-4fa0-8cda-92a4be0936e8",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Kuwait says Iranian attacks damaged desalination facilities and power stations, while Iran meets with war mediators in Pakistan.Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#2f4d3323",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-21T12:06:13+00:00"
   },
   {
     "id": "69fb9557-ddc9-421d-826f-15c13fb0b525",
@@ -260,7 +430,7 @@
     "created_at": "2026-07-21T10:45:07+00:00"
   },
   {
-    "id": "2cd80df0-24c9-450c-93d0-fd5e80fa9fc9",
+    "id": "1b3c42f6-ba87-49b5-b7a5-beabf43fc738",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "The US and China will hold AI talks in September, with Treasury Secretary Scott Bessent leading the US delegation | per ReutersTwitter",
@@ -270,7 +440,7 @@
     "created_at": "2026-07-21T10:35:47+00:00"
   },
   {
-    "id": "0d7414dd-eadf-4db0-a732-bd6f1370eadd",
+    "id": "f3a92638-95c5-4d31-bf52-8f43cb8d31a1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇪🇸 IRS to take a cut of Spain's $51,000,000 FIFA World Cup prize.@WatcherGuru",
@@ -488,15 +658,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#f3e8d919",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-21T08:10:07+00:00"
-  },
-  {
-    "id": "e2d15461-6d34-410e-9dba-a3fc7137268f",
-    "source": "The Block",
-    "type": "rss",
-    "title": "London Stock Exchange plans overnight venue to extend trading hours: FT",
-    "summary": "1. London Stock Exchange plans an overnight venue as traditional exchanges extend trading hours amid competition from 24/7 crypto platforms.",
-    "url": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-07-21T07:57:02.000Z"
   }
 ]
