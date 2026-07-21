@@ -1,5 +1,315 @@
 [
   {
+    "id": "238c722a-cddd-4149-b1fe-c64659ddfd2f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. Treasury secretary says Clarity Act is nearing the final hurdle",
+    "summary": "U.S. Treasury Secretary Scott Bessent said the Clarity Act is nearing the final hurdle, according to Bloomberg.",
+    "url": "https://t.me/CoinnessGL#577aaed6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-21T16:25:24+00:00"
+  },
+  {
+    "id": "04b31fb8-366a-495c-b13d-88ef3543cd87",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "U.S. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’",
+    "summary": "1. Bitcoin Magazine\n\nU.S.\n2. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’\nSenate negotiators say the Clarity Act is \"almost there\" as Treasury Secretary Scott Bessent calls it the \"1-yard line,\" with lawmakers racing to pass the crypto market-structure bill before the August recess.\n3. This post U.S.",
+    "url": "https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-21T16:21:17.000Z"
+  },
+  {
+    "id": "3a4cf2e0-0104-4ee7-a366-515c095853c2",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
+    "summary": "1. The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
+    "url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-21T16:20:29.000Z"
+  },
+  {
+    "id": "1e960655-a930-4c5a-9fb1-657e113e334d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
+    "summary": "1. Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.",
+    "url": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-21T16:19:24.000Z"
+  },
+  {
+    "id": "7397820f-d1ad-40ff-b3de-cd5580aef2e2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+    "summary": "1. The crypto financial services firm is funding developers to strengthen the blockchain's security before quantum computers become powerful enough to steal billions in crypto.",
+    "url": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
+    "author": "Olivier Acuna",
+    "created_at": "2026-07-21T16:16:14.000Z"
+  },
+  {
+    "id": "afd014b9-edc5-45a4-95c1-0423b05a13fc",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Instagram now lets you swap out the music in your old posts",
+    "summary": "1. With the new \"Replace Audio,\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
+    "url": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-21T16:15:00.000Z"
+  },
+  {
+    "id": "c6fbd543-a54c-4542-b956-463b0f4a2e47",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "BIS warns stablecoins could weaken capital controls in emerging markets",
+    "summary": "1. Researchers found dollar-backed stablecoins are less affected by capital controls than traditional bank deposits, raising new questions about monetary sovereignty in emerging markets.",
+    "url": "https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-21T16:11:54.000Z"
+  },
+  {
+    "id": "8c075c65-b14e-4e39-925f-05089154ed61",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitget plans US expansion ‘with or without’ Clarity Act, CEO says",
+    "summary": "1. Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S.\n2. after initially shelving expansion plans in 2022.",
+    "url": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
+    "author": "Kyle Baird",
+    "created_at": "2026-07-21T16:11:41.000Z"
+  },
+  {
+    "id": "81de1692-99bb-477c-9c1b-324be4438375",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs",
+    "summary": "1. “Uphold customers can now sell Bitcoin to buy Berkshire Hathaway shares in a single step on the app,\" the company's U.S.\n2. president said.",
+    "url": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-07-21T16:08:50.000Z"
+  },
+  {
+    "id": "21d3509d-96a1-498e-a46b-8aa2bdfa7848",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+    "summary": "1. XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.",
+    "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-21T16:06:20.000Z"
+  },
+  {
+    "id": "8bf4ad6f-ad8d-4817-b7c7-3cf5fc9e83b4",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇯🇴 President Trump announces trade deal with Jordan.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#55774f89",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T16:01:58+00:00"
+  },
+  {
+    "id": "493b6ae2-7803-4f98-ac2f-fcff679b551e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. crypto-related stocks open higher",
+    "summary": "The three major U.S. stock indices were not specified, but U.S. crypto-related stocks were trading higher today. Circle (CRCL) was up 7.28%, MARA Holdings (MARA) 6.56%, SharpLink (SBET) 2.52%, Robinhood (HOOD) 8.34%, Bullish (BLSH) 7.71%, Coinbase (COIN) 12.15%, and Strategy (MSTR) 4.65%.",
+    "url": "https://t.me/CoinnessGL#c31476e7",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-21T16:01:24+00:00"
+  },
+  {
+    "id": "ff8edf3f-eb6e-4be8-b5c2-b9c9730cafae",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Threads rolls out parental supervision tools",
+    "summary": "1. With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
+    "url": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-21T16:00:00.000Z"
+  },
+  {
+    "id": "a0ee2ac9-0704-4731-91f8-bc3521721998",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Tokenized stocks grew more than 5x in market cap over the past year to reach $1.7B, while monthly transfer volume surged 170x to $9.22B in June, per a16z crypto.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#c9026e3c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T15:55:09+00:00"
+  },
+  {
+    "id": "6fb20cb2-4860-4025-9a6d-d74acae68ade",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. Congress holds bipartisan talks on ethics provisions in Clarity Act",
+    "summary": "Bipartisan talks are underway in the U.S. Congress over ethics provisions in the Clarity Act, a crypto market structure bill, Crypto in America host Eleanor Terrett said on X. Negotiators are also discussing DeFi-related provisions, but the main sticking point at this stage is the ethics language.A spokesperson for Sen. Cynthia Lummis said discussions with the White House last week went smoothly and that a draft of the ethics provisions, due to be released in the coming days, will reflect those productive talks.",
+    "url": "https://t.me/CoinnessGL#62595eab",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-21T15:53:32+00:00"
+  },
+  {
+    "id": "9cbf176e-b1fd-451c-9570-901600aef397",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "MEXC adds Bittensor TAO staking for its global user base",
+    "summary": "1. The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized subnets.",
+    "url": "https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-07-21T15:53:08.000Z"
+  },
+  {
+    "id": "7c5b80b8-7e9d-4f96-a0f8-1070679d1601",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Jack Mallers Exits Twenty One Capital as $2.9B Bitcoin Treasury Gets New Leadership",
+    "summary": "1. Jack Mallers stepped down as chief executive of Twenty One Capital effective July 20, and the board named director Raphael Zagury as his replacement.\n2. Mallers co-founded Twenty One Capital and led the company through its December 2025 debut on the New York Stock Exchange (NYSE) via a merger with Cantor Equity Partners.\n3. He and the […]",
+    "url": "https://news.bitcoin.com/jack-mallers-exits-twenty-one-capital-as-2-9b-bitcoin-treasury-gets-new-leadership/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-21T15:44:29.000Z"
+  },
+  {
+    "id": "e9ce9b98-af82-416a-b34a-37f39b3f8fa0",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Micron Technology $MU rises over 10% after Bank of America adds it to its list of \"best investment ideas.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#703d2533",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T15:41:35+00:00"
+  },
+  {
+    "id": "03131554-a12b-4f35-ab11-02c836fc624c",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "summary": "1. Treasury Secretary Scott Bessent said the U.S.\n2. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "author": "Rebecca Bellan",
+    "created_at": "2026-07-21T15:37:05.000Z"
+  },
+  {
+    "id": "4e8cca0d-3c98-4a41-b612-6412adc852a5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Coinbase says ‘low-risk’ config change behind 50-minute July 14 outage impacting trading, card transactions",
+    "summary": "1. Coinbase said user funds were never at risk, and user transactions that were stuck “in-flight” were completed once service was restored.",
+    "url": "https://www.theblock.co/post/409105/coinbase-says-low-risk-config-change-behind-50-minute-july-14-outage-impacting-trading-card-transactions?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-07-21T15:35:21.000Z"
+  },
+  {
+    "id": "6572893f-51b0-4cee-be6a-fac94deba753",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Odds of the Federal Reserve raising interest rates this year surge to 62%@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5ca5fac4",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T15:29:00+00:00"
+  },
+  {
+    "id": "30d2c9ec-8cda-4f70-b08e-c0441596dd9f",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "TRUMP SAYS IRAN WANTS TO DESPERATELY MEET, US HAVE NO INTERESTTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#fe9ea3f1",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-21T15:23:36+00:00"
+  },
+  {
+    "id": "727049b1-a65c-4a9c-b216-3254854b353c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇬🇧 The London Stock Exchange plans to launch a night-time trading venue in H1 2027 to offer round-the-clock access to ETPs.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a2db6031",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T15:20:07+00:00"
+  },
+  {
+    "id": "22f0c0bc-c23c-4a8d-b4bc-0e689e51f59f",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
+    "summary": "1. While citizens still cannot use Bitcoin to buy groceries, the Kremlin is officially letting companies use digital tokens to bypass sanctions and other global trade hurdles.",
+    "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
+    "author": "Olivier Acuna",
+    "created_at": "2026-07-21T15:19:44.000Z"
+  },
+  {
+    "id": "8ee346a7-9b60-4541-90a2-231344e04113",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks\nBitcoin's price jumped Tuesday to nearly $67,000 per coin, bringing crypto stocks with it.\n2. This post Bitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-price-67000-lifting-crypto-stocks",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-21T15:19:31.000Z"
+  },
+  {
+    "id": "59d9fd8f-5dda-4d24-89c5-8e7f18a898f9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
+    "summary": "1. Bitcoin and crypto joined US stocks in brushing off US-Iran war escalation and the threat of fresh trade tariffs before the end of the month.",
+    "url": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-21T15:14:37.000Z"
+  },
+  {
+    "id": "be510ad4-d0e1-4b32-beb7-ed698cc7ff63",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Blame immigration chaos on Biden and Harris — not Trump:",
+    "url": "https://trumpstruth.org/statuses/40167",
+    "author": "Trump Truth",
+    "created_at": "2026-07-21T15:03:07.000Z"
+  },
+  {
+    "id": "4aafe097-4a75-46d3-baa3-5ba0273e7fbd",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Why permanent daylight saving time may be better for your health:",
+    "url": "https://trumpstruth.org/statuses/40168",
+    "author": "Trump Truth",
+    "created_at": "2026-07-21T15:02:35.000Z"
+  },
+  {
+    "id": "5df2d9b3-96d1-4154-afb6-3c5188983c83",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Trump has reportedly agreed to ethics language in the CLARITY Act, potentially clearing a key hurdle toward a Senate vote.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e3280209",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T14:45:08+00:00"
+  },
+  {
+    "id": "7c520e9b-7a70-46eb-9e16-e271240475a1",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets",
+    "summary": "1. Bitcoin Magazine\n\nU.S.\n2. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets\nTreasury Secretary Scott Bessent said the U.S.\n3. froze a $130 million crypto wallet linked to Iran's IRGC as part of a broader effort to track and seize assets tied to Supreme Leader Ali Khamenei and increase economic pressure on Tehran.",
+    "url": "https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-21T14:42:30.000Z"
+  },
+  {
+    "id": "01bf5ba2-00ba-439c-9601-973cba3c6a49",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "SpaceX Slide and Kimi K3 Launch Fuel Fears of AI Stock Bubble",
+    "summary": "1. SpaceX’s 47% retreat from its post-IPO high and Moonshot AI’s low-cost Kimi K3 model are challenging premium AI valuations, although resilient semiconductor shares and evidence of AI adoption complicate claims that the broader trade has collapsed.\n2. SpaceX Decline Tests Confidence in Premium AI Valuations Uncertainty surrounding AI-linked equities has intensified as investors weigh a temporary […]",
+    "url": "https://news.bitcoin.com/spacex-slide-and-kimi-k3-launch-fuel-fears-of-ai-stock-bubble/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-21T14:33:59.000Z"
+  },
+  {
     "id": "5f6e923e-249a-42c1-96fa-2a0e35cbb5e9",
     "source": "TechCrunch",
     "type": "rss",
@@ -290,7 +600,7 @@
     "created_at": "2026-07-21T12:33:56.000Z"
   },
   {
-    "id": "3b78a50f-cd5c-477d-a402-20550d1815a6",
+    "id": "514141d5-20e5-4721-b707-ffce1ce86828",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BESSENT SAYS US FROZE $130M CRYPTO WALLET TIED TO IRAN'S IRGCTwitter",
@@ -310,7 +620,7 @@
     "created_at": "2026-07-21T12:07:40.000Z"
   },
   {
-    "id": "f483ed18-4917-4fa0-8cda-92a4be0936e8",
+    "id": "c92746d4-2bbe-4700-99c5-ed2fe9ef75c0",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Kuwait says Iranian attacks damaged desalination facilities and power stations, while Iran meets with war mediators in Pakistan.Twitter",
@@ -468,195 +778,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#086bd837",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-21T10:30:11+00:00"
-  },
-  {
-    "id": "3705d018-3fc7-4264-93e4-b7c894892deb",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin price gains to $66.3K as range breakout attempt sparks one-month high",
-    "summary": "1. Bitcoin beat out local resistance to pass $66,000 amid predictions of as much as 6% BTC price upside if momentum continued.",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-hits-663k-as-range-breakout-attempt-sparks-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-07-21T10:26:35.000Z"
-  },
-  {
-    "id": "6797791a-0b01-4ecf-a825-eb309e141d9e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "JustLend DAO burns $34.6M in JST in Q2, cumulative burn rate reaches 17.29%",
-    "summary": "JustLend DAO, a lending platform based on Tron (TRX), said it burned about 355.02 million JST, worth about $34.59 million, in the second quarter. Revenue from USDJ stablecoin stabilization fees was used to burn about 106.66 million JST, or about $10.39 million, accounting for 30.04% of the quarter's burned amount.As a result, about 1.71125 billion JST has been permanently burned since October 2025, equivalent to 17.29% of total supply and worth about $94.62 million. JustLend DAO said about $21.55 million is expected to be used for buybacks in the third quarter, although the figure could vary depending on actual revenue.",
-    "url": "https://t.me/CoinnessGL#61c01a0b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T10:17:41+00:00"
-  },
-  {
-    "id": "1f1e7155-9174-4613-8fde-e4f460715a86",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing",
-    "summary": "1. The asset manager's S-1 for a spot WLD fund would be the first U.S.\n2. ETF tied to Sam Altman's biometric crypto project.",
-    "url": "https://decrypt.co/373913/worldcoins-wld-jumps-8-on-grayscale-etf-filing",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-21T10:16:58.000Z"
-  },
-  {
-    "id": "577bad67-bafe-4875-90ad-16939b4c0ad7",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "BTC Reclaims 66K as CMC F&G Index Returns to NeutralBTC has recovered nearly 12%...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#79b30c1e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T10:05:06+00:00"
-  },
-  {
-    "id": "2b75894a-bcf0-4c0e-b46a-5760536c6a59",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
-    "summary": "1. Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
-    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-07-21T10:00:00.000Z"
-  },
-  {
-    "id": "f4e5c824-7970-4a74-8134-99e7be799729",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Bettors Give BTC 70% Odds of Hitting $67,500 in July as Traders Eye a Rebound From $65K",
-    "summary": "1. Polymarket traders are pricing a 70% chance that bitcoin (BTC) touches $67,500 at some point in July, up from roughly 56% odds cited earlier this week, as the asset trades near $66,000.\n2. A Market Betting on a Modest Bounce Polymarket’s “What price will Bitcoin hit in July” market prices a range of outcomes rather than […]",
-    "url": "https://news.bitcoin.com/bitcoin-polymarket-odds-67500-july-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-21T09:30:30.000Z"
-  },
-  {
-    "id": "8eae0cb2-a60b-44ce-9ef8-7a72885cabcc",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "UK Lawmakers Launch Inquiry Into Crypto Banking Access",
-    "summary": "1. A cross-party group is examining why UK banks block accounts and payments for crypto firms—and whether it's holding the sector back.",
-    "url": "https://decrypt.co/373910/uk-lawmakers-launch-inquiry-into-crypto-banking-access",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-21T09:05:35.000Z"
-  },
-  {
-    "id": "8489efde-d5d9-4712-90f1-6c8d1e3696b9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "CoinShares launches UCITS platform targeting Europe’s institutional investors",
-    "summary": "1. CoinShares is expanding into Europe's $30 trillion UCITS ecosystem with the launch of a new platform and a Bitcoin Mining ETF.",
-    "url": "https://www.theblock.co/post/409029/coinshares-launches-europe-ucits-platform?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-07-21T08:57:55.000Z"
-  },
-  {
-    "id": "9915b57e-2887-48d9-ab62-1976582e88f6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "UK parliamentary group probes banking barriers for crypto firms",
-    "summary": "1. A UK parliamentary group launched an inquiry into banking restrictions on crypto firms and consumers, including their impact on investment and competition.",
-    "url": "https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-21T08:51:06.000Z"
-  },
-  {
-    "id": "f2665f45-0dc1-4c2f-99c6-90a9865a7267",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-21T08:48:14.000Z"
-  },
-  {
-    "id": "044268da-6781-46e6-8092-4fc814ea26a1",
-    "source": "Politico",
-    "type": "rss",
-    "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
-    "summary": "1. There’s a power struggle brewing in South Carolina, and Trump might not win.",
-    "url": "https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834",
-    "author": "By Samuel Benson, Erin Doherty and Liz Crampton",
-    "created_at": "2026-07-21T08:45:00.000Z"
-  },
-  {
-    "id": "b6231ae6-f5a9-48e5-8346-b3920ebcf053",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "White House Strikes CLARITY Act Ethics Deal as Trump Clears Senate’s Final Hurdle",
-    "summary": "1. The White House has agreed on an ethics package for the CLARITY Act and sent the language to Senate Republicans.\n2. President Donald Trump personally signed off on the provision, clearing what negotiators call the bill’s last major obstacle before a Senate floor vote.\n3. A Fresh Push After Months of Deadlock The Digital Asset Market CLARITY […]",
-    "url": "https://news.bitcoin.com/white-house-clarity-act-ethics-deal-trump/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-21T08:30:25.000Z"
-  },
-  {
-    "id": "b7999360-0a3d-4541-9639-d9a9aa4f3272",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "CoinShares to launch Bitcoin mining UCITS ETF in Europe",
-    "summary": "Crypto asset manager CoinShares plans to launch a Bitcoin mining UCITS ETF in Europe, The Block reported on X. UCITS, the European Union’s public-fund market, is known to be worth $30 trillion. The launch is aimed at major European institutional investors, including pension funds, insurers and private banks, and the company also plans to roll out a new platform locally for that effort.",
-    "url": "https://t.me/CoinnessGL#bf343ad3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T08:29:24+00:00"
-  },
-  {
-    "id": "8313af2b-2afa-4a6f-8da8-149a995f91f7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC drop below $64,879 could trigger $647.6M in long liquidations",
-    "summary": "If BTC falls below $64,879, about $647.59 million in long positions could be liquidated across major centralized exchanges, according to CoinGlass data. If BTC rises above $66,839, about $387.21 million in short positions could be liquidated.",
-    "url": "https://t.me/CoinnessGL#d747cb14",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T08:28:35+00:00"
-  },
-  {
-    "id": "c2faab5d-0256-4657-8030-9f67fe056f05",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Binance Founder CZ says \"crypto is not going away.\"\"AI will need to use money.",
-    "summary": "You will need money.\"@WatcherGuru",
-    "url": "https://t.me/WatcherGuru#ce48bcbe",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T08:18:49+00:00"
-  },
-  {
-    "id": "9f5b015b-5216-4684-b563-84d8a2ec1362",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "DEXE risen 4.64% in the past 5 minutes",
-    "summary": "DEXE has risen by 4.64% in the past five minutes on the COINNESS market. Currently, DEXE is trading at $42.74.",
-    "url": "https://t.me/CoinnessGL#5fb42f8c",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T08:13:59+00:00"
-  },
-  {
-    "id": "4c35b3a4-7f35-4e96-905d-db162bb1facd",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📉 Peter Brandt told Cointelegraph he expects Bitcoin to bottom on Oct.",
-    "summary": "4, with prices potentially dipping into the high $40,000s first.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ae2e1e61",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T08:10:12+00:00"
-  },
-  {
-    "id": "f7eddfc1-b5d0-428a-968a-b0ac337ed838",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Which crypto community is always in the comments?",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#54fdaa09",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T08:10:09+00:00"
-  },
-  {
-    "id": "dacda548-347b-4ed2-908d-336aecda81af",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📈 IREN shares jumped 16% on Monday after the Bitcoin miner raised its year-end AI cloud revenue target above $4B on $2.8B in new multi-year contracts with AI developers.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f3e8d919",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T08:10:07+00:00"
   }
 ]
