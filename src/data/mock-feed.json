@@ -1,5 +1,215 @@
 [
   {
+    "id": "e2292989-f9a0-4501-81f2-d30fa63794d6",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-21T13:41:08.000Z"
+  },
+  {
+    "id": "9508aa56-e518-4cd2-b9a9-1cd06a46c97f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-21T13:41:08.000Z"
+  },
+  {
+    "id": "63254619-3d76-4962-9724-94c96ff12ec7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "summary": "1. Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "author": "Ivan Mehta",
+    "created_at": "2026-07-21T13:27:42.000Z"
+  },
+  {
+    "id": "fc724010-012c-4540-97ae-697e48b36079",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2",
+    "summary": "1. Aztec V5 focuses on supporting \"client-side proving,\" enabling computation-heavy ZK proofs on simple devices like phones and laptops.",
+    "url": "https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-07-21T13:20:40.000Z"
+  },
+  {
+    "id": "a7c21d78-9658-49bf-8b5c-47afb84cfcd6",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+    "summary": "1. Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co.",
+    "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+    "author": "Dominic-Madori Davis",
+    "created_at": "2026-07-21T13:20:00.000Z"
+  },
+  {
+    "id": "c53a2fa5-f7b7-4af1-a595-7cc7969da1f9",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Robinhood-backed DEX Arcus expands with tokenized assets, perps",
+    "summary": "1. Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Robinhood Chain as platforms compete to bring traditional assets onchain.",
+    "url": "https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-21T13:16:22.000Z"
+  },
+  {
+    "id": "8b584b9a-4671-4b11-983a-97038ba9f69a",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade",
+    "summary": "1. Bitcoin Magazine\n\nRussia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade\nRussia's parliament passed its first comprehensive crypto law, creating a state-regulated framework for exchanges and investors.\n2. This post Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/russia-passes-landmark-crypto-law",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-21T13:15:41.000Z"
+  },
+  {
+    "id": "bed40828-c1ef-483a-9d98-1f17e24ea0c5",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs",
+    "summary": "1. Jito Labs launched JTX, a self-custodial Solana trading platform with spot trading for tokens and tokenized RWAs.",
+    "url": "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-21T13:05:01.000Z"
+  },
+  {
+    "id": "76b8cc92-d2ed-40be-9da5-f6c4185b5abb",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Morpho launches fixed-rate lending protocol Midnight on Base to expand onchain credit markets",
+    "summary": "1. Morpho has launched Midnight, a fixed-rate, fixed-term lending protocol on Base that complements its existing variable-rate lending protocol.",
+    "url": "https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-07-21T13:00:00.000Z"
+  },
+  {
+    "id": "9afecfe0-edaf-4391-99e7-4d9714fe3c73",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Morpho launches fixed-rate lending protocol on Base",
+    "summary": "1. Morpho Midnight introduces fixed rates and defined maturities alongside Morpho Blue’s variable-rate lending markets.",
+    "url": "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-21T13:00:00.000Z"
+  },
+  {
+    "id": "955e47e3-3cad-4897-9f0e-2fa8e036289e",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The latest one of 52,000, plus, innocent protesters.\n2. When will the Dumocrats wake up???\n3. President DJT",
+    "url": "https://trumpstruth.org/statuses/40166",
+    "author": "Trump Truth",
+    "created_at": "2026-07-21T12:57:08.000Z"
+  },
+  {
+    "id": "14442017-7340-4b23-b673-674838eaab06",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Galaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat",
+    "summary": "1. Bitcoin Magazine\n\nGalaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat\nGalaxy Digital launched a Bitcoin Quantum Readiness Initiative to help prepare the Bitcoin network for the potential threat posed by powerful quantum computers.\n2. This post Galaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/galaxy-glxy-commits-5-million",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-21T12:54:28.000Z"
+  },
+  {
+    "id": "358e96bd-eddb-4507-a1d1-e5a2f0e2295d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
+    "summary": "1. The proposed three-way merger between Twenty One Capital, Mallers' Strike, and Elektron Energy has been abandoned.",
+    "url": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-21T12:42:29.000Z"
+  },
+  {
+    "id": "ad490ad0-3a45-4ea3-b153-c02916a3f128",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "ARK Buys the Dip on Musk’s SpaceX for $20.5 Million While Cathie Wood Trims Robinhood Stake",
+    "summary": "1. Cathie Wood’s ARK Invest bought 170,634 shares of SpaceX (Nasdaq: SPCX) worth $20.5 million on July 20 as the stock traded near $119.85, even as the company’s shares remain well below their initial public offering (IPO) price.\n2. The same day, ARK sold 41,322 shares of Robinhood (Nasdaq: HOOD) worth $4.1 million.\n3. A Familiar Pattern of […]",
+    "url": "https://news.bitcoin.com/ark-invest-spacex-robinhood-trade-july-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-21T12:33:56.000Z"
+  },
+  {
+    "id": "d5e0498b-e222-4e09-9ffe-ccb268aef074",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Jack Mallers Steps Down as CEO of Bitcoin Treasury Twenty One Capital ",
+    "summary": "1. Bitcoin Magazine\n\nJack Mallers Steps Down as CEO of Bitcoin Treasury Twenty One Capital \nJack Mallers has stepped down as CEO of bitcoin treasury Twenty One.\n2. This post Jack Mallers Steps Down as CEO of Bitcoin Treasury Twenty One Capital  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo and Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/mallers-steps-down-from-bitcoin-twenty-one",
+    "author": "Mathew Di Salvo&nbsp;and&nbsp;Micah Zimmerman",
+    "created_at": "2026-07-21T12:07:40.000Z"
+  },
+  {
+    "id": "69fb9557-ddc9-421d-826f-15c13fb0b525",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
+    "summary": "1. The crypto firm's initiative arrives as researchers, exchanges, and the U.S.\n2. government warn that \"Q-Day\" may land as soon as 2030.",
+    "url": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-21T12:01:03.000Z"
+  },
+  {
+    "id": "fe29e295-0af0-4e5f-927e-8a924125ce8b",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: The Clarity Act Has New Life",
+    "summary": "1. Odds of the Clarity Act passing in 2026 jumped to 42% after a surprising new development from the White House.",
+    "url": "https://decrypt.co/373924/morning-minute-the-clarity-act-has-new-life",
+    "author": "Tyler Warner",
+    "created_at": "2026-07-21T11:57:23.000Z"
+  },
+  {
+    "id": "9a64efa3-52f9-45c0-a0dd-70e03b654bd7",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Pakistan Launches Crypto Investigation Unit to Fight Money Laundering",
+    "summary": "1. Islamabad is building the enforcement side of its crypto push, standing up a unit to police money laundering even as it licenses exchanges.",
+    "url": "https://decrypt.co/373922/pakistan-launches-crypto-investigation-unit-to-fight-money-laundering",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-21T11:40:48.000Z"
+  },
+  {
+    "id": "c32440f0-a0a5-4064-8d61-285ba28accfc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
+    "summary": "1. Your day-ahead look for July 21, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-21T11:37:22.000Z"
+  },
+  {
+    "id": "fc8f01cd-638d-4752-91f8-4247291a7080",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Jim Cramer Calls the Market ‘Miserable’ as Oil, Tariffs, and Fed Hawkishness Rattle Wall Street",
+    "summary": "1. “Miserable market for the moment,” Jim Cramer said on July 21, describing the mood on Wall Street as oil prices, tariff uncertainty and a more hawkish Federal Reserve weigh on stocks.\n2. Not the First Time He’s Reached for That Word Cramer’s comment is not an isolated outburst given that he used nearly identical language in […]",
+    "url": "https://news.bitcoin.com/jim-cramer-miserable-market-oil-fed-july-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-21T11:30:29.000Z"
+  },
+  {
+    "id": "82049764-9188-4760-ade3-06704b272c07",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
+    "summary": "1. Bettors moved the crypto market structure bill to a 43% chance of passing this year, up from a record low last week, though the reports remain unconfirmed and no bill text has appeared.",
+    "url": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-21T11:19:18.000Z"
+  },
+  {
     "id": "f1405ef6-f485-4228-8faf-a0bcf0b61208",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
@@ -288,125 +498,5 @@
     "url": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss",
     "author": "Brian Danga",
     "created_at": "2026-07-21T07:57:02.000Z"
-  },
-  {
-    "id": "486b6339-e067-4beb-b099-dc64454329a1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "$66,000 Bitcoin@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#671a5af3",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T07:35:57+00:00"
-  },
-  {
-    "id": "16e68858-f442-47e9-9a3d-95b78dc78450",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘The Next Crisis Has Already Begun’: Europe’s Top Official Urges FIFA to Act",
-    "summary": "1. Council of Europe Secretary General Alain Berset has urged FIFA to begin work on a new integrity framework for the 2030 World Cup, directly linking player-action betting and FIFA’s own prediction-market sponsorship with an increased risk of match manipulation.\n2. FIFA’s Promised Safeguards May Not be Sufficient Council of Europe Secretary General Alain Berset called […]",
-    "url": "https://news.bitcoin.com/the-next-crisis-has-already-begun-europes-top-official-urges-fifa-to-act/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-21T07:30:27.000Z"
-  },
-  {
-    "id": "616e4492-a343-4317-ae78-9915d664bdf1",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin ETFs post five-day inflow streak, longest since May",
-    "summary": "1. US spot Bitcoin ETFs recorded $227 million in inflows as BTC climbed above $65,000, extending their longest winning streak since early May.",
-    "url": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-21T07:28:29.000Z"
-  },
-  {
-    "id": "03201d05-1e15-4911-b86f-3c6197a95ba9",
-    "source": "The Block",
-    "type": "rss",
-    "title": "UK parliamentary group launches probe into crypto sector’s banking challenges",
-    "summary": "1. This comes weeks after the publication of the UK’s new crypto regulatory framework, set to take effect in October 2027.",
-    "url": "https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges?utm_source=rss&utm_medium=rss",
-    "author": "Danny Park",
-    "created_at": "2026-07-21T07:26:25.000Z"
-  },
-  {
-    "id": "cad9b07a-a324-47fc-8249-0f59360ca8d0",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-    "summary": "1. XRP pushed higher over 24 hours and tested short-term resistance, but the larger chart still needs a clean break above the $1.24-$1.28 supply zone to confirm a stronger reversal.",
-    "url": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-21T07:21:04.000Z"
-  },
-  {
-    "id": "585a8718-16ad-4cda-8b2a-15993c35208a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "summary": "1. The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-first strategy.",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Yohan Yun",
-    "created_at": "2026-07-21T07:06:12.000Z"
-  },
-  {
-    "id": "f898d01b-cfa0-4832-a6b8-483847e0df82",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
-    "summary": "1. The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.",
-    "url": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-21T06:42:52.000Z"
-  },
-  {
-    "id": "105fcaa3-8a8b-4c1b-9a7c-35943c6c12b9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Hut 8 Secures $9.8 Billion Texas AI Lease as Bitcoin Miners Pivot to Compute",
-    "summary": "1. Hut 8 has signed a second 15-year lease for 352 megawatts of AI capacity at its Beacon Point campus in Texas.\n2. The deal doubles the tenant’s commitment and highlights a wider shift by bitcoin miners toward long-term data center contracts.\n3. Hut 8 Doubles Beacon Point Tenant Footprint With a Second AI Lease Hut 8 has […]",
-    "url": "https://news.bitcoin.com/hut-8-secures-9-8-billion-texas-ai-lease-as-bitcoin-miners-pivot-to-compute/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-21T06:30:53.000Z"
-  },
-  {
-    "id": "fb29c375-a996-4c4c-a4d3-a2704fa9b9a5",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-    "summary": "1. The UK’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions.",
-    "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-    "author": "Ian Allison",
-    "created_at": "2026-07-21T06:15:26.000Z"
-  },
-  {
-    "id": "d680199a-62ff-43b8-a708-e36410994f2c",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-21T05:50:34.000Z"
-  },
-  {
-    "id": "f5b7c5db-063b-4177-b283-aeed4f481e9b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
-    "summary": "1. Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.",
-    "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-21T05:34:00.000Z"
-  },
-  {
-    "id": "8f1b3d98-0e78-459b-9a5b-5e287cae1679",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Taiwan Court Jails Cointhink Fraud Leader for 22 Years After USDT Scheme Hit 1,539 People",
-    "summary": "1. A Taiwan court sentenced the leader of a major crypto fraud ring, a man surnamed Shih, to 22 years in prison.\n2. In total, 14 people were indicted.\n3. Deceptive Credentials Exploited Victims The mastermind of a major cryptocurrency scam operating under the name Cointhink Technology has been sentenced to 22 years in prison after a network […]",
-    "url": "https://news.bitcoin.com/taiwan-court-jails-cointhink-fraud-leader-for-22-years-after-usdt-scheme-hit-1539-people/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-21T05:30:28.000Z"
   }
 ]
