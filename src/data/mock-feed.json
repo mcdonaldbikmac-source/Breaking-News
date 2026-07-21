@@ -1,5 +1,295 @@
 [
   {
+    "id": "fe7d1ffe-3f64-4065-ac61-4a7311266f84",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ CoinShares has unveiled a UCITS platform targeting Europe’s €26.3T UCITS fund ecosystem, debuting with a Bitcoin Mining ETF on Deutsche Börse Xetra.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ea3ec249",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T22:00:11+00:00"
+  },
+  {
+    "id": "1e7443be-6b14-4423-a273-1ef20f1cdd80",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Solana Tokenized Assets Hit Record $5.8 Billion in Q2, up 114% as Stock Trading Volume Quadruples",
+    "summary": "1. enized asset volume on Solana reached $5.77 billion in the second quarter of 2026, up 114% from the prior quarter and marking the network’s sixth consecutive quarterly record.\n2. Tokenized equities alone accounted for $4.8 billion of that total.\n3. A Sixth Straight Quarterly Record The Q2 figure did not arrive as a single dramatic spike.",
+    "url": "https://news.bitcoin.com/solana-tokenized-assets-hit-record-5-8-billion-in-q2-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-21T21:53:24.000Z"
+  },
+  {
+    "id": "2db56ec0-11bc-42c7-bc5b-a60e2f651348",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin is NOT Changed by Proof Of Node",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin is NOT Changed by Proof Of Node\nThe proposal to temporarily restrict arbitrary data in Bitcoin transactions lacks economic nodes, protocol developers, and hashrate.\n2. History from the 2017 UASF shows nodes succeed only with broad investor and developer weight behind them.\n3. This post Bitcoin is NOT Changed by Proof Of Node first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "url": "https://bitcoinmagazine.com/technical/bitcoin-is-not-changed-by-proof-of-node",
+    "author": "Juan Galt",
+    "created_at": "2026-07-21T21:36:44.000Z"
+  },
+  {
+    "id": "e9a3c2c3-7941-49a8-8d45-c5982a31ec0a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer ",
+    "summary": "1. According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the “explosive growth of prediction markets.”",
+    "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Turner Wright",
+    "created_at": "2026-07-21T21:36:43.000Z"
+  },
+  {
+    "id": "2acc2038-2ced-4b1e-88e2-a4b0e94907a1",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.217",
+    "summary": "1. ## What's changed\n\n- Added emoji shortcode autocomplete in the prompt input: type `:heart:` to insert ❤️, or `:hea` for suggestions — disable with the `emojiCompletionEnabled` setting\n- Added warnings when transcript writes are failing (e.g.\n2. disk full) or when session saving is off due to an inherited environment variable, instead of losing transcripts silently\n- Fixed a memory leak where truncated MCP tool outputs kept the full untruncated result in memory for the rest of the session\n- Fixed Windows auto-update failures that could leave `claude.exe` missing; failed updates now restore the preserved executable automatically\n- Fixed background session isolation not canonicalizing symlinked working directories, which could let sessions escape their workspace folder\n- Fixed auto-compact never triggering for Claude Opus 4.8 on Bedrock and `/compact` failing once over the limit\n- Fixed corporate mTLS, TLS-verify, OAuth scope, and proxy settings being ignored in Claude Desktop sessions\n- Fixed screen reader mode's startup announcement being cut off by the first prompt render, and the thinking status row re-rendering every few seconds to update elapsed time and token counts\n- Fixed managed settings that set `OTEL_EXPORTER_OTLP_ENDPOINT` not governing all signals — lower-scope signal-specific overrides no longer redirect telemetry away from the managed endpoint\n- Fixed `--resume`/`--continue` and `/resume` failing with a TypeError when a transcript has a malformed attachment entry\n- Fixed Remote Control sessions not showing a pending permission prompt or dialog to viewers that connected after it appeared\n- Fixed background shells sometimes becoming impossible to stop after a session is sent to the background (`/background` or `←`) or when the session exits on a heavily loaded machine, most visible on Windows\n- Fixed a `CLAUDE.md` or `SKILL.md` paths frontmatter value with many brace groups OOM-killing or stalling the CLI at startup — brace expansion is now budget-bounded\n- Fixed the transcript preview sitting flush against the input area when attaching to a starting background session; it now leaves the same one-line gap as the live layout, so the transcript no longer shifts when the session takes over\n- Improved footer PR badge links to be clickable hyperlinks even when terminal support can't be detected (e.g.\n3. over ssh/tmux); set `FORCE_HYPERLINK=0` to opt out\n- Changed the login-expiry warning to appear 3 days before expiry instead of 5\n- Capped the frontend-design plugin suggestion tip at 3 lifetime impressions instead of repeating indefinitely\n- Added a cap on concurrently-running subagents (default 20, override with `CLAUDE_CODE_MAX_CONCURRENT_SUBAGENTS`) so one message can't fan out unbounded background agents\n- Changed subagents to no longer spawn nested subagents by default; set `CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH` to allow deeper nesting\n- Fixed `--max-budget-usd` not stopping background subagents: once the cap is reached, new spawns are denied and running background agents are halted",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
+    "author": "ashwin-ant",
+    "created_at": "2026-07-21T21:35:10Z"
+  },
+  {
+    "id": "cc4608d5-576b-49c6-b019-8eb691719991",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
+    "summary": "1. OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
+    "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-21T21:29:03.000Z"
+  },
+  {
+    "id": "e54d2cfe-e586-4e78-9831-ec220aea91ea",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Jito Labs launched JTX, a self-custodial Solana trading platform offering spot trading in SOL, cbBTC and memecoins alongside tokenized RWAs and ETFs.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2c8717b1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T21:20:07+00:00"
+  },
+  {
+    "id": "10b5cef8-23ec-43b2-a85c-5403346ddd4b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+    "summary": "1. The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway.",
+    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-07-21T21:14:03.000Z"
+  },
+  {
+    "id": "2a2aa7af-61ed-4023-b247-4ba51bd12038",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App\nJack Dorsey's company Block has debuted a decentralized rival to group chat platform Slack.\n2. This post Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/news/jack-dorsey-debuts-chat-app-slack-rival",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-21T21:11:57.000Z"
+  },
+  {
+    "id": "762d0545-6353-42db-877f-c12af25cb853",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies",
+    "summary": "1. Newly approved ethics language signed by President Donald Trump would prohibit federal officials from issuing cryptocurrencies.",
+    "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-07-21T21:11:05.000Z"
+  },
+  {
+    "id": "37333192-8610-425f-bf83-142e36e7c854",
+    "source": "The Block",
+    "type": "rss",
+    "title": "The Digital Chamber sues Illinois over incoming crypto transaction tax",
+    "summary": "1. The Digital Chamber is taking Illinois to court over its decision to pass a law imposing a 0.2% tax on digital asset transactions.",
+    "url": "https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax?utm_source=rss&utm_medium=rss",
+    "author": "Sarah Wynn",
+    "created_at": "2026-07-21T21:05:02.000Z"
+  },
+  {
+    "id": "14c8af73-f681-478b-979b-1d3e1776bdcc",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil ",
+    "summary": "1. The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
+    "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-21T20:59:32.000Z"
+  },
+  {
+    "id": "4a910653-5ad8-42c6-91b7-0923df4d09d8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "These are the countries moving to ban social media for children",
+    "summary": "1. Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+    "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-21T20:57:35.000Z"
+  },
+  {
+    "id": "320a23b6-b753-4f14-ba4f-1cf0d9cfcfb1",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "summary": "1. OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "author": "Russell Brandom",
+    "created_at": "2026-07-21T20:56:55.000Z"
+  },
+  {
+    "id": "1e96219e-deed-45c7-a7e3-06dab96cf346",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇲🇾 Malaysia ordered Balaji Srinivasan's Network School in Forest City to cease operations from July 22 after revoking its business license.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#ebe823d8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T20:45:07+00:00"
+  },
+  {
+    "id": "28c524ce-a8af-4702-93c7-357f8cd3d4da",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Thank you to all of the House Republicans who are supporting the first step towards getting as much of THE SAVE AMERICA ACT, as possible, in the Budget Bill, and to our Great Speaker, Mike Johnson.\n2. I am asking all House Republicans to VOTE YES on this very important Budget Resolution.\n3. I am watching the vote very closely, and hope Republicans can UNIFY to secure Elections against all forms of Foreign Country Interference, and Illegal Alien voting.",
+    "url": "https://trumpstruth.org/statuses/40181",
+    "author": "Trump Truth",
+    "created_at": "2026-07-21T20:44:15.000Z"
+  },
+  {
+    "id": "e952ad90-4513-4fe5-9c5c-71557e895aa8",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Coinbase Wants To Be Canada’s ‘Everything Exchange’ — With Crypto, Stocks, and Prediction Markets",
+    "summary": "1. Bitcoin Magazine\n\nCoinbase Wants To Be Canada’s ‘Everything Exchange’ — With Crypto, Stocks, and Prediction Markets\nCoinbase is working to bring Canadian customers tokenized stocks and prediction markets in a push to become an \"everything exchange.\" \nThis post Coinbase Wants To Be Canada’s ‘Everything Exchange’ — With Crypto, Stocks, and Prediction Markets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/news/coinbase-pushes-for-everything-exchange",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-21T20:43:19.000Z"
+  },
+  {
+    "id": "4779b550-cddc-41cb-b731-92731baa95b6",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation",
+    "summary": "1. Canton Network developer Digital Asset has raised an additional $10 million from Shinhan Financial Group and SC Ventures.",
+    "url": "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-07-21T20:42:34.000Z"
+  },
+  {
+    "id": "8b9ef36f-73f9-447e-9c06-12c084853d3f",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇮🇷🇺🇸 Iran war has cost the United States $37,500,000,000 so far.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5b1e6d84",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T20:39:23+00:00"
+  },
+  {
+    "id": "a4e1b758-6f34-4e73-94fa-23b0215be622",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
+    "summary": "1. Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100.",
+    "url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Marcel Pechman",
+    "created_at": "2026-07-21T20:26:13.000Z"
+  },
+  {
+    "id": "03a811b8-0249-4cf4-b480-baf17fb12eae",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Russia’s Duma Advances Bill 1194918-8, Sending Crypto Law to Putin’s Desk",
+    "summary": "1. Russia’s State Duma passed a bill Tuesday that gives the country its first full legal framework for cryptocurrency, treating digital assets as property while keeping them out of everyday payments.\n2. According to Rossiyskaya Gazeta (rg.ru), lawmakers approved Bill No.\n3. 1194918-8, “On Digital Currency and Digital Rights,” in its second and third readings on July 21.",
+    "url": "https://news.bitcoin.com/russias-duma-advances-bill-1194918-8-sending-crypto-law-to-putins-desk/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-21T20:24:12.000Z"
+  },
+  {
+    "id": "ae1d100a-ec61-4622-ad70-87c266a2873b",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
+    "summary": "1. The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
+    "url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-21T20:20:49.000Z"
+  },
+  {
+    "id": "8a1965ce-9912-4ada-ace8-7e05bd9cc333",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "US stocks close higher",
+    "summary": "The three major U.S. stock indices closed higher today.- S&P 500: +0.89%- Nasdaq: +1.29%- Dow Jones: +0.74%",
+    "url": "https://t.me/CoinnessGL#f4d730ab",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-21T20:06:11+00:00"
+  },
+  {
+    "id": "159484e0-3b45-4bdf-a424-f7a3bdd3d892",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
+    "summary": "1. BTC has rebounded 15% from the July lows, but some analysts cautioned that the next move hinges on clearing a level where many recent buyers may look to sell.",
+    "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-21T20:05:33.000Z"
+  },
+  {
+    "id": "8e1698a3-f7c2-4ed0-9604-62c33baa06ee",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "OpenAI says its AI models escaped a secure test environment and hacked AI company Hugging Face to cheat on an evaluation.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#f6c38b88",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T19:54:55+00:00"
+  },
+  {
+    "id": "92016dbe-d1c7-4836-ab18-dd2910762fb9",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrumpAfghanistan War: 20 years, 2,000 DEAD.\n2. Iraq War: 9 years, 4,600 DEAD.\n3. Vietnam War: 19 years and 5 months, 58,220 DEAD.",
+    "url": "https://trumpstruth.org/statuses/40174",
+    "author": "Trump Truth",
+    "created_at": "2026-07-21T19:54:34.000Z"
+  },
+  {
+    "id": "967814ef-2cc9-4831-8df7-a7a8c26fde14",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. RT @realDonaldTrumpAfter meeting with the President of Lebanon, Joseph Aoun, who has done a remarkable job working to transform his Country, I am hereby directing my Administration to allow all U.S.\n2. airline carriers to fly directly to Lebanon so that Americans can easily visit this beautiful land.\n3. Hopefully, other Countries will do the same.",
+    "url": "https://trumpstruth.org/statuses/40176",
+    "author": "Trump Truth",
+    "created_at": "2026-07-21T19:54:32.000Z"
+  },
+  {
+    "id": "81c7e45e-a066-4a1a-9ebb-f6c88ab63569",
+    "source": "Politico",
+    "type": "rss",
+    "title": "South Carolina Senate poll shows surprising frontrunner: Trey Gowdy",
+    "summary": "1. Gowdy has said he's not interested.\n2. But the poll suggests he would lead a crowded field, which includes the Trump-endorsed Darline Graham, for late Sen.\n3. Lindsey Graham's seat.",
+    "url": "https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741",
+    "author": "By Samuel Benson",
+    "created_at": "2026-07-21T19:47:06.000Z"
+  },
+  {
+    "id": "75a352c8-0c7a-4cfd-85a9-bb30ea7ecee9",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "summary": "1. Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-07-21T19:43:41.000Z"
+  },
+  {
     "id": "206cd9b2-8bc6-4088-bc42-665e4b1ca424",
     "source": "The Defiant",
     "type": "rss",
@@ -110,7 +400,7 @@
     "created_at": "2026-07-21T18:55:45.000Z"
   },
   {
-    "id": "b1e2ab99-0898-4687-bb29-64b70a307598",
+    "id": "37c5316e-931d-4a6b-9bd7-241b6fa20189",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 Ship traffic in the Strait of Hormuz over the past 24 hours as US and Iran continue attacks.@WatcherGuru",
@@ -160,7 +450,7 @@
     "created_at": "2026-07-21T18:34:51+00:00"
   },
   {
-    "id": "78310dc2-7b52-438d-ac5e-35595a7a40d2",
+    "id": "669a042d-d65d-4e08-babd-057fdd069138",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "White House urges Senate Democrats to pass CLARITY compromise after ethics concession",
@@ -240,7 +530,7 @@
     "created_at": "2026-07-21T18:08:03.000Z"
   },
   {
-    "id": "dd593195-1845-4285-ab07-66f7d897e0ab",
+    "id": "4844a4f4-c1ea-48cc-9708-8529e940d9d7",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Movement Labs files for Chapter 11 bankruptcy protection",
@@ -418,305 +708,5 @@
     "url": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss",
     "author": "RT Watson",
     "created_at": "2026-07-21T16:08:50.000Z"
-  },
-  {
-    "id": "21d3509d-96a1-498e-a46b-8aa2bdfa7848",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
-    "summary": "1. XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.",
-    "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-21T16:06:20.000Z"
-  },
-  {
-    "id": "8bf4ad6f-ad8d-4817-b7c7-3cf5fc9e83b4",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇯🇴 President Trump announces trade deal with Jordan.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#55774f89",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T16:01:58+00:00"
-  },
-  {
-    "id": "493b6ae2-7803-4f98-ac2f-fcff679b551e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "U.S. crypto-related stocks open higher",
-    "summary": "The three major U.S. stock indices were not specified, but U.S. crypto-related stocks were trading higher today. Circle (CRCL) was up 7.28%, MARA Holdings (MARA) 6.56%, SharpLink (SBET) 2.52%, Robinhood (HOOD) 8.34%, Bullish (BLSH) 7.71%, Coinbase (COIN) 12.15%, and Strategy (MSTR) 4.65%.",
-    "url": "https://t.me/CoinnessGL#c31476e7",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T16:01:24+00:00"
-  },
-  {
-    "id": "ff8edf3f-eb6e-4be8-b5c2-b9c9730cafae",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Threads rolls out parental supervision tools",
-    "summary": "1. With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
-    "url": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
-    "author": "Aisha Malik",
-    "created_at": "2026-07-21T16:00:00.000Z"
-  },
-  {
-    "id": "a0ee2ac9-0704-4731-91f8-bc3521721998",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Tokenized stocks grew more than 5x in market cap over the past year to reach $1.7B, while monthly transfer volume surged 170x to $9.22B in June, per a16z crypto.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#c9026e3c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T15:55:09+00:00"
-  },
-  {
-    "id": "6fb20cb2-4860-4025-9a6d-d74acae68ade",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "U.S. Congress holds bipartisan talks on ethics provisions in Clarity Act",
-    "summary": "Bipartisan talks are underway in the U.S. Congress over ethics provisions in the Clarity Act, a crypto market structure bill, Crypto in America host Eleanor Terrett said on X. Negotiators are also discussing DeFi-related provisions, but the main sticking point at this stage is the ethics language.A spokesperson for Sen. Cynthia Lummis said discussions with the White House last week went smoothly and that a draft of the ethics provisions, due to be released in the coming days, will reflect those productive talks.",
-    "url": "https://t.me/CoinnessGL#62595eab",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T15:53:32+00:00"
-  },
-  {
-    "id": "9cbf176e-b1fd-451c-9570-901600aef397",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "MEXC adds Bittensor TAO staking for its global user base",
-    "summary": "1. The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized subnets.",
-    "url": "https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-07-21T15:53:08.000Z"
-  },
-  {
-    "id": "7c5b80b8-7e9d-4f96-a0f8-1070679d1601",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Jack Mallers Exits Twenty One Capital as $2.9B Bitcoin Treasury Gets New Leadership",
-    "summary": "1. Jack Mallers stepped down as chief executive of Twenty One Capital effective July 20, and the board named director Raphael Zagury as his replacement.\n2. Mallers co-founded Twenty One Capital and led the company through its December 2025 debut on the New York Stock Exchange (NYSE) via a merger with Cantor Equity Partners.\n3. He and the […]",
-    "url": "https://news.bitcoin.com/jack-mallers-exits-twenty-one-capital-as-2-9b-bitcoin-treasury-gets-new-leadership/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-21T15:44:29.000Z"
-  },
-  {
-    "id": "e9ce9b98-af82-416a-b34a-37f39b3f8fa0",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Micron Technology $MU rises over 10% after Bank of America adds it to its list of \"best investment ideas.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#703d2533",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T15:41:35+00:00"
-  },
-  {
-    "id": "03131554-a12b-4f35-ab11-02c836fc624c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "US threatens sanctions against Chinese AI models over IP theft",
-    "summary": "1. Treasury Secretary Scott Bessent said the U.S.\n2. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "author": "Rebecca Bellan",
-    "created_at": "2026-07-21T15:37:05.000Z"
-  },
-  {
-    "id": "4e8cca0d-3c98-4a41-b612-6412adc852a5",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Coinbase says ‘low-risk’ config change behind 50-minute July 14 outage impacting trading, card transactions",
-    "summary": "1. Coinbase said user funds were never at risk, and user transactions that were stuck “in-flight” were completed once service was restored.",
-    "url": "https://www.theblock.co/post/409105/coinbase-says-low-risk-config-change-behind-50-minute-july-14-outage-impacting-trading-card-transactions?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-21T15:35:21.000Z"
-  },
-  {
-    "id": "6572893f-51b0-4cee-be6a-fac94deba753",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Odds of the Federal Reserve raising interest rates this year surge to 62%@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#5ca5fac4",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T15:29:00+00:00"
-  },
-  {
-    "id": "ddf4bc0c-b3df-436b-a1bb-f3fa8dc8d456",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "TRUMP SAYS IRAN WANTS TO DESPERATELY MEET, US HAVE NO INTERESTTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#fe9ea3f1",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-21T15:23:36+00:00"
-  },
-  {
-    "id": "727049b1-a65c-4a9c-b216-3254854b353c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇬🇧 The London Stock Exchange plans to launch a night-time trading venue in H1 2027 to offer round-the-clock access to ETPs.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#a2db6031",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T15:20:07+00:00"
-  },
-  {
-    "id": "22f0c0bc-c23c-4a8d-b4bc-0e689e51f59f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
-    "summary": "1. While citizens still cannot use Bitcoin to buy groceries, the Kremlin is officially letting companies use digital tokens to bypass sanctions and other global trade hurdles.",
-    "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
-    "author": "Olivier Acuna",
-    "created_at": "2026-07-21T15:19:44.000Z"
-  },
-  {
-    "id": "8ee346a7-9b60-4541-90a2-231344e04113",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks\nBitcoin's price jumped Tuesday to nearly $67,000 per coin, bringing crypto stocks with it.\n2. This post Bitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-price-67000-lifting-crypto-stocks",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-21T15:19:31.000Z"
-  },
-  {
-    "id": "59d9fd8f-5dda-4d24-89c5-8e7f18a898f9",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
-    "summary": "1. Bitcoin and crypto joined US stocks in brushing off US-Iran war escalation and the threat of fresh trade tariffs before the end of the month.",
-    "url": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by William Suberg",
-    "created_at": "2026-07-21T15:14:37.000Z"
-  },
-  {
-    "id": "be510ad4-d0e1-4b32-beb7-ed698cc7ff63",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Blame immigration chaos on Biden and Harris — not Trump:",
-    "url": "https://trumpstruth.org/statuses/40167",
-    "author": "Trump Truth",
-    "created_at": "2026-07-21T15:03:07.000Z"
-  },
-  {
-    "id": "4aafe097-4a75-46d3-baa3-5ba0273e7fbd",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Why permanent daylight saving time may be better for your health:",
-    "url": "https://trumpstruth.org/statuses/40168",
-    "author": "Trump Truth",
-    "created_at": "2026-07-21T15:02:35.000Z"
-  },
-  {
-    "id": "5df2d9b3-96d1-4154-afb6-3c5188983c83",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Trump has reportedly agreed to ethics language in the CLARITY Act, potentially clearing a key hurdle toward a Senate vote.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e3280209",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T14:45:08+00:00"
-  },
-  {
-    "id": "7c520e9b-7a70-46eb-9e16-e271240475a1",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets",
-    "summary": "1. Bitcoin Magazine\n\nU.S.\n2. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets\nTreasury Secretary Scott Bessent said the U.S.\n3. froze a $130 million crypto wallet linked to Iran's IRGC as part of a broader effort to track and seize assets tied to Supreme Leader Ali Khamenei and increase economic pressure on Tehran.",
-    "url": "https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-21T14:42:30.000Z"
-  },
-  {
-    "id": "01bf5ba2-00ba-439c-9601-973cba3c6a49",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "SpaceX Slide and Kimi K3 Launch Fuel Fears of AI Stock Bubble",
-    "summary": "1. SpaceX’s 47% retreat from its post-IPO high and Moonshot AI’s low-cost Kimi K3 model are challenging premium AI valuations, although resilient semiconductor shares and evidence of AI adoption complicate claims that the broader trade has collapsed.\n2. SpaceX Decline Tests Confidence in Premium AI Valuations Uncertainty surrounding AI-linked equities has intensified as investors weigh a temporary […]",
-    "url": "https://news.bitcoin.com/spacex-slide-and-kimi-k3-launch-fuel-fears-of-ai-stock-bubble/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-21T14:33:59.000Z"
-  },
-  {
-    "id": "5f6e923e-249a-42c1-96fa-2a0e35cbb5e9",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The Xteink X4 Pro could be the tiny e-reader of your dreams",
-    "summary": "1. Xteink makes its pocket-sized e-reader even better with a touchscreen and front light.",
-    "url": "https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-07-21T14:00:00.000Z"
-  },
-  {
-    "id": "f04e6de1-79f6-4a93-b1da-5e131e38a3ed",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Aztec launches v5 alpha to improve privacy transactions on Ethereum",
-    "summary": "Ethereum layer-two project Aztec (AZTEC) has launched its v5 alpha, enabling fully private transactions to be processed directly on users’ devices, The Block reported. The update was applied on-chain after governance approval from token holders, making end-to-end private transaction processing possible on smartphones and standard laptops.Average transaction costs fell around 50%, while block times shortened to six seconds from 14 seconds. Rollup proof verification costs also dropped about 40%, lowering average fees for private token transactions to under $0.05. Co-founder Zac Williamson said the system was designed to provide a privacy-preserving layer first for Ethereum (ETH) and, over the long term, for cryptocurrencies more broadly.",
-    "url": "https://t.me/CoinnessGL#83d50ce6",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T13:55:40+00:00"
-  },
-  {
-    "id": "b997f306-149b-486b-8b2c-b17f10da0722",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Malaysia shuts down Balaji Srinivasan’s Network School in Forest City",
-    "summary": "1. Malaysia revoked Network School's license, ordering the Balaji Srinivasan-founded digital nomad commune to cease operations July 22.",
-    "url": "https://www.theblock.co/post/409076/malaysia-shuts-down-balaji-srinivasans-network-school-forest-city?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-07-21T13:50:19.000Z"
-  },
-  {
-    "id": "624122cc-61e6-45b0-a028-b72256d5bd38",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇷🇺 Russia passes bill establishing legal framework for crypto.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#df911dbd",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T13:48:45+00:00"
-  },
-  {
-    "id": "d7e6b517-e71b-4b4c-8dac-c39e7ff47f37",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Jack Mallers leaves Twenty One as Strike exits Tether’s three-way bitcoin merger",
-    "summary": "1. Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.",
-    "url": "https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger?utm_source=rss&utm_medium=rss",
-    "author": "Naga Avan-Nomayo",
-    "created_at": "2026-07-21T13:47:00.000Z"
-  },
-  {
-    "id": "41d07234-6bba-4252-9e79-cb4e5e367a13",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock Pulls $116 Million Into IBIT as Bitcoin Funds Post Longest Streak Since May",
-    "summary": "1. US spot bitcoin ETFs attracted $226.92 million on Monday, extending their inflow streak to five trading sessions.\n2. Ether, XRP, and solana funds also opened the week with gains, while HYPE ETFs remained quiet.\n3. Bitwise Funds Lead Gains for XRP and Solana ETFs Institutional investors returned from the weekend with their appetite intact.",
-    "url": "https://news.bitcoin.com/blackrock-pulls-116-million-into-ibit-as-bitcoin-funds-post-longest-streak-since-may/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-21T13:45:12.000Z"
-  },
-  {
-    "id": "e2292989-f9a0-4501-81f2-d30fa63794d6",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-21T13:41:08.000Z"
-  },
-  {
-    "id": "9508aa56-e518-4cd2-b9a9-1cd06a46c97f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-21T13:41:08.000Z"
   }
 ]
