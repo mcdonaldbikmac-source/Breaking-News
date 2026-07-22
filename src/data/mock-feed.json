@@ -1,5 +1,185 @@
 [
   {
+    "id": "edad057f-0f0f-471a-a8e2-6996d99d244a",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-22T11:13:42.000Z"
+  },
+  {
+    "id": "f534af78-1a9a-4b7f-b7e9-a9e87ab01752",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Talos integrates with Kalshi to offer institutional event contract trading",
+    "summary": "Digital asset trading platform Talos has integrated with Kalshi to support event contracts and crypto perpetual futures trading for some clients, Cointelegraph reported. Institutional users can access Kalshi within their existing Talos setup without building a separate system. Talos plans to launch Kalshi brokerage services and an integrated data feed for prediction markets later this year.",
+    "url": "https://t.me/CoinnessGL#0f85f612",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T11:10:30+00:00"
+  },
+  {
+    "id": "ea4a3374-d7b6-43af-91b1-022a040b4dcc",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
+    "summary": "1. The breach stemmed from a vulnerability in transaction signing software that enabled the derivation of private keys from blockchain transaction data.",
+    "url": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-22T11:10:27.000Z"
+  },
+  {
+    "id": "19f88854-0559-4856-8812-ffd0cc9a000e",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+    "summary": "1. The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.",
+    "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-22T11:03:43.000Z"
+  },
+  {
+    "id": "bcb29dd8-f8a4-4ad5-bdb8-7330ec1a36fe",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Talos brings institutional trading tools to Kalshi prediction markets",
+    "summary": "1. The integration provides institutional clients with access to Kalshi’s event contracts and crypto perpetuals via Talos’ existing trading infrastructure.",
+    "url": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-22T11:00:00.000Z"
+  },
+  {
+    "id": "3a9d46f6-a1cb-4a1e-bae1-2f01a8a1ebed",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bloomberg: BOJ open to additional rate hikes amid yen weakness",
+    "summary": "The Bank of Japan is internally open to raising its policy rate faster than expected as inflationary pressure grows with the yen’s weakness, Bloomberg reported. The BOJ previously raised its benchmark rate to 1% from 0.75% in June, the highest level since 1995.",
+    "url": "https://t.me/CoinnessGL#daeffddd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T10:49:05+00:00"
+  },
+  {
+    "id": "6d0e0a5b-a834-4163-9244-c4de403cfda3",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korea crypto volumes shrink as retail investors shift to stocks",
+    "summary": "1. Trading activity on South Korea’s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investors toward equities.",
+    "url": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-22T10:47:09.000Z"
+  },
+  {
+    "id": "cc319425-a783-4f0f-8815-d0b3b2c98b77",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Foundry USA launches vote on BIP-110 support among mining clients",
+    "summary": "Foundry USA, the world’s largest BTC mining pool, has begun a vote among its mining clients on whether to support Bitcoin Improvement Proposal 110, Cointelegraph reported. BIP-110 would reduce the amount of data that can be stored in Bitcoin transactions, limiting nonmonetary transactions such as Ordinals.The vote will continue until Bitcoin block 961,632 is mined, which is expected in early August. Adam Back, CEO of Blockstream, and Michael Saylor, chairman of Strategy, have opposed the proposal, saying it could be misused to invalidate regular transactions or freeze user funds. Foundry currently accounts for about 23.8% of Bitcoin’s total hashrate.",
+    "url": "https://t.me/CoinnessGL#fac9e418",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T10:46:39+00:00"
+  },
+  {
+    "id": "d2b12198-aa53-4343-9732-6bedacef10ce",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Anthropic’s Claude Fable 5 helped solve an 87-year-old math problem, highlighting a leap in AI-assisted mathematics as capital continues to pour into AI.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2129da75",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T10:40:07+00:00"
+  },
+  {
+    "id": "627291db-ccff-4b47-9669-399ead2d3b8e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
+    "summary": "1. BTC retreated from a one-month high as WTI crude topped $85 for the first time since June, reigniting inflation concerns and pushing investors toward gold, silver and the safety of bitcoin over altcoins.",
+    "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
+    "author": "Oliver Knight",
+    "created_at": "2026-07-22T10:33:33.000Z"
+  },
+  {
+    "id": "dd3008a4-6bcf-4377-ae08-6f6384eb357b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Ownership Overtakes Gold as 49.6 Million Americans Now Hold BTC",
+    "summary": "1. Bitcoin has overtaken gold as the preferred hard asset among American investors, according to bitcoin financial services firm River.\n2. The firm found that 49.6 million Americans, or 18.6% of the adult population, now own bitcoin, compared to 28.8 million, or 10.8%, who hold gold.\n3. Bitcoin Adoption Outpaces a 5,000-Year-Old Rival River, a bitcoin-focused financial services […]",
+    "url": "https://news.bitcoin.com/bitcoin-ownership-surpasses-gold-river-report/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-22T10:30:57.000Z"
+  },
+  {
+    "id": "509ed8f7-cca9-405c-a4e9-6cb57c790a47",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
+    "summary": "1. Payward's xStocks pushes beyond U.S.\n2. equities as competition to bring global stock markets onchain accelerates.",
+    "url": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-22T10:30:00.000Z"
+  },
+  {
+    "id": "8802397f-6008-4a70-a482-6add0a105cb5",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Foundry asks Bitcoin miners to vote on BIP-110 support",
+    "summary": "1. Foundry USA asked its mining customers to signal their support for BIP-110, an actively debated proposal seeking to shrink the amount of data that can be stored in a Bitcoin transaction.",
+    "url": "https://cointelegraph.com/news/foundry-bitcoin-miners-vote-bip-110?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-22T10:29:42.000Z"
+  },
+  {
+    "id": "c320079b-1199-4a9a-b77a-d21fcd2ece33",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇵🇰 Pakistan's FIA has launched a dedicated crypto crime unit to investigate money laundering and terrorism financing through digital assets.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#11b3324f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T10:10:07+00:00"
+  },
+  {
+    "id": "386ae0ea-e85f-4711-81e3-b81dd75d4c02",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Hegseth says the Iran war has cost $37.5B so far and asks Congress for $70B more | Per CBSTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#4bed588f",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-22T10:09:37+00:00"
+  },
+  {
+    "id": "27c21037-baef-461b-b247-5442abba5b99",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "One coin can change your life.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#4781985a",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T10:05:04+00:00"
+  },
+  {
+    "id": "f26f907b-9b34-4e72-8c55-57082aa57ef3",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. A Crooked Election System!!!\n2. SAVE AMERICA!!!\n3. NJ governor forced to admit hundreds of foreigners voted in elections after Dems claimed no problem:",
+    "url": "https://trumpstruth.org/statuses/40202",
+    "author": "Trump Truth",
+    "created_at": "2026-07-22T10:01:01.000Z"
+  },
+  {
+    "id": "aa32343c-37a1-4335-81eb-3d828300e176",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "summary": "1. Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-07-22T10:00:00.000Z"
+  },
+  {
     "id": "78dfcc5a-bc5c-47b9-91a2-75b6e5d3855d",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -10,7 +190,7 @@
     "created_at": "2026-07-22T09:55:52+00:00"
   },
   {
-    "id": "fc0c0aa2-db58-4c07-8d8c-6eaa21bce812",
+    "id": "6f41a422-7c3f-4c8e-859d-d7ed3f7376d1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Brent crude oil surges above $95 for the first time in six weeks.@WatcherGuru",
@@ -378,35 +558,5 @@
     "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511",
     "author": "By Andrew Howard and Samuel Benson",
     "created_at": "2026-07-22T05:15:06.000Z"
-  },
-  {
-    "id": "8c61ba9d-47b6-436c-b6ea-ee988b040398",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low",
-    "summary": "1. Semiconductor stocks led a second day of gains on AI optimism, while the yen slid past 163 per dollar for the first time since 1986.",
-    "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-22T05:03:39.000Z"
-  },
-  {
-    "id": "c5be46a9-240e-4f88-82b7-35854a7777dc",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Zuckerberg Fears His Teams Are Too Slow for a $145 Billion AI Push",
-    "summary": "1. Mark Zuckerberg told staff in a recent internal meeting that Meta’s AI rollout is moving slower than he wants, even as the company targets up to $145 billion in AI spending in 2026.\n2. Meta has already cut about 8,000 jobs and reassigned roughly 7,000 employees into a new Agent Transformation group, with Zuckerberg expecting clearer […]",
-    "url": "https://news.bitcoin.com/zuckerberg-fears-his-teams-are-too-slow-for-a-145-billion-ai-push-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-07-22T04:30:51.000Z"
-  },
-  {
-    "id": "fd771774-d055-4763-8b36-d57d8c58b487",
-    "source": "The Block",
-    "type": "rss",
-    "title": "HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs",
-    "summary": "1. UK authorities sanctioned the crypto exchange in May for its alleged role in facilitating Russian sanctions evasion.",
-    "url": "https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-07-22T04:23:08.000Z"
   }
 ]
