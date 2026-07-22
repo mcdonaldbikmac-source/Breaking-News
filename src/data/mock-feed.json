@@ -1,5 +1,105 @@
 [
   {
+    "id": "17d08534-1713-4911-8d28-8d1b5e091e8b",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-22T01:53:44.000Z"
+  },
+  {
+    "id": "a9032231-de94-4349-83ee-8044ba0fc77d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-22T01:53:44.000Z"
+  },
+  {
+    "id": "ec892cf4-8aa6-4365-8c15-f778270a32c9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Deputy Abused Police Powers to Secretly Track a Man’s Cellphone",
+    "summary": "1. A deputy admitted using a fake search warrant to secretly obtain a man’s cellphone location for a private client, exposing how court-approved surveillance powers can be abused and why the case ended in a federal prison sentence.\n2. Deputy Lied to Judge to Obtain GPS Data David Anthony Rodriguez, 45, was sentenced Monday to one year […]",
+    "url": "https://news.bitcoin.com/deputy-abused-police-powers-to-secretly-track-a-mans-cellphone/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-22T01:45:31.000Z"
+  },
+  {
+    "id": "a727c7a8-43a0-4721-a8e9-d66b44f48073",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+    "summary": "1. The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+    "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+    "author": "Marina Temkin",
+    "created_at": "2026-07-22T01:27:58.000Z"
+  },
+  {
+    "id": "0f2510bd-985f-4328-949f-a9877938b2af",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Crypto to SpaceX, Apple in One Step: Uphold Adds 4,000+ Stocks and ETFs",
+    "summary": "1. Crypto holders can now move into traditional investments such as SpaceX, Apple, and thousands of other stocks and ETFs without transferring money to another app, as Uphold launches fractional stock trading and prepares to extend access beyond regular market hours.\n2. Crypto Can Now Fund the Next Stock Trade Turning bitcoin into a stock investment has […]",
+    "url": "https://news.bitcoin.com/crypto-to-spacex-apple-in-one-step-uphold-adds-4000-stocks-and-etfs/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-22T01:05:32.000Z"
+  },
+  {
+    "id": "bcd95eb7-78c0-4d0e-add8-33f5854e4167",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Balaji’s Network School turns to Kazakhstan amid Malaysia setback",
+    "summary": "1. The agreement gives Balaji Srinivasan’s tech community a potential new base as Malaysian authorities clamp down on the Network School over alleged licensing breaches.",
+    "url": "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-22T01:05:25.000Z"
+  },
+  {
+    "id": "4f179bc0-e3dd-40a2-94c7-841b211beff3",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
+    "summary": "1. The UK Bitcoin treasury company raised $218 million less than a year ago.\n2. Now it's returning whatever is left.",
+    "url": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-22T00:32:58.000Z"
+  },
+  {
+    "id": "f6e7b3d5-a54c-4197-a908-27ed4bb70f18",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "XRP Ledger Hits 1 Million AI Agent Transactions as Ripple Builds AI Spending Infrastructure",
+    "summary": "1. The XRP Ledger has crossed 1 million AI agent transactions as Ripple expands tools for autonomous spending, allowing software to purchase data and computing services with XRP or RLUSD without manual approval for every payment.\n2. AI Agents Are Starting to Spend Money The XRP Ledger has crossed 1 million agentic transactions, according to J.",
+    "url": "https://news.bitcoin.com/xrp-ledger-hits-1-million-ai-agent-transactions-as-ripple-builds-ai-spending-infrastructure/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-22T00:24:02.000Z"
+  },
+  {
+    "id": "4b2c450a-5253-4ac0-9789-f5d0c3970fc8",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "summary": "1. At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-07-21T23:55:10.000Z"
+  },
+  {
+    "id": "380cb760-f54a-4444-8168-0eb83c432ebb",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+    "summary": "1. Illinois enacted a 0.2% tax on all crypto transactions last month, with the tax taking effect next year.",
+    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+    "author": "Nikhilesh De",
+    "created_at": "2026-07-21T22:08:10.000Z"
+  },
+  {
     "id": "fe7d1ffe-3f64-4065-ac61-4a7311266f84",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
@@ -268,445 +368,5 @@
     "url": "https://trumpstruth.org/statuses/40176",
     "author": "Trump Truth",
     "created_at": "2026-07-21T19:54:32.000Z"
-  },
-  {
-    "id": "81c7e45e-a066-4a1a-9ebb-f6c88ab63569",
-    "source": "Politico",
-    "type": "rss",
-    "title": "South Carolina Senate poll shows surprising frontrunner: Trey Gowdy",
-    "summary": "1. Gowdy has said he's not interested.\n2. But the poll suggests he would lead a crowded field, which includes the Trump-endorsed Darline Graham, for late Sen.\n3. Lindsey Graham's seat.",
-    "url": "https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741",
-    "author": "By Samuel Benson",
-    "created_at": "2026-07-21T19:47:06.000Z"
-  },
-  {
-    "id": "75a352c8-0c7a-4cfd-85a9-bb30ea7ecee9",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "summary": "1. Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-07-21T19:43:41.000Z"
-  },
-  {
-    "id": "206cd9b2-8bc6-4088-bc42-665e4b1ca424",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-21T19:40:52.000Z"
-  },
-  {
-    "id": "18ab040f-2fd2-4edb-b664-fdf744aa391c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "AI and the rise of the universal entertainment app",
-    "summary": "1. Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks.\n2. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "author": "Sarah Perez",
-    "created_at": "2026-07-21T19:39:30.000Z"
-  },
-  {
-    "id": "7350153c-f435-4082-908f-2dea7ce2fe56",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-    "summary": "1. Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
-    "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-    "author": "Tim De Chant",
-    "created_at": "2026-07-21T19:36:35.000Z"
-  },
-  {
-    "id": "0cf72e84-2e76-47d3-8a60-170a0fb8520c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Robinhood-backed DEX Arcus has expanded on Robinhood Chain with tokenized stocks and perpetual futures, adding to the 95+ stock tokens it already offers.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e7e7d39f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T19:30:09+00:00"
-  },
-  {
-    "id": "b4b3721b-e7fe-4e78-9dd8-b851e738b16d",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
-    "summary": "1. As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in.",
-    "url": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-21T19:28:39.000Z"
-  },
-  {
-    "id": "2fcb174c-3739-4fbb-baed-def5a31d95ad",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act",
-    "summary": "1. Bitcoin Magazine\n\nWhite House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act\nWhite House officials are urging Senate Democrats to accept President Trump's ethics deal on the Clarity Act, with negotiations entering the final stretch before Congress' August recess.\n2. This post White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/white-house-presses-senate-democrats",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-21T19:25:50.000Z"
-  },
-  {
-    "id": "6a9addac-41e7-450d-991b-000e5826592b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. After meeting with the President of Lebanon, Joseph Aoun, who has done a remarkable job working to transform his Country, I am hereby directing my Administration to allow all U.S.\n2. airline carriers to fly directly to Lebanon so that Americans can easily visit this beautiful land.\n3. Hopefully, other Countries will do the same.",
-    "url": "https://trumpstruth.org/statuses/40173",
-    "author": "Trump Truth",
-    "created_at": "2026-07-21T19:23:49.000Z"
-  },
-  {
-    "id": "07db60bb-f7cc-4e50-8b98-a6a767dcd850",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Pakistan steps up crypto enforcement with dedicated federal unit",
-    "summary": "1. A senior official with Pakistan’s Federal Investigation Agency reportedly recommended other agencies establish similar units to address crypto-related crime.",
-    "url": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-21T19:19:22.000Z"
-  },
-  {
-    "id": "447af357-611b-4dd0-a24e-879c0c825c42",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Ousted founder’s $1.6 million claim tops Movement Labs’ bankruptcy filing",
-    "summary": "1. MVMT filed for bankruptcy earlier this month, reporting assets between $100,001 and $500,000 and liabilities of up to $10 million.",
-    "url": "https://www.theblock.co/post/409151/ousted-founders-1-6-million-claim-tops-movement-labs-bankruptcy-filing?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-21T19:11:02.000Z"
-  },
-  {
-    "id": "ed0b0525-51c3-4d9a-b9a6-2d6a3a4afc0f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Falcon Finance Launches USDf Card in More Than 90 Jurisdictions for Daily Spending",
-    "summary": "1. Falcon Finance has introduced a payment card that lets eligible users spend USDf, its overcollateralized synthetic dollar.\n2. The product is designed to connect tokenized collateral, onchain liquidity, and real-world purchases.\n3. Falcon Card Lets Users Spend USDf Online and in Stores With a $0 Annual Fee Falcon Finance has launched a payment card aimed at turning […]",
-    "url": "https://news.bitcoin.com/falcon-finance-launches-usdf-card-in-more-than-90-jurisdictions-for-daily-spending/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-21T19:02:08.000Z"
-  },
-  {
-    "id": "7c506f60-8982-4a54-9fed-7ed28b065ec6",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
-    "summary": "1. As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model—and quietly teases Gemini 4.",
-    "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-21T18:55:45.000Z"
-  },
-  {
-    "id": "37c5316e-931d-4a6b-9bd7-241b6fa20189",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 Ship traffic in the Strait of Hormuz over the past 24 hours as US and Iran continue attacks.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#067fbc0b",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T18:55:44+00:00"
-  },
-  {
-    "id": "7060a532-34f1-40c5-af74-970181b692f0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Senator Kevin Cramer says there's \"some agreement\" that the Department of Justice will be the prevailing enforcer on CLARITY Act ethics provisions.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b2c8f62d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T18:55:06+00:00"
-  },
-  {
-    "id": "b7080079-4a2d-4cff-b02f-aa5ae8637608",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Einride bets $38M on EV charging as it scales electric trucking",
-    "summary": "1. The acquisition — Einride's first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business.",
-    "url": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-07-21T18:48:38.000Z"
-  },
-  {
-    "id": "59f21b21-d304-4316-8172-2322dc96845a",
-    "source": "The Block",
-    "type": "rss",
-    "title": "RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon",
-    "summary": "1. Ripple recently joined x402 Foundation, serving as a premier member alongside Coinbase, Circle, and Visa.",
-    "url": "https://www.theblock.co/post/408987/ripplex-sees-xrp-ledger-agentic-transactions-hitting-10-million-mark-soon?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-21T18:47:21.000Z"
-  },
-  {
-    "id": "96f4d661-bc06-4989-8e85-0ca33e2d833b",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇫🇷 France bans social media for children under the age of 15.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f6ec2c13",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T18:34:51+00:00"
-  },
-  {
-    "id": "669a042d-d65d-4e08-babd-057fdd069138",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "White House urges Senate Democrats to pass CLARITY compromise after ethics concession",
-    "summary": "The White House is urging Senate Democrats to pass a compromise version of the CLARITY Act, a U.S. crypto market structure bill, according to CoinDesk. The bill’s release was delayed for several days as talks focused on provisions restricting cryptocurrency business activities by senior government officials, including President Donald Trump. Trump’s side has made a partial concession on the ethics provision, but Democratic senators say they have not yet been briefed on the details of the agreement. The White House said the administration has made every effort to address Senate Democrats’ concerns.",
-    "url": "https://t.me/CoinnessGL#7651ea89",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T18:32:58+00:00"
-  },
-  {
-    "id": "61bf73f2-469f-4187-bbce-da9acd0766ed",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: @kompreni asked \"what if rugging was a feature?\"",
-    "summary": "1. @kompreni asked \"what if rugging was a feature?\"",
-    "url": "https://warpcast.com/farcaster/0xc0af77e7",
-    "author": "Farcaster",
-    "created_at": "2026-07-21T18:28:23.000Z"
-  },
-  {
-    "id": "c24cf946-75a1-4ef5-81f2-72e97238b478",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 White House pushes Senate Democrats to accept President Trump's ethics deal and pass the crypto Clarity Act.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#334f5566",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T18:23:25+00:00"
-  },
-  {
-    "id": "04b36a59-3879-4e9b-977e-4c0ecfb331ec",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
-    "summary": "1. Telegram founder Pavel Durov said the messaging platform will roll out a native non-custodial Gram wallet this summer, bringing self-custody crypto transactions to its more than 1 billion users.",
-    "url": "https://cointelegraph.com/news/telegram-launch-native-self-custody-gram-wallet-for-over-1-billion-users-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-21T18:20:58.000Z"
-  },
-  {
-    "id": "229b4b29-8c55-42d2-8f40-6c6654c0f44b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 US spot Bitcoin ETFs pulled in $226.92M on July 20, marking a fifth straight day of inflows.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e505baaa",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T18:20:07+00:00"
-  },
-  {
-    "id": "eb844653-9e18-48f3-9896-11cf1e89fed1",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
-    "summary": "1. Without revealing any details about the actual agreement from President Trump on potential presidential restrictions, his White House is urging its acceptance.",
-    "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-07-21T18:14:39.000Z"
-  },
-  {
-    "id": "57ea7e30-0acc-4c59-b713-1107614f4aeb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
-    "summary": "1. The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
-    "url": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-21T18:13:48.000Z"
-  },
-  {
-    "id": "2d304e5a-025d-4e12-a6ee-e3abfce45818",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: builders are sleeping on /empirebuilder",
-    "summary": "1. builders are sleeping on /empirebuilder",
-    "url": "https://warpcast.com/farcaster/0x400a5075",
-    "author": "Farcaster",
-    "created_at": "2026-07-21T18:08:03.000Z"
-  },
-  {
-    "id": "4844a4f4-c1ea-48cc-9708-8529e940d9d7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Movement Labs files for Chapter 11 bankruptcy protection",
-    "summary": "Movement Labs, the developer of MOVE, has filed for Chapter 11 bankruptcy protection. CoinDesk described the filing as another setback for the cryptocurrency project, which has faced governance disputes, controversy over token market making and a failed strategic pivot over the past year.CoinDesk had previously reported that Movement Labs executives colluded with a market maker to dump $38 million worth of MOVE into the circulating market. Co-founder Rushi Manche then left the company in May last year, and the company overhauled its business strategy in June in an effort to navigate the crisis. The plan was to move away from competition in the Ethereum layer-two sector and focus on global payments, remittances and stablecoin payment services.",
-    "url": "https://t.me/CoinnessGL#a87dbb61",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T18:02:45+00:00"
-  },
-  {
-    "id": "78fdabc4-783e-4d98-9196-c8678e3454bf",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal ",
-    "summary": "1. The filing comes after months of upheaval that included a controversial market-making agreement, an internal investigation into its MOVE token launch and a Binance ban tied to its market maker.",
-    "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
-    "author": "Helene Braun",
-    "created_at": "2026-07-21T17:54:40.000Z"
-  },
-  {
-    "id": "8488ee7c-1daa-44da-a44f-6f41087faf7c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Blockchain adds SUI trading support",
-    "summary": "Cryptocurrency infrastructure platform Blockchain has added SUI to trading accounts, allowing users to trade the token.",
-    "url": "https://t.me/CoinnessGL#1b5ff839",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T17:52:35+00:00"
-  },
-  {
-    "id": "38bb1730-dd69-4808-9ce0-bd2a39f31fb4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
-    "summary": "1. Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotating out of AI trades.",
-    "url": "https://cointelegraph.com/markets/crypto-market-breakout-ai-trade-cools-analyst-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-07-21T17:46:30.000Z"
-  },
-  {
-    "id": "8143d1c7-cfae-4685-ad48-c14397b9754a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Institutional Ethereum Stakers Weigh Speed and Privacy Trade-off Under EIP-8222",
-    "summary": "1. A proposed Ethereum upgrade could make validator activity harder to trace, addressing a long-standing concern for institutional stakers.\n2. Yet the added privacy may come with higher operational costs, slower workflows, and new compliance challenges.\n3. Sygnum’s Dubuis Warns Privacy Upgrade Could Raise Institutions’ Execution Costs Ethereum’s staking market is approaching record levels, with roughly one-third of […]",
-    "url": "https://news.bitcoin.com/institutional-ethereum-stakers-weigh-speed-and-privacy-trade-off-under-eip-8222/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-21T17:44:52.000Z"
-  },
-  {
-    "id": "302142f4-7b81-4f62-a119-c20bddec57ce",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It",
-    "summary": "1. Codenamed Frozen v2, Google's new server chip would bake part of Gemini's architecture directly into hardware for a projected 6–10x efficiency gain.",
-    "url": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-21T17:24:37.000Z"
-  },
-  {
-    "id": "f7b6b6c8-af5d-414c-a440-ae523b0c5489",
-    "source": "OpenAI",
-    "type": "rss",
-    "title": "Introducing the ChatGPT for small business program",
-    "summary": "1. OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "author": "OpenAI",
-    "created_at": "2026-07-21T17:00:00.000Z"
-  },
-  {
-    "id": "02e9142b-9265-43d4-a594-ad5209416a30",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Hyperscale Data Buys More Bitcoin, Bridging Holdings to Over $72 million",
-    "summary": "1. Bitcoin Magazine\n\nHyperscale Data Buys More Bitcoin, Bridging Holdings to Over $72 million\nHyperscale Data, Inc.\n2. now has over 1,000 Bitcoins worth over $72 million following its latest buy.\n3. This post Hyperscale Data Buys More Bitcoin, Bridging Holdings to Over $72 million first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/hyperscale-data-buys-more-bitcoin",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-21T16:46:29.000Z"
-  },
-  {
-    "id": "d9fed44b-1f0c-4f00-bf8f-057a293856d1",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Peter Brandt Predicts Bitcoin Bottom Near $40,000 Before Multiyear Rally",
-    "summary": "1. Veteran trader Peter Brandt says bitcoin has further to fall before its next major advance, telling Trade Secrets show host Ciaran Lyons he expects a bottom near $40,000 to $50,000 in early October, followed by a rally that carries the asset above $250,000 by 2029.\n2. Peter Brandt, who has traded markets for 51 years, said […]",
-    "url": "https://news.bitcoin.com/peter-brandt-predicts-bitcoin-bottom-near-40000-before-multiyear-rally/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-21T16:40:10.000Z"
-  },
-  {
-    "id": "238c722a-cddd-4149-b1fe-c64659ddfd2f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "U.S. Treasury secretary says Clarity Act is nearing the final hurdle",
-    "summary": "U.S. Treasury Secretary Scott Bessent said the Clarity Act is nearing the final hurdle, according to Bloomberg.",
-    "url": "https://t.me/CoinnessGL#577aaed6",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T16:25:24+00:00"
-  },
-  {
-    "id": "04b31fb8-366a-495c-b13d-88ef3543cd87",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "U.S. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’",
-    "summary": "1. Bitcoin Magazine\n\nU.S.\n2. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’\nSenate negotiators say the Clarity Act is \"almost there\" as Treasury Secretary Scott Bessent calls it the \"1-yard line,\" with lawmakers racing to pass the crypto market-structure bill before the August recess.\n3. This post U.S.",
-    "url": "https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-21T16:21:17.000Z"
-  },
-  {
-    "id": "3a4cf2e0-0104-4ee7-a366-515c095853c2",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
-    "summary": "1. The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
-    "url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-21T16:20:29.000Z"
-  },
-  {
-    "id": "1e960655-a930-4c5a-9fb1-657e113e334d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
-    "summary": "1. Claude Fabel 5 disproved the Jacobian conjecture over the weekend, landing days after the capabilities of China's Kimi AI became the biggest force moving bitcoin markets.",
-    "url": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-21T16:19:24.000Z"
-  },
-  {
-    "id": "7397820f-d1ad-40ff-b3de-cd5580aef2e2",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
-    "summary": "1. The crypto financial services firm is funding developers to strengthen the blockchain's security before quantum computers become powerful enough to steal billions in crypto.",
-    "url": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
-    "author": "Olivier Acuna",
-    "created_at": "2026-07-21T16:16:14.000Z"
-  },
-  {
-    "id": "afd014b9-edc5-45a4-95c1-0423b05a13fc",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Instagram now lets you swap out the music in your old posts",
-    "summary": "1. With the new \"Replace Audio,\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
-    "url": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
-    "author": "Aisha Malik",
-    "created_at": "2026-07-21T16:15:00.000Z"
-  },
-  {
-    "id": "c6fbd543-a54c-4542-b956-463b0f4a2e47",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "BIS warns stablecoins could weaken capital controls in emerging markets",
-    "summary": "1. Researchers found dollar-backed stablecoins are less affected by capital controls than traditional bank deposits, raising new questions about monetary sovereignty in emerging markets.",
-    "url": "https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-21T16:11:54.000Z"
-  },
-  {
-    "id": "8c075c65-b14e-4e39-925f-05089154ed61",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitget plans US expansion ‘with or without’ Clarity Act, CEO says",
-    "summary": "1. Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S.\n2. after initially shelving expansion plans in 2022.",
-    "url": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
-    "author": "Kyle Baird",
-    "created_at": "2026-07-21T16:11:41.000Z"
-  },
-  {
-    "id": "81de1692-99bb-477c-9c1b-324be4438375",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs",
-    "summary": "1. “Uphold customers can now sell Bitcoin to buy Berkshire Hathaway shares in a single step on the app,\" the company's U.S.\n2. president said.",
-    "url": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-21T16:08:50.000Z"
   }
 ]
