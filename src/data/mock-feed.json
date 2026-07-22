@@ -1,5 +1,295 @@
 [
   {
+    "id": "193a09f0-e145-4a4d-b533-58dcd2e88456",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "summary": "1. As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
+    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "author": "Julie Bort",
+    "created_at": "2026-07-22T16:24:08.000Z"
+  },
+  {
+    "id": "52422188-2400-4de8-b7b3-6a012727b1fe",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
+    "summary": "1. When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally.\n2. Its CEO now says there's an important lesson in this.",
+    "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-22T16:23:16.000Z"
+  },
+  {
+    "id": "fc1d2c62-60eb-4c16-a499-2312c4e41ce9",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "summary": "1. Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "author": "Sarah Perez",
+    "created_at": "2026-07-22T16:23:09.000Z"
+  },
+  {
+    "id": "3052f575-1ad8-43cb-9496-177849483bf5",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. Senate amendment to Clarity Act to bar federal officials, including president, from issuing crypto",
+    "summary": "A proposed amendment to the Clarity Act, a U.S. crypto-regulation bill under Senate review, is expected to include a provision barring federal public officials, including President Donald Trump, from issuing or sponsoring cryptocurrencies, CNBC reported. Republicans released the amendment on July 22, according to the report. The bill is seen as the first major U.S. legislation to comprehensively regulate digital assets. An amendment obtained by CNBC also includes a provision restricting the president from profiting from cryptocurrencies. CoinNess had earlier reported that the White House and Republican lawmakers had reached agreement on the bill's ethics provisions. more:",
+    "url": "https://t.me/CoinnessGL#0b66fb9b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T16:19:52+00:00"
+  },
+  {
+    "id": "a4a0b335-89b7-4c94-a0c1-d1f96ee5384d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Grayscale says BTC may have already bottomed if the Fed avoids more rate hikes",
+    "summary": "Grayscale Head of Research Zach Pandl said Bitcoin may have already passed its bottom if the Federal Reserve does not deliver additional rate hikes and economic growth remains solid.In a report published today titled 'Bitcoin: 4-year cycle or macro asset?', Pandl said market participants generally hold two views on Bitcoin’s bear market: the “four-year cycle” theory and the view that Bitcoin is a macro asset affected by changes in the broader economic environment. Under the four-year cycle view, Bitcoin could face further downside, with its average cumulative drawdown at around 80% and a bottom potentially forming in September or October. Grayscale, however, sees Bitcoin as a more mature asset that is now influenced by macroeconomic conditions like most major assets. From that perspective, Pandl said Bitcoin may have already bottomed if the Fed refrains from further rate hikes and the economy keeps growing.",
+    "url": "https://t.me/CoinnessGL#cc209bca",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T16:19:23+00:00"
+  },
+  {
+    "id": "80379546-18ef-4141-a3f5-f6bcc70bc5c7",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
+    "summary": "1. Lawmakers have circulated text of the latest draft that will be pushed toward a Senate finish line, but they're still debating a core government-ethics piece.",
+    "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+    "author": "Jesse Hamilton",
+    "created_at": "2026-07-22T16:15:55.000Z"
+  },
+  {
+    "id": "c43f32df-e43d-4735-930d-46d77c0db2d5",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Options Scream Bullish as Traders Pile Into $72K and $80K Calls",
+    "summary": "1. Bitcoin traders piled $49.82 billion into open futures contracts this week, betting hard on where the world’s largest cryptocurrency heads next.\n2. The action stretched from the regulated pits of CME to the crowded order books of Binance, and the numbers tell a story of institutions leaning bullish while retail exchanges quietly bleed positions.\n3. Bitcoin traded […]",
+    "url": "https://news.bitcoin.com/bitcoin-options-scream-bullish-as-traders-pile-into-72k-and-80k-calls/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-22T16:15:16.000Z"
+  },
+  {
+    "id": "22de986d-10ec-4569-a6d6-875c3a0f809f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "summary": "1. OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "author": "Tim De Chant",
+    "created_at": "2026-07-22T16:13:30.000Z"
+  },
+  {
+    "id": "d725e81c-94ca-4215-911a-8f1ad21abfe8",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Senate updates crypto Clarity Act draft bill to ban presidents and federal officials from issuing or sponsoring crypto and other digital assets.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#bd8c2ad3",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-22T16:13:19+00:00"
+  },
+  {
+    "id": "de57528d-fa1d-4ad4-84a4-dae585993923",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "SENATE CLARITY ACT WOULD BAN PRESIDENTS AND OTHER FEDERAL OFFICIALS FROM ISSUING OR SPONSORING CRYPTOCURRENCIES AND OTHER DIGITAL ASSETSSENATE REPUBLICANS UPDATED THE CLARITY ACT ON WEDNESDAY TO INCLUDE THE FIRST LIMITS ON HOW U.S.",
+    "summary": "PRESIDENTS MAY PROFIT FROM CRYPTOTwitter",
+    "url": "https://t.me/SolidIntelX#25aaea63",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-22T16:11:16+00:00"
+  },
+  {
+    "id": "2b0a0289-9ff0-4976-8905-9bddbdaf94c0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
+    "summary": "1. The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure.",
+    "url": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Sam Bourgi",
+    "created_at": "2026-07-22T16:10:22.000Z"
+  },
+  {
+    "id": "98400074-b6bb-43bc-a625-af97dfbf9771",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report",
+    "summary": "1. Crypto directly employs 34,000 in the U.S.\n2. and contributes $55 billion to the economy in 2026, according to an NCA-funded report.",
+    "url": "https://www.theblock.co/post/409417/crypto-directly-employs-34000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-22T16:00:00.000Z"
+  },
+  {
+    "id": "ec46ed26-6810-4689-ad40-42a980b18501",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bloomberg analyst says BTC may rebound if long-term holders refrain from selling",
+    "summary": "Bloomberg ETF analyst Eric Balchunas said Bitcoin is likely to rebound if early holders, or OGs, refrain from selling. In a post on X, Balchunas said OGs had weighed on Bitcoin’s price gains over the past nine months, while BTC has risen 8% since July 4 and has outperformed other major assets. He added that spot ETFs saw $750 million in net inflows over the past week. Balchunas said it is hard to believe this rally is a \"real rebound,\" but also hard to imagine Bitcoin never rebounding at some point, adding that the market will ultimately need to wait and see.",
+    "url": "https://t.me/CoinnessGL#9933af05",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T15:59:53+00:00"
+  },
+  {
+    "id": "16b2868d-9623-4b56-bbb4-fcc544e32f71",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
+    "summary": "1. Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted BTC price action outperforming equities later.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-22T15:55:20.000Z"
+  },
+  {
+    "id": "0bf1f935-173f-48f1-98a3-e62802fd7cc6",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+    "summary": "1. The company reported strong 2025 performance, with a $2.3 billion pre-tax profit, $6 billion in revenue, and over 75 million customers.",
+    "url": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-22T15:53:54.000Z"
+  },
+  {
+    "id": "86a6e418-0c02-4021-9389-bd26c8917ab4",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 S&P Dow Jones Indices and Pantera Capital launched a new digital asset index, though it covers only revenue-generating tokens and excludes Bitcoin and memecoins.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b45c5fc0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T15:50:08+00:00"
+  },
+  {
+    "id": "e5745a56-8353-4ff3-b60f-b6727eed2f77",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Crypto ‘wrench attacks’ persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says",
+    "summary": "1. CertiK recommends limiting public information that connects a person’s identity, location or routine to their crypto holdings.",
+    "url": "https://www.theblock.co/post/409418/crypto-wrench-attacks-persist-total-climbs-52-value-targeted-jumps-tenfold-certik?utm_source=rss&utm_medium=rss",
+    "author": "RT Watson",
+    "created_at": "2026-07-22T15:48:35.000Z"
+  },
+  {
+    "id": "5a232996-145a-4c71-b893-d3edb8b38113",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 SEC Deputy Director of Enforcement Sam Waldon steps down.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#5423a289",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-22T15:37:57+00:00"
+  },
+  {
+    "id": "3823269a-27b2-4d41-9f58-5b7894c0b72b",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+    "summary": "1. The commissioner said onchain vaults and lending strategies could resemble investment funds or advisers, depending on how they are structured.",
+    "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-22T15:37:36.000Z"
+  },
+  {
+    "id": "63170ead-91cc-4a06-b6b4-a6df9f28fecd",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Bitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do?",
+    "summary": "1. Bitcoin Magazine\n\nBitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do?\n2. Bitcoin ETFs have taken in new cash from US investors after weeks of sloppy action.\n3. This post Bitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do?",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-take-in-nearly-1b",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-22T15:28:00.000Z"
+  },
+  {
+    "id": "3e9db88d-4ea2-4795-8caa-b96adbffcc92",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🟢 BTC ETF inflows cleared $200M for a second straight day",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#47339ce2",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T15:25:05+00:00"
+  },
+  {
+    "id": "473aa1a0-4ab4-45cb-85ec-83d932a957d9",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Coinbase Settles FOIA Fight With the SEC Over Gensler’s Vanished Texts",
+    "summary": "1. Bitcoin Magazine\n\nCoinbase Settles FOIA Fight With the SEC Over Gensler’s Vanished Texts\nCoinbase settled its FOIA lawsuit against the SEC after the agency admitted it destroyed former Chair Gary Gensler's text messages, securing a $150,000 payment and reforms to the SEC's record-retention policies.\n2. This post Coinbase Settles FOIA Fight With the SEC Over Gensler’s Vanished Texts first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/news/coinbase-settles-foia-fight-with-the-sec",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-22T15:16:06.000Z"
+  },
+  {
+    "id": "44cd736f-8c03-4998-bf64-610ecec0dbb1",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "House Flip? Senate Hold? Prediction Markets Unleash Wild 2026 Midterm Election Bets",
+    "summary": "1. Prediction market traders on Polymarket and Kalshi are pricing in a Democratic takeover of the U.S.\n2. House in the 2026 midterms while giving Republicans the edge to hold the Senate, with tens of millions of dollars wagered across hundreds of individual races and primary markets.\n3. On Polymarket, bettors give Democrats an 86% probability of winning […]",
+    "url": "https://news.bitcoin.com/house-flip-senate-hold-prediction-markets-unleash-wild-2026-midterm-election-bets/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-22T15:15:57.000Z"
+  },
+  {
+    "id": "0684cc81-f128-49f9-8087-ebcf76b5da37",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Senate Democrats reportedly still want state attorneys general enforcing the CLARITY Act's ethics provisions, rejecting the White House's push for DOJ enforcement, per CoinDesk.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#197264d8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T15:15:08+00:00"
+  },
+  {
+    "id": "ab2f10b1-236f-48b4-ac02-0c962dbdc455",
+    "source": "The Block",
+    "type": "rss",
+    "title": "‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law",
+    "summary": "1. Hester Peirce, aka \"Crypto Mom\", issued a statement clarifying that onchain vaults and lending may fall under the SEC's remit.",
+    "url": "https://www.theblock.co/post/409409/you-will-have-a-painful-fall-secs-peirce-warns-crypto-vault-builders-against-twisting-securities-law?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-07-22T15:11:57.000Z"
+  },
+  {
+    "id": "08bb87e0-52cb-4f96-b12b-e62347e2e679",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
+    "summary": "1. Prosecutors filed five forfeiture cases as Secret Service agents traced funds from thousands of victims to launderers in Southeast Asia.",
+    "url": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-22T15:10:46.000Z"
+  },
+  {
+    "id": "f0976110-8ff3-4dc9-bd47-f55f9886c052",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF",
+    "summary": "1. Nearly every country has yet to apply the rules, the watchdog said, warning of outright bans for platforms that don’t comply.",
+    "url": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-22T14:41:56.000Z"
+  },
+  {
+    "id": "d319baf4-c9a5-4704-b3aa-7214b2c1b88a",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇻🇪 US has collected over $13,000,000,000 from Venezuelan oil sales this year.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#0d52b1fc",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-22T14:34:12+00:00"
+  },
+  {
+    "id": "e316769c-8a1a-45ab-9e01-32ee83e9b14e",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "VanEck: Bitcoin’s Summer Lull Masks a Tightening Supply Base",
+    "summary": "1. Bitcoin Magazine\n\nVanEck: Bitcoin’s Summer Lull Masks a Tightening Supply Base\nVanEck says Bitcoin's quiet summer trading masks a tightening supply base, with cautious derivatives and weak miner economics weighing on the near term even as long-term holders continue accumulating.\n2. This post VanEck: Bitcoin’s Summer Lull Masks a Tightening Supply Base first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "url": "https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask",
+    "author": "Micah Zimmerman",
+    "created_at": "2026-07-22T14:22:02.000Z"
+  },
+  {
     "id": "d0a2fe3b-d737-4cc8-92de-2d5302dae0e8",
     "source": "The Block",
     "type": "rss",
@@ -150,7 +440,7 @@
     "created_at": "2026-07-22T13:00:00.000Z"
   },
   {
-    "id": "cc048add-51b5-4587-ac6f-c93e79e66395",
+    "id": "1be6033b-714e-4806-9ceb-c39c344fd423",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Trump says every Iranian attack on a ship in the Strait of Hormuz will trigger a US strike on a bridge or power plant in TehranTwitter",
@@ -238,6 +528,16 @@
     "url": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
     "author": "Olivier Acuna",
     "created_at": "2026-07-22T12:12:10.000Z"
+  },
+  {
+    "id": "c6246786-6e0a-4674-bdcc-6f8f39169aa7",
+    "source": "OpenAI",
+    "type": "rss",
+    "title": "Advancing the next era of national science",
+    "summary": "1. OpenAI outlines its commitment to advancing American science working with the U.S.\n2. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "author": "OpenAI",
+    "created_at": "2026-07-22T12:00:00.000Z"
   },
   {
     "id": "7ddcaade-db84-44a5-9eb3-056df7a8c75d",
@@ -488,275 +788,5 @@
     "url": "https://cointelegraph.com/news/foundry-bitcoin-miners-vote-bip-110?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Zoltan Vardai",
     "created_at": "2026-07-22T10:29:42.000Z"
-  },
-  {
-    "id": "c320079b-1199-4a9a-b77a-d21fcd2ece33",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇵🇰 Pakistan's FIA has launched a dedicated crypto crime unit to investigate money laundering and terrorism financing through digital assets.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#11b3324f",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-22T10:10:07+00:00"
-  },
-  {
-    "id": "b7893d99-49c6-46f3-b52a-51cee6f6b623",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Hegseth says the Iran war has cost $37.5B so far and asks Congress for $70B more | Per CBSTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#4bed588f",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-22T10:09:37+00:00"
-  },
-  {
-    "id": "27c21037-baef-461b-b247-5442abba5b99",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "One coin can change your life.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4781985a",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-22T10:05:04+00:00"
-  },
-  {
-    "id": "f26f907b-9b34-4e72-8c55-57082aa57ef3",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. A Crooked Election System!!!\n2. SAVE AMERICA!!!\n3. NJ governor forced to admit hundreds of foreigners voted in elections after Dems claimed no problem:",
-    "url": "https://trumpstruth.org/statuses/40202",
-    "author": "Trump Truth",
-    "created_at": "2026-07-22T10:01:01.000Z"
-  },
-  {
-    "id": "aa32343c-37a1-4335-81eb-3d828300e176",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-    "summary": "1. Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-    "author": "Jagmeet Singh",
-    "created_at": "2026-07-22T10:00:00.000Z"
-  },
-  {
-    "id": "78dfcc5a-bc5c-47b9-91a2-75b6e5d3855d",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "SecondFi to shut down after $2.6M hack as recovery delays fuel backlash",
-    "summary": "SecondFi, an ADA-based wallet service on Cardano, said it will shut down after about 16.1 million ADA, worth roughly $2.6 million, was stolen through an encryption flaw in its wallet software. The hack affected 374 wallets, and an investigation raised the possibility of links to Lazarus, a North Korean hacking group. As a result, the SecondFi and Yoroi wallet services will be phased out.The company had initially pledged to support asset recovery within two weeks, but affected users have pushed back after the launch of a zero-knowledge proof-based recovery tool and an asset transfer function was delayed to August.",
-    "url": "https://t.me/CoinnessGL#ae8ad455",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-22T09:55:52+00:00"
-  },
-  {
-    "id": "c2d94910-7585-4c9b-921b-021145bf02eb",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Brent crude oil surges above $95 for the first time in six weeks.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#a5a55bbc",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-22T09:47:45+00:00"
-  },
-  {
-    "id": "4cc65154-606e-4644-812b-d014560f494f",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to Congressman Andy Biggs, who will be a GREAT Governor.\n2. Must now defeat a Radical Left Dumocrat, one of the worst governors in the Country, Katie Hobbs, who is weak on Crime, but strong on Raising Taxes.\n3. Go Andy, Go!!!",
-    "url": "https://trumpstruth.org/statuses/40200",
-    "author": "Trump Truth",
-    "created_at": "2026-07-22T09:47:24.000Z"
-  },
-  {
-    "id": "ad655359-04e0-4056-99d4-4fb0b52d4fd3",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
-    "summary": "1. SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit.",
-    "url": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-22T09:42:00.000Z"
-  },
-  {
-    "id": "e587d17f-65ed-41f2-b3ab-8d165d530da8",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Thank you to Scott Presler for your hard work on Voter Registration.\n2. A BIG NIGHT FOR MAGA IN ARIZONA.\n3. ALL WINS!!!",
-    "url": "https://trumpstruth.org/statuses/40199",
-    "author": "Trump Truth",
-    "created_at": "2026-07-22T09:35:52.000Z"
-  },
-  {
-    "id": "05b0108a-4c1a-4235-893b-8bd85b8e8575",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Treasury Secretary Bessent Says CLARITY Act Is at the ‘1-Yard Line’",
-    "summary": "1. Scott Bessent has said that the CLARITY Act is at the “1-yard line” and urged Congress to pass it before recess, even as Senator Kirsten Gillibrand faces backlash from progressive groups over her role brokering the bill’s ethics provisions.\n2. A Bill ‘Almost There’ Bessent told Bloomberg that the digital asset market structure bill, formally the […]",
-    "url": "https://news.bitcoin.com/clarity-act-bessent-1-yard-line-gillibrand-ethics/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-22T09:30:45.000Z"
-  },
-  {
-    "id": "5be168d3-9e0b-4a36-888a-8d9bbc199cad",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Robinhood Chain hit $480M in TVL and 1.6M monthly active users, both up 50%–60% in a week, while daily transactions reached 10M, per Token Terminal.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4eea1657",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-22T09:30:09+00:00"
-  },
-  {
-    "id": "abe0eb45-23dc-4142-99f3-dce358c2417b",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
-    "summary": "1. Galaxy pledged up to $5 million in grants for developers working on Bitcoin’s quantum security and elected a council of quantum-advisory experts to research quantum-resistant migration solutions.",
-    "url": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-07-22T09:30:05.000Z"
-  },
-  {
-    "id": "b3d12c1e-c811-4258-8e8a-c2c6edc95005",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Roma Daravi, former White House Deputy Comms Director, was great on FoxNews last night, as was Tiffany Brannon.\n2. Trace Gallagher is an amazing News Anchor, one of the very best!\n3. Get his great new book, @TraceGallagher",
-    "url": "https://trumpstruth.org/statuses/40198",
-    "author": "Trump Truth",
-    "created_at": "2026-07-22T09:22:47.000Z"
-  },
-  {
-    "id": "6b8dc806-1e34-4150-aff3-de491949a588",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC bottom still unconfirmed as rebound signals lag past turning points",
-    "summary": "A clear bottom signal for BTC has yet to emerge, according to a CryptoSlate analysis. The media outlet said options market skew, the gap in implied volatility between call and put options, widened to 11.4 percentage points, while perpetual futures funding rates turned positive, suggesting investor sentiment and demand for leverage are recovering. Even so, those readings remain below levels seen in past bottoming phases. CryptoSlate added that investors who bought BTC during April and May, when funding rates were negative, had an average cost basis of about $77,900 and are now sitting on an unrealized loss of around 20%. The key variables for whether BTC extends its rebound or retests $58,500 are the July FOMC and BTC ETF fund flows.",
-    "url": "https://t.me/CoinnessGL#c6ab9c3b",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-22T09:17:03+00:00"
-  },
-  {
-    "id": "de83fbc6-971e-4cea-99bc-f5d8c65e35b1",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "Which project will make headlines this week?Predict right and you get a RT 😉",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f643dc60",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-22T09:05:03+00:00"
-  },
-  {
-    "id": "268e9d6b-699f-427e-8b16-8309a873f14c",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
-    "summary": "1. An attacker fed the lending system a fake, abnormally low bitcoin price, liquidated vaults that should have been safe, and pocketed the difference in a single transaction.",
-    "url": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-22T09:01:54.000Z"
-  },
-  {
-    "id": "2d38d626-beb5-4392-a45a-76400611ec06",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Upbit to temporarily suspend GRAM deposits and withdrawals",
-    "summary": "South Korean exchange Upbit announced it will temporarily suspend GRAM deposits and withdrawals starting from the time of its notice to support a GRAM network upgrade.",
-    "url": "https://t.me/CoinnessGL#41af4434",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-22T08:59:41+00:00"
-  },
-  {
-    "id": "cac7ad3b-e7e2-4266-bfd1-3c5d7550e664",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Ethereum’s proposed EIP-8222 could make institutional staking activity harder to trace on-chain, but Sygnum warns the privacy gains may add costs, delays and compliance burdens.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2964fe43",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-22T08:50:07+00:00"
-  },
-  {
-    "id": "2a3214f2-8669-4eca-a5d9-d352d3bd1023",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-22T08:38:11.000Z"
-  },
-  {
-    "id": "8e21ac12-3b8c-4516-8947-a308d671355d",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-22T08:38:11.000Z"
-  },
-  {
-    "id": "abae6f66-e436-49f2-8e0a-858e582716f4",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "SUI Trader Eyes $5 Target as Expert Sees ‘Early Recovery Signs’",
-    "summary": "1. Some analysts are calling SUI’s chart the “cleanest” in crypto at the moment, naming $5, $8, and $13 as potential near-term targets.\n2. The call that landed the same month, analyst Michael van de Poppe flagged SUI among altcoins showing “early signs of recovery.” A Bullish Call, Unconfirmed by the Chart Onchain analysts suggest that SUI […]",
-    "url": "https://news.bitcoin.com/sui-trader-eyes-5-target-as-expert-sees-early-recovery-signs/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-22T08:30:32.000Z"
-  },
-  {
-    "id": "268b0d97-c611-4307-9bce-1ad51c9c621a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Upbit to temporarily suspend NEO N3 token deposits, withdrawals on July 31",
-    "summary": "South Korean exchange Upbit announced it will temporarily suspend deposits and withdrawals for NEO, GAS and other cryptocurrencies on the NEO N3 network from 9:00 a.m. UTC on July 31 due to a NEO N3 network hard fork.",
-    "url": "https://t.me/CoinnessGL#6f5afc4a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-22T08:27:50+00:00"
-  },
-  {
-    "id": "9d80a289-ee32-4c0a-b8b8-f19e9c29995f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Strategy CEO expects BTC dominance to keep rising",
-    "summary": "Phong Le, CEO of Strategy, said BTC dominance is expected to rise as stablecoin and tokenization growth continues. In a post on X, Le said BTC dominance has steadily expanded over the past four years amid BTC treasury accumulation by companies, the launch of spot ETFs, participation by institutional investors and U.S. policy support. Le added BTC dominance is likely to continue rising as the digital asset ecosystem grows alongside broader crypto adoption.",
-    "url": "https://t.me/CoinnessGL#04470940",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-22T08:25:08+00:00"
-  },
-  {
-    "id": "94d7dc60-8d0d-47d4-8ae9-16ac7da19284",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "KISA launches project to expand deposit token-based payment infrastructure",
-    "summary": "South Korea’s Korea Internet & Security Agency (KISA) and the Ministry of Science and ICT are moving to build deposit token-based payment infrastructure to expand the results of the Bank of Korea’s central bank digital currency (CBDC) pilot project, “Project Hangang,” into private-sector payments, Digital Asset reported. On July 22, KISA and the ministry said they held a joint launch ceremony with related agencies for the project and will begin pushing it forward in earnest. A key feature of the initiative is that it will use existing payment systems rather than build a new payment infrastructure. more:",
-    "url": "https://t.me/CoinnessGL#ec3559ec",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-22T08:16:07+00:00"
-  },
-  {
-    "id": "d7e3b131-7f6e-4e90-8f85-1206734a7616",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ XRP Ledger agentic transactions have passed 1M, with RippleX’s head of engineering predicting they could reach 100M within the next few years.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#8bb0cc0c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-22T08:15:07+00:00"
-  },
-  {
-    "id": "4b760fe3-afb8-42d3-9f50-d05abfbe1ed2",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
-    "summary": "1. A two-day chip rebound stalled ahead of Alphabet's earnings in a sign of whether the hundreds of billions going into AI is paying off.\n2. Bitcoin has tracked that trade all month.",
-    "url": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-22T08:13:28.000Z"
   }
 ]
