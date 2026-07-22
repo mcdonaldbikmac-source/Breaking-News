@@ -1,5 +1,15 @@
 [
   {
+    "id": "d9a1899c-560f-47fa-b147-b45239e58277",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "UK Lawmakers Probe 40% Crypto Transfer Blocks as Banking Scrutiny Widens",
+    "summary": "1. A cross-party group of U.K.\n2. lawmakers has opened an inquiry into banking restrictions affecting crypto companies and their customers.\n3. The review will assess whether account closures, payment blocks and transfer limits threaten Britain’s digital asset ambitions.",
+    "url": "https://news.bitcoin.com/uk-lawmakers-probe-40-crypto-transfer-blocks-as-banking-scrutiny-widens/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-22T03:50:48.000Z"
+  },
+  {
     "id": "79e0d91e-479a-4c40-958d-c1b867a77375",
     "source": "The Defiant",
     "type": "rss",
@@ -48,6 +58,16 @@
     "url": "https://www.politico.com/news/2026/07/21/lamb-wins-arizona-house-primary-01007464",
     "author": "By Samuel Benson",
     "created_at": "2026-07-22T03:13:38.000Z"
+  },
+  {
+    "id": "e9d17b77-3098-44d7-8974-f2dddf49de19",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Balance Coin crashes 99% after reported $915K exploit ",
+    "summary": "1. Blockchain security firms linked the collapse to a suspected attack on 42DAO, the decentralized organization that governs the Balance Protocol ecosystem.",
+    "url": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-22T03:12:48.000Z"
   },
   {
     "id": "aec13111-b201-4b9e-956d-b7f91052f075",
@@ -298,55 +318,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#ea3ec249",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-21T22:00:11+00:00"
-  },
-  {
-    "id": "1e7443be-6b14-4423-a273-1ef20f1cdd80",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Solana Tokenized Assets Hit Record $5.8 Billion in Q2, up 114% as Stock Trading Volume Quadruples",
-    "summary": "1. enized asset volume on Solana reached $5.77 billion in the second quarter of 2026, up 114% from the prior quarter and marking the network’s sixth consecutive quarterly record.\n2. Tokenized equities alone accounted for $4.8 billion of that total.\n3. A Sixth Straight Quarterly Record The Q2 figure did not arrive as a single dramatic spike.",
-    "url": "https://news.bitcoin.com/solana-tokenized-assets-hit-record-5-8-billion-in-q2-2026/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-21T21:53:24.000Z"
-  },
-  {
-    "id": "2db56ec0-11bc-42c7-bc5b-a60e2f651348",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin is NOT Changed by Proof Of Node",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin is NOT Changed by Proof Of Node\nThe proposal to temporarily restrict arbitrary data in Bitcoin transactions lacks economic nodes, protocol developers, and hashrate.\n2. History from the 2017 UASF shows nodes succeed only with broad investor and developer weight behind them.\n3. This post Bitcoin is NOT Changed by Proof Of Node first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "url": "https://bitcoinmagazine.com/technical/bitcoin-is-not-changed-by-proof-of-node",
-    "author": "Juan Galt",
-    "created_at": "2026-07-21T21:36:44.000Z"
-  },
-  {
-    "id": "e9a3c2c3-7941-49a8-8d45-c5982a31ec0a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer ",
-    "summary": "1. According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the “explosive growth of prediction markets.”",
-    "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-21T21:36:43.000Z"
-  },
-  {
-    "id": "2acc2038-2ced-4b1e-88e2-a4b0e94907a1",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.217",
-    "summary": "1. ## What's changed\n\n- Added emoji shortcode autocomplete in the prompt input: type `:heart:` to insert ❤️, or `:hea` for suggestions — disable with the `emojiCompletionEnabled` setting\n- Added warnings when transcript writes are failing (e.g.\n2. disk full) or when session saving is off due to an inherited environment variable, instead of losing transcripts silently\n- Fixed a memory leak where truncated MCP tool outputs kept the full untruncated result in memory for the rest of the session\n- Fixed Windows auto-update failures that could leave `claude.exe` missing; failed updates now restore the preserved executable automatically\n- Fixed background session isolation not canonicalizing symlinked working directories, which could let sessions escape their workspace folder\n- Fixed auto-compact never triggering for Claude Opus 4.8 on Bedrock and `/compact` failing once over the limit\n- Fixed corporate mTLS, TLS-verify, OAuth scope, and proxy settings being ignored in Claude Desktop sessions\n- Fixed screen reader mode's startup announcement being cut off by the first prompt render, and the thinking status row re-rendering every few seconds to update elapsed time and token counts\n- Fixed managed settings that set `OTEL_EXPORTER_OTLP_ENDPOINT` not governing all signals — lower-scope signal-specific overrides no longer redirect telemetry away from the managed endpoint\n- Fixed `--resume`/`--continue` and `/resume` failing with a TypeError when a transcript has a malformed attachment entry\n- Fixed Remote Control sessions not showing a pending permission prompt or dialog to viewers that connected after it appeared\n- Fixed background shells sometimes becoming impossible to stop after a session is sent to the background (`/background` or `←`) or when the session exits on a heavily loaded machine, most visible on Windows\n- Fixed a `CLAUDE.md` or `SKILL.md` paths frontmatter value with many brace groups OOM-killing or stalling the CLI at startup — brace expansion is now budget-bounded\n- Fixed the transcript preview sitting flush against the input area when attaching to a starting background session; it now leaves the same one-line gap as the live layout, so the transcript no longer shifts when the session takes over\n- Improved footer PR badge links to be clickable hyperlinks even when terminal support can't be detected (e.g.\n3. over ssh/tmux); set `FORCE_HYPERLINK=0` to opt out\n- Changed the login-expiry warning to appear 3 days before expiry instead of 5\n- Capped the frontend-design plugin suggestion tip at 3 lifetime impressions instead of repeating indefinitely\n- Added a cap on concurrently-running subagents (default 20, override with `CLAUDE_CODE_MAX_CONCURRENT_SUBAGENTS`) so one message can't fan out unbounded background agents\n- Changed subagents to no longer spawn nested subagents by default; set `CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH` to allow deeper nesting\n- Fixed `--max-budget-usd` not stopping background subagents: once the cap is reached, new spawns are denied and running background agents are halted",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-21T21:35:10Z"
-  },
-  {
-    "id": "cc4608d5-576b-49c6-b019-8eb691719991",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
-    "summary": "1. OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
-    "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-21T21:29:03.000Z"
   }
 ]
