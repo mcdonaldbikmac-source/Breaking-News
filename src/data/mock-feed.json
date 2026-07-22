@@ -1,5 +1,115 @@
 [
   {
+    "id": "8e642473-9c24-4dee-9180-07870a350f16",
+    "source": "The Block",
+    "type": "rss",
+    "title": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations",
+    "summary": "1. BIS says that FX restrictions and capital controls are less effective against stablecoins than against foreign currency bank deposits.",
+    "url": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-22T07:47:26.000Z"
+  },
+  {
+    "id": "99be8b61-8ad7-4cc4-b1ee-a1b62c99dc3b",
+    "source": "The Block",
+    "type": "rss",
+    "title": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
+    "summary": "1. US prosecutors seek forfeiture of $25 million in crypto recovered from five investigations into international fraud and laundering networks.",
+    "url": "https://www.theblock.co/post/409194/us-seeks-forfeiture-25-million-crypto?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-22T07:41:49.000Z"
+  },
+  {
+    "id": "2e94070e-a78d-46d4-b6cf-c49d890b98c1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Satsuma Technology shareholders approved plans to sell the firm’s 668 Bitcoin and delist from the London Stock Exchange, less than a year after raising about $218M for its BTC strategy.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#5bac0574",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T07:40:07+00:00"
+  },
+  {
+    "id": "0a0fcbb3-7843-43b8-8e7e-38ccb68374c4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance sees 9,030 BTC withdrawn in 24 hours, biggest daily outflow in 5 months",
+    "summary": "A total of 9,030 BTC worth $589 million was withdrawn from Binance over the past 24 hours, marking the exchange’s largest daily Bitcoin outflow in the past five months, according to an analysis by on-chain research firm Ruga Research.Ruga Research added BTC’s 30-day momentum indicator had recovered from -21% to 0%, and over the past year, Bitcoin’s price repeatedly moved higher after similar patterns emerged. The firm said the latest large-scale BTC outflow is notable because it occurred during a momentum recovery phase rather than after a sharp price surge, calling it a signal market participants should watch.",
+    "url": "https://t.me/CoinnessGL#373b8268",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T07:36:43+00:00"
+  },
+  {
+    "id": "0a83725a-ffb8-4bd2-ab16-8992fd06cec9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "South Korean card industry completes won stablecoin technical validation",
+    "summary": "A joint proof-of-concept for a won-denominated stablecoin involving the Credit Finance Association and nine card companies, including Samsung, Shinhan, KB Kookmin, Hyundai, Lotte, Hana, Woori, BC and NH NongHyup Card, was completed on July 22, NewsPim reported.The test focused on whether payment approvals, settlements and transaction cancellations would operate normally when a won stablecoin on a testnet was linked to the existing card payment network, according to the report. A Credit Finance Association official said the PoC confirmed it is technically possible to support a range of payment methods by linking won stablecoin settlement functions to the existing card payment network. more:",
+    "url": "https://t.me/CoinnessGL#dbbaaa35",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T07:35:53+00:00"
+  },
+  {
+    "id": "9fbe5e7e-61ce-4ef9-aeaa-05cf8b4c289a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Long-Term Holder Supply Hits a Fresh All-Time High: Here’s What the Data Shows",
+    "summary": "1. Bitcoin’s long-term holder supply climbed to a fresh all-time high on July 21, extending a rally that had already pushed the metric to a record 16.64 million BTC, or roughly 83% of circulating supply, a month earlier.\n2. A Record Built Over 2.5 Years Long-term holders (LTH), a category tracking wallets that have held bitcoin for […]",
+    "url": "https://news.bitcoin.com/bitcoin-long-term-holder-supply-all-time-high-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-22T07:30:23.000Z"
+  },
+  {
+    "id": "d1fcbf1d-4f9d-4609-a44e-c516faf8bdb6",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Augustus raised $180M at a $1B valuation to give international fintechs direct access to USD accounts, payment rails, and stablecoins.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a1bf3e28",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T07:10:07+00:00"
+  },
+  {
+    "id": "9e2c61be-7294-4de6-8613-447846a69a21",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. DOJ seeks forfeiture of $25M in crypto tied to international fraud",
+    "summary": "The U.S. Department of Justice is pursuing forfeiture proceedings for more than $25 million in cryptocurrency tied to an international fraud case, The Block reported. According to the DOJ, the seized assets were secured during an international fraud investigation, and prosecutors are now pursuing a forfeiture action to formally transfer the assets to the state. The DOJ added it has recovered more than $800 million in victim assets to date through its Scam Center Strike Force.",
+    "url": "https://t.me/CoinnessGL#5bf5275e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T07:06:30+00:00"
+  },
+  {
+    "id": "4624b796-ca25-41d6-a877-448f79bf9157",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Lynq and Nonco Collaborate to Expand Stablecoin Liquidity for Institutional Holders of Tokenized Fund Shares",
+    "summary": "1. Settlement network Lynq has partnered with digital asset firm Nonco to provide institutional clients with 24/7 stablecoin liquidity.\n2. The collaboration resolves weekend and off-hours capital bottlenecks to accelerate settlement and boost market efficiency.\n3. Eliminating Operational Constraints in Digital Markets The interest-bearing settlement network, Lynq, announced July 21 that it has entered a strategic partnership with […]",
+    "url": "https://news.bitcoin.com/lynq-and-nonco-collaborate-to-expand-stablecoin-liquidity-for-institutional-holders-of-tokenized-fund-shares/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-22T06:30:34.000Z"
+  },
+  {
+    "id": "5e6ad002-4ea0-43e8-96c3-af2a1d1ec1d1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Galaxy has launched a Bitcoin Quantum Readiness Initiative, committing up to $5M in developer grants to build post-quantum cryptographic tools.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8cf7e833",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T06:30:09+00:00"
+  },
+  {
+    "id": "1b951c99-087f-447b-830d-256da9b023a5",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "AI models escaped OpenAI’s sandbox and hit Hugging Face. Crypto is where that gets dangerous",
+    "summary": "1. OpenAI said the systems had their cyber guardrails lowered for an internal benchmark, but the incident shows how autonomous exploit chains could pose a deeper threat to smart contracts.",
+    "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-22T06:01:56.000Z"
+  },
+  {
     "id": "c5e63363-c25a-4698-a93a-2d61d42f8177",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -180,7 +290,7 @@
     "created_at": "2026-07-22T02:59:30.000Z"
   },
   {
-    "id": "6ce75785-99c8-40f3-9fc5-c352a6e9d273",
+    "id": "9655b20e-0d53-48be-a3e6-06d1222b0031",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Elon Musk says Grok will make a \"full-length movie\" of The Odyssey that is \"historically accurate\" by the end of this year.@WatcherGuru",
@@ -228,85 +338,5 @@
     "url": "https://trumpstruth.org/statuses/40184",
     "author": "Trump Truth",
     "created_at": "2026-07-22T01:58:06.000Z"
-  },
-  {
-    "id": "17d08534-1713-4911-8d28-8d1b5e091e8b",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-22T01:53:44.000Z"
-  },
-  {
-    "id": "a9032231-de94-4349-83ee-8044ba0fc77d",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-22T01:53:44.000Z"
-  },
-  {
-    "id": "ec892cf4-8aa6-4365-8c15-f778270a32c9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Deputy Abused Police Powers to Secretly Track a Man’s Cellphone",
-    "summary": "1. A deputy admitted using a fake search warrant to secretly obtain a man’s cellphone location for a private client, exposing how court-approved surveillance powers can be abused and why the case ended in a federal prison sentence.\n2. Deputy Lied to Judge to Obtain GPS Data David Anthony Rodriguez, 45, was sentenced Monday to one year […]",
-    "url": "https://news.bitcoin.com/deputy-abused-police-powers-to-secretly-track-a-mans-cellphone/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-22T01:45:31.000Z"
-  },
-  {
-    "id": "a727c7a8-43a0-4721-a8e9-d66b44f48073",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
-    "summary": "1. The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
-    "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-    "author": "Marina Temkin",
-    "created_at": "2026-07-22T01:27:58.000Z"
-  },
-  {
-    "id": "0f2510bd-985f-4328-949f-a9877938b2af",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto to SpaceX, Apple in One Step: Uphold Adds 4,000+ Stocks and ETFs",
-    "summary": "1. Crypto holders can now move into traditional investments such as SpaceX, Apple, and thousands of other stocks and ETFs without transferring money to another app, as Uphold launches fractional stock trading and prepares to extend access beyond regular market hours.\n2. Crypto Can Now Fund the Next Stock Trade Turning bitcoin into a stock investment has […]",
-    "url": "https://news.bitcoin.com/crypto-to-spacex-apple-in-one-step-uphold-adds-4000-stocks-and-etfs/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-22T01:05:32.000Z"
-  },
-  {
-    "id": "bcd95eb7-78c0-4d0e-add8-33f5854e4167",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Balaji’s Network School turns to Kazakhstan amid Malaysia setback",
-    "summary": "1. The agreement gives Balaji Srinivasan’s tech community a potential new base as Malaysian authorities clamp down on the Network School over alleged licensing breaches.",
-    "url": "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Felix Ng",
-    "created_at": "2026-07-22T01:05:25.000Z"
-  },
-  {
-    "id": "4f179bc0-e3dd-40a2-94c7-841b211beff3",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
-    "summary": "1. The UK Bitcoin treasury company raised $218 million less than a year ago.\n2. Now it's returning whatever is left.",
-    "url": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-22T00:32:58.000Z"
-  },
-  {
-    "id": "f6e7b3d5-a54c-4197-a908-27ed4bb70f18",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "XRP Ledger Hits 1 Million AI Agent Transactions as Ripple Builds AI Spending Infrastructure",
-    "summary": "1. The XRP Ledger has crossed 1 million AI agent transactions as Ripple expands tools for autonomous spending, allowing software to purchase data and computing services with XRP or RLUSD without manual approval for every payment.\n2. AI Agents Are Starting to Spend Money The XRP Ledger has crossed 1 million agentic transactions, according to J.",
-    "url": "https://news.bitcoin.com/xrp-ledger-hits-1-million-ai-agent-transactions-as-ripple-builds-ai-spending-infrastructure/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-22T00:24:02.000Z"
   }
 ]
