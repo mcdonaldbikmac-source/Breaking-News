@@ -1,5 +1,125 @@
 [
   {
+    "id": "7ddcaade-db84-44a5-9eb3-056df7a8c75d",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Lightning Labs launches BTC payments toolkit for AI agents and apps",
+    "summary": "Lightning Labs, a development team for Bitcoin’s Lightning Network, has launched \"Wavelength,\" a toolkit that lets applications and AI agents implement self-custodial BTC wallets and Lightning Network payments, The Block reported. The toolkit is currently available on signet and testnet.",
+    "url": "https://t.me/CoinnessGL#a95d22af",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T11:53:31+00:00"
+  },
+  {
+    "id": "7bb8dd6f-6515-4bb0-ab05-105ae4aa9beb",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
+    "summary": "1. Plus, the BTC ETFs stay green.\n2. The Clarity Act hits a wall over who enforces the ethics rules.\n3. And Jack Mallers walks away from XXI Capital.",
+    "url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
+    "author": "Tyler Warner",
+    "created_at": "2026-07-22T11:50:29.000Z"
+  },
+  {
+    "id": "91fa47f2-2ee9-4180-b8b4-18626512cd98",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Bitwise CIO Matt Hougan says if the CLARITY Act passes, \"winter is over,\" adding that the market now underestimates the odds of the bill passing.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0a127dfd",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T11:50:07+00:00"
+  },
+  {
+    "id": "9ee244dd-7e28-417a-a6b8-d34f7f9542be",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
+    "summary": "1. A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data.",
+    "url": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-22T11:49:53.000Z"
+  },
+  {
+    "id": "e45ded2b-d1f0-4b41-a147-7607492f2dbe",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
+    "summary": "1. Charles Hoskinson says the exploit, which briefly sent NIGHT to an all-time low, underscores why the industry needs to move beyond legacy bridge infrastructure.",
+    "url": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
+    "author": "Oliver Knight",
+    "created_at": "2026-07-22T11:45:42.000Z"
+  },
+  {
+    "id": "019a1f96-d444-4e29-a1fa-57950925174b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rebound strengthens bullish case, but rates and oil may cap upside: CoinDesk",
+    "summary": "Bitcoin has rebounded and bullish sentiment is spreading, but upside may remain limited under one valuation metric tied to the U.S. 10-year Treasury yield, according to CoinDesk.CoinDesk said the rate-adjusted valuation ratios for Bitcoin and the Nasdaq remain below their 2020-2021 peaks, suggesting that even at current record highs, their underlying appeal is weaker than it was at that time. The outlet added that closing this gap would require either a sharp drop in interest rates or a correction in asset prices. With the Federal Reserve maintaining a hawkish stance and international oil prices also staying strong, cost-driven inflation could reaccelerate, CoinDesk said. In that scenario, risk assets including Bitcoin could face a sharp price correction toward interest-rate-adjusted valuations.",
+    "url": "https://t.me/CoinnessGL#21b250a1",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T11:36:54+00:00"
+  },
+  {
+    "id": "6459ebd3-f9ff-4ad1-a026-8fbd5b1ad662",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Terrett says industry stakeholders to hold call with Republican leadership on Clarity Act",
+    "summary": "Crypto In America host Eleanor Terrett said on X that industry stakeholders are scheduled to hold a conference call with Republican leadership this morning to receive an update on progress on provisions in the Clarity Act.",
+    "url": "https://t.me/CoinnessGL#5499996d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T11:34:06+00:00"
+  },
+  {
+    "id": "1ecb78b4-372b-4e96-8515-511210f0cf7f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams ",
+    "summary": "1. US prosecutors are seeking more than $25 million in cryptocurrency allegedly connected to international fraud and laundering networks.",
+    "url": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-22T11:32:40.000Z"
+  },
+  {
+    "id": "b0e3e5e8-9a38-47bb-9591-9a572c7c63fd",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The Digital Chamber Sues the State of Illinois Over First-Ever 0.2% Crypto Tax",
+    "summary": "1. The Digital Chamber, a crypto trade association led by CEO Cody Carbone, sued the state of Illinois over its new Digital Asset Tax Act, becoming the first industry group to challenge the nation’s first state-level tax targeting crypto business activity.\n2. A 0.2% Tax on Every Transfer The Digital Chamber filed its complaint in Sangamon County […]",
+    "url": "https://news.bitcoin.com/illinois-digital-asset-tax-act-lawsuit-digital-chamber/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-22T11:30:45.000Z"
+  },
+  {
+    "id": "716a08cf-9bfb-4434-8cc7-2718202c65e1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Here's why bitcoin bulls should take a closer look at interest rates",
+    "summary": "1. Your day-ahead look for July 22, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-22T11:23:36.000Z"
+  },
+  {
+    "id": "3afec123-5631-4713-9531-d1c44de824fe",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Memory Trade Reprices FastTuesday drove most of the WTD rebound.",
+    "summary": "DRAM had its best day in over a month, while Asian memory names followed Wednesday.Now the focus shifts to Alphabet. After raising its 2026 CapEx outlook in April and flagging a sharp increase in 2027, any sign of a pause could hit the broader AI and semiconductor trade.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2dc30a62",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T11:20:07+00:00"
+  },
+  {
+    "id": "c6ba06ae-ae99-4846-855a-50d79e799bfa",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ MoneyGram CEO Anthony Soohoo says blockchain works best when customers don't even realize it's powering their transaction.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#14dbfcdf",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T11:15:07+00:00"
+  },
+  {
     "id": "edad057f-0f0f-471a-a8e2-6996d99d244a",
     "source": "The Defiant",
     "type": "rss",
@@ -140,7 +260,7 @@
     "created_at": "2026-07-22T10:10:07+00:00"
   },
   {
-    "id": "386ae0ea-e85f-4711-81e3-b81dd75d4c02",
+    "id": "745b5a65-f404-4c57-88e6-24030cd3cbff",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Hegseth says the Iran war has cost $37.5B so far and asks Congress for $70B more | Per CBSTwitter",
@@ -190,7 +310,7 @@
     "created_at": "2026-07-22T09:55:52+00:00"
   },
   {
-    "id": "6f41a422-7c3f-4c8e-859d-d7ed3f7376d1",
+    "id": "0ee7d7ac-3e94-46e2-83c2-64c12fc1f730",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Brent crude oil surges above $95 for the first time in six weeks.@WatcherGuru",
@@ -528,35 +648,5 @@
     "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
     "author": "Shaurya Malwa",
     "created_at": "2026-07-22T06:01:56.000Z"
-  },
-  {
-    "id": "c5e63363-c25a-4698-a93a-2d61d42f8177",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph",
-    "created_at": "2026-07-22T05:43:51.000Z"
-  },
-  {
-    "id": "62ac1aa6-2122-418b-a4db-6d799d4dcd95",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Binance Drops VIP 3 Asset Bar to $1M as 4x OTC Trading Credit Broadens Tier Access",
-    "summary": "1. Binance is cutting the VIP 3 wallet asset requirement to $1 million, down from $3 million, while over-the-counter (OTC) spot trading volume will now count toward overall spot volume at four times its actual value.\n2. Lower Thresholds and OTC Multipliers Binance announced additional changes to its VIP Program on Tuesday, lowering the asset requirement for […]",
-    "url": "https://news.bitcoin.com/binance-drops-vip-3-asset-bar-to-1m-as-4x-otc-trading-credit-broadens-tier-access/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-22T05:30:23.000Z"
-  },
-  {
-    "id": "59107f0b-810e-4447-8c14-a11917481cc8",
-    "source": "Politico",
-    "type": "rss",
-    "title": "The top of Arizona’s GOP ticket is littered with 2020 election deniers",
-    "summary": "1. The three top Republican candidates in the Grand Canyon State all played a key role in casting doubt on Joe Biden’s win over Donald Trump six years ago.",
-    "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511",
-    "author": "By Andrew Howard and Samuel Benson",
-    "created_at": "2026-07-22T05:15:06.000Z"
   }
 ]
