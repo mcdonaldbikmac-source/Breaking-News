@@ -1,5 +1,155 @@
 [
   {
+    "id": "79e0d91e-479a-4c40-958d-c1b867a77375",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-22T03:22:17.000Z"
+  },
+  {
+    "id": "d323abbe-943c-4f7a-aa2d-ec8776a4b9fa",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "summary": "1. Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "author": "Connie Loizos",
+    "created_at": "2026-07-22T03:20:57.000Z"
+  },
+  {
+    "id": "990df9a5-304a-4ecc-9086-d5334d3406d5",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District",
+    "summary": "1. The former football player faces a steep challenge in November, with Democrats bullish about flipping the open seat.",
+    "url": "https://www.politico.com/news/2026/07/21/feely-wins-arizona-house-primary-01007468",
+    "author": "By Samuel Benson",
+    "created_at": "2026-07-22T03:16:31.000Z"
+  },
+  {
+    "id": "111df943-5cff-4763-9fce-0bda7f3117ac",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "7 in 10 Crypto Traders Would Let AI Run Their Portfolios — But They Want an Emergency Off Switch",
+    "summary": "1. A survey of 1,400 U.S.\n2. crypto traders found broad support among respondents for autonomous AI portfolio management, but investors still want instant control as regulators warn about fraud, accountability, and market-stability risks.\n3. Traders Are Ready to Hand AI More Control Seven in 10 U.S.",
+    "url": "https://news.bitcoin.com/7-in-10-crypto-traders-would-let-ai-run-their-portfolios-but-they-want-an-emergency-off-switch/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-22T03:15:40.000Z"
+  },
+  {
+    "id": "72880226-c06c-46c4-bfeb-1dd9651b8503",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Trump-backed Mark Lamb wins Arizona House primary despite sex scandals",
+    "summary": "1. He warded off Republican primary rival Daniel Keenan, who spent big to make Lamb’s alleged sexual misconduct central to the 5th District’s race.",
+    "url": "https://www.politico.com/news/2026/07/21/lamb-wins-arizona-house-primary-01007464",
+    "author": "By Samuel Benson",
+    "created_at": "2026-07-22T03:13:38.000Z"
+  },
+  {
+    "id": "aec13111-b201-4b9e-956d-b7f91052f075",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Move Industries CEO says company is separate from MVMT Labs, not involved in bankruptcy",
+    "summary": "Move Industries CEO Torab Torabi said Move Industries has no relationship with MVMT Labs, which filed for Chapter 11 bankruptcy protection, and was not involved in the related bankruptcy process.In a post on X, Torabi said MVMT Labs had filed for bankruptcy but was a separate company from Move Industries. Torabi added that Movement is currently operating as a global fintech company using a licensed stablecoin payments network. Before Torabi’s clarification, MVMT Labs, the developer behind Movement (MOVE), had been reported to have filed for Chapter 11 bankruptcy protection. Move Industries emerged from Movement after last year’s MOVE plunge and alleged misconduct tied to a market maker, positioning itself as a fintech company developing stablecoin payment solutions. more:",
+    "url": "https://t.me/CoinnessGL#8ff25a91",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T03:09:48+00:00"
+  },
+  {
+    "id": "d0bfafee-7bfd-4b8b-a144-69d8378a0161",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to temporarily suspend POLYX deposits and withdrawals",
+    "summary": "South Korean exchange Upbit announced it will temporarily suspend POLYX deposits and withdrawals from 3:10 a.m. UTC on July 22 due to a Polymesh network upgrade.",
+    "url": "https://t.me/CoinnessGL#4cef035f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T03:05:45+00:00"
+  },
+  {
+    "id": "b512f8e9-1eb3-49ee-8ce5-2e81ec490464",
+    "source": "Politico",
+    "type": "rss",
+    "title": "Rep. Andy Biggs wins GOP primary for Arizona governor",
+    "summary": "1. Biggs easily defeated fellow GOP Rep.\n2. David Schweikert in the Republican primary on Tuesday.",
+    "url": "https://www.politico.com/news/2026/07/21/biggs-wins-arizona-governor-primary-01007354",
+    "author": "By Andrew Howard",
+    "created_at": "2026-07-22T03:04:47.000Z"
+  },
+  {
+    "id": "443434d0-f839-4fd5-8d28-68cc1a92fb2a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "24-hour crypto futures liquidations",
+    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $73.21 million liquidated (88.91% shorts)- ETH: $40.27 million liquidated (77.49% shorts)- SNDK: $10.05 million liquidated (86.39% shorts)",
+    "url": "https://t.me/CoinnessGL#ca825c6a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T03:02:03+00:00"
+  },
+  {
+    "id": "6d359810-c442-42d8-9360-d3c4cf03c930",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Mike Lindell would be a GREAT Governor.\n2. He loves Minnesota with all of his heart.\n3. President DJT\nKSTP/SurveyUSA poll: Lindell, Tafoya increase their leads; Craig, Ellison margins shrink:",
+    "url": "https://trumpstruth.org/statuses/40185",
+    "author": "Trump Truth",
+    "created_at": "2026-07-22T02:59:30.000Z"
+  },
+  {
+    "id": "6ce75785-99c8-40f3-9fc5-c352a6e9d273",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Elon Musk says Grok will make a \"full-length movie\" of The Odyssey that is \"historically accurate\" by the end of this year.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#50c26775",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-22T02:50:31+00:00"
+  },
+  {
+    "id": "52093a16-198d-47d6-8be4-3a9aba1d834d",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
+    "summary": "1. FIA's Muhammad Athar Waheed suggested that other major agencies form dedicated teams to tackle digital asset crimes.",
+    "url": "https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit?utm_source=rss&utm_medium=rss",
+    "author": "Danny Park",
+    "created_at": "2026-07-22T02:46:51.000Z"
+  },
+  {
+    "id": "1f0bb93e-dd33-46c7-ac14-259d7f7b3adc",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "OpenAI says AI models escaped containment to hack Hugging Face",
+    "summary": "1. OpenAI called it an “unprecedented cyber incident” after its AI models broke out of their sandbox to hack an AI startup during a security evaluation.",
+    "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-22T02:45:55.000Z"
+  },
+  {
+    "id": "929dec2d-aa44-4745-ad1d-ac0c984ea9aa",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "FBI Warns Fake Agents Are Using AI to Trick Scam Victims Again",
+    "summary": "1. The FBI says criminals are using fake agents, AI-generated videos, and spoofed government websites to target previous fraud victims.\n2. Officials warn that recovery scams are becoming harder to spot as scammers adopt more convincing technology.\n3. Fake Agents Target Victims a Second Time The FBI is warning that scammers are posing as federal agents and using […]",
+    "url": "https://news.bitcoin.com/fbi-warns-fake-agents-are-using-ai-to-trick-scam-victims-again/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-22T02:30:21.000Z"
+  },
+  {
+    "id": "73dc2946-f6be-407f-bf18-da8e5433980b",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Rigged Elections!!!",
+    "url": "https://trumpstruth.org/statuses/40184",
+    "author": "Trump Truth",
+    "created_at": "2026-07-22T01:58:06.000Z"
+  },
+  {
     "id": "17d08534-1713-4911-8d28-8d1b5e091e8b",
     "source": "The Defiant",
     "type": "rss",
@@ -90,6 +240,46 @@
     "created_at": "2026-07-21T23:55:10.000Z"
   },
   {
+    "id": "9b004590-de9d-4085-a459-0578ae44031b",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Morgan Stanley’s spot Bitcoin ETF has added 115 BTC over the past week, bringing its holdings to 5,876 BTC worth over $389 million, per Arkham data.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#e3344260",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T23:55:06+00:00"
+  },
+  {
+    "id": "b4f0c107-4289-40d5-a1f7-b117d4498cac",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Telegram founder Pavel Durov says the app will roll out a native non-custodial GRAM wallet to its 1B+ users this summer, promising instant, zero-fee transactions.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#815a0ecb",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T23:10:07+00:00"
+  },
+  {
+    "id": "29364aaa-0299-42be-bb49-0f181e07abd0",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Morpho has launched its Midnight protocol on Base, adding fixed-rate, fixed-term loans, initially supporting cbBTC and USDC.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#5d16a3e0",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-21T22:30:10+00:00"
+  },
+  {
+    "id": "9eed72e0-f0b2-4a28-922a-3d2753fd4c16",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Trump administration to redirect billions in federal research funding from universities toward AI.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#3b13bba0",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-21T22:14:46+00:00"
+  },
+  {
     "id": "380cb760-f54a-4444-8168-0eb83c432ebb",
     "source": "CoinDesk",
     "type": "rss",
@@ -158,215 +348,5 @@
     "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
     "author": "Jose Antonio Lanz",
     "created_at": "2026-07-21T21:29:03.000Z"
-  },
-  {
-    "id": "e54d2cfe-e586-4e78-9831-ec220aea91ea",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Jito Labs launched JTX, a self-custodial Solana trading platform offering spot trading in SOL, cbBTC and memecoins alongside tokenized RWAs and ETFs.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2c8717b1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T21:20:07+00:00"
-  },
-  {
-    "id": "10b5cef8-23ec-43b2-a85c-5403346ddd4b",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
-    "summary": "1. The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway.",
-    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
-    "author": "Jesse Hamilton",
-    "created_at": "2026-07-21T21:14:03.000Z"
-  },
-  {
-    "id": "2a2aa7af-61ed-4023-b247-4ba51bd12038",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App",
-    "summary": "1. Bitcoin Magazine\n\nBitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App\nJack Dorsey's company Block has debuted a decentralized rival to group chat platform Slack.\n2. This post Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/jack-dorsey-debuts-chat-app-slack-rival",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-21T21:11:57.000Z"
-  },
-  {
-    "id": "762d0545-6353-42db-877f-c12af25cb853",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies",
-    "summary": "1. Newly approved ethics language signed by President Donald Trump would prohibit federal officials from issuing cryptocurrencies.",
-    "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-21T21:11:05.000Z"
-  },
-  {
-    "id": "37333192-8610-425f-bf83-142e36e7c854",
-    "source": "The Block",
-    "type": "rss",
-    "title": "The Digital Chamber sues Illinois over incoming crypto transaction tax",
-    "summary": "1. The Digital Chamber is taking Illinois to court over its decision to pass a law imposing a 0.2% tax on digital asset transactions.",
-    "url": "https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-21T21:05:02.000Z"
-  },
-  {
-    "id": "14c8af73-f681-478b-979b-1d3e1776bdcc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil ",
-    "summary": "1. The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
-    "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-21T20:59:32.000Z"
-  },
-  {
-    "id": "4a910653-5ad8-42c6-91b7-0923df4d09d8",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "These are the countries moving to ban social media for children",
-    "summary": "1. Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-    "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-    "author": "Aisha Malik",
-    "created_at": "2026-07-21T20:57:35.000Z"
-  },
-  {
-    "id": "320a23b6-b753-4f14-ba4f-1cf0d9cfcfb1",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-    "summary": "1. OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-    "author": "Russell Brandom",
-    "created_at": "2026-07-21T20:56:55.000Z"
-  },
-  {
-    "id": "1e96219e-deed-45c7-a7e3-06dab96cf346",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇲🇾 Malaysia ordered Balaji Srinivasan's Network School in Forest City to cease operations from July 22 after revoking its business license.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ebe823d8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T20:45:07+00:00"
-  },
-  {
-    "id": "28c524ce-a8af-4702-93c7-357f8cd3d4da",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Thank you to all of the House Republicans who are supporting the first step towards getting as much of THE SAVE AMERICA ACT, as possible, in the Budget Bill, and to our Great Speaker, Mike Johnson.\n2. I am asking all House Republicans to VOTE YES on this very important Budget Resolution.\n3. I am watching the vote very closely, and hope Republicans can UNIFY to secure Elections against all forms of Foreign Country Interference, and Illegal Alien voting.",
-    "url": "https://trumpstruth.org/statuses/40181",
-    "author": "Trump Truth",
-    "created_at": "2026-07-21T20:44:15.000Z"
-  },
-  {
-    "id": "e952ad90-4513-4fe5-9c5c-71557e895aa8",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Coinbase Wants To Be Canada’s ‘Everything Exchange’ — With Crypto, Stocks, and Prediction Markets",
-    "summary": "1. Bitcoin Magazine\n\nCoinbase Wants To Be Canada’s ‘Everything Exchange’ — With Crypto, Stocks, and Prediction Markets\nCoinbase is working to bring Canadian customers tokenized stocks and prediction markets in a push to become an \"everything exchange.\" \nThis post Coinbase Wants To Be Canada’s ‘Everything Exchange’ — With Crypto, Stocks, and Prediction Markets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/coinbase-pushes-for-everything-exchange",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-21T20:43:19.000Z"
-  },
-  {
-    "id": "4779b550-cddc-41cb-b731-92731baa95b6",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation",
-    "summary": "1. Canton Network developer Digital Asset has raised an additional $10 million from Shinhan Financial Group and SC Ventures.",
-    "url": "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-21T20:42:34.000Z"
-  },
-  {
-    "id": "8b9ef36f-73f9-447e-9c06-12c084853d3f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇮🇷🇺🇸 Iran war has cost the United States $37,500,000,000 so far.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#5b1e6d84",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T20:39:23+00:00"
-  },
-  {
-    "id": "a4e1b758-6f34-4e73-94fa-23b0215be622",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
-    "summary": "1. Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100.",
-    "url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Marcel Pechman",
-    "created_at": "2026-07-21T20:26:13.000Z"
-  },
-  {
-    "id": "03a811b8-0249-4cf4-b480-baf17fb12eae",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Russia’s Duma Advances Bill 1194918-8, Sending Crypto Law to Putin’s Desk",
-    "summary": "1. Russia’s State Duma passed a bill Tuesday that gives the country its first full legal framework for cryptocurrency, treating digital assets as property while keeping them out of everyday payments.\n2. According to Rossiyskaya Gazeta (rg.ru), lawmakers approved Bill No.\n3. 1194918-8, “On Digital Currency and Digital Rights,” in its second and third readings on July 21.",
-    "url": "https://news.bitcoin.com/russias-duma-advances-bill-1194918-8-sending-crypto-law-to-putins-desk/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-21T20:24:12.000Z"
-  },
-  {
-    "id": "ae1d100a-ec61-4622-ad70-87c266a2873b",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
-    "summary": "1. The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
-    "url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-21T20:20:49.000Z"
-  },
-  {
-    "id": "8a1965ce-9912-4ada-ace8-7e05bd9cc333",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close higher",
-    "summary": "The three major U.S. stock indices closed higher today.- S&P 500: +0.89%- Nasdaq: +1.29%- Dow Jones: +0.74%",
-    "url": "https://t.me/CoinnessGL#f4d730ab",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-21T20:06:11+00:00"
-  },
-  {
-    "id": "159484e0-3b45-4bdf-a424-f7a3bdd3d892",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
-    "summary": "1. BTC has rebounded 15% from the July lows, but some analysts cautioned that the next move hinges on clearing a level where many recent buyers may look to sell.",
-    "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-21T20:05:33.000Z"
-  },
-  {
-    "id": "8e1698a3-f7c2-4ed0-9604-62c33baa06ee",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "OpenAI says its AI models escaped a secure test environment and hacked AI company Hugging Face to cheat on an evaluation.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#f6c38b88",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T19:54:55+00:00"
-  },
-  {
-    "id": "92016dbe-d1c7-4836-ab18-dd2910762fb9",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpAfghanistan War: 20 years, 2,000 DEAD.\n2. Iraq War: 9 years, 4,600 DEAD.\n3. Vietnam War: 19 years and 5 months, 58,220 DEAD.",
-    "url": "https://trumpstruth.org/statuses/40174",
-    "author": "Trump Truth",
-    "created_at": "2026-07-21T19:54:34.000Z"
-  },
-  {
-    "id": "967814ef-2cc9-4831-8df7-a7a8c26fde14",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. RT @realDonaldTrumpAfter meeting with the President of Lebanon, Joseph Aoun, who has done a remarkable job working to transform his Country, I am hereby directing my Administration to allow all U.S.\n2. airline carriers to fly directly to Lebanon so that Americans can easily visit this beautiful land.\n3. Hopefully, other Countries will do the same.",
-    "url": "https://trumpstruth.org/statuses/40176",
-    "author": "Trump Truth",
-    "created_at": "2026-07-21T19:54:32.000Z"
   }
 ]
