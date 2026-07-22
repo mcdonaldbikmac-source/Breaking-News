@@ -1,5 +1,105 @@
 [
   {
+    "id": "2a3214f2-8669-4eca-a5d9-d352d3bd1023",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-22T08:38:11.000Z"
+  },
+  {
+    "id": "8e21ac12-3b8c-4516-8947-a308d671355d",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-22T08:38:11.000Z"
+  },
+  {
+    "id": "abae6f66-e436-49f2-8e0a-858e582716f4",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "SUI Trader Eyes $5 Target as Expert Sees ‘Early Recovery Signs’",
+    "summary": "1. Some analysts are calling SUI’s chart the “cleanest” in crypto at the moment, naming $5, $8, and $13 as potential near-term targets.\n2. The call that landed the same month, analyst Michael van de Poppe flagged SUI among altcoins showing “early signs of recovery.” A Bullish Call, Unconfirmed by the Chart Onchain analysts suggest that SUI […]",
+    "url": "https://news.bitcoin.com/sui-trader-eyes-5-target-as-expert-sees-early-recovery-signs/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-22T08:30:32.000Z"
+  },
+  {
+    "id": "268b0d97-c611-4307-9bce-1ad51c9c621a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to temporarily suspend NEO N3 token deposits, withdrawals on July 31",
+    "summary": "South Korean exchange Upbit announced it will temporarily suspend deposits and withdrawals for NEO, GAS and other cryptocurrencies on the NEO N3 network from 9:00 a.m. UTC on July 31 due to a NEO N3 network hard fork.",
+    "url": "https://t.me/CoinnessGL#6f5afc4a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T08:27:50+00:00"
+  },
+  {
+    "id": "9d80a289-ee32-4c0a-b8b8-f19e9c29995f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Strategy CEO expects BTC dominance to keep rising",
+    "summary": "Phong Le, CEO of Strategy, said BTC dominance is expected to rise as stablecoin and tokenization growth continues. In a post on X, Le said BTC dominance has steadily expanded over the past four years amid BTC treasury accumulation by companies, the launch of spot ETFs, participation by institutional investors and U.S. policy support. Le added BTC dominance is likely to continue rising as the digital asset ecosystem grows alongside broader crypto adoption.",
+    "url": "https://t.me/CoinnessGL#04470940",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T08:25:08+00:00"
+  },
+  {
+    "id": "94d7dc60-8d0d-47d4-8ae9-16ac7da19284",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "KISA launches project to expand deposit token-based payment infrastructure",
+    "summary": "South Korea’s Korea Internet & Security Agency (KISA) and the Ministry of Science and ICT are moving to build deposit token-based payment infrastructure to expand the results of the Bank of Korea’s central bank digital currency (CBDC) pilot project, “Project Hangang,” into private-sector payments, Digital Asset reported. On July 22, KISA and the ministry said they held a joint launch ceremony with related agencies for the project and will begin pushing it forward in earnest. A key feature of the initiative is that it will use existing payment systems rather than build a new payment infrastructure. more:",
+    "url": "https://t.me/CoinnessGL#ec3559ec",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-22T08:16:07+00:00"
+  },
+  {
+    "id": "d7e3b131-7f6e-4e90-8f85-1206734a7616",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ XRP Ledger agentic transactions have passed 1M, with RippleX’s head of engineering predicting they could reach 100M within the next few years.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#8bb0cc0c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-22T08:15:07+00:00"
+  },
+  {
+    "id": "4b760fe3-afb8-42d3-9f50-d05abfbe1ed2",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
+    "summary": "1. A two-day chip rebound stalled ahead of Alphabet's earnings in a sign of whether the hundreds of billions going into AI is paying off.\n2. Bitcoin has tracked that trade all month.",
+    "url": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-22T08:13:28.000Z"
+  },
+  {
+    "id": "00b521c9-91b0-4425-ab8d-afb8786d051b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+    "summary": "1. Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+    "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "author": "Rebecca Bellan",
+    "created_at": "2026-07-22T08:00:00.000Z"
+  },
+  {
+    "id": "9d86c87f-c378-4f9f-9cf2-744fdc1b0d96",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin ETFs extend inflow streak to six days with $203M added",
+    "summary": "1. US spot Bitcoin ETFs extended their inflow streak to six sessions, bringing in about $930 million while remaining down $4.84 billion on a net basis year to date.",
+    "url": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-22T07:57:03.000Z"
+  },
+  {
     "id": "8e642473-9c24-4dee-9180-07870a350f16",
     "source": "The Block",
     "type": "rss",
@@ -20,7 +120,7 @@
     "created_at": "2026-07-22T07:41:49.000Z"
   },
   {
-    "id": "2e94070e-a78d-46d4-b6cf-c49d890b98c1",
+    "id": "e359975c-6a4d-4c95-b61e-66dce602c216",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Satsuma Technology shareholders approved plans to sell the firm’s 668 Bitcoin and delist from the London Stock Exchange, less than a year after raising about $218M for its BTC strategy.",
@@ -60,7 +160,7 @@
     "created_at": "2026-07-22T07:30:23.000Z"
   },
   {
-    "id": "d1fcbf1d-4f9d-4609-a44e-c516faf8bdb6",
+    "id": "52605131-fe5e-432c-87ad-6d06880fa374",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "💰 Augustus raised $180M at a $1B valuation to give international fintechs direct access to USD accounts, payment rails, and stablecoins.",
@@ -290,7 +390,7 @@
     "created_at": "2026-07-22T02:59:30.000Z"
   },
   {
-    "id": "9655b20e-0d53-48be-a3e6-06d1222b0031",
+    "id": "2904f6a3-d096-4409-945d-4d68a3aa4533",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Elon Musk says Grok will make a \"full-length movie\" of The Odyssey that is \"historically accurate\" by the end of this year.@WatcherGuru",
@@ -318,25 +418,5 @@
     "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Cointelegraph by Felix Ng",
     "created_at": "2026-07-22T02:45:55.000Z"
-  },
-  {
-    "id": "929dec2d-aa44-4745-ad1d-ac0c984ea9aa",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "FBI Warns Fake Agents Are Using AI to Trick Scam Victims Again",
-    "summary": "1. The FBI says criminals are using fake agents, AI-generated videos, and spoofed government websites to target previous fraud victims.\n2. Officials warn that recovery scams are becoming harder to spot as scammers adopt more convincing technology.\n3. Fake Agents Target Victims a Second Time The FBI is warning that scammers are posing as federal agents and using […]",
-    "url": "https://news.bitcoin.com/fbi-warns-fake-agents-are-using-ai-to-trick-scam-victims-again/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-22T02:30:21.000Z"
-  },
-  {
-    "id": "73dc2946-f6be-407f-bf18-da8e5433980b",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Rigged Elections!!!",
-    "url": "https://trumpstruth.org/statuses/40184",
-    "author": "Trump Truth",
-    "created_at": "2026-07-22T01:58:06.000Z"
   }
 ]
