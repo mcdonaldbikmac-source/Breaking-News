@@ -1,5 +1,65 @@
 [
   {
+    "id": "c5e63363-c25a-4698-a93a-2d61d42f8177",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph",
+    "created_at": "2026-07-22T05:43:51.000Z"
+  },
+  {
+    "id": "62ac1aa6-2122-418b-a4db-6d799d4dcd95",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Binance Drops VIP 3 Asset Bar to $1M as 4x OTC Trading Credit Broadens Tier Access",
+    "summary": "1. Binance is cutting the VIP 3 wallet asset requirement to $1 million, down from $3 million, while over-the-counter (OTC) spot trading volume will now count toward overall spot volume at four times its actual value.\n2. Lower Thresholds and OTC Multipliers Binance announced additional changes to its VIP Program on Tuesday, lowering the asset requirement for […]",
+    "url": "https://news.bitcoin.com/binance-drops-vip-3-asset-bar-to-1m-as-4x-otc-trading-credit-broadens-tier-access/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-22T05:30:23.000Z"
+  },
+  {
+    "id": "59107f0b-810e-4447-8c14-a11917481cc8",
+    "source": "Politico",
+    "type": "rss",
+    "title": "The top of Arizona’s GOP ticket is littered with 2020 election deniers",
+    "summary": "1. The three top Republican candidates in the Grand Canyon State all played a key role in casting doubt on Joe Biden’s win over Donald Trump six years ago.",
+    "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511",
+    "author": "By Andrew Howard and Samuel Benson",
+    "created_at": "2026-07-22T05:15:06.000Z"
+  },
+  {
+    "id": "8c61ba9d-47b6-436c-b6ea-ee988b040398",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low",
+    "summary": "1. Semiconductor stocks led a second day of gains on AI optimism, while the yen slid past 163 per dollar for the first time since 1986.",
+    "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-22T05:03:39.000Z"
+  },
+  {
+    "id": "c5be46a9-240e-4f88-82b7-35854a7777dc",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Zuckerberg Fears His Teams Are Too Slow for a $145 Billion AI Push",
+    "summary": "1. Mark Zuckerberg told staff in a recent internal meeting that Meta’s AI rollout is moving slower than he wants, even as the company targets up to $145 billion in AI spending in 2026.\n2. Meta has already cut about 8,000 jobs and reassigned roughly 7,000 employees into a new Agent Transformation group, with Zuckerberg expecting clearer […]",
+    "url": "https://news.bitcoin.com/zuckerberg-fears-his-teams-are-too-slow-for-a-145-billion-ai-push-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-22T04:30:51.000Z"
+  },
+  {
+    "id": "fd771774-d055-4763-8b36-d57d8c58b487",
+    "source": "The Block",
+    "type": "rss",
+    "title": "HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs",
+    "summary": "1. UK authorities sanctioned the crypto exchange in May for its alleged role in facilitating Russian sanctions evasion.",
+    "url": "https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-22T04:23:08.000Z"
+  },
+  {
     "id": "d9a1899c-560f-47fa-b147-b45239e58277",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -248,75 +308,5 @@
     "url": "https://news.bitcoin.com/xrp-ledger-hits-1-million-ai-agent-transactions-as-ripple-builds-ai-spending-infrastructure/",
     "author": "Kevin Helms",
     "created_at": "2026-07-22T00:24:02.000Z"
-  },
-  {
-    "id": "4b2c450a-5253-4ac0-9789-f5d0c3970fc8",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Meta is testing an AI bedtime story app for people with no imagination",
-    "summary": "1. At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-    "author": "Amanda Silberling",
-    "created_at": "2026-07-21T23:55:10.000Z"
-  },
-  {
-    "id": "9b004590-de9d-4085-a459-0578ae44031b",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "💰 Morgan Stanley’s spot Bitcoin ETF has added 115 BTC over the past week, bringing its holdings to 5,876 BTC worth over $389 million, per Arkham data.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#e3344260",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T23:55:06+00:00"
-  },
-  {
-    "id": "b4f0c107-4289-40d5-a1f7-b117d4498cac",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Telegram founder Pavel Durov says the app will roll out a native non-custodial GRAM wallet to its 1B+ users this summer, promising instant, zero-fee transactions.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#815a0ecb",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T23:10:07+00:00"
-  },
-  {
-    "id": "29364aaa-0299-42be-bb49-0f181e07abd0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Morpho has launched its Midnight protocol on Base, adding fixed-rate, fixed-term loans, initially supporting cbBTC and USDC.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#5d16a3e0",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T22:30:10+00:00"
-  },
-  {
-    "id": "9eed72e0-f0b2-4a28-922a-3d2753fd4c16",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Trump administration to redirect billions in federal research funding from universities toward AI.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#3b13bba0",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-21T22:14:46+00:00"
-  },
-  {
-    "id": "380cb760-f54a-4444-8168-0eb83c432ebb",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
-    "summary": "1. Illinois enacted a 0.2% tax on all crypto transactions last month, with the tax taking effect next year.",
-    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
-    "author": "Nikhilesh De",
-    "created_at": "2026-07-21T22:08:10.000Z"
-  },
-  {
-    "id": "fe7d1ffe-3f64-4065-ac61-4a7311266f84",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ CoinShares has unveiled a UCITS platform targeting Europe’s €26.3T UCITS fund ecosystem, debuting with a Bitcoin Mining ETF on Deutsche Börse Xetra.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#ea3ec249",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-21T22:00:11+00:00"
   }
 ]
