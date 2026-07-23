@@ -1,5 +1,65 @@
 [
   {
+    "id": "244162d3-236d-4c00-a197-5b1ffff7e586",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-23T03:29:01.000Z"
+  },
+  {
+    "id": "469628f2-2c92-4649-baf8-260a0bb61d0c",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-23T03:29:01.000Z"
+  },
+  {
+    "id": "d3ba7ecf-9c99-47fc-b5b7-899b9d08f644",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase to expand Singapore office headcount, strengthen local business",
+    "summary": "Coinbase plans to increase the size of its Singapore office to about 200 employees by the end of this year from about 150 now, Tech in Asia reported. Coinbase obtained a full Major Payment Institution license in Singapore under the Payment Services Act in October 2023 and has since expanded its investment in Singapore and across Asia.",
+    "url": "https://t.me/CoinnessGL#69b2751b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-23T03:21:45+00:00"
+  },
+  {
+    "id": "5529522d-9dd7-4af8-ba00-dd7713f892f0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Kazakhstan approves up to 10 years of power support for crypto miners",
+    "summary": "Kazakhstan has approved rules for a strategic digital mining program that guarantee electricity supplies to cryptocurrency mining companies for up to 10 years, according to a report by a West Asian media outlet. Under the rules, participating companies can receive power allocations from electricity generators at capped rates. In return, they must transfer part of their mined cryptocurrency to Kazakhstan’s Silicon Valley, Astar Network, or a hub, and the assets will be held in trust by a state investment corporation under the central bank before being used to expand the country’s strategic crypto reserve.",
+    "url": "https://t.me/CoinnessGL#d5cfc36a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-23T03:18:01+00:00"
+  },
+  {
+    "id": "b97c3ed9-4b86-4edb-a27a-dae49beb8829",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to list CHECK today",
+    "summary": "South Korean exchange Bithumb announced the listing of CheckMate (CHECK) today at 6:00 a.m. UTC.",
+    "url": "https://t.me/CoinnessGL#12fed2e3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-23T03:17:08+00:00"
+  },
+  {
+    "id": "cae07241-6037-457b-bedb-c9cfc5bd7703",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🚨 Zilliqa halted native ZIL transactions after discovering a 2019 bug in its Ledger app that lets attackers recover private keys from onchain signatures.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1fbdad0f",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-23T03:15:08+00:00"
+  },
+  {
     "id": "406f413d-f432-435c-bf23-26a68f5557f2",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -60,7 +120,7 @@
     "created_at": "2026-07-23T02:14:26.000Z"
   },
   {
-    "id": "f89a1fa3-c15d-4093-9ffa-6116dc9c2c28",
+    "id": "cd56a2cf-48f7-4090-bee5-ca3442876d4b",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🚨 Cardano wallet SecondFi is shutting down after attackers exploited a flaw in its transaction-signing software to steal 16.1 million ADA, worth about $2.4M, from 374 wallets.",
@@ -110,7 +170,7 @@
     "created_at": "2026-07-23T01:30:23.000Z"
   },
   {
-    "id": "2bfb9cf6-c199-48c2-9fcb-d8263fa42e16",
+    "id": "3e56af68-d2f6-45d7-bcce-261e320a21e4",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Senate Democrats say they oppose the new Crypto Clarity Act draft bill but are working with Republicans to get it \"over the finish line.\"@WatcherGuru",
@@ -120,7 +180,7 @@
     "created_at": "2026-07-23T01:01:06+00:00"
   },
   {
-    "id": "31862462-dd7c-4095-8ed5-5a5069366bae",
+    "id": "8a9e8fed-8b2c-4409-858a-8e4e81db8515",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🏦 Revolut has hit a $115B valuation in a secondary share sale, making it Europe's most valuable private company, per WSJ.",
@@ -150,7 +210,7 @@
     "created_at": "2026-07-22T23:47:54.000Z"
   },
   {
-    "id": "799e2e33-dd6b-40a3-ae4a-aa30e0c5af88",
+    "id": "c3fbd34b-f989-48ae-a5cd-913fd7c0af6c",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Nancy Pelosi and 197 Democrats voted against the \"Stop Insider Trading Act.\"@WatcherGuru",
@@ -258,65 +318,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#d8401ee9",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-22T21:50:07+00:00"
-  },
-  {
-    "id": "ebf61719-ff25-4d8e-9aa5-f9aa918c447e",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.218",
-    "summary": "1. ## What's changed\n\n- Changed `/code-review` to run as a background subagent, so review work no longer fills your conversation and keeps stacked slash commands as its review target\n- Added screen-reader announcements of deleted text for word and line deletions (`Option+Delete`, `Ctrl+W`, `Cmd+Backspace`, `Ctrl+U`, `Ctrl+K`) in `--ax-screen-reader` mode\n- Fixed Windows paths with `\\u`-prefixed segments (like `C:\\Users\\unicorn`) being corrupted into CJK characters in tool inputs, which made those files inaccessible\n- Fixed the left arrow key discarding the conversation with no undo: presses right after editing now ask to confirm, and Esc in the agent view returns to the conversation it backgrounded\n- Added HTTP status and error text to `claude mcp list` and `/mcp` when a server fails to connect, and a warning for MCP config values with hidden leading or trailing whitespace\n- Fixed multi-line paste collapsing into one line with `j` in place of newlines in terminals that encode pasted newlines as Ctrl+J\n- Fixed `/context` reporting stale pre-compact token usage after compacting from the message picker\n- Fixed `/ultrareview` failing on descriptive arguments like \"review my auth changes\" — they now run a review of your current branch with the text applied as a note to the findings\n- Fixed `/code-review ultra` silently running a local review in non-interactive sessions — it now launches the cloud review\n- Fixed gateway spend metering to price Bedrock application-inference-profile ARNs and other config-mapped upstream model IDs at the configured model's rates\n- Fixed mojibake when a long IDE selection was truncated mid-emoji, and a case where a tool executor error could be silently dropped\n- Fixed an engine teardown race that could start and abandon a phantom turn, and made input pushed after close consistently rejected\n- Fixed spurious \"[Request interrupted by user]\" messages after interrupted tool calls, and an unpaired `tool_use` block left in the transcript when a tool aborted mid-response\n- Fixed VoiceOver reading \"new line\" instead of echoing the typed space at the end of the input in `--ax-screen-reader` mode\n- Fixed plugin and settings panels not moving the terminal cursor to the focused row, so screen readers and magnifiers can follow arrow-key navigation\n- Fixed crashes (maximum call stack exceeded) when a deeply nested watched directory tree was deleted or moved, and when rendering deeply nested UI trees\n- Fixed pull request events occasionally being lost when a session exited immediately after creating or linking a PR\n- Fixed the Bedrock setup wizard failing profile verification for assume-role profiles in partitioned AWS regions and on proxy-only networks\n- Fixed rare negative or incorrect turn duration measurements after a system clock adjustment by timing turns with a monotonic clock\n- Fixed the \"N MCP servers need authentication\" startup notice over-counting claude.ai connectors that aren't connected in claude.ai\n- Fixed prompt history entries being dropped or duplicated when history writes raced or failed\n- Fixed a retry loop that re-sent identical doomed requests after a context-overflow error with a large thinking budget; `Ctrl+B` backgrounding now applies the same background-shell caps as other paths\n- Fixed agent frontmatter hooks running from untrusted folders: hooks now require the agent file's own folder to have accepted workspace trust\n- Fixed fork-session lineage being lost after compaction in headless and SDK sessions\n- Fixed a resumed session failing every turn, or crashing on resume, when its history held a malformed delta attachment\n- Improved `/ultrareview` error feedback so Claude can correct an invalid argument instead of retrying it unchanged\n- Improved auto mode: the dangerous-rm, background-`&`, and suspicious-Windows-path checks no longer open permission dialogs; the auto-mode classifier adjudicates them instead\n- Improved sandbox command restrictions for IDE interactions\n- Improved trust dialogs to name the repository root the grant covers\n- Changed `/deep-research` to start only when invoked manually; Claude no longer launches it on its own\n- Changed plan mode with auto to no longer prompt for Bash commands the static analyzer can't prove read-only; the auto-mode classifier judges them instead\n- Added an announcement when fast mode changes as a result of switching models via `/config model=` or Remote Control\n- Changed server-managed settings so benign feature and cost toggles no longer trigger the settings-approval prompt\n- Changed agent markdown files to reject agent names containing `:`, which is reserved for plugin namespacing\n- Changed skills with `context: fork` to run in the background by default; opt out per skill with `background: false`\n- Added `yes`/`no`/`on`/`off`/`1`/`0` (case-insensitive) as accepted values for skill and plugin frontmatter booleans, alongside `true`/`false`\n- Fixed remote sessions continuing to send heartbeats after their worker was replaced, which left long-lived desktop and IDE processes retrying a rejected request every few seconds forever",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.218",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-22T21:24:56Z"
-  },
-  {
-    "id": "f73349ef-fbab-4e87-b812-76de3411195c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "950K Contacts Back CLARITY Act as Coinbase CEO Says Bill Is Ready for Full Senate Vote",
-    "summary": "1. Coinbase CEO Brian Armstrong said the CLARITY Act is ready for Senate floor consideration as Stand With Crypto reported 950,000 contacts with lawmakers, intensifying pressure for action on a federal digital asset framework.\n2. Crypto Advocates Escalate Pressure on Senate Stand With Crypto, a Coinbase-backed grassroots crypto advocacy group, said on July 22 that supporters have […]",
-    "url": "https://news.bitcoin.com/950k-contacts-back-clarity-act-as-coinbase-ceo-says-bill-is-ready-for-full-senate-vote/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-22T21:23:47.000Z"
-  },
-  {
-    "id": "421840c8-30a3-483e-8fdf-2f725daab27b",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Nasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing",
-    "summary": "1. Bitcoin Magazine\n\nNasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing\nNasdaq-listed Zhibao Technology plans to accept 3,500 bitcoin in a proposed $220 million PIPE deal, a move that would transform the Chinese insurance-tech firm into the latest public company building a bitcoin treasury.\n2. This post Nasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "url": "https://bitcoinmagazine.com/news/zhibao-technology-to-take-3500-bitcoin",
-    "author": "Micah Zimmerman",
-    "created_at": "2026-07-22T21:15:49.000Z"
-  },
-  {
-    "id": "f6eca6d9-f31d-4094-a627-bb38a77e1eac",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Kraken parent Payward is expanding its xStocks tokenized equities platform to bring Hong Kong stocks onchain, with the UK and South Korea to follow.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#88e1f195",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-22T21:15:07+00:00"
-  },
-  {
-    "id": "767db94b-65f1-4266-8b68-b6d6f9876e08",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
-    "summary": "1. The company's \"Everything Exchange\" is heading north.\n2. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
-    "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-22T21:13:04.000Z"
-  },
-  {
-    "id": "8ad78215-975a-42db-805f-c35923603960",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "S&P launches blockchain fundamentals index for digital assets ",
-    "summary": "1. The benchmark tracks blockchain networks using protocol revenue, offering an alternative to traditional market capitalization-weighted crypto indexes.",
-    "url": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-22T21:09:59.000Z"
   }
 ]
