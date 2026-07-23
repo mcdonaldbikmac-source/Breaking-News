@@ -1,6 +1,86 @@
 [
   {
-    "id": "d6b4db1b-4d07-4cd6-921a-918c192746d9",
+    "id": "2b539e02-0ce9-4c70-8fbe-5f7fb58e02e9",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-23T11:15:47.000Z"
+  },
+  {
+    "id": "04d8770f-e11f-4660-8c9a-d92dcd0b4228",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-23T11:15:47.000Z"
+  },
+  {
+    "id": "e4caa43f-cb86-4353-8898-923f5821b142",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 The US crypto industry is estimated to support 232,000 jobs and contribute more than $55B to the economy in 2026, per a National Cryptocurrency Association report.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#01f21ea8",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-23T11:15:07+00:00"
+  },
+  {
+    "id": "8f1b6265-1389-40a6-a658-345efd3dd61b",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
+    "summary": "1. Physical attacks on crypto holders are increasingly happening at home, and France has become the epicenter, a new report finds.",
+    "url": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-23T11:10:51.000Z"
+  },
+  {
+    "id": "dff4f498-28ca-49f2-bfea-c5d380bf126f",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Kazakhstan approves strategic crypto mining rules tied to national reserve",
+    "summary": "1. Kazakhstan plans to require miners to meet strict infrastructure standards and transfer part of their mined crypto assets to a state-backed reserve under new rules.",
+    "url": "https://cointelegraph.com/news/kazakhstan-strategic-crypto-mining-national-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-23T11:04:42.000Z"
+  },
+  {
+    "id": "fe264725-b95b-4570-9084-e73c818be7a4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+    "summary": "1. \"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+    "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "author": "Tim Fernholz",
+    "created_at": "2026-07-23T11:00:00.000Z"
+  },
+  {
+    "id": "442f70b2-e45a-4204-8be1-db46545e4d50",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Vanar Chain to migrate to Base, expand VANRY supply to 10 billion",
+    "summary": "Vanar Chain said on its official X account it will migrate to the Base network. It said VANRY’s role will shift from supporting existing blockchain infrastructure to coordinating and incentivizing an AI ecosystem. VANRY’s supply will also increase to 10 billion from 2.4 billion, with 62% of the total initially locked up and newly allocated tokens set to unlock steadily over five years.",
+    "url": "https://t.me/CoinnessGL#b780e1db",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-23T10:48:56+00:00"
+  },
+  {
+    "id": "448d5f1d-9be0-4120-b60d-bebc7cf8355d",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Bitcoin will get ‘lift’ from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec",
+    "summary": "1. Bitwise predicted that Hyperliquid and Robinhood TradFi ventures should form the basis for a crypto bull-market comeback that would lift Bitcoin and Ether.",
+    "url": "https://cointelegraph.com/markets/bitcoin-will-get-lift-from-hyperliquid-robinhood-in-next-crypto-bull-market-bitwise-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-23T10:48:55.000Z"
+  },
+  {
+    "id": "e791c84e-8891-4116-b801-9be1fea6383a",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🤖 Franklin Templeton’s head of digital assets says AI agents could be blockchain’s next killer use case, as legacy card networks are too slow and costly for machine-to-machine micropayments.",
@@ -20,7 +100,7 @@
     "created_at": "2026-07-23T10:38:13.000Z"
   },
   {
-    "id": "57fc813d-8ad2-4dd6-b98e-c1494e8fa835",
+    "id": "a253d3e3-df18-40b6-bb0c-9e99bb5498cf",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Citigroup cuts Coinbase price target to $235 from $400",
@@ -50,7 +130,7 @@
     "created_at": "2026-07-23T10:24:09.000Z"
   },
   {
-    "id": "145b4c77-6cfd-42b9-ade6-3a58f577bc65",
+    "id": "9cb3ce71-cb08-4952-b9b2-b61966db8555",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🤖 70% of US crypto traders surveyed by OKX say they'd let AI manage their portfolios autonomously or within preset risk limits.",
@@ -70,7 +150,7 @@
     "created_at": "2026-07-23T10:05:03+00:00"
   },
   {
-    "id": "a8cb756d-b167-4387-8f32-3f9abe48c0bd",
+    "id": "2c31d7d6-d31e-4b86-b973-fbce86668530",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Glassnode says BTC selling pressure has largely eased as macro backdrop improves",
@@ -130,7 +210,7 @@
     "created_at": "2026-07-23T09:30:50.000Z"
   },
   {
-    "id": "23e4eff5-41a4-4601-9a56-da6f58d7da41",
+    "id": "bda0675f-c1e8-41d6-8368-c97068389b0f",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Cryptocurrency exchange BitMEX to shut down all operations.@WatcherGuru",
@@ -180,7 +260,7 @@
     "created_at": "2026-07-23T09:00:36.000Z"
   },
   {
-    "id": "4555099a-5e55-4808-811e-c9debe9bd1d3",
+    "id": "a1f1ba73-9858-44ed-b01c-0b4e652c4f19",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "BitMEX will permanently shut down on Sept.",
@@ -428,25 +508,5 @@
     "url": "https://news.bitcoin.com/an-ai-just-solved-a-quantum-problem-on-an-ordinary-laptop-that-was-supposed-to-need-a-quantum-computer-49201/",
     "author": "Guest Author",
     "created_at": "2026-07-23T05:30:48.000Z"
-  },
-  {
-    "id": "6cf0044f-7f54-4512-b46d-2279dd8590c0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "South Korea’s Mirae Asset completes acquisition of Korbit crypto exchange",
-    "summary": "1. Mirae Asset also plans to increase its stake from 92.06% to 97.15% through an additional deal later this week, local media reported.",
-    "url": "https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-07-23T05:01:21.000Z"
-  },
-  {
-    "id": "679abf08-8bea-4a01-ba42-7a4a86742d7d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
-    "summary": "1. Security firms said the attacker used enough hot-validator signatures to approve a 24.15 million USDC withdrawal, while Arbitrum said its native bridge was not affected.",
-    "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-23T05:01:06.000Z"
   }
 ]
