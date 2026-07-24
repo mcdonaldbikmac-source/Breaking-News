@@ -1,5 +1,45 @@
 [
   {
+    "id": "6a0c0927-ed98-4fcb-8843-b7964b1a2a2e",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-24T03:32:56.000Z"
+  },
+  {
+    "id": "2efd8b23-0979-424b-8d1b-0d8d3bdfa7b3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Argentina Proposes Sweeping Deregulation Bill to Modernize Capital Markets With Crypto and Blockchain",
+    "summary": "1. The new law project, proposed by Deregulation Minister Federico Sturzenegger, would allow investment funds to invest in digital assets, the issuance of securities using decentralized technologies, and give full validity to smart contracts, modernizing outdated national market rules.\n2. Deregulation Bill Puts Digital Assets At The Forefront of Argentina’s Market Innovation Argentina is on the verge […]",
+    "url": "https://news.bitcoin.com/argentina-proposes-sweeping-deregulation-bill-to-modernize-capital-markets-with-crypto-and-blockchain/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-24T03:30:22.000Z"
+  },
+  {
+    "id": "4c79bf7b-e0b8-435f-9184-b8433a1015bc",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "U.S. debt nears $40 trillion as focus turns to gold and Bitcoin",
+    "summary": "Capital flows into gold and Bitcoin have emerged as a key question as total outstanding U.S. federal public debt approaches $40 trillion, cryptocurrency options trading platform BIT said in an analysis.In a post on X, BIT said expanded fiscal spending in the United States is unlikely to face immediate constraints as long as the U.S. economy keeps growing and overseas investors continue to support fiscal deficits and Treasury issuance. BIT added, however, that concerns are growing that major Treasury holders such as Japan could gradually reduce their U.S. Treasury holdings to defend rapidly depreciating domestic currencies. Rising U.S. Treasury yields reflect not only those concerns but also the risk that China could further cut its holdings, BIT said. China has continued to reduce the share of U.S. Treasurys in its foreign exchange reserves and increase its gold holdings as part of reserve diversification, according to BIT.",
+    "url": "https://t.me/CoinnessGL#bb2be282",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T03:27:37+00:00"
+  },
+  {
+    "id": "ae733e43-5965-4648-8ed2-96c8ade2bc45",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Sen. Gallego says GOP CLARITY Act ethics language falls short, plans new revision",
+    "summary": "U.S. Sen. Ruben Gallego, a Democrat, said the ethics provisions in the Republican-backed CLARITY Act revision were inadequate and that he plans to work with Republicans on another amendment, Cointelegraph reported, citing Politico.Earlier, Senate Republicans released a revised version of the CLARITY Act that included an ethics provision barring all federal officials, including President Donald Trump, from issuing or endorsing digital assets. Gallego said the Republican proposal was not a serious offer, did not properly reflect months of bipartisan talks, and that negotiations were still underway, with new language to be presented.",
+    "url": "https://t.me/CoinnessGL#a5f49098",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T03:23:11+00:00"
+  },
+  {
     "id": "70160649-e29f-482c-bc0f-3d2a0f8fb2b7",
     "source": "CoinTelegraph",
     "type": "rss",
@@ -10,7 +50,7 @@
     "created_at": "2026-07-24T03:10:24.000Z"
   },
   {
-    "id": "8fadd05a-d291-499b-a248-bb878aa364ba",
+    "id": "faf61cc8-36dc-4962-aec8-fa56529578c6",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Binance to add monitoring tags to LSK, ACX and STX",
@@ -60,7 +100,7 @@
     "created_at": "2026-07-24T02:30:44.000Z"
   },
   {
-    "id": "b75f1646-9d4b-441f-8fea-abeb33bda819",
+    "id": "aa7a1e68-cbb9-4a4e-9e13-799785a485dd",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Uniswap has launched Permissioned Pools on v4, an open-source standard for trading regulated assets on an AMM with compliance enforced onchain.",
@@ -70,7 +110,7 @@
     "created_at": "2026-07-24T02:20:06+00:00"
   },
   {
-    "id": "c480a7f6-4f56-4fce-ab7a-14628859aeb5",
+    "id": "93849ea0-f01c-4ea7-b4a3-e2c0bb87e536",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Jim Cramer says there are many \"reasons to sell\" right now.@WatcherGuru",
@@ -120,7 +160,7 @@
     "created_at": "2026-07-24T01:00:00.000Z"
   },
   {
-    "id": "692bba4f-4772-4427-b27c-befffec6604e",
+    "id": "747554e9-926a-4bf4-a670-270ef2443ad8",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Goldman Sachs CEO David Solomon says he's \"very supportive of moving the CLARITY Act forward\" to establish crypto market structure and advance innovation.",
@@ -140,7 +180,7 @@
     "created_at": "2026-07-24T00:36:33.000Z"
   },
   {
-    "id": "f5097d6a-7f7a-47ac-8de8-e5b7ddc3cf65",
+    "id": "8d902b5c-b1d2-49b0-8f14-1709b69042dd",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Binance has partnered with nonprofit STOP THE TRAFFIK to gain specialized intelligence and training for detecting crypto activity tied to human trafficking and child exploitation.",
@@ -200,7 +240,7 @@
     "created_at": "2026-07-23T22:09:50.000Z"
   },
   {
-    "id": "4d954e5b-2740-4333-9db3-ce7e530ad7db",
+    "id": "9fb575ae-9296-483e-b5f1-c20ed7e13721",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 President Trump says all damages done to ships will be paid for by Iranian money that the US has in its possession.@WatcherGuru",
@@ -298,15 +338,5 @@
     "url": "https://news.bitcoin.com/secs-peirce-warns-crypto-vaults-may-fall-under-securities-laws/",
     "author": "Emmanuel Musa",
     "created_at": "2026-07-23T21:40:34.000Z"
-  },
-  {
-    "id": "293df879-c62f-4978-884c-094c3fc84b1d",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Bitcoinist.App Brings Private Mining Pools to iOS",
-    "summary": "1. Bitcoin Magazine\n\nBitcoinist.App Brings Private Mining Pools to iOS\nThe only Bitcoin mining app on the Apple App Store that lets users create private pools, invite friends and family to combine hashpower, and compete with the global Bitcoin hashrate, while payouts go directly to wallets they control.\n2. This post Bitcoinist.App Brings Private Mining Pools to iOS first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
-    "url": "https://bitcoinmagazine.com/press-releases/bitcoinist-app-brings-private-mining-pools-to-ios",
-    "author": "Bitcoin Magazine",
-    "created_at": "2026-07-23T21:28:11.000Z"
   }
 ]
