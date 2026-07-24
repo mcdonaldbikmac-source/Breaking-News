@@ -1,5 +1,75 @@
 [
   {
+    "id": "cb3d79d3-5be7-4527-860a-95a42cd8e50c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "More than 25 firms test BTC lending service on Sui’s Hashi testnet",
+    "summary": "More than 25 institutions, including BitGo, Cumberland, FalconX, Ledger, Blockdaemon and Bullish, are conducting stress tests for BTC lending and credit services on the Hashi testnet, Bitcoin.com reported, after layer-one blockchain Sui launched the testnet for its Bitcoin-collateralized lending primitive Hashi. Wave Digital Assets also said it plans to prioritize the tokenization of yield-bearing Bitcoin bonds on Sui over the next three years once Hashi launches on mainnet. Hashi has not yet disclosed a mainnet launch schedule. The current testnet phase is designed to let developers and institutions integrate and validate lending, borrowing and credit products before real capital is deployed. If the testing is completed successfully, Bitcoin holders will be able to generate yield while keeping their assets in native BTC form.",
+    "url": "https://t.me/CoinnessGL#bebafd4a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T11:41:36+00:00"
+  },
+  {
+    "id": "cc0227c1-9643-424a-a6ea-97f28282bbb4",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto's institutional influx has killed the memecoin craze",
+    "summary": "1. Your day-ahead look for July 24, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-24T11:35:48.000Z"
+  },
+  {
+    "id": "beab77bb-0294-400c-ad28-42e961609864",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "A $5 billion cluster has formed in bitcoin options. It tells a bullish story",
+    "summary": "1. Bitcoin's $70,000 and $72,000 call strikes on Deribit have accumulated nearly $5 billion in open interest, with calls outnumbering puts by a significant margin.",
+    "url": "https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-24T11:34:53.000Z"
+  },
+  {
+    "id": "22edd544-b3ca-4a59-95f8-985cad651b9b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Sui’s Hashi Testnet Goes Live, Targeting a Slice of Bitcoin’s $1.4 Trillion Market",
+    "summary": "1. The Sui Foundation and Mysten Labs launched the testnet for Hashi earlier this week, a Bitcoin-collateral protocol that lets BTC back onchain loans without ever leaving the Bitcoin network.\n2. A Bridge Built to Avoid Bridges The Sui Foundation and Mysten Labs confirmed Hashi’s testnet went live on July 22, the latest step in a project […]",
+    "url": "https://news.bitcoin.com/sui-hashi-testnet-bitcoin-collateral-defi/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-24T11:30:05.000Z"
+  },
+  {
+    "id": "ec218a28-60c5-4b4b-b575-b568cc61cad7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Cardano founder says Trump should step away from crypto business while in office",
+    "summary": "Cardano founder Charles Hoskinson said in an interview with The Crypto Basic that U.S. President Donald Trump should step away from crypto-related business interests while in office and should not participate directly in the cryptocurrency market.Hoskinson said Trump is the ultimate insider, given the broad powers of the presidency and access to nonpublic information. He added that while he rarely agrees with U.S. Democratic Sen. Elizabeth Warren, her concerns about a sitting president taking part in the crypto market are valid.Warren had earlier raised conflict-of-interest concerns, saying the CLARITY Act, a U.S. crypto regulatory bill, does not contain sufficient safeguards to prevent a president from profiting from crypto businesses while in office. more:",
+    "url": "https://t.me/CoinnessGL#e88c917a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T11:25:30+00:00"
+  },
+  {
+    "id": "930b6cc9-610c-4145-abed-712cff23c6a1",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
+    "summary": "1. BTC held just under $65,000 and crypto broadly rose on Friday even as Brent crude surged to $97.66, its highest since May, as the Iran conflict persists and traditional markets stay muted.",
+    "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
+    "author": "Oliver Knight",
+    "created_at": "2026-07-24T11:19:38.000Z"
+  },
+  {
+    "id": "8843d599-355a-4465-8bb0-c199fd30b614",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "💰 Tesla held its Bitcoin treasury unchanged at 11,509 BTC through Q2 2026, marking nearly four years without buying or selling.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a2a1b654",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-24T11:15:07+00:00"
+  },
+  {
     "id": "af50088d-8330-4c6d-ac17-b2a0926fb2a1",
     "source": "The Defiant",
     "type": "rss",
@@ -50,7 +120,7 @@
     "created_at": "2026-07-24T10:29:49.000Z"
   },
   {
-    "id": "d8ffdbd8-bde8-4074-9a04-51f4bad9609b",
+    "id": "c7095bb7-aec4-4528-ad93-6d1e467da22c",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Ripple launches RLUSD management platform Ripple Mint for institutions",
@@ -100,7 +170,7 @@
     "created_at": "2026-07-24T10:10:07.000Z"
   },
   {
-    "id": "6a94b99a-534c-4385-bb7a-5307fbdb4313",
+    "id": "0c05232f-bf1d-47e5-b6a4-ac3400218e14",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "________ is the right coin.",
@@ -190,7 +260,7 @@
     "created_at": "2026-07-24T09:07:54+00:00"
   },
   {
-    "id": "abd93cf8-3e8c-41db-bace-44749e9eec83",
+    "id": "3df64cd8-fced-4574-adc5-e73919c4aaf0",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "A token that is worth all the hype it's getting👇",
@@ -400,7 +470,7 @@
     "created_at": "2026-07-24T07:01:06+00:00"
   },
   {
-    "id": "d117ec94-20ca-41f9-a1f3-e5e0c283002b",
+    "id": "fe3860aa-59d7-4c8d-b48f-72c62ff20d98",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "One of 💰 Bitcoin’s biggest mining pools Poolin just went bankruptTwitter",
@@ -508,45 +578,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#46ec513c",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-24T05:55:05+00:00"
-  },
-  {
-    "id": "3a72a49e-411e-41d5-95ba-e92939a6788e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BitMEX faces class action over alleged liquidation system manipulation, 623 BTC sought",
-    "summary": "Crypto derivatives exchange BitMEX is facing a class action over allegations it manipulated forced liquidations on the day it announced the shutdown of its exchange operations, Cointelegraph reported. According to the report, BKX Services and David Namdar filed the lawsuit against BitMEX in the U.S. District Court for the Southern District of New York.The plaintiffs claimed they lost a combined 622.66 BTC in forced liquidations, with BKX saying it lost at least 305.81 BTC and Namdar reporting losses of more than 316.85 BTC. They alleged BitMEX intentionally designed its system so it could profit from customer liquidations. The suit also alleged an internal trading desk had access to customers' nonpublic trading information and was able to keep trading while regular users could not close positions during server disruptions.BitMEX had earlier announced it would end exchange operations at 4:00 a.m. UTC on Sept. 23. more:",
-    "url": "https://t.me/CoinnessGL#87946904",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T05:32:04+00:00"
-  },
-  {
-    "id": "4f0c4e97-d3ba-4d0e-bd7a-517b708a0573",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Wisconsin Warns Election-Market Traders They May Be Disqualified From Voting",
-    "summary": "1. Wisconsin election officials say residents who trade contracts tied to an election may become ineligible to vote in that same contest.\n2. Kalshi accused the commission of voter suppression and warned courts could force a retraction of any such move.\n3. Kalshi calls warning ‘voter suppression’ The Wisconsin Elections Commission warned residents that buying election-related contracts on […]",
-    "url": "https://news.bitcoin.com/wisconsin-warns-election-market-traders-they-may-be-disqualified-from-voting/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-24T05:30:08.000Z"
-  },
-  {
-    "id": "207e4057-c2bc-4975-9cf1-d985592ce3f3",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown ",
-    "summary": "1. The proposed class action alleges BitMEX used privileged trading access and server freezes to profit from forced liquidations.",
-    "url": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-24T05:20:11.000Z"
-  },
-  {
-    "id": "2d71ab22-2fd5-472c-b102-839166ab0eb4",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Bitcoin treasury firm Empery Digital has invested $20M in Cardinal Data Power, a Texas AI data center developer planning a 750 MW campus that could eventually scale to 5+ GW.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#985980b7",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T05:10:07+00:00"
   }
 ]
