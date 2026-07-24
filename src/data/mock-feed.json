@@ -1,5 +1,75 @@
 [
   {
+    "id": "735f8f0b-3350-412e-b5f1-85da6b7192cf",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Weekly Top Gainers 1️⃣ eCash: +30.32% 2️⃣ KAITO: +27.83% 3️⃣ Lido DAO: +19.73%...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6d6fa942",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-24T08:35:05+00:00"
+  },
+  {
+    "id": "68711d12-15f5-4ae7-be6b-a43e0d8058d3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Samsung Wallet Adds Native Stablecoin Support in a Major Leap for Mainstream Crypto Adoption",
+    "summary": "1. During the 2026 Galaxy Unpacked event, Samsung announced that its in-house wallet app will include stablecoin support after launching its new Samsung Galaxy Card.\n2. The company stated that with this new inclusion, its wallet “becomes the foundation of a connected financial ecosystem.” Samsung Announces Stablecoin Support in Samsung Wallet Stablecoins are becoming one of the […]",
+    "url": "https://news.bitcoin.com/samsung-wallet-adds-native-stablecoin-support-in-a-major-leap-for-mainstream-crypto-adoption/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-24T08:30:52.000Z"
+  },
+  {
+    "id": "ec72fe0b-cfe9-4781-81b6-d3c25ca2a566",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Media outlet says ETH recovery is gaining traction despite prolonged downtrend",
+    "summary": "Ethereum (ETH) built bullish momentum during a prolonged downturn, and its recovery now appears to be gaining traction, according to U.Today. The outlet said Ethereum had been in a six-month capitulation phase, with on-chain data showing most ETH holders were underwater and sellers in control. It added the market is only beginning to recover from that downward pressure, citing an average holder cost basis of $1,880 as evidence. U.Today said a break above the 100-day exponential moving average could pave the way for a retest of the psychologically important $2,000 level. It added bullish momentum remains firm despite a recent short-term pullback, while the relative strength index appears supportive of buying demand.",
+    "url": "https://t.me/CoinnessGL#ccaf7b19",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T08:30:12+00:00"
+  },
+  {
+    "id": "80e6ca58-4c2d-4a65-a675-644c0d7c240f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Court upholds FIU ban on stablecoin exchange services without VASP license",
+    "summary": "A South Korean court ruled that the Financial Intelligence Unit’s measure barring exchange services for stablecoins and other virtual assets for foreign customers was lawful, Edaily reported. The Seoul Administrative Court’s sixth division dismissed a lawsuit filed by South Korean blockchain fintech platform Darwin KS against the FIU on July 24, citing the requirement for a virtual asset service provider (VASP) license to operate coin exchange services. more:",
+    "url": "https://t.me/CoinnessGL#59163053",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T08:12:10+00:00"
+  },
+  {
+    "id": "0c90fed3-c144-4b75-aa02-349533f597fb",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🏦 BNY plans to enable 24/7 settlement for both conventional and tokenized US Treasuries by 2027, per Bloomberg.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#eca21dc3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-24T08:10:07+00:00"
+  },
+  {
+    "id": "299018f8-1542-4297-9d49-497cb2936ec0",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "EU widens Belarus ownership ban to all crypto service providers ",
+    "summary": "1. The EU will bar Belarusian nationals and residents from owning, controlling or managing exchanges and other MiCA-regulated crypto firms from Aug.",
+    "url": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-24T08:06:15.000Z"
+  },
+  {
+    "id": "52970088-1403-4749-90b2-2dfa10691fdb",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Japan spot BTC ETFs could draw $18.4B in inflows: Xwin Research Japan",
+    "summary": "Japan is expected to launch spot BTC ETFs in 2028, and those products could attract $18.4 billion in inflows, according to Xwin Research Japan. The firm said Japan’s household financial assets total about $14.6 trillion, meaning even $18.4 billion in spot BTC ETFs would account for just 0.13% of that total. It added the figure would also equal about 1% of Japan’s publicly offered equity investment fund market. more:",
+    "url": "https://t.me/CoinnessGL#ce10ba45",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T08:06:03+00:00"
+  },
+  {
     "id": "ff2a92a2-e445-4b92-91d2-827193ec436b",
     "source": "The Defiant",
     "type": "rss",
@@ -30,7 +100,7 @@
     "created_at": "2026-07-24T07:30:35.000Z"
   },
   {
-    "id": "486204f5-84f5-4c52-9f98-120d5f82c101",
+    "id": "b990a530-dc49-422e-9ab2-497e4cbb1971",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 JPMorgan says AI-themed ETFs have seen a dramatic surge in inflows even after a rough quarter for the sector's performance.",
@@ -80,7 +150,7 @@
     "created_at": "2026-07-24T07:01:06+00:00"
   },
   {
-    "id": "3290e44a-44ff-49ab-a01b-b16dc9467ddb",
+    "id": "682c15e2-3c1e-491c-870b-eef1115cfcfe",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "One of 💰 Bitcoin’s biggest mining pools Poolin just went bankruptTwitter",
@@ -388,35 +458,5 @@
     "url": "https://t.me/CoinnessGL#ae80b763",
     "author": "@CoinnessGL",
     "created_at": "2026-07-24T02:44:47+00:00"
-  },
-  {
-    "id": "edbc4b14-163e-4dde-a085-25b73019fdd5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Invests in Notabene to Expand RLUSD Stablecoin Payments for Financial Institutions",
-    "summary": "1. Ripple has made a strategic investment in crypto compliance firm Notabene, pairing its RLUSD stablecoin with a network that Notabene says processes more than $2 trillion in annualized transaction volume.\n2. The partnership aims to accelerate regulated enterprise stablecoin payments as new global rules take effect.\n3. Notabene Announces Ripple Investment Notabene, a New York-based provider of […]",
-    "url": "https://news.bitcoin.com/ripple-invests-in-notabene-to-expand-rlusd-stablecoin-payments-for-financial-institutions/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-24T02:30:44.000Z"
-  },
-  {
-    "id": "8e485e68-0b67-4c9c-9c94-6ca152b05359",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Uniswap has launched Permissioned Pools on v4, an open-source standard for trading regulated assets on an AMM with compliance enforced onchain.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#09a0e091",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T02:20:06+00:00"
-  },
-  {
-    "id": "ffa2c4c4-6aaf-4b5f-a7c3-319c278c244f",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Jim Cramer says there are many \"reasons to sell\" right now.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#634c8529",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-24T02:09:37+00:00"
   }
 ]
