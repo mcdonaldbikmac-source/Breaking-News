@@ -1,5 +1,185 @@
 [
   {
+    "id": "e94c5c4c-3b90-4e34-9117-6a08ebdd5288",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Senator Ruben Gallego is working with Senator Thom Tillis on a CLARITY Act ethics counteroffer, calling the Republican proposal \"not a serious effort.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#f10e953c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-24T16:45:07+00:00"
+  },
+  {
+    "id": "cbb2e6e3-18ea-458e-80e1-a7e16e12a260",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Canada disinvited the United States of America to the opening of the Gordie Howe Bridge, which is fine, considering they are paying substantial TARIFFS to the United States, but the original Deal on the Bridge, which was terribly negotiated by a previous Administration, no longer stands.\n2. We changed the terms of the Deal so that the United States of America now gets 50% of the Profit.\n3. Thank you for your attention to this matter!",
+    "url": "https://trumpstruth.org/statuses/40233",
+    "author": "Trump Truth",
+    "created_at": "2026-07-24T16:40:13.000Z"
+  },
+  {
+    "id": "cda1a6d6-7ee0-4994-9d78-fef3b4f809b4",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "KULR sells 333 BTC to repay $20M Coinbase credit facility",
+    "summary": "KULR Technology, a New York Stock Exchange-listed company known as a Bitcoin accumulation firm (DAT), said it sold 333 BTC to fully repay a $20 million credit facility from Coinbase. The company now holds a total of 760 BTC.",
+    "url": "https://t.me/CoinnessGL#a377f2f3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T16:39:36+00:00"
+  },
+  {
+    "id": "12acff3d-4d1c-4c82-86c7-ffba0132f953",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+    "summary": "1. Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
+    "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-24T16:34:25.000Z"
+  },
+  {
+    "id": "65bad1a2-1c50-403f-934f-f9e6f655fd9c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analyst who predicted last year's BTC peak expects new high before next halving",
+    "summary": "KillaXBT, a cryptocurrency analyst known for accurately predicting Bitcoin’s 2025 peak, said Bitcoin’s cycle durations are getting shorter. In a post on X, KillaXBT said the last cycle took just 476 days from the bottom to a new all-time high, a much faster pace than in the previous two cycles, and added BTC could reach a new high before the next halving.",
+    "url": "https://t.me/CoinnessGL#911e6582",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T16:28:49+00:00"
+  },
+  {
+    "id": "55afe495-f964-4632-b539-9ec2e061a237",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'",
+    "summary": "1. The firm says its \"digital credit\" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.",
+    "url": "https://decrypt.co/374281/strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-24T16:21:52.000Z"
+  },
+  {
+    "id": "08be2b8b-514f-48c3-914f-031a9906fc62",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Sealed in Foil: BMAG’s New Focus on Trading Cards",
+    "summary": "1. Bitcoin Magazine\n\nSealed in Foil: BMAG’s New Focus on Trading Cards\nFrom rare pulls to provable ownership, BMAG explores why trading cards and Bitcoin share the same foundations of authenticity, scarcity, and value.\n2. This post Sealed in Foil: BMAG’s New Focus on Trading Cards first appeared on Bitcoin Magazine and is written by Dennis Koch.",
+    "url": "https://bitcoinmagazine.com/culture/sealed-in-foil-bmags-new-focus-on-trading-cards",
+    "author": "Dennis Koch",
+    "created_at": "2026-07-24T16:20:25.000Z"
+  },
+  {
+    "id": "ff37a105-aaaf-49f9-8577-d2fd3940d4ce",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
+    "summary": "1. BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities—though the week still closed in the green.",
+    "url": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-24T16:17:37.000Z"
+  },
+  {
+    "id": "59d2f148-5ef9-4ad6-8ea1-81e87d5d3eb0",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: heads up: we changed how follower and following counts appear.\n\nthey're now filt...",
+    "summary": "1. heads up: we changed how follower and following counts appear.\n2. they're now filtered by neynar score and activity in the last 6 months.\n3. so your counts might look a bit different today.",
+    "url": "https://warpcast.com/farcaster/0xe248f4e6",
+    "author": "Farcaster",
+    "created_at": "2026-07-24T16:16:01.000Z"
+  },
+  {
+    "id": "fc0c24b8-699c-4264-aa04-0c84c8695552",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ether ETFs Add $26 Million as Bitcoin’s 7-Day Streak Ends",
+    "summary": "1. spot bitcoin ETFs recorded $225.18 million in net outflows on Thursday, ending a seven-session inflow streak.\n2. Ether funds moved in the opposite direction, adding $26.32 million on the second anniversary of their market debut.\n3. Bitcoin ETFs See $225 Million Exit as Net Assets Fall Below $80 Billion The week’s strongest crypto exchange-traded fund (ETF) […]",
+    "url": "https://news.bitcoin.com/ether-etfs-add-26-million-as-bitcoins-7-day-streak-ends/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-24T16:13:16.000Z"
+  },
+  {
+    "id": "d84d2108-f513-44ec-9dce-7394e1c47676",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase policy chief says now is the time to pass the CLARITY Act",
+    "summary": "Coinbase Chief Policy Officer Faryar Shirzad said policymakers should not let the pursuit of perfection get in the way of a good outcome and that now is the time to pass the CLARITY Act, Cointelegraph reported.",
+    "url": "https://t.me/CoinnessGL#76f85a9a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T16:12:19+00:00"
+  },
+  {
+    "id": "cba243da-3f3c-49ef-b7ba-e5239454304f",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
+    "summary": "1. Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
+    "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-07-24T16:11:56.000Z"
+  },
+  {
+    "id": "a1316535-3ce7-458a-92be-f86206c87131",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Senate Majority Leader John Thune says the CLARITY Act likely won't pass before Congress' summer break, though he hopes to still start the floor process before then.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#17686ea1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-24T16:10:07+00:00"
+  },
+  {
+    "id": "b08641f8-dc4a-40b0-8666-07cefbc3cbce",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act",
+    "summary": "1. Bitcoin Magazine\n\nTop Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act\nThree advocacy groups are the latest to throw their support behind the crypto market structure bill.\n2. This post Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-24T16:05:35.000Z"
+  },
+  {
+    "id": "62fea003-f125-40d0-b007-9d7bce5b4370",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Apple $AAPL reaches new all-time high of $333, surpassing $4.9 trillion market cap.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#cfef5489",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-24T16:04:51+00:00"
+  },
+  {
+    "id": "176df975-14ae-42c5-a8de-8bda068b7fa4",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
+    "summary": "1. The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech.",
+    "url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Nate Kostar",
+    "created_at": "2026-07-24T16:04:30.000Z"
+  },
+  {
+    "id": "bfa89032-538c-4bd8-86eb-1990ad2440fa",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "ANALYSIS: ⚡An AI caught hackers draining $6M from Summer.​fi while the exploit...",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#5a610970",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-24T15:55:04+00:00"
+  },
+  {
+    "id": "f30f3104-dbaf-426a-9197-d27dfe2d64c4",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "summary": "1. AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "author": "Rebecca Bellan",
+    "created_at": "2026-07-24T15:51:49.000Z"
+  },
+  {
     "id": "b3f725bd-6205-4f71-97bd-6fa30b7a8981",
     "source": "The Defiant",
     "type": "rss",
@@ -50,7 +230,7 @@
     "created_at": "2026-07-24T15:30:09+00:00"
   },
   {
-    "id": "5c7ae670-f31c-4986-a7bf-9dec6adab17f",
+    "id": "c9e5b7f5-cdfd-4ab4-ada7-926a547d6591",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸 Crypto Clarity Act faces collapse as President Trump ethics concerns stall the Senate.@WatcherGuru",
@@ -70,7 +250,7 @@
     "created_at": "2026-07-24T15:17:42+00:00"
   },
   {
-    "id": "74801724-9aae-4c9b-ae6f-76923ed70683",
+    "id": "d73e46ea-91e3-4e1d-a68f-1ab682933669",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "The US Fraternal Order of Police endorses the CLARITY Act after revisions addressing crypto fraud and preserving law enforcement powersTwitter",
@@ -150,7 +330,7 @@
     "created_at": "2026-07-24T15:09:33.000Z"
   },
   {
-    "id": "1672b21c-01aa-4100-8903-1272b218f6c8",
+    "id": "592a2102-5383-440a-8e05-e42522bd5484",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Intel $INTC erases all gains after Jim Cramer says \"Intel's the one.\"@WatcherGuru",
@@ -568,125 +748,5 @@
     "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
     "author": "James Van Straten",
     "created_at": "2026-07-24T10:53:52.000Z"
-  },
-  {
-    "id": "9b85e727-880b-4112-9c2b-890665493492",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "TRON Included in S&P Pantera Digital Asset Index as Institutional Benchmarking Expands to Blockchain Networks",
-    "summary": "1. Geneva, Switzerland, July 22, 2026 — TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), today welcomes the launch of the S&P Pantera Digital Asset Index and the inclusion of the TRON blockchain among the top protocols represented in the benchmark.\n2. Developed by S&P […]",
-    "url": "https://news.bitcoin.com/tron-included-in-sp-pantera-digital-asset-index-as-institutional-benchmarking-expands-to-blockchain-networks/",
-    "author": "Media",
-    "created_at": "2026-07-24T10:41:27.000Z"
-  },
-  {
-    "id": "810305ae-6cf0-4069-84ff-25b2a30b6638",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Charles Schwab Calls CLARITY Act a ‘Fundamental Catalyst’ as White House and Thune Clash Over Timing",
-    "summary": "1. Charles Schwab, which manages $13 trillion in client assets, is calling the CLARITY Act a “really important fundamental catalyst” that “needs to pass” even as Senate Majority Leader John Thune and White House crypto adviser Patrick Witt publicly disagree over whether a vote happens before the August recess.\n2. Wall Street’s $13 Trillion Endorsement Charles Schwab, […]",
-    "url": "https://news.bitcoin.com/schwab-clarity-act-catalyst-white-house-thune/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-24T10:30:23.000Z"
-  },
-  {
-    "id": "d7fa0532-d60e-4401-8ac9-5c4ea7016747",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Brazil puts tokenized cows to work as loan collateral: Report",
-    "summary": "1. Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in one of Brazil’s first uses of tokenized livestock as loan collateral.",
-    "url": "https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Zoltan Vardai",
-    "created_at": "2026-07-24T10:29:49.000Z"
-  },
-  {
-    "id": "c7095bb7-aec4-4528-ad93-6d1e467da22c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Ripple launches RLUSD management platform Ripple Mint for institutions",
-    "summary": "Ripple (XRP) announced the launch of Ripple Mint, an integrated RLUSD management service for institutional clients. The platform allows institutions to issue, redeem and manage RLUSD. It was also designed to support both a user interface and programmatic system integration, allowing institutions to connect RLUSD with their existing operational systems more easily.",
-    "url": "https://t.me/CoinnessGL#42b08abe",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T10:26:54+00:00"
-  },
-  {
-    "id": "9a98ef44-b7b6-425f-b0e3-066e2045fad0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin profitability improves, but rebound signal remains insufficient: Cointelegraph",
-    "summary": "Bitcoin’s key on-chain indicators are improving, but the latest setup could still end in another failed rebound signal, Cointelegraph said.The outlet said the share of BTC supply in profit rose above 50% in July, up from this year’s low of 46.2% on June 30. With around 60% of the total BTC supply now back in profit, the spent output profit ratio, or SOPR, for long-term holders is also improving. A long-term holder SOPR above one indicates profit-taking is dominant, while a reading below one suggests selling at a loss.Cointelegraph said the 30-day simple moving average of long-term holder SOPR would need to stay above one for several weeks, and overall supply in profit would need to exceed 64%, for the bear market to end. It added there was already one failed case in this cycle: from April 28 to June 1, the average long-term holder SOPR stayed above one for 35 days and supply in profit climbed as high as 67%, but both indicators later turned lower again. So far, the 30-day simple moving average of long-term holder SOPR has remained below one for more than 50 days.",
-    "url": "https://t.me/CoinnessGL#1d767814",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T10:16:01+00:00"
-  },
-  {
-    "id": "94a4a88d-826f-4290-bd86-b92f31a8966d",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat",
-    "summary": "1. The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.",
-    "url": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-24T10:10:42.000Z"
-  },
-  {
-    "id": "84dcec28-46b4-4737-bbea-f8f970427ad9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Mount Carmel, Tennessee approves unanimous ban on crypto mining facilities",
-    "summary": "Mount Carmel’s mayor and city council in Tennessee unanimously approved an ordinance at a meeting on July 23 banning the construction of cryptocurrency mining facilities and data centers within the city’s jurisdiction. In the resolution, the city government said it decided to prohibit cryptocurrency mining operations to protect the city’s infrastructure, public utility systems and residents’ quality of life. Mount Carmel Mayor John Gibson also said mining facilities and data centers would bring no benefit to the community.",
-    "url": "https://t.me/CoinnessGL#03c05682",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T10:10:16+00:00"
-  },
-  {
-    "id": "cce184a0-c2ed-41bc-8975-24dc4ecc258a",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Samsung Wallet plans stablecoin support in digital payments expansion",
-    "summary": "1. Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its mobile payments and rewards platform to include digital assets.",
-    "url": "https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Helen Partz",
-    "created_at": "2026-07-24T10:10:07.000Z"
-  },
-  {
-    "id": "0c05232f-bf1d-47e5-b6a4-ac3400218e14",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "________ is the right coin.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#42349a83",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T10:05:03+00:00"
-  },
-  {
-    "id": "dfa4711b-1941-4b42-a480-e008213d82d8",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Philippine bank BPI plans stablecoin payments pilot ",
-    "summary": "1. The Philippine bank is preparing a stablecoin settlement pilot intended to speed up and reduce the cost of overseas payments to Filipino remote workers.",
-    "url": "https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-24T10:01:01.000Z"
-  },
-  {
-    "id": "1ae69cc5-cb97-41f0-910c-80161c9b29f0",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
-    "summary": "1. The complaint claims BitMEX designed a system to retain customer collateral and alleges an internal desk accessed private user data during server freezes.",
-    "url": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-24T09:54:00.000Z"
-  },
-  {
-    "id": "29f75781-9fe6-4a3f-9a5d-04c9f65d80a8",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
-    "summary": "1. Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.",
-    "url": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss",
-    "author": "Brian Danga",
-    "created_at": "2026-07-24T09:52:26.000Z"
   }
 ]
