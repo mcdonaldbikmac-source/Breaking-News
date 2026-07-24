@@ -1,5 +1,155 @@
 [
   {
+    "id": "af50088d-8330-4c6d-ac17-b2a0926fb2a1",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-24T11:07:29.000Z"
+  },
+  {
+    "id": "a4551759-e38b-4b5a-80c7-a5b68dd027f8",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse",
+    "summary": "1. Falling share prices, debt obligations and difficult market conditions are forcing former bitcoin accumulators to sell their holdings and restructure operations.",
+    "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
+    "author": "James Van Straten",
+    "created_at": "2026-07-24T10:53:52.000Z"
+  },
+  {
+    "id": "9b85e727-880b-4112-9c2b-890665493492",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "TRON Included in S&P Pantera Digital Asset Index as Institutional Benchmarking Expands to Blockchain Networks",
+    "summary": "1. Geneva, Switzerland, July 22, 2026 — TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), today welcomes the launch of the S&P Pantera Digital Asset Index and the inclusion of the TRON blockchain among the top protocols represented in the benchmark.\n2. Developed by S&P […]",
+    "url": "https://news.bitcoin.com/tron-included-in-sp-pantera-digital-asset-index-as-institutional-benchmarking-expands-to-blockchain-networks/",
+    "author": "Media",
+    "created_at": "2026-07-24T10:41:27.000Z"
+  },
+  {
+    "id": "810305ae-6cf0-4069-84ff-25b2a30b6638",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Charles Schwab Calls CLARITY Act a ‘Fundamental Catalyst’ as White House and Thune Clash Over Timing",
+    "summary": "1. Charles Schwab, which manages $13 trillion in client assets, is calling the CLARITY Act a “really important fundamental catalyst” that “needs to pass” even as Senate Majority Leader John Thune and White House crypto adviser Patrick Witt publicly disagree over whether a vote happens before the August recess.\n2. Wall Street’s $13 Trillion Endorsement Charles Schwab, […]",
+    "url": "https://news.bitcoin.com/schwab-clarity-act-catalyst-white-house-thune/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-24T10:30:23.000Z"
+  },
+  {
+    "id": "d7fa0532-d60e-4401-8ac9-5c4ea7016747",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Brazil puts tokenized cows to work as loan collateral: Report",
+    "summary": "1. Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in one of Brazil’s first uses of tokenized livestock as loan collateral.",
+    "url": "https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Zoltan Vardai",
+    "created_at": "2026-07-24T10:29:49.000Z"
+  },
+  {
+    "id": "d8ffdbd8-bde8-4074-9a04-51f4bad9609b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Ripple launches RLUSD management platform Ripple Mint for institutions",
+    "summary": "Ripple (XRP) announced the launch of Ripple Mint, an integrated RLUSD management service for institutional clients. The platform allows institutions to issue, redeem and manage RLUSD. It was also designed to support both a user interface and programmatic system integration, allowing institutions to connect RLUSD with their existing operational systems more easily.",
+    "url": "https://t.me/CoinnessGL#42b08abe",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T10:26:54+00:00"
+  },
+  {
+    "id": "9a98ef44-b7b6-425f-b0e3-066e2045fad0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitcoin profitability improves, but rebound signal remains insufficient: Cointelegraph",
+    "summary": "Bitcoin’s key on-chain indicators are improving, but the latest setup could still end in another failed rebound signal, Cointelegraph said.The outlet said the share of BTC supply in profit rose above 50% in July, up from this year’s low of 46.2% on June 30. With around 60% of the total BTC supply now back in profit, the spent output profit ratio, or SOPR, for long-term holders is also improving. A long-term holder SOPR above one indicates profit-taking is dominant, while a reading below one suggests selling at a loss.Cointelegraph said the 30-day simple moving average of long-term holder SOPR would need to stay above one for several weeks, and overall supply in profit would need to exceed 64%, for the bear market to end. It added there was already one failed case in this cycle: from April 28 to June 1, the average long-term holder SOPR stayed above one for 35 days and supply in profit climbed as high as 67%, but both indicators later turned lower again. So far, the 30-day simple moving average of long-term holder SOPR has remained below one for more than 50 days.",
+    "url": "https://t.me/CoinnessGL#1d767814",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T10:16:01+00:00"
+  },
+  {
+    "id": "94a4a88d-826f-4290-bd86-b92f31a8966d",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat",
+    "summary": "1. The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.",
+    "url": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-24T10:10:42.000Z"
+  },
+  {
+    "id": "84dcec28-46b4-4737-bbea-f8f970427ad9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Mount Carmel, Tennessee approves unanimous ban on crypto mining facilities",
+    "summary": "Mount Carmel’s mayor and city council in Tennessee unanimously approved an ordinance at a meeting on July 23 banning the construction of cryptocurrency mining facilities and data centers within the city’s jurisdiction. In the resolution, the city government said it decided to prohibit cryptocurrency mining operations to protect the city’s infrastructure, public utility systems and residents’ quality of life. Mount Carmel Mayor John Gibson also said mining facilities and data centers would bring no benefit to the community.",
+    "url": "https://t.me/CoinnessGL#03c05682",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-24T10:10:16+00:00"
+  },
+  {
+    "id": "cce184a0-c2ed-41bc-8975-24dc4ecc258a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Samsung Wallet plans stablecoin support in digital payments expansion",
+    "summary": "1. Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its mobile payments and rewards platform to include digital assets.",
+    "url": "https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-24T10:10:07.000Z"
+  },
+  {
+    "id": "6a94b99a-534c-4385-bb7a-5307fbdb4313",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "________ is the right coin.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#42349a83",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-24T10:05:03+00:00"
+  },
+  {
+    "id": "dfa4711b-1941-4b42-a480-e008213d82d8",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Philippine bank BPI plans stablecoin payments pilot ",
+    "summary": "1. The Philippine bank is preparing a stablecoin settlement pilot intended to speed up and reduce the cost of overseas payments to Filipino remote workers.",
+    "url": "https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-24T10:01:01.000Z"
+  },
+  {
+    "id": "1ae69cc5-cb97-41f0-910c-80161c9b29f0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
+    "summary": "1. The complaint claims BitMEX designed a system to retain customer collateral and alleges an internal desk accessed private user data during server freezes.",
+    "url": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-24T09:54:00.000Z"
+  },
+  {
+    "id": "29f75781-9fe6-4a3f-9a5d-04c9f65d80a8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
+    "summary": "1. Poolin Technology filed for Chapter 11 with $173 million in claims, lining up a $52 million stalking-horse bid for its Texas mining assets.",
+    "url": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-24T09:52:26.000Z"
+  },
+  {
+    "id": "16a934e3-322a-4801-ab8f-495725749d06",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
+    "summary": "1. The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
+    "url": "https://decrypt.co/374212/polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources-ft",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-24T09:40:50.000Z"
+  },
+  {
     "id": "3485230f-fad7-457b-b799-cc349d4e6b35",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -40,7 +190,7 @@
     "created_at": "2026-07-24T09:07:54+00:00"
   },
   {
-    "id": "721a97b8-da55-4088-a7d9-f606696d27c8",
+    "id": "abd93cf8-3e8c-41db-bace-44749e9eec83",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "A token that is worth all the hype it's getting👇",
@@ -100,7 +250,7 @@
     "created_at": "2026-07-24T08:38:49.000Z"
   },
   {
-    "id": "c827e346-0bc8-4f75-bcdd-7eb4294e2e09",
+    "id": "0bc0f0d1-a50e-4455-8a16-3c33cf4ab431",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Weekly Top Gainers 1️⃣ eCash: +30.32% 2️⃣ KAITO: +27.83% 3️⃣ Lido DAO: +19.73%...",
@@ -250,7 +400,7 @@
     "created_at": "2026-07-24T07:01:06+00:00"
   },
   {
-    "id": "5ce15066-9db3-471a-966d-80caa31ccd09",
+    "id": "d117ec94-20ca-41f9-a1f3-e5e0c283002b",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "One of 💰 Bitcoin’s biggest mining pools Poolin just went bankruptTwitter",
@@ -398,75 +548,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#985980b7",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-24T05:10:07+00:00"
-  },
-  {
-    "id": "f9475888-4980-423c-86ae-e126c45fb275",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
-    "summary": "1. The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending.\n2. Bitcoin fell less than 1%, and dogecoin led the majors lower.",
-    "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-24T04:43:19.000Z"
-  },
-  {
-    "id": "a8bc4e49-b8fb-467d-81ce-50713d37bd45",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "HYPE spot ETF sees $1M net outflow; SOL and XRP ETFs unchanged",
-    "summary": "HYPE spot ETFs recorded a $1 million net outflow on July 23, while no net inflows or outflows were recorded for SOL ETFs and XRP ETFs.- HYPE: -$1 million",
-    "url": "https://t.me/CoinnessGL#4dac216a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T04:34:33+00:00"
-  },
-  {
-    "id": "485b8e45-df95-4583-a94b-1e90cb271b8e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "The Device in Your Junk Drawer Contains Real Gold. Scientists Just Found a Way to Get It Out With Cheese Waste",
-    "summary": "1. ETH Zurich researchers led by professor Raffaele Mezzenga developed a whey-protein amyloid aerogel that pulls gold ions out of acid-dissolved electronic waste.\n2. In lab tests, the team recovered a 450-milligram nugget of 22-carat gold from metal parts taken from 20 old computer motherboards, with the work published in 2024 in Advanced Materials.\n3. The timing matters […]",
-    "url": "https://news.bitcoin.com/the-device-in-your-junk-drawer-contains-real-gold-scientists-just-found-a-way-to-get-it-out-with-cheese-waste-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-07-24T04:30:19.000Z"
-  },
-  {
-    "id": "8d7f4a53-a4ed-49e3-a64e-730bd181adbe",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. What a great guy, and baseball player!!!\n2. President DJT",
-    "url": "https://trumpstruth.org/statuses/40227",
-    "author": "Trump Truth",
-    "created_at": "2026-07-24T04:09:38.000Z"
-  },
-  {
-    "id": "9d187cfb-b608-46a4-87ca-d31e14219b20",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ",
-    "summary": "1. Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ",
-    "url": "https://www.politico.com/video/2026/07/23/rob-bonta-on-blocking-the-paramount-merger-cnn-concerns-and-trumps-doj-2123052",
-    "author": "Politico",
-    "created_at": "2026-07-24T03:59:00.000Z"
-  },
-  {
-    "id": "2ea928d6-dac1-4efa-a8b6-510935759209",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "U.S. spot ETH ETFs see $26.3M in net inflows for a fifth straight session",
-    "summary": "U.S. spot Ethereum ETFs posted about $26.3 million in net inflows on July 23, according to Farside Investors, marking a fifth straight trading day of net inflows.- Fidelity FETH: +$14.9 million- BlackRock ETHA: +$8.5 million- BlackRock staking ETHB: +$2.9 million",
-    "url": "https://t.me/CoinnessGL#b28fbea1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T03:58:38+00:00"
-  },
-  {
-    "id": "079acda3-b061-4ccb-b144-01286512f7df",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Coinbase Business is rolling out a payments stack letting businesses accept payments from AI agents, powered by the x402 protocol.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3c1d9fcd",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T03:45:07+00:00"
   }
 ]
