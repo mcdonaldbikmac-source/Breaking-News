@@ -1,5 +1,145 @@
 [
   {
+    "id": "3663a9b2-6328-4c38-a8cf-64dcf1ebd10c",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Michael Burry increases his short position against Nvidia $NVDA@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#df09f1f8",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-25T16:06:53+00:00"
+  },
+  {
+    "id": "5b922a48-d90a-4e13-92f8-a8bb12fc688e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "DeFi Aggregator Odos Closes Doors, Leaves Users 5 Days to Move Locked Funds",
+    "summary": "1. The team behind decentralized exchange aggregator Odos said on July 23, 2026, that the company operating the platform is winding down and will end all services by July 30.\n2. Odos posted the announcement on its official X account.\n3. The statement said the app moves to read only mode on July 27, with every Odos service […]",
+    "url": "https://news.bitcoin.com/defi-aggregator-odos-closes-doors-leaves-users-5-days-to-move-locked-funds/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-25T16:01:48.000Z"
+  },
+  {
+    "id": "fa33064d-17c4-4595-adf3-05ea59b1fb5b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "summary": "1. At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "author": "Amanda Silberling",
+    "created_at": "2026-07-25T16:00:00.000Z"
+  },
+  {
+    "id": "d078f321-99c0-4826-82ec-a01863057cf3",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+    "summary": "1. The group allegedly breached Central Bank systems, converted crypto to cash via Chinese brokers, and used small transfers to evade detection.",
+    "url": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-25T15:46:05.000Z"
+  },
+  {
+    "id": "eba9739b-02bb-4b70-8c57-2389558138c8",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 Bank of America projects US deficit to hit $2 trillion this year as annual debt interest payments reach $1 trillion.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#76ffa079",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-25T15:42:53+00:00"
+  },
+  {
+    "id": "0bae2cc7-efc8-4666-b7e1-19458b671b38",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Triple-A Hot Wallets Drained of $9.7 Million Across Six Chains: Here’s What Peckshield Found",
+    "summary": "1. Payment gateway Triple-A had more than $9.7 million drained from its hot wallets across six blockchains on July 24 and July 25, according to security alert service Peckshield.\n2. Onchain Investigator Flags the Breach First Onchain investigator Specter first reported the incident.\n3. According to a Peckshield alert published Saturday, wallets tied to Triple-A, a Singapore-based fiat-to-crypto […]",
+    "url": "https://news.bitcoin.com/triple-a-hot-wallet-exploit-9-7-million-peckshield/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-25T15:20:31.000Z"
+  },
+  {
+    "id": "282b5b90-0cf1-42e9-a064-feb6fbdb722f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "CoinNess Live Feed operating hours",
+    "summary": "We provide real-time cryptocurrency investment updates 24 hours a day from 10:00 p.m. UTC on Sunday through 3:00 p.m. UTC on Saturday. Between 3:00 p.m. UTC on Saturday and 10:00 p.m. UTC on Sunday, investment updates are provided only in the event of major market-moving developments.Note:Overseas economic breaking news on the CoinNess Live app and CoinNess web service remains available continuously.",
+    "url": "https://t.me/CoinnessGL#b5a72c17",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T15:04:07+00:00"
+  },
+  {
+    "id": "fc24bddb-7905-4775-806c-ae3ccef1a87a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Coinbase Bitcoin premium stays negative for 67 straight days",
+    "summary": "According to CoinGlass data, Coinbase’s Bitcoin premium index has remained in negative territory for 67 consecutive days from May 19 through today. The latest recorded reading was -0.0884%.",
+    "url": "https://t.me/CoinnessGL#07cc8583",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T15:03:33+00:00"
+  },
+  {
+    "id": "050c42d1-48b9-426e-a8a5-270ebb560c26",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "XRP ranks second in six-month RWA inflows at $2.6B, behind BNB Chain",
+    "summary": "XRP Ledger attracted $2.6 billion in new real-world asset inflows over the past six months, excluding stablecoins, marking the second-largest total in that period behind BNB Chain’s $3 billion, The Crypto Basic reported, citing data from RWA tracking platform RWA.xyz. The data showed Ethereum remained the largest blockchain by total RWA value, but drew just $424 million in new inflows over the same period. Following the recent inflows, XRPL’s total RWA assets reached $4.38 billion, making it the sixth-largest RWA blockchain.",
+    "url": "https://t.me/CoinnessGL#846f186d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T15:00:11+00:00"
+  },
+  {
+    "id": "4b8377c7-140c-4686-9ea1-ecad66547cdd",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Whale Stakes $32.87M in HYPE as Token Trades 25% Below Its June Peak",
+    "summary": "1. A crypto whale received 557,902 HYPE tokens, worth $32.87 million, from institutional liquidity provider FalconX and immediately staked the entire amount on Hyperliquid.\n2. The move comes as HYPE trades well off its June peak.\n3. FalconX Transfer Lands Directly in Staking On-chain data flagged the transaction Saturday, tracing 557,902 HYPE tokens moving from FalconX, an institutional […]",
+    "url": "https://news.bitcoin.com/hype-whale-falconx-staking-hyperliquid-july-2026/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-25T14:45:54.000Z"
+  },
+  {
+    "id": "deeaa157-69d3-4933-8fc5-256e5ce0bd8d",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🤖 Elon Musk says AI \"may exceed the sum of human intelligence in about five years,\" and there won't be anything it can't do better than humans \"apart from being human.\"",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#96a74094",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T14:20:07+00:00"
+  },
+  {
+    "id": "921a5776-3990-4fd2-b50f-bf4d27da9586",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+    "summary": "1. The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
+    "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
+    "author": "Jose Antonio Lanz",
+    "created_at": "2026-07-25T14:01:03.000Z"
+  },
+  {
+    "id": "ade45e05-458a-4196-8384-854345026cd3",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+    "summary": "1. Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.",
+    "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-07-25T13:59:06.000Z"
+  },
+  {
+    "id": "aaa3ff40-4793-425c-bd8e-a6e92e20746c",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸 $13 trillion Charles Schwab calls for US Senate to pass the Crypto Clarity Act.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#b09f4820",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-25T13:53:21+00:00"
+  },
+  {
     "id": "e23c555c-ea3a-44a4-827e-55c53f298e25",
     "source": "The Defiant",
     "type": "rss",
@@ -40,7 +180,7 @@
     "created_at": "2026-07-25T13:14:18.000Z"
   },
   {
-    "id": "dedb1208-934a-4c54-bda7-5227a74f799f",
+    "id": "fee58c8e-2a38-464c-b4d5-8f882c6a4e3d",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Still building.",
@@ -148,85 +288,5 @@
     "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
     "author": "The Defiant Team",
     "created_at": "2026-07-25T10:38:48.000Z"
-  },
-  {
-    "id": "eafd9501-7658-4888-baf9-0dc2c2e72522",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-    "summary": "1. Dango will close its network on Aug.\n2. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
-    "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Yohan Yun",
-    "created_at": "2026-07-25T10:01:26.000Z"
-  },
-  {
-    "id": "d762e1fa-37ce-457e-9f98-721d48794d82",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-    "summary": "1. The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day.\n2. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
-    "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-25T10:00:00.000Z"
-  },
-  {
-    "id": "d3f82769-a37d-42f8-bcc5-4f0ce49587ea",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Moody's warns \"unprecedented\" AI capex, projected to hit $1T by 2027, threatens the credit quality of Amazon, Meta, Alphabet and other hyperscalers.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#9adce391",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T09:55:05+00:00"
-  },
-  {
-    "id": "55630aba-74a0-44ea-8eab-f59bcd43bcca",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto.com Prediction Exchange Seeks Federal Shield Ahead of Washington Crackdown",
-    "summary": "1. The Crypto.com-affiliated exchange behind OG has sued Washington officials before the state takes enforcement action against its prediction markets.\n2. The complaint argues that federal commodities law protects OG from state gambling rules and cites Washington’s successful injunction against Kalshi as an imminent threat.\n3. OG invokes CFTC’s Michigan intervention North American Derivatives Exchange Inc., which does […]",
-    "url": "https://news.bitcoin.com/crypto-com-prediction-exchange-seeks-federal-shield-ahead-of-washington-crackdown/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-25T09:30:45.000Z"
-  },
-  {
-    "id": "a19d0760-b2f3-4a87-a45b-d1acf46ce6e8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Mirae Asset reportedly plans to turn Korbit into Digital X, a hub for tokenized assets and stablecoins, following its acquisition of the South Korean exchange.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#3ceec19e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T09:20:07+00:00"
-  },
-  {
-    "id": "3701173d-3623-4fa5-a8b1-a4136f76c825",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Shenzhen authorities shut down multiple crypto-related self-media accounts",
-    "summary": "Chinese regulators in Shenzhen have identified and shut down multiple self-media accounts for violating rules related to virtual assets, according to China’s People’s Daily. The report said several government bodies, including the Shenzhen branch of the People’s Bank of China, the Shenzhen Securities Regulatory Bureau, the Shenzhen Cyberspace Administration Office, and the Shenzhen Local Financial Administration, recently carried out a joint special crackdown on financial information online. During the operation, authorities found violations by multiple crypto-related self-media accounts, including \"搜搜比特币.\" The accounts were found to have promoted virtual asset-related businesses to users in China and encouraged public participation in illegal financial activities tied to virtual assets. Shenzhen authorities added they plan to keep tightening oversight of online financial information and crack down on activities that fuel virtual asset speculation or involve illegal investment recommendations in order to maintain financial market order.",
-    "url": "https://t.me/CoinnessGL#9cecc2d2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-25T08:42:21+00:00"
-  },
-  {
-    "id": "48974c83-d093-40d9-b243-5863a567973c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Wisconsin election officials warned that betting on Kalshi or Polymarket on an election outcome could disqualify voters from casting a ballot in that same race under state law.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#1dc5ea6c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T08:10:07+00:00"
-  },
-  {
-    "id": "5a2007f8-4c25-4678-a389-6641542b6bc0",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "224 crypto hacks caused $1.32B in losses in the first half of 2026",
-    "summary": "A total of 224 cryptocurrency hacking incidents were recorded in the first half of this year, with losses reaching about $1.32 billion, according to Onchain Lens. The main attack types included access control vulnerabilities, phishing, and oracle-related exploits. Among them, large losses were concentrated in attacks involving privilege escalation and administrator account takeovers tied to access control weaknesses. KelpDAO and Drift Protocol were among the hardest hit, suffering losses of $292 million and $280 million, respectively.",
-    "url": "https://t.me/CoinnessGL#d68204ee",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-25T07:52:57+00:00"
   }
 ]
