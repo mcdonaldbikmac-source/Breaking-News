@@ -1,5 +1,75 @@
 [
   {
+    "id": "846d8ea7-7363-4fbe-8cbd-049075b75ee8",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-25T10:38:48.000Z"
+  },
+  {
+    "id": "eafd9501-7658-4888-baf9-0dc2c2e72522",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Dango’s perp DEX taps out nearly 4 months after launch",
+    "summary": "1. Dango will close its network on Aug.\n2. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
+    "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-25T10:01:26.000Z"
+  },
+  {
+    "id": "d762e1fa-37ce-457e-9f98-721d48794d82",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+    "summary": "1. The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day.\n2. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
+    "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-25T10:00:00.000Z"
+  },
+  {
+    "id": "634fd337-3826-4415-ac89-892fd2eb82ed",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Moody's warns \"unprecedented\" AI capex, projected to hit $1T by 2027, threatens the credit quality of Amazon, Meta, Alphabet and other hyperscalers.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#9adce391",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T09:55:05+00:00"
+  },
+  {
+    "id": "55630aba-74a0-44ea-8eab-f59bcd43bcca",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Crypto.com Prediction Exchange Seeks Federal Shield Ahead of Washington Crackdown",
+    "summary": "1. The Crypto.com-affiliated exchange behind OG has sued Washington officials before the state takes enforcement action against its prediction markets.\n2. The complaint argues that federal commodities law protects OG from state gambling rules and cites Washington’s successful injunction against Kalshi as an imminent threat.\n3. OG invokes CFTC’s Michigan intervention North American Derivatives Exchange Inc., which does […]",
+    "url": "https://news.bitcoin.com/crypto-com-prediction-exchange-seeks-federal-shield-ahead-of-washington-crackdown/",
+    "author": "Luci Kelemen",
+    "created_at": "2026-07-25T09:30:45.000Z"
+  },
+  {
+    "id": "a19d0760-b2f3-4a87-a45b-d1acf46ce6e8",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Mirae Asset reportedly plans to turn Korbit into Digital X, a hub for tokenized assets and stablecoins, following its acquisition of the South Korean exchange.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3ceec19e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T09:20:07+00:00"
+  },
+  {
+    "id": "3701173d-3623-4fa5-a8b1-a4136f76c825",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Shenzhen authorities shut down multiple crypto-related self-media accounts",
+    "summary": "Chinese regulators in Shenzhen have identified and shut down multiple self-media accounts for violating rules related to virtual assets, according to China’s People’s Daily. The report said several government bodies, including the Shenzhen branch of the People’s Bank of China, the Shenzhen Securities Regulatory Bureau, the Shenzhen Cyberspace Administration Office, and the Shenzhen Local Financial Administration, recently carried out a joint special crackdown on financial information online. During the operation, authorities found violations by multiple crypto-related self-media accounts, including \"搜搜比特币.\" The accounts were found to have promoted virtual asset-related businesses to users in China and encouraged public participation in illegal financial activities tied to virtual assets. Shenzhen authorities added they plan to keep tightening oversight of online financial information and crack down on activities that fuel virtual asset speculation or involve illegal investment recommendations in order to maintain financial market order.",
+    "url": "https://t.me/CoinnessGL#9cecc2d2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T08:42:21+00:00"
+  },
+  {
     "id": "48974c83-d093-40d9-b243-5863a567973c",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
@@ -10,7 +80,7 @@
     "created_at": "2026-07-25T08:10:07+00:00"
   },
   {
-    "id": "0e79f86b-902c-4339-a2c7-b9dd03321ed3",
+    "id": "5a2007f8-4c25-4678-a389-6641542b6bc0",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "224 crypto hacks caused $1.32B in losses in the first half of 2026",
@@ -20,7 +90,7 @@
     "created_at": "2026-07-25T07:52:57+00:00"
   },
   {
-    "id": "10aa738b-c044-4a85-be6d-b61057ec94d9",
+    "id": "24602f35-8572-4cc1-954e-614e76fb89ba",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Upbit to list MORPHO for won trading today",
@@ -88,105 +158,5 @@
     "url": "https://news.bitcoin.com/sam-altmans-world-foundation-pulls-52-5m-as-pantera-backs-global-world-id-expansion/",
     "author": "Terence Zimwara",
     "created_at": "2026-07-25T05:30:30.000Z"
-  },
-  {
-    "id": "fc834a0e-2b8d-45bd-bbe8-4e06264bad8c",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Australian Police Detail AI Scam Tactics After Woman Lost Over $74,000 to Fake Crypto Investment",
-    "summary": "1. Australian police are warning the public about transnational criminal networks using AI to construct sophisticated, end-to-end fake cryptocurrency investment ecosystems.\n2. National ‘Clickfit’ Campaign Expands Awareness Criminal syndicates are increasingly deploying artificial intelligence to construct deceptive, end-to-end investment schemes that have siphoned tens of millions of dollars from Australian investors, law enforcement officials warned.\n3. The Australian […]",
-    "url": "https://news.bitcoin.com/australian-police-detail-ai-scam-tactics-after-woman-lost-over-74000-to-fake-crypto-investment/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-25T04:30:33.000Z"
-  },
-  {
-    "id": "737e2aa3-2b98-427e-bf19-4cc9d7b0b2a4",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-25T03:21:38.000Z"
-  },
-  {
-    "id": "c6432677-7dc3-418b-adec-b92955fa9591",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-25T03:21:38.000Z"
-  },
-  {
-    "id": "f918d0f2-5c2e-4a05-ab23-e896c515f5f0",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Alaska removes thousands from state’s active voter list, erroneously flagging some citizens:",
-    "url": "https://trumpstruth.org/statuses/40238",
-    "author": "Trump Truth",
-    "created_at": "2026-07-25T03:21:29.000Z"
-  },
-  {
-    "id": "c578eed7-da4f-489e-9e0f-6ed25335dbf0",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "OpenAI caught one of its AI agents leaving instructions for future versions to escape internal controls.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#9859f51d",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-25T03:10:02+00:00"
-  },
-  {
-    "id": "892efb09-2d11-4291-9da0-96c09cda5dc3",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "24-hour crypto futures liquidations",
-    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $82.26 million liquidated (81.48% longs)- ETH: $56.65 million liquidated (59.49% longs)- SNDK: $11.77 million liquidated (90.96% longs)",
-    "url": "https://t.me/CoinnessGL#ca825c6a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-25T02:59:54+00:00"
-  },
-  {
-    "id": "547dcddc-5147-4b5b-9262-2f5c3ad54549",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Coinbase Rolls Out AI Agents Payment for Businesses in USDC, Calls it a ‘High-Conviction Bet’",
-    "summary": "1. Coinbase is allowing businesses to accept USDC payments directly from AI agents through Coinbase Business.\n2. The exchange is also expanding its agent trading tools and developer software as it bets that autonomous programs will become major participants in online commerce.\n3. Coinbase Lets AI Agents Pay Businesses in USDC as Machine Commerce Expands Coinbase is rolling […]",
-    "url": "https://news.bitcoin.com/coinbase-rolls-out-ai-agents-payment-for-businesses-in-usdc-calls-it-a-high-conviction-bet/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-25T02:30:39.000Z"
-  },
-  {
-    "id": "0eea1dae-1e8a-41cf-a4b8-4c699a3ab44e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "40x leverage trader opens $38.7M BTC long position",
-    "summary": "According to on-chain analyst ai_9684 xtpa, an address beginning with 0x854, known as a \"40x leverage short-term trader,\" opened a 603.71 BTC long position worth about $38.67 million with 40x leverage. The entry price was $64,469, and the position is currently showing an unrealized loss of about $259,000. The address also placed limit buy orders worth a combined $31.44 million in the $63,500-$63,674 range. If all orders are filled, the total position size would expand to about $70.11 million. The analysis found the trader has mainly used a short-term strategy of closing positions within a few hours, and the current position is the trader's sixth-largest this year. If the limit orders are all executed, it would become the trader's largest position this year.",
-    "url": "https://t.me/CoinnessGL#b81ee62a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-25T02:27:15+00:00"
-  },
-  {
-    "id": "7e930ab5-1c09-4ded-bc76-a5b639cc2fab",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇪🇺 Circle's head of EU policy Patrick Hansen says MiCA should adopt an \"equivalence\" rule, letting foreign stablecoin issuers rely on home-country rules instead of requiring an EU entity.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#fb9cc4af",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T02:20:07+00:00"
-  },
-  {
-    "id": "c18c9b01-2477-4676-b3cf-847c6a48a8f7",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Dango to shut down service, halt trading on July 29",
-    "summary": "One-stop trading platform Dango announced through its official channels that it will shut down after determining it is no longer feasible to continue the business. The team said user funds remain safely held and that withdrawal restrictions will be lifted in the near term.Dango will halt trading at 12:00 p.m. UTC on July 29, and all remaining positions will be liquidated in a batch at oracle prices. DLP deposits will be unlocked, and all funds will be returned to spot accounts in USDC. The platform said operations of the Dango L1 blockchain will also end at 12:00 p.m. UTC on Aug. 13. Deposits not withdrawn by that time will be refunded to the Ethereum addresses originally used for the deposits.",
-    "url": "https://t.me/CoinnessGL#49c5ffe8",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-25T02:18:49+00:00"
   }
 ]
