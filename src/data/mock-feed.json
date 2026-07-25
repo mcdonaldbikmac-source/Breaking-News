@@ -1,5 +1,205 @@
 [
   {
+    "id": "737e2aa3-2b98-427e-bf19-4cc9d7b0b2a4",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-25T03:21:38.000Z"
+  },
+  {
+    "id": "c6432677-7dc3-418b-adec-b92955fa9591",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-25T03:21:38.000Z"
+  },
+  {
+    "id": "43286b9a-92b7-41aa-bb2b-6af08690197d",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "OpenAI caught one of its AI agents leaving instructions for future versions to escape internal controls.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#9859f51d",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-25T03:10:02+00:00"
+  },
+  {
+    "id": "892efb09-2d11-4291-9da0-96c09cda5dc3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "24-hour crypto futures liquidations",
+    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $82.26 million liquidated (81.48% longs)- ETH: $56.65 million liquidated (59.49% longs)- SNDK: $11.77 million liquidated (90.96% longs)",
+    "url": "https://t.me/CoinnessGL#ca825c6a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T02:59:54+00:00"
+  },
+  {
+    "id": "547dcddc-5147-4b5b-9262-2f5c3ad54549",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Coinbase Rolls Out AI Agents Payment for Businesses in USDC, Calls it a ‘High-Conviction Bet’",
+    "summary": "1. Coinbase is allowing businesses to accept USDC payments directly from AI agents through Coinbase Business.\n2. The exchange is also expanding its agent trading tools and developer software as it bets that autonomous programs will become major participants in online commerce.\n3. Coinbase Lets AI Agents Pay Businesses in USDC as Machine Commerce Expands Coinbase is rolling […]",
+    "url": "https://news.bitcoin.com/coinbase-rolls-out-ai-agents-payment-for-businesses-in-usdc-calls-it-a-high-conviction-bet/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-25T02:30:39.000Z"
+  },
+  {
+    "id": "0eea1dae-1e8a-41cf-a4b8-4c699a3ab44e",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "40x leverage trader opens $38.7M BTC long position",
+    "summary": "According to on-chain analyst ai_9684 xtpa, an address beginning with 0x854, known as a \"40x leverage short-term trader,\" opened a 603.71 BTC long position worth about $38.67 million with 40x leverage. The entry price was $64,469, and the position is currently showing an unrealized loss of about $259,000. The address also placed limit buy orders worth a combined $31.44 million in the $63,500-$63,674 range. If all orders are filled, the total position size would expand to about $70.11 million. The analysis found the trader has mainly used a short-term strategy of closing positions within a few hours, and the current position is the trader's sixth-largest this year. If the limit orders are all executed, it would become the trader's largest position this year.",
+    "url": "https://t.me/CoinnessGL#b81ee62a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T02:27:15+00:00"
+  },
+  {
+    "id": "7e930ab5-1c09-4ded-bc76-a5b639cc2fab",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇪🇺 Circle's head of EU policy Patrick Hansen says MiCA should adopt an \"equivalence\" rule, letting foreign stablecoin issuers rely on home-country rules instead of requiring an EU entity.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#fb9cc4af",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T02:20:07+00:00"
+  },
+  {
+    "id": "c18c9b01-2477-4676-b3cf-847c6a48a8f7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Dango to shut down service, halt trading on July 29",
+    "summary": "One-stop trading platform Dango announced through its official channels that it will shut down after determining it is no longer feasible to continue the business. The team said user funds remain safely held and that withdrawal restrictions will be lifted in the near term.Dango will halt trading at 12:00 p.m. UTC on July 29, and all remaining positions will be liquidated in a batch at oracle prices. DLP deposits will be unlocked, and all funds will be returned to spot accounts in USDC. The platform said operations of the Dango L1 blockchain will also end at 12:00 p.m. UTC on Aug. 13. Deposits not withdrawn by that time will be refunded to the Ethereum addresses originally used for the deposits.",
+    "url": "https://t.me/CoinnessGL#49c5ffe8",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T02:18:49+00:00"
+  },
+  {
+    "id": "5a49de69-eabc-4eac-98ee-62c8934afed1",
+    "source": "GitHub",
+    "type": "github",
+    "title": "anthropics/claude-code: v2.1.220",
+    "summary": "1. ## What's changed\n\n- Bug fixes and reliability improvements",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220",
+    "author": "ashwin-ant",
+    "created_at": "2026-07-25T01:35:55Z"
+  },
+  {
+    "id": "03d02529-913e-4bcb-8f05-f6a31333fc06",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "$7 Trillion Financial Giant Fidelity Urges Senate to Pass CLARITY Act",
+    "summary": "1. Fidelity, a financial giant overseeing $7.1 trillion in managed assets, has entered Washington’s intensifying crypto debate by urging senators to establish nationwide rules for digital asset markets.\n2. Fidelity Brings Wall Street Heft to Crypto Campaign Fidelity Public Policy, the government affairs and public policy arm of Fidelity Investments, posted on X on July 24 calling […]",
+    "url": "https://news.bitcoin.com/7-trillion-financial-giant-fidelity-urges-senate-to-pass-clarity-act/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-25T01:30:10.000Z"
+  },
+  {
+    "id": "02e0be1a-927b-4f78-a084-6e36bb76d414",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 CryptoQuant says Bitcoin's supply in profit climbed to 57.5% as of July 22, up from a 2026 low of 46.2% in June, though a recovery isn't confirmed yet.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0fa2b1f1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T00:55:05+00:00"
+  },
+  {
+    "id": "5a43e088-7578-4a32-91a1-15852fdd6791",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "382,000-Member Police Group Supports Revised Crypto CLARITY Act",
+    "summary": "1. The 382,000-member Fraternal Order of Police endorsed the revised CLARITY Act after lawmakers added protections for criminal investigations, suspicious transaction holds, and digital asset seizures, even as Senate Democrats withheld support from the latest draft.\n2. Nation’s Largest Police Labor Group Reverses Course The National Fraternal Order of Police (FOP) has endorsed the latest version of […]",
+    "url": "https://news.bitcoin.com/382000-member-police-group-supports-revised-crypto-clarity-act/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-25T00:30:15.000Z"
+  },
+  {
+    "id": "e9ab9cfd-3c91-4697-836a-e0b1dff84886",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "summary": "1. OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "author": "Lucas Ropek",
+    "created_at": "2026-07-25T00:23:11.000Z"
+  },
+  {
+    "id": "c93cda64-426d-4fec-90b9-7a92bc59e0e0",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its payments and rewards platform to include digital assets.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0297bb6e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T00:10:07+00:00"
+  },
+  {
+    "id": "505e164e-4c41-4c06-9ede-df519eff202e",
+    "source": "Farcaster",
+    "type": "farcaster",
+    "title": "Farcaster: I just submitted a claim on @luciano's poidh bounty Collect your first artwork o...",
+    "summary": "1. I just submitted a claim on @luciano's poidh bounty Collect your first artwork on kismet.art 📸",
+    "url": "https://warpcast.com/farcaster/0x52f7a592",
+    "author": "Farcaster",
+    "created_at": "2026-07-24T23:35:48.000Z"
+  },
+  {
+    "id": "b561e201-d88c-4c33-a3ec-b00bd0f20e01",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+    "summary": "1. The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+    "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+    "author": "Sean O'Kane",
+    "created_at": "2026-07-24T23:25:47.000Z"
+  },
+  {
+    "id": "fa7b7304-a354-4125-9d72-f5c571bd8c94",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "summary": "1. The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "author": "Marina Temkin",
+    "created_at": "2026-07-24T22:25:58.000Z"
+  },
+  {
+    "id": "e731f4ff-90a3-4545-8861-0f37a91ee933",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "OpenAI did not notice its AI agent had hacked another company until a week later, Reuters reports.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#08477e85",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-24T22:21:28+00:00"
+  },
+  {
+    "id": "c87aca29-6d80-42a9-b244-3461ec6668de",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
+    "summary": "1. The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S.\n2. State Department's Freedom Tech Excellence Program.",
+    "url": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
+    "author": "Daniel Kuhn",
+    "created_at": "2026-07-24T22:21:01.000Z"
+  },
+  {
+    "id": "6009dd48-cea2-4adf-af2e-29eb563cbb30",
+    "source": "Bitcoin Magazine",
+    "type": "rss",
+    "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
+    "summary": "1. Bitcoin Magazine\n\nMorgan Stanley Bitcoin ETF Nearly Notches $400M in Assets\nInvestors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.\n2. This post Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
+    "author": "Mathew Di Salvo",
+    "created_at": "2026-07-24T22:16:22.000Z"
+  },
+  {
     "id": "0ae6ab57-9af9-46fc-9dec-34d1a54a0e90",
     "source": "The Defiant",
     "type": "rss",
@@ -68,605 +268,5 @@
     "url": "https://t.me/CoinMarketCapAnnouncements#85362e4d",
     "author": "@CoinMarketCapAnnouncements",
     "created_at": "2026-07-24T21:30:09+00:00"
-  },
-  {
-    "id": "f0af6ab1-0f0b-4ca1-b7ef-94a705fc6f14",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-    "summary": "1. Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-    "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-    "author": "Aisha Malik",
-    "created_at": "2026-07-24T21:15:00.000Z"
-  },
-  {
-    "id": "fc890229-8560-4814-926e-47632f05ea1d",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: collected \"Mi Amor por Ti — EPP\" by @duodomusica on @kismet",
-    "summary": "1. collected \"Mi Amor por Ti — EPP\" by @duodomusica on @kismet",
-    "url": "https://warpcast.com/farcaster/0x0dc2016e",
-    "author": "Farcaster",
-    "created_at": "2026-07-24T21:02:39.000Z"
-  },
-  {
-    "id": "2822dbb8-2124-4398-b114-1efbc5d51885",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Strive’s SATA recovers most of June decline, trades within 3% of par ",
-    "summary": "1. Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.",
-    "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-24T21:02:22.000Z"
-  },
-  {
-    "id": "b1510896-c9bf-48cb-91df-9ce899f52e58",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin Policy Institute named partner in U.S. State Department freedom tech program",
-    "summary": "Bitcoin Policy Institute has been selected as a partner in the U.S. State Department's Freedom Tech Excellence Program, The Block reported. The program aims to protect freedom of expression online and address issues including online surveillance and encryption through cooperation between the State Department and private-sector participants. Bitcoin Policy Institute was selected alongside partners including Palantir and Anduril.",
-    "url": "https://t.me/CoinnessGL#4827f4d3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T21:00:35+00:00"
-  },
-  {
-    "id": "92624113-ef02-4a8e-a68c-fdc08d82f64c",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇧🇾 The EU will bar Belarusian nationals and residents from owning, controlling or managing any MiCA-regulated crypto service provider starting Aug.",
-    "summary": "25.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0da122e1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T20:55:05+00:00"
-  },
-  {
-    "id": "94e116e7-d0f5-4b9f-bdc6-533d8bc54274",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Waymo reportedly mulling a breakup with Uber",
-    "summary": "1. The contract between the two companies ends in May 2028, Uber told TechCrunch.",
-    "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-07-24T20:43:35.000Z"
-  },
-  {
-    "id": "3ede1a3e-2785-45c5-bb41-e8ad559c0f6c",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇲🇽 President Trump threatens \"major tariff\" on Mexico over bad lettuce that caused the explosive diarrhea outbreak.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#efcae2ee",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-24T20:41:48+00:00"
-  },
-  {
-    "id": "ee36f64d-b46c-4621-bb8f-8f6da04b34f9",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
-    "summary": "1. Bitcoin Magazine\n\n$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act\nThe investment giant is the latest big player to back the bill.\n2. This post $7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/fidelity-backs-crypto-clarity-act",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-24T20:36:04.000Z"
-  },
-  {
-    "id": "cabd024d-3c14-48fa-86d0-e09931d5a93d",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Kenyan Investigators Freeze $751,853 in USDT as Binance Wallet Probe Widens Further",
-    "summary": "1. Kenya’s Assets Recovery Agency (ARA) has frozen at least $888,030 in cash and tether stablecoins tied to a multi-layered money laundering operation.\n2. Parallel Channels Used to Evade Detection Kenyan investigators have seized and frozen at least $888,030 (115 million Kenyan shillings) linked to two residents after tracing a multi-layered money laundering operation that allegedly moved […]",
-    "url": "https://news.bitcoin.com/kenyan-investigators-freeze-751853-in-usdt-as-binance-wallet-probe-widens-further/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-24T20:30:05.000Z"
-  },
-  {
-    "id": "612de5f6-9450-4d24-a807-664dc5309ae1",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Republican Kurt Alme is a terrific candidate for the U.S.\n2. Senate in the Wonderful State of Montana, which I love and WON BIG in 2016, 2020, and 2024.\n3. He loves the U.S.A., and is a truly Great American Patriot!",
-    "url": "https://trumpstruth.org/statuses/40237",
-    "author": "Trump Truth",
-    "created_at": "2026-07-24T20:28:25.000Z"
-  },
-  {
-    "id": "0ba3149e-91cd-4291-aa26-28f2ec1e9029",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Bahrain and Kuwait secretly sent fighter jets to strike inside Iran, their first direct retaliation against Tehran, with the UAE providing intelligence and air cover | per WSJThe strikes hit drone and missile storage depots earlier this month, per people familiar.",
-    "summary": "Both states have small air forces flying US and European aircraft, but weren’t willing to keep absorbing Iranian attacks without responding, Tehran has concentrated its retaliation on both for weeks, hitting Kuwait’s airport fuel tanks and a Bahraini desalination plant. Saudi Arabia joined UAE strikes earlier in the war and is now reassessing. Oman and Qatar are still holding their balanced line. Neither government commented.Twitter",
-    "url": "https://t.me/SolidIntelX#10cb9e46",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-24T20:21:20+00:00"
-  },
-  {
-    "id": "cc659718-4c3f-4925-bf76-c6cc8782a3de",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners",
-    "summary": "1. Bitcoin Magazine\n\nState Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners\nThe initiative wants to protect free expression online.\n2. This post State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-24T20:20:05.000Z"
-  },
-  {
-    "id": "2d651874-16d0-4e92-b3b0-837383f9855a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Robinhood Chain stablecoin supply tops $400M",
-    "summary": "Robinhood Chain's total stablecoin supply has surpassed $400 million, up 340% from early July, Unfolded reported.",
-    "url": "https://t.me/CoinnessGL#abd2d7d6",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T20:13:31+00:00"
-  },
-  {
-    "id": "f987f252-308f-4f3c-b69a-ce0090e07b38",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Robinhood Chain’s stablecoin supply has topped $400M, a 340% jump since early July.Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#0a39ec73",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-24T20:12:18+00:00"
-  },
-  {
-    "id": "ff006048-e53f-4fc0-9f16-ed34ace07f55",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "House passes bill on lawmakers using insider information for stock trading ",
-    "summary": "1. According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
-    "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-24T20:05:50.000Z"
-  },
-  {
-    "id": "ba7dbb78-e555-4d0e-a001-de9fc6530d81",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close mixed",
-    "summary": "US stocks close mixedThe three major U.S. stock indices closed mixed today.- S&P 500: +0.05%- Nasdaq: -0.64%- Dow Jones: +0.45%",
-    "url": "https://t.me/CoinnessGL#5ae91592",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T20:01:10+00:00"
-  },
-  {
-    "id": "ceced375-a636-4e7d-83a2-0f905c33d081",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-    "summary": "1. Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked.\n2. But details are scarce.",
-    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-24T19:30:01.000Z"
-  },
-  {
-    "id": "a8dd49ae-3671-4f64-b37f-e89ccfb9a2d5",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Gretchen Whitmer endorses Haley Stevens for Michigan Senate seat",
-    "summary": "1. Whitmer waded into one of the highest-profile ideological battles within the Democratic Party.",
-    "url": "https://www.politico.com/news/2026/07/24/gretchen-whitmer-michigan-senate-race-haley-stevens-01011606",
-    "author": "By Liset Cruz",
-    "created_at": "2026-07-24T19:26:04.000Z"
-  },
-  {
-    "id": "dad77c20-429f-4952-b458-6298232b94ec",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "rish: somewhat of a bad analogy but cheap intelligence might do to companies what cons...",
-    "summary": "1. somewhat of a bad analogy but cheap intelligence might do to companies what consumer cameras + youtube did to media.\n2. before youtube and twitch, if you wanted to build a media career, you generally had to go through NBC or some other commercial aggregator.\n3. they gave you a slot or they didn't.",
-    "url": "https://warpcast.com/rish/0x3a36c167",
-    "author": "rish",
-    "created_at": "2026-07-24T19:22:57.000Z"
-  },
-  {
-    "id": "c6870599-de9d-4b74-8a62-82b19c5a5005",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Former House Financial Services Chair: CLARITY Act’s Passage Is ‘When, Not If’",
-    "summary": "1. Former House Financial Services Committee Chairman Patrick McHenry told Bloomberg the CLARITY Act’s passage is “a question of when, not if,” days after comparing the crypto market structure bill to the 1996 Telecommunications Act.\n2. A Telecom-Sized Comparison Patrick McHenry, the former chairman of the House Financial Services Committee who helped shepherd the CLARITY Act through […]",
-    "url": "https://news.bitcoin.com/mchenry-clarity-act-when-not-if/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-24T19:15:15.000Z"
-  },
-  {
-    "id": "38daa7ed-99bc-4d24-a201-4d7485942d90",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Galaxy Research cut its odds of the CLARITY Act passing in 2026 to 30%, down from 50% a month ago, citing a shrinking Senate calendar before the August recess.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#8c26fe66",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T19:10:07+00:00"
-  },
-  {
-    "id": "69426eb7-7923-496e-bbd7-21b30973693e",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Sam Bourgi",
-    "created_at": "2026-07-24T19:03:45.000Z"
-  },
-  {
-    "id": "901e7b6e-dd8b-4779-9a6c-ac24ad91d581",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
-    "summary": "1. Cardano’s governance and ability to enact upgrades make it better equipped to respond to existential technical threats, said Hoskinson.",
-    "url": "https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss",
-    "author": "RT Watson",
-    "created_at": "2026-07-24T19:01:53.000Z"
-  },
-  {
-    "id": "ce324509-0003-4eab-9d9a-c9db63d6169e",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk says he is now a \"former trillionaire.\"@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#37eea03c",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-24T18:56:16+00:00"
-  },
-  {
-    "id": "2205c509-a212-487b-a679-72483adf3fb0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🏦 Fidelity calls on the Senate to pass the CLARITY Act, saying \"the time is now for clear rules of the road\" to strengthen investor confidence and US leadership in global digital asset markets.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#d1da70ed",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T18:45:07+00:00"
-  },
-  {
-    "id": "68aa68c6-a2cf-42d8-a853-19e317503920",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran’s New Supreme Leader Is More Open to Pursue a Nuclear Weapon  | Per NYTTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#69d72f2a",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-24T18:41:43+00:00"
-  },
-  {
-    "id": "dd0e4f90-0dfd-4ed2-9c9c-3e91b471bf47",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 $7 trillion asset manager Fidelity \"urges\" Senate to pass the crypto Clarity Act.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#9e1faad8",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-24T18:39:06+00:00"
-  },
-  {
-    "id": "99d34750-7b5b-4dd6-84eb-5e32f85b6de1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Santiment says surge in negative ETH comments may signal a buy-the-dip chance",
-    "summary": "On-chain analytics firm Santiment said the ratio of negative to positive comments on Ethereum across major communities including X, Reddit and Telegram hit extremely bearish levels three times over the past month. Santiment said this could appear negative on the surface, but in Ethereum’s case, such sharp deterioration in investor sentiment has coincided with price weakness and has instead pointed to buy-the-dip opportunities. Following the previous two sentiment slumps, ETH rebounded by about 14% and 7%, respectively, according to Santiment.Santiment added this does not mean negative sentiment automatically leads to an immediate price rebound. Still, if fundamentals such as ETF inflows, activity in the Layer 2 ecosystem and protocol upgrades remain intact even as market participants exit, conditions could form for a price recovery, the firm said.",
-    "url": "https://t.me/CoinnessGL#9485b7d5",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T18:38:45+00:00"
-  },
-  {
-    "id": "b1a1b097-becd-4616-b510-0f1c6f3cf403",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 The SEC will host a roundtable on Sept.",
-    "summary": "17 in Washington to discuss moving US equity markets toward 24-hour trading, Chair Paul Atkins says.",
-    "url": "https://t.me/CoinMarketCapAnnouncements#4f23237d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T18:30:09+00:00"
-  },
-  {
-    "id": "38bc71f0-ecf8-4667-96df-805542c751fa",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-    "summary": "1. Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
-    "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-24T18:28:43.000Z"
-  },
-  {
-    "id": "767e0444-f340-41c2-87ec-a719cdfbb5fe",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "summary": "1. AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures.\n2. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "author": "Sarah Perez",
-    "created_at": "2026-07-24T18:07:32.000Z"
-  },
-  {
-    "id": "884a3558-e697-4039-8325-4d4f183d98be",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Traders Trigger $87M in Liquidations After BTC Slides Below $64,000",
-    "summary": "1. Bitcoin fell below $64,000 after reaching nearly $67,000 mid-week, dropping its market cap to $1.285 trillion and triggering $312 million in total crypto liquidations.\n2. Bitcoin Reverses Gains as Liquidations Mount Bitcoin briefly slipped below $64,000 on Friday, positioning the top cryptocurrency to end the week flat after nearly reaching $67,000 on Wednesday.\n3. The reversal occurred […]",
-    "url": "https://news.bitcoin.com/bitcoin-traders-trigger-87m-in-liquidations-after-btc-slides-below-64000/",
-    "author": "Terence Zimwara",
-    "created_at": "2026-07-24T18:07:07.000Z"
-  },
-  {
-    "id": "45be07c7-08a4-426e-a929-8e3a295761ad",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-    "summary": "1. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S.",
-    "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
-    "author": "Zack Whittaker",
-    "created_at": "2026-07-24T17:53:30.000Z"
-  },
-  {
-    "id": "1844c051-11d9-4747-8cae-d9ab9fc9d7eb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Cardano founder says ADA has an edge over BTC in network evolution",
-    "summary": "Cardano founder Charles Hoskinson said Cardano’s strength over Bitcoin lies in its ability to keep evolving the network. In an interview with The Block, Hoskinson added that if a quantum-computing catastrophe occurs, Satoshi Nakamoto’s long-dormant Bitcoin holdings could be exposed and undermine Bitcoin’s core value. If Bitcoin governance cannot respond, he said, it may be difficult for Bitcoin to remain the world’s top cryptocurrency.",
-    "url": "https://t.me/CoinnessGL#e83bdece",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T17:53:23+00:00"
-  },
-  {
-    "id": "611fcee2-6337-45a5-9c55-413f36d10303",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
-    "summary": "1. Senate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
-    "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
-    "author": "Decrypt Staff",
-    "created_at": "2026-07-24T17:50:26.000Z"
-  },
-  {
-    "id": "c4b34a4e-275c-4dbf-8d63-ed2931c69bb7",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Wise plans to resubmit national trust bank application under GENIUS Act framework",
-    "summary": "1. The OCC has granted conditional approval to several stablecoin-focused entities since December.",
-    "url": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-24T17:37:34.000Z"
-  },
-  {
-    "id": "b041c2fe-b394-4277-8a4e-a7f4318bf213",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-    "summary": "1. Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
-    "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-    "author": "Ram Iyer",
-    "created_at": "2026-07-24T17:33:19.000Z"
-  },
-  {
-    "id": "6888a189-1290-4984-9b8a-df96a0c53997",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Thank you to all the Senators who opposed yet another Dumocrat-led attempt to undermine our National Security.\n2. Congratulations to our GREAT Speaker, Mike Johnson, and the House Republicans for their MAJOR success in taking the first step towards passing the Budget Bill.\n3. Thank you to our terrific Chairman, Jodey Arrington, Chip Roy, Michelle Fishbach, Virginia Foxx, Jason Smith, Mike Rogers, GT Thompson, Bryan Steil, our incredible Whip, Tom Emmer, Majority Leader, Steve Scalise, and all those who came together to take this important step.",
-    "url": "https://trumpstruth.org/statuses/40236",
-    "author": "Trump Truth",
-    "created_at": "2026-07-24T17:32:21.000Z"
-  },
-  {
-    "id": "9fc1a444-7652-4c4e-8d06-853853da485f",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Crypto groups urge Senate to prioritize CLARITY Act vote",
-    "summary": "The Crypto Council for Innovation, The Digital Chamber and the Blockchain Association urged the U.S. Senate to prioritize floor consideration of the CLARITY Act, according to Cointelegraph. In a letter to Senate Majority Leader John Thune and Democratic Leader Chuck Schumer, the groups said they recognized that constructive bipartisan negotiations on the bill were continuing and hoped those discussions would continue.",
-    "url": "https://t.me/CoinnessGL#67d31e6e",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T17:31:01+00:00"
-  },
-  {
-    "id": "ee3c8dde-58b5-4556-94c5-5950be7c3639",
-    "source": "Politico",
-    "type": "rss",
-    "title": "Dems pick South Carolina to lead 2028 primary calendar",
-    "summary": "1. The state edged Nevada to be first, marking a major shift from past primary schedules",
-    "url": "https://www.politico.com/news/2026/07/24/democrats-dnc-2028-calendar-south-carolina-01011481",
-    "author": "By Aaron Pellish, Lisa Kashinsky and Emilio Perez Ibarguen",
-    "created_at": "2026-07-24T17:26:40.000Z"
-  },
-  {
-    "id": "653eacab-5c6b-4136-a71f-c1cc67178b79",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Anthropic officially launches new Claude Opus 5 AI model.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#dd216f4a",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-24T17:25:01+00:00"
-  },
-  {
-    "id": "5b08073d-58ca-4ee4-80af-2b627b2cc7d5",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Exploiting Private Data: Lawsuit Claims BitMEX Used ‘God Access’ to Force Customer Liquidations",
-    "summary": "1. The complaint, which includes former BitMEX CEO Arthur Hayes and former CTO Samuel Reed as defendants, alleges that the exchange operated a fraudulent scheme from an insider desk managed by Head of Business Development Gregory Dwyer to trade against its users.\n2. BitMEX Accused of Trading Against Its Users in New Complaint BitMEX, the cryptocurrency exchange […]",
-    "url": "https://news.bitcoin.com/exploiting-private-data-lawsuit-claims-bitmex-used-god-access-to-force-customer-liquidations/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-24T17:15:36.000Z"
-  },
-  {
-    "id": "0d3e116c-3208-41c7-a717-4fa3fb8932c1",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.219",
-    "summary": "1. ## What's changed\n\n- Added Claude Opus 5 (`claude-opus-5`), now the default Opus model — 1M context, fast mode at $10/$50 per Mtok\n- Added `sandbox.network.strictAllowlist` setting to deny non-allowlisted hosts for sandboxed commands without prompting\n- Added `DirectoryAdded` hook that fires after `/add-dir` or the SDK `register_repo_root` control request registers a new working directory mid-session\n- Added `mcp_server_errors` to the headless stream-json init event, listing `--mcp-config` entries skipped by config validation; terminal runs print a startup warning\n- Added the `workflowSizeGuideline` settings key so the advisory Dynamic workflow size guideline can be set from any settings file; the `/config` row is hidden while one does\n- Added nested subagent forwarding in stream-json: subagents spawned at depth-2+ now appear when `--forward-subagent-text` is set, keyed by their spawning Agent `tool_use` id\n- Fixed `claude -p` text output dropping the answer already produced when a turn dies on a mid-stream API error\n- Added HTTP status and error text to `claude mcp list` and `/mcp` when a server fails to connect, and a warning for MCP config values with hidden leading or trailing whitespace\n- Fixed a permission you approved while a self-hosted runner was restarting being dropped when the session resumed, so the approved action now runs\n- Fixed the Fable model row showing \"Requires usage credits\" for plans that include it, when a stale cache had baked the label in\n- Fixed a SIGTERM arriving while a self-hosted runner was starting up leaving a stale active row until the lease expired; it now deregisters cleanly\n- Added structured failure categories to self-hosted runner spawn and session failures, so hook errors, runner crashes and config errors can be told apart\n- Fixed the `/model` picker showing the merged Opus row as plain \"Opus\" instead of \"Opus (1M context)\"\n- Fixed copy-on-select inside GNU screen printing base64 into the terminal instead of copying the selection\n- Fixed Remote Control clients keeping a stale fast-mode status after a model switch, reconnect, or failed org check\n- Fixed `CLAUDE_CODE_GIT_BASH_PATH` on Windows exiting or being used as bash when the path isn't a bash/sh binary; it's now ignored with a warning\n- Fixed Vim mode: pressing ← on an empty prompt now returns to the agent view from NORMAL mode, not just INSERT\n- Fixed screen-reader mode rewriting the entire input line on every keystroke instead of echoing only the typed character\n- Improved the \"Remote Control is only available via api.anthropic.com\" error to name the specific setting that caused it\n- Improved `claude --teleport` to show which repo your current checkout points at when it doesn't match the session's repo\n- Changed dynamic workflows to default to a medium size guideline (aim for fewer than 15 agents); pick another size or unrestricted with Dynamic workflow size in `/config`\n- Changed managed MCP allowlist/denylist `${VAR}` entries to resolve from the startup environment and managed-settings env instead of settings-file env\n- Changed the `/model` picker to highlight only the newest model's name, so the highlight marks the new release rather than an arbitrary subset of the list\n- Added the current default workflow size to the running-workflow status line, with a pointer to `/config` for changing it\n- Removed Opus 4.7 from fast mode; `/fast` now applies to Opus 5 and Opus 4.8\n- Updated the claude-api skill to default to Claude Opus 5, with a migration path from Opus 4.8\n- Subagents can now spawn nested subagents up to depth 3 by default (was 1); set CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH=1 to disable nesting",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.219",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-24T17:14:23Z"
-  },
-  {
-    "id": "87d7142c-8d99-4317-9b14-bb37aa50352b",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Trump says the US will launch a Section 301 probe into $21.5B in EU fines against Apple, Meta, Amazon and Google, with substantial tariffs expected to followTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#1a7e2606",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-24T17:08:33+00:00"
-  },
-  {
-    "id": "e75e0957-32ec-49bb-b3fe-b30e4c82711a",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill",
-    "summary": "1. Bitcoin Magazine\n\nNational Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill\nA number of organizations have thrown support behind the bill this week.\n2. This post National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-24T17:07:18.000Z"
-  },
-  {
-    "id": "f56a0e7d-29ad-4087-9c3c-acff2083d503",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!\n2. After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation.\n3. This brings the Google total to over 18 Billion Dollars!",
-    "url": "https://trumpstruth.org/statuses/40235",
-    "author": "Trump Truth",
-    "created_at": "2026-07-24T17:06:10.000Z"
-  },
-  {
-    "id": "750b05b6-0103-4d03-919e-4396e62da3a9",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Thank you Prime Minister Radev!\n2. Bulgaria Backs Trump, Approves US Air Base Support Despite Iran Threats:",
-    "url": "https://trumpstruth.org/statuses/40234",
-    "author": "Trump Truth",
-    "created_at": "2026-07-24T17:01:21.000Z"
-  },
-  {
-    "id": "63bfff9e-84af-4828-a72a-7b28298f09ef",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-    "summary": "1. The window for US lawmakers to address a comprehensive crypto market structure bill before the 2026 elections is closing, and industry organizations are calling for action.",
-    "url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-24T16:55:14.000Z"
-  },
-  {
-    "id": "e94c5c4c-3b90-4e34-9117-6a08ebdd5288",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Senator Ruben Gallego is working with Senator Thom Tillis on a CLARITY Act ethics counteroffer, calling the Republican proposal \"not a serious effort.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f10e953c",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T16:45:07+00:00"
-  },
-  {
-    "id": "cbb2e6e3-18ea-458e-80e1-a7e16e12a260",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Canada disinvited the United States of America to the opening of the Gordie Howe Bridge, which is fine, considering they are paying substantial TARIFFS to the United States, but the original Deal on the Bridge, which was terribly negotiated by a previous Administration, no longer stands.\n2. We changed the terms of the Deal so that the United States of America now gets 50% of the Profit.\n3. Thank you for your attention to this matter!",
-    "url": "https://trumpstruth.org/statuses/40233",
-    "author": "Trump Truth",
-    "created_at": "2026-07-24T16:40:13.000Z"
-  },
-  {
-    "id": "cda1a6d6-7ee0-4994-9d78-fef3b4f809b4",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "KULR sells 333 BTC to repay $20M Coinbase credit facility",
-    "summary": "KULR Technology, a New York Stock Exchange-listed company known as a Bitcoin accumulation firm (DAT), said it sold 333 BTC to fully repay a $20 million credit facility from Coinbase. The company now holds a total of 760 BTC.",
-    "url": "https://t.me/CoinnessGL#a377f2f3",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T16:39:36+00:00"
-  },
-  {
-    "id": "12acff3d-4d1c-4c82-86c7-ffba0132f953",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
-    "summary": "1. Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
-    "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-24T16:34:25.000Z"
-  },
-  {
-    "id": "65bad1a2-1c50-403f-934f-f9e6f655fd9c",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Analyst who predicted last year's BTC peak expects new high before next halving",
-    "summary": "KillaXBT, a cryptocurrency analyst known for accurately predicting Bitcoin’s 2025 peak, said Bitcoin’s cycle durations are getting shorter. In a post on X, KillaXBT said the last cycle took just 476 days from the bottom to a new all-time high, a much faster pace than in the previous two cycles, and added BTC could reach a new high before the next halving.",
-    "url": "https://t.me/CoinnessGL#911e6582",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T16:28:49+00:00"
-  },
-  {
-    "id": "55afe495-f964-4632-b539-9ec2e061a237",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'",
-    "summary": "1. The firm says its \"digital credit\" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.",
-    "url": "https://decrypt.co/374281/strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
-    "author": "Decrypt Agent",
-    "created_at": "2026-07-24T16:21:52.000Z"
-  },
-  {
-    "id": "08be2b8b-514f-48c3-914f-031a9906fc62",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Sealed in Foil: BMAG’s New Focus on Trading Cards",
-    "summary": "1. Bitcoin Magazine\n\nSealed in Foil: BMAG’s New Focus on Trading Cards\nFrom rare pulls to provable ownership, BMAG explores why trading cards and Bitcoin share the same foundations of authenticity, scarcity, and value.\n2. This post Sealed in Foil: BMAG’s New Focus on Trading Cards first appeared on Bitcoin Magazine and is written by Dennis Koch.",
-    "url": "https://bitcoinmagazine.com/culture/sealed-in-foil-bmags-new-focus-on-trading-cards",
-    "author": "Dennis Koch",
-    "created_at": "2026-07-24T16:20:25.000Z"
-  },
-  {
-    "id": "ff37a105-aaaf-49f9-8577-d2fd3940d4ce",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
-    "summary": "1. BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities—though the week still closed in the green.",
-    "url": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-24T16:17:37.000Z"
-  },
-  {
-    "id": "59d2f148-5ef9-4ad6-8ea1-81e87d5d3eb0",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: heads up: we changed how follower and following counts appear.\n\nthey're now filt...",
-    "summary": "1. heads up: we changed how follower and following counts appear.\n2. they're now filtered by neynar score and activity in the last 6 months.\n3. so your counts might look a bit different today.",
-    "url": "https://warpcast.com/farcaster/0xe248f4e6",
-    "author": "Farcaster",
-    "created_at": "2026-07-24T16:16:01.000Z"
-  },
-  {
-    "id": "fc0c24b8-699c-4264-aa04-0c84c8695552",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ether ETFs Add $26 Million as Bitcoin’s 7-Day Streak Ends",
-    "summary": "1. spot bitcoin ETFs recorded $225.18 million in net outflows on Thursday, ending a seven-session inflow streak.\n2. Ether funds moved in the opposite direction, adding $26.32 million on the second anniversary of their market debut.\n3. Bitcoin ETFs See $225 Million Exit as Net Assets Fall Below $80 Billion The week’s strongest crypto exchange-traded fund (ETF) […]",
-    "url": "https://news.bitcoin.com/ether-etfs-add-26-million-as-bitcoins-7-day-streak-ends/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-24T16:13:16.000Z"
-  },
-  {
-    "id": "d84d2108-f513-44ec-9dce-7394e1c47676",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Coinbase policy chief says now is the time to pass the CLARITY Act",
-    "summary": "Coinbase Chief Policy Officer Faryar Shirzad said policymakers should not let the pursuit of perfection get in the way of a good outcome and that now is the time to pass the CLARITY Act, Cointelegraph reported.",
-    "url": "https://t.me/CoinnessGL#76f85a9a",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-24T16:12:19+00:00"
-  },
-  {
-    "id": "cba243da-3f3c-49ef-b7ba-e5239454304f",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-    "summary": "1. Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-    "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-07-24T16:11:56.000Z"
   }
 ]
