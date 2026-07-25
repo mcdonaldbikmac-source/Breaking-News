@@ -1,5 +1,105 @@
 [
   {
+    "id": "48974c83-d093-40d9-b243-5863a567973c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Wisconsin election officials warned that betting on Kalshi or Polymarket on an election outcome could disqualify voters from casting a ballot in that same race under state law.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#1dc5ea6c",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T08:10:07+00:00"
+  },
+  {
+    "id": "0e79f86b-902c-4339-a2c7-b9dd03321ed3",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "224 crypto hacks caused $1.32B in losses in the first half of 2026",
+    "summary": "A total of 224 cryptocurrency hacking incidents were recorded in the first half of this year, with losses reaching about $1.32 billion, according to Onchain Lens. The main attack types included access control vulnerabilities, phishing, and oracle-related exploits. Among them, large losses were concentrated in attacks involving privilege escalation and administrator account takeovers tied to access control weaknesses. KelpDAO and Drift Protocol were among the hardest hit, suffering losses of $292 million and $280 million, respectively.",
+    "url": "https://t.me/CoinnessGL#d68204ee",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T07:52:57+00:00"
+  },
+  {
+    "id": "10aa738b-c044-4a85-be6d-b61057ec94d9",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to list MORPHO for won trading today",
+    "summary": "South Korean exchange Upbit announced the addition of MORPHO to its won trading market at 9:00 a.m. UTC today.",
+    "url": "https://t.me/CoinnessGL#e04dd013",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T07:41:41+00:00"
+  },
+  {
+    "id": "7eddbb3e-2cd1-4224-a4a7-287c27c8fe89",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+    "summary": "1. Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
+    "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-25T07:40:35.000Z"
+  },
+  {
+    "id": "47aab558-1208-4d7a-a4de-2179f8af520c",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 White House crypto adviser Patrick Witt told CoinDesk that Senate Democrats should accept the \"victory\" they already won on Trump's crypto limits under the CLARITY Act.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#6b24674b",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T07:30:09+00:00"
+  },
+  {
+    "id": "80408d73-049a-411a-8182-38b8c1460ccf",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "From Pasture to Blockchain: How Tokenized Cows Are Revolutionizing Agricultural Finance in Brazil",
+    "summary": "1. A pioneering transaction involving a cattle herd valued at nearly $24K allowed a Brazilian farm to use this value as collateral, tokenizing each cow using technology provided by Cowmed to monitor each animal’s health in real time, with each animal being classified as a receivable.\n2. Tokenized Cattle Loans Debut in Brazil Tokenization is enabling more […]",
+    "url": "https://news.bitcoin.com/from-pasture-to-blockchain-how-tokenized-cows-are-revolutionizing-agricultural-finance-in-brazil/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-25T07:30:01.000Z"
+  },
+  {
+    "id": "91cead72-ad11-4669-ba11-ac3a49008507",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC perp long/short ratios on top exchanges by open interest",
+    "summary": "The following are the 24-hour long/short ratios for BTC perpetual futures on the world’s three largest crypto futures exchanges by open interest:Overall: 47.9% long, 52.1% short- Binance: 47.43% long, 52.57% short- MEXC: 48.62% long, 51.38% short- Bybit: 47.46% long, 52.54% short",
+    "url": "https://t.me/CoinnessGL#e5fd12de",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-25T07:09:07+00:00"
+  },
+  {
+    "id": "75b92c0c-5a53-4c88-9ed8-a8bca632e488",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇦🇷 Argentina's Deregulation Minister Federico Sturzenegger has proposed a bill letting investment funds buy digital assets, per local reports.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3389c1d3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-25T06:45:06+00:00"
+  },
+  {
+    "id": "1865e006-b10e-45e8-a76b-c8873bbf22c3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Sam Altman’s World Foundation Pulls $52.5M as Pantera Backs Global World ID Expansion",
+    "summary": "1. World Foundation raised $52.5 million in a strategic WLD token sale led by Pantera Capital, with participation from Bain Capital Crypto, Eightco Holdings, Selini Capital, and Susquehanna Crypto.\n2. Strategic Investor Backing World Foundation announced July 24 that it has raised $52.5 million in an initial funding round through a strategic sale of its native WLD […]",
+    "url": "https://news.bitcoin.com/sam-altmans-world-foundation-pulls-52-5m-as-pantera-backs-global-world-id-expansion/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-25T05:30:30.000Z"
+  },
+  {
+    "id": "fc834a0e-2b8d-45bd-bbe8-4e06264bad8c",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Australian Police Detail AI Scam Tactics After Woman Lost Over $74,000 to Fake Crypto Investment",
+    "summary": "1. Australian police are warning the public about transnational criminal networks using AI to construct sophisticated, end-to-end fake cryptocurrency investment ecosystems.\n2. National ‘Clickfit’ Campaign Expands Awareness Criminal syndicates are increasingly deploying artificial intelligence to construct deceptive, end-to-end investment schemes that have siphoned tens of millions of dollars from Australian investors, law enforcement officials warned.\n3. The Australian […]",
+    "url": "https://news.bitcoin.com/australian-police-detail-ai-scam-tactics-after-woman-lost-over-74000-to-fake-crypto-investment/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-25T04:30:33.000Z"
+  },
+  {
     "id": "737e2aa3-2b98-427e-bf19-4cc9d7b0b2a4",
     "source": "The Defiant",
     "type": "rss",
@@ -20,7 +120,17 @@
     "created_at": "2026-07-25T03:21:38.000Z"
   },
   {
-    "id": "43286b9a-92b7-41aa-bb2b-6af08690197d",
+    "id": "f918d0f2-5c2e-4a05-ab23-e896c515f5f0",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Alaska removes thousands from state’s active voter list, erroneously flagging some citizens:",
+    "url": "https://trumpstruth.org/statuses/40238",
+    "author": "Trump Truth",
+    "created_at": "2026-07-25T03:21:29.000Z"
+  },
+  {
+    "id": "c578eed7-da4f-489e-9e0f-6ed25335dbf0",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "OpenAI caught one of its AI agents leaving instructions for future versions to escape internal controls.@WatcherGuru",
@@ -78,195 +188,5 @@
     "url": "https://t.me/CoinnessGL#49c5ffe8",
     "author": "@CoinnessGL",
     "created_at": "2026-07-25T02:18:49+00:00"
-  },
-  {
-    "id": "5a49de69-eabc-4eac-98ee-62c8934afed1",
-    "source": "GitHub",
-    "type": "github",
-    "title": "anthropics/claude-code: v2.1.220",
-    "summary": "1. ## What's changed\n\n- Bug fixes and reliability improvements",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220",
-    "author": "ashwin-ant",
-    "created_at": "2026-07-25T01:35:55Z"
-  },
-  {
-    "id": "03d02529-913e-4bcb-8f05-f6a31333fc06",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "$7 Trillion Financial Giant Fidelity Urges Senate to Pass CLARITY Act",
-    "summary": "1. Fidelity, a financial giant overseeing $7.1 trillion in managed assets, has entered Washington’s intensifying crypto debate by urging senators to establish nationwide rules for digital asset markets.\n2. Fidelity Brings Wall Street Heft to Crypto Campaign Fidelity Public Policy, the government affairs and public policy arm of Fidelity Investments, posted on X on July 24 calling […]",
-    "url": "https://news.bitcoin.com/7-trillion-financial-giant-fidelity-urges-senate-to-pass-clarity-act/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-25T01:30:10.000Z"
-  },
-  {
-    "id": "02e0be1a-927b-4f78-a084-6e36bb76d414",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 CryptoQuant says Bitcoin's supply in profit climbed to 57.5% as of July 22, up from a 2026 low of 46.2% in June, though a recovery isn't confirmed yet.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0fa2b1f1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T00:55:05+00:00"
-  },
-  {
-    "id": "5a43e088-7578-4a32-91a1-15852fdd6791",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "382,000-Member Police Group Supports Revised Crypto CLARITY Act",
-    "summary": "1. The 382,000-member Fraternal Order of Police endorsed the revised CLARITY Act after lawmakers added protections for criminal investigations, suspicious transaction holds, and digital asset seizures, even as Senate Democrats withheld support from the latest draft.\n2. Nation’s Largest Police Labor Group Reverses Course The National Fraternal Order of Police (FOP) has endorsed the latest version of […]",
-    "url": "https://news.bitcoin.com/382000-member-police-group-supports-revised-crypto-clarity-act/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-25T00:30:15.000Z"
-  },
-  {
-    "id": "e9ab9cfd-3c91-4697-836a-e0b1dff84886",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "summary": "1. OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "author": "Lucas Ropek",
-    "created_at": "2026-07-25T00:23:11.000Z"
-  },
-  {
-    "id": "c93cda64-426d-4fec-90b9-7a92bc59e0e0",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its payments and rewards platform to include digital assets.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0297bb6e",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T00:10:07+00:00"
-  },
-  {
-    "id": "505e164e-4c41-4c06-9ede-df519eff202e",
-    "source": "Farcaster",
-    "type": "farcaster",
-    "title": "Farcaster: I just submitted a claim on @luciano's poidh bounty Collect your first artwork o...",
-    "summary": "1. I just submitted a claim on @luciano's poidh bounty Collect your first artwork on kismet.art 📸",
-    "url": "https://warpcast.com/farcaster/0x52f7a592",
-    "author": "Farcaster",
-    "created_at": "2026-07-24T23:35:48.000Z"
-  },
-  {
-    "id": "b561e201-d88c-4c33-a3ec-b00bd0f20e01",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-    "summary": "1. The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
-    "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-    "author": "Sean O'Kane",
-    "created_at": "2026-07-24T23:25:47.000Z"
-  },
-  {
-    "id": "fa7b7304-a354-4125-9d72-f5c571bd8c94",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "summary": "1. The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "author": "Marina Temkin",
-    "created_at": "2026-07-24T22:25:58.000Z"
-  },
-  {
-    "id": "e731f4ff-90a3-4545-8861-0f37a91ee933",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "OpenAI did not notice its AI agent had hacked another company until a week later, Reuters reports.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#08477e85",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-24T22:21:28+00:00"
-  },
-  {
-    "id": "c87aca29-6d80-42a9-b244-3461ec6668de",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
-    "summary": "1. The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S.\n2. State Department's Freedom Tech Excellence Program.",
-    "url": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-24T22:21:01.000Z"
-  },
-  {
-    "id": "6009dd48-cea2-4adf-af2e-29eb563cbb30",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
-    "summary": "1. Bitcoin Magazine\n\nMorgan Stanley Bitcoin ETF Nearly Notches $400M in Assets\nInvestors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.\n2. This post Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-24T22:16:22.000Z"
-  },
-  {
-    "id": "0ae6ab57-9af9-46fc-9dec-34d1a54a0e90",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-24T22:10:58.000Z"
-  },
-  {
-    "id": "1061a16b-09c9-434a-8b84-91a3a13f1e21",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 The Fraternal Order of Police endorsed the CLARITY Act, saying the revised bill resolves its earlier concerns about limiting law enforcement authority.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#1c290969",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T22:10:07+00:00"
-  },
-  {
-    "id": "00d0327d-b44f-4dd8-b341-d8dd4089756c",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between ",
-    "summary": "1. Money has evolved into far more than the cash in your wallet or your bank account.\n2. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
-    "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-    "author": "TechCrunch Events",
-    "created_at": "2026-07-24T22:10:00.000Z"
-  },
-  {
-    "id": "3f0251e8-bb53-4b97-b47d-5028332e631a",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Grayscale Says Fed Policy Could Decide if Bitcoin Bear Market Ends Now or Runs to October",
-    "summary": "1. Grayscale says bitcoin could remain under pressure until September or October if its historic four-year cycle repeats.\n2. However, the asset manager believes economic growth and Federal Reserve policy now offer a more useful guide to the market.\n3. Zach Pandl Says Bitcoin May Have Bottomed if the Fed Avoids Another Rate Increase Bitcoin’s bear market may […]",
-    "url": "https://news.bitcoin.com/grayscale-says-fed-policy-could-decide-if-bitcoin-bear-market-ends-now-or-runs-to-october/",
-    "author": "Emmanuel Musa",
-    "created_at": "2026-07-24T22:05:42.000Z"
-  },
-  {
-    "id": "f5359331-37df-4cc2-9783-fee122eaca43",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-    "summary": "1. For the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
-    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-24T22:03:16.000Z"
-  },
-  {
-    "id": "6652f872-d4af-49d9-b50a-bf97de8d2f0f",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "EU authorities include HTX exchange in Russian sanctions",
-    "summary": "1. The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
-    "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-24T21:53:05.000Z"
-  },
-  {
-    "id": "3a37720e-31b0-4fe6-a0c8-71ae95bd34da",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Grayscale head of research Zach Pandl says Bitcoin's cycle low may already be in, provided the Fed avoids further rate hikes at its July 29 meeting.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#85362e4d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-24T21:30:09+00:00"
   }
 ]
