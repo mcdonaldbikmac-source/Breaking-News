@@ -1,5 +1,75 @@
 [
   {
+    "id": "6cb8ef64-f699-46e0-9a53-ce29986e949a",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-26T03:35:49.000Z"
+  },
+  {
+    "id": "b42b28b2-8dcd-422c-a431-c555e8318af4",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-26T03:35:49.000Z"
+  },
+  {
+    "id": "1fd4dd61-0a52-4fe1-84b7-8d123de27187",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Top 10 Publicly Traded Firms by BTC Holdings Reveal a Million-Bitcoin Power Bloc",
+    "summary": "1. Ten public companies now hold more than 1 million bitcoin between them, and the gap between the winners and losers on Wall Street has never been wider.\n2. In 2026, Saylor’s Strategy Still Holds a Significant Lead Strategy, the company Michael Saylor built into the world’s largest corporate bitcoin holder, still sits alone at the top […]",
+    "url": "https://news.bitcoin.com/top-10-publicly-traded-firms-by-btc-holdings-reveal-a-million-bitcoin-power-bloc/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-26T03:30:38.000Z"
+  },
+  {
+    "id": "a0fbe92e-6401-4816-932b-13fc7618f743",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "8,000 Devices Infected, 80 Crypto Wallets Accessed by Video Game Malware",
+    "summary": "1. Federal investigators allege that eight compromised video games exposed roughly 8,000 devices and enabled attackers to take at least $220,000 from 80 cryptocurrency wallets.\n2. The FBI is seeking potential victims as the investigation continues.\n3. Malware Campaign Focused on Cryptocurrency Wallets Malware concealed inside downloadable games allegedly harvested credentials that attackers used to enter cryptocurrency accounts […]",
+    "url": "https://news.bitcoin.com/8000-devices-infected-80-crypto-wallets-accessed-by-video-game-malware/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-26T02:30:06.000Z"
+  },
+  {
+    "id": "22a09063-e337-464b-aa63-534952c8f51e",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+    "summary": "1. Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
+    "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Felix Ng",
+    "created_at": "2026-07-26T02:00:00.000Z"
+  },
+  {
+    "id": "3f018b37-da5a-4971-83fb-67d50d478556",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The Secret Service Recovers $25 Million in Crypto From Five Separate Investigations",
+    "summary": "1. Federal investigators seized more than $25 million in cryptocurrency through five investigations into international fraud schemes linked to thousands of victims worldwide.\n2. Authorities are pursuing forfeiture while tracing overseas laundering networks and identifying the scammers involved.\n3. Five Investigations Target Millions in Stolen Crypto The U.S.",
+    "url": "https://news.bitcoin.com/the-secret-service-recovers-25-million-in-crypto-from-five-separate-investigations/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-26T01:30:57.000Z"
+  },
+  {
+    "id": "1e5f7243-cdf4-46b4-9fdb-95e2dc50b6cd",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "summary": "1. A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "author": "Rebecca Bellan, Connie Loizos",
+    "created_at": "2026-07-26T01:30:00.000Z"
+  },
+  {
     "id": "3e1f038a-cf83-4d97-b1d1-7b715c15b406",
     "source": "The Defiant",
     "type": "rss",
@@ -8,265 +78,5 @@
     "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
     "author": "The Defiant Team",
     "created_at": "2026-07-25T22:00:51.000Z"
-  },
-  {
-    "id": "adc13cb5-dc4c-43e4-bee2-a625507ada23",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Michael Saylor Publishes 953-Hour Leadership Curriculum Culminating in Bitcoin",
-    "summary": "1. Michael Saylor shared a 953-hour reading curriculum outlining the ideas that shaped his views on leadership, markets, technology, and Bitcoin, giving followers a roadmap to the intellectual framework behind his long-term investment philosophy.\n2. Saylor Explains Why He Published the Curriculum Strategy Inc.\n3. (Nasdaq: MSTR) Executive Chairman Michael Saylor published the curriculum on July 25 on […]",
-    "url": "https://news.bitcoin.com/michael-saylor-publishes-953-hour-leadership-curriculum-culminating-in-bitcoin/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-25T21:30:58.000Z"
-  },
-  {
-    "id": "5c95e379-01ee-46f3-8596-5ab7cbc64200",
-    "source": "The Block",
-    "type": "rss",
-    "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-    "summary": "1. Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.",
-    "url": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-25T21:23:27.000Z"
-  },
-  {
-    "id": "9bcdb07c-e150-4a7d-84a9-ab5655fe6a7b",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Elon Musk says \"money won't matter in 2036\" because of AI and robots.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#7f970611",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-25T21:03:24+00:00"
-  },
-  {
-    "id": "9eaeb44b-2ef2-4950-8b5d-6a2878d2aac8",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
-    "summary": "1. While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
-    "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-25T21:01:44.000Z"
-  },
-  {
-    "id": "ca085988-3256-428f-85b4-fdde15f350bc",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-    "summary": "1. The lawsuit will likely renew debates about whether term employment agreements are enforceable under California.",
-    "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-25T20:55:11.000Z"
-  },
-  {
-    "id": "5a241669-0866-4386-8d9a-0f7ad2298137",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Cryptocurrency Performance Year to Date$BTC: -29.72%$ETH: -40.48%$BNB:...",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#ba71e676",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-25T20:47:33+00:00"
-  },
-  {
-    "id": "a2e78e7f-f293-458e-b9ac-709cfd04d622",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Report: Kalshi Accuses Netflix of Defamation Over Trailer for New Prediction Markets Film",
-    "summary": "1. Prediction market operator Kalshi sent Netflix a cease and desist letter on July 24, 2026, accusing the streaming company of defamation over the trailer for its upcoming documentary “Instadocs: The Prediction Games.” The document didn’t stay under wraps for long.\n2. CNN and The Hollywood Reporter were among the outlets that obtained it directly.\n3. Kalshi wants […]",
-    "url": "https://news.bitcoin.com/report-kalshi-accuses-netflix-of-defamation-over-trailer-for-new-prediction-markets-film/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-25T20:43:46.000Z"
-  },
-  {
-    "id": "98f2dcca-5759-4e69-be74-f3ce426f098a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "The hacker who humiliated spyware makers and was never caught",
-    "summary": "1. An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught.\n2. What do we know about Phineas Fisher?",
-    "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "created_at": "2026-07-25T20:24:14.000Z"
-  },
-  {
-    "id": "9bf70d96-73c3-417a-bd29-471981bbf83c",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Iran’s Revolutionary Guards says Britain would become a “definite and legitimate target” if it supports the US in the war | per state TV Twitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#4d6f6639",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-25T20:08:28+00:00"
-  },
-  {
-    "id": "1984b66b-17f2-4c54-9edd-ca229d382883",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Korbit Rebrands as Digital X After Mirae Asset Closes $102 Million Takeover",
-    "summary": "1. Mirae Asset Consulting has taken majority control of Korbit, South Korea’s oldest cryptocurrency exchange, marking the first time an affiliate of a major Korean financial group has run a domestic crypto platform.\n2. The firm closed the deal in July 2026 after South Korea’s Fair Trade Commission approved it on July 9.\n3. Regulators found the acquisition […]",
-    "url": "https://news.bitcoin.com/korbit-rebrands-as-digital-x-after-mirae-asset-closes-102-million-takeover/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-25T20:02:06.000Z"
-  },
-  {
-    "id": "5c1abbea-33e6-4b04-a759-f6ccfa24d8f0",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-    "summary": "1. Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-    "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-25T19:23:32.000Z"
-  },
-  {
-    "id": "1cb4d5d1-a04a-4534-901d-84658c750ca9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Charles Hoskinson: Ethereum Is Copying Cardano’s EUTXO Model Without Credit",
-    "summary": "1. Cardano founder Charles Hoskinson has yet again accused Ethereum developers of adopting Cardano’s Extended Unspent Transaction Output (EUTXO) architecture after an Ethereum Foundation researcher proposed a new native UTXO payment model recently.\n2. A New Ethereum Proposal Reignites an Old Feud Ethereum Foundation researcher Toni Wahrstätter published a proposal introducing native unspent transaction outputs (UTXOs) as […]",
-    "url": "https://news.bitcoin.com/hoskinson-ethereum-copying-cardano-eutxo-model/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-25T19:14:31.000Z"
-  },
-  {
-    "id": "a16b1ee7-6b31-458e-9bbf-e23a3d3926e2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "$1.32 to $3.75: Nine Top AI Models Predict XRP’s 2026 Finish, One Breaks Away",
-    "summary": "1. XRP has spent much of 2026 at the center of speculation, fueled by institutional adoption, regulatory developments, and renewed interest in digital asset markets.\n2. Yet despite no shortage of bullish and bearish arguments, where the token will ultimately finish the year remains one of crypto’s biggest unanswered questions.\n3. To see how artificial intelligence (AI) evaluates […]",
-    "url": "https://news.bitcoin.com/1-32-to-3-75-nine-top-ai-models-predict-xrps-2026-finish-one-breaks-away/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-25T18:40:49.000Z"
-  },
-  {
-    "id": "71b436bf-02be-4611-bf9e-b3ebc4f1c4bb",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Charles Schwab's Jim Ferrioli says the CLARITY Act's odds of passage have \"only attributed 4%\" to Bitcoin's daily price moves, arguing its passage is not being priced in.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#2e45212d",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T18:20:07+00:00"
-  },
-  {
-    "id": "5280f935-ada0-44f8-b8e4-37b229cdaf70",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "TRON Reaches $90B+ USDT on the Network, $887M+ in Crypto Card Volume in Q2, CoinDesk Data and CryptoQuant",
-    "summary": "1. Geneva, Switzerland, July 25, 2026 — CoinDesk Data and CryptoQuant, leading platforms in blockchain research and analytics, have released comprehensive reports highlighting the TRON network’s performance throughout the second quarter and first half of 2026, respectively.\n2. These independent analyses point to TRON’s continued dominance in global stablecoin settlement and protocol revenue, alongside its emergence as […]",
-    "url": "https://news.bitcoin.com/tron-reaches-90b-usdt-on-the-network-887m-in-crypto-card-volume-in-q2-coindesk-data-and-cryptoquant/",
-    "author": "Media",
-    "created_at": "2026-07-25T18:18:48.000Z"
-  },
-  {
-    "id": "370fedb3-66d5-413e-8caf-06ce69729fdc",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-    "summary": "1. The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
-    "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-25T18:15:44.000Z"
-  },
-  {
-    "id": "7c8f6142-c122-4ac8-8b2e-191f293a7d96",
-    "source": "Politico",
-    "type": "rss",
-    "title": "In South Texas, Paxton tests the limits of Trump’s Hispanic coalition",
-    "summary": "1. A visit to the Rio Grande Valley reveals a border community buckling under the weight of Republicans’ immigration policies.",
-    "url": "https://www.politico.com/news/2026/07/25/paxton-talarico-texas-senate-latino-voters-01005951",
-    "author": "By Liz Crampton",
-    "created_at": "2026-07-25T18:00:00.000Z"
-  },
-  {
-    "id": "59e212d4-83d0-4260-bfb3-3d727f69a305",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "This channel delivers thanks to readers like youA simple Boost helps us grow and...",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#53035c2d",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-25T17:52:01+00:00"
-  },
-  {
-    "id": "9fa68eaf-990b-4ca8-9238-2c8cf5458de3",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-    "summary": "1. A deal would let Robinhood customers trade yes-or-no contracts offered through Crypto.com’s derivatives business, though no deal has yet been reached.",
-    "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-25T17:27:20.000Z"
-  },
-  {
-    "id": "7f780e73-7aa2-42e7-97e2-80463c9321ac",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "ANALYSIS: 🚀 Meme coins are heating up again.DOGE futures positioning is rising,...",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#b43213b8",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-25T17:05:03+00:00"
-  },
-  {
-    "id": "f363ec99-cc5c-4c8d-a511-bac1e4ca3ab2",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
-    "summary": "1. New regulations for crypto trading, custody, and settlement in Russia take effect Sept.\n2. 1, with requirements for licensed intermediaries applying from July 2027.",
-    "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
-    "author": "Francisco Rodrigues",
-    "created_at": "2026-07-25T16:59:36.000Z"
-  },
-  {
-    "id": "1786a46e-35a4-48ca-89f4-4b66b320d97a",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-    "summary": "1. Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
-    "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
-    "author": "Anthony Ha",
-    "created_at": "2026-07-25T16:46:46.000Z"
-  },
-  {
-    "id": "9f7068cf-693f-4727-b041-21c4899ce586",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 President Trump's crypto ventures are the biggest obstacle to passing the Clarity Act.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#235eef2b",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-25T16:31:35+00:00"
-  },
-  {
-    "id": "7b7b7374-5724-4b49-b688-e3a95c4035a6",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Michael Burry increases his short position against Nvidia $NVDA@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#df09f1f8",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-25T16:06:53+00:00"
-  },
-  {
-    "id": "d9fa14de-2eeb-41e8-b517-ba9d01196112",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": " Wise to resubmit US charter application under GENIUS Act",
-    "summary": "1. The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
-    "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Turner Wright",
-    "created_at": "2026-07-25T16:05:31.000Z"
-  },
-  {
-    "id": "5b922a48-d90a-4e13-92f8-a8bb12fc688e",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "DeFi Aggregator Odos Closes Doors, Leaves Users 5 Days to Move Locked Funds",
-    "summary": "1. The team behind decentralized exchange aggregator Odos said on July 23, 2026, that the company operating the platform is winding down and will end all services by July 30.\n2. Odos posted the announcement on its official X account.\n3. The statement said the app moves to read only mode on July 27, with every Odos service […]",
-    "url": "https://news.bitcoin.com/defi-aggregator-odos-closes-doors-leaves-users-5-days-to-move-locked-funds/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-25T16:01:48.000Z"
   }
 ]
