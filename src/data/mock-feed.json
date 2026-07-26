@@ -1,6 +1,76 @@
 [
   {
-    "id": "889087bc-a62f-4140-86a8-37f465a95633",
+    "id": "41ef1f0f-befa-423e-ad02-35774ceeeda1",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-26T10:48:03.000Z"
+  },
+  {
+    "id": "40e304ef-53ed-41ac-95e4-2d80dcc3f2b1",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
+    "summary": "1. South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
+    "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Yohan Yun",
+    "created_at": "2026-07-26T10:21:25.000Z"
+  },
+  {
+    "id": "6543156a-2355-41e6-8693-ee6698d990c1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Your crypto in a gif.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#157d9aa7",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-26T10:05:03+00:00"
+  },
+  {
+    "id": "bcce8570-d450-4b05-b3f1-5c7ed5010b58",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "Binance Founder CZ says \"tough times (again).\"\"Self custody if you know how to keep your seedphrase safe.\"@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#869605fd",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-26T10:04:48+00:00"
+  },
+  {
+    "id": "246726a2-e5f4-489d-8f07-c4f0f6f222a0",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+    "summary": "1. As MiCA beds in and the U.K.\n2. finalizes its crypto framework, stringent regulation could spur mergers, acquisitions and closer ties with banks.",
+    "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+    "author": "Jamie Crawley",
+    "created_at": "2026-07-26T10:00:00.000Z"
+  },
+  {
+    "id": "94ffc72b-83b8-4667-9141-67152a883afc",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "EIF’s Megawatt Verdict: Not Every Bitcoin Mine Is Ready for AI",
+    "summary": "1. At the inaugural Energy Investors Forum (EIF) in Dallas on July 23, the AI boom looked less like a software story than an enormous energy-infrastructure buildout.\n2. This article first appeared in Miner Weekly, a weekly newsletter by Blocksbridge Consulting curating the latest news in energy, compute, infrastructure, and data analysis from The Energy Mag.",
+    "url": "https://news.bitcoin.com/eifs-megawatt-verdict-not-every-bitcoin-mine-is-ready-for-ai/",
+    "author": "Guest Author",
+    "created_at": "2026-07-26T09:30:49.000Z"
+  },
+  {
+    "id": "33a1a065-5b96-4daa-96db-c044cefdcbe7",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Crypto doesn't die.",
+    "summary": "It levels up.",
+    "url": "https://t.me/CoinMarketCapAnnouncements#debb2703",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-26T09:05:03+00:00"
+  },
+  {
+    "id": "ea063bfc-01f1-4a8a-a80d-470f9c02ad59",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📉 Peter Schiff says Strategy \"is going to completely implode\" and its common stock will be left \"worthless.\"",
@@ -60,7 +130,7 @@
     "created_at": "2026-07-26T06:30:20.000Z"
   },
   {
-    "id": "185dd65f-5136-4e13-bfa9-b7e3d22038c4",
+    "id": "ef15e79f-f073-44c6-a31c-36c07594766e",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Cryptocurrency exchange BitMart to shut down all operations.This is the second crypto exchange to shut down in under a week.@WatcherGuru",
@@ -78,55 +148,5 @@
     "url": "https://news.bitcoin.com/5-years-after-the-bitcoin-law-crypto-accounts-for-just-0-7-of-el-salvadors-5b-remittance-market/",
     "author": "Sergio Goschenko",
     "created_at": "2026-07-26T05:30:06.000Z"
-  },
-  {
-    "id": "e20f3008-8f50-4c94-8327-a56e1de76821",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The all Republican Senators!\n2. Terminate the Filibuster, which the Dumocrats will do as soon as they get the chance, and PASS THE SAVE AMERICA ACT, and everything else, including the Budget, and upcoming Debt Ceiling.\n3. Do it now, before it is too late!!!",
-    "url": "https://trumpstruth.org/statuses/40242",
-    "author": "Trump Truth",
-    "created_at": "2026-07-26T03:48:11.000Z"
-  },
-  {
-    "id": "1f3d488a-6af2-4343-a40c-41b06688ab7c",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Congratulations to Alexander Kolodin for his great win in Arizona’s race for Secretary of State.\n2. He is tough, smart, and a proven winner.\n3. He was with me in my big Presidential Win.",
-    "url": "https://trumpstruth.org/statuses/40241",
-    "author": "Trump Truth",
-    "created_at": "2026-07-26T03:41:17.000Z"
-  },
-  {
-    "id": "6cb8ef64-f699-46e0-9a53-ce29986e949a",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-26T03:35:49.000Z"
-  },
-  {
-    "id": "b42b28b2-8dcd-422c-a431-c555e8318af4",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-26T03:35:49.000Z"
-  },
-  {
-    "id": "1fd4dd61-0a52-4fe1-84b7-8d123de27187",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Top 10 Publicly Traded Firms by BTC Holdings Reveal a Million-Bitcoin Power Bloc",
-    "summary": "1. Ten public companies now hold more than 1 million bitcoin between them, and the gap between the winners and losers on Wall Street has never been wider.\n2. In 2026, Saylor’s Strategy Still Holds a Significant Lead Strategy, the company Michael Saylor built into the world’s largest corporate bitcoin holder, still sits alone at the top […]",
-    "url": "https://news.bitcoin.com/top-10-publicly-traded-firms-by-btc-holdings-reveal-a-million-bitcoin-power-bloc/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-26T03:30:38.000Z"
   }
 ]
