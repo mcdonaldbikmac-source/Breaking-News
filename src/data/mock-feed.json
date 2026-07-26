@@ -1,5 +1,105 @@
 [
   {
+    "id": "b61c1092-01fd-4214-9ba0-f267b0d4d24f",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-26T22:04:40.000Z"
+  },
+  {
+    "id": "3ce30079-68b0-43a9-af47-e581f1762873",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "🇺🇸🇮🇷 Brent crude oil falls 7% at open as US and Iran halt strikes.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#325f30d7",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-26T22:03:45+00:00"
+  },
+  {
+    "id": "75ee2dc5-99f9-41c3-9581-f9d3d1a6e9b1",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Michael Saylor hints at more BTC purchases",
+    "summary": "Strategy founder Michael Saylor posted a SaylorTracker chart on X last night, signaling a potential BTC purchase. He also added the comment, \"We're gonna need another color.\" Saylor has previously shown a pattern of posting similar messages before making additional BTC purchases.",
+    "url": "https://t.me/CoinnessGL#90e6d60f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-26T22:01:10+00:00"
+  },
+  {
+    "id": "96344e81-92c6-48e5-88ed-bc4b280e7043",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC rises above $65,000",
+    "summary": "According to CoinNess market monitoring, BTC has risen above $65,000. BTC is trading at $65,063.05 on the Binance USDT market.",
+    "url": "https://t.me/CoinnessGL#03d67dd4",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-26T22:00:18+00:00"
+  },
+  {
+    "id": "324073e9-5702-4a76-9a2a-8c6283cbc2c8",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Crypto Bull Market Signals Emerge as Hyperliquid and Robinhood Push Finance Onchain",
+    "summary": "1. Bitwise CIO Matt Hougan says stronger bitcoin momentum, ETF demand, and institutional adoption could signal the early stages of a new crypto bull market driven by tokenization, stablecoins, and blockchain-based financial markets.\n2. Bitcoin Recovery Sparks New Crypto Bull Market Debate Crypto markets are showing early signs of renewed strength, with bitcoin gaining while technology stocks […]",
+    "url": "https://news.bitcoin.com/crypto-bull-market-signals-emerge-as-hyperliquid-and-robinhood-push-finance-onchain/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-26T21:35:31.000Z"
+  },
+  {
+    "id": "82af32b3-08eb-4c22-bf5e-728325c3e5b7",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Here’s what happened in crypto today",
+    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Robert Lakin",
+    "created_at": "2026-07-26T21:30:00.000Z"
+  },
+  {
+    "id": "bf443548-5cba-4ef7-8c26-02a0934f8fa5",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+    "summary": "1. As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+    "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+    "author": "Anthony Ha",
+    "created_at": "2026-07-26T21:06:44.000Z"
+  },
+  {
+    "id": "229bcad4-11da-4d09-9361-c597ead66b2a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy",
+    "summary": "1. Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.",
+    "url": "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&utm_medium=rss",
+    "author": "Zack Abrams",
+    "created_at": "2026-07-26T20:49:10.000Z"
+  },
+  {
+    "id": "a3928703-8be8-406b-b8ce-6579639add77",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "BitMart Begins Shutdown Process as Crypto Exchange Sets Final Trading Deadline",
+    "summary": "1. BitMart is winding down its global trading platform after announcing a phased shutdown that will halt deposits, trading services, and eventually end exchange operations.\n2. BitMart Announces Phased Exchange Shutdown with Trading Deadlines Crypto exchange BitMart announced on July 26, 2026, that it has begun an orderly wind-down of its trading platform operations following an evaluation […]",
+    "url": "https://news.bitcoin.com/bitmart-begins-shutdown-process-as-crypto-exchange-sets-final-trading-deadline/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-26T20:17:58.000Z"
+  },
+  {
+    "id": "7f56e84c-296a-4068-89a1-0fb6ef757889",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Making sense of the panic over Chinese AI",
+    "summary": "1. On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "author": "Anthony Ha",
+    "created_at": "2026-07-26T19:40:57.000Z"
+  },
+  {
     "id": "82776dc4-48a8-486d-bfbb-ed99a8c80bb3",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -10,7 +110,7 @@
     "created_at": "2026-07-26T19:10:03.000Z"
   },
   {
-    "id": "f9f20792-bd50-4999-af7b-5fb542ff5f7b",
+    "id": "003de1f2-9650-4f4f-899f-e2160f41bb02",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Insurers have stopped covering ships with any Saudi connection in the Red Sea as the Houthi blockade bites | per FTTwitter",
@@ -30,7 +130,7 @@
     "created_at": "2026-07-26T18:30:00.000Z"
   },
   {
-    "id": "56abcb5f-f0ac-4a83-83aa-56ad3e170f67",
+    "id": "75aae90a-3f9a-4a08-992b-a69acb958328",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Charles Schwab's Jim Ferrioli called the CLARITY Act \"a really important fundamental catalyst for Bitcoin and the rest of the crypto market.\"",
@@ -80,7 +180,7 @@
     "created_at": "2026-07-26T17:10:16.000Z"
   },
   {
-    "id": "b91d0d0d-3fc3-4f87-bebd-fe9d3d1644cf",
+    "id": "1e2bac51-c9d7-405a-b9da-382462e88285",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran’s foreign minister warns Zelensky that Ukraine’s attack on an Iranian vessel “will not go unanswered”Araghchi’s warning follows Tehran summoning Ukraine’s chargé d’affaires yesterday over the alleged strike on an Iranian ship in the Caspian Sea.",
@@ -110,7 +210,7 @@
     "created_at": "2026-07-26T16:33:13.000Z"
   },
   {
-    "id": "593cc864-70fc-44c4-9c0a-5e4ce3ef34c4",
+    "id": "644e0882-12d0-4d90-8fce-18e098036755",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "📊 Jensen Huang says the AI bubble \"will come someday, it's just not today,\" calling it \"very unlikely in the next 5 years.\"",
@@ -138,125 +238,5 @@
     "url": "https://news.bitcoin.com/btc-ownership-overtakes-gold-in-the-us-democrats-reject-clarity-draft-and-more-weekly-recap/",
     "author": "Alex Richardson",
     "created_at": "2026-07-26T16:05:43.000Z"
-  },
-  {
-    "id": "dd557c51-37d9-4614-b5bc-ef84a2b5c155",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "TechCrunch Mobility: Uber bets on its former CEO",
-    "summary": "1. Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-    "author": "Kirsten Korosec",
-    "created_at": "2026-07-26T16:03:00.000Z"
-  },
-  {
-    "id": "b3d9baef-35e7-46cf-a4d7-2529b5659b94",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin’s 15th Difficulty Reset Exposes a Mining Industry Under Pressure",
-    "summary": "1. The Bitcoin blockchain just recorded its 15th difficulty adjustment of the year, trimming mining difficulty by about 0.74% at block height 959616.\n2. Amid the year’s wild swings, the balance has clearly tilted toward difficulty cuts, with negative adjustments outnumbering increases by nearly 3 to 2.\n3. Difficulty Drops for the 15th Time This Year This weekend, […]",
-    "url": "https://news.bitcoin.com/bitcoins-15th-difficulty-reset-exposes-a-mining-industry-under-pressure/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-26T15:20:50.000Z"
-  },
-  {
-    "id": "702a4894-e412-457a-b00c-41c889be76d2",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "ANALYSIS: 📊 Bitcoin rallied last week as ETF inflows neared $1B and BTC futures saw bulls dominating the market.",
-    "summary": "Will the marketwide rally accelerate if the US Senate votes on the CLARITY Act this week?With all of that in the background, what should we expect for the crypto market this week? Read on to find out. 👇",
-    "url": "https://t.me/CoinMarketCapAnnouncements#92f4ceee",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-26T15:10:04+00:00"
-  },
-  {
-    "id": "1bd5fe4d-f7dd-4895-8cf0-971929f270a5",
-    "source": "The Block",
-    "type": "rss",
-    "title": "BitMart to wind down trading platform as global CEO says he was not consulted",
-    "summary": "1. BitMart's global CEO said the firm told him on July 24 that his employment was ending and that he learned of the closure when it went public.",
-    "url": "https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-26T14:55:55.000Z"
-  },
-  {
-    "id": "b8765233-fec0-45eb-a0f0-53d884a9a775",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Israeli Prime Minister Netanyahu says the war will only end when Iran's regime collapses or abandons its nuclear programTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#5f7da58f",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-26T14:37:25+00:00"
-  },
-  {
-    "id": "ac741453-d130-4265-8c13-ea038c8ffba0",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "BitMart's crypto token $BMX collapses over 60% after the exchange announces it is shutting down.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#8fd12182",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-26T14:36:54+00:00"
-  },
-  {
-    "id": "8620a1b6-5504-4395-9e5b-03a05b6ebf48",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘We’re Gonna Need Another Color’: Michael Saylor Fuels Speculation Over Strategy’s Next Bitcoin Move",
-    "summary": "1. Michael Saylor’s latest bitcoin chart comes as Strategy holds 843,775 BTC, maintains a $3.225 billion cash reserve, and still has authorization to sell up to $23.53 billion of additional stock to raise capital, sharpening questions over whether the company will resume bitcoin purchases.\n2. Saylor Shares Strategy’s Crowded Bitcoin Chart Strategy Inc.\n3. (Nasdaq: MSTR) Executive Chairman […]",
-    "url": "https://news.bitcoin.com/were-gonna-need-another-color-michael-saylor-fuels-speculation-over-strategys-next-bitcoin-move/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-26T14:31:55.000Z"
-  },
-  {
-    "id": "277766c1-76ed-4fe6-bab6-037f534a36d8",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🤖 Elon Musk says AI will likely be in control in 10 years: \"If the difference in intelligence between AI and humans is vastly greater than between AI and chimpanzees, it's hard to imagine the chimpanzees would be in charge.\"",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#eeea59dc",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-26T14:20:06+00:00"
-  },
-  {
-    "id": "b4a7a92f-b4e8-4144-b0ae-4488daf912b3",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West",
-    "summary": "1. After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter.\n2. The MCP score is genuinely impressive.\n3. The price-to-performance math is more complicated.",
-    "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-26T14:01:03.000Z"
-  },
-  {
-    "id": "664d0c3a-72ee-4ff5-a2ea-daf2a01320df",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor!\n2. I look forward to traveling  the entire length of this Great Highway someday, hopefully soon!\n3. President DONALD J.",
-    "url": "https://trumpstruth.org/statuses/40255",
-    "author": "Trump Truth",
-    "created_at": "2026-07-26T13:46:24.000Z"
-  },
-  {
-    "id": "7268d515-a0ed-403c-bd8d-be3ce0169453",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-26T13:42:36.000Z"
-  },
-  {
-    "id": "1a9144c0-a9c6-4642-8c8c-0aab3e64b7ee",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-26T13:42:36.000Z"
   }
 ]
