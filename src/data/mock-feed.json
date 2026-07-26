@@ -1,5 +1,25 @@
 [
   {
+    "id": "ec9ebc09-fa75-49e4-9d38-fb4f8d33318e",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Argentina Opens the Door to USD Wages as Central Bank Approves Dollar Salary Accounts",
+    "summary": "1. With the move, Argentines can now collect their wages in dollars, a proposal that will be more enticing to companies that already get paid in dollars.\n2. Nonetheless, this new option clashes with the historical distrust that Argentines have in banking institutions.\n3. Argentina’s Central Bank Authorizes Salary Payments in Dollars Argentina is advancing to a multi-currency-friendly […]",
+    "url": "https://news.bitcoin.com/argentina-opens-the-door-to-usd-wages-as-central-bank-approves-dollar-salary-accounts/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-26T11:30:08.000Z"
+  },
+  {
+    "id": "44495ab5-5422-41cf-9ed6-9552e184b30e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📈 Anthony Scaramucci says Bitcoin has bottomed and will \"grind higher\" from here, citing RSI at an all-time low, the Fear & Greed Index, and collapsing Google Search interest.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#3764712e",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-26T11:20:07+00:00"
+  },
+  {
     "id": "41ef1f0f-befa-423e-ad02-35774ceeeda1",
     "source": "The Defiant",
     "type": "rss",
@@ -20,7 +40,7 @@
     "created_at": "2026-07-26T10:21:25.000Z"
   },
   {
-    "id": "6543156a-2355-41e6-8693-ee6698d990c1",
+    "id": "269df1f2-7258-4640-a49d-ea2bc11261f5",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Your crypto in a gif.",
@@ -30,7 +50,7 @@
     "created_at": "2026-07-26T10:05:03+00:00"
   },
   {
-    "id": "bcce8570-d450-4b05-b3f1-5c7ed5010b58",
+    "id": "59012d09-b627-4ee4-b67c-858dccb14898",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Binance Founder CZ says \"tough times (again).\"\"Self custody if you know how to keep your seedphrase safe.\"@WatcherGuru",
@@ -60,7 +80,7 @@
     "created_at": "2026-07-26T09:30:49.000Z"
   },
   {
-    "id": "33a1a065-5b96-4daa-96db-c044cefdcbe7",
+    "id": "cc9b3dae-cf66-4fbd-b7bd-1fafbc8a5ab2",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "Crypto doesn't die.",
@@ -128,25 +148,5 @@
     "url": "https://news.bitcoin.com/ring-protocol-adds-orbs-tools-across-4-networks-giving-traders-precise-on-chain-order-control/",
     "author": "Terence Zimwara",
     "created_at": "2026-07-26T06:30:20.000Z"
-  },
-  {
-    "id": "ef15e79f-f073-44c6-a31c-36c07594766e",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Cryptocurrency exchange BitMart to shut down all operations.This is the second crypto exchange to shut down in under a week.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#63b870ee",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-26T05:48:29+00:00"
-  },
-  {
-    "id": "a001371e-343c-41cc-ad63-a603e45dec5f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "5 Years After the Bitcoin Law, Crypto Accounts for Just 0.7% of El Salvador’s $5B Remittance Market",
-    "summary": "1. The Central Bank of El Salvador reported that cryptocurrency remittances failed to reach up to 1% of all volumes received during the first half of 2026.\n2. Only $35.4 million out of the over $5 billion received by Salvadorans was settled using digital currencies between January and June 2026.\n3. Crypto Remittances Fail to Gain Traction in […]",
-    "url": "https://news.bitcoin.com/5-years-after-the-bitcoin-law-crypto-accounts-for-just-0-7-of-el-salvadors-5b-remittance-market/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-26T05:30:06.000Z"
   }
 ]
