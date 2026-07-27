@@ -1,6 +1,36 @@
 [
   {
-    "id": "251fd60e-cb4a-408d-8505-b603a40244bb",
+    "id": "3b44ac01-080c-463b-afa6-3a6f1cddd1e7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Operation Commodity: Brazilian Police Smash $196 Million Cocaine and Crypto Laundering Ring",
+    "summary": "1. The group, which is linked to cocaine shipments in excess of 6.5 tons to Europe through the port of Rio de Janeiro, used bags of coffee and cement to disguise the drugs.\n2. The money obtained through these sales was laundered using shell companies, including luxury car dealerships and cryptocurrency.\n3. Operation Commodity Terminates 6.5 Ton Cocaine […]",
+    "url": "https://news.bitcoin.com/operation-commodity-brazilian-police-smash-196-million-cocaine-and-crypto-laundering-ring/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-27T03:30:51.000Z"
+  },
+  {
+    "id": "007c616c-a642-4c90-ba73-0a51d4b88e93",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "791,549,000 USDT transferred from Binance to an unknown wallet",
+    "summary": "Whale Alert reported that 791,549,000 USDT has been transferred from Binance to an unknown wallet. The transaction is valued at about $791 million.",
+    "url": "https://t.me/CoinnessGL#71480f2f",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T03:24:27+00:00"
+  },
+  {
+    "id": "714770a1-4a15-4b61-afae-36c332d1d01c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Upbit to list GEOD on KRW, BTC and USDT trading pairs today",
+    "summary": "South Korean exchange Upbit announced the addition of Geodnet (GEOD) to KRW, BTC and USDT trading pairs at 8:00 a.m. UTC today.",
+    "url": "https://t.me/CoinnessGL#385035c3",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T03:23:29+00:00"
+  },
+  {
+    "id": "c1dfa68c-f2e4-45ec-9fc8-c49f9ae82eb4",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "OKX to list AEON spot",
@@ -190,7 +220,7 @@
     "created_at": "2026-07-27T00:00:00.000Z"
   },
   {
-    "id": "4bf844d5-ef76-4708-9397-87354a5e4cfc",
+    "id": "ef84408f-4dc4-421c-bb96-a3ea2963a050",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Nvidia is in talks to provide a $250B financing backstop for OpenAI and SoftBank’s planned Ohio data center, which could cost up to $500B and become the largest in the US | per WSJTwitter",
@@ -250,7 +280,7 @@
     "created_at": "2026-07-26T22:04:40.000Z"
   },
   {
-    "id": "e9475610-bcae-416a-b935-9f787ce7541d",
+    "id": "d094eda3-8240-46e7-baeb-daad10f6ac3b",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇺🇸🇮🇷 Brent crude oil falls 7% at open as US and Iran halt strikes.@WatcherGuru",
@@ -278,25 +308,5 @@
     "url": "https://t.me/CoinnessGL#03d67dd4",
     "author": "@CoinnessGL",
     "created_at": "2026-07-26T22:00:18+00:00"
-  },
-  {
-    "id": "324073e9-5702-4a76-9a2a-8c6283cbc2c8",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Crypto Bull Market Signals Emerge as Hyperliquid and Robinhood Push Finance Onchain",
-    "summary": "1. Bitwise CIO Matt Hougan says stronger bitcoin momentum, ETF demand, and institutional adoption could signal the early stages of a new crypto bull market driven by tokenization, stablecoins, and blockchain-based financial markets.\n2. Bitcoin Recovery Sparks New Crypto Bull Market Debate Crypto markets are showing early signs of renewed strength, with bitcoin gaining while technology stocks […]",
-    "url": "https://news.bitcoin.com/crypto-bull-market-signals-emerge-as-hyperliquid-and-robinhood-push-finance-onchain/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-26T21:35:31.000Z"
-  },
-  {
-    "id": "82af32b3-08eb-4c22-bf5e-728325c3e5b7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Here’s what happened in crypto today",
-    "summary": "1. Need to know what happened in crypto today?\n2. Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Robert Lakin",
-    "created_at": "2026-07-26T21:30:00.000Z"
   }
 ]
