@@ -1,5 +1,55 @@
 [
   {
+    "id": "78b5274f-c90c-4d14-8833-e84feef35841",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot CVD chart at 7:00 p.m. on July 27",
+    "summary": "Spot CVD is an order book analysis chart for the BTC/USDT spot trading pair. The upper section shows the Volume Heatmap, while the lower section shows cumulative volume delta, or CVD.- The Volume Heatmap tracks trading volume at each price level. The background color becomes brighter when the price stays in a specific range for an extended period or moves sharply. Brighter areas may act as support or resistance.- The cumulative volume delta indicator reflects buy and sell orders by order size. As buy orders increase, the line in the corresponding color moves higher. The yellow line represents $100 to $1,000 orders, while the brown line represents large orders of $1 million to $10 million.",
+    "url": "https://t.me/CoinnessGL#3e691b3e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T10:02:13+00:00"
+  },
+  {
+    "id": "75120d5b-1118-4352-a18e-22f598d082a0",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "PlanB says Bitcoin mining difficulty could post first-ever annual decline",
+    "summary": "Bitcoin mining difficulty has fallen to 126.2T in 2026 from the end of last year, and if that trend holds through year-end, it would mark the first year-over-year decline on record, well-known Bitcoin market analyst PlanB said on X. According to data PlanB shared, year-end mining difficulty had risen every year since 2009, reaching 148.3T at the end of 2025, before falling to 126.2T this year.",
+    "url": "https://t.me/CoinnessGL#aa24493e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T10:00:14+00:00"
+  },
+  {
+    "id": "4926caff-87fc-47c7-a751-333a30bd22f7",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+    "summary": "1. On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind.\n2. With this fresh capital, the network is announcing its largest expansion yet.",
+    "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+    "author": "Dominic-Madori Davis",
+    "created_at": "2026-07-27T10:00:00.000Z"
+  },
+  {
+    "id": "d1c79dbf-2dc1-46a5-ad8b-a8c993cf8439",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "BitMart Becomes Latest Crypto Exchange to Shut Down",
+    "summary": "1. BitMart’s closure, citing the market environment and “future strategic direction,” comes days after crypto perps exchange BitMEX shut down.",
+    "url": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-27T09:57:20.000Z"
+  },
+  {
+    "id": "c209c3f5-05ee-4928-9950-2d280059d151",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
+    "summary": "1. Your look at what's coming in the week starting July 27.",
+    "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
+    "author": "Francisco Rodrigues",
+    "created_at": "2026-07-27T09:43:58.000Z"
+  },
+  {
     "id": "18d683b7-33dc-4012-acd2-0e0cf6d2a093",
     "source": "The Defiant",
     "type": "rss",
@@ -20,7 +70,7 @@
     "created_at": "2026-07-27T09:40:45.000Z"
   },
   {
-    "id": "ffab8145-b9f1-4058-a2e4-ac2db34b0e43",
+    "id": "6e9af1d2-0208-4293-ad91-83aa8108038b",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "31 vulnerabilities found in x402 crypto payment network, risking exposure of 99% of trades",
@@ -50,7 +100,7 @@
     "created_at": "2026-07-27T09:32:20+00:00"
   },
   {
-    "id": "eb8b0b92-a5c1-4394-ab96-edf040082d64",
+    "id": "45c6006b-5881-4edd-a0a6-3913b08322bf",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 The Bitcoin Policy Institute has joined the US State Department's new \"Freedom Tech Excellence Program\" to work on \"online freedom of expression\" and \"countering digital surveillance.\"",
@@ -100,7 +150,7 @@
     "created_at": "2026-07-27T09:05:25.000Z"
   },
   {
-    "id": "1a3b2f78-ff89-49c5-876b-618eb12bab5e",
+    "id": "59b81a4b-98c4-4a39-a5a9-bb56b0fb1b75",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🔥 Hot Take: All assets will be tokenized.",
@@ -120,7 +170,7 @@
     "created_at": "2026-07-27T09:01:05.000Z"
   },
   {
-    "id": "e1dadb07-06d1-4329-afa7-4566f927aa04",
+    "id": "cbc68acb-1711-4f6c-bdab-d2e8a4213d0e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🤖 Sam Altman-backed World has entered \"Phase 3\" of its Simple Plan, extending proof-of-human verification to enterprise apps, consumers, and AI agents acting on people's behalf.",
@@ -130,7 +180,7 @@
     "created_at": "2026-07-27T08:50:07+00:00"
   },
   {
-    "id": "ec8131da-a7aa-4f7f-8466-2cb453e57170",
+    "id": "62441178-dbca-4c6e-aff7-71d696b8a82f",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran says currently no ongoing negotiatins with US despite the rumours Spokesman Esmail Baghaei dismissed reports of US-Iran talks as media speculation, saying no negotiations with Washington are taking place.",
