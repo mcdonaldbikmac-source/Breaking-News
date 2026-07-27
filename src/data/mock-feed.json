@@ -1,5 +1,105 @@
 [
   {
+    "id": "bebaebef-ff11-4d8d-a568-8fe3ab3630b9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "A Gamer Boosted His RAM With DIY Copper Pipe Heatsinks in 45 Minutes",
+    "summary": "1. A PC modder known as sunrise2209 shared a DIY RAM cooling hack on Reddit, crafting copper pipe heatsinks in about 45 minutes per stick to avoid spending roughly $20 on commercial versions.\n2. The build drew immediate pushback over copper’s conductivity and the risk of short circuits, with commenters urging thermal insulating pads.\n3. It also revived […]",
+    "url": "https://news.bitcoin.com/a-gamer-boosted-his-ram-with-diy-copper-pipe-heatsinks-in-45-minutes-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-27T05:30:00.000Z"
+  },
+  {
+    "id": "744cd36f-d059-411f-a40a-32dcc79ee531",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. The Midterm Meltdown:",
+    "url": "https://trumpstruth.org/statuses/40300",
+    "author": "Trump Truth",
+    "created_at": "2026-07-27T05:27:30.000Z"
+  },
+  {
+    "id": "814db3b2-18b9-4861-8d38-7959f419fa3a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Robinhood Chain becomes top chain for RWA token holders one month after launch",
+    "summary": "Robinhood Chain, Robinhood’s Arbitrum-based layer-2 network, has become the top blockchain for real-world asset token holders just one month after launch, CryptoPotato reported, citing data from RWA.xyz. The chain currently has 330,000 RWA token holders and $24.12 million in assets deposited on the platform. It also supports trading in around 1,900 tokenized assets, with monthly trading volume standing at about $750 million. CryptoPotato said Robinhood Chain has been showing rapid early growth through meme coins and stablecoin payments.",
+    "url": "https://t.me/CoinnessGL#907578bd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T05:26:12+00:00"
+  },
+  {
+    "id": "976014f9-d77e-480f-ab9e-e3ee613882de",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M ",
+    "summary": "1. The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
+    "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-27T05:15:54.000Z"
+  },
+  {
+    "id": "7aa2ef99-25f5-44d1-b7ca-ef4a03537d08",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "LDP lawmaker seeks to ease Japan’s 2x crypto leverage cap",
+    "summary": "Seiji Kihara, a lawmaker from Japan’s Liberal Democratic Party, said Japan’s two-times leverage limit on cryptocurrency trading is overly restrictive and pledged to pursue regulatory easing, Nikkei reported. Speaking at a financial summit in Tokyo, Kihara said sufficient liquidity and a functioning price mechanism are essential for the healthy development of the crypto market, adding that deregulation is an unavoidable trend.Kihara currently leads the LDP’s Next-Generation AI and On-Chain Finance Project Team, which is pushing regulatory changes aimed at improving market liquidity and attracting more cryptocurrency capital to Japan, according to the report.",
+    "url": "https://t.me/CoinnessGL#90f8d474",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T04:53:24+00:00"
+  },
+  {
+    "id": "dd185652-a59c-45ba-ba54-f3f6e6fb0182",
+    "source": "The Block",
+    "type": "rss",
+    "title": "The Funding: Are crypto vaults funds and curators fund managers?",
+    "summary": "1. The SEC's Hester Peirce says some of them may be — which could mean registration.\n2. Here's what that means, and what comes next.",
+    "url": "https://www.theblock.co/post/409690/are-crypto-vaults-funds-curators-fund-managers?utm_source=rss&utm_medium=rss",
+    "author": "Yogita Khatri",
+    "created_at": "2026-07-27T04:39:17.000Z"
+  },
+  {
+    "id": "22acba7d-2a6b-4ac9-bf9f-1cb64eee9472",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "BitMart withdrawals appear to slow following wind-down announcement",
+    "summary": "1. Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
+    "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-27T04:34:44.000Z"
+  },
+  {
+    "id": "8051aa17-f88f-471c-bd79-76c8af79afac",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Latam Insights: Tokenized Cows in Brazil, El Salvador’s Remittance Reality, and Argentina’s Crypto Bill",
+    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, tokenized cattle surges as collateral for a loan in Brazil, crypto remittances fail to get traction in El Salvador, and Argentina proposes a bill to include crypto in its financial system.\n3. From Pasture […]",
+    "url": "https://news.bitcoin.com/latam-insights-tokenized-cows-in-brazil-el-salvadors-remittance-reality-and-argentinas-crypto-bill/",
+    "author": "Sergio Goschenko",
+    "created_at": "2026-07-27T04:30:57.000Z"
+  },
+  {
+    "id": "67de4624-6941-4b01-890e-324664a4bd39",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+    "summary": "1. ETH outperforms BTC, hinting at potential altcoin rally, as the U.S.\n2. and Iran hold fire and oil drops.",
+    "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-27T04:21:26.000Z"
+  },
+  {
+    "id": "ff62656e-8125-4d37-99aa-d647206b0b89",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Anonymous whale withdraws $2.45M in LINK from Binance",
+    "summary": "An anonymous whale withdrew 281,140 LINK worth about $2.45 million from Binance, according to Onchain Lens. Exchange outflows are typically interpreted as accumulation.",
+    "url": "https://t.me/CoinnessGL#a9746054",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T04:17:25+00:00"
+  },
+  {
     "id": "3b44ac01-080c-463b-afa6-3a6f1cddd1e7",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -218,95 +318,5 @@
     "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
     "author": "Krisztian Sandor",
     "created_at": "2026-07-27T00:00:00.000Z"
-  },
-  {
-    "id": "ef84408f-4dc4-421c-bb96-a3ea2963a050",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "Nvidia is in talks to provide a $250B financing backstop for OpenAI and SoftBank’s planned Ohio data center, which could cost up to $500B and become the largest in the US | per WSJTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#0374528e",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-26T23:35:47+00:00"
-  },
-  {
-    "id": "58a34334-a5b8-4f7e-97c2-d5c42ecca0ca",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Ripple Leaders Rally Behind CLARITY Act as CEO Says ‘Let’s Get This Done’",
-    "summary": "1. Ripple executives are backing the CLARITY Act as lawmakers debate the future of U.S.\n2. crypto regulation, with Ripple CEO Brad Garlinghouse urging action while financial firms, technology groups, and advocacy organizations rally behind clearer digital asset rules.\n3. Ripple Executives Push CLARITY Act as Senate Debate Continues A renewed push from Ripple leadership is adding momentum […]",
-    "url": "https://news.bitcoin.com/ripple-leaders-rally-behind-clarity-act-as-ceo-says-lets-get-this-done/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-26T23:30:04.000Z"
-  },
-  {
-    "id": "9802dac4-2308-4ce9-8923-ecda4dd7763d",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "WEMIX says attacker moved about $724,000 after contract breach ",
-    "summary": "1. WEMIX suspended bridges, liquidity-pool trading and several services after an attacker compromised a WEMIX$-linked contract and moved 724,198 USDC.e.",
-    "url": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-26T22:53:55.000Z"
-  },
-  {
-    "id": "973890f2-4722-40f5-b883-1cf442278eb0",
-    "source": "The Block",
-    "type": "rss",
-    "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
-    "summary": "1. Triple-A said it is investigating and that customer funds are not affected, though it has not fully addressed the incident publicly.",
-    "url": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&utm_medium=rss",
-    "author": "Zack Abrams",
-    "created_at": "2026-07-26T22:38:54.000Z"
-  },
-  {
-    "id": "3cc209b5-3a85-46f5-95cb-5a88e3277ea2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "‘To Protect Them’: Bank of Russia Governor Defends Controversial New Crypto Purchasing Caps",
-    "summary": "1. Bank of Russia Governor Elvira Nabiullina rejected the notion of a divide created by the recently passed Bill No.\n2. 1194918-8, which establishes a framework for cryptocurrency regulation.\n3. She stressed that withdrawal of crypto abroad had no limitations for both qualified and non-qualified investors.",
-    "url": "https://news.bitcoin.com/to-protect-them-bank-of-russia-governor-defends-controversial-new-crypto-purchasing-caps/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-26T22:34:55.000Z"
-  },
-  {
-    "id": "b61c1092-01fd-4214-9ba0-f267b0d4d24f",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-26T22:04:40.000Z"
-  },
-  {
-    "id": "d094eda3-8240-46e7-baeb-daad10f6ac3b",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸🇮🇷 Brent crude oil falls 7% at open as US and Iran halt strikes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#325f30d7",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-26T22:03:45+00:00"
-  },
-  {
-    "id": "75ee2dc5-99f9-41c3-9581-f9d3d1a6e9b1",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Michael Saylor hints at more BTC purchases",
-    "summary": "Strategy founder Michael Saylor posted a SaylorTracker chart on X last night, signaling a potential BTC purchase. He also added the comment, \"We're gonna need another color.\" Saylor has previously shown a pattern of posting similar messages before making additional BTC purchases.",
-    "url": "https://t.me/CoinnessGL#90e6d60f",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-26T22:01:10+00:00"
-  },
-  {
-    "id": "96344e81-92c6-48e5-88ed-bc4b280e7043",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC rises above $65,000",
-    "summary": "According to CoinNess market monitoring, BTC has risen above $65,000. BTC is trading at $65,063.05 on the Binance USDT market.",
-    "url": "https://t.me/CoinnessGL#03d67dd4",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-26T22:00:18+00:00"
   }
 ]
