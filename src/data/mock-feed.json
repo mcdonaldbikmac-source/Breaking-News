@@ -1,5 +1,115 @@
 [
   {
+    "id": "7c925eba-b1e0-42e3-a9d1-9afac25b0e60",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-27T07:40:09.000Z"
+  },
+  {
+    "id": "7a376cbe-a680-45dc-bc43-ab092e3ffe95",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇰🇵 North Korea has arrested former military hackers accused of stealing funds from two state banks and laundering the proceeds through crypto, per Daily NK.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0f83a327",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-27T07:40:07+00:00"
+  },
+  {
+    "id": "b1987be0-54fd-44a9-92ce-b631059e329e",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Robinhood is reportedly in talks with Crypto.​com to add its prediction market contracts to Robinhood's app, per WSJ.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#dfb6ecd1",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-27T07:10:06+00:00"
+  },
+  {
+    "id": "06c8305a-cf6b-46e0-87d8-3f742d4a43f3",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Bitcoin Reclaims $65,500 but Volatility Remains as US Liquidity Hits $5.92 Trillion",
+    "summary": "1. Bitcoin funds shed $465 million over two sessions last week even as broader U.S.\n2. liquidity kept expanding to $5.92 trillion, leaving the asset locked in a tight $63,700-to-$65,500 range.\n3. The mismatch points to a leverage flush rather than a change in investor conviction.",
+    "url": "https://news.bitcoin.com/bitcoin-etf-outflows-liquidity-5-92-trillion/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-27T07:05:38.000Z"
+  },
+  {
+    "id": "a8aec197-6132-458b-9fc5-2a06cbd19813",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitcoin governance seen as key variable in quantum-computing response",
+    "summary": "German crypto asset manager DDA (Deutsche Digital Assets) said Bitcoin’s governance structure is one reason advances in quantum computing could pose a threat to the network. DDA said financial institutions such as JPMorgan could shift to quantum-resistant cryptography through board approval and budget execution alone, while Bitcoin would require consensus among participants worldwide. DDA added decentralized networks may adopt quantum-resistant cryptography more slowly than traditional financial institutions, and said this reflects not so much a weakness in Bitcoin as a need to take its governance process seriously.",
+    "url": "https://t.me/CoinnessGL#da334989",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T06:53:50+00:00"
+  },
+  {
+    "id": "5aaa47ef-619a-477d-b2bc-97497327b643",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BANK swings wildly after Bithumb listing, surging to $0.6 before falling near $0.4",
+    "summary": "Lorenzo Protocol's BANK, newly listed on South Korean exchange Bithumb's won market, has seen sharp volatility. Based on Binance's USDT spot trading pair, BANK climbed to as high as $0.595 at around 6:17 a.m. UTC today, but has since given back most of those gains and was trading near $0.41. BANK traded around $0.04 on July 13.",
+    "url": "https://t.me/CoinnessGL#fea98a6d",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T06:53:39+00:00"
+  },
+  {
+    "id": "954727f5-4e79-4e9a-9a81-6427461e0399",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+    "summary": "1. CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
+    "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-27T06:43:34.000Z"
+  },
+  {
+    "id": "f6de58c9-c333-4244-8837-23da572fe2c8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "South Korea’s KB Kookmin Bank to launch cross-border payment service on JPMorgan’s Kinexys: report",
+    "summary": "1. The largest bank in South Korea plans to launch a blockchain-based cross-border corporate payments service next month, according to Yonhap.",
+    "url": "https://www.theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys?utm_source=rss&utm_medium=rss",
+    "author": "Timmy Shen",
+    "created_at": "2026-07-27T06:38:09.000Z"
+  },
+  {
+    "id": "18e0c6ea-3837-4f99-a26c-52fcab99647e",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+    "summary": "1. As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.",
+    "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-27T06:37:54.000Z"
+  },
+  {
+    "id": "9f65d8bb-d54f-469c-ad0d-70d060445887",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "BTC enters undervalued zone, but lacks capitulation and upside momentum",
+    "summary": "Bitcoin has entered an undervalued zone, but the capitulation typically seen at cycle bottoms has yet to emerge, on-chain analyst Axel Adler Jr said on X.Adler said the MVRV Z-score, a metric used to assess oversold and overbought conditions, fell to 0.42, around four times lower than its historical average of 1.7, but remained above zero. BTC’s seven-day realized profit and loss turned positive from negative, indicating on-chain selling pressure has eased. He said the market has entered a stabilization phase while undervalued, but clear bottom signals and the demand needed to drive a fresh upswing are still lacking.",
+    "url": "https://t.me/CoinnessGL#aae4cbdd",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T06:33:55+00:00"
+  },
+  {
+    "id": "dc7ff453-13a4-4f53-81f5-67ece91d9d24",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📖 Michael Saylor has published a 755-to-953-hour suggested reading curriculum covering history, economics, and technology before culminating in Bitcoin.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#7f7f2828",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-27T06:30:08+00:00"
+  },
+  {
     "id": "bebaebef-ff11-4d8d-a568-8fe3ab3630b9",
     "source": "Bitcoin.com",
     "type": "rss",
@@ -208,115 +318,5 @@
     "url": "https://warpcast.com/cassie/0x3fc8bdfb",
     "author": "Cassie Heart",
     "created_at": "2026-07-27T01:54:11.000Z"
-  },
-  {
-    "id": "0725d99e-9297-4d64-a181-9a72c579c1dc",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Peter Schiff Says Japan Could Be the Pin That Pricks the Bigger US Bubble",
-    "summary": "1. Peter Schiff says a rough week for artificial intelligence stocks and a deepening crisis in Japan’s bond market are warning signs that most investors are choosing to ignore.\n2. Speaking on The Peter Schiff Show Podcast, the economist and longtime Bitcoin critic said the AI trade cracked open this week even as broader indexes held up.",
-    "url": "https://news.bitcoin.com/peter-schiff-says-japan-could-be-the-pin-that-pricks-the-bigger-us-bubble/",
-    "author": "Jamie Redman",
-    "created_at": "2026-07-27T01:30:49.000Z"
-  },
-  {
-    "id": "ce535082-045d-4bde-9373-4072b8b796a1",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-27T01:11:19.000Z"
-  },
-  {
-    "id": "750f3000-244c-41a0-b904-9da3766694b8",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-27T01:11:19.000Z"
-  },
-  {
-    "id": "cbd22aae-1f43-40b4-8214-89e9677e26a7",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Storj files for bankruptcy, explores equity path for tokenholders ",
-    "summary": "1. The decentralized storage provider says its network will continue operating during Chapter 11 as it explores a court-approved ownership mechanism for STORJ holders.",
-    "url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-27T01:01:43.000Z"
-  },
-  {
-    "id": "0caeabc1-87aa-4634-9708-94fa948f91d9",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Key token unlocks this week include $9.78M in SUI",
-    "summary": "Key token unlocks this week include $9.78 million in SUIAccording to data from Tokenomist, the major token unlocks scheduled for this week (July 27–Aug. 3) are as follows:- SIGN: 401 million tokens ($3.31 million), representing 15.71% of circulating supply, at 10:00 a.m. UTC on July 28- FF: 102 million tokens ($6.15 million), representing 3.53% of circulating supply, at 1:00 p.m. UTC on July 29- CARDS: 28.84 million tokens ($3.44 million), representing 5.76% of circulating supply, at 7:00 p.m. UTC on July 29- KMNO: 229 million tokens ($4.12 million), representing 2.97% of circulating supply, at 12:00 p.m. UTC on July 30- SUI: 13.72 million tokens ($9.78 million), representing 0.34% of circulating supply, at 12:00 a.m. UTC on Aug. 1- EIGEN: 36.82 million tokens ($7.63 million), representing 5.79% of circulating supply, at 4:00 a.m. UTC on Aug. 1- ENA: 40.63 million tokens ($3.66 million), representing 0.47% of circulating supply, at 7:00 a.m. UTC on Aug. 2",
-    "url": "https://t.me/CoinnessGL#b1c65db1",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T00:54:46+00:00"
-  },
-  {
-    "id": "6a3dca6d-1fb3-4c25-8e6a-dd0a6a4bca08",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "U.S. senator says CLARITY Act would close loopholes exploited by North Korea's Lazarus",
-    "summary": "U.S. Sen. Cynthia Lummis said the CLARITY Act would close regulatory loopholes exploited by groups such as North Korea’s Lazarus hacking organization, according to Cointelegraph. Lummis said the bill would give the Treasury Department new authority to freeze suspicious transactions before funds are actually moved.",
-    "url": "https://t.me/CoinnessGL#9af0b8e2",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T00:47:11+00:00"
-  },
-  {
-    "id": "332eecb9-49ab-40a9-8e90-b51e00ad9dcb",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Solana memecoin CATE market cap surged 230x yesterday, then eased",
-    "summary": "According to GMGN data, the market capitalization of Solana-based memecoin CATE at one point jumped 230-fold from the previous day to top $9.5 million, but has since given back part of those gains and fallen to about $7.09 million. CATE is a memecoin inspired by an X post from @kabosumama, the owner of Kabosu, the Shiba Inu that inspired Dogecoin (DOGE), sharing a video featuring a kitten.",
-    "url": "https://t.me/CoinnessGL#89814dee",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T00:43:32+00:00"
-  },
-  {
-    "id": "d8172e98-8cc5-4de9-b049-ef6167bdd6d2",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "CLARITY Act Passage Odds Cut to 30% as Senate Vote Faces Challenges",
-    "summary": "1. Galaxy Research lowered its estimate for the CLARITY Act becoming law in 2026 to 30% after lawmakers released final text of the crypto market structure bill, with unresolved disputes threatening the bipartisan support needed for passage.\n2. Galaxy Research Lowers CLARITY Act Outlook After Final Senate Text Galaxy Research lowered its estimate for the CLARITY Act […]",
-    "url": "https://news.bitcoin.com/clarity-act-passage-odds-cut-to-30-as-senate-vote-faces-challenges/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-27T00:30:10.000Z"
-  },
-  {
-    "id": "d0d4ee0d-6d5b-4634-b311-0c35cfc784ad",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Are brain waves the next unlock for physical AI?",
-    "summary": "1. Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "author": "Tim Fernholz",
-    "created_at": "2026-07-27T00:19:14.000Z"
-  },
-  {
-    "id": "c7cea3e5-48a4-480b-ac7d-6e6dbd5cd9c6",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
-    "summary": "1. Despite support from Goldman Sachs, Fidelity and law enforcement bodies, the Clarity Act’s chances dim.\n2. BitMEX to close as crypto consolidates into five big players.",
-    "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Andrew Fenton",
-    "created_at": "2026-07-27T00:03:44.000Z"
-  },
-  {
-    "id": "c4fcb7d8-4187-4937-9e4a-adec2dc1d37f",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
-    "summary": "1. POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
-    "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-27T00:00:00.000Z"
   }
 ]
