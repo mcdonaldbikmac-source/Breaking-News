@@ -1,5 +1,285 @@
 [
   {
+    "id": "cf9137e2-bfc5-4212-818f-a062398ab747",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Robinhood Chain generated $25M in application fees over the week ending July 24, ranking 3rd behind Ethereum's $45M and Solana's $39M, per CryptoRank.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#80f8fafc",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-27T13:45:08+00:00"
+  },
+  {
+    "id": "7b29085f-680a-4f13-b75b-ac88e2c5a423",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bitnomial to offer TRX futures trading in the U.S.",
+    "summary": "Chicago-based derivatives exchange and clearinghouse Bitnomial will offer Tron (TRX) futures trading to eligible individual and institutional investors in the U.S., Cointelegraph said on X. Bitnomial was previously acquired by Payward, Kraken’s parent company.",
+    "url": "https://t.me/CoinnessGL#6be82b0e",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T13:44:02+00:00"
+  },
+  {
+    "id": "58141e44-5eb8-4b0f-816a-300f4ab3aafe",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Strategy founder plans disciplined STRC buys below $100",
+    "summary": "Michael Saylor, founder of Strategy, said on X he plans to maintain regular, disciplined purchases of preferred stock STRC when it trades below $100. He said he would increase purchases as the discount to STRC’s $100 price widens and reduce them as the stock moves closer to $100, adding that $975 million of buying capacity remains.Strategy previously said it bought 288,930 shares of STRC last week for $25 million at an average price of $86.52 per share.",
+    "url": "https://t.me/CoinnessGL#d3e6cc9c",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T13:41:09+00:00"
+  },
+  {
+    "id": "f4aef2b4-159b-4184-8a6d-d3dc654a43ff",
+    "source": "@WatcherGuru",
+    "type": "telegram",
+    "title": "$675,000,000,000 added to the US stock market at open.@WatcherGuru",
+    "summary": "",
+    "url": "https://t.me/WatcherGuru#169ddf3c",
+    "author": "@WatcherGuru",
+    "created_at": "2026-07-27T13:39:57+00:00"
+  },
+  {
+    "id": "18a9257c-ee42-4113-925e-8093ffe83789",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan",
+    "summary": "1. Benchmark reiterated its $570 Strategy target, citing disciplined capital allocation, growing cash reserves and continued long-term BTC plan.",
+    "url": "https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-27T13:37:59.000Z"
+  },
+  {
+    "id": "7a588cb0-bd6c-4e2e-9469-45ec69f11e1f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Analysis: Strategy secures 25 months of interest costs with last week’s fundraising",
+    "summary": "According to crypto analysis account EmberCN on social media, Strategy increased its cash holdings to $3.75 billion through stock sales last week, giving it enough liquidity to cover interest costs for the next 25 months. Strategy, which currently holds 843,775 BTC, is sitting on an unrealized loss of $8.85 billion, or about 13.8%.",
+    "url": "https://t.me/CoinnessGL#593d476b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-27T13:35:54+00:00"
+  },
+  {
+    "id": "54a2a11f-e260-41df-a7f5-0dee661a742a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+    "summary": "1. Bitkub was the victim of a cyberattack in May 2021, which led to hacks stealing 1.7 billion baht across 16 different digital assets.",
+    "url": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
+    "author": "Jamie Crawley",
+    "created_at": "2026-07-27T13:32:16.000Z"
+  },
+  {
+    "id": "4ccede75-32d6-43fd-89bf-395d0cb66c3c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
+    "summary": "1. Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state.",
+    "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by William Suberg",
+    "created_at": "2026-07-27T13:31:07.000Z"
+  },
+  {
+    "id": "48670ed6-df87-4125-b3f8-0d096affdaa7",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ether ETFs Add $104 Million as Weekly Flows Triple Bitcoin’s Total",
+    "summary": "1. spot crypto ETFs finished a volatile week with positive flows into bitcoin, ether, XRP and solana products.\n2. Ether led with $104 million in net inflows, while HYPE funds suffered a second consecutive week of withdrawals.\n3. Ether ETFs Outpace Bitcoin as Late-Week Selling Erodes Crypto Fund Gains Crypto exchange-traded fund (ETF) investors began the week […]",
+    "url": "https://news.bitcoin.com/ether-etfs-add-104-million-as-weekly-flows-triple-bitcoins-total/",
+    "author": "Emmanuel Musa",
+    "created_at": "2026-07-27T13:28:33.000Z"
+  },
+  {
+    "id": "401fc1f3-dd59-4bc5-8057-1d0a88f06892",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
+    "summary": "1. The chipmaker and 36 other companies say defenders need AI they can run themselves.\n2. Major AI players OpenAI, Anthropic and Google are not among them.",
+    "url": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
+    "author": "Shaurya Malwa",
+    "created_at": "2026-07-27T13:25:58.000Z"
+  },
+  {
+    "id": "20eda036-9084-4e11-998e-da601ee4462c",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Binance disappears from Google Play in certain EU countries",
+    "summary": "1. Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
+    "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Helen Partz",
+    "created_at": "2026-07-27T13:24:17.000Z"
+  },
+  {
+    "id": "119d4e9b-4875-4daf-8cb8-90cafbe69ca0",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Whichever Party Terminates the Filibuster FIRST will be the Party that survives and thrives.\n2. If the Dumocrats win this race, however, America will rapidly become nothing more than a Third World Nation!\n3. President DONALD J.",
+    "url": "https://trumpstruth.org/statuses/40302",
+    "author": "Trump Truth",
+    "created_at": "2026-07-27T13:16:04.000Z"
+  },
+  {
+    "id": "11f9aeee-f5b1-4089-8cd7-66a777d709d9",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "📊 Robert Kiyosaki says he's saved silver since 1965, gold since 1971, Bitcoin since 2012 and Ethereum since 2022, calling them his defense against ballooning US debt.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#2b2c3958",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-27T13:10:07+00:00"
+  },
+  {
+    "id": "c97e501c-fa8b-4be6-a1b5-ba4ee9c3743a",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
+    "summary": "1. IBM’s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications.",
+    "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Robert Lakin",
+    "created_at": "2026-07-27T13:08:55.000Z"
+  },
+  {
+    "id": "7170c356-364d-4484-9bdf-1319b6248624",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "Which ticket are you choosing?",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#a4e49616",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-27T13:05:05+00:00"
+  },
+  {
+    "id": "e869286f-64bb-4e3c-8fea-b2f2589856c4",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. John Thune should not allow the United States  Senate to “leave town” until it passes The Save America Act or, far better still, TERMINATES THE FILIBUSTER, where Republicans can then quickly pass everything they ever dreamed of, including a full and deep throated SAVE AMERICA ACT, the Budget, and the ever looming Debt Ceiling disaster, 1929!\n2. The Dumocrats will do it on day one, and can’t believe how lucky they got with this Senate leadership.\n3. Remember, stupidity always brings LOSING & DEATH!",
+    "url": "https://trumpstruth.org/statuses/40301",
+    "author": "Trump Truth",
+    "created_at": "2026-07-27T13:01:06.000Z"
+  },
+  {
+    "id": "fcdffb6d-2c95-4068-a37c-a4fc25d87f3a",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week",
+    "summary": "1. The Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.",
+    "url": "https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-27T13:00:29.000Z"
+  },
+  {
+    "id": "c0d578a1-01cb-407b-8ec5-d453cae2ea0a",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
+    "summary": "1. The license broadens the BlackRock tokenization partner's offering as regulators weigh rules for onchain investment products.",
+    "url": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
+    "author": "Krisztian Sandor",
+    "created_at": "2026-07-27T13:00:00.000Z"
+  },
+  {
+    "id": "569d72ae-018d-4ad8-8145-2dcbc719da6e",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Snapchat now lets you share what you’re listening to in real time",
+    "summary": "1. Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
+    "url": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+    "author": "Aisha Malik",
+    "created_at": "2026-07-27T13:00:00.000Z"
+  },
+  {
+    "id": "54b163db-2907-408e-b8eb-7652e33d6422",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "summary": "1. The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "author": "Marina Temkin",
+    "created_at": "2026-07-27T13:00:00.000Z"
+  },
+  {
+    "id": "9396133a-abbf-46a2-9f5d-813123a5f1a8",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
+    "summary": "1. Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
+    "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
+    "author": "Decrypt Agent",
+    "created_at": "2026-07-27T12:27:47.000Z"
+  },
+  {
+    "id": "7127b3c0-7202-43a2-92b3-edcaae6ab1d8",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion",
+    "summary": "1. Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.",
+    "url": "https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion?utm_source=rss&utm_medium=rss",
+    "author": "Naga Avan-Nomayo",
+    "created_at": "2026-07-27T12:23:19.000Z"
+  },
+  {
+    "id": "36cd7edd-db15-4246-a027-72666b5b05a9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy Adds $525M to USD Reserve, Pushing Dividend Coverage to 2.1 Years",
+    "summary": "1. Strategy Inc disclosed in a Form 8-K filed Monday that it increased its U.S.\n2. dollar reserve by $525 million, bringing the total to $3.75 billion as of July 27, 2026.\n3. The company said the reserve now covers 2.1 years of dividend and interest payments on its outstanding preferred stock and debt.",
+    "url": "https://news.bitcoin.com/strategy-adds-525m-to-usd-reserve-pushing-dividend-coverage-to-2-1-years/",
+    "author": "Jamie Redman",
+    "created_at": "2026-07-27T12:16:29.000Z"
+  },
+  {
+    "id": "e3a96475-80d2-4929-9be2-d32c47ddde01",
+    "source": "The Block",
+    "type": "rss",
+    "title": "Kraken parent Payward acquires Magic Labs’ embedded wallet business",
+    "summary": "1. Magic Labs is selling its wallet business to Payward and rebranding as Newton Labs to focus on onchain finance infrastructure.",
+    "url": "https://www.theblock.co/post/409705/kraken-parent-payward-acquires-magic-labs-embedded-wallet-business?utm_source=rss&utm_medium=rss",
+    "author": "Brian Danga",
+    "created_at": "2026-07-27T12:15:00.000Z"
+  },
+  {
+    "id": "3052cf35-0546-48d9-a23e-bf21f8607662",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "Strategy sold 5.43M shares for $544.5M and repurchased 288,930 variable-rate preferred shares for $25M, with Bitcoin holdings at 843,775 $BTCTwitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#be0e48f4",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-27T12:02:06+00:00"
+  },
+  {
+    "id": "42033e75-a279-4118-9f17-1541543c53d1",
+    "source": "Decrypt",
+    "type": "rss",
+    "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
+    "summary": "1. Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
+    "url": "https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
+    "author": "Tyler Warner",
+    "created_at": "2026-07-27T12:00:49.000Z"
+  },
+  {
+    "id": "45be998b-7b9e-4eca-ac09-678d905d6553",
+    "source": "@SolidIntelX",
+    "type": "telegram",
+    "title": "China says the US pledged to cap any replacement tariffs at 20%Twitter",
+    "summary": "",
+    "url": "https://t.me/SolidIntelX#6b1b340e",
+    "author": "@SolidIntelX",
+    "created_at": "2026-07-27T11:54:01+00:00"
+  },
+  {
+    "id": "ce08f2d5-c1f4-4093-92b6-b815af27163b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Saylor: Rejecting Bitcoin’s Bank and Market Integration ‘Dooms It to 1% of Its Potential’",
+    "summary": "1. Strategy Inc.\n2. (Nasdaq: MSTR) Chairman Michael Saylor argued that shutting bitcoin out of banks, custodians and capital markets denies its benefits to 99% of the world, as his own company’s 843,775 BTC treasury currently sits underwater against its purchase price.\n3. Saylor Makes the Case for Bitcoin in the Banking System Saylor, the chairman of the […]",
+    "url": "https://news.bitcoin.com/saylor-bitcoin-bank-integration-99-percent/",
+    "author": "Shiraz Jagati",
+    "created_at": "2026-07-27T11:05:13.000Z"
+  },
+  {
     "id": "78b5274f-c90c-4d14-8833-e84feef35841",
     "source": "@CoinnessGL",
     "type": "telegram",
@@ -180,7 +460,7 @@
     "created_at": "2026-07-27T08:50:07+00:00"
   },
   {
-    "id": "62441178-dbca-4c6e-aff7-71d696b8a82f",
+    "id": "3a4a2ca7-8bd3-48d0-abaa-b21b3402a04c",
     "source": "@SolidIntelX",
     "type": "telegram",
     "title": "Iran says currently no ongoing negotiatins with US despite the rumours Spokesman Esmail Baghaei dismissed reports of US-Iran talks as media speculation, saying no negotiations with Washington are taking place.",
@@ -208,215 +488,5 @@
     "url": "https://news.bitcoin.com/lummis-clarity-act-lazarus-group-treasury-freeze/",
     "author": "Shiraz Jagati",
     "created_at": "2026-07-27T08:05:38.000Z"
-  },
-  {
-    "id": "7c925eba-b1e0-42e3-a9d1-9afac25b0e60",
-    "source": "The Defiant",
-    "type": "rss",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "summary": "1. Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "author": "The Defiant Team",
-    "created_at": "2026-07-27T07:40:09.000Z"
-  },
-  {
-    "id": "7a376cbe-a680-45dc-bc43-ab092e3ffe95",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇰🇵 North Korea has arrested former military hackers accused of stealing funds from two state banks and laundering the proceeds through crypto, per Daily NK.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#0f83a327",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-27T07:40:07+00:00"
-  },
-  {
-    "id": "b1987be0-54fd-44a9-92ce-b631059e329e",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Robinhood is reportedly in talks with Crypto.​com to add its prediction market contracts to Robinhood's app, per WSJ.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#dfb6ecd1",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-27T07:10:06+00:00"
-  },
-  {
-    "id": "06c8305a-cf6b-46e0-87d8-3f742d4a43f3",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Bitcoin Reclaims $65,500 but Volatility Remains as US Liquidity Hits $5.92 Trillion",
-    "summary": "1. Bitcoin funds shed $465 million over two sessions last week even as broader U.S.\n2. liquidity kept expanding to $5.92 trillion, leaving the asset locked in a tight $63,700-to-$65,500 range.\n3. The mismatch points to a leverage flush rather than a change in investor conviction.",
-    "url": "https://news.bitcoin.com/bitcoin-etf-outflows-liquidity-5-92-trillion/",
-    "author": "Shiraz Jagati",
-    "created_at": "2026-07-27T07:05:38.000Z"
-  },
-  {
-    "id": "a8aec197-6132-458b-9fc5-2a06cbd19813",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Bitcoin governance seen as key variable in quantum-computing response",
-    "summary": "German crypto asset manager DDA (Deutsche Digital Assets) said Bitcoin’s governance structure is one reason advances in quantum computing could pose a threat to the network. DDA said financial institutions such as JPMorgan could shift to quantum-resistant cryptography through board approval and budget execution alone, while Bitcoin would require consensus among participants worldwide. DDA added decentralized networks may adopt quantum-resistant cryptography more slowly than traditional financial institutions, and said this reflects not so much a weakness in Bitcoin as a need to take its governance process seriously.",
-    "url": "https://t.me/CoinnessGL#da334989",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T06:53:50+00:00"
-  },
-  {
-    "id": "5aaa47ef-619a-477d-b2bc-97497327b643",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BANK swings wildly after Bithumb listing, surging to $0.6 before falling near $0.4",
-    "summary": "Lorenzo Protocol's BANK, newly listed on South Korean exchange Bithumb's won market, has seen sharp volatility. Based on Binance's USDT spot trading pair, BANK climbed to as high as $0.595 at around 6:17 a.m. UTC today, but has since given back most of those gains and was trading near $0.41. BANK traded around $0.04 on July 13.",
-    "url": "https://t.me/CoinnessGL#fea98a6d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T06:53:39+00:00"
-  },
-  {
-    "id": "954727f5-4e79-4e9a-9a81-6427461e0399",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
-    "summary": "1. CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
-    "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
-    "author": "Shaurya Malwa",
-    "created_at": "2026-07-27T06:43:34.000Z"
-  },
-  {
-    "id": "f6de58c9-c333-4244-8837-23da572fe2c8",
-    "source": "The Block",
-    "type": "rss",
-    "title": "South Korea’s KB Kookmin Bank to launch cross-border payment service on JPMorgan’s Kinexys: report",
-    "summary": "1. The largest bank in South Korea plans to launch a blockchain-based cross-border corporate payments service next month, according to Yonhap.",
-    "url": "https://www.theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys?utm_source=rss&utm_medium=rss",
-    "author": "Timmy Shen",
-    "created_at": "2026-07-27T06:38:09.000Z"
-  },
-  {
-    "id": "18e0c6ea-3837-4f99-a26c-52fcab99647e",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
-    "summary": "1. As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.",
-    "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-27T06:37:54.000Z"
-  },
-  {
-    "id": "9f65d8bb-d54f-469c-ad0d-70d060445887",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "BTC enters undervalued zone, but lacks capitulation and upside momentum",
-    "summary": "Bitcoin has entered an undervalued zone, but the capitulation typically seen at cycle bottoms has yet to emerge, on-chain analyst Axel Adler Jr said on X.Adler said the MVRV Z-score, a metric used to assess oversold and overbought conditions, fell to 0.42, around four times lower than its historical average of 1.7, but remained above zero. BTC’s seven-day realized profit and loss turned positive from negative, indicating on-chain selling pressure has eased. He said the market has entered a stabilization phase while undervalued, but clear bottom signals and the demand needed to drive a fresh upswing are still lacking.",
-    "url": "https://t.me/CoinnessGL#aae4cbdd",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T06:33:55+00:00"
-  },
-  {
-    "id": "dc7ff453-13a4-4f53-81f5-67ece91d9d24",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📖 Michael Saylor has published a 755-to-953-hour suggested reading curriculum covering history, economics, and technology before culminating in Bitcoin.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#7f7f2828",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-27T06:30:08+00:00"
-  },
-  {
-    "id": "bebaebef-ff11-4d8d-a568-8fe3ab3630b9",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "A Gamer Boosted His RAM With DIY Copper Pipe Heatsinks in 45 Minutes",
-    "summary": "1. A PC modder known as sunrise2209 shared a DIY RAM cooling hack on Reddit, crafting copper pipe heatsinks in about 45 minutes per stick to avoid spending roughly $20 on commercial versions.\n2. The build drew immediate pushback over copper’s conductivity and the risk of short circuits, with commenters urging thermal insulating pads.\n3. It also revived […]",
-    "url": "https://news.bitcoin.com/a-gamer-boosted-his-ram-with-diy-copper-pipe-heatsinks-in-45-minutes-49201/",
-    "author": "Guest Author",
-    "created_at": "2026-07-27T05:30:00.000Z"
-  },
-  {
-    "id": "744cd36f-d059-411f-a40a-32dcc79ee531",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. The Midterm Meltdown:",
-    "url": "https://trumpstruth.org/statuses/40300",
-    "author": "Trump Truth",
-    "created_at": "2026-07-27T05:27:30.000Z"
-  },
-  {
-    "id": "814db3b2-18b9-4861-8d38-7959f419fa3a",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Robinhood Chain becomes top chain for RWA token holders one month after launch",
-    "summary": "Robinhood Chain, Robinhood’s Arbitrum-based layer-2 network, has become the top blockchain for real-world asset token holders just one month after launch, CryptoPotato reported, citing data from RWA.xyz. The chain currently has 330,000 RWA token holders and $24.12 million in assets deposited on the platform. It also supports trading in around 1,900 tokenized assets, with monthly trading volume standing at about $750 million. CryptoPotato said Robinhood Chain has been showing rapid early growth through meme coins and stablecoin payments.",
-    "url": "https://t.me/CoinnessGL#907578bd",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T05:26:12+00:00"
-  },
-  {
-    "id": "976014f9-d77e-480f-ab9e-e3ee613882de",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M ",
-    "summary": "1. The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
-    "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-27T05:15:54.000Z"
-  },
-  {
-    "id": "7aa2ef99-25f5-44d1-b7ca-ef4a03537d08",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "LDP lawmaker seeks to ease Japan’s 2x crypto leverage cap",
-    "summary": "Seiji Kihara, a lawmaker from Japan’s Liberal Democratic Party, said Japan’s two-times leverage limit on cryptocurrency trading is overly restrictive and pledged to pursue regulatory easing, Nikkei reported. Speaking at a financial summit in Tokyo, Kihara said sufficient liquidity and a functioning price mechanism are essential for the healthy development of the crypto market, adding that deregulation is an unavoidable trend.Kihara currently leads the LDP’s Next-Generation AI and On-Chain Finance Project Team, which is pushing regulatory changes aimed at improving market liquidity and attracting more cryptocurrency capital to Japan, according to the report.",
-    "url": "https://t.me/CoinnessGL#90f8d474",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T04:53:24+00:00"
-  },
-  {
-    "id": "dd185652-a59c-45ba-ba54-f3f6e6fb0182",
-    "source": "The Block",
-    "type": "rss",
-    "title": "The Funding: Are crypto vaults funds and curators fund managers?",
-    "summary": "1. The SEC's Hester Peirce says some of them may be — which could mean registration.\n2. Here's what that means, and what comes next.",
-    "url": "https://www.theblock.co/post/409690/are-crypto-vaults-funds-curators-fund-managers?utm_source=rss&utm_medium=rss",
-    "author": "Yogita Khatri",
-    "created_at": "2026-07-27T04:39:17.000Z"
-  },
-  {
-    "id": "22acba7d-2a6b-4ac9-bf9f-1cb64eee9472",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "BitMart withdrawals appear to slow following wind-down announcement",
-    "summary": "1. Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
-    "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-27T04:34:44.000Z"
-  },
-  {
-    "id": "8051aa17-f88f-471c-bd79-76c8af79afac",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Latam Insights: Tokenized Cows in Brazil, El Salvador’s Remittance Reality, and Argentina’s Crypto Bill",
-    "summary": "1. Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week.\n2. In this edition, tokenized cattle surges as collateral for a loan in Brazil, crypto remittances fail to get traction in El Salvador, and Argentina proposes a bill to include crypto in its financial system.\n3. From Pasture […]",
-    "url": "https://news.bitcoin.com/latam-insights-tokenized-cows-in-brazil-el-salvadors-remittance-reality-and-argentinas-crypto-bill/",
-    "author": "Sergio Goschenko",
-    "created_at": "2026-07-27T04:30:57.000Z"
-  },
-  {
-    "id": "67de4624-6941-4b01-890e-324664a4bd39",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
-    "summary": "1. ETH outperforms BTC, hinting at potential altcoin rally, as the U.S.\n2. and Iran hold fire and oil drops.",
-    "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
-    "author": "Omkar Godbole",
-    "created_at": "2026-07-27T04:21:26.000Z"
-  },
-  {
-    "id": "ff62656e-8125-4d37-99aa-d647206b0b89",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Anonymous whale withdraws $2.45M in LINK from Binance",
-    "summary": "An anonymous whale withdrew 281,140 LINK worth about $2.45 million from Binance, according to Onchain Lens. Exchange outflows are typically interpreted as accumulation.",
-    "url": "https://t.me/CoinnessGL#a9746054",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T04:17:25+00:00"
   }
 ]
