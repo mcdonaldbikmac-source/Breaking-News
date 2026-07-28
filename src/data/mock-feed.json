@@ -1,5 +1,55 @@
 [
   {
+    "id": "e25b106c-bc9f-40a4-a6af-50a8f5c77d64",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "🇺🇸 Senator Dave McCormick called on Senate leaders to bring the CLARITY Act to a floor vote, saying \"the time for delay is over\" and that every senator should go on the record with their vote.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#b441d062",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-28T03:45:07+00:00"
+  },
+  {
+    "id": "e1feae93-85c9-4968-a7e9-02012414e42a",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Binance to end SOPH mainnet support, back ERC-20 migration",
+    "summary": "Binance announced it will end support for Sophon (SOPH) on its mainnet and will temporarily suspend deposits and withdrawals via the ERC-20 network at 8:00 a.m. UTC on Aug. 4. Existing SOPH will be migrated from the mainnet to the ERC-20 network at a 1:1 ratio.",
+    "url": "https://t.me/CoinnessGL#f9a3f00b",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T03:34:43+00:00"
+  },
+  {
+    "id": "a0eff5de-ac7a-4318-91a3-39a45aee4b8b",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Strategy Opens the Door to Bitcoin Sales—Michael Saylor Explains Why It Makes Sense",
+    "summary": "1. Strategy expects future bitcoin sales to help finance preferred stock repurchases, extending a funding strategy the company has already used while targeting disciplined buybacks of STRC and more stable trading in the preferred stock.\n2. Why Saylor Anticipates More Bitcoin Sales Michael Saylor, Executive Chairman of Strategy Inc.\n3. (Nasdaq: MSTR), revealed on July 27 in an […]",
+    "url": "https://news.bitcoin.com/strategy-opens-the-door-to-bitcoin-sales-michael-saylor-explains-why-it-makes-sense/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-28T03:30:28.000Z"
+  },
+  {
+    "id": "f3a3ede9-5b11-4cef-907e-f8d1bd8c9013",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "ARK Invest buys $30K worth of 3iQ Solana staking ETF",
+    "summary": "U.S. asset manager ARK Invest, led by Cathie Wood, bought $30,000 worth of 3iQ’s Solana staking ETF through one of its funds on July 27, according to the source. The ETF, managed by Canadian asset manager 3iQ, offers exposure to SOL price movements and additional yield from staking rewards. ARK Invest also bought $14.1 million worth of SpaceX shares and sold $1.16 million worth of Robinhood shares the same day.",
+    "url": "https://t.me/CoinnessGL#cadc6487",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T03:29:08+00:00"
+  },
+  {
+    "id": "5cb80d3f-20ac-4c15-b3ad-c37f59be4f52",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+    "summary": "1. Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
+    "url": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-28T03:17:10.000Z"
+  },
+  {
     "id": "d36f59aa-7233-4590-99dd-bcc1c5774d30",
     "source": "The Defiant",
     "type": "rss",
@@ -20,7 +70,7 @@
     "created_at": "2026-07-28T03:15:03.000Z"
   },
   {
-    "id": "2a373bc3-417b-4ad3-9e61-dff246ea670b",
+    "id": "77524e36-8b9e-4461-b97f-f78099d27828",
     "source": "@CoinnessGL",
     "type": "telegram",
     "title": "Bithumb to list O on KRW market",
@@ -70,7 +120,7 @@
     "created_at": "2026-07-28T02:21:04.000Z"
   },
   {
-    "id": "858bbddc-bd27-46d1-be0f-0bf3e907d940",
+    "id": "334732f3-31f9-4513-b163-236432e22f23",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Securitize subsidiary Securitize Capital has registered with the SEC as an investment adviser, adding to Securitize's existing broker-dealer, ATS, and transfer agent registrations.",
@@ -140,7 +190,7 @@
     "created_at": "2026-07-28T01:19:06+00:00"
   },
   {
-    "id": "cd1bb4bd-176e-4875-8a87-176ed81ee507",
+    "id": "b6de8940-a57a-4d7a-8a68-ce8805727044",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea's KOSPI stock market halted after 8% crash, triggering circuit breaker.@WatcherGuru",
@@ -200,7 +250,7 @@
     "created_at": "2026-07-28T01:04:49.000Z"
   },
   {
-    "id": "9b6a0d24-d2d6-4594-9466-9e42ac33820e",
+    "id": "d36f2869-7405-497c-9a6a-f506ebcb569f",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Senator Jon Husted has backed the CLARITY Act, saying he will work to pass it \"as soon as possible.\"",
@@ -210,7 +260,7 @@
     "created_at": "2026-07-28T00:55:06+00:00"
   },
   {
-    "id": "75e341e3-df63-40f8-b133-85b81685c61b",
+    "id": "590b4040-d752-45a3-8c23-15a9ea78c4bf",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea's KOSPI stock market crashes over 7.5%.@WatcherGuru",
@@ -330,7 +380,7 @@
     "created_at": "2026-07-27T22:55:44.000Z"
   },
   {
-    "id": "192a40f4-7d21-4722-a9f7-476721547045",
+    "id": "81e05673-5463-4431-b1f1-5443bd3c6188",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Bitcoin falls back under $64,000 as $100 million is liquidated from the crypto market in the past 60 minutes.@WatcherGuru",
@@ -398,45 +448,5 @@
     "url": "https://trumpstruth.org/statuses/40320",
     "author": "Trump Truth",
     "created_at": "2026-07-27T21:52:33.000Z"
-  },
-  {
-    "id": "0ecb5c4a-e49f-488b-ae28-5e37f4e6d7e6",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Franklin Templeton Joins Blackrock, Fidelity, Goldman Sachs in Backing CLARITY Act",
-    "summary": "1. Franklin Templeton has joined Blackrock, Fidelity, and Goldman Sachs in supporting the CLARITY Act, strengthening Wall Street’s push for federal crypto rules as senators review updated legislation before a potential floor vote.\n2. Franklin Templeton Adds to Wall Street’s CLARITY Act Support Financial giant Franklin Templeton, a subsidiary of Franklin Resources Inc.\n3. (NYSE: BEN), announced its […]",
-    "url": "https://news.bitcoin.com/franklin-templeton-joins-blackrock-fidelity-goldman-sachs-in-backing-clarity-act/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-27T21:45:44.000Z"
-  },
-  {
-    "id": "2b26f254-98b6-4141-9e28-b95708ded60e",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 $1.8 trillion asset manager Franklin Templeton calls on US Senate to pass the crypto Clarity Act.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#4aee4b5f",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-27T21:30:12+00:00"
-  },
-  {
-    "id": "db1065fa-d1ca-49a2-b008-10312c696486",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡ Michael Saylor says Strategy will not issue STRC below $100, with buybacks funded through MSTR share sales and, depending on market conditions, Bitcoin sales.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#755b8ed6",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-27T21:30:09+00:00"
-  },
-  {
-    "id": "40612c05-5101-4106-8b5d-afbb00ad0a94",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "summary": "1. Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "author": "Julie Bort",
-    "created_at": "2026-07-27T21:17:11.000Z"
   }
 ]
