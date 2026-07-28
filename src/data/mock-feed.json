@@ -1,6 +1,106 @@
 [
   {
-    "id": "e25b106c-bc9f-40a4-a6af-50a8f5c77d64",
+    "id": "953f655c-3105-43f4-bf54-a39a29515b3f",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Robinhood Chain TVL tops $600M",
+    "summary": "Total value locked in apps built on Robinhood Chain has surpassed $600 million, rising about 50% over the past week, Cointelegraph reported, citing Token Terminal data.",
+    "url": "https://t.me/CoinnessGL#d02602e6",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T05:45:34+00:00"
+  },
+  {
+    "id": "eb6f57ef-d718-4490-b8ab-f8f43b9f5b50",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ratio CEO Says Multi-Currency Stablecoins Could Eliminate Costly FX Conversions Across Asia",
+    "summary": "1. Global trade still relies on outdated correspondent banking networks, pre-funded Nostro/Vostro accounts, and time-zone mismatches that cause multiday delays.\n2. Industry leader John Cho advocates for a multi-currency stablecoin ecosystem where local currency stablecoins complement USD stablecoins to prevent double foreign exchange conversions.\n3. The Friction of Foreign-Exchange Overhead For decades, the global financial plumbing that powers […]",
+    "url": "https://news.bitcoin.com/ratio-ceo-says-multi-currency-stablecoins-could-eliminate-costly-fx-conversions-across-asia/",
+    "author": "Terence Zimwara",
+    "created_at": "2026-07-28T05:30:57.000Z"
+  },
+  {
+    "id": "9aaaa5dc-eb4a-45c3-8b5f-2cfe63b4a345",
+    "source": "The Block",
+    "type": "rss",
+    "title": "What Is KuCoin?",
+    "summary": "1. KuCoin is a global cryptocurrency exchange where users can trade, earn, spend, and manage digital assets.\n2. Founded in 2017, the platform is now one of the most popular CEXs, serving more than 45 million users across over 200 countries and regions.\n3. These range from first-time crypto users and active retail traders to professional and institutional […]",
+    "url": "https://www.theblock.co/learn/409571/what-is-kucoin?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-07-28T05:14:22.000Z"
+  },
+  {
+    "id": "5fc17498-792a-4e6a-bd85-64ff162841a1",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡ Fanatics agreed to acquire a CFTC-regulated exchange and clearinghouse from BGC Group, allowing it to operate its own federally regulated prediction market platform.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#0c31faf3",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-28T05:10:07+00:00"
+  },
+  {
+    "id": "df9ec8d2-6c7f-463e-8a5e-dbc7f47ca059",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to temporarily suspend NEO and GAS deposits, withdrawals on July 31",
+    "summary": "South Korean exchange Bithumb announced it will temporarily suspend deposits and withdrawals for NEO and GAS at 9:00 a.m. UTC on July 31 to support the NEO network's mainnet upgrade.",
+    "url": "https://t.me/CoinnessGL#62796985",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T05:01:40+00:00"
+  },
+  {
+    "id": "935a9f56-1dd5-45d2-9031-00a5eeb35d04",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Spot CVD chart at 2:00 p.m. UTC on July 28",
+    "summary": "Spot CVD is an order book analysis chart for the BTC/USDT spot trading pair. The upper section shows the volume heatmap, while the lower section represents cumulative volume delta, or CVD.- The volume heatmap in the upper section tracks trading volume at each price level, and the background color becomes brighter when the price stays in a specific range for an extended period or makes a large move. Areas closer to bright colors may act as support or resistance.- The cumulative volume delta indicator in the lower section reflects buy and sell orders by capital size, and the line for each color rises as buy orders increase. The yellow line represents $100 to $1,000 orders, while the brown line represents large orders worth $1 million to $10 million.",
+    "url": "https://t.me/CoinnessGL#14082816",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T05:00:17+00:00"
+  },
+  {
+    "id": "33eb66bb-1374-4ac1-b8b9-72169f610187",
+    "source": "CoinDesk",
+    "type": "rss",
+    "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+    "summary": "1. Bitcoin slides 2% after U.S.\n2. close while Korea’s Kospi plunges 10%",
+    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+    "author": "Omkar Godbole",
+    "created_at": "2026-07-28T04:32:39.000Z"
+  },
+  {
+    "id": "9674754f-e991-478c-a169-d6211e1ec36a",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "Ocean Infinity Spent 151 Days at Sea Hunting MH370. In 2026 It Came Back Empty Again",
+    "summary": "1. Ocean Infinity says it has now spent 151 days at sea searching for Malaysia Airlines Flight MH370 since joining the hunt in 2018, mapping more than 140,000 square kilometers of seafloor before leaving the latest search area on January 23, 2026.\n2. Malaysia’s AAIB told families on March 8, 2026, that the renewed March 2025 to […]",
+    "url": "https://news.bitcoin.com/ocean-infinity-spent-151-days-at-sea-hunting-mh370-in-2026-it-came-back-empty-again-49201/",
+    "author": "Guest Author",
+    "created_at": "2026-07-28T04:30:56.000Z"
+  },
+  {
+    "id": "e495346e-093b-4928-9600-c717a9277b5b",
+    "source": "TechCrunch",
+    "type": "rss",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "summary": "1. Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "author": "Jagmeet Singh",
+    "created_at": "2026-07-28T04:30:00.000Z"
+  },
+  {
+    "id": "5f674ec1-9de3-4a41-88ec-7b470d0e35de",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "US judge temporarily blocks Minnesota prediction market ban ",
+    "summary": "1. The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
+    "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-28T04:28:10.000Z"
+  },
+  {
+    "id": "b3d8c361-ea60-49a8-b7e0-9305bd0e36e7",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Senator Dave McCormick called on Senate leaders to bring the CLARITY Act to a floor vote, saying \"the time for delay is over\" and that every senator should go on the record with their vote.",
@@ -120,7 +220,7 @@
     "created_at": "2026-07-28T02:21:04.000Z"
   },
   {
-    "id": "334732f3-31f9-4513-b163-236432e22f23",
+    "id": "c98d586f-8e3f-4bd1-b14d-ec19fd017a45",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡️ Securitize subsidiary Securitize Capital has registered with the SEC as an investment adviser, adding to Securitize's existing broker-dealer, ATS, and transfer agent registrations.",
@@ -190,7 +290,7 @@
     "created_at": "2026-07-28T01:19:06+00:00"
   },
   {
-    "id": "b6de8940-a57a-4d7a-8a68-ce8805727044",
+    "id": "7b4d6f38-1e3a-4304-a9c2-d29b139f7452",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea's KOSPI stock market halted after 8% crash, triggering circuit breaker.@WatcherGuru",
@@ -260,7 +360,7 @@
     "created_at": "2026-07-28T00:55:06+00:00"
   },
   {
-    "id": "590b4040-d752-45a3-8c23-15a9ea78c4bf",
+    "id": "41520079-672f-4905-84cb-41702e0639b1",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea's KOSPI stock market crashes over 7.5%.@WatcherGuru",
@@ -338,115 +438,5 @@
     "url": "https://trumpstruth.org/statuses/40338",
     "author": "Trump Truth",
     "created_at": "2026-07-27T23:47:50.000Z"
-  },
-  {
-    "id": "9b0d051f-ad69-491f-b158-153c306295e5",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
-    "summary": "1. A federal judge ruled that Minnesota's law criminalizing prediction markets would probably violate the federal Commodity Exchange Act.",
-    "url": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
-    "author": "Nikhilesh De",
-    "created_at": "2026-07-27T23:29:38.000Z"
-  },
-  {
-    "id": "9c07585f-0716-41e7-8061-da03474d3174",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "🇺🇸 Franklin Templeton has come out in support of the CLARITY Act, saying the bill would give investors clear protections and tell firms which regulators they answer to.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#430ae971",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-27T23:20:07+00:00"
-  },
-  {
-    "id": "38b5e76e-5ea2-4bb5-a405-b4ebe46ac3a8",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
-    "summary": "1. The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-    "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-27T23:00:04.000Z"
-  },
-  {
-    "id": "2b42e881-2e9d-4022-ac30-46c7b0a980e4",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-    "summary": "1. New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
-    "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Ezra Reguerra",
-    "created_at": "2026-07-27T22:55:44.000Z"
-  },
-  {
-    "id": "81e05673-5463-4431-b1f1-5443bd3c6188",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "Bitcoin falls back under $64,000 as $100 million is liquidated from the crypto market in the past 60 minutes.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#6a8967ee",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-27T22:54:37+00:00"
-  },
-  {
-    "id": "0eaa0ddc-767b-4979-b772-345ae435bcbf",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
-    "summary": "1. Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
-    "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-27T22:31:03.000Z"
-  },
-  {
-    "id": "7ceab569-7615-46a7-bac7-f21948d89786",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "⚡️ Circle acquired IBM's blockchain patent portfolio, with over 680 patent families and nearly 1,000 issued patents, which it says makes it the largest blockchain patent holder in the US.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#f4b7e066",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-27T22:10:07+00:00"
-  },
-  {
-    "id": "9d0b68c7-9784-4db3-b539-d2ba910dd5f1",
-    "source": "@WatcherGuru",
-    "type": "telegram",
-    "title": "🇺🇸 Citadel Securities expects the Federal Reserve to raise interest rates this week in a surprise move.@WatcherGuru",
-    "summary": "",
-    "url": "https://t.me/WatcherGuru#3dab0171",
-    "author": "@WatcherGuru",
-    "created_at": "2026-07-27T22:04:58+00:00"
-  },
-  {
-    "id": "cd953f70-a9c3-4d5d-a3d4-cf98deb848c8",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Franklin Templeton backs passage of the CLARITY Act",
-    "summary": "Global asset manager Franklin Templeton said on its official X account it supports passage of the CLARITY Act. Franklin Templeton added \"CLARITY will clarify how crypto is regulated. Investors will know what protections apply, and businesses will know which regulators oversee crypto. It is now time to provide the clarity the crypto industry needs.\"",
-    "url": "https://t.me/CoinnessGL#361b8b51",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T22:01:16+00:00"
-  },
-  {
-    "id": "aa7f4dfa-dc20-4ab9-a221-de33a8915e84",
-    "source": "The Block",
-    "type": "rss",
-    "title": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
-    "summary": "1. The NFL responded to the CFTC’s recent draft rulemaking calling for stricter prediction markets oversight, including age restrictions.",
-    "url": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss",
-    "author": "Daniel Kuhn",
-    "created_at": "2026-07-27T21:57:24.000Z"
-  },
-  {
-    "id": "ece0dd84-b1bf-467c-bf08-dcdf2cfd8861",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. BREAKING NEWS: The Failing New York Times, after 10 years of harassment, slander, and libel, just failed again in their desperate attempt to have our powerful Defamation Lawsuit against them dropped.\n2. As we requested, the Highly Respected Judge has called for an updated complaint, which will lay out, in extreme detail, all the ways in which The Times has repeatedly and consistently acted, with actual malice in defaming me, my family, our Great MAGA Movement, and America, itself.\n3. We will continue to hold The Times and their “comrades” in the Mainstream Media accountable for publishing, promoting, and dealing in Fake News.",
-    "url": "https://trumpstruth.org/statuses/40320",
-    "author": "Trump Truth",
-    "created_at": "2026-07-27T21:52:33.000Z"
   }
 ]
