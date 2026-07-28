@@ -1,5 +1,105 @@
 [
   {
+    "id": "d36f59aa-7233-4590-99dd-bcc1c5774d30",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "summary": "1. eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year.\n2. Neither company disclosed the investment size.",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-28T03:15:03.000Z"
+  },
+  {
+    "id": "c7dfbd6c-96b9-42a8-af6e-88eae38b2ee0",
+    "source": "The Defiant",
+    "type": "rss",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "summary": "1. NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners.\n2. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "author": "The Defiant Team",
+    "created_at": "2026-07-28T03:15:03.000Z"
+  },
+  {
+    "id": "2a373bc3-417b-4ad3-9e61-dff246ea670b",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Bithumb to list O on KRW market",
+    "summary": "South Korean exchange Bithumb announced the addition of O to its KRW market at 5:00 a.m. UTC today. more:",
+    "url": "https://t.me/CoinnessGL#c259e3b2",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T03:07:41+00:00"
+  },
+  {
+    "id": "725663a2-2dee-4d17-b1bc-26c4fed1618c",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "Circuit breaker triggered on Kosdaq after KOSPI slide",
+    "summary": "South Korea’s exchange operator triggered a circuit breaker after the Kosdaq fell more than 8%, following a similar move in the KOSPI.A circuit breaker temporarily halts trading during sharp declines in the KOSPI and Kosdaq markets and operates in three stages. A first-stage circuit breaker is triggered when a drop of more than 8% is sustained for one minute, suspending trading for about 20 minutes.",
+    "url": "https://t.me/CoinnessGL#37aea8f0",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T03:07:04+00:00"
+  },
+  {
+    "id": "d85dff90-a83c-42a5-802c-c6e563f9a6a7",
+    "source": "@CoinnessGL",
+    "type": "telegram",
+    "title": "24-hour crypto futures liquidations",
+    "summary": "The following shows estimated liquidation volumes and position ratios for major crypto perpetual futures over the past 24 hours:- BTC: $157.53 million liquidated (84.88% longs)- ETH: $131.53 million liquidated (61.12% longs)- SOL: $18.93 million liquidated (83.35% longs)",
+    "url": "https://t.me/CoinnessGL#ca825c6a",
+    "author": "@CoinnessGL",
+    "created_at": "2026-07-28T03:05:21+00:00"
+  },
+  {
+    "id": "09d1ca78-c046-41bf-87b4-69f61700d4e9",
+    "source": "Bitcoin.com",
+    "type": "rss",
+    "title": "The CLARITY Act Is at the One-Yard Line: Coinbase Says ‘It’s Time to Get It Over the Finish Line’",
+    "summary": "1. Coinbase CEO Brian Armstrong intensified pressure for a Senate vote, portraying the CLARITY Act as a bipartisan breakthrough that could strengthen consumer protections, law enforcement authority, and American leadership in digital assets.\n2. Armstrong Urges Senate to Advance the CLARITY Act Crypto exchange Coinbase (Nasdaq: COIN) CEO Brian Armstrong urged lawmakers in an X post on […]",
+    "url": "https://news.bitcoin.com/the-clarity-act-is-at-the-one-yard-line-coinbase-says-its-time-to-get-it-over-the-finish-line/",
+    "author": "Kevin Helms",
+    "created_at": "2026-07-28T02:30:30.000Z"
+  },
+  {
+    "id": "8d04654b-435a-425e-ad3e-5a78c3357253",
+    "source": "CoinTelegraph",
+    "type": "rss",
+    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+    "summary": "1. The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
+    "url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Cointelegraph by Ezra Reguerra",
+    "created_at": "2026-07-28T02:21:04.000Z"
+  },
+  {
+    "id": "858bbddc-bd27-46d1-be0f-0bf3e907d940",
+    "source": "@CoinMarketCapAnnouncements",
+    "type": "telegram",
+    "title": "⚡️ Securitize subsidiary Securitize Capital has registered with the SEC as an investment adviser, adding to Securitize's existing broker-dealer, ATS, and transfer agent registrations.",
+    "summary": "",
+    "url": "https://t.me/CoinMarketCapAnnouncements#051010ae",
+    "author": "@CoinMarketCapAnnouncements",
+    "created_at": "2026-07-28T02:20:07+00:00"
+  },
+  {
+    "id": "87c2ccdb-e406-407c-b045-91bd2ba057c8",
+    "source": "Trump Truth",
+    "type": "rss",
+    "title": "New post from Donald Trump",
+    "summary": "1. Confirm Todd Blanche without delay:",
+    "url": "https://trumpstruth.org/statuses/40340",
+    "author": "Trump Truth",
+    "created_at": "2026-07-28T02:00:56.000Z"
+  },
+  {
+    "id": "d1cbf676-db31-4538-b8ea-30b149ca3e6a",
+    "source": "The Block",
+    "type": "rss",
+    "title": "What Is a Digital Commodity?",
+    "summary": "1. A digital commodity is an onchain asset that draws its value from open-market supply and demand rather than from the work of a company or central issuer.\n2. Assets in this category are freely transferable and traded on public markets, which makes them behave more like traditional commodities such as gold than like a share of […]",
+    "url": "https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&utm_medium=rss",
+    "author": "The Block Research",
+    "created_at": "2026-07-28T01:55:46.000Z"
+  },
+  {
     "id": "d23d8fda-c701-4e86-b530-839bee366cfe",
     "source": "The Defiant",
     "type": "rss",
@@ -40,7 +140,7 @@
     "created_at": "2026-07-28T01:19:06+00:00"
   },
   {
-    "id": "42771277-af51-41a2-9d57-93ac4b0af7a2",
+    "id": "cd1bb4bd-176e-4875-8a87-176ed81ee507",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea's KOSPI stock market halted after 8% crash, triggering circuit breaker.@WatcherGuru",
@@ -100,7 +200,7 @@
     "created_at": "2026-07-28T01:04:49.000Z"
   },
   {
-    "id": "d7a9c152-e56c-4174-8e6b-f5b43f8e0fdf",
+    "id": "9b6a0d24-d2d6-4594-9466-9e42ac33820e",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "🇺🇸 Senator Jon Husted has backed the CLARITY Act, saying he will work to pass it \"as soon as possible.\"",
@@ -110,7 +210,7 @@
     "created_at": "2026-07-28T00:55:06+00:00"
   },
   {
-    "id": "6cd3adbc-9876-4520-afe8-6de47b7e561d",
+    "id": "75e341e3-df63-40f8-b133-85b81685c61b",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "🇰🇷 South Korea's KOSPI stock market crashes over 7.5%.@WatcherGuru",
@@ -140,7 +240,7 @@
     "created_at": "2026-07-28T00:13:33.000Z"
   },
   {
-    "id": "23075272-1a15-40fa-9543-5d5e65c427b9",
+    "id": "6526927d-7482-4800-a810-2ee37687b758",
     "source": "@CoinMarketCapAnnouncements",
     "type": "telegram",
     "title": "⚡ Lido has begun consolidating $16.5B in staked Ethereum, a move expected to cut the network’s validator count by a third and introduce bonds for professional node operators.",
@@ -230,7 +330,7 @@
     "created_at": "2026-07-27T22:55:44.000Z"
   },
   {
-    "id": "8404650f-e9aa-4471-a07a-541b964ba3f3",
+    "id": "192a40f4-7d21-4722-a9f7-476721547045",
     "source": "@WatcherGuru",
     "type": "telegram",
     "title": "Bitcoin falls back under $64,000 as $100 million is liquidated from the crypto market in the past 60 minutes.@WatcherGuru",
@@ -338,165 +438,5 @@
     "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "author": "Julie Bort",
     "created_at": "2026-07-27T21:17:11.000Z"
-  },
-  {
-    "id": "e207c58a-5c2b-4a05-9282-4dbf4e063c3c",
-    "source": "CoinTelegraph",
-    "type": "rss",
-    "title": "Cross River to enable P2P payments, banking services for X Money",
-    "summary": "1. The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.",
-    "url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Cointelegraph by Nate Kostar",
-    "created_at": "2026-07-27T21:05:05.000Z"
-  },
-  {
-    "id": "f73338ae-c8a8-4734-aef0-453de36bf6e0",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-    "summary": "1. A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
-    "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-27T21:05:05.000Z"
-  },
-  {
-    "id": "96ff50d7-3058-46b6-9bf7-18318635a520",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Blackrock Backs the CLARITY Act — Congress Is Running Out of Time to Pass It",
-    "summary": "1. Blackrock, the world’s largest asset manager, backed the CLARITY Act as the Senate races against its legislative calendar, putting Wall Street’s support behind the landmark crypto market structure bill as lawmakers face mounting pressure to advance it.\n2. Blackrock Adds Wall Street Pressure Congress is running out of time to pass the CLARITY Act as the […]",
-    "url": "https://news.bitcoin.com/blackrock-backs-the-clarity-act-congress-is-running-out-of-time-to-pass-it/",
-    "author": "Kevin Helms",
-    "created_at": "2026-07-27T21:01:53.000Z"
-  },
-  {
-    "id": "b67a157c-9735-4c4b-ab2c-59630f56c2c5",
-    "source": "@CoinMarketCapAnnouncements",
-    "type": "telegram",
-    "title": "📊 Bitcoin ETFs posted a third straight week of inflows last week, netting $33.79M even after shedding $465M over Thursday and Friday.",
-    "summary": "",
-    "url": "https://t.me/CoinMarketCapAnnouncements#6828ca52",
-    "author": "@CoinMarketCapAnnouncements",
-    "created_at": "2026-07-27T20:55:06+00:00"
-  },
-  {
-    "id": "6939a1be-a3c8-4772-8c0b-1f24f2b4e5cb",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
-    "summary": "1. Prediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
-    "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
-    "author": "Jose Antonio Lanz",
-    "created_at": "2026-07-27T20:43:16.000Z"
-  },
-  {
-    "id": "92434086-62f4-4790-9175-b3a4b114cae1",
-    "source": "Bitcoin Magazine",
-    "type": "rss",
-    "title": "Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”",
-    "summary": "1. Bitcoin Magazine\n\nCoinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”\nCoinbase Chief Policy Officer Faryar Shirzad said it's time for Democrats and Republicans to vote on the Clarity Act.\n2. This post Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan” first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "url": "https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity",
-    "author": "Mathew Di Salvo",
-    "created_at": "2026-07-27T20:43:13.000Z"
-  },
-  {
-    "id": "c2f8d360-1b7e-4952-adc6-b4e181a311fa",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-    "summary": "1. Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
-    "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-    "author": "Tim De Chant",
-    "created_at": "2026-07-27T20:40:12.000Z"
-  },
-  {
-    "id": "6fb4b6a3-5357-43f7-a180-deba1ed901e2",
-    "source": "TechCrunch",
-    "type": "rss",
-    "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-    "summary": "1. The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
-    "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
-    "author": "Lauren Forristal",
-    "created_at": "2026-07-27T20:40:00.000Z"
-  },
-  {
-    "id": "d93b237a-52e9-4e28-89b5-b908712c17d8",
-    "source": "The Block",
-    "type": "rss",
-    "title": "NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts",
-    "summary": "1. NYAG Letitia James urged Congress to tighten a crypto bill, warning that it would weaken states' ability to police the industry.",
-    "url": "https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss",
-    "author": "Sarah Wynn",
-    "created_at": "2026-07-27T20:31:57.000Z"
-  },
-  {
-    "id": "5a3f24b2-5a8f-40e3-8609-603bdfc07596",
-    "source": "Trump Truth",
-    "type": "rss",
-    "title": "New post from Donald Trump",
-    "summary": "1. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do:",
-    "url": "https://trumpstruth.org/statuses/40310",
-    "author": "Trump Truth",
-    "created_at": "2026-07-27T20:24:29.000Z"
-  },
-  {
-    "id": "529c6398-95e0-4d2f-b6a8-bd49d600429f",
-    "source": "Bitcoin.com",
-    "type": "rss",
-    "title": "Pennsylvania Bill Could Shut Sportsbooks Out of Prediction-Market Making",
-    "summary": "1. A bipartisan Pennsylvania bill would impose insider-trading rules and consumer protections on prediction markets while blocking gambling companies from supplying their liquidity.\n2. The restriction could disrupt market-making strategies pursued by Draftkings, Flutter and other sportsbook groups expanding into federally regulated event contracts.\n3. A liquidity restriction aimed at gambling companies A bipartisan group of Pennsylvania lawmakers […]",
-    "url": "https://news.bitcoin.com/pennsylvania-bill-could-shut-sportsbooks-out-of-prediction-market-making/",
-    "author": "Luci Kelemen",
-    "created_at": "2026-07-27T20:22:08.000Z"
-  },
-  {
-    "id": "8f974ff8-4f34-4e2d-ae65-fff0ef5ca82e",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "Apple sued after fake BTC wallet app caused $1.8M in losses",
-    "summary": "Apple users filed a lawsuit in a California district court, alleging Apple failed to effectively block fraudulent crypto apps on the App Store. According to TechCrunch, the plaintiffs claimed gaps in Apple’s app review and security screening systems led them to download a fake cryptocurrency wallet app and suffer combined losses of about $1.8 million.The app allegedly impersonated Sparrow Wallet, while the real Sparrow Wallet is known not to offer an iOS app. Apple said impersonation apps violate its policies and are removed as soon as they are discovered, adding that the fake app in question is no longer available.",
-    "url": "https://t.me/CoinnessGL#44e1ed5d",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T20:13:15+00:00"
-  },
-  {
-    "id": "e2184d92-e5a2-4db8-851d-6c6f61aaf2b6",
-    "source": "@SolidIntelX",
-    "type": "telegram",
-    "title": "INTEL: Crypto dealmaking collapses to a multi-year low, with just 44 deals announced in JulyData: Blockworks ResearchTwitter",
-    "summary": "",
-    "url": "https://t.me/SolidIntelX#199b9721",
-    "author": "@SolidIntelX",
-    "created_at": "2026-07-27T20:11:38+00:00"
-  },
-  {
-    "id": "505c1927-7ec8-41cd-9647-3aac63f66f92",
-    "source": "Decrypt",
-    "type": "rss",
-    "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
-    "summary": "1. A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for cryptocurrency wallet recovery phrases after infiltrating Apple's App Store and Google Play.",
-    "url": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
-    "author": "Jason Nelson",
-    "created_at": "2026-07-27T20:09:57.000Z"
-  },
-  {
-    "id": "2454a7d5-e08d-421c-9f3b-b1cd21fb8c18",
-    "source": "@CoinnessGL",
-    "type": "telegram",
-    "title": "US stocks close mixed",
-    "summary": "The three major U.S. stock indices closed mixed today.- S&P 500: +0.02%- Nasdaq: -0.18%- Dow Jones: +0.51%",
-    "url": "https://t.me/CoinnessGL#5ae91592",
-    "author": "@CoinnessGL",
-    "created_at": "2026-07-27T20:01:02+00:00"
-  },
-  {
-    "id": "7f5de956-a714-4e25-8d99-c8b5cad23fb3",
-    "source": "CoinDesk",
-    "type": "rss",
-    "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
-    "summary": "1. BTC held near $65,000 even as Nvidia and AI stocks fell sharply.\n2. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.",
-    "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
-    "author": "Krisztian Sandor",
-    "created_at": "2026-07-27T19:55:45.000Z"
   }
 ]
